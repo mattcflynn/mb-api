@@ -1,0 +1,658 @@
+item_id,name,category,is_breakfast,is_drink,serving_weight_grams,calories,fat_calories,total_fat,saturated_fat,trans_fat,polyunsaturated_fat,monounsaturated_fat,cholesterol,sodium,total_carb,fibers,sugars,protein
+166711,Breakfast Crunchwrap - Bacon,INM Breakfast,1,0,206.95,667.74,319.11,40.3,13.23,0.2,10.33,15.77,140.53,1303.32,52.07,3.77,2.71,20.65
+166712,Breakfast California Crunchwrap - Bacon,INM Breakfast,1,0,229.63,635.45,292.77,37.7,12.37,0.21,8.29,16.37,137.04,1331.73,53.29,4.64,2.96,20.85
+166715,Breakfast Crunchwrap - Steak,INM Breakfast,1,0,229.63,664.04,298.31,37.99,12.5,0.2,9.72,14.75,145.86,1348.98,53.09,3.89,3.16,23.9
+166716,Bean Burrito,Veggie Cravings,0,0,189.9,359.97,81.42,10.4,4.27,0.05,4.01,1.94,7.08,1084.4,53.76,8.49,3.11,12.88
+166718,Beefy 5-Layer Burrito,Burritos,0,0,222.54,490.89,156.59,18.14,7.56,0.26,4.75,5.19,27.91,1288.97,64.6,7.36,4.1,17.32
+166722,Black Beans & Rice,Veggie Cravings,0,0,116.23,157.62,41.03,4.56,0.42,0.0,1.07,3.06,0.0,368.23,24.97,4.95,0.65,4.18
+166727,Burrito Supreme&reg; - Beef,INM Burritos,0,0,232.47,393.0,119.85,14.1,6.52,0.26,3.34,3.74,27.51,1164.48,51.09,7.45,3.96,15.68
+166728,Burrito Supreme&reg; - Chicken,INM Burritos,0,0,229.63,369.47,92.05,11.01,5.03,0.09,3.31,2.32,37.58,1156.58,48.7,6.11,3.96,19.13
+166729,Fresco Burrito Supreme&reg; - Chicken,Fresco Menu (OLD),0,0,208.37,323.58,61.38,7.65,2.75,0.0,3.19,1.53,26.84,1098.58,46.77,5.9,3.42,17.15
+166730,Burrito Supreme&reg; - Steak,INM Burritos,0,0,226.8,379.88,103.18,12.25,5.65,0.09,3.2,3.01,31.8,1177.23,49.09,5.92,4.66,18.57
+166731,Fresco Burrito Supreme&reg; - Steak,Fresco Menu (OLD),0,0,205.53,333.99,72.5,8.89,3.37,0.0,3.08,2.22,21.06,1119.24,47.16,5.71,4.12,16.59
+166734,Veggie Bowl,Veggie Cravings,0,0,294.83,414.82,179.39,20.13,5.66,0.17,4.93,9.05,20.25,847.66,46.77,11.16,3.13,11.94
+166739,Chalupa Supreme&reg; - Beef,INM Tacos,0,0,146.0,355.0,181.18,20.11,5.39,0.26,4.11,9.99,25.99,577.81,31.45,4.26,3.44,12.26
+166740,Chalupa Supreme&reg; - Chicken,INM Tacos,0,0,143.16,331.47,153.38,17.02,3.89,0.09,4.08,8.57,36.06,569.9,29.07,2.91,3.44,15.71
+166741,Chalupa Supreme&reg; - Steak,INM Tacos,0,0,140.33,341.88,164.5,18.25,4.51,0.09,3.97,9.27,30.28,590.56,29.45,2.72,4.14,15.15
+166742,Cheese Quesadilla,Veggie Cravings,0,0,138.91,469.11,219.86,24.46,12.94,0.36,5.52,4.55,48.0,995.96,40.53,2.64,3.38,18.17
+166743,Cheesy Roll Up,Veggie Cravings,0,0,56.7,179.27,77.59,8.63,5.54,0.17,1.06,1.49,22.25,431.52,16.91,1.06,1.3,8.48
+166744,Cheesy Bean & Rice Burrito,Veggie Cravings,0,0,181.44,421.26,143.89,16.62,4.27,0.01,6.94,4.83,3.94,941.62,54.9,5.61,3.29,9.48
+166751,Cheesy Fiesta Potatoes (V),Sides & Sweets,0,0,119.07,238.4,114.74,12.59,1.77,0.04,2.49,7.93,4.1,522.21,28.11,2.56,1.0,3.07
+166754,Cool Ranch&reg; Doritos&reg; Cheesy Gordita Crunch,Test Items,0,0,174.35,494.1,253.01,27.69,10.54,0.43,7.84,6.02,52.79,910.67,41.77,4.52,4.64,19.54
+166758,Quesadilla - Chicken,INM Quesadillas,0,0,178.6,513.93,229.27,25.5,13.31,0.36,5.74,4.97,74.78,1250.09,41.16,2.95,3.38,26.39
+166759,Soft Taco - Chicken,INM Tacos,0,0,89.3,159.57,46.5,5.23,2.69,0.05,1.11,1.25,33.81,496.27,16.06,1.32,1.08,12.17
+166761,Chips and Guacamole,Side Portions - Hidden,0,0,76.54,245.78,140.99,16.15,2.13,0.05,4.24,9.85,0.0,236.83,22.47,3.71,1.03,2.71
+166763,Chips and Nacho Cheese Sauce (V),Nachos,0,0,70.87,219.55,118.65,12.77,1.26,0.0,3.43,8.01,0.75,283.33,23.66,2.0,1.27,2.56
+166765,Cinnabon&reg; Delights&trade; (12 Pack - Serves 4),Veggie Cravings,0,0,207.52,1007.38,612.41,68.05,22.14,0.0,10.38,35.49,39.01,433.86,87.95,4.77,51.92,10.79
+166766,Cinnabon&reg; Delights&trade; (2 Pack),Veggie Cravings,0,0,34.59,167.9,102.07,11.34,3.69,0.0,1.73,5.91,6.5,72.31,14.66,0.8,8.65,1.8
+166768,Cinnamon Twists (V),Sides & Sweets,0,0,35.44,166.83,54.7,6.08,0.57,0.0,0.75,4.75,0.0,115.4,26.69,0.56,9.79,1.35
+166771,Crunchwrap Supreme&reg;,Specialties,0,0,257.89,534.82,181.26,20.22,6.63,0.22,6.36,6.45,21.29,1215.05,73.07,5.81,5.58,15.44
+166772,Crunchy Taco,Tacos,0,0,77.96,166.1,86.05,9.37,3.82,0.22,2.1,3.16,23.71,309.7,13.16,3.1,0.45,7.37
+166774,Crunchy Taco Supreme&reg;,Tacos,0,0,106.31,187.0,97.26,10.62,4.61,0.26,2.15,3.45,27.44,323.54,15.16,3.32,1.37,7.9
+166779,Nacho Cheese Doritos&reg; Locos Taco Supreme&reg;,Tacos,0,0,106.31,187.41,96.35,10.75,4.69,0.26,2.1,3.5,27.71,383.04,14.91,3.19,1.48,7.96
+166781,Nacho Cheese Doritos&reg; Locos Taco,Tacos,0,0,77.96,166.51,85.13,9.5,3.91,0.22,2.06,3.21,23.98,369.2,12.92,2.97,0.57,7.43
+166795,Fresco Soft Taco - Steak,Fresco Menu (OLD),0,0,93.55,145.01,38.16,4.35,1.82,0.0,0.93,1.44,21.02,472.77,16.51,1.14,2.16,10.15
+166804,Mexican Pizza,Specialties,0,0,212.62,531.44,249.4,28.18,8.4,0.35,5.94,13.17,38.92,1009.56,50.32,7.94,3.07,19.23
+166811,Doritos&reg; Cheesy Gordita Crunch - Nacho Cheese,Tacos,0,0,174.35,494.54,254.09,27.9,10.63,0.42,9.58,6.88,53.06,904.59,41.33,4.78,4.45,19.62
+166812,Nachos BellGrande&reg;,Nachos,0,0,300.5,734.65,343.23,38.54,6.33,0.22,10.07,21.88,21.55,1184.56,80.46,13.27,3.91,16.8
+166816,Pintos N Cheese,Veggie Cravings,0,0,121.9,172.15,50.59,6.71,3.17,0.09,2.1,1.24,11.11,687.28,18.97,6.75,1.08,8.97
+166835,Soft Taco,Tacos,0,0,92.14,183.1,74.3,8.32,4.18,0.22,1.14,2.68,23.74,504.18,18.44,2.67,1.08,8.71
+166837,Soft Taco Supreme&reg;,Tacos,0,0,120.49,204.01,85.52,9.56,4.97,0.26,1.19,2.96,27.47,518.02,20.44,2.88,2.0,9.25
+166840,Spicy Potato Soft Taco,Veggie Cravings,0,0,97.81,240.42,108.18,12.08,3.2,0.06,3.72,4.78,10.26,472.06,27.78,2.24,1.14,5.19
+166846,Quesadilla - Steak,INM Quesadillas,0,0,175.77,524.34,240.39,26.74,13.93,0.36,5.63,5.67,68.99,1270.74,41.55,2.76,4.08,25.83
+166878,Fountain Beverages (16 oz),Drinks,0,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+166879,Fountain Beverages (20 oz),Drinks,0,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+166880,Fountain Beverages (30 oz),Drinks,0,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+166945,Black Beans,Veggie Cravings,0,0,42.52,50.88,11.88,1.32,0.13,0.0,0.45,0.75,0.0,140.28,7.25,3.81,0.47,2.5
+166950,Hash Brown,Veggie Cravings,0,0,53.86,159.98,99.84,11.09,0.86,0.0,2.29,7.96,0.0,277.26,13.74,1.13,0.0,1.29
+166958,Breakfast Crunchwrap,Breakfast (Regional),1,0,206.95,667.74,319.11,40.3,13.23,0.2,10.33,15.77,140.53,1303.32,52.07,3.77,2.71,20.65
+166963,Burrito Supreme&reg;,Burritos,0,0,232.47,393.0,119.85,14.1,6.52,0.26,3.34,3.74,27.51,1164.48,51.09,7.45,3.96,15.68
+166970,Fresco Soft Taco - Beef,Fresco Menu (OLD),0,0,99.22,158.12,54.84,6.2,2.69,0.17,1.07,2.17,16.73,460.02,18.51,2.68,1.45,7.26
+166974,Quesadilla,Quesadillas,0,0,178.6,513.93,229.27,25.5,13.31,0.36,5.74,4.97,74.78,1250.09,41.16,2.95,3.38,26.39
+166975,Soft Taco - Beef,INM Tacos,0,0,92.14,183.1,74.3,8.32,4.18,0.22,1.14,2.68,23.74,504.18,18.44,2.67,1.08,8.71
+167044,Breakfast Beverages,Breakfast (Regional),1,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+167051,Cheesy Roll Up - Value Menu,Cravings Value Menu,0,0,56.7,179.27,77.59,8.63,5.54,0.17,1.06,1.49,22.25,431.52,16.91,1.06,1.3,8.48
+167052,Cheesy Bean & Rice Burrito - Value Menu,Cravings Value Menu,0,0,181.44,421.26,143.89,16.62,4.27,0.01,6.94,4.83,3.94,941.62,54.9,5.61,3.29,9.48
+167055,Spicy Potato Soft Taco - Value Menu,Cravings Value Menu,0,0,97.81,240.42,108.18,12.08,3.2,0.06,3.72,4.78,10.26,472.06,27.78,2.24,1.14,5.19
+167115,Fresco Crunchy Taco - Beef,Fresco Menu (OLD),0,0,85.05,141.11,66.59,7.26,2.33,0.17,2.03,2.66,16.7,265.54,13.23,3.12,0.82,5.92
+167116,Chili Cheese Burrito (regional),Burritos,0,0,153.09,376.29,150.44,16.79,9.26,0.4,2.55,4.2,38.93,971.0,41.05,3.82,2.13,15.24
+167161,Fresco Bean Burrito,Fresco Menu (OLD),0,0,196.99,334.99,61.96,8.29,2.78,0.0,3.94,1.43,0.07,1040.25,53.82,8.5,3.48,11.43
+167370,Cinnabon&reg; Delights&trade; (12 Pk - Serves 4) (V),Sides & Sweets,0,0,207.52,1007.38,612.41,68.05,22.14,0.0,10.38,35.49,39.01,433.86,87.95,4.77,51.92,10.79
+167371,Cinnabon&reg; Delights&trade; (2 Pk) (V),Sides & Sweets,0,0,34.59,167.9,102.07,11.34,3.69,0.0,1.73,5.91,6.5,72.31,14.66,0.8,8.65,1.8
+169300,Cinnabon&reg; Delights&trade; Coffee - Hot,Drinks,0,1,391.79,160.01,19.55,2.19,1.34,0.09,0.07,0.56,7.09,76.65,33.52,0.0,22.01,1.26
+169301,Cinnabon&reg; Delights&trade; Coffee - Iced,Drinks,0,1,505.19,158.87,19.55,2.17,1.34,0.09,0.07,0.54,7.09,83.42,33.52,0.0,22.01,1.12
+169302,Orange Juice,Drinks,0,1,294.6,140.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,20.0,33.0,0.5,28.0,2.0
+195503,Mtn Dew&reg; Baja Blast Freeze&trade; (16 oz),Drinks,0,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+195504,Mtn Dew&reg; Baja Blast Freeze&trade; (20 oz),Drinks,0,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+198433,Cheesy Double Beef Burrito,Burritos,0,0,252.31,564.0,191.46,25.42,9.64,0.48,3.96,10.89,48.69,1345.11,63.28,6.87,3.4,20.52
+200188,Triple Double Crunchwrap - Original,Test Items,0,0,334.43,701.14,267.33,29.62,9.21,0.39,9.02,10.3,38.36,1583.86,87.45,8.46,6.23,21.49
+200189,Triple Double Crunchwrap - Spicy,Test Items,0,0,348.61,775.87,340.39,37.74,10.46,0.41,13.8,12.0,46.43,1654.24,87.7,8.51,6.37,21.66
+205179,Nacho Crunch Double Stacked Taco,Test Items,0,0,133.24,317.6,123.28,15.51,5.08,0.22,3.74,6.25,24.11,611.33,34.22,4.38,1.78,10.38
+208068,Chips and Green Chile Queso,Test Items,0,0,87.88,220.86,111.28,12.27,3.57,0.0,2.3,6.53,14.92,399.87,22.64,2.25,0.73,5.05
+208069,Breakfast Quesadilla - Bacon,Breakfast (Regional),1,0,167.26,509.22,203.39,27.48,14.31,0.35,5.18,6.66,153.44,1263.36,40.25,2.52,3.21,25.23
+208070,Breakfast Quesadilla - Sausage,Breakfast (Regional),1,0,167.26,509.0,212.95,28.54,14.72,0.35,5.3,7.19,148.1,1133.16,40.38,2.66,3.06,22.64
+208071,Breakfast Quesadilla - Steak,Breakfast (Regional),1,0,189.94,505.52,182.58,25.17,13.58,0.35,4.57,5.64,158.77,1309.01,41.27,2.65,3.66,28.48
+216297,Loaded Taco Burrito,Test Items,0,0,188.52,477.25,183.83,24.73,7.83,0.29,7.45,8.54,33.77,883.97,50.29,4.97,3.59,13.57
+216629,Prosecco Sparkling Wine (350 mL),Cantina (INM Only),0,0,346.92,284.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,17.0,9.02,0.0,3.33,0.24
+216630,Vodka (80 proof),Cantina (INM Only),0,0,28.35,65.27,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+216631,Rum (80 proof),Cantina (INM Only),0,0,28.35,65.27,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+216632,Tequila (80 proof),Cantina (INM Only),0,0,28.35,65.27,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+216660,Mtn Dew&reg; Baja Blast Freeze&trade; (32 oz),LV Cantina (INM Only),0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+216671,Vodka (80 proof) - Single - LV,LV Cantina (INM Only),0,0,50.75,116.83,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+216672,Vodka (80 proof) - Double - LV,LV Cantina (INM Only),0,0,106.6,245.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+216673,Rum (80 proof) - Single - LV,LV Cantina (INM Only),0,0,50.75,116.83,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+216674,Rum (80 proof) - Double - LV,LV Cantina (INM Only),0,0,106.6,245.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+216675,Tequila (80 proof) - Single - LV,LV Cantina (INM Only),0,0,50.75,116.83,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+216676,Tequila (80 proof) - Double - LV,LV Cantina (INM Only),0,0,106.6,245.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+216677,Whiskey (80 proof) - Single - LV,LV Cantina (INM Only),0,0,50.75,116.83,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+216678,Whiskey (80 proof) - Double - LV,LV Cantina (INM Only),0,0,106.6,245.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+216679,Lowfat Milk - Federal (Regional),Drinks,0,1,198.45,84.97,17.86,1.98,1.25,0.06,0.08,0.58,10.08,97.66,10.08,0.0,9.47,6.71
+216680,Lowfat Milk - CA (Regional),Drinks,0,1,198.45,103.77,17.86,1.98,1.25,0.06,0.08,0.58,10.76,128.04,12.88,0.0,12.11,8.57
+216684,Red Wine (6.3 fl oz),Cantina (INM Only),0,0,185.22,157.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7.0,4.83,0.0,1.15,0.13
+216686,White Wine (6.3 fl oz),Cantina (INM Only),0,0,185.22,152.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,9.0,4.82,0.0,1.78,0.13
+217837,Water,Drinks,0,1,355.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.01,0.0,0.0,0.0,0.0
+242452,Stacker,Specialties,0,0,158.76,395.47,158.91,17.67,8.79,0.35,3.08,4.91,39.36,1073.28,42.42,3.77,2.9,16.7
+244189,Sour Cream (1.2 oz),Side Portions - Hidden,0,0,28.35,36.71,21.93,2.44,1.56,0.09,0.09,0.56,7.46,26.27,2.88,0.09,1.09,0.81
+244190,Guacamole (1.6 oz),Side Portions - Hidden,0,0,45.36,83.27,62.42,7.51,1.33,0.05,2.05,4.08,0.0,164.55,3.14,1.88,0.67,0.77
+244191,Pico De Gallo 1.5 oz,JSON only,0,0,42.52,8.08,0.0,0.0,0.0,0.0,0.0,0.0,0.0,78.52,1.89,0.91,1.22,0.13
+244192,Nacho Cheese Sauce (1.4 oz),Side Portions - Hidden,0,0,39.69,57.04,40.08,4.14,0.46,0.0,1.24,2.25,0.75,211.05,4.33,0.17,0.91,0.62
+244193,Jalapenos 0.75 oz,Side Portions - Hidden,0,0,21.26,6.29,0.0,0.0,0.0,0.0,0.0,0.0,0.0,319.9,1.25,1.04,0.21,0.32
+244195,Creamy Jalapeno Sauce 1.5 oz,Side Portions - Hidden,0,0,42.52,229.42,173.43,19.15,4.58,0.04,9.2,4.33,10.49,163.72,2.71,0.7,1.38,0.93
+244197,Spicy Ranch 1.5 oz,Side Portions - Hidden,0,0,42.52,214.83,203.24,22.58,3.67,0.07,13.04,4.79,20.58,193.91,2.04,0.16,1.25,0.85
+244198,Avocado Ranch Sauce 1.5 oz,Side Portions - Hidden,0,0,42.52,235.27,222.7,24.74,3.87,0.06,14.16,5.57,18.78,273.72,2.35,0.36,1.01,0.78
+252083,Green Apple Freeze&trade; (16 oz),Test Items,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+252084,Green Apple Freeze&trade; (20 oz),Test Items,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+258041,Red Sangria - LV,LV Cantina (INM Only),0,0,340.19,326.59,0.0,0.14,0.0,0.0,0.0,0.0,0.0,34.02,28.1,0.0,24.36,0.14
+270740,Blue Moon Belgian White (12 oz),"Cantina Beer, Wine and Spirits",0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+270741,Blue Point Big City Bells Pilsner (12 oz),"Cantina Beer, Wine and Spirits",0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+270742,Blue Point Toasted Lager (12 oz),"Cantina Beer, Wine and Spirits",0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+270744,Bud Light (12 oz),"Cantina Beer, Wine and Spirits",0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+270745,Budweiser (12 oz),"Cantina Beer, Wine and Spirits",0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+270746,Coors Light (12 oz),"Cantina Beer, Wine and Spirits",0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+270747,Coors (Coors Banquet) (12 oz),"Cantina Beer, Wine and Spirits",0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+270749,Corona Extra (12 oz),"Cantina Beer, Wine and Spirits",0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+270750,Dos Equis Mexican Pale Ale (12 oz),"Cantina Beer, Wine and Spirits",0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+270751,Firestone 805 (12 oz),"Cantina Beer, Wine and Spirits",0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+270753,Heineken (12 oz),"Cantina Beer, Wine and Spirits",0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+270754,Heineken Light (12 oz),"Cantina Beer, Wine and Spirits",0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+270756,Kona Big Wave Golden Ale (12 oz),"Cantina Beer, Wine and Spirits",0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+270757,Michelob Original Lager (12 oz),"Cantina Beer, Wine and Spirits",0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+270758,Michelob Ultra (12 oz),"Cantina Beer, Wine and Spirits",0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+270759,Miller Lite (12 oz),"Cantina Beer, Wine and Spirits",0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+270760,Miller Genuine Draft (12 oz),"Cantina Beer, Wine and Spirits",0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+270761,Miller High Life (12 oz),"Cantina Beer, Wine and Spirits",0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+270762,Modelo Especial (12 oz),"Cantina Beer, Wine and Spirits",0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+270763,Modelo Negra (12 oz),"Cantina Beer, Wine and Spirits",0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+270764,Motorworks Intellectual Property IPA (12 oz),"Cantina Beer, Wine and Spirits",0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+270765,Motorworks Pulp Fiction IPA (12 oz),"Cantina Beer, Wine and Spirits",0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+270766,Newcastle Brown Ale (12 oz),"Cantina Beer, Wine and Spirits",0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+270767,Road 2 Ruin Double IPA (12 oz),"Cantina Beer, Wine and Spirits",0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+270768,Sea Hag IPA (12 oz),"Cantina Beer, Wine and Spirits",0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+270769,Shock Top Belgian White (12 oz),"Cantina Beer, Wine and Spirits",0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+270770,Stella Artois (12 oz),"Cantina Beer, Wine and Spirits",0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+270771,Tecate Light (12 oz),"Cantina Beer, Wine and Spirits",0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+270772,Tecate Original (12 oz),"Cantina Beer, Wine and Spirits",0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+270773,Yuengling - Lager (12 oz),"Cantina Beer, Wine and Spirits",0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+270774,Yuengling - Light Lager (12 oz),"Cantina Beer, Wine and Spirits",0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+270775,Yuengling - Golden Pilsner (12 oz),"Cantina Beer, Wine and Spirits",0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+270776,Yuengling - Black and Tan (12 oz),"Cantina Beer, Wine and Spirits",0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+270777,Yuengling - Premium (12 oz),"Cantina Beer, Wine and Spirits",0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+270778,Yuengling - Premium Light (12 oz),"Cantina Beer, Wine and Spirits",0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+270779,Yuengling - Porter (12 oz),"Cantina Beer, Wine and Spirits",0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+270780,Beer - General (12 oz),"Cantina Beer, Wine and Spirits",0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+270782,Blue Moon Belgian White (16 oz),"Cantina Beer, Wine and Spirits",0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+270783,Blue Point Big City Bells Pilsner (16 oz),"Cantina Beer, Wine and Spirits",0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+270784,Blue Point Toasted Lager (16 oz),"Cantina Beer, Wine and Spirits",0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+270786,Bud Light (16 oz),"Cantina Beer, Wine and Spirits",0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+270787,Budweiser (16 oz),"Cantina Beer, Wine and Spirits",0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+270788,Coors Light (16 oz),"Cantina Beer, Wine and Spirits",0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+270789,Coors (Coors Banquet) (16 oz),"Cantina Beer, Wine and Spirits",0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+270791,Corona Extra (16 oz),"Cantina Beer, Wine and Spirits",0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+270792,Dos Equis Mexican Pale Ale (16 oz),"Cantina Beer, Wine and Spirits",0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+270793,Firestone 805 (16 oz),"Cantina Beer, Wine and Spirits",0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+270795,Heineken (16 oz),"Cantina Beer, Wine and Spirits",0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+270796,Heineken Light (16 oz),"Cantina Beer, Wine and Spirits",0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+270798,Kona Big Wave Golden Ale (16 oz),"Cantina Beer, Wine and Spirits",0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+270799,Michelob Original Lager (16 oz),"Cantina Beer, Wine and Spirits",0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+270800,Michelob Ultra (16 oz),"Cantina Beer, Wine and Spirits",0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+270801,Miller Lite (16 oz),"Cantina Beer, Wine and Spirits",0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+270802,Miller Genuine Draft (16 oz),"Cantina Beer, Wine and Spirits",0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+270803,Miller High Life (16 oz),"Cantina Beer, Wine and Spirits",0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+270804,Modelo Especial (16 oz),"Cantina Beer, Wine and Spirits",0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+270805,Modelo Negra (16 oz),"Cantina Beer, Wine and Spirits",0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+270806,Motorworks Intellectual Property IPA (16 oz),"Cantina Beer, Wine and Spirits",0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+270807,Motorworks Pulp Fiction IPA (16 oz),"Cantina Beer, Wine and Spirits",0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+270808,Newcastle Brown Ale (16 oz),"Cantina Beer, Wine and Spirits",0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+270809,Road 2 Ruin Double IPA (16 oz),"Cantina Beer, Wine and Spirits",0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+270810,Sea Hag IPA (16 oz),"Cantina Beer, Wine and Spirits",0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+270811,Shock Top Belgian White (16 oz),"Cantina Beer, Wine and Spirits",0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+270812,Stella Artois (16 oz),"Cantina Beer, Wine and Spirits",0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+270813,Tecate Light (16 oz),"Cantina Beer, Wine and Spirits",0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+270814,Tecate Original (16 oz),"Cantina Beer, Wine and Spirits",0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+270815,Yuengling - Lager (16 oz),"Cantina Beer, Wine and Spirits",0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+270816,Yuengling - Light Lager (16 oz),"Cantina Beer, Wine and Spirits",0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+270817,Yuengling - Golden Pilsner (16 oz),"Cantina Beer, Wine and Spirits",0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+270818,Yuengling - Black and Tan (16 oz),"Cantina Beer, Wine and Spirits",0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+270819,Yuengling - Premium (16 oz),"Cantina Beer, Wine and Spirits",0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+270820,Yuengling - Premium Light (16 oz),"Cantina Beer, Wine and Spirits",0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+270821,Yuengling - Porter (16 oz),"Cantina Beer, Wine and Spirits",0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+270822,Beer - General (16 oz),"Cantina Beer, Wine and Spirits",0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+272551,Loaded Steak and Jalape&ntilde;o Fries,Test Items,0,0,211.2,467.32,245.85,27.38,4.18,0.01,7.95,14.64,25.23,1424.21,39.18,5.05,2.65,12.51
+273297,Beach Bell Beer (12 oz),"Cantina Beer, Wine and Spirits",0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+273298,Beach Bell Beer (16 oz),"Cantina Beer, Wine and Spirits",0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+273299,Pacifico (12 oz),"Cantina Beer, Wine and Spirits",0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+273300,Pacifico (16 oz),"Cantina Beer, Wine and Spirits",0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+273380,Blue Point Hoptical Illusion IPA (12 oz),"Cantina Beer, Wine and Spirits",0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+273381,Blue Point Hoptical Illusion IPA (16 oz),"Cantina Beer, Wine and Spirits",0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+273382,Fat Tire Amber Ale (12 oz),"Cantina Beer, Wine and Spirits",0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+273383,Fat Tire Amber Ale (16 oz),"Cantina Beer, Wine and Spirits",0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+273384,Four Peaks Kilt Lifter (12 oz),"Cantina Beer, Wine and Spirits",0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+273385,Four Peaks Kilt Lifter (16 oz),"Cantina Beer, Wine and Spirits",0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+273386,Lagunitas IPA (12 oz),"Cantina Beer, Wine and Spirits",0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+273387,Lagunitas IPA (16 oz),"Cantina Beer, Wine and Spirits",0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+273388,Samuel Adams&reg; Winter Lager (12 oz),"Cantina Beer, Wine and Spirits",0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+273389,Samuel Adams&reg; Winter Lager (16 oz),"Cantina Beer, Wine and Spirits",0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+275133,Black Bean Crunchwrap Supreme&reg;,Veggie Cravings,0,0,257.89,517.36,155.93,17.41,4.89,0.04,6.55,5.35,4.58,1093.3,77.3,7.96,6.05,13.17
+275167,Barrio Blonde (12 oz),"Cantina Beer, Wine and Spirits",0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+275168,Barrio Blonde (16 oz),"Cantina Beer, Wine and Spirits",0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+275169,Revolution Anti Hero (12 oz),"Cantina Beer, Wine and Spirits",0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+275170,Revolution Anti Hero (16 oz),"Cantina Beer, Wine and Spirits",0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+275212,Patriot Ale (12 oz),"Cantina Beer, Wine and Spirits",0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+275213,Patriot Ale (16 oz),"Cantina Beer, Wine and Spirits",0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+275214,Landshark Lager (12 oz),"Cantina Beer, Wine and Spirits",0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+275215,Landshark Lager (16 oz),"Cantina Beer, Wine and Spirits",0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+275216,Fair Winds&reg; Howling Gail (12 oz),"Cantina Beer, Wine and Spirits",0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+275217,Fair Winds&reg; Howling Gail (16 oz),"Cantina Beer, Wine and Spirits",0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+275218,Copperhead Red (12 oz),"Cantina Beer, Wine and Spirits",0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+275219,Copperhead Red (16 oz),"Cantina Beer, Wine and Spirits",0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+275220,Bell Tower Cerveza (12 oz),"Cantina Beer, Wine and Spirits",0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+275221,Bell Tower Cerveza (16 oz),"Cantina Beer, Wine and Spirits",0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+275310,Nachos BellGrande&reg; - Chicken,INM Nachos,0,0,297.67,711.13,315.43,35.45,4.83,0.04,10.04,20.46,31.63,1176.66,78.08,11.92,3.91,20.25
+275311,Nachos BellGrande&reg; - Steak,INM Nachos,0,0,294.83,721.54,326.56,36.69,5.46,0.04,9.93,21.15,25.84,1197.31,78.46,11.73,4.61,19.69
+276277,Corona Premier (12 oz),"Cantina Beer, Wine and Spirits",0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+276278,Corona Premier (16 oz),"Cantina Beer, Wine and Spirits",0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+277165,Cheesy Chipotle Double Stacked Taco,Test Items,0,0,131.83,309.75,152.51,16.71,5.38,0.23,5.45,5.29,27.34,639.23,29.94,3.9,1.78,9.99
+277318,Grilled Cheese Burrito,Burritos,0,0,266.49,711.44,317.89,39.33,16.12,0.59,8.85,12.49,73.38,1506.93,64.09,5.82,4.26,25.28
+277742,Loaded Taco Fries,Test Items,0,0,245.22,576.84,292.61,36.65,6.68,0.25,9.83,19.3,31.32,1149.12,49.91,6.86,2.44,12.03
+279954,Corona Light (12 oz),"Cantina Beer, Wine and Spirits",0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+279955,Corona Light (16 oz),"Cantina Beer, Wine and Spirits",0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+280004,Dos Equis Lager Especial (12 oz),"Cantina Beer, Wine and Spirits",0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+280005,Dos Equis Lager Especial (16 oz),"Cantina Beer, Wine and Spirits",0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+280006,Sol Cervesa (12 oz),"Cantina Beer, Wine and Spirits",0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+280007,Sol Cervesa (16 oz),"Cantina Beer, Wine and Spirits",0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+280008,Victoria (12 oz),"Cantina Beer, Wine and Spirits",0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+280009,Victoria (16 oz),"Cantina Beer, Wine and Spirits",0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+280036,Pabst Blue Ribbon Original (12 oz),"Cantina Beer, Wine and Spirits",0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+280037,Pabst Blue Ribbon Original (16 oz),"Cantina Beer, Wine and Spirits",0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+280038,Sweetwater 420 Extra Pale Ale (12 oz),"Cantina Beer, Wine and Spirits",0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+280039,Sweetwater 420 Extra Pale Ale (16 oz),"Cantina Beer, Wine and Spirits",0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+280704,Brooklyn Lager (12 oz),"Cantina Beer, Wine and Spirits",0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+280705,Brooklyn Lager (16 oz),"Cantina Beer, Wine and Spirits",0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+282319,Cheesy Toasted Breakfast Burrito - Sausage,INM Breakfast,1,0,130.41,349.46,112.21,17.39,5.5,0.0,5.44,5.99,104.03,767.36,37.77,2.0,2.56,10.47
+282320,Cheesy Toasted Breakfast Burrito - Bacon,INM Breakfast,1,0,130.41,349.68,102.65,16.32,5.09,0.0,5.31,5.46,109.37,897.56,37.64,1.86,2.7,13.06
+282321,Cheesy Toasted Breakfast Burrito - Fiesta Potato (V),Breakfast (Regional),1,0,151.67,341.18,82.5,14.09,3.56,0.0,5.05,4.95,93.71,770.03,44.31,2.64,2.83,9.37
+282322,Hash Brown Toasted Breakfast Burrito - Bacon,INM Breakfast,1,0,192.78,575.16,242.84,31.96,10.44,0.17,7.23,13.46,131.22,1304.95,51.61,3.28,2.73,20.28
+282323,Hash Brown Toasted Breakfast Burrito - Sausage,INM Breakfast,1,0,192.78,574.95,252.4,33.02,10.86,0.17,7.35,13.99,125.88,1174.76,51.74,3.42,2.58,17.69
+282324,Hash Brown Toasted Breakfast Burrito - Steak,INM Breakfast,1,0,215.46,571.46,222.03,29.65,9.71,0.17,6.61,12.44,136.55,1350.61,52.62,3.4,3.18,23.53
+282325,Grande Toasted Breakfast Burrito - Steak,INM Breakfast,1,0,246.64,567.45,164.32,28.05,10.4,0.17,7.24,9.16,229.82,1368.68,52.31,3.78,3.59,26.5
+282326,Grande Toasted Breakfast Burrito - Bacon,INM Breakfast,1,0,223.96,571.15,185.12,30.36,11.14,0.17,7.85,10.18,224.49,1323.02,51.29,3.65,3.14,23.25
+282327,Grande Toasted Breakfast Burrito - Sausage,INM Breakfast,1,0,223.96,570.94,194.69,31.42,11.55,0.17,7.97,10.71,219.15,1192.83,51.42,3.79,2.99,20.67
+283906,Old Elephant IPA (12 oz),"Cantina Beer, Wine and Spirits",0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+283907,Old Elephant IPA (16 oz),"Cantina Beer, Wine and Spirits",0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+288828,Bean Burrito (V),Burritos,0,0,189.9,359.97,81.42,10.4,4.27,0.05,4.01,1.94,7.08,1084.4,53.76,8.49,3.11,12.88
+288829,Quesadilla - Cheese (V),INM Quesadillas,0,0,138.91,469.11,219.86,24.46,12.94,0.36,5.52,4.55,48.0,995.96,40.53,2.64,3.38,18.17
+288830,Cheesy Roll Up (V),Specialties,0,0,56.7,179.27,77.59,8.63,5.54,0.17,1.06,1.49,22.25,431.52,16.91,1.06,1.3,8.48
+288834,Pintos N Cheese (V),Sides & Sweets,0,0,121.9,172.15,50.59,6.71,3.17,0.09,2.1,1.24,11.11,687.28,18.97,6.75,1.08,8.97
+288835,Black Beans & Rice (V),Sides & Sweets,0,0,116.23,157.62,41.03,4.56,0.42,0.0,1.07,3.06,0.0,368.23,24.97,4.95,0.65,4.18
+288836,Black Beans (V),Sides & Sweets,0,0,42.52,50.88,11.88,1.32,0.13,0.0,0.45,0.75,0.0,140.28,7.25,3.81,0.47,2.5
+290648,White Claw Hard Seltzer (12 oz),"Cantina Beer, Wine and Spirits",0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+292244,Cheesy Bean & Rice Burrito (V),Burritos,0,0,181.44,421.26,143.89,16.62,4.27,0.01,6.94,4.83,3.94,941.62,54.9,5.61,3.29,9.48
+292245,Black Bean Crunchwrap Supreme&reg; (V),Specialties,0,0,257.89,517.36,155.93,17.41,4.89,0.04,6.55,5.35,4.58,1093.3,77.3,7.96,6.05,13.17
+297825,Crispy Tortilla Chicken Taco,Test Items,0,0,114.82,264.39,112.64,12.91,3.43,0.06,4.09,5.07,27.94,634.2,26.01,2.47,1.59,11.23
+297826,Steak and Poblano Rolled Quesadilla - Single Steak,Test Items,0,0,175.77,519.48,250.33,27.88,13.63,0.37,6.91,5.82,72.36,1280.81,41.32,2.58,4.04,25.81
+299109,Creamy Chipotle Sauce 1.5 oz,Side Portions - Hidden,0,0,42.52,224.21,219.18,24.35,3.77,0.06,14.34,5.11,24.2,211.13,0.72,0.14,0.42,0.53
+312099,Grande Nachos - Grilled Chicken,Test Items,0,0,429.49,1071.21,498.34,55.75,8.37,0.11,14.96,32.2,64.33,1776.07,109.4,15.84,5.31,33.38
+312101,Grande Nachos - Steak,Test Items,0,0,423.82,1092.03,520.58,58.22,9.62,0.11,14.73,33.59,52.76,1817.38,110.17,15.47,6.71,32.25
+312623,Hop Commander IPA (12 oz),"Cantina Beer, Wine and Spirits",0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+312624,Hop Commander IPA (16 oz),"Cantina Beer, Wine and Spirits",0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+312805,Wild Strawberry Freeze&trade; (16 oz),Drinks,0,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+312807,Wild Strawberry Freeze&trade; (20 oz),Drinks,0,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+313269,Black Bean Chalupa Supreme&reg;,Veggie Cravings,0,0,145.96,337.53,155.85,17.29,3.65,0.09,4.3,8.9,9.29,456.05,35.69,6.41,3.91,9.99
+313280,Black Bean Crunchy Taco,Vegetarian Versions - Hidden,0,0,70.87,121.1,41.01,4.42,0.59,0.0,2.23,1.56,0.0,143.08,16.91,5.1,0.92,3.52
+313283,Nachos BellGrande&reg; - Veggie,Test Items,0,0,255.62,663.25,304.2,34.2,4.33,0.04,9.81,19.99,4.23,920.34,77.21,11.6,3.82,11.96
+313286,Veggie Mexican Pizza (V),Specialties,0,0,170.1,463.1,212.19,24.05,6.53,0.17,5.69,11.33,22.22,747.52,47.31,6.28,3.07,14.46
+313544,Dragonfruit Freeze&reg; with Dragonfruit Syrup (16 oz),Test Items,0,0,7.09,20.51,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.15,4.95,0.0,3.83,0.0
+313545,Dragonfruit Freeze&reg; with Dragonfruit Syrup (20 oz),Test Items,0,0,7.09,20.51,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.15,4.95,0.0,3.83,0.0
+313546,Dragonfruit Freeze&reg; (16 oz),New,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+313547,Dragonfruit Freeze&reg; (20 oz),New,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+314994,Mild Sauce Packet (V),Sides & Sweets,0,0,5.95,1.49,0.0,0.02,0.0,0.0,0.01,0.0,0.0,27.9,0.32,0.07,0.07,0.04
+314995,Hot Sauce Packet (V),Sides & Sweets,0,0,5.95,1.64,0.0,0.0,0.0,0.0,0.0,0.0,0.0,42.92,0.36,0.08,0.11,0.04
+314996,Fire Sauce Packet (V),Sides & Sweets,0,0,5.95,2.05,0.01,0.0,0.0,0.0,0.0,0.0,0.0,53.22,0.43,0.13,0.11,0.07
+314997,Diablo Sauce Packet (V),Sides & Sweets,0,0,5.95,2.26,0.0,0.02,0.0,0.0,0.01,0.01,0.0,34.14,0.45,0.08,0.17,0.07
+314998,Breakfast Salsa Packet (V),Breakfast (Regional),1,0,14.17,4.17,0.0,0.0,0.0,0.0,0.0,0.0,0.0,50.32,0.94,0.14,0.22,0.11
+315242,Cheesy Toasted Breakfast Burrito,Breakfast (Regional),1,0,130.41,349.68,102.65,16.32,5.09,0.0,5.31,5.46,109.37,897.56,37.64,1.86,2.7,13.06
+315243,Grande Toasted Breakfast Burrito,Breakfast (Regional),1,0,216.87,569.87,185.0,30.34,11.14,0.17,7.85,10.18,224.49,1322.67,51.02,3.57,2.95,23.19
+315244,Hashbrown Toasted Breakfast Burrito,Breakfast (Regional),1,0,192.78,575.16,242.84,31.96,10.44,0.17,7.23,13.46,131.22,1304.95,51.61,3.28,2.73,20.28
+347187,Grande Nachos - Veggie,Test Items,0,0,350.12,981.58,479.52,53.66,7.63,0.11,14.51,31.35,10.78,1267.81,108.14,15.22,5.31,16.93
+347647,Captain Lawrence Hop Commander (12 oz),"Cantina Beer, Wine and Spirits",0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+347648,Samuel Adams '76 (12 oz),"Cantina Beer, Wine and Spirits",0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+354341,Red Sauce 1.6 oz,Side Portions - Hidden,0,0,45.36,16.99,0.0,0.0,0.0,0.0,0.06,0.0,0.0,348.98,3.09,0.83,0.39,1.16
+354869,Black Bean Chalupa Supreme&reg; (V),Tacos,0,0,145.96,337.53,155.85,17.29,3.65,0.09,4.3,8.9,9.29,456.05,35.69,6.41,3.91,9.99
+354875,Cheese Quesadilla (V),Quesadillas,0,0,138.91,469.11,219.86,24.46,12.94,0.36,5.52,4.55,48.0,995.96,40.53,2.64,3.38,18.17
+354895,Cinnamon Twists,Veggie Cravings,0,0,35.44,166.83,54.7,6.08,0.57,0.0,0.75,4.75,0.0,115.4,26.69,0.56,9.79,1.35
+354896,Chips and Nacho Cheese Sauce,Veggie Cravings,0,0,70.87,219.55,118.65,12.77,1.26,0.0,3.43,8.01,0.75,283.33,23.66,2.0,1.27,2.56
+354897,Hash Brown (V),Breakfast (Regional),1,0,53.86,159.98,99.84,11.09,0.86,0.0,2.29,7.96,0.0,277.26,13.74,1.13,0.0,1.29
+354898,Cinnabon&reg; Delights&trade; (2 Pack) (V),Breakfast (Regional),1,0,34.59,167.9,102.07,11.34,3.69,0.0,1.73,5.91,6.5,72.31,14.66,0.8,8.65,1.8
+354899,Cinnabon&reg; Delights&trade; (12 Pack - Serves 4) (V),Breakfast (Regional),1,0,207.52,1007.38,612.41,68.05,22.14,0.0,10.38,35.49,39.01,433.86,87.95,4.77,51.92,10.79
+354902,Cheesy Gordita Crunch,Tacos,0,0,174.35,494.13,255.0,27.78,10.54,0.42,9.62,6.83,52.79,845.1,41.58,4.91,4.34,19.56
+354903,Chalupa Supreme&reg;,Tacos,0,0,146.0,355.0,181.18,20.11,5.39,0.26,4.11,9.99,25.99,577.81,31.45,4.26,3.44,12.26
+354928,Soft Taco Supreme&reg; - Beef,INM Tacos,0,0,120.49,204.01,85.52,9.56,4.97,0.26,1.19,2.96,27.47,518.02,20.44,2.88,2.0,9.25
+354929,Soft Taco Supreme&reg; - Chicken,INM Tacos,0,0,117.65,180.48,57.72,6.48,3.47,0.09,1.16,1.54,37.54,510.12,18.05,1.53,2.0,12.7
+354931,Nachos BellGrande&reg; - Beef,INM Nachos,0,0,300.5,734.65,343.23,38.54,6.33,0.22,10.07,21.88,21.55,1184.56,80.46,13.27,3.91,16.8
+360534,Cheesy Fiesta Potatoes - Value Menu,Cravings Value Menu,0,0,119.07,238.4,114.74,12.59,1.77,0.04,2.49,7.93,4.1,522.21,28.11,2.56,1.0,3.07
+360539,Spicy Potato Soft Taco (V),Tacos,0,0,97.81,240.42,108.18,12.08,3.2,0.06,3.72,4.78,10.26,472.06,27.78,2.24,1.14,5.19
+360540,Cheesy Fiesta Potatoes,Veggie Cravings,0,0,119.07,238.4,114.74,12.59,1.77,0.04,2.49,7.93,4.1,522.21,28.11,2.56,1.0,3.07
+361513,Whiskey (80 Proof),Cantina (INM Only),0,0,28.35,65.27,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+363356,Black Bean Loaded Taco Fries (V),Test Items,0,0,245.22,559.38,267.29,33.84,4.94,0.07,10.03,18.21,14.62,1027.36,54.14,9.01,2.92,9.76
+363358,Anchor Steam (16 oz),"Cantina Beer, Wine and Spirits",0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+363359,Angry Orchard (16 oz),"Cantina Beer, Wine and Spirits",0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+363360,Cool Kidz IPA (16 oz),"Cantina Beer, Wine and Spirits",0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+363361,St. Archer (16 oz),"Cantina Beer, Wine and Spirits",0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+363370,Hot Coffee with Creamer,Drinks,0,1,353.8,45.11,7.91,0.95,0.56,0.04,0.04,0.27,2.9,10.64,8.19,0.0,6.66,0.66
+363371,Iced Coffee with Creamer,Drinks,0,1,467.2,43.98,7.91,0.92,0.56,0.04,0.04,0.25,2.9,17.41,8.19,0.0,6.66,0.53
+380011,Breakfast California Crunchwrap - Sausage,INM Breakfast,1,0,243.81,693.96,353.23,44.42,14.92,0.21,9.26,19.57,142.01,1300.46,53.55,4.92,2.91,20.09
+381769,Voodoo Ranger Juicy Haze IPA (12 oz),"Cantina Beer, Wine and Spirits",0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+381770,Voodoo Ranger Juicy Haze IPA (16 oz),"Cantina Beer, Wine and Spirits",0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+381771,Angel Island IPA (12 oz),"Cantina Beer, Wine and Spirits",0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+381772,Angel Island IPA (16 oz),"Cantina Beer, Wine and Spirits",0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+384305,Modelo Chelada (16 oz),"Cantina Beer, Wine and Spirits",0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+384462,Church Music IPA (16 oz),JSON only,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+384463,Taco Bell Cantina IPA (16 oz),JSON only,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+384471,Tampa Bay Reef Donkey (16 oz),"Cantina Beer, Wine and Spirits",0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+384493,Premium Roast Coffee - Hot,Drinks,0,1,340.19,3.4,0.0,0.07,0.0,0.0,0.0,0.07,0.0,6.8,0.0,0.0,0.0,0.41
+384494,Premium Roast Coffee - Iced,Drinks,0,1,567.0,2.27,0.0,0.05,0.0,0.0,0.0,0.05,0.0,18.1,0.0,0.0,0.0,0.27
+384495,Creamy Chipotle Dip,Side Portions - Hidden,0,0,42.52,224.21,219.18,24.35,3.77,0.06,14.34,5.11,24.2,211.13,0.72,0.14,0.42,0.53
+384502,Black Bean Grilled Cheese Burrito,Burritos,0,0,266.49,693.98,292.57,36.51,14.38,0.41,9.05,11.4,56.68,1385.18,68.32,7.97,4.73,23.02
+387824,ICEE Twisted Freeze with Fermented Rum (16 oz),Freeze Test Items,0,1,59.08,77.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.6,0.0,2.6,0.0
+387825,ICEE Twisted Freeze with Fermented Rum (32 oz),Freeze Test Items,0,1,59.08,77.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.6,0.0,2.6,0.0
+387826,ICEE Twisted Freeze with Fermented Vodka (16 oz),Freeze Test Items,0,1,59.08,67.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.25,0.0,0.25,0.0
+387827,ICEE Twisted Freeze with Fermented Vodka (32 oz),Freeze Test Items,0,1,59.08,67.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.25,0.0,0.25,0.0
+387828,ICEE Twisted Freeze with Fermented Tequila (16 oz),Freeze Test Items,0,1,59.08,75.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,2.0,0.0
+387829,ICEE Twisted Freeze with Fermented Tequila (32 oz),Freeze Test Items,0,1,59.08,75.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,2.0,0.0
+387830,ICEE Twisted Freeze (16 oz),Freeze Test Items,0,1,28.35,65.27,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+387831,ICEE Twisted Yard (32 oz),Freeze Test Items,0,1,56.7,130.53,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+387881,Mtn Dew Baja Blast Twisted Freeze - Fermented Tequila (16 oz),Freeze Test Items,0,1,59.08,75.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,2.0,0.0
+387882,Mtn Dew Baja Blast Twisted Freeze - Fermented Rum (16 oz),Freeze Test Items,0,1,59.08,77.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.6,0.0,2.6,0.0
+387883,Mtn Dew Baja Blast Twisted Freeze - Fermented Vodka (16 oz),Freeze Test Items,0,1,59.08,67.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.25,0.0,0.25,0.0
+388146,Mtn Dew Baja Blast Twisted Freeze - Cinnamon Whiskey (16 oz),Freeze Test Items,0,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+388147,Mtn Dew Baja Blast Twisted Freeze - Cinnamon Whiskey (32 oz),Freeze Test Items,0,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+388308,Vanilla Creamer,INM Breakfast,1,0,6.0,18.39,3.49,0.39,0.24,0.02,0.02,0.09,1.28,1.69,3.61,0.0,2.94,0.11
+388810,Blue Moon Mango Wheat (12 oz),"Cantina Beer, Wine and Spirits",0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+388811,Blue Moon Mango Wheat (16 oz),"Cantina Beer, Wine and Spirits",0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+388816,Bell's Two Hearted Ale (12 oz),"Cantina Beer, Wine and Spirits",0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+388817,Bell's Two Hearted Ale (16 oz),"Cantina Beer, Wine and Spirits",0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+388818,Calicraft Coast (12 oz),"Cantina Beer, Wine and Spirits",0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+388819,Calicraft Coast (16 oz),"Cantina Beer, Wine and Spirits",0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+388820,Mad Tasty Yuzu Citrus Sparkling Water,Cantina (INM Only),0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+388821,Mad Tasty Unicorn Tears Sparkling Water,Cantina (INM Only),0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+388822,Mad Tasty Watermelon Kiwi Sparkling Water,Cantina (INM Only),0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+388823,Mad Tasty Grapefruit Sparkling Water,Cantina (INM Only),0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+388824,Heineken 0.0 (12 oz),"Cantina Beer, Wine and Spirits",0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+388825,Heineken 0.0 (16 oz),"Cantina Beer, Wine and Spirits",0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+388826,Estrella Jalisco (12 oz),"Cantina Beer, Wine and Spirits",0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+388827,Estrella Jalisco (16 oz),"Cantina Beer, Wine and Spirits",0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+389931,Harpoon IPA (12 oz),"Cantina Beer, Wine and Spirits",0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+389932,Harpoon IPA (16 oz),"Cantina Beer, Wine and Spirits",0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+390250,Goose Island IPA (12 oz),"Cantina Beer, Wine and Spirits",0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+390251,Goose Island IPA (16 oz),"Cantina Beer, Wine and Spirits",0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+390514,Boulevard Unfiltered Wheat Beer (12 oz),"Cantina Beer, Wine and Spirits",0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+390515,Boulevard Unfiltered Wheat Beer (16 oz),"Cantina Beer, Wine and Spirits",0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+390516,Boulevard Unfiltered Wheat Beer 100 (12 oz),"Cantina Beer, Wine and Spirits",0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+390517,Boulevard Unfiltered Wheat Beer 100 (16 oz),"Cantina Beer, Wine and Spirits",0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+390518,Boulevard Space Camper Cosmic IPA (12 oz),"Cantina Beer, Wine and Spirits",0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+390519,Boulevard Space Camper Cosmic IPA (16 oz),"Cantina Beer, Wine and Spirits",0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+390520,Boulevard Cherry Blossom and Lime (12 oz),"Cantina Beer, Wine and Spirits",0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+390521,Boulevard Cherry Blossom and Lime (16 oz),"Cantina Beer, Wine and Spirits",0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+390522,Black Abbey - The Rose (12 oz),"Cantina Beer, Wine and Spirits",0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+390523,Black Abbey - The Rose (16 oz),"Cantina Beer, Wine and Spirits",0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+390524,Angry Orchard - Crisp Apple (12 oz),"Cantina Beer, Wine and Spirits",0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+390525,Angry Orchard - Crisp Apple (16 oz),"Cantina Beer, Wine and Spirits",0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+392203,Breaking Bud (12 oz),"Cantina Beer, Wine and Spirits",0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+392204,Breaking Bud (16 oz),"Cantina Beer, Wine and Spirits",0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+392205,Kansas City Helles (12 oz),"Cantina Beer, Wine and Spirits",0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+392206,Kansas City Helles (16 oz),"Cantina Beer, Wine and Spirits",0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+392207,Kansas City Dunkel (12 oz),"Cantina Beer, Wine and Spirits",0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+392208,Kansas City Dunkel (16 oz),"Cantina Beer, Wine and Spirits",0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+392738,Mtn Dew Baja Blast Twisted Freeze (32 oz),Freeze Test Items,0,1,56.7,130.53,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+397802,Hard Mtn Dew - Original (12 oz),"Cantina Beer, Wine and Spirits",0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+397803,Hard Mtn Dew - Original (24 oz),"Cantina Beer, Wine and Spirits",0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+397804,Hard Mtn Dew - Black Cherry (12 oz),"Cantina Beer, Wine and Spirits",0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+397805,Hard Mtn Dew - Black Cherry (24 oz),"Cantina Beer, Wine and Spirits",0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+397806,Hard Mtn Dew - Baja Blast (12 oz),"Cantina Beer, Wine and Spirits",0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+397807,Hard Mtn Dew - Baja Blast (24 oz),"Cantina Beer, Wine and Spirits",0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+397808,Hard Mtn Dew - Watermelon (12 oz),"Cantina Beer, Wine and Spirits",0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+397809,Hard Mtn Dew - Watermelon (24 oz),"Cantina Beer, Wine and Spirits",0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+406517,Sierra Nevada Hazy Little Thing IPA (12 oz),"Cantina Beer, Wine and Spirits",0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+406518,Sierra Nevada Hazy Little Thing IPA (16 oz),"Cantina Beer, Wine and Spirits",0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+409050,Sour Cream (0.6 oz),Side Portions - Hidden,0,0,14.17,18.36,10.96,1.22,0.78,0.04,0.04,0.28,3.73,13.14,1.44,0.05,0.54,0.41
+409051,Creamy Jalapeno Sauce (0.5 oz),Side Portions - Hidden,0,0,14.17,76.47,57.81,6.38,1.53,0.01,3.07,1.44,3.5,54.57,0.9,0.23,0.46,0.31
+409052,Guacamole (0.8 oz),Side Portions - Hidden,0,0,22.68,41.64,31.21,3.76,0.67,0.03,1.03,2.04,0.0,82.27,1.57,0.94,0.33,0.39
+409053,Creamy Chipotle Sauce (0.5 oz),Side Portions - Hidden,0,0,14.17,74.74,73.06,8.12,1.26,0.02,4.78,1.7,8.07,70.38,0.24,0.05,0.14,0.18
+409054,Avocado Ranch Sauce (0.5 oz),Side Portions - Hidden,0,0,14.17,78.42,74.23,8.25,1.29,0.02,4.72,1.86,6.26,91.24,0.78,0.12,0.34,0.26
+409055,Spicy Ranch Sauce (0.5 oz),Side Portions - Hidden,0,0,14.17,71.61,67.75,7.53,1.22,0.02,4.35,1.6,6.86,64.64,0.68,0.05,0.42,0.28
+410272,$2 Nachos - Classic,Test Items,0,0,181.44,480.37,198.84,26.26,5.52,0.13,5.75,14.58,15.59,639.28,50.74,7.15,2.99,10.47
+415961,ICEE Twisted Freeze (20 oz),Freeze Test Items,0,1,28.35,65.27,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+417116,Guacamole (6.4 oz),Side Portions - Hidden,0,0,181.44,333.08,249.68,30.06,5.33,0.22,8.21,16.33,0.0,658.18,12.56,7.51,2.68,3.09
+417117,Spicy Ranch (6 oz),Side Portions - Hidden,0,0,170.1,859.33,812.96,90.32,14.7,0.29,52.15,19.17,82.33,775.64,8.16,0.65,5.0,3.42
+417118,Sour Cream (4.8 oz),Side Portions - Hidden,0,0,113.4,146.86,87.71,9.75,6.25,0.35,0.35,2.25,29.84,105.09,11.53,0.36,4.34,3.25
+417119,Creamy Chipotle Sauce (6 oz),Side Portions - Hidden,0,0,170.1,896.84,876.73,97.41,15.07,0.26,57.36,20.43,96.79,844.53,2.89,0.56,1.68,2.13
+417120,Avocado Ranch Sauce (6 oz),Side Portions - Hidden,0,0,170.1,941.1,890.81,98.98,15.46,0.26,56.66,22.27,75.13,1094.86,9.41,1.45,4.05,3.13
+417121,Creamy Jalapeno Sauce (6 oz),Side Portions - Hidden,0,0,170.1,917.68,693.72,76.6,18.3,0.16,36.79,17.32,41.97,654.89,10.84,2.82,5.52,3.71
+417122,Nacho Cheese Sauce (5.6 oz),Side Portions - Hidden,0,0,158.76,228.16,160.31,16.55,1.83,0.0,4.97,8.98,2.99,844.19,17.3,0.69,3.64,2.49
+417132,Steak Taco,Test Items,0,0,106.31,203.91,87.57,9.79,3.83,0.06,2.89,2.69,30.53,554.13,17.31,1.35,2.29,11.83
+420115,Breakfast Crunchwrap - Sausage Patty,INM Breakfast,1,0,229.63,753.98,400.87,49.39,16.72,0.2,11.77,19.93,149.79,1209.64,53.1,4.23,3.03,20.74
+420778,Mtn Dew Baja Blast Twisted Freeze - Fermented Vodka (32 oz),Freeze Test Items,0,1,59.08,67.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.25,0.0,0.25,0.0
+420779,Mtn Dew Baja Blast Twisted Freeze - Fermented Rum (32 oz),Freeze Test Items,0,1,59.08,77.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.6,0.0,2.6,0.0
+420780,Mtn Dew Baja Blast Twisted Freeze - Fermented Tequila (32 oz),Freeze Test Items,0,1,59.08,75.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,2.0,0.0
+420790,Bud Light Bottle (16 oz),"Cantina Beer, Wine and Spirits",0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+420791,Budweiser Bottle (16 oz),"Cantina Beer, Wine and Spirits",0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+420792,Heineken Bottle (12 oz),"Cantina Beer, Wine and Spirits",0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+420793,Michelob Ultra Bottle (16 oz),"Cantina Beer, Wine and Spirits",0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+420794,Blue Moon Belgian White Bottle (12 oz),"Cantina Beer, Wine and Spirits",0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+420798,Red Sangria (12 oz),JSON only,0,0,360.0,345.6,0.0,0.14,0.0,0.0,0.0,0.0,0.0,36.0,29.74,0.0,25.78,0.14
+420800,High Noon,Freeze Test Items,0,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+420843,Nachos BellGrande (2 Portions),JSON only,0,0,601.01,1469.31,686.46,77.08,12.66,0.44,20.14,43.75,43.11,2369.13,160.93,26.53,7.82,33.59
+420874,Red Sangria (6 oz),JSON only,0,0,180.0,172.8,0.0,0.07,0.0,0.0,0.0,0.0,0.0,18.0,14.87,0.0,12.89,0.07
+420875,Red Sangria (8 oz),JSON only,0,0,240.0,230.4,0.0,0.1,0.0,0.0,0.0,0.0,0.0,24.0,19.82,0.0,17.18,0.1
+420876,White Sangria (8 oz),JSON only,0,0,240.0,225.6,0.0,0.1,0.0,0.0,0.0,0.0,0.0,26.4,19.84,0.0,17.6,0.1
+420877,White Sangria (16 oz),JSON only,0,0,480.0,451.2,0.0,0.19,0.0,0.0,0.0,0.0,0.0,52.8,39.68,0.0,35.2,0.19
+420878,White Sangria (6 oz),JSON only,0,0,180.0,169.2,0.0,0.07,0.0,0.0,0.0,0.0,0.0,19.8,14.88,0.0,13.2,0.07
+420881,Grilled Cheese Burrito - Steak,INM Burritos,0,0,260.82,698.33,301.22,37.47,15.24,0.41,8.71,11.77,77.67,1519.68,62.09,4.28,4.96,28.17
+420884,Triple Crunch Mexican Pizza,Test Items,0,0,326.02,808.04,367.48,41.87,11.37,0.52,9.4,20.26,55.62,1572.72,78.76,13.84,4.01,29.15
+420886,$2 Grilled Chicken Burrito - Enchilada,Test Items,0,0,195.61,376.63,106.41,12.04,5.63,0.13,2.7,3.22,41.68,1143.62,48.52,3.18,3.03,18.55
+420887,$2 Grilled Chicken Burrito - Cheesy Chipotle,Test Items,0,0,187.11,442.87,179.47,20.16,6.88,0.15,7.45,4.92,49.75,1039.51,47.22,2.81,2.98,18.15
+420888,$2 Grilled Chicken Burrito - Caesar,Test Items,0,0,199.86,515.78,219.48,28.7,6.84,0.09,12.09,8.7,46.38,955.58,47.67,3.86,3.65,17.0
+420889,Grilled Cheese Burrito - Chicken,INM Burritos,0,0,263.65,687.92,290.1,36.24,14.62,0.41,8.82,11.07,83.45,1499.02,61.7,4.47,4.26,28.74
+422224,Flybird Prickly Pear Margarita,"Cantina Beer, Wine and Spirits",0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+422225,Flybird Pina Colada,"Cantina Beer, Wine and Spirits",0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+422226,Flybird Mojito,"Cantina Beer, Wine and Spirits",0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+422227,Flybird Mangonada,"Cantina Beer, Wine and Spirits",0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+422228,Flybird Lime Margarita,"Cantina Beer, Wine and Spirits",0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+422229,Flybird Strawberry Margarita,"Cantina Beer, Wine and Spirits",0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+422230,Flybird Strawberry Margarita (Can),"Cantina Beer, Wine and Spirits",0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+422231,Flybird Lime Margarita (Can),"Cantina Beer, Wine and Spirits",0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+422283,Triple Crunch Mexican Pizza - Veggie,Test Items,0,0,240.97,671.36,293.07,33.6,7.63,0.17,8.89,16.58,22.22,1048.64,72.73,10.52,4.01,19.61
+423204,Hand Rolled Hazy IPA,JSON only,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+423320,Cantina Chicken Crispy Taco,Cantina Chicken Menu,0,0,93.55,282.61,145.66,16.42,6.49,0.18,3.51,5.79,50.48,527.86,17.15,2.95,0.89,15.14
+423321,Cantina Chicken Quesadilla,Cantina Chicken Menu,0,0,192.78,572.38,284.67,32.0,15.77,0.46,8.17,6.34,90.44,1338.87,42.46,3.52,3.3,28.63
+423323,Cantina Chicken Soft Taco,Cantina Chicken Menu,0,0,116.23,209.37,86.16,9.98,3.57,0.06,3.6,2.52,36.3,528.39,18.4,2.47,1.96,11.63
+423324,Cantina Chicken Bowl,Cantina Chicken Menu,0,0,338.78,483.82,206.0,23.78,7.01,0.17,6.12,10.2,73.78,1166.91,43.34,9.55,3.17,24.41
+423325,Cantina Chicken Burrito,Cantina Chicken Menu,0,0,239.55,539.21,267.1,30.54,8.99,0.14,13.25,7.25,81.94,1184.49,42.06,4.82,3.86,24.31
+423326,Nacho Chips (1.1 oz),Side Portions - Hidden,0,0,31.18,162.51,78.57,8.63,0.8,0.0,2.19,5.77,0.0,72.29,19.33,1.83,0.36,1.94
+423645,Pico de Gallo (0.75 oz),Side Portions - Hidden,0,0,21.26,4.04,0.0,0.0,0.0,0.0,0.0,0.0,0.0,39.26,0.95,0.46,0.61,0.06
+427267,Firestone 805 (24 oz),"Cantina Beer, Wine and Spirits",0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+427268,Stella Artois (24 oz),"Cantina Beer, Wine and Spirits",0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+427269,Modelo Especial (24 oz),"Cantina Beer, Wine and Spirits",0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+427270,Blue Moon Belgian White (24 oz),"Cantina Beer, Wine and Spirits",0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+427271,Coors Light (24 oz),"Cantina Beer, Wine and Spirits",0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+427272,Elysian Space Dust IPA (16 oz),"Cantina Beer, Wine and Spirits",0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+427273,Busch Light (16 oz),"Cantina Beer, Wine and Spirits",0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+427286,Nachos BellGrande&reg; - Veggie Double Beans,Test Items,0,0,343.03,782.96,326.42,37.81,5.27,0.04,11.76,20.69,4.85,1317.49,93.68,17.75,4.56,17.3
+429063,Breakfast California Crunchwrap,Breakfast (Regional),1,0,229.63,635.45,292.77,37.7,12.37,0.21,8.29,16.37,137.04,1331.73,53.29,4.64,2.96,20.85
+430118,Elysian Space Dust IPA (24 oz),"Cantina Beer, Wine and Spirits",0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+436225,Chicken Enchilada Burrito,Burritos,0,0,195.61,376.63,106.41,12.04,5.63,0.13,2.7,3.22,41.68,1143.62,48.52,3.18,3.03,18.55
+438050,Three Cheese Chipotle Chicken Flatbread Melt,Test Items,0,0,127.57,331.14,139.84,15.17,6.36,0.18,5.31,3.17,52.22,753.04,28.46,2.08,3.53,20.2
+439307,$1 Stacker - Spicy,Test Items,0,0,169.53,398.65,158.91,17.67,8.79,0.35,3.08,4.91,39.36,1235.37,43.05,4.3,3.0,16.87
+439525,Loaded Beef Nachos,Nachos,0,0,206.95,445.27,216.76,24.65,5.04,0.25,5.93,13.48,20.81,933.51,44.22,8.71,2.34,11.74
+439526,Double Stacked Taco,Tacos,0,0,133.24,317.6,123.28,15.51,5.08,0.22,3.74,6.25,24.11,611.33,34.22,4.38,1.78,10.38
+441114,Avocado Salsa Verde Packet,Side Portions - Hidden,0,0,14.17,49.17,43.14,5.05,0.77,0.0,2.86,1.3,0.07,71.46,0.79,0.45,0.24,0.13
+441180,3-Cheese Chicken Flatbread Melt,Specialties,0,0,127.57,331.14,139.84,15.17,6.36,0.18,5.31,3.17,52.22,753.04,28.46,2.08,3.53,20.2
+442467,Taco Lover's Crunchy Taco,JSON only,0,0,77.96,166.1,86.05,9.37,3.82,0.22,2.1,3.16,23.71,309.7,13.16,3.1,0.45,7.37
+442468,Taco Lover's Crunchy Taco Supreme&reg;,JSON only,0,0,106.31,187.0,97.26,10.62,4.61,0.26,2.15,3.45,27.44,323.54,15.16,3.32,1.37,7.9
+442469,Taco Lover's Nacho Cheese Doritos&reg; Locos Tacos Supreme&reg;,JSON only,0,0,106.31,187.41,96.35,10.75,4.69,0.26,2.1,3.5,27.71,383.04,14.91,3.19,1.48,7.96
+442470,Taco Lover's Nacho Cheese Doritos&reg; Locos Tacos,JSON only,0,0,77.96,166.51,85.13,9.5,3.91,0.22,2.06,3.21,23.98,369.2,12.92,2.97,0.57,7.43
+442471,Taco Lover's Soft Taco Supreme,JSON only,0,0,120.49,204.01,85.52,9.56,4.97,0.26,1.19,2.96,27.47,518.02,20.44,2.88,2.0,9.25
+442472,Taco Lover's Spicy Potato Soft Taco,JSON only,0,0,97.81,240.42,108.18,12.08,3.2,0.06,3.72,4.78,10.26,472.06,27.78,2.24,1.14,5.19
+442473,Taco Lover's Soft Taco,JSON only,0,0,92.14,183.1,74.3,8.32,4.18,0.22,1.14,2.68,23.74,504.18,18.44,2.67,1.08,8.71
+442474,Taco Lover's Breakfast Taco - Sausage,JSON only,0,0,77.96,229.14,87.81,14.63,5.62,0.05,3.74,4.92,110.63,432.5,15.76,1.11,0.96,8.6
+442475,Taco Lover's Breakfast Taco - Bacon,JSON only,0,0,77.96,229.35,78.25,13.56,5.21,0.05,3.62,4.39,115.97,562.7,15.63,0.97,1.1,11.19
+442476,Taco Lover's Breakfast Taco - Potato,JSON only,0,0,85.05,218.3,57.85,11.3,3.67,0.05,3.35,3.88,100.31,434.45,21.76,1.57,0.85,7.37
+447327,Enchilada Dipping Sauce,Test Items,0,0,89.3,67.34,26.06,2.87,1.96,0.09,0.2,0.57,9.29,595.52,6.67,1.39,1.25,3.71
+454761,Cantina Chicken Nachos,Test Items,0,0,355.79,889.18,459.59,52.06,9.48,0.18,16.56,25.31,50.79,1440.84,82.25,13.95,4.86,23.13
+465067,Cantina Chicken Quesadilla (with dips),Test Items,0,0,266.49,692.36,369.01,41.95,18.67,0.6,10.31,10.99,97.91,1529.69,48.48,5.49,5.05,30.22
+467340,Taj&iacute;n&reg; Taco,Test Items,0,0,69.46,126.5,84.2,9.31,3.86,0.23,2.06,2.99,26.46,334.17,4.2,2.0,0.43,6.59
+467397,Double Stacked Taco - Value Menu,Cravings Value Menu,0,0,133.24,317.6,123.28,15.51,5.08,0.22,3.74,6.25,24.11,611.33,34.22,4.38,1.78,10.38
+467398,3-Cheese Chicken Flatbread Melt - Value Menu,Cravings Value Menu,0,0,127.57,331.14,139.84,15.17,6.36,0.18,5.31,3.17,52.22,753.04,28.46,2.08,3.53,20.2
+467399,Chicken Enchilada Burrito - Value Menu,Cravings Value Menu,0,0,195.61,376.63,106.41,12.04,5.63,0.13,2.7,3.22,41.68,1143.62,48.52,3.18,3.03,18.55
+467400,Cheesy Double Beef Burrito - Value Menu,Cravings Value Menu,0,0,252.31,564.0,191.46,25.42,9.64,0.48,3.96,10.89,48.69,1345.11,63.28,6.87,3.4,20.52
+467401,Loaded Beef Nachos - Value Menu,Cravings Value Menu,0,0,206.95,445.27,216.76,24.65,5.04,0.25,5.93,13.48,20.81,933.51,44.22,8.71,2.34,11.74
+467404,Veggie Mexican Pizza,Veggie Cravings,0,0,170.1,463.1,212.19,24.05,6.53,0.17,5.69,11.33,22.22,747.52,47.31,6.28,3.07,14.46
+467405,Chips & Nacho Cheese Sauce (V),Sides & Sweets,0,0,70.87,219.55,118.65,12.77,1.26,0.0,3.43,8.01,0.75,283.33,23.66,2.0,1.27,2.56
+474197,Cantina Chicken Quesadilla with Avocado Verde Salsa,Test Items,0,0,206.95,621.55,327.81,37.05,16.55,0.46,11.02,7.65,90.52,1410.33,43.25,3.98,3.54,28.77
+474198,Cantina Chicken Quesadilla with Extra Chicken and Avocado Verde Salsa,Test Items,0,0,246.64,679.54,347.17,39.55,17.28,0.46,11.84,8.59,117.28,1619.62,44.65,4.86,3.54,36.24
+474199,"Medium Drink, Low End",Test Items,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+474200,"Medium Drink, High End",Test Items,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+474201,Cantina Chicken Quesadilla with Extra Chicken,Test Items,0,0,232.47,630.37,304.03,34.5,16.51,0.46,8.98,7.29,117.21,1548.16,43.86,4.41,3.3,36.11
+474268,Loose Cannon IPA (12 oz),"Cantina Beer, Wine and Spirits",0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+474269,Loose Cannon IPA (16 oz),"Cantina Beer, Wine and Spirits",0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+506983,Sour Cream (1 oz),Side Portions - Hidden,0,0,28.35,36.71,21.93,2.44,1.56,0.09,0.09,0.56,7.46,26.27,2.88,0.09,1.09,0.81
+520059,Cheesy Crunchwrap Sliders - Beef,Test Items,0,0,165.37,345.38,120.87,13.65,5.11,0.25,2.85,5.18,23.05,721.41,44.72,4.58,3.34,11.12
+607551,Three Cheese Blend (0.5 oz),Side Portions - Hidden,0,0,14.17,47.01,30.19,3.31,2.36,0.09,0.12,0.58,11.11,117.83,1.19,0.19,0.24,3.12
+607552,Cheddar Cheese (0.5 oz),Side Portions - Hidden,0,0,14.17,55.07,39.43,4.28,2.99,0.09,0.14,1.02,14.02,89.72,0.98,0.32,0.0,3.15
+607553,Nacho Chips (1.5 oz),Side Portions - Hidden,0,0,42.52,221.6,107.15,11.77,1.09,0.0,2.99,7.86,0.0,98.57,26.37,2.49,0.49,2.65
+607554,Green Sauce (2 oz),Side Portions - Hidden,0,0,22.68,10.91,0.47,0.05,0.0,0.0,0.03,0.0,0.0,105.69,2.47,0.4,0.86,0.16
+607555,Lettuce (1 oz),Side Portions - Hidden,0,0,28.35,3.97,0.36,0.04,0.01,0.0,0.0,0.0,0.0,2.83,0.84,0.32,0.52,0.26
+607556,Onions (0.5 oz),Side Portions - Hidden,0,0,14.17,5.67,0.13,0.01,0.01,0.0,0.0,0.0,0.0,0.57,1.32,0.24,0.6,0.16
+607557,Pico de Gallo (1.6 oz),Side Portions - Hidden,0,0,45.36,8.62,0.0,0.0,0.0,0.0,0.0,0.0,0.0,83.76,2.02,0.98,1.3,0.14
+607558,Potato Bites (1.5 oz),Side Portions - Hidden,0,0,42.52,95.76,41.87,4.65,0.38,0.0,0.91,3.26,0.0,201.77,12.25,1.21,0.0,1.18
+607559,Nacho Cheese Sauce (0.7 oz),Side Portions - Hidden,0,0,19.84,28.52,20.04,2.07,0.23,0.0,0.62,1.12,0.37,105.52,2.16,0.09,0.45,0.31
+627382,Mexican Pizza Sauce (2 oz),Side Portions - Hidden,0,0,56.7,16.62,0.0,0.0,0.0,0.0,0.0,0.0,0.0,212.79,3.25,0.66,1.36,0.9
+634442,Bottled Dr Pepper,Test Items,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+634443,Bottled Diet Dr Pepper,Test Items,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+646120,Crispy Chicken Burrito - Avocado Ranch,Test Items,0,0,250.89,658.33,320.75,36.48,8.72,0.14,14.19,12.49,63.4,1496.49,59.24,5.62,4.05,23.55
+646124,Crispy Chicken Soft Taco - Avocado Ranch,Test Items,0,0,121.9,267.08,112.4,12.89,3.42,0.06,4.1,5.07,27.94,673.96,26.72,2.83,1.96,11.2
+646137,Green Sauce (1 oz),Side Portions - Hidden,0,0,11.34,5.45,0.23,0.03,0.0,0.0,0.01,0.0,0.0,52.84,1.23,0.2,0.43,0.08
+646138,Strawberry Lime Refresca Freeze (16 oz),Test Items,0,0,1.42,4.81,0.0,0.02,0.0,0.0,0.01,0.0,0.0,0.27,1.26,0.29,0.63,0.06
+646511,Chicken Strips (2 Pack),Test Items,0,0,182.57,465.72,183.54,21.74,2.37,0.0,5.28,14.06,74.05,1428.32,39.11,5.04,0.0,28.39
+646644,Vanilla Crema Coffee - Hot,Drinks,0,1,412.5,101.68,16.48,1.83,1.16,0.08,0.07,0.42,6.04,10.57,19.67,0.2,13.94,1.64
+646646,Cinnabon&reg; Caramel Coffee - Hot,Drinks,0,1,433.76,165.5,19.74,2.15,1.36,0.09,0.07,0.5,7.17,64.79,34.61,0.2,21.51,1.93
+648317,Strawberry Lime Refresca Freeze (20 oz),Test Items,0,0,1.42,4.81,0.0,0.02,0.0,0.0,0.01,0.0,0.0,0.27,1.26,0.29,0.63,0.06
+648663,"Cantina Chicken Quesadilla - double chicken, no outside cheese",Test Items,0,0,218.29,583.35,273.83,31.19,14.15,0.37,8.86,6.71,106.1,1430.33,42.67,4.22,3.06,32.99
+648664,Cantina Chicken Quesadilla - 6.5 tortilla,Test Items,0,0,138.91,406.03,230.4,25.86,12.26,0.37,6.9,5.31,79.3,946.84,20.94,2.37,1.92,22.38
+648665,"Cantina Chicken Quesadilla - 6.5 tortilla, double chicken",Test Items,0,0,178.6,464.02,249.76,28.36,13.0,0.37,7.71,6.25,106.06,1156.13,22.34,3.26,1.92,29.85
+651911,Beekeeper Coffee Horchata,Test Items,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+652316,Rockstar Original Can,Test Items,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+655395,Cantina Chicken Soft Taco (Spicy Ranch),Test Items,0,0,116.23,206.64,83.56,9.69,3.55,0.06,3.45,2.42,36.54,517.75,18.36,2.44,2.0,11.64
+658262,Flour Tortilla (6.5 in.),Side Portions - Hidden,0,0,28.35,85.24,17.2,2.02,0.82,0.0,0.82,0.32,0.03,195.86,14.52,0.69,0.82,2.24
+658263,Flour Tortilla (10.25 in.),Side Portions - Hidden,0,0,68.04,204.58,41.27,4.85,1.97,0.0,1.97,0.78,0.07,470.07,34.85,1.65,1.96,5.38
+658302,Chipotle Ranch Chicken Stacker,Test Items,0,0,185.69,432.58,213.69,23.98,6.07,0.09,11.75,5.05,46.73,948.27,38.49,2.71,3.46,15.98
+658305,Bottled Mug&reg; Root Beer,Test Items,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+658306,Cinnabon Delights (2 oz),Side Portions - Hidden,0,0,56.7,275.24,167.32,18.59,6.05,0.0,2.83,9.7,10.66,118.54,24.03,1.3,14.19,2.95
+661833,Grilled Stuft Burrito,Test Items,0,0,318.93,686.43,260.75,29.9,10.9,0.46,9.29,8.55,51.48,1781.94,79.56,10.2,4.71,24.78
+662973,Crispy Chicken Bacon Club,Test Items,0,0,243.81,710.81,362.06,41.06,10.45,0.14,14.9,14.63,79.07,1683.95,57.67,5.03,3.41,27.82
+662974,Steak and Poblano Rolled Quesadilla - Double Steak,Test Items,0,0,212.62,574.71,270.86,30.16,14.62,0.37,7.02,6.94,93.35,1555.59,42.34,2.71,4.74,33.46
+663170,Steak and Poblano Rolled Quesadilla - Single Chicken,Test Items,0,0,178.6,522.24,249.16,28.1,13.38,0.37,7.61,5.65,78.13,1215.31,41.71,3.34,3.34,25.62
+663171,Steak and Poblano Rolled Quesadilla - Double Chicken,Test Items,0,0,218.29,580.23,268.52,30.6,14.12,0.37,8.43,6.6,104.89,1424.59,43.11,4.23,3.34,33.1
+670098,Cantina Chicken Crunchy Taco,Test Items,0,0,89.02,229.01,114.64,13.04,3.2,0.06,4.01,5.6,36.63,350.36,17.25,3.02,0.69,10.77
+670099,Cantina Chicken Crunchy Taco - All In,Test Items,0,0,110.28,234.25,114.65,13.04,3.2,0.06,4.02,5.6,36.63,390.83,18.51,3.55,1.44,10.87
+719813,Flamin' Hot Grilled Cheese Burrito,New,0,0,272.16,732.52,318.82,41.21,16.58,0.59,8.68,9.18,73.54,1573.18,64.88,5.1,4.45,25.64
+721092,Crispalupa,Test Items,0,0,184.27,550.12,276.57,31.03,5.51,0.06,9.33,15.65,36.52,753.01,49.03,5.49,4.87,18.78
+745285,Frank's Diablo Buffalo Sauce (0.88 oz),Side Portions - Hidden,0,0,24.95,64.86,0.0,5.99,1.0,0.0,0.0,0.0,3.74,324.32,2.0,0.25,1.0,0.25
+752914,Cantina Chicken Quesadilla - Half Moon,Test Items,0,0,218.29,583.36,273.83,31.19,14.15,0.37,8.86,6.71,106.1,1430.33,42.67,4.22,3.06,32.99
+752915,Cantina Chicken Quesadilla - Rolled Quesadilla,Test Items,0,0,218.29,583.36,273.83,31.19,14.15,0.37,8.86,6.71,106.1,1430.33,42.67,4.22,3.06,32.99
+774040,Tajin Taco (2/28/25),Test Items,0,0,69.46,126.5,84.2,9.31,3.86,0.23,2.06,2.99,26.46,334.17,4.2,2.0,0.43,6.59
+774041,Tajin Taco (3/26/25),Test Items,0,0,69.46,126.5,84.2,9.31,3.86,0.23,2.06,2.99,26.46,334.17,4.2,2.0,0.43,6.59
+780756,Quesocrisp - Chicken,Test Items,0,0,82.21,91.55,39.25,4.66,2.24,0.05,0.88,1.46,33.77,294.83,3.26,1.66,0.87,9.24
+780757,Quesocrisp - Seasoned Beef,Test Items,0,0,85.05,101.9,57.1,6.3,3.37,0.22,0.32,2.35,23.71,347.58,4.87,2.43,0.87,6.54
+781580,Crispy Chicken Strips - 4 piece with Spicy Ranch,Test Items,0,0,268.75,898.28,591.16,67.04,9.74,0.14,31.38,23.73,115.67,1825.0,43.43,5.39,2.5,30.28
+781790,Ranchero Sauce 1.5 oz,Side Portions - Hidden,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+784048,Tacodilla - Steak,Test Items,0,0,130.41,298.52,161.84,17.79,11.43,0.35,0.71,4.57,86.42,1020.89,6.81,1.0,2.36,27.8
+784049,Tacodilla - Slow Roasted Chicken,Test Items,0,0,136.08,304.04,159.5,18.22,10.93,0.35,2.11,4.23,97.96,889.89,7.58,2.53,0.96,27.43
+784836,Cantina Chicken Stacker - Single Chix,Test Items,0,0,301.36,791.14,474.1,54.11,15.85,0.39,18.81,17.76,73.6,1357.32,50.03,12.03,4.86,26.21
+784837,Cantina Chicken Stacker - Double Chix,Test Items,0,0,338.21,844.99,492.08,56.43,16.53,0.39,19.56,18.65,98.45,1551.66,51.33,12.86,4.86,33.15
+787135,Ube Strawberry Cookie,Test Items,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+787137,Green Apple Freeze&trade; (32 oz),Test Items,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+788368,Creamy Red Chili Sauce 1.5 oz,Side Portions - Hidden,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+809241,Caramel Dulce Churro Chiller (16 oz),Drinks,0,1,206.95,504.48,0.03,18.91,11.95,0.64,0.57,4.44,5.0,352.69,78.23,0.27,76.74,7.18
+809242,Caramel Dulce Churro Chiller (20 oz),Drinks,0,1,277.82,680.23,0.03,25.46,16.1,0.86,0.76,5.92,7.5,471.81,105.51,0.32,103.47,9.74
+809243,Mexican Chocolate Churro Chiller (16 oz),Drinks,0,1,192.78,433.33,0.03,17.93,11.25,0.64,0.57,4.44,0.41,328.16,62.79,0.27,57.76,6.55
+809244,Mexican Chocolate Churro Chiller (20 oz),Drinks,0,1,256.56,573.51,0.03,23.99,15.05,0.86,0.76,5.92,0.62,435.01,82.36,0.32,74.99,8.79
+809245,Wild Strawberry Churro Chiller (16 oz),Drinks,0,1,192.78,435.36,0.03,17.41,10.95,0.64,0.57,4.44,0.0,305.42,64.29,0.27,59.76,6.18
+809246,Wild Strawberry Churro Chiller (20 oz),Drinks,0,1,256.56,576.55,0.03,23.21,14.6,0.86,0.76,5.92,0.0,400.9,84.61,0.32,77.99,8.24
+809247,Cinnabon&reg; Caramel Latte Chiller (16 oz),Drinks,0,1,179.74,408.62,11.49,16.18,9.75,0.48,0.42,3.25,4.15,243.13,59.1,0.21,45.0,5.4
+809248,Cinnabon&reg; Caramel Latte Chiller (19 oz),Drinks,0,1,243.52,534.21,11.49,21.98,13.4,0.7,0.61,4.73,4.15,335.58,75.24,0.32,60.24,7.82
+809249,Mexican Mocha Latte Chiller (16 oz),Drinks,0,1,186.82,427.09,16.48,17.3,10.43,0.51,0.45,3.38,6.45,223.37,61.25,0.21,48.38,5.74
+809250,Mexican Mocha Latte Chiller (20 oz),Drinks,0,1,250.61,552.68,16.48,23.1,14.08,0.72,0.64,4.86,6.45,315.83,77.39,0.32,63.62,8.16
+809251,Vanilla Crema Latte Chiller (16 oz),Drinks,0,1,172.65,388.24,16.48,16.78,10.13,0.51,0.45,3.38,6.04,192.91,52.69,0.21,44.36,5.37
+809252,Vanilla Crema Latte Chiller (20 oz),Drinks,0,1,236.44,513.83,16.48,22.58,13.78,0.72,0.64,4.86,6.04,285.36,68.83,0.32,59.61,7.79
+809253,Cinnabon&reg; Caramel Coffee - Iced (16 oz),Drinks,0,1,271.99,241.58,3.25,9.46,5.52,0.23,0.19,1.55,1.13,147.03,34.78,0.13,22.83,2.86
+809254,Cinnabon&reg; Caramel Coffee - Iced (20 oz),Drinks,0,1,331.09,243.86,3.25,9.46,5.52,0.23,0.19,1.55,1.13,147.42,35.18,0.16,22.84,3.03
+809255,Mexican Mocha Coffee - Iced (16 oz),Drinks,0,1,279.07,260.05,8.24,10.58,6.2,0.25,0.23,1.69,3.43,127.27,36.93,0.13,26.21,3.2
+809256,Mexican Mocha Coffee - Iced (20 oz),Drinks,0,1,345.26,281.75,8.24,10.84,6.36,0.25,0.23,1.69,3.64,142.9,41.61,0.16,28.23,3.56
+809257,Vanilla Crema Coffee - Iced (16 oz),Drinks,0,1,264.9,221.2,8.24,10.06,5.9,0.25,0.23,1.69,3.02,96.81,28.37,0.13,22.19,2.83
+809258,Vanilla Crema Coffee - Iced (20 oz),Drinks,0,1,324.0,223.48,8.24,10.06,5.9,0.25,0.23,1.69,3.02,97.2,28.77,0.16,22.2,3.0
+809259,Mexican Mocha Coffee - Hot,Drinks,0,1,432.34,156.06,16.48,2.56,1.58,0.08,0.07,0.42,6.62,53.22,31.65,0.2,19.57,2.16
+809260,Strawberry Matcha Chiller (16 oz),Drinks,0,1,222.54,514.16,0.0,20.81,12.65,0.64,0.57,4.44,0.0,290.08,74.33,0.13,60.69,6.17
+809261,Strawberry Matcha Chiller (20 oz),Drinks,0,1,293.42,675.35,0.0,26.61,16.3,0.86,0.76,5.92,0.0,388.07,99.65,0.17,81.92,8.23
+809262,Pink Lemonade Frost (16 oz),Drinks,0,1,223.94,190.0,0.0,1.47,0.91,0.05,0.05,0.37,0.0,135.26,47.33,0.3,46.68,0.57
+809263,Pink Lemonade Frost (20oz),Drinks,0,1,282.29,272.69,0.0,2.92,1.83,0.11,0.1,0.74,0.0,187.96,65.52,0.31,64.86,1.09
+809264,Tacodilla - Slow Roasted Chicken (Creamy Chipotle),Test Items,0,0,150.25,378.78,232.56,26.34,12.18,0.37,6.89,5.93,106.03,960.27,7.82,2.57,1.1,27.61
+809265,Tacodilla - Steak (Creamy Chipotle),Test Items,0,0,144.58,373.25,234.9,25.91,12.69,0.37,5.49,6.27,94.49,1091.27,7.05,1.05,2.5,27.98
+811232,Sweet Chipotle BBQ Sauce 1.5 oz,Side Portions - Hidden,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+811233,Mango Pico de Gallo 0.75 oz,Side Portions - Hidden,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+811791,Chicken Enchilada Burrito - Slow Roasted Chicken,Test Items,0,0,195.61,389.8,116.36,13.49,6.0,0.13,3.29,3.75,41.67,1098.78,49.29,3.75,3.03,17.8
+811792,Quesadilla - Slow Roasted Chicken,Test Items,0,0,178.6,527.1,239.22,26.96,13.68,0.36,6.33,5.5,74.77,1205.24,41.93,3.52,3.38,25.65
+811793,Chalupa Supreme&reg; - Slow Roasted Chicken,Test Items,0,0,143.16,344.65,163.33,18.47,4.26,0.09,4.67,9.1,36.05,525.06,29.84,3.48,3.44,14.96
+811794,Three Cheese Slow Roasted Chicken Flatbread Melt,Test Items,0,0,127.57,344.31,149.79,16.62,6.73,0.18,5.9,3.7,52.21,708.2,29.23,2.65,3.53,19.45
+828298,Diablo Buffalo Crispy Chicken Burrito,New,0,0,250.89,575.19,172.28,26.79,7.28,0.09,4.74,8.78,55.13,1682.56,59.94,5.67,4.51,23.32
+828299,Diablo Buffalo Crispy Chicken Soft Taco,New,0,0,121.9,250.45,82.7,10.95,3.14,0.05,2.21,4.33,26.29,711.17,26.86,2.84,2.06,11.16
+828300,Diablo Buffalo Chicken Nacho Fries,New,0,0,221.13,451.73,201.97,26.26,4.15,0.04,5.65,13.32,35.19,1266.69,40.09,5.23,2.57,13.46
+829438,Beefy Potato Loaded Griller,Test Items,0,0,201.28,490.29,224.41,25.04,6.48,0.24,8.58,8.99,28.94,1122.91,53.96,4.7,3.1,12.22
+829439,Mini Taco Salad,Test Items,0,0,141.46,281.91,137.66,15.82,3.93,0.14,4.96,6.57,18.59,492.33,26.04,5.53,1.71,9.14
+829440,Chips and Nacho Supreme Dip,Test Items,0,0,177.18,357.94,173.51,19.41,4.56,0.17,4.63,9.83,18.38,723.15,36.27,6.5,2.86,9.61
+829443,Salted Caramel Churros (3 Pack),Test Items,0,0,47.63,231.2,140.55,15.62,5.08,0.0,2.38,8.14,8.95,99.57,20.18,1.1,11.92,2.48
+829822,Strawberry Passionfruit Limonada,New,0,0,391.42,211.06,0.0,0.02,0.0,0.0,0.01,0.0,0.0,186.84,56.44,0.29,55.31,0.06
+829826,Mango Peach Limonada,New,0,0,391.42,211.23,0.28,0.03,0.01,0.0,0.01,0.01,0.0,186.65,56.43,0.13,55.8,0.07
+830305,Taj&iacute;n&reg; Taco - with Taj&iacute;n&reg; Packet,Test Items,0,0,69.46,126.5,84.2,9.31,3.86,0.23,2.06,2.99,26.46,334.17,4.2,2.0,0.43,6.59
+830306,Chicken Grilled Cheese Burrito,Test Items,0,0,263.65,701.09,300.05,37.69,14.99,0.41,9.41,11.6,83.44,1454.18,62.48,5.04,4.26,27.99
+830307,Burrito Supreme&reg; - Slow Roasted Chicken,Test Items,0,0,229.63,382.65,102.0,12.47,5.4,0.09,3.9,2.84,37.57,1111.73,49.48,6.68,3.96,18.38
+834876,Cheesy Street Chalupas - Steak (Spicy Ranch),Test Items,0,0,68.04,136.61,89.86,10.0,2.3,0.02,4.47,2.8,29.47,361.49,3.05,0.44,1.74,8.7
+834877,Cheesy Street Chalupas - Cantina Chicken (Spicy Ranch),Test Items,0,0,68.04,135.13,87.11,10.04,1.97,0.02,5.16,2.55,33.62,274.85,3.36,1.19,0.99,7.92
+834902,Vanilla Creamer (0.5 oz),Test Items,0,0,14.17,43.45,8.24,0.92,0.58,0.04,0.04,0.21,3.02,4.0,8.53,0.0,6.94,0.27
+851886,Fajita Rolled Quesadilla - Steak,Test Items,0,0,205.53,486.66,205.42,22.96,12.63,0.36,3.31,5.81,65.5,1375.44,44.37,3.28,5.19,26.06
+851887,Fajita Rolled Quesadilla - Cantina Chicken,Test Items,0,0,208.37,489.42,204.25,23.18,12.37,0.36,4.01,5.64,71.27,1309.94,44.76,4.04,4.49,25.87
+851888,Fajita Cheesy Street Chalupas - Steak,Test Items,0,0,94.97,99.54,43.37,4.91,1.22,0.01,0.86,2.7,20.99,434.98,6.02,1.12,2.84,8.36
+851889,Fajita Cheesy Street Chalupas - Cantina Chicken,Test Items,0,0,97.81,102.3,42.2,5.12,0.96,0.01,1.56,2.53,26.76,369.48,6.41,1.88,2.14,8.18
+852961,Hidden Valley Ranch Nacho Cheese Ranch Dip Cup,Side Portions - Hidden,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+852962,Hidden Valley Ranch Pickled Jalapeno Ranch Sauce Dip Cup,Side Portions - Hidden,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+852977,Cantina Chicken Double Tostada,Test Items,0,0,263.08,624.64,327.16,37.52,9.9,0.22,12.13,14.63,79.63,1139.9,43.67,8.94,3.88,28.26
+853312,Cheesy Gordita Crunch Sliders - Chicken,Test Items,0,0,127.01,314.34,179.76,20.22,6.87,0.19,6.08,6.49,55.53,612.94,17.87,3.45,1.62,15.21
+853313,Crispy Chicken Crunchwrap Slider - Sriracha Chile Crisp,Test Items,0,0,130.69,317.74,42.44,13.96,3.67,0.04,3.2,4.52,28.13,789.96,28.95,2.38,2.41,18.94
+854330,Cracked Queso Bowl (Cotija Crunch Bowl),Test Items,0,0,305.61,446.92,194.51,22.37,3.84,0.04,8.39,9.69,60.65,1124.19,40.93,8.25,2.8,20.66
+854337,Orange Vanilla Cream Soda Freeze&trade; (20 oz),New,0,0,21.26,64.15,8.24,0.92,0.58,0.04,0.04,0.21,3.02,7.94,13.29,0.0,9.86,0.27
+854338,Orange Vanilla Cream Soda Freeze&trade; (16 oz),New,0,0,21.26,64.15,8.24,0.92,0.58,0.04,0.04,0.21,3.02,7.94,13.29,0.0,9.86,0.27
+854339,Vanilla Cream Soda Freeze&trade; (16 oz),New,0,0,14.17,43.45,8.24,0.92,0.58,0.04,0.04,0.21,3.02,4.0,8.53,0.0,6.94,0.27
+854340,Vanilla Cream Soda Freeze&trade; (20 oz),New,0,0,14.17,43.45,8.24,0.92,0.58,0.04,0.04,0.21,3.02,4.0,8.53,0.0,6.94,0.27
+854343,Strawberry Vanilla Cream Soda Freeze&trade; (20 oz),Test Items,0,0,21.67,68.45,8.24,0.92,0.58,0.04,0.04,0.21,3.02,15.25,15.03,0.0,13.19,0.27
+854344,Strawberry Vanilla Cream Soda Freeze&trade; (16 oz),Test Items,0,0,21.67,68.45,8.24,0.92,0.58,0.04,0.04,0.21,3.02,15.25,15.03,0.0,13.19,0.27
+871757,Steak Double Dipping Burrito,Test Items,0,0,215.46,678.01,168.2,41.58,11.51,0.34,16.34,11.72,81.38,1559.28,43.9,3.23,5.95,28.7
+871758,Chicken Double Dipping Burrito,Test Items,0,0,215.46,675.04,162.7,41.67,10.85,0.34,17.73,11.21,89.7,1386.01,44.51,4.73,4.43,27.16
+872426,Double Dip Cup Side,Side Portions - Hidden,0,0,53.86,278.82,0.0,22.72,4.34,0.24,10.57,6.6,20.0,384.89,10.85,1.3,2.29,4.39
+872427,Cantina Fajita Grilled Cheese Burrito - Carne Asada,Test Items,0,0,270.74,665.67,320.95,36.02,15.07,0.37,9.54,9.71,69.07,1615.44,54.92,4.53,5.98,27.34
+872428,Cantina Fajita Grilled Cheese Burrito - Cantina Chicken,Test Items,0,0,273.57,668.43,319.78,36.24,14.82,0.37,10.25,9.54,74.84,1549.94,55.31,5.29,5.28,27.15
+872429,Cantina Fajita Quesadilla - Carne Asada,Test Items,0,0,233.88,612.3,306.38,34.4,14.92,0.37,9.23,8.56,69.07,1501.47,46.06,3.96,5.89,26.5
+872430,Cantina Fajita Quesadilla - Cantina Chicken,Test Items,0,0,236.72,615.06,305.21,34.62,14.67,0.37,9.94,8.39,74.84,1435.97,46.45,4.72,5.19,26.32
+872431,Cantina Fajita Grilled Soft Taco - Carne Asada,Test Items,0,0,143.16,306.03,157.03,17.82,5.77,0.1,5.88,5.49,33.6,841.03,21.61,2.29,3.75,13.81
+872432,Cantina Fajita Grilled Soft Taco - Cantina Chicken,Test Items,0,0,146.0,308.79,155.86,18.04,5.52,0.1,6.58,5.32,39.37,775.53,22.0,3.05,3.05,13.63
+872433,Cantina Fajita Bowl - Carne Asada,Test Items,0,0,413.9,714.74,290.95,33.1,9.59,0.17,9.2,13.37,58.35,1909.84,73.97,9.55,7.44,29.25
+872434,Cantina Fajita Bowl - Cantina Chicken,Test Items,0,0,419.57,720.26,288.61,33.54,9.08,0.17,10.61,13.03,69.89,1778.84,74.74,11.07,6.03,28.88
+872518,Nacho Supreme Dip,Test Items,0,0,146.0,195.44,94.94,10.78,3.76,0.17,2.44,4.07,18.38,650.86,16.94,4.67,2.5,7.67
+872519,Dragonfruit Refresca,Test Items,0,0,387.29,193.09,0.0,0.02,0.0,0.0,0.01,0.0,0.0,52.86,48.94,0.33,46.59,0.19
+872520,Pink Lemonade Frost with Strawberries (16 oz),Test Items,0,0,223.94,190.0,0.0,1.47,0.91,0.05,0.05,0.37,0.0,135.26,47.33,0.3,46.68,0.57
+872521,Pink Lemonade Frost with Strawberries (20 oz),Test Items,0,0,282.29,272.69,0.0,2.92,1.83,0.11,0.1,0.74,0.0,187.96,65.52,0.31,64.86,1.09
+872851,Cheesy Gordita Crunch Sliders - Beef,Test Items,0,0,129.84,324.69,197.61,21.86,8.0,0.37,5.52,7.38,45.47,665.69,19.48,4.23,1.62,12.51
+872852,Cheesy Gordita Crunch Sliders - Steak,Test Items,0,0,124.17,311.58,180.93,20.01,7.13,0.19,5.37,6.66,49.76,678.44,17.48,2.69,2.33,15.39
+889508,Pink Lemonade Frost (16 oz) - No Strawberries,Test Items,0,0,222.52,185.19,0.0,1.45,0.91,0.05,0.05,0.37,0.0,134.99,46.07,0.01,46.06,0.51
+889509,Pink Lemonade Frost (20 oz) - No Strawberries,Test Items,0,0,280.87,267.88,0.0,2.9,1.82,0.11,0.09,0.74,0.0,187.69,64.27,0.02,64.24,1.03
+889510,Strawberry Dream Refresca,New,0,0,382.68,218.77,8.24,0.93,0.58,0.04,0.04,0.21,3.02,162.92,55.24,0.29,51.9,0.33
+889511,Dragonfruit Strawberry Limonada,New,0,0,390.59,202.09,0.0,0.02,0.0,0.0,0.01,0.0,0.0,166.64,53.34,0.29,50.48,0.06
+906579,Caramel Apple Empanada Chiller (16 oz),Test Items,0,0,191.36,479.02,0.02,19.41,11.82,0.53,0.47,3.7,5.0,295.47,69.8,0.18,65.09,6.15
+906580,Caramel Apple Empanada Chiller (20 oz),Test Items,0,0,248.06,599.77,0.02,25.21,15.47,0.75,0.66,5.18,5.0,387.09,85.09,0.22,80.32,8.2
+906583,Chili (Regional) (2 oz),Side Portions - Hidden,0,0,56.7,61.58,30.31,3.37,1.31,0.21,0.29,1.39,10.83,321.48,4.25,1.54,0.16,3.56
+906616,Cantina Chicken Quesadilla - Rolled w/ Avocado Verde Salsa,Test Items,0,0,260.82,669.24,338.91,38.68,16.48,0.46,11.8,8.58,113.63,1528.06,46.34,4.76,4.39,33.93
+906627,Berry Burst Energy Refresca,Test Items,0,0,411.9,123.13,0.05,0.01,0.0,0.01,0.0,0.0,0.43,219.94,30.83,0.05,28.73,0.14
+906628,Electric Punch Energy Refresca,Test Items,0,0,411.9,123.89,0.05,0.01,0.0,0.01,0.0,0.0,0.43,211.96,31.2,0.04,28.89,0.09
+906630,Bottled Diet Mountain Dew&reg;,Test Items,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+906631,Bottled Mountain Dew&reg; Zero,Test Items,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+906632,Bottled Cherry Pepsi&reg;,Test Items,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+906633,Bottled Pepsi&reg; Zero,Test Items,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+907968,Pineapple Dream Refresca,New,0,0,382.68,216.08,8.34,0.94,0.58,0.04,0.04,0.21,3.08,165.25,54.67,0.29,52.29,0.33
+925314,Big Dawg Burrito,Test Items,0,0,296.25,780.1,301.22,41.57,15.67,0.41,9.1,15.04,77.67,1840.09,72.08,6.33,5.28,29.42
+925315,California Crunchwrap,Test Items,0,0,317.51,680.33,250.46,28.38,6.94,0.07,8.76,11.98,25.57,1552.39,86.26,6.71,6.77,20.26
+925316,Cantina Craze,Test Items,0,0,143.16,353.68,200.11,22.73,8.05,0.22,6.41,7.38,54.28,613.87,20.14,3.69,2.18,15.87
+925319,Pink Lemonade Frost with Dragonfruit (16 oz),Test Items,0,0,222.52,185.19,0.0,1.45,0.91,0.05,0.05,0.37,0.0,134.99,46.07,0.01,46.06,0.51
+925320,Pink Lemonade Frost with Dragonfruit (20 oz),Test Items,0,0,280.87,267.88,0.0,2.9,1.82,0.11,0.09,0.74,0.0,187.69,64.27,0.02,64.24,1.03
+926745,Flamin' Hot Rice (3 oz),Side Portions - Hidden,0,0,85.05,137.86,30.99,5.07,0.55,0.02,1.06,2.25,0.32,189.33,20.58,0.71,0.78,2.2
+926746,Crispy Chicken Strips - 4 piece,Test Items,0,0,183.7,468.61,184.68,21.88,2.39,0.0,5.31,14.15,74.51,1437.18,39.35,5.07,0.0,28.57
+926747,Frank's Diablo Buffalo Sauce (1.5 oz),Side Portions - Hidden,0,0,42.52,110.56,0.0,10.21,1.7,0.0,0.0,0.0,6.38,552.81,3.4,0.43,1.7,0.43
+926749,Flour Tortilla (6.5 in.) - 2 pack,Side Portions - Hidden,0,0,56.7,170.48,34.39,4.04,1.64,0.0,1.64,0.65,0.06,391.72,29.04,1.37,1.64,4.48
+927002,Crispy Chicken Crunchwrap Slider - Creamy Chipotle Sauce,Test Items,0,0,130.69,319.28,71.66,14.37,3.7,0.05,5.11,5.2,29.46,787.87,28.48,2.4,2.09,19.02
+927003,Sriracha Chile Crisp Sauce (0.5 oz),Side Portions - Hidden,0,0,14.18,70.88,0.0,7.09,1.18,0.0,0.0,0.0,4.73,75.6,1.42,0.0,0.95,0.0
+927004,Sriracha Chile Crisp Sauce (2 oz),Side Portions - Hidden,0,0,56.7,283.5,0.0,28.35,4.73,0.0,0.0,0.0,18.9,302.4,5.67,0.0,3.78,0.0
+927038,Baja Blast Pie Chiller (16 oz),Test Items,0,0,163.01,369.02,0.02,17.91,10.82,0.53,0.47,3.7,0.0,240.47,45.8,0.18,42.09,5.15
+927039,Baja Blast Pie Chiller (20 oz),Test Items,0,0,219.71,489.77,0.02,23.71,14.47,0.75,0.66,5.18,0.0,332.09,61.09,0.22,57.32,7.2
+943688,Chicken Queso Burrito,Test Items,0,0,229.63,388.66,113.06,12.8,6.43,0.04,2.67,3.41,47.32,1263.92,49.19,3.51,3.15,19.17
+943689,Diablo Dusted Chicken Nuggets - 10 Piece,Test Items,0,0,308.44,868.11,205.3,54.56,7.35,0.07,22.42,23.65,125.39,2291.92,23.3,4.21,1.83,71.0
+943690,Diablo Dusted Chicken Nuggets - 5 Piece,Test Items,0,0,178.6,549.6,204.71,38.89,5.55,0.07,17.83,14.39,73.9,1326.97,13.31,2.28,1.67,36.6
+943861,Burrito Bliss,Test Items,0,0,202.7,505.59,169.97,23.81,4.75,0.03,10.25,8.14,8.83,949.02,62.62,6.92,3.57,10.2
+943862,Cantina Chicken Fajita Grilled Cheese Burrito,Test Items,0,0,259.4,619.26,276.63,31.18,14.05,0.37,7.39,8.24,74.77,1478.48,54.52,4.84,5.04,27.02
+943863,Cantina Carne Asada Fajita Grilled Cheese Burrito,Test Items,0,0,256.56,616.5,277.8,30.97,14.3,0.37,6.69,8.41,68.99,1543.98,54.14,4.08,5.74,27.2
+943864,Cantina Chicken Fajita Grilled Soft Taco,Test Items,0,0,131.83,259.62,112.71,12.99,4.75,0.1,3.73,4.01,39.3,704.07,21.21,2.6,2.81,13.5
+943865,Cantina Carne Asada Fajita Grilled Soft Taco,Test Items,0,0,128.99,256.86,113.89,12.77,5.0,0.1,3.03,4.18,33.53,769.58,20.82,1.84,3.51,13.68
+943866,Cantina Chicken Fajita Quesadilla,Test Items,0,0,222.54,565.89,262.06,29.56,13.9,0.37,7.08,7.08,74.77,1364.51,45.66,4.27,4.95,26.18
+943868,Cantina Chicken Fajita Bowl,Test Items,0,0,405.4,671.09,245.46,28.48,8.31,0.17,7.75,11.73,69.82,1707.39,73.95,10.62,5.79,28.75
+943869,Cantina Carne Asada Fajita Bowl,Test Items,0,0,399.73,665.57,247.8,28.05,8.81,0.17,6.35,12.07,58.28,1838.39,73.18,9.1,7.19,29.12
+943873,Cantina Carne Asada Fajita Quesadilla,Test Items,0,0,219.71,563.13,263.23,29.35,14.15,0.37,6.38,7.25,68.99,1430.01,45.28,3.51,5.65,26.37
+944008,Mtn Dew&reg; Baja Blast Pie,Test Items,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+944009,Mtn Dew&reg; Baja Blast Pie Slice,Test Items,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+944010,Sriracha Chile Crisp Sauce (1.5 oz),Side Portions - Hidden,0,0,42.52,212.62,0.0,21.26,3.54,0.0,0.0,0.0,14.18,226.8,4.25,0.0,2.83,0.0
