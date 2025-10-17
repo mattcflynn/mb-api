@@ -1,0 +1,124 @@
+url,state,city,address_slug,store_id,full_address,zip_code,latitude,longitude
+https://locations.tacobell.com/or/baker-city/1375-campbell-st-.html,or,baker-city,1375-campbell-st-,041378,"1375 Campbell St., Baker City, OR 97814",97814,44.7815975,-117.822123
+https://locations.tacobell.com/or/woodburn/1520-n--pacific-hwy.html,or,woodburn,1520-n--pacific-hwy,038753,"1520 N. Pacific Hwy, Woodburn, OR 97071",97071,45.1503076,-122.8302832
+https://locations.tacobell.com/or/corvallis/4825-sw-research-way.html,or,corvallis,4825-sw-research-way,037042,"4825 SW Research Way, Corvallis, OR 97333",97333,44.5515961,-123.3058168
+https://locations.tacobell.com/or/creswell/255-melton-rd-.html,or,creswell,255-melton-rd-,040425,"255 Melton Rd., Creswell, OR 97426",97426,43.918638,-123.0113856
+https://locations.tacobell.com/or/portland/11699-se-82nd-avenue.html,or,portland,11699-se-82nd-avenue,033462,"11699 SE 82nd Avenue, Portland, OR 97086",11699,45.4613401,-122.5790544
+https://locations.tacobell.com/or/klamath-falls/3118-washburn-way.html,or,klamath-falls,3118-washburn-way,034924,"3118 Washburn Way, Klamath Falls, OR 97603",97603,42.1982721,-121.7577788
+https://locations.tacobell.com/or/junction-city/94588-hwy-99e.html,or,junction-city,94588-hwy-99e,036335,"94588 Hwy 99E, Junction City, OR 97448",94588,44.2313527,-123.2031923
+https://locations.tacobell.com/or/salem/4220-brooklake-rd-ne.html,or,salem,4220-brooklake-rd-ne,018096,"4220 Brooklake Rd NE, Salem, OR 97303",97303,45.0487289,-122.9751134
+https://locations.tacobell.com/or/central-point/1600-e-pine-st.html,or,central-point,1600-e-pine-st,018285,"1600 E Pine St, Central Point, OR 97502",97502,42.3780172,-122.8992518
+https://locations.tacobell.com/or/wasco/91444-biggs-rufus-hwy.html,or,wasco,91444-biggs-rufus-hwy,037348,"91444 Biggs-Rufus Hwy, Wasco, OR 97065",91444,45.6679049,-120.8359367
+https://locations.tacobell.com/or/stayton/1855-shaff-rd.html,or,stayton,1855-shaff-rd,035183,"1855 Shaff Rd, Stayton, OR 97383",97383,44.809846,-122.8138314
+https://locations.tacobell.com/or/eugene/4550-w-11th.html,or,eugene,4550-w-11th,038737,"4550 W 11th, Eugene, OR 97402",97402,44.0459169,-123.1694192
+https://locations.tacobell.com/or/milton-freewater/125-s--columbia-street.html,or,milton-freewater,125-s--columbia-street,038775,"125 S. Columbia Street, Milton Freewater, OR 97862",97862,45.9331467,-118.3878102
+https://locations.tacobell.com/or/troutdale/1480-nw-frontage-road.html,or,troutdale,1480-nw-frontage-road,037177,"1480 NW Frontage Road, Troutdale, OR 97060",97060,45.5434123,-122.4012636
+https://locations.tacobell.com/or/monmouth/1537-monmouth-independence-highway.html,or,monmouth,1537-monmouth-independence-highway,039641,"1537 Monmouth Independence Highway, Monmouth, OR 97361",97361,44.8508449,-123.2171088
+https://locations.tacobell.com/or/woodburn/985-lawson-way.html,or,woodburn,985-lawson-way,003536,"985 Lawson Way, Woodburn, OR 97071",97071,45.1437473,-122.8380737
+https://locations.tacobell.com/or/hillsboro/977-sw-oak-st.html,or,hillsboro,977-sw-oak-st,002403,"977 SW Oak St, Hillsboro, OR 97123",97123,45.5189852,-123.0005465
+https://locations.tacobell.com/or/portland/9350-se-stark-street.html,or,portland,9350-se-stark-street,032936,"9350 SE Stark Street, Portland, OR 97216",97216,45.5187623,-122.5663789
+https://locations.tacobell.com/or/mcminnville/915-ne-highway-99w.html,or,mcminnville,915-ne-highway-99w,001531,"915 NE Highway 99W, McMinnville, OR 97128",97128,45.2296042,-123.1692785
+https://locations.tacobell.com/or/beaverton/8715-sw-hall-blvd-.html,or,beaverton,8715-sw-hall-blvd-,032945,"8715 SW Hall Blvd., Beaverton, OR 97008",97008,45.4570087,-122.7830446
+https://locations.tacobell.com/or/canby/845-sw-1st-avenue.html,or,canby,845-sw-1st-avenue,018095,"845 SW 1st Avenue, Canby, OR 97013",97013,45.2578377,-122.7004544
+https://locations.tacobell.com/or/wilsonville/8251-sw-wilsonville-rd.html,or,wilsonville,8251-sw-wilsonville-rd,004958,"8251 SW Wilsonville Rd, Wilsonville, OR 97070",97070,45.3031906,-122.76305
+https://locations.tacobell.com/or/portland/8181-johnson-creek-blvd-se.html,or,portland,8181-johnson-creek-blvd-se,032942,"8181 Johnson Creek Blvd SE, Portland, OR 97206",97206,45.4573909,-122.5794712
+https://locations.tacobell.com/or/portland/7710-sw-barbur-blvd.html,or,portland,7710-sw-barbur-blvd,031832,"7710 SW Barbur Blvd, Portland, OR 97219",97219,45.4687112,-122.6922087
+https://locations.tacobell.com/or/white-city/7511-crater-lake-hwy.html,or,white-city,7511-crater-lake-hwy,021401,"7511 Crater Lake Hwy, White City, OR 97503",97503,42.4257163,-122.8510013
+https://locations.tacobell.com/or/portland/7415-ne-martin-luther-king-blvd.html,or,portland,7415-ne-martin-luther-king-blvd,003286,"7415 NE Martin Luther King Blvd, Portland, OR 97211",97211,45.576685,-122.6616752
+https://locations.tacobell.com/or/portland/725-ne-weidler-st-.html,or,portland,725-ne-weidler-st-,032937,"725 NE Weidler St., Portland, OR 97232",97232,45.5346146,-122.6579818
+https://locations.tacobell.com/or/hillsboro/7235-ne-imbrie-drive.html,or,hillsboro,7235-ne-imbrie-drive,021416,"7235 NE Imbrie Drive, Hillsboro, OR 97124",97124,45.5500694,-122.9066078
+https://locations.tacobell.com/or/eugene/669-west-7th-ave.html,or,eugene,669-west-7th-ave,000274,"669 West 7th Ave, Eugene, OR 97402",97402,44.0523436,-123.1031249
+https://locations.tacobell.com/or/portland/6560-sw-beaverton.html,or,portland,6560-sw-beaverton,002622,"6560 SW Beaverton, Portland, OR 97225",97225,45.4733251,-122.7440842
+https://locations.tacobell.com/or/hillsboro/6255-se-tuallatin-valley.html,or,hillsboro,6255-se-tuallatin-valley,032950,"6255 SE Tuallatin Valley, Hillsboro, OR 97123",97123,45.5000877,-122.9177263
+https://locations.tacobell.com/or/silverton/605-west-c-street.html,or,silverton,605-west-c-street,D947010,"605 West C Street, Silverton, OR 97381",97381,45.0070647,-122.790289
+https://locations.tacobell.com/or/seaside/601-south-roosevelt.html,or,seaside,601-south-roosevelt,042485,"601 South Roosevelt, Seaside, OR 97138",97138,45.9894218,-123.9215209
+https://locations.tacobell.com/or/saint-helens/58761-s-columbia-river-hwy.html,or,saint-helens,58761-s-columbia-river-hwy,015521,"58761 S Columbia River Hwy, Saint Helens, OR 97051",58761,N/A,N/A
+https://locations.tacobell.com/or/salem/5795-commercial-st-se.html,or,salem,5795-commercial-st-se,023450,"5795 Commercial St SE, Salem, OR 97306",97306,44.8695565,-123.0230012
+https://locations.tacobell.com/or/salem/565-lancaster-dr-se.html,or,salem,565-lancaster-dr-se,020674,"565 Lancaster Dr SE, Salem, OR 97301",97301,44.922275,-122.9831366
+https://locations.tacobell.com/or/bend/533-ne-bellevue-dr.html,or,bend,533-ne-bellevue-dr,019340,"533 NE Bellevue Dr, Bend, OR 97701",97701,44.0551887,-121.2627971
+https://locations.tacobell.com/or/klamath-falls/5327-south-6th-st.html,or,klamath-falls,5327-south-6th-st,026830,"5327 South 6th St, Klamath Falls, OR 97603",97603,42.2158913,-121.7661236
+https://locations.tacobell.com/or/portland/4933-se-powell-blvd.html,or,portland,4933-se-powell-blvd,032944,"4933 SE Powell Blvd, Portland, OR 97206",97206,45.4978872,-122.6116527
+https://locations.tacobell.com/or/portland/4909-n-lombard-st-.html,or,portland,4909-n-lombard-st-,032934,"4909 N Lombard St., Portland, OR 97203",97203,45.5810388,-122.719218
+https://locations.tacobell.com/or/portland/4852-nw-bethany-blvd.html,or,portland,4852-nw-bethany-blvd,031829,"4852 NW Bethany Blvd, Portland, OR 97229",97229,45.5555939,-122.835377
+https://locations.tacobell.com/or/keizer/4690-river-road-n.html,or,keizer,4690-river-road-n,004897,"4690 River Road N, Keizer, OR 97303",97303,44.9917811,-123.0260648
+https://locations.tacobell.com/or/portland/4616-n-interstate-ave.html,or,portland,4616-n-interstate-ave,020020,"4616 N Interstate Ave, Portland, OR 97217",97217,45.5564846,-122.68182
+https://locations.tacobell.com/or/salem/450-wallace-rd-nw.html,or,salem,450-wallace-rd-nw,009507,"450 Wallace Rd NW, Salem, OR 97304",97304,44.946203,-123.049243
+https://locations.tacobell.com/or/medford/448-e-jackson-st-.html,or,medford,448-e-jackson-st-,028001,"448 E Jackson St., Medford, OR 97501",97501,42.3307408,-122.8717572
+https://locations.tacobell.com/or/forest-grove/4455-pacific-avenue.html,or,forest-grove,4455-pacific-avenue,024308,"4455 Pacific Avenue, Forest Grove, OR 97116",97116,45.5204078,-123.070987
+https://locations.tacobell.com/or/madras/44-sw-5th-st.html,or,madras,44-sw-5th-st,038828,"44 SW 5th St, Madras, OR 97741",97741,44.6345226,-121.1295751
+https://locations.tacobell.com/or/eugene/4295-barger-dr.html,or,eugene,4295-barger-dr,021241,"4295 Barger Dr, Eugene, OR 97402",97402,44.0848953,-123.1699373
+https://locations.tacobell.com/or/gresham/4265-se-182nd-ave.html,or,gresham,4265-se-182nd-ave,015317,"4265 SE 182nd Ave, Gresham, OR 97030",97030,45.4915891,-122.4756834
+https://locations.tacobell.com/or/springfield/4198-main-st.html,or,springfield,4198-main-st,032564,"4198 Main St, Springfield, OR 97478",97478,44.0460435,-122.9637777
+https://locations.tacobell.com/or/lincoln-city/3820-ne-highway-101.html,or,lincoln-city,3820-ne-highway-101,029729,"3820 NE Highway 101, Lincoln City, OR 97367",97367,44.9782721,-124.0109156
+https://locations.tacobell.com/or/portland/3908-se-82nd-ave.html,or,portland,3908-se-82nd-ave,032941,"3908 SE 82nd Ave, Portland, OR 97266",97266,45.493697,-122.5783474
+https://locations.tacobell.com/or/ontario/382-e-idaho-ave.html,or,ontario,382-e-idaho-ave,004402,"382 E Idaho Ave, Ontario, OR 97914",97914,44.0251906,-116.9566387
+https://locations.tacobell.com/or/sandy/37317-highway-26.html,or,sandy,37317-highway-26,002769,"37317 Highway 26, Sandy, OR 97055",37317,45.4009146,-122.2792936
+https://locations.tacobell.com/or/brookings/350-5th-street.html,or,brookings,350-5th-street,F122001,"350 5th Street, Brookings, OR 97415",97415,42.0538754,-124.2880556
+https://locations.tacobell.com/or/beaverton/3420-sw-cedar-hills-blvd.html,or,beaverton,3420-sw-cedar-hills-blvd,002253,"3420 SW Cedar Hills Blvd, Beaverton, OR 97005",97005,45.4949264,-122.8092227
+https://locations.tacobell.com/or/newberg/3420-portland-road.html,or,newberg,3420-portland-road,015653,"3420 Portland Road, Newberg, OR 97132",97132,45.3073358,-122.9427085
+https://locations.tacobell.com/or/springfield/3220-gateway-st.html,or,springfield,3220-gateway-st,004300,"3220 Gateway St, Springfield, OR 97477",97477,44.0801338,-123.0422224
+https://locations.tacobell.com/or/grants-pass/301-ne-terry-ln.html,or,grants-pass,301-ne-terry-ln,028002,"301 NE Terry Ln, Grants Pass, OR 97526",97526,42.4391364,-123.3027434
+https://locations.tacobell.com/or/eugene/2890-west-11th-ave.html,or,eugene,2890-west-11th-ave,005775,"2890 West 11th Ave, Eugene, OR 97402",97402,44.0475752,-123.1349773
+https://locations.tacobell.com/or/eugene/2805-chad-dr.html,or,eugene,2805-chad-dr,017560,"2805 Chad Dr, Eugene, OR 97408",97408,44.0903841,-123.0673454
+https://locations.tacobell.com/or/cottage-grove/2710-row-river-rd.html,or,cottage-grove,2710-row-river-rd,019307,"2710 Row River Rd, Cottage Grove, OR 97424",97424,43.7992524,-123.0382735
+https://locations.tacobell.com/or/hood-river/2649-cascade-avenue.html,or,hood-river,2649-cascade-avenue,017510,"2649 Cascade Avenue, Hood River, OR 97031",97031,45.710174,-121.5381767
+https://locations.tacobell.com/or/keizer/2635-jorie-lane-ne.html,or,keizer,2635-jorie-lane-ne,030306,"2635 Jorie Lane NE, Keizer, OR 97303",97303,45.006761,-122.9998179
+https://locations.tacobell.com/or/troutdale/25123-se-stark-st-.html,or,troutdale,25123-se-stark-st-,022498,"25123 SE Stark St., Troutdale, OR 97060",25123,45.5193252,-122.4042418
+https://locations.tacobell.com/or/medford/2490-crater-lake-highway.html,or,medford,2490-crater-lake-highway,028004,"2490 Crater Lake Highway, Medford, OR 97504",97504,42.3536037,-122.8702923
+https://locations.tacobell.com/or/florence/2460-highway-101.html,or,florence,2460-highway-101,016803,"2460 Highway 101, Florence, OR 97439",97439,43.9882513,-124.1009636
+https://locations.tacobell.com/or/newport/2415-n--coast-highway.html,or,newport,2415-n--coast-highway,021357,"2415 N. Coast Highway, Newport, OR 97365",97365,44.6542178,-124.0534367
+https://locations.tacobell.com/or/medford/2323-w--main-street.html,or,medford,2323-w--main-street,028005,"2323 W. Main Street, Medford, OR 97501",97501,42.3234096,-122.9005013
+https://locations.tacobell.com/or/ashland/2290-ashland-street.html,or,ashland,2290-ashland-street,001683,"2290 Ashland Street, Ashland, OR 97520",97520,42.1852799,-122.6718693
+https://locations.tacobell.com/or/portland/2247-ne-82nd-ave.html,or,portland,2247-ne-82nd-ave,025988,"2247 NE 82nd Ave, Portland, OR 97220",97220,45.5385715,-122.5792124
+https://locations.tacobell.com/or/corvallis/2235-nw-9th-street.html,or,corvallis,2235-nw-9th-street,003622,"2235 NW 9th Street, Corvallis, OR 97330",97330,44.590746,-123.2532405
+https://locations.tacobell.com/or/eugene/215-division-avenue.html,or,eugene,215-division-avenue,016302,"215 Division Avenue, Eugene, OR 97404",97404,44.0986774,-123.1238814
+https://locations.tacobell.com/or/salem/2093-lancaster-dr-ne.html,or,salem,2093-lancaster-dr-ne,009409,"2093 Lancaster Dr NE, Salem, OR 97305",97305,44.9548087,-122.9841389
+https://locations.tacobell.com/or/portland/2079-w-burnside-street.html,or,portland,2079-w-burnside-street,019886,"2079 W Burnside Street, Portland, OR 97209",97209,45.5234186,-122.6940584
+https://locations.tacobell.com/or/gresham/205-ne-burnside-rd.html,or,gresham,205-ne-burnside-rd,032933,"205 NE Burnside Rd, Gresham, OR 97030",97030,45.5086476,-122.4289081
+https://locations.tacobell.com/or/prineville/2042-ne-3rd-st.html,or,prineville,2042-ne-3rd-st,038829,"2042 NE 3rd St, Prineville, OR 97754",97754,44.3024945,-120.8215971
+https://locations.tacobell.com/or/pendleton/2001-sw-court-place.html,or,pendleton,2001-sw-court-place,019531,"2001 SW Court Place, Pendleton, OR 97801",97801,45.6670158,-118.8067706
+https://locations.tacobell.com/or/dallas/200-w--ellendale-ave-.html,or,dallas,200-w--ellendale-ave-,027542,"200 W. Ellendale Ave., Dallas, OR 97338",97338,44.9293419,-123.315767
+https://locations.tacobell.com/or/albany/200-airport-rd-se.html,or,albany,200-airport-rd-se,032587,"200 Airport Rd SE, Albany, OR 97322",97322,44.6411803,-123.0655434
+https://locations.tacobell.com/or/gladstone/19795-mcloughlin-blvd.html,or,gladstone,19795-mcloughlin-blvd,032951,"19795 McLoughlin Blvd, Gladstone, OR 97027",19795,45.3774898,-122.6030395
+https://locations.tacobell.com/or/portland/1946-ne-122nd-ave.html,or,portland,1946-ne-122nd-ave,032949,"1946 NE 122nd Ave, Portland, OR 97230",97230,45.536909,-122.5372498
+https://locations.tacobell.com/or/tualatin/19305-s-w--martinazzi-ave-.html,or,tualatin,19305-s-w--martinazzi-ave-,003163,"19305 S.W. Martinazzi Ave., Tualatin, OR 97062",19305,45.380879,-122.7596756
+https://locations.tacobell.com/or/aloha/19275-sw-tualatin-valley-hwy.html,or,aloha,19275-sw-tualatin-valley-hwy,032940,"19275 SW Tualatin Valley Hwy, Aloha, OR 97006",19275,45.4950794,-122.8755177
+https://locations.tacobell.com/or/oregon-city/19005-s-bevercreek-rd.html,or,oregon-city,19005-s-bevercreek-rd,032939,"19005 S Bevercreek Rd, Oregon City, OR 97045",19005,45.3315699,-122.5730451
+https://locations.tacobell.com/or/grants-pass/1881-ne-6th-street.html,or,grants-pass,1881-ne-6th-street,019978,"1881 NE 6th Street, Grants Pass, OR 97526",97526,42.4601287,-123.3222498
+https://locations.tacobell.com/or/portland/18510-se-stark-st-.html,or,portland,18510-se-stark-st-,032932,"18510 SE Stark St., Portland, OR 97233",18510,45.5188945,-122.4723276
+https://locations.tacobell.com/or/albany/1835-pacific-blvd-sw.html,or,albany,1835-pacific-blvd-sw,032565,"1835 Pacific Blvd SW, Albany, OR 97321",97321,44.6226859,-123.1097259
+https://locations.tacobell.com/or/roseburg/180-ne-garden-valley-blvd.html,or,roseburg,180-ne-garden-valley-blvd,030293,"180 NE Garden Valley Blvd, Roseburg, OR 97470",97470,43.2269604,-123.3534995
+https://locations.tacobell.com/or/tigard/17873-sw-mcewan-road.html,or,tigard,17873-sw-mcewan-road,003187,"17873 SW McEwan Road, Tigard, OR 97224",17873,45.3960189,-122.7442373
+https://locations.tacobell.com/or/hermiston/1677-n-1st-street.html,or,hermiston,1677-n-1st-street,019722,"1677 N 1st Street, Hermiston, OR 97838",97838,45.8450475,-119.2902166
+https://locations.tacobell.com/or/grants-pass/1670-allen-creek-rd.html,or,grants-pass,1670-allen-creek-rd,031662,"1670 Allen Creek Rd, Grants Pass, OR 97527",97527,42.4202772,-123.351888
+https://locations.tacobell.com/or/la-pine/16490-1st-st.html,or,la-pine,16490-1st-st,038827,"16490 1st St, La Pine, OR 97739",16490,43.6745494,-121.5045642
+https://locations.tacobell.com/or/milwaukie/16300-se-mcloughlin-blvd-.html,or,milwaukie,16300-se-mcloughlin-blvd-,032948,"16300 SE McLoughlin Blvd., Milwaukie, OR 97267",16300,45.4329598,-122.6352712
+https://locations.tacobell.com/or/sherwood/16240-s-w--langer-drive.html,or,sherwood,16240-s-w--langer-drive,024103,"16240 S.W. Langer Drive, Sherwood, OR 97140",16240,45.3675264,-122.8455839
+https://locations.tacobell.com/or/happy-valley/16050-se-sunnyside-rd.html,or,happy-valley,16050-se-sunnyside-rd,027516,"16050 SE Sunnyside Rd, Happy Valley, OR 97015",16050,45.4265627,-122.4990291
+https://locations.tacobell.com/or/clackamas/16040-se-82nd-dr.html,or,clackamas,16040-se-82nd-dr,002442,"16040 SE 82nd Dr, Clackamas, OR 97015",16040,45.4065245,-122.5685658
+https://locations.tacobell.com/or/warrenton/1530-se-discovery-lane.html,or,warrenton,1530-se-discovery-lane,027707,"1530 SE Discovery Lane, Warrenton, OR 97146",97146,46.1475635,-123.9163731
+https://locations.tacobell.com/or/springfield/1505-mohawk-blvd.html,or,springfield,1505-mohawk-blvd,032563,"1505 Mohawk Blvd, Springfield, OR 97477",97477,44.058635,-123.0000177
+https://locations.tacobell.com/or/the-dalles/1501-w-6th-st.html,or,the-dalles,1501-w-6th-st,001704,"1501 W 6th St, The Dalles, OR 97058",97058,45.6088515,-121.2029301
+https://locations.tacobell.com/or/north-bend/1501-virginia-avenue.html,or,north-bend,1501-virginia-avenue,019918,"1501 Virginia Avenue, North Bend, OR 97459",97459,43.4063369,-124.2327115
+https://locations.tacobell.com/or/portland/13480-nw-science-park-drive.html,or,portland,13480-nw-science-park-drive,032947,"13480 NW Science Park Drive, Portland, OR 97229",13480,45.5247088,-122.8155809
+https://locations.tacobell.com/or/tigard/13305-sw-pacific-highway.html,or,tigard,13305-sw-pacific-highway,015347,"13305 SW Pacific Highway, Tigard, OR 97223",13305,45.4234769,-122.7830875
+https://locations.tacobell.com/or/medford/1311-center-drive.html,or,medford,1311-center-drive,028003,"1311 Center Drive, Medford, OR 97501",97501,42.312901,-122.8566866
+https://locations.tacobell.com/or/portland/12605-se-division-st-.html,or,portland,12605-se-division-st-,032935,"12605 SE Division St., Portland, OR 97236",12605,45.5044499,-122.5340298
+https://locations.tacobell.com/or/portland/12237-n-jantzen-dr.html,or,portland,12237-n-jantzen-dr,016521,"12237 N Jantzen Dr, Portland, OR 97217",12237,45.6116469,-122.6768777
+https://locations.tacobell.com/or/redmond/1214-s-highway-97.html,or,redmond,1214-s-highway-97,038826,"1214 S Highway 97, Redmond, OR 97756",97756,N/A,N/A
+https://locations.tacobell.com/or/portland/12017-ne-glisan-st.html,or,portland,12017-ne-glisan-st,018619,"12017 NE Glisan St, Portland, OR 97220",12017,45.5263693,-122.5393542
+https://locations.tacobell.com/or/lebanon/12-e-airport-road.html,or,lebanon,12-e-airport-road,032566,"12 E Airport Road, Lebanon, OR 97355",97355,44.5265276,-122.9068179
+https://locations.tacobell.com/or/beaverton/1170-nw-185th-ave.html,or,beaverton,1170-nw-185th-ave,032943,"1170 NW 185th Ave, Beaverton, OR 97006",97006,45.5281789,-122.8669393
+https://locations.tacobell.com/or/tigard/11635-sw-pacific-hwy.html,or,tigard,11635-sw-pacific-hwy,032946,"11635 SW Pacific Hwy, Tigard, OR 97223",11635,45.4388407,-122.7542199
+https://locations.tacobell.com/or/island-city/11625-island-ave.html,or,island-city,11625-island-ave,019673,"11625 Island Ave, Island City, OR 97850",11625,45.3365737,-118.0606051
+https://locations.tacobell.com/or/sutherlin/112-clover-leap-loop.html,or,sutherlin,112-clover-leap-loop,032195,"112 Clover Leap Loop, Sutherlin, OR 97479",97479,43.3867963,-123.342036
+https://locations.tacobell.com/or/bend/1104-ne-3rd-st.html,or,bend,1104-ne-3rd-st,001435,"1104 NE 3rd St, Bend, OR 97701",97701,44.0612646,-121.301959
+https://locations.tacobell.com/or/milwaukie/11000-se-oak-st.html,or,milwaukie,11000-se-oak-st,032938,"11000 SE Oak St, Milwaukie, OR 97222",11000,45.4430707,-122.6281829
+https://locations.tacobell.com/or/coos-bay/1015-1st-st.html,or,coos-bay,1015-1st-st,020901,"1015 1st St, Coos Bay, OR 97420",97420,43.3577301,-124.2124839
+https://locations.tacobell.com/or/coos-bay/1590-newmark-ave.html,or,coos-bay,1590-newmark-ave,037879,"1590 Newmark Ave, Coos Bay, OR 97420",97420,43.3915985,-124.2493309
+https://locations.tacobell.com/or/north-plains/30810-nw-pacific-st-.html,or,north-plains,30810-nw-pacific-st-,037718,"30810 NW Pacific St., North Plains, OR 97133",30810,45.594119,-122.9957148
+https://locations.tacobell.com/or/sweet-home/1502-main-street.html,or,sweet-home,1502-main-street,037738,"1502 Main Street, Sweet Home, OR 97386",97386,44.3983658,-122.7265664
+https://locations.tacobell.com/or/roseburg/200-grant-smith-road.html,or,roseburg,200-grant-smith-road,032569,"200 Grant Smith Road, Roseburg, OR 97471",97471,43.1495171,-123.3712759
+https://locations.tacobell.com/or/beaverton/14300-sw-allen-blvd.html,or,beaverton,14300-sw-allen-blvd,015503,"14300 SW Allen Blvd, Beaverton, OR 97005",14300,45.475544,-122.8238512
+https://locations.tacobell.com/or/portland/8163-ne-air-cargo-rd.html,or,portland,8163-ne-air-cargo-rd,033926,"8163 NE Air Cargo Rd, Portland, OR 97218",97218,45.5800338,-122.5757066
+https://locations.tacobell.com/or/molalla/highway-213-and-highway-211.html,or,molalla,highway-213-and-highway-211,033806,"Highway 213 and Highway 211, Molalla, OR 97038",97038,45.1500279,-122.5744184
