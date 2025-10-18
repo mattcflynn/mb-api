@@ -2,4 +2,5 @@ geopy
 playwright
 requests
 pandas
+python-dotenv
 googlemaps

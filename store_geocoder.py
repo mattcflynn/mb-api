@@ -11,15 +11,17 @@ import re
 from geopy.geocoders import Nominatim
 from geopy.extra.rate_limiter import RateLimiter
 import googlemaps
+from dotenv import load_dotenv
 
 # --- Configuration ---
 INPUT_CSV_FILENAME = "taco_bell_100_stores_with_ids.csv"
 OUTPUT_CSV_FILENAME = "taco_bell_100_stores_with_coords.csv"
 MANUAL_FIXES_CSV = "manual_addresses.csv" # NEW: Manual override file
 
-# NEW: Add your Google Maps API Key as an environment variable for security
-# On Mac/Linux: export GOOGLE_MAPS_API_KEY="YOUR_KEY"
-# On Windows: set GOOGLE_MAPS_API_KEY="YOUR_KEY"
+# NEW: Load environment variables from a .env file
+load_dotenv()
+
+# This will now be loaded from your .env file instead of needing to use 'export'
 GOOGLE_API_KEY = os.environ.get("GOOGLE_MAPS_API_KEY")
 
 def load_manual_fixes(filename):
