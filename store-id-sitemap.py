@@ -15,32 +15,40 @@
 import re
 import time
 import csv
+import argparse
+from pathlib import Path
 from playwright.sync_api import sync_playwright
 
-# --- Configuration for Testing ---
-# To test, create a file named 'test_stores.csv' with a few URLs.
-# To run the full script, change this back to "taco_bell_stores_from_sitemap.csv"
-INPUT_CSV_FILENAME = "taco_bell_stores_representative_100.csv"
-OUTPUT_CSV_FILENAME = "taco_bell_100_stores_with_ids.csv"
+# --- Configuration ---
+# This script is now driven by command-line arguments.
+# Example usage: python store-id-sitemap.py --chunk 1
+CHUNKS_DIR = "store_chunks"
 
 def main():
     """
     Reads a list of store URLs from a CSV, visits each one to find the
     store ID and full address, and saves the enriched data to a new CSV.
     """
+    parser = argparse.ArgumentParser(description="Scrape store IDs for a specific chunk of stores.")
+    parser.add_argument("--chunk", type=int, required=True, help="The chunk number to process (e.g., 1).")
+    args = parser.parse_args()
+
+    # Dynamically construct file paths based on the chunk number
+    input_filename = Path(CHUNKS_DIR) / f"chunk_{args.chunk:02d}.csv"
+    output_filename = Path(CHUNKS_DIR) / f"chunk_{args.chunk:02d}_with_ids.csv"
     
     stores_to_process = []
     try:
-        with open(INPUT_CSV_FILENAME, mode='r', encoding='utf-8') as file:
+        with open(input_filename, mode='r', encoding='utf-8') as file:
             reader = csv.DictReader(file)
             for row in reader:
                 stores_to_process.append(row)
     except FileNotFoundError:
-        print(f"ERROR: The input file '{INPUT_CSV_FILENAME}' was not found.")
-        print("Please create this file with a few store URLs to test.")
+        print(f"ERROR: The input file '{input_filename}' was not found.")
+        print("Please run chunk_stores.py first.")
         return
         
-    print(f"Found {len(stores_to_process)} stores to process from '{INPUT_CSV_FILENAME}'.")
+    print(f"Found {len(stores_to_process)} stores to process from '{input_filename}'.")
     
     stores_with_ids = []
 
@@ -111,9 +119,9 @@ def main():
 
     # --- SAVE FINAL RESULTS TO A NEW CSV ---
     if stores_with_ids:
-        print(f"\n--- Saving {len(stores_with_ids)} stores with IDs to {OUTPUT_CSV_FILENAME} ---")
+        print(f"\n--- Saving {len(stores_with_ids)} stores with IDs to {output_filename} ---")
         fieldnames = ['url', 'state', 'city', 'address_slug', 'store_id', 'full_address', 'zip_code']
-        with open(OUTPUT_CSV_FILENAME, mode='w', newline='', encoding='utf-8') as file:
+        with open(output_filename, mode='w', newline='', encoding='utf-8') as file:
             writer = csv.DictWriter(file, fieldnames=fieldnames, extrasaction='ignore')
             writer.writeheader()
             writer.writerows(stores_with_ids)
@@ -121,4 +129,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-

@@ -1,0 +1,304 @@
+url,state,city,address_slug,store_id,full_address,zip_code,latitude,longitude
+https://locations.tacobell.com/ar/little-rock/10611-colonel-glenn-road.html,ar,little-rock,10611-colonel-glenn-road,040895,"10611 Colonel Glenn Road, Little Rock, AR 72204",10611,34.7123839,-92.3937699
+https://locations.tacobell.com/al/auburn/1521-east-glenn-avenue.html,al,auburn,1521-east-glenn-avenue,040910,"1521 East Glenn Avenue, Auburn, AL 36830",36830,32.608996,-85.4494031
+https://locations.tacobell.com/ar/benton/2022-highway-5-n-.html,ar,benton,2022-highway-5-n-,041153,"2022 Highway 5 N., Benton, AR 72019",72019,34.611462,-92.5318137
+https://locations.tacobell.com/al/oxford/41-commons-way.html,al,oxford,41-commons-way,040780,"41 Commons Way, Oxford, AL 36203",36203,33.6082963,-85.7880065
+https://locations.tacobell.com/al/auburn/1365-n-donahue-drive.html,al,auburn,1365-n-donahue-drive,040418,"1365 N Donahue Drive, Auburn, AL 36830",36830,32.6066971,-85.4904
+https://locations.tacobell.com/ar/prairie-grove/1030-east-parks-street.html,ar,prairie-grove,1030-east-parks-street,041485,"1030 East Parks Street, Prairie Grove, AR 72753",72753,35.9779616,-94.2984147
+https://locations.tacobell.com/al/dothan/3282-reeves-street.html,al,dothan,3282-reeves-street,041188,"3282 Reeves Street, Dothan, AL 36303",36303,31.2649225,-85.3810604
+https://locations.tacobell.com/ar/mountain-view/602-east-main-street.html,ar,mountain-view,602-east-main-street,041486,"602 East Main Street, Mountain View, AR 72560",72560,35.8580896,-92.0654824
+https://locations.tacobell.com/al/sylacauga/38-mcs-boulevard.html,al,sylacauga,38-mcs-boulevard,041685,"38 MCS Boulevard, Sylacauga, AL 35150",35150,33.1725098,-86.2818256
+https://locations.tacobell.com/al/calera/5005-highway-31.html,al,calera,5005-highway-31,041491,"5005 Highway 31, Calera, AL 35040",35040,33.1492295,-86.74830759999999
+https://locations.tacobell.com/al/phenix-city/3509-crosswinds-drive.html,al,phenix-city,3509-crosswinds-drive,041981,"3509 Crosswinds Drive, Phenix City, AL 36867",36867,32.4274463,-85.0368682
+https://locations.tacobell.com/al/centreville/702-walnut-street.html,al,centreville,702-walnut-street,041739,"702 Walnut Street, Centreville, AL 35042",35042,32.944676,-87.1398973
+https://locations.tacobell.com/ar/little-rock/2612-cantrell-road.html,ar,little-rock,2612-cantrell-road,041754,"2612 Cantrell Road, Little Rock, AR 72202",72202,34.7582796,-92.3042536
+https://locations.tacobell.com/al/grand-bay/9170-grand-bay-wilmer-rd-s.html,al,grand-bay,9170-grand-bay-wilmer-rd-s,038735,"9170 Grand Bay Wilmer Rd S, Grand Bay, AL 36541",36541,30.4995501,-88.33527219999999
+https://locations.tacobell.com/al/alabaster/9187-highway-119.html,al,alabaster,9187-highway-119,041902,"9187 Highway 119, Alabaster, AL 35007",35007,33.2135499,-86.8279075
+https://locations.tacobell.com/ar/lowell/924-west-monroe-avenue.html,ar,lowell,924-west-monroe-avenue,041892,"924 West Monroe Avenue, Lowell, AR 72745",72745,36.2550088,-94.1569482
+https://locations.tacobell.com/al/tuscaloosa/4900-doris-pate-drive.html,al,tuscaloosa,4900-doris-pate-drive,041980,"4900 Doris Pate Drive, Tuscaloosa, AL 35405",35405,33.1753404,-87.4747064
+https://locations.tacobell.com/al/ozark/1566-s--highway-231.html,al,ozark,1566-s--highway-231,042019,"1566 S. Highway 231, Ozark, AL 36360",36360,31.4435495,-85.6512475
+https://locations.tacobell.com/al/tuscumbia/5117-highway-43-s.html,al,tuscumbia,5117-highway-43-s,042120,"5117 Highway 43 S, Tuscumbia, AL 35674",35674,34.713017,-87.667433
+https://locations.tacobell.com/ar/brinkley/2007-n--main-street.html,ar,brinkley,2007-n--main-street,042241,"2007 N. Main Street, Brinkley, AR 72021",72021,34.9119879,-91.1962628
+https://locations.tacobell.com/al/hope-hull/10-wasden-lane.html,al,hope-hull,10-wasden-lane,042119,"10 Wasden Lane, Hope Hull, AL 36043",36043,32.2702664,-86.3557986
+https://locations.tacobell.com/ar/little-rock/8819-baseline-road.html,ar,little-rock,8819-baseline-road,042090,"8819 Baseline Road, Little Rock, AR 72209",72209,34.6700147,-92.3763943
+https://locations.tacobell.com/ar/hot-springs/2955-malvern-avenue.html,ar,hot-springs,2955-malvern-avenue,042164,"2955 Malvern Avenue, Hot Springs, AR 71901",71901,34.4719831,-92.9930297
+https://locations.tacobell.com/ar/nashville/1302-s--4th-street.html,ar,nashville,1302-s--4th-street,035473,"1302 S. 4th Street, Nashville, AR 71852",71852,33.9360662,-93.8514018
+https://locations.tacobell.com/al/pinson/6726-deerfoot-parkway.html,al,pinson,6726-deerfoot-parkway,035455,"6726 Deerfoot Parkway, Pinson, AL 35126",35126,33.6969124,-86.6067914
+https://locations.tacobell.com/ar/springdale/1728-east-robinson-avenue.html,ar,springdale,1728-east-robinson-avenue,035475,"1728 East Robinson Avenue, Springdale, AR 72764",72764,36.1672089,-94.1121737
+https://locations.tacobell.com/al/huntsville/2150-winchester-road.html,al,huntsville,2150-winchester-road,034824,"2150 Winchester Road, Huntsville, AL 35811",35811,34.8167585,-86.4946365
+https://locations.tacobell.com/al/hanceville/702-main-st-ne.html,al,hanceville,702-main-st-ne,035465,"702 Main St NE, Hanceville, AL 35077",35077,34.0706681,-86.7757982
+https://locations.tacobell.com/al/huntsville/1638-hwy-72-e.html,al,huntsville,1638-hwy-72-e,035213,"1638 Hwy 72 E, Huntsville, AL 35811",35811,34.7737669,-86.5360366
+https://locations.tacobell.com/ar/beebe/1957-w-dewitt-henry-dr.html,ar,beebe,1957-w-dewitt-henry-dr,035891,"1957 W Dewitt Henry Dr, Beebe, AR 72012",72012,35.0696286,-91.9072011
+https://locations.tacobell.com/al/center-point/100-20th-ave-ne.html,al,center-point,100-20th-ave-ne,035882,"100 20th Ave NE, Center Point, AL 35215",35215,33.6386226,-86.6832101
+https://locations.tacobell.com/al/eufaula/3191-s--eufaula-ave-.html,al,eufaula,3191-s--eufaula-ave-,030177,"3191 S. Eufaula Ave., Eufaula, AL 36027",36027,31.843437,-85.1667599
+https://locations.tacobell.com/ak/north-pole/209-n--santa-claus-lane.html,ak,north-pole,209-n--santa-claus-lane,019454,"209 N. Santa Claus Lane, North Pole, AK 99705",99705,64.7559107,-147.3532799
+https://locations.tacobell.com/ar/conway/2195-dave-ward-drive.html,ar,conway,2195-dave-ward-drive,036397,"2195 Dave Ward Drive, Conway, AR 72034",72034,35.0697686,-92.4560677
+https://locations.tacobell.com/al/pell-city/511-martin-st-n.html,al,pell-city,511-martin-st-n,036403,"511 Martin St N, Pell City, AL 35125",35125,33.6071187,-86.2817051
+https://locations.tacobell.com/ar/de-queen/820-north-lakeside-drive.html,ar,de-queen,820-north-lakeside-drive,036451,"820 North Lakeside Drive, De Queen, AR 71832",71832,34.0530298,-94.3301355
+https://locations.tacobell.com/al/birmingham/6806-tattersall-way.html,al,birmingham,6806-tattersall-way,036416,"6806 Tattersall Way, Birmingham, AL 35242",35242,33.4238591,-86.6690188
+https://locations.tacobell.com/al/columbiana/218-w--college-street.html,al,columbiana,218-w--college-street,036502,"218 W. College Street, Columbiana, AL 35051",35051,33.1801061,-86.6137921
+https://locations.tacobell.com/ar/huntsville/14211-highway-412.html,ar,huntsville,14211-highway-412,036449,"14211 Highway 412, Huntsville, AR 72740",14211,36.1128583,-93.70983389999999
+https://locations.tacobell.com/al/florence/3040-cloverdale-road.html,al,florence,3040-cloverdale-road,036414,"3040 Cloverdale Road, Florence, AL 35633",35633,34.8482968,-87.6894223
+https://locations.tacobell.com/al/rogersville/16391-hwy-72.html,al,rogersville,16391-hwy-72,036413,"16391 Hwy 72, Rogersville, AL 35652",16391,34.8237869,-87.291364
+https://locations.tacobell.com/ar/arkadelphia/3126-pine-street.html,ar,arkadelphia,3126-pine-street,036718,"3126 Pine Street, Arkadelphia, AR 71923",71923,34.118008,-93.0956096
+https://locations.tacobell.com/al/pinson/6650-highway-75.html,al,pinson,6650-highway-75,036519,"6650 Highway 75, Pinson, AL 35126",35126,33.7579281,-86.636962
+https://locations.tacobell.com/al/warrior/319-cane-creek-rd.html,al,warrior,319-cane-creek-rd,037099,"319 Cane Creek Rd, Warrior, AL 35180",35180,33.8111279,-86.8234091
+https://locations.tacobell.com/al/owens-cross-roads/6706-us-highway-431.html,al,owens-cross-roads,6706-us-highway-431,036516,"6706 US Highway 431, Owens Cross Roads, AL 35763",35763,34.6575104,-86.4831288
+https://locations.tacobell.com/al/cottondale/3501-buttermilk-road.html,al,cottondale,3501-buttermilk-road,031580,"3501 Buttermilk Road Ta #16, Cottondale, AL 35453",35453,33.1759682,-87.4462891
+https://locations.tacobell.com/ar/berryville/1000-w-trimble-avenue.html,ar,berryville,1000-w-trimble-avenue,019024,"1000 W Trimble Avenue, Berryville, AR 72616",72616,36.3762789,-93.5871884
+https://locations.tacobell.com/ar/earle/408-state-highway-149-north.html,ar,earle,408-state-highway-149-north,020027,"408 State Highway 149 North, Earle, AR 72331",72331,35.1372437,-90.48828669999999
+https://locations.tacobell.com/ar/prescott/1806-us-highway-371-w.html,ar,prescott,1806-us-highway-371-w,023068,"1806 US Highway 371 W, Prescott, AR 71857",71857,33.8114017,-93.4270426
+https://locations.tacobell.com/ar/el-dorado/1600-west-hillsboro-street.html,ar,el-dorado,1600-west-hillsboro-street,036929,"1600 West Hillsboro Street, El Dorado, AR 71730",71730,33.20768,-92.682893
+https://locations.tacobell.com/al/millbrook/1235-al-14.html,al,millbrook,1235-al-14,036937,"1235 Al-14, Millbrook, AL 36054",36054,32.493844,-86.4049974
+https://locations.tacobell.com/al/cullman/1746-2nd-avenue-sw.html,al,cullman,1746-2nd-avenue-sw,037155,"1746 2nd Avenue SW, Cullman, AL 35055",35055,34.1694961,-86.8405122
+https://locations.tacobell.com/al/montgomery/8020-vaughn-road.html,al,montgomery,8020-vaughn-road,037192,"8020 Vaughn Road, Montgomery, AL 36116",36116,32.3386294,-86.1756789
+https://locations.tacobell.com/al/hartselle/1409-hwy-31-nw.html,al,hartselle,1409-hwy-31-nw,037141,"1409 Hwy 31 NW, Hartselle, AL 35640",35640,34.4564153,-86.94712899999999
+https://locations.tacobell.com/ar/cabot/3095-bill-foster-memorial-hwy-w-.html,ar,cabot,3095-bill-foster-memorial-hwy-w-,042139,"3095 Bill Foster Memorial Hwy W., Cabot, AR 72023",72023,34.9452003,-92.0606671
+https://locations.tacobell.com/al/prattville/2313-cobbs-ford-road.html,al,prattville,2313-cobbs-ford-road,042356,"2313 Cobbs Ford Road, Prattville, AL 36066",36066,32.4600119,-86.3939625
+https://locations.tacobell.com/al/madison/7200-wall-triana-hwy.html,al,madison,7200-wall-triana-hwy,042283,"7200 Wall Triana Hwy, Madison, AL 35757",35757,34.795466,-86.74926
+https://locations.tacobell.com/ar/vilonia/1126-north-main-street.html,ar,vilonia,1126-north-main-street,042483,"1126 North Main Street, Vilonia, AR 72173",72173,35.0839162,-92.2031803
+https://locations.tacobell.com/al/chelsea/16634-highway-280.html,al,chelsea,16634-highway-280,042469,"16634 Highway 280, Chelsea, AL 35043",16634,33.3552619,-86.5696811
+https://locations.tacobell.com/al/jasper/420-highway-78.html,al,jasper,420-highway-78,042414,"420 Highway 78, Jasper, AL 35504",35504,33.8496856,-87.2802227
+https://locations.tacobell.com/al/huntsville/2859-memorial-pkwy-nw.html,al,huntsville,2859-memorial-pkwy-nw,042454,"2859 Memorial Pkwy NW, Huntsville, AL 35810",35810,34.7615475,-86.5901912
+https://locations.tacobell.com/ar/southside/830-batesville-blvd.html,ar,southside,830-batesville-blvd,042599,"830 Batesville Blvd, Southside, AR 72501",72501,35.7351135,-91.6386923
+https://locations.tacobell.com/al/decatur/2142-6th-ave-se.html,al,decatur,2142-6th-ave-se,042459,"2142 6th Ave SE, Decatur, AL 35601",35601,34.5736786,-86.9735705
+https://locations.tacobell.com/al/mccalla/22176-highway-216.html,al,mccalla,22176-highway-216,042665,"22176 Highway 216, McCalla, AL 35111",22176,33.280603,-87.1003312
+https://locations.tacobell.com/al/jackson/3625-n-college-ave.html,al,jackson,3625-n-college-ave,036938,"3625 N College Ave, Jackson, AL 36545",36545,31.5484876,-87.87966200000001
+https://locations.tacobell.com/al/bessemer/1004-academy-drive.html,al,bessemer,1004-academy-drive,037153,"1004 Academy Drive, Bessemer, AL 35022",35022,33.3693524,-87.0069109
+https://locations.tacobell.com/ar/tontitown/1119-east-henri-de-tonti-blvd.html,ar,tontitown,1119-east-henri-de-tonti-blvd,037371,"1119 East Henri De Tonti Blvd, Tontitown, AR 72770",72770,36.1755023,-94.2165154
+https://locations.tacobell.com/al/huntsville/7208-bailey-cove-rd-se.html,al,huntsville,7208-bailey-cove-rd-se,037128,"7208 Bailey Cove Rd SE, Huntsville, AL 35802",35802,34.6708694,-86.5397087
+https://locations.tacobell.com/al/sumiton/610-highway-78-e.html,al,sumiton,610-highway-78-e,037191,"610 Highway 78 E, Sumiton, AL 35148",35148,33.743387,-87.04112140000001
+https://locations.tacobell.com/al/russellville/13831-u-s--43.html,al,russellville,13831-u-s--43,037190,"13831 U.S. 43, Russellville, AL 35653",13831,34.4950566,-87.725859
+https://locations.tacobell.com/al/hoover/5622-grove-blvd.html,al,hoover,5622-grove-blvd,037008,"5622 Grove Blvd, Hoover, AL 35226",35226,33.3591178,-86.8531958
+https://locations.tacobell.com/al/huntsville/11300-memorial-pkwy-sw.html,al,huntsville,11300-memorial-pkwy-sw,037193,"11300 Memorial Pkwy SW, Huntsville, AL 35803",11300,34.6237444,-86.5677221
+https://locations.tacobell.com/al/talladega/206-haynes-st-.html,al,talladega,206-haynes-st-,037105,"206 Haynes St., Talladega, AL 35160",35160,33.4393359,-86.0829715
+https://locations.tacobell.com/al/trussville/5950-valley-rd.html,al,trussville,5950-valley-rd,037013,"5950 Valley Rd, Trussville, AL 35173",35173,33.6394914,-86.6158399
+https://locations.tacobell.com/al/phenix-city/101-compromise-court.html,al,phenix-city,101-compromise-court,037370,"101 Compromise Court, Phenix City, AL 36870",36870,32.4700956,-85.0845902
+https://locations.tacobell.com/al/dothan/3927-montgomery-hwy.html,al,dothan,3927-montgomery-hwy,037357,"3927 Montgomery Hwy, Dothan, AL 36303",36303,31.2602712,-85.4369639
+https://locations.tacobell.com/al/northport/1250-mitt-lary-rd-.html,al,northport,1250-mitt-lary-rd-,037341,"1250 Mitt Lary Rd., Northport, AL 35475",35475,33.3019043,-87.5752332
+https://locations.tacobell.com/ar/gravette/604-1st-avenue-se.html,ar,gravette,604-1st-avenue-se,037681,"604 1st Avenue SE, Gravette, AR 72736",72736,36.4276998,-94.4539884
+https://locations.tacobell.com/al/harvest/5809-highway-53.html,al,harvest,5809-highway-53,037461,"5809 Highway 53, Harvest, AL 35749",35749,34.8437961,-86.7117019
+https://locations.tacobell.com/ar/sheridan/704-west-center-street.html,ar,sheridan,704-west-center-street,038787,"704 West Center Street, Sheridan, AR 72150",72150,34.307784,-92.4083444
+https://locations.tacobell.com/al/tuscaloosa/1211-university-blvd.html,al,tuscaloosa,1211-university-blvd,037460,"1211 University Blvd, Tuscaloosa, AL 35401",35401,33.2107873,-87.5538227
+https://locations.tacobell.com/al/haleyville/42462-al-195.html,al,haleyville,42462-al-195,038833,"42462 Al-195, Haleyville, AL 35565",42462,34.2388315,-87.5986881
+https://locations.tacobell.com/al/fayette/1525-temple-avenue-n.html,al,fayette,1525-temple-avenue-n,037704,"1525 Temple Avenue N, Fayette, AL 35555",35555,33.7051363,-87.8255173
+https://locations.tacobell.com/ar/berryville/940-w-trimble-avenue.html,ar,berryville,940-w-trimble-avenue,039531,"940 W Trimble Avenue, Berryville, AR 72616",72616,36.3726544,-93.5808284
+https://locations.tacobell.com/al/demopolis/100-us-highway-80-east.html,al,demopolis,100-us-highway-80-east,038733,"100 US Highway 80 East, Demopolis, AL 36732",36732,32.502749,-87.8381995
+https://locations.tacobell.com/al/irondale/4623-grantswood-road.html,al,irondale,4623-grantswood-road,037486,"4623 Grantswood Road, Irondale, AL 35210",35210,33.5267431,-86.6643484
+https://locations.tacobell.com/al/hoover/1553-montgomery-highway.html,al,hoover,1553-montgomery-highway,039116,"1553 Montgomery Highway, Hoover, AL 35216",35216,33.4063086,-86.8057482
+https://locations.tacobell.com/al/foley/1255-s-mckenzie-street.html,al,foley,1255-s-mckenzie-street,037355,"1255 S McKenzie Street, Foley, AL 36535",36535,30.3927697,-87.6826155
+https://locations.tacobell.com/ar/lowell/207-south-bloomington-street.html,ar,lowell,207-south-bloomington-street,040011,"207 South Bloomington Street, Lowell, AR 72745",72745,36.2516828,-94.1364527
+https://locations.tacobell.com/ar/springdale/4183-elm-springs-road.html,ar,springdale,4183-elm-springs-road,039684,"4183 Elm Springs Road, Springdale, AR 72762",72762,36.1927754,-94.1761695
+https://locations.tacobell.com/al/pelham/101-cahaba-valley-pkwy.html,al,pelham,101-cahaba-valley-pkwy,029118,"101 Cahaba Valley Pkwy, Pelham, AL 35124",35124,33.335251,-86.7842813
+https://locations.tacobell.com/al/birmingham/1101-forestdale-blvd.html,al,birmingham,1101-forestdale-blvd,029111,"1101 Forestdale Blvd, Birmingham, AL 35214",35214,33.5578614,-86.8895792
+https://locations.tacobell.com/al/birmingham/1541-montclair-road.html,al,birmingham,1541-montclair-road,029168,"1541 Montclair Road, Birmingham, AL 35210",35210,33.5237402,-86.7250928
+https://locations.tacobell.com/al/centre/1545-chestnut-bypass.html,al,centre,1545-chestnut-bypass,031776,"1545 Chestnut Bypass, Centre, AL 35960",35960,34.151531,-85.6525789
+https://locations.tacobell.com/al/fultondale/1611-morris-avenue.html,al,fultondale,1611-morris-avenue,030296,"1611 Morris Avenue, Fultondale, AL 35068",35068,33.6082971,-86.8020181
+https://locations.tacobell.com/al/jacksonville/1611-pelham-road-s-.html,al,jacksonville,1611-pelham-road-s-,029160,"1611 Pelham Road S., Jacksonville, AL 36265",36265,33.7884613,-85.761915
+https://locations.tacobell.com/al/hamilton/1746-military-st-s.html,al,hamilton,1746-military-st-s,029165,"1746 Military St S, Hamilton, AL 35570",35570,34.1180639,-87.9896127
+https://locations.tacobell.com/al/leeds/1801-ashville-rd.html,al,leeds,1801-ashville-rd,029120,"1801 Ashville Rd, Leeds, AL 35094",35094,33.56103,-86.5220261
+https://locations.tacobell.com/al/tarrant/1801-pinson-valley-pkwy.html,al,tarrant,1801-pinson-valley-pkwy,029114,"1801 Pinson Valley Pkwy, Tarrant, AL 35217",35217,33.5855162,-86.7702116
+https://locations.tacobell.com/al/hoover/1821-montgomery-highway.html,al,hoover,1821-montgomery-highway,029153,"1821 Montgomery Highway, Hoover, AL 35244",35244,33.3755494,-86.802049
+https://locations.tacobell.com/al/northport/1880-mcfarland-blvd.html,al,northport,1880-mcfarland-blvd,029115,"1880 McFarland Blvd, Northport, AL 35476",35476,33.2395907,-87.576087
+https://locations.tacobell.com/al/clanton/2047-7th-st-south.html,al,clanton,2047-7th-st-south,029119,"2047 7th St South, Clanton, AL 35045",35045,32.8025931,-86.586387
+https://locations.tacobell.com/al/birmingham/2124-7th-ave-s.html,al,birmingham,2124-7th-ave-s,030297,"2124 7th Ave S, Birmingham, AL 35233",35233,33.5073129,-86.7974184
+https://locations.tacobell.com/al/birmingham/2300-bessemer-rd-.html,al,birmingham,2300-bessemer-rd-,029135,"2300 Bessemer Rd., Birmingham, AL 35208",35208,33.4973439,-86.8762138
+https://locations.tacobell.com/al/tuscaloosa/236-15th-street.html,al,tuscaloosa,236-15th-street,029150,"236 15th Street, Tuscaloosa, AL 35401",35401,33.1988968,-87.538733
+https://locations.tacobell.com/al/winfield/2463-us-highway-43.html,al,winfield,2463-us-highway-43,029116,"2463 US Highway 43, Winfield, AL 35594",35594,33.9367025,-87.83874089999999
+https://locations.tacobell.com/al/tuscaloosa/2610-stillman-blvd-.html,al,tuscaloosa,2610-stillman-blvd-,029157,"2610 Stillman Blvd., Tuscaloosa, AL 35401",35401,33.2057159,-87.5699737
+https://locations.tacobell.com/al/hueytown/3064-warrior-river-road.html,al,hueytown,3064-warrior-river-road,029141,"3064 Warrior River Road, Hueytown, AL 35023",35023,33.4691729,-87.0401742
+https://locations.tacobell.com/al/childersburg/33458-us-highway-280.html,al,childersburg,33458-us-highway-280,029113,"33458 Us Highway 280, Childersburg, AL 35044",33458,33.2680258,-86.35385070000001
+https://locations.tacobell.com/al/birmingham/381-palisades-blvd.html,al,birmingham,381-palisades-blvd,029112,"381 Palisades Blvd, Birmingham, AL 35209",35209,33.4685841,-86.8185833
+https://locations.tacobell.com/al/alabaster/450-colonial-promenade-pkwy.html,al,alabaster,450-colonial-promenade-pkwy,029134,"450 Colonial Promenade Pkwy, Alabaster, AL 35007",35007,33.2339095,-86.8041284
+https://locations.tacobell.com/al/birmingham/4623-highway-280-s-.html,al,birmingham,4623-highway-280-s-,029138,"4623 Highway 280 S., Birmingham, AL 35242",35242,33.4292742,-86.7075357
+https://locations.tacobell.com/al/helena/4804-highway-52-w.html,al,helena,4804-highway-52-w,029167,"4804 Highway 52 W, Helena, AL 35080",35080,33.2872415,-86.82615589999999
+https://locations.tacobell.com/al/oxford/504-hamric-dr-e.html,al,oxford,504-hamric-dr-e,029147,"504 Hamric Dr E, Oxford, AL 36203",36203,33.608158,-85.830015
+https://locations.tacobell.com/al/bessemer/5050-bond-boulevard.html,al,bessemer,5050-bond-boulevard,029166,"5050 Bond Boulevard, Bessemer, AL 35022",35022,33.333403,-86.9958636
+https://locations.tacobell.com/al/attalla/519-cleveland-ave.html,al,attalla,519-cleveland-ave,024458,"519 Cleveland Ave, Attalla, AL 35954",35954,34.0177542,-86.0782725
+https://locations.tacobell.com/al/gardendale/523-fieldstown-road.html,al,gardendale,523-fieldstown-road,029140,"523 Fieldstown Road, Gardendale, AL 35071",35071,33.6516905,-86.8197321
+https://locations.tacobell.com/al/cullman/5961-al-highway-157.html,al,cullman,5961-al-highway-157,029145,"5961 AL Highway 157, Cullman, AL 35057",35057,34.2065728,-86.87468129999999
+https://locations.tacobell.com/al/oneonta/609-2nd-ave-e.html,al,oneonta,609-2nd-ave-e,027322,"609 2nd Ave E, Oneonta, AL 35121",35121,33.9488854,-86.4708157
+https://locations.tacobell.com/al/springville/64-springville-station-blvd.html,al,springville,64-springville-station-blvd,029622,"64 Springville Station Blvd, Springville, AL 35146",35146,33.7785297,-86.430628
+https://locations.tacobell.com/al/tuscaloosa/815-skyland-blvd.html,al,tuscaloosa,815-skyland-blvd,029144,"815 Skyland Blvd, Tuscaloosa, AL 35405",35405,33.1653096,-87.5486043
+https://locations.tacobell.com/al/tuscaloosa/9050-highway-69-s.html,al,tuscaloosa,9050-highway-69-s,029717,"9050 Highway 69 S, Tuscaloosa, AL 35405",35405,33.1232781,-87.5513672
+https://locations.tacobell.com/al/birmingham/9509-parkway-east.html,al,birmingham,9509-parkway-east,029110,"9509 Parkway East, Birmingham, AL 35215",35215,33.5945732,-86.6944236
+https://locations.tacobell.com/ar/bentonville/1200-sw-regional-airport-blvd.html,ar,bentonville,1200-sw-regional-airport-blvd,039556,"1200 SW Regional Airport Blvd, Bentonville, AR 72712",72712,36.3362193,-94.2260148
+https://locations.tacobell.com/al/dothan/3168-s-oates-street.html,al,dothan,3168-s-oates-street,040113,"3168 S Oates Street, Dothan, AL 36301",36301,31.1625579,-85.4021096
+https://locations.tacobell.com/al/birmingham/4525-valleydale-road.html,al,birmingham,4525-valleydale-road,040114,"4525 Valleydale Road, Birmingham, AL 35242",35242,33.3842219,-86.7361518
+https://locations.tacobell.com/al/tallassee/576-gilmer-avenue.html,al,tallassee,576-gilmer-avenue,040382,"576 Gilmer Avenue, Tallassee, AL 36078",36078,32.5524736,-85.9213009
+https://locations.tacobell.com/al/arab/1264-n-brindlee-mountain-pkwy.html,al,arab,1264-n-brindlee-mountain-pkwy,040528,"1264 N Brindlee Mountain Pkwy, Arab, AL 35016",35016,34.3395933,-86.503427
+https://locations.tacobell.com/ar/pea-ridge/179-lee-town-road.html,ar,pea-ridge,179-lee-town-road,040497,"179 Lee Town Road, Pea Ridge, AR 72751",72751,36.4420119,-94.1151279
+https://locations.tacobell.com/al/jasper/150-carl-cannon-blvd.html,al,jasper,150-carl-cannon-blvd,040702,"150 Carl Cannon Blvd, Jasper, AL 35501",35501,33.7923711,-87.2425556
+https://locations.tacobell.com/ar/morrilton/98-medical-services-drive.html,ar,morrilton,98-medical-services-drive,031577,"98 Medical Services Drive, Morrilton, AR 72110",72110,35.168581,-92.718357
+https://locations.tacobell.com/ar/little-rock/9600-n-rodney-parham-rd.html,ar,little-rock,9600-n-rodney-parham-rd,004565,"9600 N Rodney Parham Rd, Little Rock, AR 72227",72227,34.7607305,-92.3804064
+https://locations.tacobell.com/al/huntsville/950-old-monrovia-rd-nw.html,al,huntsville,950-old-monrovia-rd-nw,029161,"950 Old Monrovia Rd NW, Huntsville, AL 35806",35806,34.7385477,-86.6618317
+https://locations.tacobell.com/ak/anchorage/939-west-northern-lights-blvd.html,ak,anchorage,939-west-northern-lights-blvd,019282,"939 West Northern Lights Blvd, Anchorage, AK 99503",99503,61.195381,-149.9011121
+https://locations.tacobell.com/al/daleville/935-n-daleville-ave.html,al,daleville,935-n-daleville-ave,036370,"935 N Daleville Ave, Daleville, AL 36322",36322,31.3201151,-85.71096469999999
+https://locations.tacobell.com/al/montgomery/921-west-south-blvd.html,al,montgomery,921-west-south-blvd,036487,"921 West South Blvd, Montgomery, AL 36105",36105,32.3272559,-86.3347773
+https://locations.tacobell.com/ar/fort-smith/9203-highway-71-s.html,ar,fort-smith,9203-highway-71-s,024980,"9203 Highway 71 S, Fort Smith, AR 72916",72916,35.2633027,-94.3692795
+https://locations.tacobell.com/ar/fort-smith/915-north-greenwood.html,ar,fort-smith,915-north-greenwood,002893,"915 North Greenwood, Fort Smith, AR 72901",72901,35.3853383,-94.4033259
+https://locations.tacobell.com/ak/anchorage/9001-jewel-lake-rd.html,ak,anchorage,9001-jewel-lake-rd,018131,"9001 Jewel Lake Rd Ste 12, Anchorage, AK 99502",99502,61.1383228,-149.9505844
+https://locations.tacobell.com/ar/west-memphis/900-martin-luther-king-dr-.html,ar,west-memphis,900-martin-luther-king-dr-,L518012,"900 Martin Luther King Dr., West Memphis, AR 72301",72301,35.1546082,-90.1378249
+https://locations.tacobell.com/al/madison/8860-highway-20.html,al,madison,8860-highway-20,027319,"8860 Highway 20, Madison, AL 35758",35758,34.6626,-86.7923354
+https://locations.tacobell.com/ak/anchorage/8825-old-seward-hwy.html,ak,anchorage,8825-old-seward-hwy,019953,"8825 Old Seward Hwy, Anchorage, AK 99515",99515,61.1407278,-149.8638154
+https://locations.tacobell.com/al/montgomery/8801-eastchase-parkway.html,al,montgomery,8801-eastchase-parkway,036488,"8801 Eastchase Parkway, Montgomery, AL 36117",36117,32.364859,-86.141544
+https://locations.tacobell.com/ar/sherwood/8350-warden-road.html,ar,sherwood,8350-warden-road,030893,"8350 Warden Road, Sherwood, AR 72120",72120,34.8304513,-92.1831687
+https://locations.tacobell.com/ar/mountain-home/833-highway-62-e.html,ar,mountain-home,833-highway-62-e,027034,"833 Highway 62 E, Mountain Home, AR 72653",72653,36.3482671,-92.37484479999999
+https://locations.tacobell.com/al/saraland/827-hwy-43-s.html,al,saraland,827-hwy-43-s,023764,"827 Hwy 43 S, Saraland, AL 36571",36571,30.8024103,-88.0724367
+https://locations.tacobell.com/ar/greenwood/820-west-center.html,ar,greenwood,820-west-center,030891,"820 West Center, Greenwood, AR 72936",72936,35.2169796,-94.2696436
+https://locations.tacobell.com/ar/little-rock/8108-geyer-springs-rd.html,ar,little-rock,8108-geyer-springs-rd,004368,"8108 Geyer Springs Rd, Little Rock, AR 72209",72209,34.6760313,-92.3444101
+https://locations.tacobell.com/ar/brookland/8039-hwy-49-north.html,ar,brookland,8039-hwy-49-north,031421,"8039 Hwy 49 North, Brookland, AR 72417",72417,35.9068853,-90.5890526
+https://locations.tacobell.com/ar/white-hall/8011-sheridan-road.html,ar,white-hall,8011-sheridan-road,029604,"8011 Sheridan Road, White Hall, AR 71602",71602,34.2606228,-92.101163
+https://locations.tacobell.com/al/albertville/7959-us-highway-431.html,al,albertville,7959-us-highway-431,029137,"7959 US Highway 431, Albertville, AL 35950",35950,34.2799984,-86.21701039999999
+https://locations.tacobell.com/al/madison/7940-highway-72-west.html,al,madison,7940-highway-72-west,029152,"7940 Highway 72 West, Madison, AL 35758",35758,34.7532569,-86.747154
+https://locations.tacobell.com/ar/fort-smith/7910-rogers-ave.html,ar,fort-smith,7910-rogers-ave,003997,"7910 Rogers Ave, Fort Smith, AR 72903",72903,35.3492055,-94.3436977
+https://locations.tacobell.com/al/mobile/7730-airport-blvd.html,al,mobile,7730-airport-blvd,023770,"7730 Airport Blvd, Mobile, AL 36608",36608,30.6837928,-88.223283
+https://locations.tacobell.com/ak/fairbanks/87-college-rd.html,ak,fairbanks,87-college-rd,002309,"87 College Rd, Fairbanks, AK 99701",99701,64.852677,-147.7118213
+https://locations.tacobell.com/ar/west-helena/761-north-sebastian-street.html,ar,west-helena,761-north-sebastian-street,032034,"761 North Sebastian Street, West Helena, AR 72390",72390,34.5540724,-90.6548157
+https://locations.tacobell.com/al/lincoln/75835-highway-77.html,al,lincoln,75835-highway-77,042159,"75835 Highway 77, Lincoln, AL 35096",75835,33.5955308,-86.1219878
+https://locations.tacobell.com/ar/sherwood/7201-jfk-blvd.html,ar,sherwood,7201-jfk-blvd,002401,"7201 JFK Blvd, Sherwood, AR 72120",72120,34.8206449,-92.233103
+https://locations.tacobell.com/ar/little-rock/719-south-broadway.html,ar,little-rock,719-south-broadway,017278,"719 South Broadway, Little Rock, AR 72201",72201,34.7158509,-92.2794788
+https://locations.tacobell.com/ar/booneville/711-e--main.html,ar,booneville,711-e--main,G135604,"711 E. Main, Booneville, AR 72927",72927,35.1408628,-93.9119934
+https://locations.tacobell.com/al/rainsville/71-mccurdy-ave-n.html,al,rainsville,71-mccurdy-ave-n,027310,"71 McCurdy Ave N, Rainsville, AL 35986",35986,34.5114263,-85.8350659
+https://locations.tacobell.com/al/mobile/6301-cottage-hill-road.html,al,mobile,6301-cottage-hill-road,023766,"6301 Cottage Hill Road, Mobile, AL 36609",36609,30.6399546,-88.1868446
+https://locations.tacobell.com/ar/harrison/629-highway-6265-north.html,ar,harrison,629-highway-6265-north,003604,"629 Highway 6265 North, Harrison, AR 72601",72601,36.2553966,-93.1077277
+https://locations.tacobell.com/al/bay-minette/621-mcmeans-ave.html,al,bay-minette,621-mcmeans-ave,023772,"621 McMeans Ave, Bay Minette, AL 36507",36507,30.8841399,-87.78827170000001
+https://locations.tacobell.com/ar/dardanelle/618-union-st.html,ar,dardanelle,618-union-st,029378,"618 Union St, Dardanelle, AR 72834",72834,35.2213448,-93.1650284
+https://locations.tacobell.com/al/fort-payne/610-glenn-blvd-sw.html,al,fort-payne,610-glenn-blvd-sw,027305,"610 Glenn Blvd SW, Fort Payne, AL 35967",35967,34.4358477,-85.7395915
+https://locations.tacobell.com/ar/rogers/604-s-8th-street.html,ar,rogers,604-s-8th-street,003280,"604 S 8th Street, Rogers, AR 72756",72756,36.3285776,-94.1262347
+https://locations.tacobell.com/al/enterprise/602-boll-weevil-circle.html,al,enterprise,602-boll-weevil-circle,036372,"602 Boll Weevil Circle, Enterprise, AL 36330",36330,31.3332548,-85.8646392
+https://locations.tacobell.com/ar/little-rock/600-south-bowman-road.html,ar,little-rock,600-south-bowman-road,016176,"600 South Bowman Road, Little Rock, AR 72211",72211,34.7487484,-92.4078102
+https://locations.tacobell.com/ar/walnut-ridge/600-hwy-67-b.html,ar,walnut-ridge,600-hwy-67-b,032480,"600 Hwy 67 B, Walnut Ridge, AR 72476",72476,36.3803464,-90.7341802
+https://locations.tacobell.com/al/atmore/5920-hwy-21.html,al,atmore,5920-hwy-21,030463,"5920 Hwy 21, Atmore, AL 36502",36502,31.105425,-87.47650039999999
+https://locations.tacobell.com/al/wetumpka/5903-us-hwy-231.html,al,wetumpka,5903-us-hwy-231,036486,"5903 US Hwy 231, Wetumpka, AL 36092",36092,32.6179981,-86.2338661
+https://locations.tacobell.com/al/gadsden/579-e--meighan-boulevard.html,al,gadsden,579-e--meighan-boulevard,J466006,"579 E. Meighan Boulevard, Gadsden, AL 35903",35903,34.0081266,-85.9836314
+https://locations.tacobell.com/al/hokes-bluff/5692-highway-278-east.html,al,hokes-bluff,5692-highway-278-east,J466003,"5692 Highway 278 East, Hokes Bluff, AL 35903",35903,33.98617720000001,-85.866635
+https://locations.tacobell.com/ar/alma/541-highway-71-n.html,ar,alma,541-highway-71-n,005549,"541 Highway 71 N, Alma, AR 72921",72921,35.491978,-94.22642719999999
+https://locations.tacobell.com/al/mobile/5392-hwy-90-west.html,al,mobile,5392-hwy-90-west,023768,"5392 Hwy 90 West, Mobile, AL 36619",36619,30.5907715,-88.169952
+https://locations.tacobell.com/al/montgomery/5380-atlanta-hwy.html,al,montgomery,5380-atlanta-hwy,036482,"5380 Atlanta Hwy, Montgomery, AL 36109",36109,32.3812693,-86.2156899
+https://locations.tacobell.com/al/montgomery/5163-carmichael-rd.html,al,montgomery,5163-carmichael-rd,036485,"5163 Carmichael Rd, Montgomery, AL 36106",36106,32.3601298,-86.2174091
+https://locations.tacobell.com/ar/stuttgart/512-w--22nd-street.html,ar,stuttgart,512-w--22nd-street,009571,"512 W. 22nd Street, Stuttgart, AR 72160",72160,34.4797371,-91.5582359
+https://locations.tacobell.com/ar/van-buren/511-north-plaza-dr.html,ar,van-buren,511-north-plaza-dr,030898,"511 North Plaza Dr, Van Buren, AR 72956",72956,35.4604923,-94.3556132
+https://locations.tacobell.com/ar/trumann/504-hwy--63.html,ar,trumann,504-hwy--63,L518084,"504 Hwy. 63, Trumann, AR 72472",72472,33.5958036,-92.07235349999999
+https://locations.tacobell.com/al/mobile/5000-moffett-rd.html,al,mobile,5000-moffett-rd,023771,"5000 Moffett Rd, Mobile, AL 36618",36618,30.7206678,-88.157598
+https://locations.tacobell.com/ar/fort-smith/4910-towson-avenue.html,ar,fort-smith,4910-towson-avenue,002439,"4910 Towson Avenue, Fort Smith, AR 72901",72901,35.3368343,-94.4231875
+https://locations.tacobell.com/ar/little-rock/4424-markham-road.html,ar,little-rock,4424-markham-road,030902,"4424 Markham Road, Little Rock, AR 72205",72205,34.752029,-92.3226706
+https://locations.tacobell.com/ak/soldotna/43845-sterling-hwy.html,ak,soldotna,43845-sterling-hwy,015852,"43845 Sterling Hwy, Soldotna, AK 99669",43845,60.5007396,-150.9970585
+https://locations.tacobell.com/ar/monticello/435-highway-425-north.html,ar,monticello,435-highway-425-north,029602,"435 Highway 425 North, Monticello, AR 71655",71655,33.6369882,-91.8019901
+https://locations.tacobell.com/ar/springdale/4322-west-sunset.html,ar,springdale,4322-west-sunset,016275,"4322 West Sunset, Springdale, AR 72762",72762,36.175588,-94.1783316
+https://locations.tacobell.com/al/huntsville/4315-university-dr-nw.html,al,huntsville,4315-university-dr-nw,029159,"4315 University Dr NW, Huntsville, AL 35816",35816,34.734511,-86.634608
+https://locations.tacobell.com/al/prattville/411-s-memorial-dr.html,al,prattville,411-s-memorial-dr,036483,"411 S Memorial Dr, Prattville, AL 36067",36067,32.4620763,-86.4503069
+https://locations.tacobell.com/ar/springdale/406-s--thompson.html,ar,springdale,406-s--thompson,003271,"406 S. Thompson, Springdale, AR 72764",72764,36.1818517,-94.1391479
+https://locations.tacobell.com/ar/mena/403-highway-71-n.html,ar,mena,403-highway-71-n,L518050,"403 Highway 71 N, Mena, AR 71953",71953,34.5857841,-94.2278943
+https://locations.tacobell.com/ar/hot-springs/4016-central-ave.html,ar,hot-springs,4016-central-ave,021495,"4016 Central Ave, Hot Springs, AR 71913",71913,34.4558068,-93.0640569
+https://locations.tacobell.com/ar/greenbrier/4-n-broadview-st.html,ar,greenbrier,4-n-broadview-st,018019,"4 N Broadview St, Greenbrier, AR 72058",72058,35.235657,-92.387704
+https://locations.tacobell.com/ar/north-little-rock/3900-mccain-blvd.html,ar,north-little-rock,3900-mccain-blvd,021504,"3900 McCain Blvd, North Little Rock, AR 72116",72116,34.7910943,-92.229362
+https://locations.tacobell.com/al/mobile/3843-airport-blvd.html,al,mobile,3843-airport-blvd,026246,"3843 Airport Blvd, Mobile, AL 36608",36608,30.6761887,-88.147654
+https://locations.tacobell.com/al/alexander-city/3779-highway-280.html,al,alexander-city,3779-highway-280,029107,"3779 Highway 280, Alexander City, AL 35010",35010,32.9272137,-85.9629368
+https://locations.tacobell.com/ar/pine-bluff/3501-camden-rd.html,ar,pine-bluff,3501-camden-rd,029600,"3501 Camden Rd, Pine Bluff, AR 71603",71603,34.1939626,-92.0584826
+https://locations.tacobell.com/al/thomasville/33951-hwy-43-north.html,al,thomasville,33951-hwy-43-north,032323,"33951 Hwy 43 North, Thomasville, AL 36784",33951,31.9134859,-87.7358366
+https://locations.tacobell.com/ar/searcy/3307-e-race.html,ar,searcy,3307-e-race,002552,"3307 E Race, Searcy, AR 72143",72143,35.2505229,-91.6959752
+https://locations.tacobell.com/al/roanoke/3221-hwy-431.html,al,roanoke,3221-hwy-431,032206,"3221 Hwy 431, Roanoke, AL 36274",36274,32.8365989,-84.8436105
+https://locations.tacobell.com/al/scottsboro/308-county-park-rd.html,al,scottsboro,308-county-park-rd,030272,"308 County Park Rd, Scottsboro, AL 35768",35768,34.6485445,-86.0335106
+https://locations.tacobell.com/al/dothan/3056-ross-clark-cir.html,al,dothan,3056-ross-clark-cir,036369,"3056 Ross Clark Cir, Dothan, AL 36301",36301,31.2258968,-85.4324803
+https://locations.tacobell.com/al/spanish-fort/30500-state-hwy-181.html,al,spanish-fort,30500-state-hwy-181,024984,"30500 State Hwy 181 F, Spanish Fort, AL 36527",30500,30.67065879999999,-87.8516561
+https://locations.tacobell.com/al/selma/303-w-highland-ave.html,al,selma,303-w-highland-ave,036481,"303 W Highland Ave, Selma, AL 36701",36701,32.4317157,-87.0390669
+https://locations.tacobell.com/ar/russellville/301-n--elmira-ave-.html,ar,russellville,301-n--elmira-ave-,025445,"301 N. Elmira Ave., Russellville, AR 72802",72802,35.2815245,-93.1030012
+https://locations.tacobell.com/ar/newport/301-highway-67-n.html,ar,newport,301-highway-67-n,005118,"301 Highway 67 N, Newport, AR 72112",72112,35.6081635,-91.25229039999999
+https://locations.tacobell.com/ar/van-buren/3003-alma-hwy.html,ar,van-buren,3003-alma-hwy,003998,"3003 Alma Hwy, Van Buren, AR 72956",72956,35.4435724,-94.3262064
+https://locations.tacobell.com/al/valley/2903-20th-avenue.html,al,valley,2903-20th-avenue,029095,"2903 20th Avenue, Valley, AL 36854",36854,32.8446864,-85.1821805
+https://locations.tacobell.com/ar/bentonville/2801-se-14th.html,ar,bentonville,2801-se-14th,021326,"2801 SE 14th, Bentonville, AR 72712",72712,36.3565499,-94.1812167
+https://locations.tacobell.com/al/florence/2717-florence-blvd.html,al,florence,2717-florence-blvd,030270,"2717 Florence Blvd, Florence, AL 35630",35630,34.8298656,-87.6278333
+https://locations.tacobell.com/ar/conway/2715-prince-street.html,ar,conway,2715-prince-street,019847,"2715 Prince Street, Conway, AR 72032",72032,35.091857,-92.4677474
+https://locations.tacobell.com/ar/pine-bluff/2712-olive-st.html,ar,pine-bluff,2712-olive-st,029597,"2712 Olive St, Pine Bluff, AR 71601",71601,34.2021096,-92.00714
+https://locations.tacobell.com/al/auburn/271-s-gay-st.html,al,auburn,271-s-gay-st,029071,"271 S Gay St, Auburn, AL 36830",36830,32.6017506,-85.4796213
+https://locations.tacobell.com/ar/el-dorado/2700-n--west-avenue.html,ar,el-dorado,2700-n--west-avenue,029601,"2700 N. West Avenue, El Dorado, AR 71730",71730,33.2407785,-92.6657895
+https://locations.tacobell.com/al/montgomery/2695-zelda-rd.html,al,montgomery,2695-zelda-rd,036484,"2695 Zelda Rd, Montgomery, AL 36107",36107,32.3642172,-86.2667329
+https://locations.tacobell.com/ak/anchorage/2624-e--tudor-road.html,ak,anchorage,2624-e--tudor-road,002181,"2624 E. Tudor Road, Anchorage, AK 99507",99507,61.180756,-149.8317673
+https://locations.tacobell.com/al/andalusia/254-west-bypass.html,al,andalusia,254-west-bypass,029970,"254 West Bypass, Andalusia, AL 36420",36420,31.3186421,-86.46072570000001
+https://locations.tacobell.com/ar/north-little-rock/2531-highway-161.html,ar,north-little-rock,2531-highway-161,030901,"2531 Highway 161, North Little Rock, AR 72117",72117,34.7771498,-92.2021134
+https://locations.tacobell.com/ar/paragould/2525-w-kings-hwy.html,ar,paragould,2525-w-kings-hwy,027036,"2525 W Kings Hwy, Paragould, AR 72450",72450,36.0602404,-90.5195304
+https://locations.tacobell.com/ar/searcy/2513-w-beebe-capps-expy.html,ar,searcy,2513-w-beebe-capps-expy,026906,"2513 W Beebe Capps Expy, Searcy, AR 72143",72143,35.2473326,-91.7722762
+https://locations.tacobell.com/al/opelika/2400-pepperell-pkwy.html,al,opelika,2400-pepperell-pkwy,029082,"2400 Pepperell Pkwy, Opelika, AL 36801",36801,32.6386442,-85.4115341
+https://locations.tacobell.com/ak/anchorage/2351-e--5th-ave.html,ak,anchorage,2351-e--5th-ave,015248,"2351 E. 5th Ave, Anchorage, AK 99501",99501,61.2176539,-149.8374879
+https://locations.tacobell.com/ar/highland/2291-highway-62-412.html,ar,highland,2291-highway-62-412,L518007,"2291 Highway 62 412, Highland, AR 72542",72542,36.2671562,-91.5157402
+https://locations.tacobell.com/ar/bryant/2211-n-reynolds-rd.html,ar,bryant,2211-n-reynolds-rd,004618,"2211 N Reynolds Rd, Bryant, AR 72022",72022,34.6153638,-92.4988006
+https://locations.tacobell.com/al/brewton/2150-douglas-avenue.html,al,brewton,2150-douglas-avenue,031394,"2150 Douglas Avenue, Brewton, AL 36426",36426,31.140349,-87.0687237
+https://locations.tacobell.com/al/muscle-shoals/2100-woodward-ave.html,al,muscle-shoals,2100-woodward-ave,030269,"2100 Woodward Ave, Muscle Shoals, AL 35661",35661,34.7414899,-87.6680975
+https://locations.tacobell.com/ar/jonesboro/2100-s--caraway-road.html,ar,jonesboro,2100-s--caraway-road,040017,"2100 S. Caraway Road, Jonesboro, AR 72401",72401,35.8194824,-90.6775186
+https://locations.tacobell.com/ar/rogers/2080-promenade.html,ar,rogers,2080-promenade,023903,"2080 Promenade, Rogers, AR 72756",72756,36.310146,-94.1793
+https://locations.tacobell.com/al/piedmont/206-highway-278-bypass-east.html,al,piedmont,206-highway-278-bypass-east,J466004,"206 Highway 278 Bypass East, Piedmont, AL 36272",36272,33.9341139,-85.6106035
+https://locations.tacobell.com/al/phenix-city/2059-highway-280.html,al,phenix-city,2059-highway-280,029081,"2059 Highway 280, Phenix City, AL 36867",36867,32.4819365,-85.03180499999999
+https://locations.tacobell.com/ar/fayetteville/2055-w-martin-luther-king-blvd.html,ar,fayetteville,2055-w-martin-luther-king-blvd,003943,"2055 W Martin Luther King Blvd, Fayetteville, AR 72701",72701,36.0553276,-94.1890828
+https://locations.tacobell.com/ar/forrest-city/2055-n-washington.html,ar,forrest-city,2055-n-washington,027037,"2055 N Washington, Forrest City, AR 72335",72335,35.035887,-90.7896629
+https://locations.tacobell.com/ar/conway/205-e-oak-street.html,ar,conway,205-e-oak-street,001734,"205 E Oak Street, Conway, AR 72032",72032,35.091252,-92.425768
+https://locations.tacobell.com/al/auburn/2027-s--college-st-.html,al,auburn,2027-s--college-st-,029100,"2027 S. College St., Auburn, AL 36832",36832,32.567258,-85.5016242
+https://locations.tacobell.com/al/huntsville/2015-whitesburg-dr--s.html,al,huntsville,2015-whitesburg-dr--s,029162,"2015 Whitesburg Dr. S, Huntsville, AL 35801",35801,34.7191813,-86.578442
+https://locations.tacobell.com/ar/blytheville/201-s-service-rd.html,ar,blytheville,201-s-service-rd,039141,"201 S Service Rd, Blytheville, AR 72315",72315,35.9271739,-89.8753492
+https://locations.tacobell.com/ar/jonesboro/2003-west-parker-road.html,ar,jonesboro,2003-west-parker-road,L518053,"2003 West Parker Road, Jonesboro, AR 72404",72404,35.8243886,-90.7420604
+https://locations.tacobell.com/ar/corning/200-missouri-ave.html,ar,corning,200-missouri-ave,033379,"200 Missouri Ave, Corning, AR 72422",72422,36.414474,-90.586236
+https://locations.tacobell.com/ar/wynne/1913-n--falls.html,ar,wynne,1913-n--falls,L518087,"1913 N. Falls, Wynne, AR 72396",72396,35.2479346,-90.7820694
+https://locations.tacobell.com/ar/fayetteville/1878-n-crossover-rd.html,ar,fayetteville,1878-n-crossover-rd,019809,"1878 N Crossover Rd, Fayetteville, AR 72701",72701,36.0856759,-94.1209891
+https://locations.tacobell.com/ar/jacksonville/1809-n-1st-st.html,ar,jacksonville,1809-n-1st-st,018272,"1809 N 1st St, Jacksonville, AR 72076",72076,34.8831808,-92.1088273
+https://locations.tacobell.com/al/decatur/1807-beltline-rd-sw.html,al,decatur,1807-beltline-rd-sw,029156,"1807 Beltline Rd SW, Decatur, AL 35601",35601,34.5731958,-87.0162027
+https://locations.tacobell.com/ar/fayetteville/176-east-joyce-blvd-.html,ar,fayetteville,176-east-joyce-blvd-,023195,"176 East Joyce Blvd., Fayetteville, AR 72703",72703,36.1245717,-94.1540754
+https://locations.tacobell.com/ak/wasilla/1751-e-parks-highway.html,ak,wasilla,1751-e-parks-highway,026041,"1751 E Parks Highway, Wasilla, AK 99654",99654,61.5763742,-149.4068965
+https://locations.tacobell.com/al/guntersville/1740-gunter-ave.html,al,guntersville,1740-gunter-ave,027321,"1740 Gunter Ave, Guntersville, AL 35976",35976,34.3420432,-86.3082118
+https://locations.tacobell.com/ar/benton/1704-military-rd.html,ar,benton,1704-military-rd,001745,"1704 Military Rd, Benton, AR 72015",72015,34.5804423,-92.5739372
+https://locations.tacobell.com/al/athens/1625-us-hwy-72-east.html,al,athens,1625-us-hwy-72-east,031808,"1625 US Hwy 72 East, Athens, AL 35611",35611,34.7825264,-86.935627
+https://locations.tacobell.com/ar/heber-springs/1623-highway-25b.html,ar,heber-springs,1623-highway-25b,005117,"1623 Highway 25B, Heber Springs, AR 72543",72543,35.5086909,-92.0289572
+https://locations.tacobell.com/ar/pocahontas/1611-hwy-67-south.html,ar,pocahontas,1611-hwy-67-south,032054,"1611 Hwy 67 South, Pocahontas, AR 72455",72455,36.2487781,-90.95936180000001
+https://locations.tacobell.com/ar/malvern/1601-hwy-270.html,ar,malvern,1601-hwy-270,004631,"1601 Hwy 270 Ste #219, Malvern, AR 72104",72104,34.4508624,-92.8952199
+https://locations.tacobell.com/al/southside/1560-highway-77.html,al,southside,1560-highway-77,041819,"1560 Highway 77, Southside, AL 35907",35907,33.9310096,-86.0246765
+https://locations.tacobell.com/ar/magnolia/1521-e--main.html,ar,magnolia,1521-e--main,029598,"1521 E. Main, Magnolia, AR 71753",71753,33.2651492,-93.2187267
+https://locations.tacobell.com/ar/hope/1501-n-hervey-st.html,ar,hope,1501-n-hervey-st,017101,"1501 N Hervey St, Hope, AR 71801",71801,33.6801033,-93.6047557
+https://locations.tacobell.com/al/hazel-green/14650-hwy-231.html,al,hazel-green,14650-hwy-231,032401,"14650 Hwy 231, Hazel Green, AL 35750",14650,34.9323102,-86.57193830000001
+https://locations.tacobell.com/ak/fairbanks/1390-s-university-avenue.html,ak,fairbanks,1390-s-university-avenue,004913,"1390 S University Avenue, Fairbanks, AK 99709",99709,64.8423832,-147.8125294
+https://locations.tacobell.com/ar/cabot/1430-w-locust.html,ar,cabot,1430-w-locust,004720,"1430 W Locust, Cabot, AR 72023",72023,34.9798747,-92.0307588
+https://locations.tacobell.com/al/florence/1412-n-wood-ave.html,al,florence,1412-n-wood-ave,030274,"1412 N Wood Ave, Florence, AL 35630",35630,34.8206999,-87.6811038
+https://locations.tacobell.com/ar/hot-springs/141-e-grand-avenue.html,ar,hot-springs,141-e-grand-avenue,030894,"141 E Grand Avenue, Hot Springs, AR 71901",71901,34.5033009,-93.0492745
+https://locations.tacobell.com/ar/paris/1409-east-walnut.html,ar,paris,1409-east-walnut,030890,"1409 East Walnut, Paris, AR 72855",72855,35.2918395,-93.7163945
+https://locations.tacobell.com/ar/jonesboro/133-southwest-drive.html,ar,jonesboro,133-southwest-drive,L518001,"133 Southwest Drive, Jonesboro, AR 72401",72401,35.8155143,-90.7119031
+https://locations.tacobell.com/ar/camden/1320-highway-278-byp.html,ar,camden,1320-highway-278-byp,004465,"1320 Highway 278 Byp, Camden, AR 71701",71701,33.5735326,-92.8553637
+https://locations.tacobell.com/ar/russellville/1308-n-arkansas-ave.html,ar,russellville,1308-n-arkansas-ave,025444,"1308 N Arkansas Ave, Russellville, AR 72801",72801,35.2914942,-93.1330945
+https://locations.tacobell.com/ar/little-rock/1300-john-barrow-rd.html,ar,little-rock,1300-john-barrow-rd,002737,"1300 John Barrow Rd, Little Rock, AR 72205",72205,34.7410922,-92.372773
+https://locations.tacobell.com/al/opelika/1300-columbus-parkway.html,al,opelika,1300-columbus-parkway,030451,"1300 Columbus Parkway, Opelika, AL 36804",36804,32.6438948,-85.3481307
+https://locations.tacobell.com/ak/anchorage/1231-muldoon-road.html,ak,anchorage,1231-muldoon-road,021535,"1231 Muldoon Road, Anchorage, AK 99504",99504,61.2108621,-149.7332759
+https://locations.tacobell.com/al/meridianville/12276-u-s--highway-231.html,al,meridianville,12276-u-s--highway-231,G135455,"12276 U.S. Highway 231, Meridianville, AL 35759",12276,34.8703358,-86.57070039999999
+https://locations.tacobell.com/ak/eagle-river/12130-business-blvd.html,ak,eagle-river,12130-business-blvd,005649,"12130 Business Blvd, Eagle River, AK 99577",12130,61.3299052,-149.5695566
+https://locations.tacobell.com/ar/arkadelphia/121-valley-rd.html,ar,arkadelphia,121-valley-rd,004133,"121 Valley Rd, Arkadelphia, AR 71923",71923,34.118556,-93.0543981
+https://locations.tacobell.com/ar/west-memphis/1209-n--missouri-st-.html,ar,west-memphis,1209-n--missouri-st-,035144,"1209 N. Missouri St., West Memphis, AR 72301",72301,35.1604449,-90.1843493
+https://locations.tacobell.com/al/moulton/11880-al-highway-157.html,al,moulton,11880-al-highway-157,027323,"11880 AL Highway 157, Moulton, AL 35650",11880,34.4876987,-87.2756955
+https://locations.tacobell.com/ar/north-little-rock/11525-maumelle-blvd.html,ar,north-little-rock,11525-maumelle-blvd,027494,"11525 Maumelle Blvd, North Little Rock, AR 72113",11525,34.8272821,-92.3881203
+https://locations.tacobell.com/ar/fayetteville/1147-north-colorado.html,ar,fayetteville,1147-north-colorado,023223,"1147 North Colorado, Fayetteville, AR 72703",72703,36.0788701,-94.2069521
+https://locations.tacobell.com/al/troy/1116-highway-231-s.html,al,troy,1116-highway-231-s,029078,"1116 Highway 231 S, Troy, AL 36081",36081,31.7839034,-85.95727880000001
+https://locations.tacobell.com/al/mobile/1115-government-st.html,al,mobile,1115-government-st,023756,"1115 Government St, Mobile, AL 36604",36604,30.6837065,-88.0609065
+https://locations.tacobell.com/al/athens/1112-jefferson-st-se.html,al,athens,1112-jefferson-st-se,030271,"1112 Jefferson St SE, Athens, AL 35611",35611,34.7902401,-86.9722496
+https://locations.tacobell.com/ar/clarksville/1105-south-rogers.html,ar,clarksville,1105-south-rogers,020461,"1105 South Rogers, Clarksville, AR 72830",72830,35.4607684,-93.4592161
+https://locations.tacobell.com/ar/batesville/1102-s-saint-louis-st.html,ar,batesville,1102-s-saint-louis-st,027035,"1102 S Saint Louis St, Batesville, AR 72501",72501,35.7682895,-91.6413424
+https://locations.tacobell.com/ar/hot-springs/1100-albert-pike.html,ar,hot-springs,1100-albert-pike,003751,"1100 Albert Pike, Hot Springs, AR 71913",71913,34.4949823,-93.0779357
+https://locations.tacobell.com/ar/crossett/109-west-first-avenue.html,ar,crossett,109-west-first-avenue,029599,"109 West First Avenue, Crossett, AR 71635",71635,33.1350702,-91.962717
+https://locations.tacobell.com/al/dothan/1087-ross-clark-circle.html,al,dothan,1087-ross-clark-circle,036371,"1087 Ross Clark Circle, Dothan, AL 36303",36303,31.2170705,-85.361247
+https://locations.tacobell.com/ar/siloam-springs/1050-hwy-412-w.html,ar,siloam-springs,1050-hwy-412-w,004285,"1050 Hwy 412 W, Siloam Springs, AR 72761",72761,36.1747554,-94.5523817
+https://locations.tacobell.com/al/boaz/1040-us-highway-431.html,al,boaz,1040-us-highway-431,029143,"1040 US Highway 431, Boaz, AL 35957",35957,34.2015978,-86.1509648
+https://locations.tacobell.com/al/huntsville/1030-airport-rd.html,al,huntsville,1030-airport-rd,029146,"1030 Airport Rd, Huntsville, AL 35802",35802,34.6912145,-86.5795789
+https://locations.tacobell.com/ar/ozark/103-airport-road.html,ar,ozark,103-airport-road,030892,"103 Airport Road, Ozark, AR 72949",72949,35.5061114,-93.8442454
+https://locations.tacobell.com/ar/bentonville/102-s-walton-blvd.html,ar,bentonville,102-s-walton-blvd,004680,"102 S Walton Blvd, Bentonville, AR 72712",72712,36.3721029,-94.2220337
+https://locations.tacobell.com/al/greenville/1017-ft-dale-road.html,al,greenville,1017-ft-dale-road,029117,"1017 Ft Dale Road, Greenville, AL 36037",36037,31.8554991,-86.6407256
+https://locations.tacobell.com/ar/osceola/1001-w--keiser.html,ar,osceola,1001-w--keiser,L518083,"1001 W. Keiser, Osceola, AR 72370",72370,35.6980389,-89.9993007
+https://locations.tacobell.com/ar/fordyce/1200-n-edgar-street.html,ar,fordyce,1200-n-edgar-street,040651,"1200 N Edgar Street, Fordyce, AR 71742",71742,33.8242838,-92.4259157
+https://locations.tacobell.com/al/homewood/159-state-farm-parkway.html,al,homewood,159-state-farm-parkway,037526,"159 State Farm Parkway, Homewood, AL 35209",35209,33.4497049,-86.8220952
+https://locations.tacobell.com/al/anniston/5552-mcclellan-blvd.html,al,anniston,5552-mcclellan-blvd,038801,"5552 McClellan Blvd, Anniston, AL 36206",36206,33.7181047,-85.8185166
+https://locations.tacobell.com/al/montgomery/2575-cong-w-l-dickinson-drive.html,al,montgomery,2575-cong-w-l-dickinson-drive,040783,"2575 Cong W L Dickinson Drive, Montgomery, AL 36109",36109,32.4189174,-86.23232139999999
+https://locations.tacobell.com/ar/hot-springs/1716-airport-road.html,ar,hot-springs,1716-airport-road,040889,"1716 Airport Road, Hot Springs, AR 71913",71913,34.4643002,-93.1452805
+https://locations.tacobell.com/ar/siloam-springs/4171-us-412.html,ar,siloam-springs,4171-us-412,040894,"4171 US-412, Siloam Springs, AR 72761",72761,36.1814185,-94.4984628
+https://locations.tacobell.com/ak/palmer/755-west-rowland-memorial-way.html,ak,palmer,755-west-rowland-memorial-way,032200,"755 West Rowland Memorial Way, Palmer, AK 99645",99645,61.5991818,-149.1276056
+https://locations.tacobell.com/al/montevallo/915-main-st-.html,al,montevallo,915-main-st-,033445,"915 Main St., Montevallo, AL 35115",35115,33.101767,-86.8609833
+https://locations.tacobell.com/ar/bald-knob/118-132-us-167.html,ar,bald-knob,118-132-us-167,033494,"118-132 Us-167, Bald Knob, AR 72010",72010,35.3200009,-91.5705567
+https://locations.tacobell.com/ar/centerton/1775-e--centerton-blvd-.html,ar,centerton,1775-e--centerton-blvd-,032705,"1775 E. Centerton Blvd., Centerton, AR 72719",72719,36.3574579,-94.2543714
+https://locations.tacobell.com/ar/farmington/331-w--main-st-.html,ar,farmington,331-w--main-st-,034155,"331 W. Main St., Farmington, AR 72730",72730,36.0378216,-94.2556669
+https://locations.tacobell.com/al/decatur/2928-point-mallard-pkwy.html,al,decatur,2928-point-mallard-pkwy,034603,"2928 Point Mallard Pkwy, Decatur, AL 35603",35603,34.5622752,-86.9731266
+https://locations.tacobell.com/ar/little-rock/17116-chenal-parkway.html,ar,little-rock,17116-chenal-parkway,040770,"17116 Chenal Parkway, Little Rock, AR 72223",17116,34.8097154,-92.4895496
+https://locations.tacobell.com/ar/gassville/44-cc-drive.html,ar,gassville,44-cc-drive,041055,"44 CC Drive, Gassville, AR 72635",72635,36.2799177,-92.4889228
+https://locations.tacobell.com/al/florence/503-s-court-street.html,al,florence,503-s-court-street,034248,"503 S Court Street, Florence, AL 35630",35630,34.7962606,-87.6730726
+https://locations.tacobell.com/ak/anchorage/9000-lake-otis-parkway-units-6-and-7.html,ak,anchorage,9000-lake-otis-parkway-units-6-and-7,034659,"9000 Lake Otis Parkway Units 6 and 7, Anchorage, AK 99507",99507,61.1391796,-149.8350286

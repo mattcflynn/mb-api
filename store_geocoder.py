@@ -8,15 +8,18 @@ import csv
 import time
 import os
 import re
+import argparse
+from pathlib import Path
 from geopy.geocoders import Nominatim
 from geopy.extra.rate_limiter import RateLimiter
 import googlemaps
 from dotenv import load_dotenv
 
 # --- Configuration ---
-INPUT_CSV_FILENAME = "taco_bell_100_stores_with_ids.csv"
-OUTPUT_CSV_FILENAME = "taco_bell_100_stores_with_coords.csv"
-MANUAL_FIXES_CSV = "manual_addresses.csv" # NEW: Manual override file
+# This script is now driven by command-line arguments.
+# Example usage: python store_geocoder.py --chunk 1
+CHUNKS_DIR = "store_chunks"
+MANUAL_FIXES_CSV = "manual_addresses.csv"
 
 # NEW: Load environment variables from a .env file
 load_dotenv()
@@ -61,18 +64,26 @@ def main():
     Reads a CSV of store addresses, applies manual corrections, geocodes
     each one, and saves the enriched data to a new file.
     """
+    parser = argparse.ArgumentParser(description="Geocode a specific chunk of stores.")
+    parser.add_argument("--chunk", type=int, required=True, help="The chunk number to process (e.g., 1).")
+    args = parser.parse_args()
+
+    # Dynamically construct file paths based on the chunk number
+    input_filename = Path(CHUNKS_DIR) / f"chunk_{args.chunk:02d}_with_ids.csv"
+    output_filename = Path(CHUNKS_DIR) / f"chunk_{args.chunk:02d}_with_coords.csv"
+
     # --- NEW: Load manual corrections first ---
     address_fixes = load_manual_fixes(MANUAL_FIXES_CSV)
 
     stores_to_geocode = []
     try:
-        with open(INPUT_CSV_FILENAME, mode='r', encoding='utf-8') as file:
+        with open(input_filename, mode='r', encoding='utf-8') as file:
             reader = csv.DictReader(file)
             for row in reader:
                 if row.get('full_address') and row['full_address'] != 'ERROR':
                     stores_to_geocode.append(row)
     except FileNotFoundError:
-        print(f"ERROR: The input file '{INPUT_CSV_FILENAME}' was not found.")
+        print(f"ERROR: The input file '{input_filename}' was not found.")
         return
 
     print(f"Found {len(stores_to_geocode)} stores with valid addresses to geocode.")
@@ -82,8 +93,10 @@ def main():
 
     gmaps = None
     if GOOGLE_API_KEY:
+        # Add logging to confirm the key is loaded and show a masked version
+        masked_key = GOOGLE_API_KEY[:4] + "..." + GOOGLE_API_KEY[-4:] if len(GOOGLE_API_KEY) > 8 else "Invalid Key"
+        print(f"Google Maps API key found and loaded (key: {masked_key}). Will use as a fallback.")
         gmaps = googlemaps.Client(key=GOOGLE_API_KEY)
-        print("Google Maps API key found. Will use as a fallback.")
 
     enriched_stores = []
     failed_addresses = []
@@ -152,11 +165,11 @@ def main():
         print("No stores were successfully geocoded. Exiting.")
         return
         
-    print(f"\n--- Saving {len(enriched_stores)} stores with coordinates to {OUTPUT_CSV_FILENAME} ---")
+    print(f"\n--- Saving {len(enriched_stores)} stores with coordinates to {output_filename} ---")
     
     fieldnames = list(enriched_stores[0].keys())
     
-    with open(OUTPUT_CSV_FILENAME, mode='w', newline='', encoding='utf-8') as file:
+    with open(output_filename, mode='w', newline='', encoding='utf-8') as file:
         writer = csv.DictWriter(file, fieldnames=fieldnames)
         writer.writeheader()
         writer.writerows(enriched_stores)
