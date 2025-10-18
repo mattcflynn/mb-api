@@ -1,0 +1,5 @@
+geopy
+playwright
+requests
+pandas
+googlemaps

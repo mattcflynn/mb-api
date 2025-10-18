@@ -9,7 +9,7 @@
 import pandas as pd
 
 # --- Configuration ---
-NUTRITION_FILE = "nutrition.csv"
+NUTRITION_FILE = "nutrition_latest.csv"
 CODE_MAP_FILE = "product_code_map.csv"
 OUTPUT_FILE = "products_master.csv"
 
@@ -36,7 +36,7 @@ def main():
         print(f"Loaded {len(codes_df)} rows from product code source ('{CODE_MAP_FILE}')")
 
         # Normalize the 'item_name' column in both dataframes for better matching
-        nutrition_df['normalized_name'] = nutrition_df['item_name'].apply(normalize_name)
+        nutrition_df['normalized_name'] = nutrition_df['name'].apply(normalize_name)
         codes_df['normalized_name'] = codes_df['item_name'].apply(normalize_name)
 
         # Perform an outer merge to keep all records from both files and identify the source
@@ -58,18 +58,34 @@ def main():
         
         print(f"\n[INFO] {len(nutrition_only)} items found ONLY in nutrition file (no price code):")
         for index, row in nutrition_only.iterrows():
-            print(f"  - {row['item_name']}")
+            print(f"  - {row['name']}")
 
-        print(f"\n[INFO] {len(codes_only)} items found ONLY in product code file (no nutrition info):")
+        # De-duplicate the 'codes_only' list before reporting
+        unique_codes_only = pd.merge(codes_only[['normalized_name']], codes_df, on='normalized_name', how='left')
+        unique_codes_only.drop_duplicates(subset=['product_code'], inplace=True)
+
+        print(f"\n[INFO] {len(unique_codes_only)} unique items found ONLY in product code file (no nutrition info):")
         # For codes_only, the original name is in the 'item_name_y' column from the merge
         # We need to re-merge to get the original name from codes_df
-        codes_only_names = pd.merge(codes_only[['normalized_name']], codes_df, on='normalized_name', how='left')
-        for index, row in codes_only_names.iterrows():
+        for index, row in unique_codes_only.iterrows():
             print(f"  - {row['item_name']} (Code: {row['product_code']})")
 
         # Clean up the final dataframe
-        final_df = matched_items.drop(columns=['normalized_name', '_merge'])
+        # Rename the 'name' column from the nutrition file to 'item_name' for consistency
+        final_df = matched_items.rename(columns={'name': 'item_name'})
+        # Now drop the columns used for merging
+        final_df = final_df.drop(columns=['normalized_name', '_merge'])
+
         final_df = final_df.drop_duplicates(subset=['product_code'])
+
+        # --- Final Data Type Cleanup ---
+        # Convert columns back to integer types after the merge may have changed them to float.
+        # Using 'Int64' (capital I) allows for nullable integers.
+        integer_columns = ['item_id', 'is_breakfast', 'is_drink']
+        for col in integer_columns:
+            if col in final_df.columns:
+                # Convert to float first to handle any non-numeric strings, then to nullable integer
+                final_df[col] = pd.to_numeric(final_df[col], errors='coerce').astype('Int64')
 
         # Save the final master file
         final_df.to_csv(OUTPUT_FILE, index=False)

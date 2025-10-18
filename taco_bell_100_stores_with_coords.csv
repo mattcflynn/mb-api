@@ -1,0 +1,101 @@
+url,state,city,address_slug,store_id,full_address,zip_code,latitude,longitude
+https://locations.tacobell.com/in/indianapolis/2401-n-meridian-st.html,in,indianapolis,2401-n-meridian-st,G135807,"2401 N Meridian St, Indianapolis, IN 46208",46208,39.8013538,-86.1564974
+https://locations.tacobell.com/nv/las-vegas/6345-n-lamb-blvd.html,nv,las vegas,6345-n-lamb-blvd,041489,"6345 N Lamb Blvd Ste #100, Las Vegas, NV 89115",89115,36.1888684,-115.0799767
+https://locations.tacobell.com/nj/columbia/2-simpson-road.html,nj,columbia,2-simpson-road,019301,"2 Simpson Road, Columbia, NJ 07832",07832,40.932888,-75.099652
+https://locations.tacobell.com/mn/north-branch/38706-14th-avenue.html,mn,north branch,38706-14th-avenue,020952,"38706 14th Avenue, North Branch, MN 55056",38706,45.5092926,-92.9914749
+https://locations.tacobell.com/me/newport/4-lunt-rd.html,me,newport,4-lunt-rd,041070,"4 Lunt Rd, Newport, ME 04953",04953,44.8381488,-69.2845853
+https://locations.tacobell.com/md/pasadena/8099-edwin-raynor-blvd.html,md,pasadena,8099-edwin-raynor-blvd,032666,"8099 Edwin Raynor Blvd, Pasadena, MD 21122",21122,39.1253709,-76.5311618
+https://locations.tacobell.com/va/midlothian/12751-stone-village-way.html,va,midlothian,12751-stone-village-way,034782,"12751 Stone Village Way, Midlothian, VA 23236",12751,37.5025735,-77.628317
+https://locations.tacobell.com/mi/saint-clair/1191-s-carney-dr.html,mi,saint clair,1191-s-carney-dr,041876,"1191 S Carney Dr, Saint Clair, MI 48079",48079,42.8189554,-82.5044157
+https://locations.tacobell.com/co/aurora/14551-e-colfax.html,co,aurora,14551-e-colfax,023963,"14551 E Colfax, Aurora, CO 80011",14551,39.74073,-104.8185314
+https://locations.tacobell.com/ak/fairbanks/1390-s-university-avenue.html,ak,fairbanks,1390-s-university-avenue,004913,"1390 S University Avenue, Fairbanks, AK 99709",99709,64.8423832,-147.8125294
+https://locations.tacobell.com/fl/deland/1201-s-woodland-blvd.html,fl,deland,1201-s-woodland-blvd,022588,"1201 S Woodland Blvd #A, Deland, FL 32720",32720,29.0088101,-81.3021765
+https://locations.tacobell.com/in/portage/6053-us-highway-6.html,in,portage,6053-us-highway-6,019297,"6053 US Highway 6, Portage, IN 46368",46368,41.5504069,-87.1809076
+https://locations.tacobell.com/wi/milwaukee/2200-e--kenwood-blvd-.html,wi,milwaukee,2200-e--kenwood-blvd-,018530,"2200 E. Kenwood Blvd., Milwaukee, WI 53211",53211,43.077639,-87.8819425
+https://locations.tacobell.com/tn/chattanooga/6210-lee-highway.html,tn,chattanooga,6210-lee-highway,029037,"6210 Lee Highway, Chattanooga, TN 37421",37421,35.0298774,-85.1853175
+https://locations.tacobell.com/pa/york/2411-e-market-st.html,pa,york,2411-e-market-st,024414,"2411 E Market St, York, PA 17402",17402,39.9741881,-76.6797376
+https://locations.tacobell.com/ar/prescott/1806-us-highway-371-w.html,ar,prescott,1806-us-highway-371-w,023068,"1806 US Highway 371 W, Prescott, AR 71857",71857,33.8114017,-93.4270426
+https://locations.tacobell.com/ri/warwick/510-quaker-lane.html,ri,warwick,510-quaker-lane,041891,"510 Quaker Lane, Warwick, RI 02886",02886,41.682637,-71.4970984
+https://locations.tacobell.com/ks/olathe/12075-s--blackbob-rd-.html,ks,olathe,12075-s--blackbob-rd-,034401,"12075 S. Blackbob Rd., Olathe, KS 66062",12075,38.9099773,-94.76035809999999
+https://locations.tacobell.com/ct/dayville/601-hartford-pike.html,ct,dayville,601-hartford-pike,029870,"601 Hartford Pike, Dayville, CT 06241",06241,41.8430386,-71.8811501
+https://locations.tacobell.com/id/mountain-home/190-city-view-dr-.html,id,mountain home,190-city-view-dr-,038751,"190 City View Dr., Mountain Home, ID 83647",83647,43.1350592,-115.6659976
+https://locations.tacobell.com/wy/riverton/1812-north-federal-blvd.html,wy,riverton,1812-north-federal-blvd,023080,"1812 North Federal Blvd, Riverton, WY 82501",82501,43.0425802,-108.3811722
+https://locations.tacobell.com/mt/helena/2815-north-montana.html,mt,helena,2815-north-montana,018703,"2815 North Montana, Helena, MT 59601",59601,46.6130077,-112.0203346
+https://locations.tacobell.com/hi/honolulu/1215-s--beretania-st.html,hi,honolulu,1215-s--beretania-st,009633,"1215 S. Beretania St, Honolulu, HI 96814",96814,21.3011489,-157.8427404
+https://locations.tacobell.com/ny/long-island/40-09-21st-street.html,ny,long island,40-09-21st-street,042033,"40-09 21st Street Unit E, Long Island, NY 11101",11101,40.7479385,-73.9474188
+https://locations.tacobell.com/mi/fort-gratiot/3977-24th-ave.html,mi,fort gratiot,3977-24th-ave,041875,"3977 24th Ave, Fort Gratiot, MI 48059",48059,43.0245539,-82.4563457
+https://locations.tacobell.com/wv/winfield/13974-winfield-rd.html,wv,winfield,13974-winfield-rd,042070,"13974 Winfield Rd, Winfield, WV 25213",13974,38.5280095,-81.9029483
+https://locations.tacobell.com/dc/washington/625-h-street-ne.html,dc,washington,625-h-street-ne,040994,"625 H Street NE Suite A, Washington, DC 20002",20002,38.9000572,-76.9974581
+https://locations.tacobell.com/ok/sand-springs/305-w--2nd-street-.html,ok,sand springs,305-w--2nd-street-,022168,"305 W. 2nd Street., Sand Springs, OK 74063",74063,36.1387357,-96.1150734
+https://locations.tacobell.com/ma/allston/1222-commonwealth-ave.html,ma,allston,1222-commonwealth-ave,041634,"1222 Commonwealth Ave, Allston, MA 02134",02134,42.3500982,-71.1306257
+https://locations.tacobell.com/ca/cathedral-city/68509-e-palm-canyon-dr.html,ca,cathedral city,68509-e-palm-canyon-dr,029965,"68509 E Palm Canyon Dr, Cathedral City, CA 92234",68509,33.7800247,-116.4664973
+https://locations.tacobell.com/tn/millington/4811-navy-rd.html,tn,millington,4811-navy-rd,035154,"4811 Navy Rd, Millington, TN 38053",38053,35.3412795,-89.9030498
+https://locations.tacobell.com/co/grand-junction/850-north-ave.html,co,grand junction,850-north-ave,000951,"850 North Ave, Grand Junction, CO 81501",81501,39.0776557,-108.5584435
+https://locations.tacobell.com/wy/sheridan/1655-coffeen-ave.html,wy,sheridan,1655-coffeen-ave,023075,"1655 Coffeen Ave, Sheridan, WY 82801",82801,44.7800824,-106.9421046
+https://locations.tacobell.com/nc/durham/3509-westgate-dr.html,nc,durham,3509-westgate-dr,029364,"3509 Westgate Dr, Durham, NC 27707",27707,35.9653133,-78.9601583
+https://locations.tacobell.com/il/cicero/2225-s-cicero-avenue.html,il,cicero,2225-s-cicero-avenue,036181,"2225 S Cicero Avenue, Cicero, IL 60804",60804,41.8495236,-87.7439241
+https://locations.tacobell.com/nm/tucumcari/2428-1st-st.html,nm,tucumcari,2428-1st-st,034247,"2428 1st st, Tucumcari, NM 88401",88401,35.1559876,-103.7250663
+https://locations.tacobell.com/ar/fort-smith/7910-rogers-ave.html,ar,fort smith,7910-rogers-ave,003997,"7910 Rogers Ave, Fort Smith, AR 72903",72903,35.3492055,-94.3436977
+https://locations.tacobell.com/ri/pawtucket/675-beverage-hill-ave.html,ri,pawtucket,675-beverage-hill-ave,040882,"675 Beverage Hill Ave Ste 100, Pawtucket, RI 02861",02861,41.8605619,-71.3540639
+https://locations.tacobell.com/nm/albuquerque/8651-golf-course-road-northwest.html,nm,albuquerque,8651-golf-course-road-northwest,037523,"8651 Golf Course Road Northwest, Albuquerque, NM 87114",87114,35.1823593,-106.6877833
+https://locations.tacobell.com/ky/berea/119-brentwood.html,ky,berea,119-brentwood,021543,"119 Brentwood, Berea, KY 40403",40403,37.565279,-84.31253810000001
+https://locations.tacobell.com/de/dover/25-jerome-drive.html,de,dover,25-jerome-drive,037077,"25 Jerome Drive, Dover, DE 19901",19901,39.174853,-75.5223689
+https://locations.tacobell.com/va/virginia-beach/1360-great-neck-road.html,va,virginia beach,1360-great-neck-road,015359,"1360 Great Neck Road, Virginia Beach, VA 23454",23454,36.8778355,-76.041563
+https://locations.tacobell.com/ky/lexington/1065-e-new-circle-rd.html,ky,lexington,1065-e-new-circle-rd,004653,"1065 E New Circle Rd, Lexington, KY 40505",40505,38.0367072,-84.4538295
+https://locations.tacobell.com/az/window-rock/state-highway-264-&-ir-12.html,az,window rock,state-highway-264-&-ir-12,031484,"State Highway 264 & IR 12, Window Rock, AZ 86515",86515,35.6726317,-109.0580211
+https://locations.tacobell.com/me/scarborough/400-gallery-boulevard.html,me,scarborough,400-gallery-boulevard,G135822,"400 Gallery Boulevard, Scarborough, ME 04074",04074,43.6250276,-70.3438029
+https://locations.tacobell.com/ok/lawton/6704-nw-cache-road.html,ok,lawton,6704-nw-cache-road,033274,"6704 NW Cache Road, Lawton, OK 73505",73505,34.6230172,-98.4754524
+https://locations.tacobell.com/id/meridian/645-s-main-st.html,id,meridian,645-s-main-st,016796,"645 S Main St, Meridian, ID 83642",83642,43.598871,-116.3929816
+https://locations.tacobell.com/fl/miami/10725-nw-41st-street.html,fl,miami,10725-nw-41st-street,E320131,"10725 NW 41st Street, Miami, FL 33178",10725,25.8120673,-80.3706663
+https://locations.tacobell.com/sd/brookings/926-25th-ave-.html,sd,brookings,926-25th-ave-,032302,"926 25th Ave., Brookings, SD 57006",57006,44.316524,-96.7620936
+https://locations.tacobell.com/ia/davenport/1736-west-kimberly-road.html,ia,davenport,1736-west-kimberly-road,042419,"1736 West Kimberly Road, Davenport, IA 52806",52806,41.5599004,-90.6009608
+https://locations.tacobell.com/pa/pittsburgh/2603-freeport-road.html,pa,pittsburgh,2603-freeport-road,033753,"2603 Freeport Road, Pittsburgh, PA 15238",15238,40.5371277,-79.8404302
+https://locations.tacobell.com/mo/springfield/2047-e--independence-st.html,mo,springfield,2047-e--independence-st,036223,"2047 E. Independence St, Springfield, MO 65804",65804,37.1419004,-93.2572326
+https://locations.tacobell.com/ct/plainville/167-new-britain-avenue.html,ct,plainville,167-new-britain-avenue,029251,"167 New Britain Avenue, Plainville, CT 06062",06062,41.6780256,-72.8457652
+https://locations.tacobell.com/ia/waverly/2801-4th-st-sw.html,ia,waverly,2801-4th-st-sw,040727,"2801 4th St SW, Waverly, IA 50677",50677,42.7006849,-92.4753077
+https://locations.tacobell.com/al/gadsden/579-e--meighan-boulevard.html,al,gadsden,579-e--meighan-boulevard,J466006,"579 E. Meighan Boulevard, Gadsden, AL 35903",35903,34.0081266,-85.9836314
+https://locations.tacobell.com/de/milford/649-n--dupont-blvd-.html,de,milford,649-n--dupont-blvd-,K071052,"649 N. DuPont Blvd., Milford, DE 19963",19963,38.9169964,-75.4425899
+https://locations.tacobell.com/ma/springfield/633-liberty-st-.html,ma,springfield,633-liberty-st-,029248,"633 Liberty St., Springfield, MA 01104",01104,42.1212852,-72.5834286
+https://locations.tacobell.com/ca/orange/490-n-tustin-st.html,ca,orange,490-n-tustin-st,039789,"490 N Tustin St, Orange, CA 92867",92867,33.7947021,-117.8361054
+https://locations.tacobell.com/sc/anderson/655-hwy-28-bypass.html,sc,anderson,655-hwy-28-bypass,027318,"655 Hwy 28 Bypass, Anderson, SC 29624",29624,34.4910367,-82.6761554
+https://locations.tacobell.com/az/glendale/4950-w--thunderbird-rd.html,az,glendale,4950-w--thunderbird-rd,022632,"4950 W. Thunderbird Rd, Glendale, AZ 85306",85306,33.6107223,-112.1687317
+https://locations.tacobell.com/nv/henderson/1284-w-warm-springs-rd.html,nv,henderson,1284-w-warm-springs-rd,031890,"1284 W Warm Springs Rd, Henderson, NV 89014",89014,36.0567145,-115.0411708
+https://locations.tacobell.com/la/crowley/2408-north-parkerson-avenue.html,la,crowley,2408-north-parkerson-avenue,016313,"2408 North Parkerson Avenue, Crowley, LA 70526",70526,30.2329925,-92.3841633
+https://locations.tacobell.com/ut/price/120-n--carbonville-road.html,ut,price,120-n--carbonville-road,025394,"120 N. Carbonville Road, Price, UT 84501",84501,39.6013045,-110.8225545
+https://locations.tacobell.com/nd/grand-forks/1301-s-washington-st.html,nd,grand forks,1301-s-washington-st,037578,"1301 S Washington St, Grand Forks, ND 58201",58201,47.9088243,-97.0446011
+https://locations.tacobell.com/wa/tacoma/5308-176th-st--east.html,wa,tacoma,5308-176th-st--east,035320,"5308 176th St. East, Tacoma, WA 98446",98446,47.0958561,-122.3587385
+https://locations.tacobell.com/nc/winston-salem/12199-n--nc-highway-150.html,nc,winston salem,12199-n--nc-highway-150,039781,"12199 N. NC Highway 150, Winston-Salem, NC 27127",12199,35.993694,-80.2693978
+https://locations.tacobell.com/ms/lucedale/11282-old-63-south.html,ms,lucedale,11282-old-63-south,032399,"11282 Old 63 South, Lucedale, MS 39452",11282,30.9071066,-88.5974812
+https://locations.tacobell.com/ny/brooklyn/283-broadway.html,ny,brooklyn,283-broadway,037832,"283 Broadway, Brooklyn, NY 11211",11211,40.7087163,-73.9584288
+https://locations.tacobell.com/mn/rogers/13500-rogers-drive.html,mn,rogers,13500-rogers-drive,020173,"13500 Rogers Drive, Rogers, MN 55374",13500,45.1992357,-93.5493673
+https://locations.tacobell.com/oh/canton/4875-tuscarawas-st--w.html,oh,canton,4875-tuscarawas-st--w,001279,"4875 Tuscarawas St. W, Canton, OH 44708",44708,40.799878,-81.3968189
+https://locations.tacobell.com/nh/salem/322-s--broadway.html,nh,salem,322-s--broadway,029273,"322 S. Broadway, Salem, NH 03079",03079,42.7549905,-71.2094583
+https://locations.tacobell.com/wv/princeton/1225-stafford-dr.html,wv,princeton,1225-stafford-dr,031440,"1225 Stafford Dr, Princeton, WV 24740",24740,37.36177,-81.0968759
+https://locations.tacobell.com/sc/hartsville/907-s-5th-st.html,sc,hartsville,907-s-5th-st,027629,"907 S 5th St, Hartsville, SC 29550",29550,34.3610841,-80.067288
+https://locations.tacobell.com/md/frederick/305-ballenger-center-dr-.html,md,frederick,305-ballenger-center-dr-,040059,"305 Ballenger Center Dr., Frederick, MD 21703",21703,39.3966505,-77.4369449
+https://locations.tacobell.com/ne/omaha/14554-w--center-rd-.html,ne,omaha,14554-w--center-rd-,035270,"14554 W. Center Rd., Omaha, NE 68144",14554,41.234442,-96.1423944
+https://locations.tacobell.com/mo/camdenton/423-e-highway-54.html,mo,camdenton,423-e-highway-54,027909,"423 E Highway 54, Camdenton, MO 65020",65020,38.00404330000001,-92.75197059999999
+https://locations.tacobell.com/ut/springville/1680-w-400-s.html,ut,springville,1680-w-400-s,032473,"1680 W 400 S, Springville, UT 84663",84663,40.1617033,-111.6412161
+https://locations.tacobell.com/nd/dickinson/1560-3rd-avenue-west.html,nd,dickinson,1560-3rd-avenue-west,037582,"1560 3rd Avenue West, Dickinson, ND 58601",58601,46.9001945,-102.7888848
+https://locations.tacobell.com/or/portland/4616-n-interstate-ave.html,or,portland,4616-n-interstate-ave,020020,"4616 N Interstate Ave, Portland, OR 97217",97217,45.5564846,-122.68182
+https://locations.tacobell.com/ks/wichita/11877-e-kellogg.html,ks,wichita,11877-e-kellogg,021307,"11877 E Kellogg, Wichita, KS 67207",11877,37.6785715,-97.199703
+https://locations.tacobell.com/wi/plymouth/3062-kiley-way.html,wi,plymouth,3062-kiley-way,028453,"3062 Kiley Way, Plymouth, WI 53073",53073,43.7528226,-87.9420768
+https://locations.tacobell.com/ne/columbus/3408-23rd-street.html,ne,columbus,3408-23rd-street,016801,"3408 23rd Street, Columbus, NE 68601",68601,41.4390786,-97.3704954
+https://locations.tacobell.com/nj/woodbridge/901-st-georges-ave.html,nj,woodbridge,901-st-georges-ave,039109,"901 St Georges Ave, Woodbridge, NJ 07095",07095,40.5695918,-74.2916217
+https://locations.tacobell.com/wa/des-moines/27001-pacific-hwy-s.html,wa,des moines,27001-pacific-hwy-s,031320,"27001 Pacific Hwy S, Des Moines, WA 98198",27001,47.3595107,-122.3090384
+https://locations.tacobell.com/la/baton-rouge/4220-burbank-dr.html,la,baton rouge,4220-burbank-dr,026916,"4220 Burbank Dr, Baton Rouge, LA 70808",70808,30.4014323,-91.1761991
+https://locations.tacobell.com/il/robinson/1414-east-main-street.html,il,robinson,1414-east-main-street,028887,"1414 East Main Street, Robinson, IL 62454",62454,39.00651,-87.7217079
+https://locations.tacobell.com/ak/eagle-river/12130-business-blvd.html,ak,eagle river,12130-business-blvd,005649,"12130 Business Blvd, Eagle River, AK 99577",12130,61.3299052,-149.5695566
+https://locations.tacobell.com/mt/billings/633-main-st.html,mt,billings,633-main-st,038932,"633 Main St, Billings, MT 59105",59105,45.810568,-108.471456
+https://locations.tacobell.com/ga/swainsboro/412-south-main-street.html,ga,swainsboro,412-south-main-street,031086,"412 South Main Street, Swainsboro, GA 30401",30401,32.5900918,-82.327902
+https://locations.tacobell.com/al/andalusia/254-west-bypass.html,al,andalusia,254-west-bypass,029970,"254 West Bypass, Andalusia, AL 36420",36420,31.3186421,-86.46072570000001
+https://locations.tacobell.com/hi/honolulu/717-kapahulu-ave.html,hi,honolulu,717-kapahulu-ave,001281,"717 Kapahulu Ave, Honolulu, HI 96816",96816,21.2803531,-157.8139419
+https://locations.tacobell.com/tx/pleasanton/2052-w-oaklawn-rd-.html,tx,pleasanton,2052-w-oaklawn-rd-,035072,"2052 W Oaklawn Rd., Pleasanton, TX 78064",78064,28.9424463,-98.5097878
+https://locations.tacobell.com/vt/bennington/100-northside-drive.html,vt,bennington,100-northside-drive,C029046,"100 Northside Drive, Bennington, VT 05201",05201,42.8941298,-73.2031033
+https://locations.tacobell.com/or/mcminnville/915-ne-highway-99w.html,or,mcminnville,915-ne-highway-99w,001531,"915 NE Highway 99W, McMinnville, OR 97128",97128,45.2305393,-123.1648362
+https://locations.tacobell.com/tx/dallas/5506-e-mockingbird-ln-.html,tx,dallas,5506-e-mockingbird-ln-,001089,"5506 E Mockingbird Ln., Dallas, TX 75206",75206,32.8367003,-96.7735317
+https://locations.tacobell.com/sd/sioux-falls/8340-w-41st-street.html,sd,sioux falls,8340-w-41st-street,042418,"8340 W 41st Street, Sioux Falls, SD 57106",57106,43.5148811,-96.8287608
+https://locations.tacobell.com/ga/perry/1500-sam-nunn-blvd.html,ga,perry,1500-sam-nunn-blvd,034555,"1500 Sam Nunn Blvd, Perry, GA 31069",31069,32.4675963,-83.7391195
+https://locations.tacobell.com/nh/manchester/525-hooksett-road.html,nh,manchester,525-hooksett-road,040316,"525 Hooksett Road, Manchester, NH 03104",03104,43.0161387,-71.4509371
+https://locations.tacobell.com/oh/ottawa/1724-e-main-street.html,oh,ottawa,1724-e-main-street,032352,"1724 E Main Street, Ottawa, OH 45875",45875,41.0205383,-84.0268597
+https://locations.tacobell.com/dc/washington/808-7th-street-nw.html,dc,washington,808-7th-street-nw,040573,"808 7th Street NW, Washington, DC 20001",20001,38.9000022,-77.022018
