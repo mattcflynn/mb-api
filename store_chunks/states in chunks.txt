@@ -1,0 +1,23 @@
+--- Starting store chunking process ---
+Loaded 8143 total stores from 'taco_bell_stores_from_sitemap.csv'.
+
+--- Saving 19 chunks to 'store_chunks' directory ---
+  - Saved store_chunks/chunk_01.csv: 303 stores (States: ak, al, ar)
+  - Saved store_chunks/chunk_02.csv: 199 stores (States: az)
+  - Saved store_chunks/chunk_03.csv: 880 stores (States: ca)
+  - Saved store_chunks/chunk_04.csv: 247 stores (States: co, ct, dc, de)
+  - Saved store_chunks/chunk_05.csv: 484 stores (States: fl)
+  - Saved store_chunks/chunk_06.csv: 399 stores (States: ga, hi, ia, id)
+  - Saved store_chunks/chunk_07.csv: 303 stores (States: il)
+  - Saved store_chunks/chunk_08.csv: 368 stores (States: in, ks)
+  - Saved store_chunks/chunk_09.csv: 496 stores (States: ky, la, ma, md)
+  - Saved store_chunks/chunk_10.csv: 471 stores (States: me, mi, mn)
+  - Saved store_chunks/chunk_11.csv: 353 stores (States: mo, ms, mt)
+  - Saved store_chunks/chunk_12.csv: 476 stores (States: nc, nd, ne, nh, nj)
+  - Saved store_chunks/chunk_13.csv: 420 stores (States: nm, nv, ny)
+  - Saved store_chunks/chunk_14.csv: 422 stores (States: oh)
+  - Saved store_chunks/chunk_15.csv: 496 stores (States: ok, or, pa, ri)
+  - Saved store_chunks/chunk_16.csv: 411 stores (States: sc, sd, tn)
+  - Saved store_chunks/chunk_17.csv: 722 stores (States: tx)
+  - Saved store_chunks/chunk_18.csv: 455 stores (States: ut, va, vt, wa)
+  - Saved store_chunks/chunk_19.csv: 238 stores (States: wi, wv, wy)
