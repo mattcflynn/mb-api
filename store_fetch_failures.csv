@@ -1,0 +1,9 @@
+url,csv_store_id,reason
+https://locations.tacobell.com/in/indianapolis/2401-n-meridian-st.html,G135807,error:404 Client Error: Not Found for url: https://www.tacobell.com/tacobellwebservices/v4/tacobell/products/menu/135807
+https://locations.tacobell.com/nj/columbia/2-simpson-road.html,019301,error:404 Client Error: Not Found for url: https://www.tacobell.com/tacobellwebservices/v4/tacobell/products/menu/19301
+https://locations.tacobell.com/wi/milwaukee/2200-e--kenwood-blvd-.html,018530,error:404 Client Error: Not Found for url: https://www.tacobell.com/tacobellwebservices/v4/tacobell/products/menu/18530
+https://locations.tacobell.com/ar/prescott/1806-us-highway-371-w.html,023068,error:404 Client Error: Not Found for url: https://www.tacobell.com/tacobellwebservices/v4/tacobell/products/menu/23068
+https://locations.tacobell.com/me/scarborough/400-gallery-boulevard.html,G135822,error:404 Client Error: Not Found for url: https://www.tacobell.com/tacobellwebservices/v4/tacobell/products/menu/135822
+https://locations.tacobell.com/fl/miami/10725-nw-41st-street.html,E320131,error:404 Client Error: Not Found for url: https://www.tacobell.com/tacobellwebservices/v4/tacobell/products/menu/320131
+https://locations.tacobell.com/al/gadsden/579-e--meighan-boulevard.html,J466006,error:404 Client Error: Not Found for url: https://www.tacobell.com/tacobellwebservices/v4/tacobell/products/menu/466006
+https://locations.tacobell.com/de/milford/649-n--dupont-blvd-.html,K071052,error:404 Client Error: Not Found for url: https://www.tacobell.com/tacobellwebservices/v4/tacobell/products/menu/71052
