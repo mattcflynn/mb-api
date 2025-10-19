@@ -1,0 +1,200 @@
+url,state,city,address_slug,store_id,full_address,zip_code,latitude,longitude
+https://locations.tacobell.com/az/sierra-vista/3466-canyon-de-flores.html,az,sierra-vista,3466-canyon-de-flores,040508,"3466 Canyon De Flores, Sierra Vista, AZ 85650",85650,31.5060291,-110.2563686
+https://locations.tacobell.com/az/quartzsite/1201-west-main-street.html,az,quartzsite,1201-west-main-street,041389,"1201 West Main Street, Quartzsite, AZ 85359",85359,33.6615366,-114.236832
+https://locations.tacobell.com/az/surprise/10810-n--cotton-lane.html,az,surprise,10810-n--cotton-lane,041323,"10810 N. Cotton Lane, Surprise, AZ 85388",10810,33.588709,-112.4267758
+https://locations.tacobell.com/az/phoenix/1919-w--baseline-road.html,az,phoenix,1919-w--baseline-road,040410,"1919 W. Baseline Road, Phoenix, AZ 85041",85041,33.3777133,-112.1007787
+https://locations.tacobell.com/az/glendale/4346-w--glendale-avenue.html,az,glendale,4346-w--glendale-avenue,040396,"4346 W. Glendale Avenue, Glendale, AZ 85301",85301,33.5391259,-112.1534857
+https://locations.tacobell.com/az/maricopa/42080-w--maricopa-casa-grande-hwy.html,az,maricopa,42080-w--maricopa-casa-grande-hwy,041069,"42080 W. Maricopa-Casa Grande Hwy, Maricopa, AZ 85138",42080,33.0400096,-112.0191672
+https://locations.tacobell.com/az/tucson/9535-e-golf-links-road.html,az,tucson,9535-e-golf-links-road,041091,"9535 E Golf Links Road, Tucson, AZ 85730",85730,32.1925038,-110.7888214
+https://locations.tacobell.com/az/surprise/16346-w-pat-tillman-blvd.html,az,surprise,16346-w-pat-tillman-blvd,041181,"16346 W Pat Tillman Blvd, Surprise, AZ 85387",16346,33.6973938,-112.4105505
+https://locations.tacobell.com/az/glendale/8211-w--glendale-avenue.html,az,glendale,8211-w--glendale-avenue,041327,"8211 W. Glendale Avenue, Glendale, AZ 85305",85305,33.5376581,-112.2353944
+https://locations.tacobell.com/az/tempe/855-w--baseline.html,az,tempe,855-w--baseline,037574,"855 W. Baseline, Tempe, AZ 85283",85283,33.3754967,-111.956186
+https://locations.tacobell.com/az/tempe/1336-w--university-drive.html,az,tempe,1336-w--university-drive,035132,"1336 W. University Drive, Tempe, AZ 85281",85281,33.4221527,-111.9600414
+https://locations.tacobell.com/az/queen-creek/50-west-ocotillo-road.html,az,queen-creek,50-west-ocotillo-road,041633,"50 West Ocotillo Road, Queen Creek, AZ 85142",85142,33.249512,-111.5645319
+https://locations.tacobell.com/az/phoenix/201-e--washington.html,az,phoenix,201-e--washington,035456,"201 E. Washington Suite 105, Phoenix, AZ 85004",85004,33.4476902,-112.0710709
+https://locations.tacobell.com/az/buckeye/1560-n--verrado-way.html,az,buckeye,1560-n--verrado-way,034918,"1560 N. Verrado Way, Buckeye, AZ 85396",85396,33.4661734,-112.504288
+https://locations.tacobell.com/az/tempe/423-s-mill-ave.html,az,tempe,423-s-mill-ave,036493,"423 S Mill Ave, Tempe, AZ 85281",85281,33.4259507,-111.939815
+https://locations.tacobell.com/az/window-rock/state-highway-264-&-ir-12.html,az,window-rock,state-highway-264-&-ir-12,031484,"State Highway 264 & IR 12, Window Rock, AZ 86515",86515,35.6726317,-109.0580211
+https://locations.tacobell.com/az/eloy/2949-north-toltec.html,az,eloy,2949-north-toltec,031838,"2949 North Toltec Ta #7, Eloy, AZ 85131",85131,32.7731503,-111.6172576
+https://locations.tacobell.com/az/tucson/5570-east-travel-plaza-way.html,az,tucson,5570-east-travel-plaza-way,029343,"5570 East Travel Plaza Way, Tucson, AZ 85756",85756,32.1260538,-110.8737371
+https://locations.tacobell.com/az/gila-bend/820-west-pima.html,az,gila-bend,820-west-pima,029861,"820 West Pima, Gila Bend, AZ 85337",85337,32.9443505,-112.7333455
+https://locations.tacobell.com/az/tonopah/1010-n--339th-avenue.html,az,tonopah,1010-n--339th-avenue,022864,"1010 N. 339th Avenue, Tonopah, AZ 85354",85354,33.4585106,-112.7837978
+https://locations.tacobell.com/az/benson/453-w--4th-st-.html,az,benson,453-w--4th-st-,041882,"453 W. 4th St., Benson, AZ 85602",85602,31.9699832,-110.3051328
+https://locations.tacobell.com/az/scottsdale/7901-e--mcdowell-rd.html,az,scottsdale,7901-e--mcdowell-rd,041975,"7901 E. McDowell Rd, Scottsdale, AZ 85257",85257,33.4654064,-111.910799
+https://locations.tacobell.com/az/white-hills/20375-us-93.html,az,white-hills,20375-us-93,041959,"20375 US-93, White Hills, AZ 86445",20375,35.7199789,-114.4855181
+https://locations.tacobell.com/az/sun-lakes/25500-s-arizona-avenue.html,az,sun-lakes,25500-s-arizona-avenue,041865,"25500 S Arizona Avenue, Sun Lakes, AZ 85248",25500,33.2152398,-111.8417436
+https://locations.tacobell.com/az/tucson/1054-e-tucson-marketplace-blvd.html,az,tucson,1054-e-tucson-marketplace-blvd,037292,"1054 E Tucson Marketplace Blvd, Tucson, AZ 85713",85713,32.1867234,-110.9558901
+https://locations.tacobell.com/az/phoenix/3445-w-van-buren-st.html,az,phoenix,3445-w-van-buren-st,037178,"3445 W Van Buren St, Phoenix, AZ 85009",85009,33.4510468,-112.1340769
+https://locations.tacobell.com/az/phoenix/3300-w-camelback-rd.html,az,phoenix,3300-w-camelback-rd,035295,"3300 W Camelback Rd Bldg 11, Phoenix, AZ 85017",85017,33.5131895,-112.1298877
+https://locations.tacobell.com/az/gilbert/4133-e--williams-field-road.html,az,gilbert,4133-e--williams-field-road,037648,"4133 E. Williams Field Road, Gilbert, AZ 85295",85295,33.3066435,-111.7010549
+https://locations.tacobell.com/az/mesa/1125-s-signal-butte-rd.html,az,mesa,1125-s-signal-butte-rd,041631,"1125 S Signal Butte Rd, Mesa, AZ 85208",85208,33.3946968,-111.5979352
+https://locations.tacobell.com/az/vail/13440-e-mary-ann-cleveland-way.html,az,vail,13440-e-mary-ann-cleveland-way,037719,"13440 E Mary Ann Cleveland Way, Vail, AZ 85641",13440,32.050926,-110.7069826
+https://locations.tacobell.com/az/marana/13924-n-sandario-rd.html,az,marana,13924-n-sandario-rd,036501,"13924 N Sandario Rd, Marana, AZ 85653",13924,32.4592998,-111.2168944
+https://locations.tacobell.com/az/litchfield-park/4955-n--dysart-road.html,az,litchfield-park,4955-n--dysart-road,037710,"4955 N. Dysart Road, Litchfield Park, AZ 85340",85340,33.5076542,-112.340785
+https://locations.tacobell.com/az/phoenix/1640-s--7th-street.html,az,phoenix,1640-s--7th-street,037813,"1640 S. 7th Street, Phoenix, AZ 85003",85003,33.4321217,-112.0652272
+https://locations.tacobell.com/az/tempe/9960-south-rural-road.html,az,tempe,9960-south-rural-road,037549,"9960 South Rural Road, Tempe, AZ 85284",85284,33.3227971,-111.9283025
+https://locations.tacobell.com/az/avondale/9940-w-mcdowell-rd-.html,az,avondale,9940-w-mcdowell-rd-,027369,"9940 W McDowell Rd., Avondale, AZ 85392",85392,33.4648065,-112.2737957
+https://locations.tacobell.com/az/tolleson/9850-w--lower-buckeye-rd-.html,az,tolleson,9850-w--lower-buckeye-rd-,032739,"9850 W. Lower Buckeye Rd., Tolleson, AZ 85353",85353,33.4216078,-112.2710365
+https://locations.tacobell.com/az/peoria/9831-w--happy-valley-rd-.html,az,peoria,9831-w--happy-valley-rd-,029518,"9831 W. Happy Valley Rd., Peoria, AZ 85383",85383,33.7101858,-112.2698856
+https://locations.tacobell.com/az/apache-junction/97-west-apache-trail.html,az,apache-junction,97-west-apache-trail,041624,"97 West Apache Trail, Apache Junction, AZ 85120",85120,33.4148059,-111.5522748
+https://locations.tacobell.com/az/glendale/9380-w--northern-avenue.html,az,glendale,9380-w--northern-avenue,029517,"9380 W. Northern Avenue, Glendale, AZ 85305",85305,33.5526367,-112.2094689
+https://locations.tacobell.com/az/mesa/9315-e-baseline-road.html,az,mesa,9315-e-baseline-road,041625,"9315 E Baseline Road, Mesa, AZ 85209",85209,33.3787078,-111.6338752
+https://locations.tacobell.com/az/peoria/9251-w-union-hills-dr.html,az,peoria,9251-w-union-hills-dr,042227,"9251 W Union Hills Dr, Peoria, AZ 85382",85382,33.6521755,-112.2572943
+https://locations.tacobell.com/az/mesa/917-n--dobson-rd-.html,az,mesa,917-n--dobson-rd-,029494,"917 N. Dobson Rd., Mesa, AZ 85201",85201,33.433252,-111.870142
+https://locations.tacobell.com/az/tempe/912-e-apache-blvd.html,az,tempe,912-e-apache-blvd,021245,"912 E Apache Blvd, Tempe, AZ 85281",85281,33.4165326,-111.9397217
+https://locations.tacobell.com/az/scottsdale/9059-e-indian-bend-rd.html,az,scottsdale,9059-e-indian-bend-rd,037542,"9059 E Indian Bend Rd, Scottsdale, AZ 85250",85250,33.5375704,-111.8850378
+https://locations.tacobell.com/az/phoenix/9019-n-19th-ave-.html,az,phoenix,9019-n-19th-ave-,000067,"9019 N 19th Ave., Phoenix, AZ 85021",85021,33.5686334,-112.0991691
+https://locations.tacobell.com/az/gilbert/885-west-warner-road.html,az,gilbert,885-west-warner-road,037555,"885 West Warner Road, Gilbert, AZ 85233",85233,33.3348243,-111.8091683
+https://locations.tacobell.com/az/phoenix/8645-n--7th-st-.html,az,phoenix,8645-n--7th-st-,022456,"8645 N. 7th St., Phoenix, AZ 85020",85020,33.5639389,-112.0648616
+https://locations.tacobell.com/az/tucson/8578-east-broadway-blvd.html,az,tucson,8578-east-broadway-blvd,031726,"8578 East Broadway Blvd, Tucson, AZ 85710",85710,32.2204081,-110.8092618
+https://locations.tacobell.com/az/prescott/847-miller-valley-road.html,az,prescott,847-miller-valley-road,019980,"847 Miller Valley Road, Prescott, AZ 86301",86301,34.5567963,-112.4817182
+https://locations.tacobell.com/az/peoria/8301-w-peoria-ave.html,az,peoria,8301-w-peoria-ave,029513,"8301 W Peoria Ave, Peoria, AZ 85345",85345,33.5818582,-112.236671
+https://locations.tacobell.com/az/tucson/8084-north-cortaro-road.html,az,tucson,8084-north-cortaro-road,030945,"8084 North Cortaro Road, Tucson, AZ 85743",85743,32.3535727,-111.094209
+https://locations.tacobell.com/az/williams/800-n--grand-canyon-boulevard.html,az,williams,800-n--grand-canyon-boulevard,E003025,"800 N. Grand Canyon Boulevard, Williams, AZ 86046",86046,35.2684601,-112.1907853
+https://locations.tacobell.com/az/green-valley/80-w-duval-mine-rd.html,az,green-valley,80-w-duval-mine-rd,023201,"80 W Duval Mine Rd, Green Valley, AZ 85614",85614,31.9057963,-110.9883235
+https://locations.tacobell.com/az/tucson/7915-n-oracle-rd.html,az,tucson,7915-n-oracle-rd,031717,"7915 N Oracle Rd, Tucson, AZ 85704",85704,32.3503809,-110.9757934
+https://locations.tacobell.com/az/prescott-valley/7820-e-state-route-69.html,az,prescott-valley,7820-e-state-route-69,003915,"7820 E State Route 69, Prescott Valley, AZ 86314",86314,34.5862618,-112.3289936
+https://locations.tacobell.com/az/glendale/7795-north-59th-ave-.html,az,glendale,7795-north-59th-ave-,022346,"7795 North 59th Ave., Glendale, AZ 85301",85301,33.5502247,-112.1860712
+https://locations.tacobell.com/az/glendale/7714-west-bell-road.html,az,glendale,7714-west-bell-road,029515,"7714 West Bell Road, Glendale, AZ 85308",85308,33.6387127,-112.2259813
+https://locations.tacobell.com/az/peoria/7541-w-thunderbird-road.html,az,peoria,7541-w-thunderbird-road,038973,"7541 W Thunderbird Road, Peoria, AZ 85381",85381,33.6097,-112.2212606
+https://locations.tacobell.com/az/yuma/750-e--32nd-st-.html,az,yuma,750-e--32nd-st-,026030,"750 E. 32nd St., Yuma, AZ 85365",85365,32.6698423,-114.6128883
+https://locations.tacobell.com/az/phoenix/7449-w-indian-school-rd.html,az,phoenix,7449-w-indian-school-rd,032735,"7449 W Indian School Rd, Phoenix, AZ 85033",85033,33.4943098,-112.2198859
+https://locations.tacobell.com/az/phoenix/7440-s-7th-st.html,az,phoenix,7440-s-7th-st,032731,"7440 S 7th St, Phoenix, AZ 85042",85042,33.3781628,-112.0649392
+https://locations.tacobell.com/az/sahuarita/735-w--sahuarita-road.html,az,sahuarita,735-w--sahuarita-road,031558,"735 W. Sahuarita Road, Sahuarita, AZ 85629",85629,31.9574185,-110.9812557
+https://locations.tacobell.com/az/phoenix/725-w--southern-avenue.html,az,phoenix,725-w--southern-avenue,023233,"725 W. Southern Avenue, Phoenix, AZ 85041",85041,33.3917822,-112.0828261
+https://locations.tacobell.com/az/laveen/7233-s--51st-avenue.html,az,laveen,7233-s--51st-avenue,032738,"7233 S. 51st Avenue, Laveen, AZ 85339",85339,33.3794867,-112.1675826
+https://locations.tacobell.com/az/taylor/716-n--main-street.html,az,taylor,716-n--main-street,015703,"716 N. Main Street, Taylor, AZ 85939",85939,34.4620857,-110.0911734
+https://locations.tacobell.com/az/scottsdale/7153-e-thomas-rd.html,az,scottsdale,7153-e-thomas-rd,037535,"7153 E Thomas Rd, Scottsdale, AZ 85251",85251,33.4800813,-111.927256
+https://locations.tacobell.com/az/tucson/7140-n--thornydale-rd-.html,az,tucson,7140-n--thornydale-rd-,031718,"7140 N. Thornydale Rd., Tucson, AZ 85741",85741,32.3364396,-111.0464509
+https://locations.tacobell.com/az/glendale/6901-north-litchfield-road.html,az,glendale,6901-north-litchfield-road,017444,"6901 North Litchfield Road, Glendale, AZ 85307",85307,33.5361589,-112.3577882
+https://locations.tacobell.com/az/peoria/6745-w-peoria-ave.html,az,peoria,6745-w-peoria-ave,029512,"6745 W Peoria Ave, Peoria, AZ 85345",85345,33.581598,-112.2040369
+https://locations.tacobell.com/az/mesa/6742-e-main-st.html,az,mesa,6742-e-main-st,030844,"6742 E Main St, Mesa, AZ 85205",85205,33.4161885,-111.6857461
+https://locations.tacobell.com/az/glendale/6708-w--deer-valley-road.html,az,glendale,6708-w--deer-valley-road,040476,"6708 W. Deer Valley Road, Glendale, AZ 85310",85310,33.6823245,-112.203624
+https://locations.tacobell.com/az/glendale/6645-w--happy-valley-rd-.html,az,glendale,6645-w--happy-valley-rd-,029516,"6645 W. Happy Valley Rd., Glendale, AZ 85310",85310,33.7111264,-112.2025997
+https://locations.tacobell.com/az/tucson/6616-e-grant-rd.html,az,tucson,6616-e-grant-rd,031730,"6616 E Grant Rd, Tucson, AZ 85715",85715,32.2486841,-110.8510218
+https://locations.tacobell.com/az/glendale/6606-west-camelback.html,az,glendale,6606-west-camelback,037531,"6606 West Camelback, Glendale, AZ 85301",85301,33.5098304,-112.2013526
+https://locations.tacobell.com/az/mesa/6111-e-southern-ave.html,az,mesa,6111-e-southern-ave,032727,"6111 E Southern Ave, Mesa, AZ 85206",85206,33.3934627,-111.6994902
+https://locations.tacobell.com/az/bullhead-city/600-highway-95.html,az,bullhead-city,600-highway-95,022919,"600 Highway 95 Suite 500, Bullhead City, AZ 86430",86430,35.1672361,-114.565808
+https://locations.tacobell.com/az/phoenix/5825-s-35th-ave.html,az,phoenix,5825-s-35th-ave,024291,"5825 S 35th Ave, Phoenix, AZ 85041",85041,33.3932947,-112.1331364
+https://locations.tacobell.com/az/glendale/5705-w-bell-rd.html,az,glendale,5705-w-bell-rd,029514,"5705 W Bell Rd, Glendale, AZ 85308",85308,33.6384054,-112.182507
+https://locations.tacobell.com/az/florence/558-n-pinal-parkway.html,az,florence,558-n-pinal-parkway,041632,"558 N Pinal Parkway, Florence, AZ 85132",85132,33.0373069,-111.3791738
+https://locations.tacobell.com/az/wickenburg/528-e-wickenburg-way.html,az,wickenburg,528-e-wickenburg-way,004365,"528 E Wickenburg Way, Wickenburg, AZ 85358",85358,33.9693915,-112.7205938
+https://locations.tacobell.com/az/fort-mohave/4978-s-highway-95.html,az,fort-mohave,4978-s-highway-95,023965,"4978 S Highway 95, Fort Mohave, AZ 86426",86426,35.0118921,-114.5977113
+https://locations.tacobell.com/az/tucson/4951-s-campbell-ave.html,az,tucson,4951-s-campbell-ave,031719,"4951 S Campbell Ave, Tucson, AZ 85706",85706,32.1622687,-110.9427454
+https://locations.tacobell.com/az/glendale/4950-w--thunderbird-rd.html,az,glendale,4950-w--thunderbird-rd,022632,"4950 W. Thunderbird Rd, Glendale, AZ 85306",85306,33.6107223,-112.1687317
+https://locations.tacobell.com/az/tucson/495-e--wetmore-rd-.html,az,tucson,495-e--wetmore-rd-,031722,"495 E. Wetmore Rd., Tucson, AZ 85705",85705,32.2869906,-110.9643689
+https://locations.tacobell.com/az/scottsdale/4854-east-bell-road.html,az,scottsdale,4854-east-bell-road,037567,"4854 East Bell Road, Scottsdale, AZ 85254",85254,33.6383952,-111.9262577
+https://locations.tacobell.com/az/phoenix/4850-n--99th-ave.html,az,phoenix,4850-n--99th-ave,032734,"4850 N. 99th Ave, Phoenix, AZ 85037",85037,33.5063253,-112.2731831
+https://locations.tacobell.com/az/phoenix/4815-east-warner.html,az,phoenix,4815-east-warner,037541,"4815 East Warner, Phoenix, AZ 85044",85044,33.329381,-111.9799836
+https://locations.tacobell.com/az/phoenix/4751-e-shea-blvd.html,az,phoenix,4751-e-shea-blvd,037543,"4751 E Shea Blvd, Phoenix, AZ 85028",85028,33.5827994,-111.9906575
+https://locations.tacobell.com/az/claypool/4529-west-highway-60.html,az,claypool,4529-west-highway-60,018940,"4529 West Highway 60, Claypool, AZ 85532",85532,33.4130981,-110.8379811
+https://locations.tacobell.com/az/mesa/4444-east-main-street.html,az,mesa,4444-east-main-street,018127,"4444 East Main Street, Mesa, AZ 85205",85205,33.4159664,-111.73447
+https://locations.tacobell.com/az/phoenix/4430-south-48th-street.html,az,phoenix,4430-south-48th-street,020548,"4430 South 48th Street, Phoenix, AZ 85040",85040,33.4062061,-111.978804
+https://locations.tacobell.com/az/show-low/4425-s-white-mountain-road.html,az,show-low,4425-s-white-mountain-road,004033,"4425 S White Mountain Road, Show Low, AZ 85901",85901,34.2103382,-110.0243054
+https://locations.tacobell.com/az/lake-havasu-city/44-n-lake-havasu-ave.html,az,lake-havasu-city,44-n-lake-havasu-ave,002798,"44 N Lake Havasu Ave, Lake Havasu City, AZ 86403",86403,34.5060901,-114.3480226
+https://locations.tacobell.com/az/glendale/4351-w--olive.html,az,glendale,4351-w--olive,022003,"4351 W. Olive, Glendale, AZ 85302",85302,33.5674294,-112.1528889
+https://locations.tacobell.com/az/phoenix/4304-w-indian-school-rd.html,az,phoenix,4304-w-indian-school-rd,032728,"4304 W Indian School Rd, Phoenix, AZ 85031",85031,33.4959739,-112.1522726
+https://locations.tacobell.com/az/phoenix/4209-w-bell-rd.html,az,phoenix,4209-w-bell-rd,029511,"4209 W Bell Rd, Phoenix, AZ 85053",85053,33.6390535,-112.1498965
+https://locations.tacobell.com/az/phoenix/419-west-bell-road.html,az,phoenix,419-west-bell-road,037532,"419 West Bell Road, Phoenix, AZ 85023",85023,33.6396302,-112.0803413
+https://locations.tacobell.com/az/chandler/4080-s-gilbert-rd-.html,az,chandler,4080-s-gilbert-rd-,037573,"4080 S Gilbert Rd., Chandler, AZ 85249",85249,33.2469203,-111.7900135
+https://locations.tacobell.com/az/phoenix/4035-n-7th-ave.html,az,phoenix,4035-n-7th-ave,037565,"4035 N 7th Ave, Phoenix, AZ 85013",85013,33.4941099,-112.0830912
+https://locations.tacobell.com/az/tucson/3930-east-22nd-street.html,az,tucson,3930-east-22nd-street,031727,"3930 East 22nd Street, Tucson, AZ 85711",85711,32.2066319,-110.9084937
+https://locations.tacobell.com/az/sierra-vista/3920-east-fry-blvd.html,az,sierra-vista,3920-east-fry-blvd,031725,"3920 East Fry Blvd, Sierra Vista, AZ 85635",85635,31.5545456,-110.2581983
+https://locations.tacobell.com/az/anthem/3659-w--anthem-way.html,az,anthem,3659-w--anthem-way,037561,"3659 W. Anthem Way, Anthem, AZ 85086",85086,33.8660928,-112.138135
+https://locations.tacobell.com/az/glendale/3626-w--pinnacle-peak-rd-.html,az,glendale,3626-w--pinnacle-peak-rd-,040643,"3626 W. Pinnacle Peak Rd., Glendale, AZ 85310",85310,33.6988081,-112.1404265
+https://locations.tacobell.com/az/gilbert/3601-east-baseline-road.html,az,gilbert,3601-east-baseline-road,037546,"3601 East Baseline Road, Gilbert, AZ 85234",85234,33.3784323,-111.7534435
+https://locations.tacobell.com/az/mesa/352-e-brown-rd.html,az,mesa,352-e-brown-rd,003482,"352 E Brown Rd, Mesa, AZ 85201",85201,33.4356338,-111.8233161
+https://locations.tacobell.com/az/phoenix/3517-w-glendale-ave.html,az,phoenix,3517-w-glendale-ave,000141,"3517 W Glendale Ave, Phoenix, AZ 85051",85051,33.5381977,-112.1350924
+https://locations.tacobell.com/az/phoenix/3507-w--peoria-ave-.html,az,phoenix,3507-w--peoria-ave-,037569,"3507 W. Peoria Ave., Phoenix, AZ 85029",85029,33.5816744,-112.1358993
+https://locations.tacobell.com/az/phoenix/34906-n-valley-parkway.html,az,phoenix,34906-n-valley-parkway,037562,"34906 N Valley Parkway, Phoenix, AZ 85086",34906,33.8010583,-112.130369
+https://locations.tacobell.com/az/flagstaff/3460-e-route-66.html,az,flagstaff,3460-e-route-66,037537,"3460 E Route 66, Flagstaff, AZ 86004",86004,35.2143938,-111.5987234
+https://locations.tacobell.com/az/tucson/3455-e-grant-rd.html,az,tucson,3455-e-grant-rd,031728,"3455 E Grant Rd, Tucson, AZ 85716",85716,32.2509317,-110.9188668
+https://locations.tacobell.com/az/kingman/3350-e-andy-devine.html,az,kingman,3350-e-andy-devine,002083,"3350 E Andy Devine, Kingman, AZ 86401",86401,35.2214326,-114.0057025
+https://locations.tacobell.com/az/kingman/3220-stockton-hill-rd.html,az,kingman,3220-stockton-hill-rd,015902,"3220 Stockton Hill Rd, Kingman, AZ 86409",86409,35.2196224,-114.0354189
+https://locations.tacobell.com/az/prescott/3188-willow-creek-road.html,az,prescott,3188-willow-creek-road,024246,"3188 Willow Creek Road, Prescott, AZ 86305",86305,34.6018698,-112.4574581
+https://locations.tacobell.com/az/gilbert/3104-e--chandler-heights-road.html,az,gilbert,3104-e--chandler-heights-road,037564,"3104 E. Chandler Heights Road, Gilbert, AZ 85298",85298,33.2343225,-111.7225388
+https://locations.tacobell.com/az/phoenix/3101-e-thomas-rd.html,az,phoenix,3101-e-thomas-rd,000080,"3101 E Thomas Rd, Phoenix, AZ 85016",85016,33.480138,-112.0147937
+https://locations.tacobell.com/az/mesa/310-w-main-street.html,az,mesa,310-w-main-street,022951,"310 W Main Street, Mesa, AZ 85201",85201,33.4154303,-111.83959
+https://locations.tacobell.com/az/phoenix/301-east-mcdowell-road.html,az,phoenix,301-east-mcdowell-road,032737,"301 East McDowell Road, Phoenix, AZ 85004",85004,33.4654766,-112.0688958
+https://locations.tacobell.com/az/cave-creek/29844-n-cave-creek-rd.html,az,cave-creek,29844-n-cave-creek-rd,021142,"29844 N Cave Creek Rd, Cave Creek, AZ 85331",29844,33.793101,-111.9675809
+https://locations.tacobell.com/az/chandler/2930-south-alma-school-road.html,az,chandler,2930-south-alma-school-road,037559,"2930 South Alma School Road, Chandler, AZ 85248",85248,33.2629266,-111.859577
+https://locations.tacobell.com/az/gilbert/2881-s--market-st-.html,az,gilbert,2881-s--market-st-,037560,"2881 S. Market St., Gilbert, AZ 85296",85296,33.297855,-111.7463975
+https://locations.tacobell.com/az/casa-grande/2814-n--pinal-ave-.html,az,casa-grande,2814-n--pinal-ave-,037571,"2814 N. Pinal Ave., Casa Grande, AZ 85122",85122,32.939013,-111.7553598
+https://locations.tacobell.com/az/mesa/2760-south-alma-school.html,az,mesa,2760-south-alma-school,001891,"2760 South Alma School, Mesa, AZ 85210",85210,33.3645518,-111.8605744
+https://locations.tacobell.com/az/mesa/2663-e-broadway-rd-.html,az,mesa,2663-e-broadway-rd-,041627,"2663 E Broadway Rd., Mesa, AZ 85204",85204,33.4077097,-111.7731805
+https://locations.tacobell.com/az/phoenix/2660-w--thunderbird.html,az,phoenix,2660-w--thunderbird,037534,"2660 W. Thunderbird, Phoenix, AZ 85023",85023,33.6094205,-112.092195
+https://locations.tacobell.com/az/phoenix/2601-north-44th-street.html,az,phoenix,2601-north-44th-street,032730,"2601 North 44th Street, Phoenix, AZ 85008",85008,33.476833,-111.9864606
+https://locations.tacobell.com/az/goodyear/251-north-litchfield-road.html,az,goodyear,251-north-litchfield-road,002043,"251 North Litchfield Road, Goodyear, AZ 85338",85338,33.4373724,-112.3584154
+https://locations.tacobell.com/az/phoenix/2465-e-baseline-rd.html,az,phoenix,2465-e-baseline-rd,032733,"2465 E Baseline Rd, Phoenix, AZ 85042",85042,33.37722,-112.0283564
+https://locations.tacobell.com/az/phoenix/2450-e-indian-school-rd.html,az,phoenix,2450-e-indian-school-rd,037530,"2450 E Indian School Rd, Phoenix, AZ 85016",85016,33.4952427,-112.0285907
+https://locations.tacobell.com/az/phoenix/2430-e--beardsley-rd-.html,az,phoenix,2430-e--beardsley-rd-,023057,"2430 E. Beardsley Rd., Phoenix, AZ 85050",85050,33.6699605,-112.0291645
+https://locations.tacobell.com/az/yuma/2353-south-ave--b.html,az,yuma,2353-south-ave--b,026086,"2353 South Ave. B, Yuma, AZ 85364",85364,32.6849944,-114.6498282
+https://locations.tacobell.com/az/thatcher/2267-w-highway-70.html,az,thatcher,2267-w-highway-70,003922,"2267 W Highway 70, Thatcher, AZ 85552",85552,32.8391598,-109.7376725
+https://locations.tacobell.com/az/mesa/2160-baseline-rd.html,az,mesa,2160-baseline-rd,037539,"2160 Baseline Rd, Mesa, AZ 85204",85204,33.3793247,-111.7856005
+https://locations.tacobell.com/az/tucson/2150-w--river-rd-.html,az,tucson,2150-w--river-rd-,031729,"2150 W. River Rd., Tucson, AZ 85741",85741,32.3062885,-111.0128884
+https://locations.tacobell.com/az/cottonwood/2140-e-state-route-89-a.html,az,cottonwood,2140-e-state-route-89-a,041622,"2140 E State Route 89-A, Cottonwood, AZ 86326",86326,34.7218377,-112.0019833
+https://locations.tacobell.com/az/queen-creek/21222-e-rittenhouse-rd.html,az,queen-creek,21222-e-rittenhouse-rd,041628,"21222 E Rittenhouse Rd, Queen Creek, AZ 85142",21222,33.2470284,-111.6253857
+https://locations.tacobell.com/az/maricopa/20980-n-john-wayne-pkwy.html,az,maricopa,20980-n-john-wayne-pkwy,037558,"20980 N John Wayne Pkwy, Maricopa, AZ 85139",20980,33.0703393,-112.0459898
+https://locations.tacobell.com/az/chandler/2030-north-alma-school-rd.html,az,chandler,2030-north-alma-school-rd,037538,"2030 North Alma School Rd, Chandler, AZ 85224",85224,33.3354557,-111.8599511
+https://locations.tacobell.com/az/mesa/2028-north-power-road.html,az,mesa,2028-north-power-road,041626,"2028 North Power Road, Mesa, AZ 85215",85215,33.4573503,-111.6839625
+https://locations.tacobell.com/az/phoenix/1909-west-deer-valley-rd.html,az,phoenix,1909-west-deer-valley-rd,037548,"1909 West Deer Valley Rd, Phoenix, AZ 85027",85027,33.6833815,-112.1002895
+https://locations.tacobell.com/az/phoenix/1860-n-75th-ave.html,az,phoenix,1860-n-75th-ave,032736,"1860 N 75th Ave, Phoenix, AZ 85035",85035,33.469177,-112.2211963
+https://locations.tacobell.com/az/queen-creek/18510-e-rittenhouse-rd.html,az,queen-creek,18510-e-rittenhouse-rd,037563,"18510 E Rittenhouse Rd, Queen Creek, AZ 85142",18510,33.2835494,-111.6841973
+https://locations.tacobell.com/az/tucson/1818-e--speedway-blvd-.html,az,tucson,1818-e--speedway-blvd-,031724,"1818 E. Speedway Blvd., Tucson, AZ 85719",85719,32.2355961,-110.9446194
+https://locations.tacobell.com/az/tempe/1801-east-guadalupe.html,az,tempe,1801-east-guadalupe,022633,"1801 East Guadalupe, Tempe, AZ 85283",85283,33.3633329,-111.910709
+https://locations.tacobell.com/az/flagstaff/1801-e-butler-ave.html,az,flagstaff,1801-e-butler-ave,037544,"1801 E Butler Ave, Flagstaff, AZ 86001",86001,35.1911139,-111.6303194
+https://locations.tacobell.com/az/goodyear/17676-w-elliot-rd-.html,az,goodyear,17676-w-elliot-rd-,032740,"17676 W Elliot Rd., Goodyear, AZ 85338",17676,33.3565025,-112.4296519
+https://locations.tacobell.com/az/phoenix/1747-w-bethany-home-rd.html,az,phoenix,1747-w-bethany-home-rd,037568,"1747 W Bethany Home Rd, Phoenix, AZ 85015",85015,33.5237041,-112.0967261
+https://locations.tacobell.com/az/goodyear/1740-n--pebble-creek-pa.html,az,goodyear,1740-n--pebble-creek-pa,024781,"1740 N. Pebble Creek PA, Goodyear, AZ 85395",85395,33.46621,-112.3930025
+https://locations.tacobell.com/az/casa-grande/1729-e-florence-blvd.html,az,casa-grande,1729-e-florence-blvd,037553,"1729 E Florence Blvd, Casa Grande, AZ 85122",85122,32.8792064,-111.7127777
+https://locations.tacobell.com/az/tucson/1720-w--speedway-blvd.html,az,tucson,1720-w--speedway-blvd,031731,"1720 W. Speedway Blvd, Tucson, AZ 85745",85745,32.2360698,-111.0030277
+https://locations.tacobell.com/az/san-tan-valley/1711-w-hunt-highway.html,az,san-tan-valley,1711-w-hunt-highway,041629,"1711 W Hunt Highway, San Tan Valley, AZ 85143",85143,33.1778778,-111.583209
+https://locations.tacobell.com/az/globe/1700-e-ash-st.html,az,globe,1700-e-ash-st,003630,"1700 E Ash St, Globe, AZ 85501",85501,33.39205,-110.765483
+https://locations.tacobell.com/az/goodyear/16950-yuma-road.html,az,goodyear,16950-yuma-road,030301,"16950 Yuma Road, Goodyear, AZ 85338",16950,33.4360204,-112.4236686
+https://locations.tacobell.com/az/yuma/1676-4th-avenue.html,az,yuma,1676-4th-avenue,026029,"1676 4th Avenue, Yuma, AZ 85364",85364,32.6972867,-114.6249519
+https://locations.tacobell.com/az/tempe/1674-e--southern-ave-.html,az,tempe,1674-e--southern-ave-,037570,"1674 E. Southern Ave., Tempe, AZ 85282",85282,33.3929148,-111.9119652
+https://locations.tacobell.com/az/surprise/16655-w--bell-road.html,az,surprise,16655-w--bell-road,028435,"16655 W. Bell Road, Surprise, AZ 85374",16655,33.6382239,-112.416644
+https://locations.tacobell.com/az/tucson/1620-w-valencia-rd.html,az,tucson,1620-w-valencia-rd,031723,"1620 W Valencia Rd, Tucson, AZ 85746",85746,32.1338886,-110.9994688
+https://locations.tacobell.com/az/holbrook/1606-navajo-blvd.html,az,holbrook,1606-navajo-blvd,004805,"1606 Navajo Blvd, Holbrook, AZ 86025",86025,34.9184715,-110.1503395
+https://locations.tacobell.com/az/winslow/1605-no-park-drive.html,az,winslow,1605-no-park-drive,002091,"1605 No Park Drive, Winslow, AZ 86047",86047,35.0370217,-110.6984381
+https://locations.tacobell.com/az/scottsdale/15776-n-frank-lloyd-wright-blvd.html,az,scottsdale,15776-n-frank-lloyd-wright-blvd,037551,"15776 N Frank Lloyd Wright Blvd, Scottsdale, AZ 85260",15776,33.6279418,-111.8810253
+https://locations.tacobell.com/az/bullhead-city/1562-marina-blvd.html,az,bullhead-city,1562-marina-blvd,015277,"1562 Marina Blvd, Bullhead City, AZ 86442",86442,35.1004118,-114.5976204
+https://locations.tacobell.com/az/phoenix/15604-s-40th-st.html,az,phoenix,15604-s-40th-st,037547,"15604 S 40th St, Phoenix, AZ 85048",15604,33.3050549,-111.9973604
+https://locations.tacobell.com/az/gilbert/1550-e-warner-rd-.html,az,gilbert,1550-e-warner-rd-,037556,"1550 E Warner Rd., Gilbert, AZ 85296",85296,33.3360164,-111.7571206
+https://locations.tacobell.com/az/avondale/1529-n-dysart-rd.html,az,avondale,1529-n-dysart-rd,021187,"1529 N Dysart Rd, Avondale, AZ 85323",85323,33.4532305,-112.3400632
+https://locations.tacobell.com/az/phoenix/15240-n--32nd-street.html,az,phoenix,15240-n--32nd-street,037566,"15240 N. 32nd Street, Phoenix, AZ 85032",15240,33.6258918,-112.0139422
+https://locations.tacobell.com/az/coolidge/1505-n--arizona-boulevard.html,az,coolidge,1505-n--arizona-boulevard,D212160,"1505 N. Arizona Boulevard, Coolidge, AZ 85128",85128,32.9923923,-111.5241011
+https://locations.tacobell.com/az/phoenix/1501-e-bethany-home-rd.html,az,phoenix,1501-e-bethany-home-rd,037554,"1501 E Bethany Home Rd, Phoenix, AZ 85014",85014,33.5234588,-112.0491963
+https://locations.tacobell.com/az/tempe/1415-west-elliot-road.html,az,tempe,1415-west-elliot-road,037545,"1415 West Elliot Road, Tempe, AZ 85284",85284,33.3486609,-111.9611254
+https://locations.tacobell.com/az/scottsdale/14002-n-scottsdale.html,az,scottsdale,14002-n-scottsdale,037540,"14002 N Scottsdale, Scottsdale, AZ 85254",14002,33.613883,-111.9774902
+https://locations.tacobell.com/az/surprise/13752-w--waddell-road.html,az,surprise,13752-w--waddell-road,023151,"13752 W. Waddell Road, Surprise, AZ 85379",13752,33.6096703,-112.3559471
+https://locations.tacobell.com/az/surprise/13726-w-bell-rd.html,az,surprise,13726-w-bell-rd,020900,"13726 W Bell Rd, Surprise, AZ 85374",13726,33.641101,-112.354119
+https://locations.tacobell.com/az/parker/129-west-riverside-drive.html,az,parker,129-west-riverside-drive,018414,"129 West Riverside Drive, Parker, AZ 85344",85344,34.1552023,-114.2768715
+https://locations.tacobell.com/az/lakeside/127-w-white-mountain-blvd.html,az,lakeside,127-w-white-mountain-blvd,009442,"127 W White Mountain Blvd, Lakeside, AZ 85929",85929,34.1427465,-109.9562892
+https://locations.tacobell.com/az/mesa/1256-south-country-club-dr.html,az,mesa,1256-south-country-club-dr,037552,"1256 South Country Club Dr, Mesa, AZ 85210",85210,33.3909698,-111.8407078
+https://locations.tacobell.com/az/flagstaff/1255-s-milton-rd.html,az,flagstaff,1255-s-milton-rd,037536,"1255 S Milton Rd, Flagstaff, AZ 86001",86001,35.1887824,-111.6616585
+https://locations.tacobell.com/az/phoenix/12223-n-cave-creek-rd.html,az,phoenix,12223-n-cave-creek-rd,002887,"12223 N Cave Creek Rd, Phoenix, AZ 85022",12223,33.5976306,-112.0370621
+https://locations.tacobell.com/az/phoenix/1220-north-51st-ave.html,az,phoenix,1220-north-51st-ave,017340,"1220 North 51st Ave, Phoenix, AZ 85043",85043,33.4611579,-112.1696764
+https://locations.tacobell.com/az/mesa/1215-e--mckellips-rd-.html,az,mesa,1215-e--mckellips-rd-,041630,"1215 E. McKellips Rd., Mesa, AZ 85203",85203,33.4511334,-111.8045036
+https://locations.tacobell.com/az/buckeye/1164-s-watson-rd.html,az,buckeye,1164-s-watson-rd,032732,"1164 S Watson Rd, Buckeye, AZ 85326",85326,33.4360526,-112.5582805
+https://locations.tacobell.com/az/mesa/1148-n-higley-rd.html,az,mesa,1148-n-higley-rd,041623,"1148 N Higley Rd, Mesa, AZ 85205",85205,33.4354701,-111.7195509
+https://locations.tacobell.com/az/chino-valley/1147-n-hwy-89.html,az,chino-valley,1147-n-hwy-89,E003026,"1147 N Hwy 89, Chino Valley, AZ 86323",86323,34.7395329,-112.4543297
+https://locations.tacobell.com/az/avondale/11325-w-buckeye-road.html,az,avondale,11325-w-buckeye-road,022882,"11325 W Buckeye Road, Avondale, AZ 85323",11325,33.4348792,-112.3032234
+https://locations.tacobell.com/az/mesa/1131-s--stapley-dr-.html,az,mesa,1131-s--stapley-dr-,037572,"1131 S. Stapley Dr., Mesa, AZ 85204",85204,33.3943723,-111.8047765
+https://locations.tacobell.com/az/mesa/1125-s-dobson-rd.html,az,mesa,1125-s-dobson-rd,029492,"1125 S Dobson Rd, Mesa, AZ 85202",85202,33.3942727,-111.8741526
+https://locations.tacobell.com/az/tucson/1111-s-wilmot-rd.html,az,tucson,1111-s-wilmot-rd,031716,"1111 S Wilmot Rd, Tucson, AZ 85711",85711,32.2075096,-110.8575674
+https://locations.tacobell.com/az/scottsdale/11072-no-frank-lloyd-wright.html,az,scottsdale,11072-no-frank-lloyd-wright,037557,"11072 No Frank Lloyd Wright, Scottsdale, AZ 85259",11072,33.5867182,-111.835663
+https://locations.tacobell.com/az/payson/110-highway-260.html,az,payson,110-highway-260,003541,"110 Highway 260, Payson, AZ 85541",85541,34.2491743,-111.3227871
+https://locations.tacobell.com/az/oro-valley/10815-n-oracle-rd.html,az,oro-valley,10815-n-oracle-rd,031732,"10815 N Oracle Rd, Oro Valley, AZ 85737",10815,32.401866,-110.9542437
+https://locations.tacobell.com/az/yuma/10754-s--commercial-centre-loop.html,az,yuma,10754-s--commercial-centre-loop,027950,"10754 S. Commercial Centre Loop, Yuma, AZ 85365",10754,32.6727909,-114.44289
+https://locations.tacobell.com/az/avondale/10711-w-indian-school-rd.html,az,avondale,10711-w-indian-school-rd,032729,"10711 W Indian School Rd, Avondale, AZ 85392",10711,33.4931119,-112.2914918
+https://locations.tacobell.com/az/sun-city/10661-grand-avenue.html,az,sun-city,10661-grand-avenue,040634,"10661 Grand Avenue, Sun City, AZ 85351",10661,33.6020873,-112.2895669
+https://locations.tacobell.com/az/tucson/10265-e--old-vail-road.html,az,tucson,10265-e--old-vail-road,032058,"10265 E. Old Vail Road, Tucson, AZ 85747",10265,32.0890249,-110.7735154
+https://locations.tacobell.com/az/tuba-city/1014-main-street.html,az,tuba-city,1014-main-street,041195,"1014 Main Street, Tuba City, AZ 86045",86045,36.1296767,-111.2393565
+https://locations.tacobell.com/az/scottsdale/10130-north-90th-street.html,az,scottsdale,10130-north-90th-street,037550,"10130 North 90th Street, Scottsdale, AZ 85258",10130,33.5782343,-111.8867065
+https://locations.tacobell.com/az/page/1010-haul-road.html,az,page,1010-haul-road,027462,"1010 Haul Road, Page, AZ 86040",86040,36.9058457,-111.4853528
+https://locations.tacobell.com/az/surprise/13660-n--prasada-pkwy.html,az,surprise,13660-n--prasada-pkwy,040341,"13660 N. Prasada Pkwy, Surprise, AZ 85388",13660,33.608498,-112.4144903
+https://locations.tacobell.com/az/phoenix/7520-w--lower-buckeye-rd.html,az,phoenix,7520-w--lower-buckeye-rd,040120,"7520 W. Lower Buckeye Rd, Phoenix, AZ 85043",85043,33.4230604,-112.2217033
+https://locations.tacobell.com/az/tucson/1210-w--irvington-rd.html,az,tucson,1210-w--irvington-rd,033351,"1210 W. Irvington Rd, Tucson, AZ 85714",85714,32.1638805,-110.9900866
+https://locations.tacobell.com/az/camp-verde/1602-w-highway-260.html,az,camp-verde,1602-w-highway-260,033924,"1602 W Highway 260, Camp Verde, AZ 86322",86322,34.5748325,-111.8814774
+https://locations.tacobell.com/az/kayenta/us-160.html,az,kayenta,us-160,041198,"US-160, Kayenta, AZ 86033",86033,36.7079733,-110.2458313

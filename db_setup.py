@@ -1,32 +1,31 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-db_setup.py
------------
-Creates/refreshes the macrobell SQLite database with a robust schema:
+db_setup.py (migration-aware, idempotent, upsert-only)
+------------------------------------------------------
+Creates/updates the macrobell SQLite database schema and upserts data from CSVs.
 
-Inputs (defaults assume files in the working dir):
-  --menu-catalog      menu_catalog.csv          # from code_mapper_all.py
-  --store-products    store_products.csv        # from code_mapper_all.py
-  --nutrition         nutrition_latest.csv      # from nutrition_scraper_latest.py
-  --master            products_master.csv       # from product_linker.py
-  --stores-csv        taco_bell_stores_or_with_coords.csv  # OPTIONAL: enriches 'stores' with address/coords
+Safe to re-run at any time; performs in-place migrations (ADD COLUMN) if older tables exist.
 
-Outputs:
-  SQLite DB with tables:
-    stores, products, nutrition_items, product_nutrition_map,
-    store_products, prices, prices_staging
+Inputs:
+  --db               macrobell.db
+  --menu-catalog     menu_catalog.csv
+  --store-products   store_products.csv
+  --nutrition        nutrition_latest.csv
+  --master           products_master.csv
+  --stores-csv       taco_bell_stores_or_with_coords.csv (optional)
 
-Safe to re-run: tables are created if missing and data is upserted/truncated.
+Tables:
+  stores, products, nutrition_items, product_nutrition_map,
+  store_products, prices, prices_staging
 """
 
 from __future__ import annotations
 import argparse
 import csv
-import os
 import sqlite3
 from pathlib import Path
-from typing import Dict, Iterable, List, Tuple
+from typing import Dict, Iterable, Tuple
 
 # -------------------------
 # CSV helpers
@@ -50,17 +49,24 @@ def connect(db_path: str) -> sqlite3.Connection:
     conn.execute("PRAGMA synchronous = NORMAL;")
     return conn
 
-def execmany(conn: sqlite3.Connection, sql: str, rows: Iterable[Tuple]):
+def execmany(conn: sqlite3.Connection, sql: str, rows):
     conn.executemany(sql, rows)
 
-def truncate(conn: sqlite3.Connection, table: str):
-    conn.execute(f"DELETE FROM {table};")
+def table_columns(conn: sqlite3.Connection, table: str) -> dict:
+    cols = {}
+    for cid, name, ctype, notnull, dflt, pk in conn.execute(f"PRAGMA table_info({table})"):
+        cols[name] = {"type": ctype, "notnull": notnull, "default": dflt, "pk": pk}
+    return cols
+
+def ensure_column(conn: sqlite3.Connection, table: str, col: str, decl: str):
+    cols = table_columns(conn, table)
+    if col not in cols:
+        conn.execute(f"ALTER TABLE {table} ADD COLUMN {col} {decl};")
 
 # -------------------------
-# Schema
+# Base schema (for brand-new DBs)
 # -------------------------
-SCHEMA_SQL = """
--- Canonical products (menu_catalog)
+CREATE_TABLES_SQL = """
 CREATE TABLE IF NOT EXISTS products (
   canonical_product_id TEXT PRIMARY KEY,
   product_code         TEXT NOT NULL UNIQUE,
@@ -73,7 +79,6 @@ CREATE TABLE IF NOT EXISTS products (
   us_active            INTEGER DEFAULT 1
 );
 
--- Nutrition catalog (nutrition_latest)
 CREATE TABLE IF NOT EXISTS nutrition_items (
   item_id              TEXT PRIMARY KEY,
   name                 TEXT NOT NULL,
@@ -93,7 +98,6 @@ CREATE TABLE IF NOT EXISTS nutrition_items (
   protein              REAL
 );
 
--- Deterministic mapping from canonical products -> nutrition items (products_master)
 CREATE TABLE IF NOT EXISTS product_nutrition_map (
   canonical_product_id TEXT PRIMARY KEY
     REFERENCES products(canonical_product_id) ON DELETE CASCADE,
@@ -103,19 +107,17 @@ CREATE TABLE IF NOT EXISTS product_nutrition_map (
   reviewed             INTEGER DEFAULT 0
 );
 
--- Stores directory
 CREATE TABLE IF NOT EXISTS stores (
-  store_id    TEXT PRIMARY KEY,
-  state       TEXT,
-  city        TEXT,
+  store_id     TEXT PRIMARY KEY,
+  state        TEXT,
+  city         TEXT,
   full_address TEXT,
-  zip_code    TEXT,
-  latitude    REAL,
-  longitude   REAL,
+  zip_code     TEXT,
+  latitude     REAL,
+  longitude    REAL,
   last_scraped_date TEXT
 );
 
--- Store availability for products (from code_mapper_all)
 CREATE TABLE IF NOT EXISTS store_products (
   store_id             TEXT,
   canonical_product_id TEXT,
@@ -126,18 +128,16 @@ CREATE TABLE IF NOT EXISTS store_products (
   FOREIGN KEY (canonical_product_id) REFERENCES products(canonical_product_id) ON DELETE CASCADE
 );
 
--- Prices fact (api_scraper_db writes here when mapped)
 CREATE TABLE IF NOT EXISTS prices (
   store_id             TEXT,
   canonical_product_id TEXT,
   price_cents          INTEGER,
   currency             TEXT DEFAULT 'USD',
   collected_at         TEXT,
-  PRIMARY KEY (store_id, canonical_product_id, collected_at),
-  FOREIGN KEY (store_id, canonical_product_id) REFERENCES store_products(store_id, canonical_product_id)
+  PRIMARY KEY (store_id, canonical_product_id, collected_at)
+  -- FK created after migration to avoid failures if parent not present yet
 );
 
--- Staging for prices with unknown mapping (keeps everything!)
 CREATE TABLE IF NOT EXISTS prices_staging (
   store_id     TEXT,
   product_code TEXT,
@@ -146,21 +146,77 @@ CREATE TABLE IF NOT EXISTS prices_staging (
   collected_at TEXT,
   PRIMARY KEY (store_id, product_code, collected_at)
 );
+"""
 
--- Helpful indexes
-CREATE INDEX IF NOT EXISTS idx_products_code ON products(product_code);
-CREATE INDEX IF NOT EXISTS idx_store_products_store ON store_products(store_id);
-CREATE INDEX IF NOT EXISTS idx_store_products_prod  ON store_products(canonical_product_id);
-CREATE INDEX IF NOT EXISTS idx_prices_store_time    ON prices(store_id, collected_at);
-CREATE INDEX IF NOT EXISTS idx_prices_prod_time     ON prices(canonical_product_id, collected_at);
-CREATE INDEX IF NOT EXISTS idx_staging_store_time   ON prices_staging(store_id, collected_at);
+CREATE_INDEXES_SQL = """
+CREATE INDEX IF NOT EXISTS idx_products_code         ON products(product_code);
+CREATE INDEX IF NOT EXISTS idx_store_products_store  ON store_products(store_id);
+CREATE INDEX IF NOT EXISTS idx_store_products_prod   ON store_products(canonical_product_id);
+CREATE INDEX IF NOT EXISTS idx_prices_store_time     ON prices(store_id, collected_at);
+CREATE INDEX IF NOT EXISTS idx_prices_prod_time      ON prices(canonical_product_id, collected_at);
+CREATE INDEX IF NOT EXISTS idx_staging_store_time    ON prices_staging(store_id, collected_at);
 """
 
 # -------------------------
-# Loaders
+# Migrations (adds missing columns/FKs non-destructively)
 # -------------------------
-def load_products(conn: sqlite3.Connection, menu_catalog_csv: str):
-    truncate(conn, "products")
+def migrate_schema(conn: sqlite3.Connection):
+    # Ensure base tables exist (for new DBs)
+    conn.executescript(CREATE_TABLES_SQL)
+
+    # === Prices table migrations ===
+    # Some older DBs had prices without collected_at/currency.
+    if "prices" in existing_tables(conn):
+        ensure_column(conn, "prices", "price_cents",  "INTEGER")
+        ensure_column(conn, "prices", "currency",     "TEXT")
+        ensure_column(conn, "prices", "collected_at", "TEXT")
+
+    # === Prices staging migrations ===
+    if "prices_staging" in existing_tables(conn):
+        ensure_column(conn, "prices_staging", "price_cents",  "INTEGER")
+        ensure_column(conn, "prices_staging", "currency",     "TEXT")
+        ensure_column(conn, "prices_staging", "collected_at", "TEXT")
+
+    # === Store_products migrations ===
+    if "store_products" in existing_tables(conn):
+        ensure_column(conn, "store_products", "active",        "INTEGER DEFAULT 1")
+        ensure_column(conn, "store_products", "discovered_at", "TEXT")
+
+    # === products mapping table migrations ===
+    if "product_nutrition_map" in existing_tables(conn):
+        ensure_column(conn, "product_nutrition_map", "match_confidence", "REAL")
+        ensure_column(conn, "product_nutrition_map", "match_method",     "TEXT")
+        ensure_column(conn, "product_nutrition_map", "reviewed",         "INTEGER DEFAULT 0")
+
+    # Add missing FKs that depend on columns existing
+    # (SQLite doesn't support ADD CONSTRAINT easily; we rely on app-layer integrity and indexes.)
+
+    # Finally, create indexes (now that referenced columns exist)
+    conn.executescript(CREATE_INDEXES_SQL)
+
+def existing_tables(conn: sqlite3.Connection) -> set:
+    rows = conn.execute("SELECT name FROM sqlite_master WHERE type='table'").fetchall()
+    return {r[0] for r in rows}
+
+# -------------------------
+# Utilities
+# -------------------------
+def _to_float(x: str | None):
+    if x is None: return None
+    s = str(x).strip()
+    if not s: return None
+    try:
+        return float(s)
+    except ValueError:
+        try:
+            return float(s.replace(",", ""))
+        except Exception:
+            return None
+
+# -------------------------
+# Loaders (upsert-only; safe to re-run)
+# -------------------------
+def upsert_products(conn: sqlite3.Connection, menu_catalog_csv: str):
     rows = []
     for r in read_csv_rows(menu_catalog_csv):
         rows.append((
@@ -179,19 +235,27 @@ def load_products(conn: sqlite3.Connection, menu_catalog_csv: str):
           canonical_product_id, product_code, base_name, size_variant,
           category, subcategory, is_breakfast, is_drink, us_active
         ) VALUES (?,?,?,?,?,?,?,?,?)
+        ON CONFLICT(canonical_product_id) DO UPDATE SET
+          product_code = excluded.product_code,
+          base_name    = excluded.base_name,
+          size_variant = excluded.size_variant,
+          category     = excluded.category,
+          subcategory  = excluded.subcategory,
+          is_breakfast = excluded.is_breakfast,
+          is_drink     = excluded.is_drink,
+          us_active    = excluded.us_active
     """, rows)
 
-def load_store_products(conn: sqlite3.Connection, store_products_csv: str):
-    # Ensure stores exist first (bare minimum)
+def upsert_stores_minimal(conn: sqlite3.Connection, store_products_csv: str):
     store_ids = set()
     for r in read_csv_rows(store_products_csv):
-        store_ids.add(r.get("store_id","").strip())
-    # Insert missing stores with minimal info if not present
+        sid = r.get("store_id","").strip()
+        if sid:
+            store_ids.add(sid)
     if store_ids:
-        rows = [(sid,) for sid in store_ids if sid]
-        execmany(conn, "INSERT OR IGNORE INTO stores (store_id) VALUES (?)", rows)
+        execmany(conn, "INSERT OR IGNORE INTO stores (store_id) VALUES (?)", [(sid,) for sid in store_ids])
 
-    truncate(conn, "store_products")
+def upsert_store_products(conn: sqlite3.Connection, store_products_csv: str):
     rows = []
     for r in read_csv_rows(store_products_csv):
         rows.append((
@@ -203,36 +267,36 @@ def load_store_products(conn: sqlite3.Connection, store_products_csv: str):
     execmany(conn, """
         INSERT INTO store_products (store_id, canonical_product_id, active, discovered_at)
         VALUES (?,?,?,?)
+        ON CONFLICT(store_id, canonical_product_id) DO UPDATE SET
+          active        = excluded.active,
+          discovered_at = COALESCE(excluded.discovered_at, store_products.discovered_at)
     """, rows)
 
-def load_stores_details(conn: sqlite3.Connection, stores_csv: str):
-    # Upsert store metadata (won’t remove existing stores)
+def upsert_stores_details(conn: sqlite3.Connection, stores_csv: str):
     rows = []
     for r in read_csv_rows(stores_csv):
-        # Expect at least these columns if present
         rows.append((
             r.get("store_id",""),
             r.get("state",""),
             r.get("city",""),
             r.get("full_address","") or r.get("address",""),
             r.get("zip_code","") or r.get("zipcode",""),
-            float(r.get("latitude") or 0) if (r.get("latitude") or "").strip() != "" else None,
-            float(r.get("longitude") or 0) if (r.get("longitude") or "").strip() != "" else None,
+            _to_float(r.get("latitude")),
+            _to_float(r.get("longitude")),
         ))
     execmany(conn, """
         INSERT INTO stores (store_id, state, city, full_address, zip_code, latitude, longitude)
         VALUES (?,?,?,?,?,?,?)
         ON CONFLICT(store_id) DO UPDATE SET
-          state=excluded.state,
-          city=excluded.city,
-          full_address=excluded.full_address,
-          zip_code=excluded.zip_code,
-          latitude=COALESCE(excluded.latitude, stores.latitude),
-          longitude=COALESCE(excluded.longitude, stores.longitude)
+          state        = COALESCE(excluded.state, stores.state),
+          city         = COALESCE(excluded.city, stores.city),
+          full_address = COALESCE(excluded.full_address, stores.full_address),
+          zip_code     = COALESCE(excluded.zip_code, stores.zip_code),
+          latitude     = COALESCE(excluded.latitude, stores.latitude),
+          longitude    = COALESCE(excluded.longitude, stores.longitude)
     """, rows)
 
-def load_nutrition(conn: sqlite3.Connection, nutrition_csv: str):
-    truncate(conn, "nutrition_items")
+def upsert_nutrition(conn: sqlite3.Connection, nutrition_csv: str):
     rows = []
     for r in read_csv_rows(nutrition_csv):
         rows.append((
@@ -259,22 +323,34 @@ def load_nutrition(conn: sqlite3.Connection, nutrition_csv: str):
           serving_weight_grams, calories, total_fat, saturated_fat, trans_fat,
           cholesterol, sodium, total_carb, fibers, sugars, protein
         ) VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+        ON CONFLICT(item_id) DO UPDATE SET
+          name                 = excluded.name,
+          category_nutrition   = excluded.category_nutrition,
+          is_breakfast         = excluded.is_breakfast,
+          is_drink             = excluded.is_drink,
+          serving_weight_grams = excluded.serving_weight_grams,
+          calories             = excluded.calories,
+          total_fat            = excluded.total_fat,
+          saturated_fat        = excluded.saturated_fat,
+          trans_fat            = excluded.trans_fat,
+          cholesterol          = excluded.cholesterol,
+          sodium               = excluded.sodium,
+          total_carb           = excluded.total_carb,
+          fibers               = excluded.fibers,
+          sugars               = excluded.sugars,
+          protein              = excluded.protein
     """, rows)
 
-def load_master_map(conn: sqlite3.Connection, master_csv: str):
-    truncate(conn, "product_nutrition_map")
+def upsert_master_map(conn: sqlite3.Connection, master_csv: str):
     rows = []
+    cur = conn.cursor()
     for r in read_csv_rows(master_csv):
-        # Accept either schema from product_linker:
-        # - columns from menu_catalog plus: item_id, name_nutrition, match_confidence, match_method
-        cpid = r.get("canonical_product_id","") or r.get("canonical_product_id".lower(),"")
+        cpid = r.get("canonical_product_id","")
         item = r.get("item_id","")
         if not cpid:
-            # allow fallback via product_code -> products lookup
             code = r.get("product_code","")
             if code:
-                cur = conn.execute("SELECT canonical_product_id FROM products WHERE product_code=?", (code,))
-                hit = cur.fetchone()
+                hit = cur.execute("SELECT canonical_product_id FROM products WHERE product_code=?", (code,)).fetchone()
                 cpid = hit[0] if hit else ""
         rows.append((
             cpid, item,
@@ -286,22 +362,12 @@ def load_master_map(conn: sqlite3.Connection, master_csv: str):
         INSERT INTO product_nutrition_map (
           canonical_product_id, item_id, match_confidence, match_method, reviewed
         ) VALUES (?,?,?,?,?)
+        ON CONFLICT(canonical_product_id) DO UPDATE SET
+          item_id          = excluded.item_id,
+          match_confidence = excluded.match_confidence,
+          match_method     = excluded.match_method,
+          reviewed         = COALESCE(excluded.reviewed, product_nutrition_map.reviewed)
     """, rows)
-
-# -------------------------
-# Utilities
-# -------------------------
-def _to_float(x: str | None) -> float | None:
-    if x is None: return None
-    s = str(x).strip()
-    if not s: return None
-    try:
-        return float(s)
-    except ValueError:
-        try:
-            return float(s.replace(",", ""))
-        except Exception:
-            return None
 
 # -------------------------
 # Main
@@ -316,7 +382,6 @@ def main():
     ap.add_argument("--stores-csv", default=None, help="Optional: enrich stores with address/coords")
     args = ap.parse_args()
 
-    # sanity checks
     required_files = {
         "menu_catalog": args.menu_catalog,
         "store_products": args.store_products,
@@ -329,31 +394,24 @@ def main():
 
     conn = connect(args.db)
     try:
-        conn.executescript(SCHEMA_SQL)
+        # 1) migrate (creates tables if needed; adds missing columns; then indexes)
+        migrate_schema(conn)
 
-        # products first (gives canonical ids)
-        load_products(conn, args.menu_catalog)
-
-        # store_products (also ensures minimal stores)
-        load_store_products(conn, args.store_products)
-
-        # optional store details enrichment
+        # 2) Upserts (no truncation; safe to re-run)
+        upsert_products(conn, args.menu_catalog)
+        upsert_stores_minimal(conn, args.store_products)
+        upsert_store_products(conn, args.store_products)
         if file_exists(args.stores_csv):
-            load_stores_details(conn, args.stores_csv)
-
-        # nutrition catalog
-        load_nutrition(conn, args.nutrition)
-
-        # deterministic mapping
-        load_master_map(conn, args.master)
+            upsert_stores_details(conn, args.stores_csv)
+        upsert_nutrition(conn, args.nutrition)
+        upsert_master_map(conn, args.master)
 
         conn.commit()
-        print("[done] Database setup complete.")
+        print("[done] Database setup complete (migrated & upserted).")
 
-        # Small summary
-        for name in ("products","stores","store_products","nutrition_items","product_nutrition_map"):
-            cur = conn.execute(f"SELECT COUNT(*) FROM {name}")
-            cnt = cur.fetchone()[0]
+        # Summary
+        for name in ("products","stores","store_products","nutrition_items","product_nutrition_map","prices","prices_staging"):
+            cnt = conn.execute(f"SELECT COUNT(*) FROM {name}").fetchone()[0]
             print(f"  - {name:22s}: {cnt}")
 
     finally:
