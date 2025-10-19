@@ -1,32 +1,124 @@
-item_id,item_name,category,is_breakfast,is_drink,serving_weight_grams,calories,fat_calories,total_fat,saturated_fat,trans_fat,polyunsaturated_fat,monounsaturated_fat,cholesterol,sodium,total_carb,fibers,sugars,protein,product_code
-166716.0,Bean Burrito,Veggie Cravings,0.0,0.0,189.9,359.97,81.42,10.4,4.27,0.05,4.01,1.94,7.08,1084.4,53.76,8.49,3.11,12.88,22200
-166718.0,Beefy 5-Layer Burrito,Burritos,0.0,0.0,222.54,490.89,156.59,18.14,7.56,0.26,4.75,5.19,27.91,1288.97,64.6,7.36,4.1,17.32,22167
-384502.0,Black Bean Grilled Cheese Burrito,Burritos,0.0,0.0,266.49,693.98,292.57,36.51,14.38,0.41,9.05,11.4,56.68,1385.18,68.32,7.97,4.73,23.02,23290
-166945.0,Black Beans,Veggie Cravings,0.0,0.0,42.52,50.88,11.88,1.32,0.13,0.0,0.45,0.75,0.0,140.28,7.25,3.81,0.47,2.5,22394
-429063.0,Breakfast California Crunchwrap,Breakfast (Regional),1.0,0.0,229.63,635.45,292.77,37.7,12.37,0.21,8.29,16.37,137.04,1331.73,53.29,4.64,2.96,20.85,30093
-423324.0,Cantina Chicken Bowl,Cantina Chicken Menu,0.0,0.0,338.78,483.82,206.0,23.78,7.01,0.17,6.12,10.2,73.78,1166.91,43.34,9.55,3.17,24.41,23473
-423325.0,Cantina Chicken Burrito,Cantina Chicken Menu,0.0,0.0,239.55,539.21,267.1,30.54,8.99,0.14,13.25,7.25,81.94,1184.49,42.06,4.82,3.86,24.31,23472
-423320.0,Cantina Chicken Crispy Taco,Cantina Chicken Menu,0.0,0.0,93.55,282.61,145.66,16.42,6.49,0.18,3.51,5.79,50.48,527.86,17.15,2.95,0.89,15.14,23471
-423321.0,Cantina Chicken Quesadilla,Cantina Chicken Menu,0.0,0.0,192.78,572.38,284.67,32.0,15.77,0.46,8.17,6.34,90.44,1338.87,42.46,3.52,3.3,28.63,23477
-423323.0,Cantina Chicken Soft Taco,Cantina Chicken Menu,0.0,0.0,116.23,209.37,86.16,9.98,3.57,0.06,3.6,2.52,36.3,528.39,18.4,2.47,1.96,11.63,23470
-166742.0,Cheese Quesadilla,Veggie Cravings,0.0,0.0,138.91,469.11,219.86,24.46,12.94,0.36,5.52,4.55,48.0,995.96,40.53,2.64,3.38,18.17,22320
-198433.0,Cheesy Double Beef Burrito,Burritos,0.0,0.0,252.31,564.0,191.46,25.42,9.64,0.48,3.96,10.89,48.69,1345.11,63.28,6.87,3.4,20.52,23226
-360540.0,Cheesy Fiesta Potatoes,Veggie Cravings,0.0,0.0,119.07,238.4,114.74,12.59,1.77,0.04,2.49,7.93,4.1,522.21,28.11,2.56,1.0,3.07,22530
-354902.0,Cheesy Gordita Crunch,Tacos,0.0,0.0,174.35,494.13,255.0,27.78,10.54,0.42,9.62,6.83,52.79,845.1,41.58,4.91,4.34,19.56,22813
-166743.0,Cheesy Roll Up,Veggie Cravings,0.0,0.0,56.7,179.27,77.59,8.63,5.54,0.17,1.06,1.49,22.25,431.52,16.91,1.06,1.3,8.48,22152
-436225.0,Chicken Enchilada Burrito,Burritos,0.0,0.0,195.61,376.63,106.41,12.04,5.63,0.13,2.7,3.22,41.68,1143.62,48.52,3.18,3.03,18.55,23394
-166761.0,Chips and Guacamole,Side Portions - Hidden,0.0,0.0,76.54,245.78,140.99,16.15,2.13,0.05,4.24,9.85,0.0,236.83,22.47,3.71,1.03,2.71,23318
-354896.0,Chips and Nacho Cheese Sauce,Veggie Cravings,0.0,0.0,70.87,219.55,118.65,12.77,1.26,0.0,3.43,8.01,0.75,283.33,23.66,2.0,1.27,2.56,22500
-354895.0,Cinnamon Twists,Veggie Cravings,0.0,0.0,35.44,166.83,54.7,6.08,0.57,0.0,0.75,4.75,0.0,115.4,26.69,0.56,9.79,1.35,22525
-166772.0,Crunchy Taco,Tacos,0.0,0.0,77.96,166.1,86.05,9.37,3.82,0.22,2.1,3.16,23.71,309.7,13.16,3.1,0.45,7.37,22100
-439526.0,Double Stacked Taco,Tacos,0.0,0.0,133.24,317.6,123.28,15.51,5.08,0.22,3.74,6.25,24.11,611.33,34.22,4.38,1.78,10.38,26018
-719813.0,Flamin' Hot Grilled Cheese Burrito,New,0.0,0.0,272.16,732.52,318.82,41.21,16.58,0.59,8.68,9.18,73.54,1573.18,64.88,5.1,4.45,25.64,29071
-277318.0,Grilled Cheese Burrito,Burritos,0.0,0.0,266.49,711.44,317.89,39.33,16.12,0.59,8.85,12.49,73.38,1506.93,64.09,5.82,4.26,25.28,22963
-166950.0,Hash Brown,Veggie Cravings,0.0,0.0,53.86,159.98,99.84,11.09,0.86,0.0,2.29,7.96,0.0,277.26,13.74,1.13,0.0,1.29,30017
-439525.0,Loaded Beef Nachos,Nachos,0.0,0.0,206.95,445.27,216.76,24.65,5.04,0.25,5.93,13.48,20.81,933.51,44.22,8.71,2.34,11.74,22159
-166804.0,Mexican Pizza,Specialties,0.0,0.0,212.62,531.44,249.4,28.18,8.4,0.35,5.94,13.17,38.92,1009.56,50.32,7.94,3.07,19.23,22303
-166816.0,Pintos N Cheese,Veggie Cravings,0.0,0.0,121.9,172.15,50.59,6.71,3.17,0.09,2.1,1.24,11.11,687.28,18.97,6.75,1.08,8.97,22510
-166835.0,Soft Taco,Tacos,0.0,0.0,92.14,183.1,74.3,8.32,4.18,0.22,1.14,2.68,23.74,504.18,18.44,2.67,1.08,8.71,22110
-166840.0,Spicy Potato Soft Taco,Veggie Cravings,0.0,0.0,97.81,240.42,108.18,12.08,3.2,0.06,3.72,4.78,10.26,472.06,27.78,2.24,1.14,5.19,22259
-166734.0,Veggie Bowl,Veggie Cravings,0.0,0.0,294.83,414.82,179.39,20.13,5.66,0.17,4.93,9.05,20.25,847.66,46.77,11.16,3.13,11.94,29132
-467404.0,Veggie Mexican Pizza,Veggie Cravings,0.0,0.0,170.1,463.1,212.19,24.05,6.53,0.17,5.69,11.33,22.22,747.52,47.31,6.28,3.07,14.46,23326
+canonical_product_id,product_code,item_id,name_nutrition,category_nutrition,match_confidence,match_method
+3af7e6709cf45d6e,30179,282320,Cheesy Toasted Breakfast Burrito - Bacon,INM Breakfast,1.1,rule
+86d74f0d8528838a,30180,282319,Cheesy Toasted Breakfast Burrito - Sausage,INM Breakfast,1.1,rule
+ba6cb634f7dfdd37,30181,315242,Cheesy Toasted Breakfast Burrito,Breakfast (Regional),0.8,rule
+8f4bba304864656f,30187,282325,Grande Toasted Breakfast Burrito - Steak,INM Breakfast,1.1,rule
+9223998aebf85cf8,30186,282327,Grande Toasted Breakfast Burrito - Sausage,INM Breakfast,1.1,rule
+a7842808daf546d4,30185,282326,Grande Toasted Breakfast Burrito - Bacon,INM Breakfast,1.1,rule
+644eae939e191f99,30190,315243,Grande Toasted Breakfast Burrito,Breakfast (Regional),1.1,rule
+29e127932f182412,30152,208070,Breakfast Quesadilla - Sausage,Breakfast (Regional),1.1,rule
+8b0f42523e579b70,30151,208069,Breakfast Quesadilla - Bacon,Breakfast (Regional),1.1,rule
+4122871bcf7c2ee8,30153,208071,Breakfast Quesadilla - Steak,Breakfast (Regional),1.1,rule
+07aaa88238e1ba56,32079,208071,Breakfast Quesadilla - Steak,Breakfast (Regional),0.767,rule_lo
+5d5e229a8f17a8ff,30093,429063,Breakfast California Crunchwrap,Breakfast (Regional),1.1,rule
+1c65a5e8b929d0ec,30029,166711,Breakfast Crunchwrap - Bacon,INM Breakfast,1.1,rule
+ef68d91758248b61,30028,420115,Breakfast Crunchwrap - Sausage Patty,INM Breakfast,0.85,rule
+a1eaeacc92d061b6,32031,166958,Breakfast Crunchwrap,Breakfast (Regional),1.1,rule
+5cb728c8d64f3a26,30017,354897,Hash Brown (V),Breakfast (Regional),0.767,rule_lo
+8b764edf11c8d07b,22205,167116,Chili Cheese Burrito (regional),Burritos,0.85,rule
+ec22b927dbe1fce7,2065Main,854344,Strawberry Vanilla Cream Soda Freeze&trade; (16 oz),Test Items,0.725,rule_lo
+235d26d3405a473b,22110,166835,Soft Taco,Tacos,1.1,rule
+c611b6551e17e7f6,22100,166772,Crunchy Taco,Tacos,1.1,rule
+13d28848e281d917,22813,354902,Cheesy Gordita Crunch,Tacos,1.1,rule
+ac083a30eec7c29f,22850,354903,Chalupa Supreme&reg;,Tacos,0.767,rule_lo
+3bde3fa8aa956905,22283,166744,Cheesy Bean & Rice Burrito,Veggie Cravings,1.0,rule
+05eb223cc7fc3dee,22321,166758,Quesadilla - Chicken,INM Quesadillas,1.0,rule
+32e8c2cecbb43d07,22259,166840,Spicy Potato Soft Taco,Veggie Cravings,1.1,rule
+ee371cad3de90fa9,22362,166771,Crunchwrap Supreme&reg;,Specialties,0.767,rule_lo
+56855ae500e12391,22167,166718,Beefy 5-Layer Burrito,Burritos,1.1,rule
+82b546c98af8862e,22502,166812,Nachos BellGrande&reg;,Nachos,0.767,rule_lo
+bf1787b41e980748,22525,354895,Cinnamon Twists,Veggie Cravings,1.1,rule
+344b47d17ba2a0a0,23472,423325,Cantina Chicken Burrito,Cantina Chicken Menu,1.1,rule
+30e232bc350c93d9,23470,423323,Cantina Chicken Soft Taco,Cantina Chicken Menu,1.1,rule
+5da20dea752c97a7,23471,423320,Cantina Chicken Crispy Taco,Cantina Chicken Menu,1.1,rule
+58443dab85318e00,23477,423321,Cantina Chicken Quesadilla,Cantina Chicken Menu,1.1,rule
+5be021966983fd53,23473,423324,Cantina Chicken Bowl,Cantina Chicken Menu,1.1,rule
+a535a11beee560df,23478,423320,Cantina Chicken Crispy Taco,Cantina Chicken Menu,0.8,rule
+62dbe360a232dc21,23479,423325,Cantina Chicken Burrito,Cantina Chicken Menu,0.75,rule_lo
+863d7c475e671a00,23480,423321,Cantina Chicken Quesadilla,Cantina Chicken Menu,0.75,rule_lo
+a359a75e4ca554fe,23476,441114,Avocado Salsa Verde Packet,Side Portions - Hidden,0.8,rule
+8b7fc7c4bcb68ed8,29071,719813,Flamin' Hot Grilled Cheese Burrito,New,1.1,rule
+333174cb078841f7,29016,646120,Crispy Chicken Burrito - Avocado Ranch,Test Items,1.0,rule
+b4695c37f7d4112b,29015,646124,Crispy Chicken Soft Taco - Avocado Ranch,Test Items,1.0,rule
+b54896048bc8f9fa,23378,420881,Grilled Cheese Burrito - Steak,INM Burritos,1.0,rule
+6b0f15399c3c2179,22604,166804,Mexican Pizza,Specialties,1.1,rule
+e1308691788bde47,22607,166758,Quesadilla - Chicken,INM Quesadillas,1.0,rule
+585c7277417d584c,22605,166812,Nachos BellGrande&reg;,Nachos,0.767,rule_lo
+c69cbea1c60a4fcc,22609,166771,Crunchwrap Supreme&reg;,Specialties,0.767,rule_lo
+11604f53a547d525,22601,166963,Burrito Supreme&reg;,Burritos,0.767,rule_lo
+56e4342e28afeb78,22187,166835,Soft Taco,Tacos,1.1,rule
+a481abf22207991d,21201,166837,Soft Taco Supreme&reg;,Tacos,0.75,rule_lo
+3862150dc01ec4f6,24513,242452,Stacker,Specialties,1.0,override
+a5202744f72ca227,23499,441180,3-Cheese Chicken Flatbread Melt,Specialties,1.1,rule
+56afbfeb1668e154,22303,166804,Mexican Pizza,Specialties,1.1,rule
+64a87c9ab67d526c,23326,467404,Veggie Mexican Pizza,Veggie Cravings,1.1,rule
+e5ef97ef94a5b2b4,26051,275133,Black Bean Crunchwrap Supreme&reg;,Veggie Cravings,0.9,rule
+ed3de8370c57a70f,22152,166743,Cheesy Roll Up,Veggie Cravings,1.1,rule
+0c025ff16bc23758,26018,439526,Double Stacked Taco,Tacos,1.1,rule
+7a9284bf841054ee,22111,166837,Soft Taco Supreme&reg;,Tacos,0.85,rule
+4eb1f6bbf1bf7bd4,22101,166774,Crunchy Taco Supreme&reg;,Tacos,0.85,rule
+e1f6b45de2c230d2,23153,313269,Black Bean Chalupa Supreme&reg;,Veggie Cravings,0.9,rule
+49612efbc3e398c2,24067,166811,Doritos&reg; Cheesy Gordita Crunch - Nacho Cheese,Tacos,0.857,rule
+5fa947f045747acb,23394,436225,Chicken Enchilada Burrito,Burritos,1.1,rule
+36235ef5aa8b788c,23226,198433,Cheesy Double Beef Burrito,Burritos,1.0,rule
+c9369165417cc783,22963,277318,Grilled Cheese Burrito,Burritos,1.1,rule
+8bdb3a617515bf62,23290,384502,Black Bean Grilled Cheese Burrito,Burritos,1.1,rule
+1fcbe49c34eb4c1e,22200,166716,Bean Burrito,Veggie Cravings,1.1,rule
+d73df6944e08ba84,22201,166963,Burrito Supreme&reg;,Burritos,0.767,rule_lo
+3de0e4035d0611da,22322,166846,Quesadilla - Steak,INM Quesadillas,1.0,rule
+da73de010a93e9d7,22320,166742,Cheese Quesadilla,Veggie Cravings,1.1,rule
+0c1d307b4f97b7ee,22159,439525,Loaded Beef Nachos,Nachos,1.1,rule
+3b3d26c9390348ab,23318,166761,Chips and Guacamole,Side Portions - Hidden,1.1,rule
+9185b2b943b68f0a,22500,354896,Chips and Nacho Cheese Sauce,Veggie Cravings,1.1,rule
+16cccc20ae6f956f,22530,360540,Cheesy Fiesta Potatoes,Veggie Cravings,1.1,rule
+918429dde0a45013,4382,926745,Flamin' Hot Rice (3 oz),Side Portions - Hidden,0.7,rule_lo
+abea78f9518257d3,22394,166945,Black Beans,Veggie Cravings,1.1,rule
+78f6197f8e2398db,22393,166722,Black Beans & Rice,Veggie Cravings,1.0,rule
+1497fb8525c4deb5,22510,166816,Pintos N Cheese,Veggie Cravings,1.1,rule
+458ae2f6e98f872e,22763,314994,Mild Sauce Packet (V),Sides & Sweets,0.85,rule
+19d81fbfd541fce3,22760,314995,Hot Sauce Packet (V),Sides & Sweets,0.85,rule
+41102063b2c53d05,22759,314996,Fire Sauce Packet (V),Sides & Sweets,0.85,rule
+17dcc6cdd28b92e2,22765,314997,Diablo Sauce Packet (V),Sides & Sweets,0.85,rule
+eaddbc545b3386a6,22746,354896,Chips and Nacho Cheese Sauce,Veggie Cravings,0.85,rule
+efa76a34651768ac,22722,417120,Avocado Ranch Sauce (6 oz),Side Portions - Hidden,0.7,rule_lo
+eb731d59a46931a2,22749,627382,Mexican Pizza Sauce (2 oz),Side Portions - Hidden,0.7,rule_lo
+ec3e04ac3652ae12,1440Main,169302,Orange Juice,Drinks,0.667,rule_lo
+91799b88b123d834,29132,166734,Veggie Bowl,Veggie Cravings,1.1,rule
+ed9679d5c24acf15,29438,943689,Diablo Dusted Chicken Nuggets - 10 Piece,Test Items,0.714,rule_lo
+36ebc90ae860be15,29437,943690,Diablo Dusted Chicken Nuggets - 5 Piece,Test Items,0.714,rule_lo
+9a63b02e36464e12,29436,277742,Loaded Taco Fries,Test Items,0.75,rule_lo
+a2cb87e31453e4ee,1504Main,854340,Vanilla Cream Soda Freeze&trade; (20 oz),New,0.671,rule_lo
+8f05ae3b5a23fbd6,1496Main,854337,Orange Vanilla Cream Soda Freeze&trade; (20 oz),New,0.725,rule_lo
+e4681e00fd4fe26b,30219,315243,Grande Toasted Breakfast Burrito,Breakfast (Regional),1.1,rule
+96eb77ff3d1c8722,30220,208071,Breakfast Quesadilla - Steak,Breakfast (Regional),0.767,rule_lo
+9a01dcfd2513dab5,30221,166958,Breakfast Crunchwrap,Breakfast (Regional),1.1,rule
+931c283e31bae4bd,24965,423321,Cantina Chicken Quesadilla,Cantina Chicken Menu,1.1,rule
+60807401f591053d,24962,423320,Cantina Chicken Crispy Taco,Cantina Chicken Menu,1.1,rule
+61a00a1413c1d834,24961,423321,Cantina Chicken Quesadilla,Cantina Chicken Menu,1.1,rule
+03c8a890e3770d51,24957,646120,Crispy Chicken Burrito - Avocado Ranch,Test Items,0.8,rule
+24e076fb4284f869,24955,166758,Quesadilla - Chicken,INM Quesadillas,1.0,rule
+cdd2616029a0f250,24956,166771,Crunchwrap Supreme&reg;,Specialties,0.767,rule_lo
+ce00e09e200b0c82,550520,442473,Taco Lover's Soft Taco,JSON only,1.1,rule
+dc2d1bbb17b04067,550521,442471,Taco Lover's Soft Taco Supreme,JSON only,1.1,rule
+7c3d28b03bb4dcd6,550518,442467,Taco Lover's Crunchy Taco,JSON only,1.1,rule
+2a794a3db50d2b5a,550519,442468,Taco Lover's Crunchy Taco Supreme&reg;,JSON only,0.933,rule
+b5a40a643c2400f7,550522,442470,Taco Lover's Nacho Cheese Doritos&reg; Locos Tacos,JSON only,0.889,rule
+b8f511594b250548,550523,442469,Taco Lover's Nacho Cheese Doritos&reg; Locos Tacos Supreme&reg;,JSON only,0.9,rule
+39448093d4409f73,550524,442472,Taco Lover's Spicy Potato Soft Taco,JSON only,1.1,rule
+caede514ed1657dd,30208,442474,Taco Lover's Breakfast Taco - Sausage,JSON only,1.1,rule
+c95b403e8e445dcb,30209,442475,Taco Lover's Breakfast Taco - Bacon,JSON only,1.1,rule
+072544d77496d5c4,30210,442476,Taco Lover's Breakfast Taco - Potato,JSON only,1.1,rule
+3d683904066366d6,23484,420881,Grilled Cheese Burrito - Steak,INM Burritos,0.8,rule
+3ba1284f9031a1b7,23485,420881,Grilled Cheese Burrito - Steak,INM Burritos,0.8,rule
+3cb2976fa69ca8ab,23370,420881,Grilled Cheese Burrito - Steak,INM Burritos,1.0,rule
+8c52b7043cb870ef,23371,830306,Chicken Grilled Cheese Burrito,Test Items,1.1,rule
+8d4885e01c3b05c0,26154,423320,Cantina Chicken Crispy Taco,Cantina Chicken Menu,0.8,rule
+4f2d45d2fa98f86c,26155,423325,Cantina Chicken Burrito,Cantina Chicken Menu,0.75,rule_lo
+9356a8def29af602,26153,423321,Cantina Chicken Quesadilla,Cantina Chicken Menu,0.75,rule_lo
+6eda189fd30e05fc,26150,166804,Mexican Pizza,Specialties,1.1,rule
+8f27e34fccb8c1ee,26148,166758,Quesadilla - Chicken,INM Quesadillas,1.0,rule
+5851a4634246d41b,26149,166771,Crunchwrap Supreme&reg;,Specialties,0.767,rule_lo
+d374e3344d81337b,24545,439525,Loaded Beef Nachos,Nachos,1.0,override
+a43a585ff2bb0c86,24546,312099,Grande Nachos - Grilled Chicken,Test Items,0.667,rule_lo
+ae941d3db2bbc439,24547,312101,Grande Nachos - Steak,Test Items,1.1,rule
+7d14612b4e542c66,24566,347187,Grande Nachos - Veggie,Test Items,1.1,rule
