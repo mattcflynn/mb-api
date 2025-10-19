@@ -1,20 +1,4 @@
 canonical_product_id,product_code,item_id,name_nutrition,category_nutrition,match_confidence,match_method
-3af7e6709cf45d6e,30179,282320,Cheesy Toasted Breakfast Burrito - Bacon,INM Breakfast,1.1,rule
-86d74f0d8528838a,30180,282319,Cheesy Toasted Breakfast Burrito - Sausage,INM Breakfast,1.1,rule
-ba6cb634f7dfdd37,30181,315242,Cheesy Toasted Breakfast Burrito,Breakfast (Regional),0.8,rule
-8f4bba304864656f,30187,282325,Grande Toasted Breakfast Burrito - Steak,INM Breakfast,1.1,rule
-9223998aebf85cf8,30186,282327,Grande Toasted Breakfast Burrito - Sausage,INM Breakfast,1.1,rule
-a7842808daf546d4,30185,282326,Grande Toasted Breakfast Burrito - Bacon,INM Breakfast,1.1,rule
-644eae939e191f99,30190,315243,Grande Toasted Breakfast Burrito,Breakfast (Regional),1.1,rule
-29e127932f182412,30152,208070,Breakfast Quesadilla - Sausage,Breakfast (Regional),1.1,rule
-8b0f42523e579b70,30151,208069,Breakfast Quesadilla - Bacon,Breakfast (Regional),1.1,rule
-4122871bcf7c2ee8,30153,208071,Breakfast Quesadilla - Steak,Breakfast (Regional),1.1,rule
-07aaa88238e1ba56,32079,208071,Breakfast Quesadilla - Steak,Breakfast (Regional),0.767,rule_lo
-5d5e229a8f17a8ff,30093,429063,Breakfast California Crunchwrap,Breakfast (Regional),1.1,rule
-1c65a5e8b929d0ec,30029,166711,Breakfast Crunchwrap - Bacon,INM Breakfast,1.1,rule
-ef68d91758248b61,30028,420115,Breakfast Crunchwrap - Sausage Patty,INM Breakfast,0.85,rule
-a1eaeacc92d061b6,32031,166958,Breakfast Crunchwrap,Breakfast (Regional),1.1,rule
-5cb728c8d64f3a26,30017,354897,Hash Brown (V),Breakfast (Regional),0.767,rule_lo
 8b764edf11c8d07b,22205,167116,Chili Cheese Burrito (regional),Burritos,0.85,rule
 ec22b927dbe1fce7,2065Main,854344,Strawberry Vanilla Cream Soda Freeze&trade; (16 oz),Test Items,0.725,rule_lo
 235d26d3405a473b,22110,166835,Soft Taco,Tacos,1.1,rule
@@ -52,7 +36,6 @@ a481abf22207991d,21201,166837,Soft Taco Supreme&reg;,Tacos,0.75,rule_lo
 a5202744f72ca227,23499,441180,3-Cheese Chicken Flatbread Melt,Specialties,1.1,rule
 56afbfeb1668e154,22303,166804,Mexican Pizza,Specialties,1.1,rule
 64a87c9ab67d526c,23326,467404,Veggie Mexican Pizza,Veggie Cravings,1.1,rule
-e5ef97ef94a5b2b4,26051,275133,Black Bean Crunchwrap Supreme&reg;,Veggie Cravings,0.9,rule
 ed3de8370c57a70f,22152,166743,Cheesy Roll Up,Veggie Cravings,1.1,rule
 0c025ff16bc23758,26018,439526,Double Stacked Taco,Tacos,1.1,rule
 7a9284bf841054ee,22111,166837,Soft Taco Supreme&reg;,Tacos,0.85,rule
@@ -75,6 +58,7 @@ da73de010a93e9d7,22320,166742,Cheese Quesadilla,Veggie Cravings,1.1,rule
 abea78f9518257d3,22394,166945,Black Beans,Veggie Cravings,1.1,rule
 78f6197f8e2398db,22393,166722,Black Beans & Rice,Veggie Cravings,1.0,rule
 1497fb8525c4deb5,22510,166816,Pintos N Cheese,Veggie Cravings,1.1,rule
+422998498d86ae1b,30046,658306,Cinnabon Delights (2 oz),Side Portions - Hidden,0.85,rule
 458ae2f6e98f872e,22763,314994,Mild Sauce Packet (V),Sides & Sweets,0.85,rule
 19d81fbfd541fce3,22760,314995,Hot Sauce Packet (V),Sides & Sweets,0.85,rule
 41102063b2c53d05,22759,314996,Fire Sauce Packet (V),Sides & Sweets,0.85,rule
@@ -82,43 +66,24 @@ abea78f9518257d3,22394,166945,Black Beans,Veggie Cravings,1.1,rule
 eaddbc545b3386a6,22746,354896,Chips and Nacho Cheese Sauce,Veggie Cravings,0.85,rule
 efa76a34651768ac,22722,417120,Avocado Ranch Sauce (6 oz),Side Portions - Hidden,0.7,rule_lo
 eb731d59a46931a2,22749,627382,Mexican Pizza Sauce (2 oz),Side Portions - Hidden,0.7,rule_lo
-ec3e04ac3652ae12,1440Main,169302,Orange Juice,Drinks,0.667,rule_lo
 91799b88b123d834,29132,166734,Veggie Bowl,Veggie Cravings,1.1,rule
-ed9679d5c24acf15,29438,943689,Diablo Dusted Chicken Nuggets - 10 Piece,Test Items,0.714,rule_lo
-36ebc90ae860be15,29437,943690,Diablo Dusted Chicken Nuggets - 5 Piece,Test Items,0.714,rule_lo
-9a63b02e36464e12,29436,277742,Loaded Taco Fries,Test Items,0.75,rule_lo
+3af7e6709cf45d6e,30179,282320,Cheesy Toasted Breakfast Burrito - Bacon,INM Breakfast,1.1,rule
+86d74f0d8528838a,30180,282319,Cheesy Toasted Breakfast Burrito - Sausage,INM Breakfast,1.1,rule
+ba6cb634f7dfdd37,30181,315242,Cheesy Toasted Breakfast Burrito,Breakfast (Regional),0.8,rule
+8f4bba304864656f,30187,282325,Grande Toasted Breakfast Burrito - Steak,INM Breakfast,1.1,rule
+9223998aebf85cf8,30186,282327,Grande Toasted Breakfast Burrito - Sausage,INM Breakfast,1.1,rule
+a7842808daf546d4,30185,282326,Grande Toasted Breakfast Burrito - Bacon,INM Breakfast,1.1,rule
+644eae939e191f99,30190,315243,Grande Toasted Breakfast Burrito,Breakfast (Regional),1.1,rule
+29e127932f182412,30152,208070,Breakfast Quesadilla - Sausage,Breakfast (Regional),1.1,rule
+8b0f42523e579b70,30151,208069,Breakfast Quesadilla - Bacon,Breakfast (Regional),1.1,rule
+4122871bcf7c2ee8,30153,208071,Breakfast Quesadilla - Steak,Breakfast (Regional),1.1,rule
+07aaa88238e1ba56,32079,208071,Breakfast Quesadilla - Steak,Breakfast (Regional),0.767,rule_lo
+5d5e229a8f17a8ff,30093,429063,Breakfast California Crunchwrap,Breakfast (Regional),1.1,rule
+1c65a5e8b929d0ec,30029,166711,Breakfast Crunchwrap - Bacon,INM Breakfast,1.1,rule
+ef68d91758248b61,30028,420115,Breakfast Crunchwrap - Sausage Patty,INM Breakfast,0.85,rule
+a1eaeacc92d061b6,32031,166958,Breakfast Crunchwrap,Breakfast (Regional),1.1,rule
+5cb728c8d64f3a26,30017,354897,Hash Brown (V),Breakfast (Regional),0.767,rule_lo
+e5ef97ef94a5b2b4,26051,275133,Black Bean Crunchwrap Supreme&reg;,Veggie Cravings,0.9,rule
+ec3e04ac3652ae12,1440Main,169302,Orange Juice,Drinks,0.667,rule_lo
 a2cb87e31453e4ee,1504Main,854340,Vanilla Cream Soda Freeze&trade; (20 oz),New,0.671,rule_lo
 8f05ae3b5a23fbd6,1496Main,854337,Orange Vanilla Cream Soda Freeze&trade; (20 oz),New,0.725,rule_lo
-e4681e00fd4fe26b,30219,315243,Grande Toasted Breakfast Burrito,Breakfast (Regional),1.1,rule
-96eb77ff3d1c8722,30220,208071,Breakfast Quesadilla - Steak,Breakfast (Regional),0.767,rule_lo
-9a01dcfd2513dab5,30221,166958,Breakfast Crunchwrap,Breakfast (Regional),1.1,rule
-931c283e31bae4bd,24965,423321,Cantina Chicken Quesadilla,Cantina Chicken Menu,1.1,rule
-60807401f591053d,24962,423320,Cantina Chicken Crispy Taco,Cantina Chicken Menu,1.1,rule
-61a00a1413c1d834,24961,423321,Cantina Chicken Quesadilla,Cantina Chicken Menu,1.1,rule
-03c8a890e3770d51,24957,646120,Crispy Chicken Burrito - Avocado Ranch,Test Items,0.8,rule
-24e076fb4284f869,24955,166758,Quesadilla - Chicken,INM Quesadillas,1.0,rule
-cdd2616029a0f250,24956,166771,Crunchwrap Supreme&reg;,Specialties,0.767,rule_lo
-ce00e09e200b0c82,550520,442473,Taco Lover's Soft Taco,JSON only,1.1,rule
-dc2d1bbb17b04067,550521,442471,Taco Lover's Soft Taco Supreme,JSON only,1.1,rule
-7c3d28b03bb4dcd6,550518,442467,Taco Lover's Crunchy Taco,JSON only,1.1,rule
-2a794a3db50d2b5a,550519,442468,Taco Lover's Crunchy Taco Supreme&reg;,JSON only,0.933,rule
-b5a40a643c2400f7,550522,442470,Taco Lover's Nacho Cheese Doritos&reg; Locos Tacos,JSON only,0.889,rule
-b8f511594b250548,550523,442469,Taco Lover's Nacho Cheese Doritos&reg; Locos Tacos Supreme&reg;,JSON only,0.9,rule
-39448093d4409f73,550524,442472,Taco Lover's Spicy Potato Soft Taco,JSON only,1.1,rule
-caede514ed1657dd,30208,442474,Taco Lover's Breakfast Taco - Sausage,JSON only,1.1,rule
-c95b403e8e445dcb,30209,442475,Taco Lover's Breakfast Taco - Bacon,JSON only,1.1,rule
-072544d77496d5c4,30210,442476,Taco Lover's Breakfast Taco - Potato,JSON only,1.1,rule
-3d683904066366d6,23484,420881,Grilled Cheese Burrito - Steak,INM Burritos,0.8,rule
-3ba1284f9031a1b7,23485,420881,Grilled Cheese Burrito - Steak,INM Burritos,0.8,rule
-3cb2976fa69ca8ab,23370,420881,Grilled Cheese Burrito - Steak,INM Burritos,1.0,rule
-8c52b7043cb870ef,23371,830306,Chicken Grilled Cheese Burrito,Test Items,1.1,rule
-8d4885e01c3b05c0,26154,423320,Cantina Chicken Crispy Taco,Cantina Chicken Menu,0.8,rule
-4f2d45d2fa98f86c,26155,423325,Cantina Chicken Burrito,Cantina Chicken Menu,0.75,rule_lo
-9356a8def29af602,26153,423321,Cantina Chicken Quesadilla,Cantina Chicken Menu,0.75,rule_lo
-6eda189fd30e05fc,26150,166804,Mexican Pizza,Specialties,1.1,rule
-8f27e34fccb8c1ee,26148,166758,Quesadilla - Chicken,INM Quesadillas,1.0,rule
-5851a4634246d41b,26149,166771,Crunchwrap Supreme&reg;,Specialties,0.767,rule_lo
-d374e3344d81337b,24545,439525,Loaded Beef Nachos,Nachos,1.0,override
-a43a585ff2bb0c86,24546,312099,Grande Nachos - Grilled Chicken,Test Items,0.667,rule_lo
-ae941d3db2bbc439,24547,312101,Grande Nachos - Steak,Test Items,1.1,rule
-7d14612b4e542c66,24566,347187,Grande Nachos - Veggie,Test Items,1.1,rule

@@ -1,56 +1,37 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-api_scraper_db.py
------------------
-Scrape Taco Bell per-store menu pricing and write into the SQLite DB.
+api_scraper_db.py — hardened scraper
+- Robust HTTP (headers, retries, cookie warm-up, watchdog)
+- Tries store-id candidates (zero-padded and stripped)
+- v5 -> v4 endpoint fallback
+- Deep price extraction (variants, lists, recursive scan)
+- Writes to prices or prices_staging (no UPSERT; INSERT OR IGNORE only)
+- Region filters retained; debug flags available
 
-Behavior
-- Reads stores from `stores` table (or a specific store via --store).
-- Calls: https://www.tacobell.com/tacobellwebservices/v4/tacobell/products/menu/{store_id}
-- Extracts price per product_code.
-- Writes to:
-    prices(store_id, canonical_product_id, price_cents, currency, collected_at)
-  or prices_staging(store_id, product_code, price_cents, currency, collected_at)
-  when a mapping isn't available yet.
-- Updates stores.last_scraped_date.
-
-Safe to run repeatedly. Uses robust timeouts, retries, and a hard watchdog to avoid hangs.
-
-Usage
-  python -u api_scraper_db.py --db macrobell.db
-  python -u api_scraper_db.py --db macrobell.db --store 032352 --max-stores 25 --verbose
+Usage examples:
+  python -u api_scraper_db.py --db macrobell.db --store 041070 --verbose --peek 041070 --dump-store-json 041070
+  python -u api_scraper_db.py --db macrobell.db --regions West_Coast --verbose
 """
 
 from __future__ import annotations
-import argparse
-import contextlib
-import json
-import random
-import re
-import signal
-import sqlite3
-import sys
-import time
+import argparse, contextlib, json, random, re, signal, sqlite3, sys, time
 from datetime import datetime, timezone
 from pathlib import Path
-from typing import Dict, Iterable, List, Optional, Tuple
+from typing import Any, Dict, List, Optional, Set, Tuple
 
 import requests
 from requests.adapters import HTTPAdapter
 from urllib3.util.retry import Retry
 
-# --------------------------
-# Networking / timeouts
-# --------------------------
-REQUEST_TIMEOUT = (5, 12)  # (connect, read) seconds
-HARD_DEADLINE_SEC = 20     # per-request watchdog
+# ---------------- Networking ----------------
+REQUEST_TIMEOUT = (5, 12)  # connect, read
+HARD_DEADLINE_SEC = 20
+
 BROWSER_HEADERS = {
-    "User-Agent": (
-        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
-        "AppleWebKit/537.36 (KHTML, like Gecko) "
-        "Chrome/120.0.0.0 Safari/537.36"
-    ),
+    "User-Agent": ("Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
+                   "AppleWebKit/537.36 (KHTML, like Gecko) "
+                   "Chrome/120.0.0.0 Safari/537.36"),
     "Accept": "application/json, text/plain, */*",
     "Accept-Language": "en-US,en;q=0.9",
     "Referer": "https://www.tacobell.com/",
@@ -58,38 +39,17 @@ BROWSER_HEADERS = {
     "Connection": "close",
 }
 
-ALPHA_PREFIX = re.compile(r"^[A-Za-z](\d{5,7})$")  # e.g., G135807 -> 135807
-DIGITS = re.compile(r"^\d{4,7}$")
-
-class TimeoutError(Exception): ...
-@contextlib.contextmanager
-def hard_deadline(seconds: int):
-    def _handler(signum, frame):
-        raise TimeoutError(f"hard deadline {seconds}s reached")
-    prev = signal.getsignal(signal.SIGALRM)
-    try:
-        signal.signal(signal.SIGALRM, _handler)
-        signal.alarm(seconds)
-        yield
-    finally:
-        signal.alarm(0)
-        signal.signal(signal.SIGALRM, prev)
-
 def make_session() -> requests.Session:
     s = requests.Session()
     s.headers.update(BROWSER_HEADERS)
     retry = Retry(
-        total=2,
-        connect=2,
-        read=2,
-        backoff_factor=0.3,
+        total=2, connect=2, read=2, backoff_factor=0.3,
         status_forcelist=(429, 500, 502, 503, 504),
         allowed_methods=frozenset(["GET"]),
         raise_on_status=False,
     )
     adapter = HTTPAdapter(max_retries=retry, pool_connections=32, pool_maxsize=32)
-    s.mount("https://", adapter)
-    s.mount("http://", adapter)
+    s.mount("https://", adapter); s.mount("http://", adapter)
     return s
 
 SESSION = make_session()
@@ -100,9 +60,67 @@ def warm_cookies():
     except Exception:
         pass
 
-# --------------------------
-# DB helpers
-# --------------------------
+@contextlib.contextmanager
+def hard_deadline(seconds: int):
+    def _handler(signum, frame): raise TimeoutError(f"hard deadline {seconds}s reached")
+    prev = signal.getsignal(signal.SIGALRM)
+    try:
+        signal.signal(signal.SIGALRM, _handler); signal.alarm(seconds); yield
+    finally:
+        signal.alarm(0); signal.signal(signal.SIGALRM, prev)
+
+class TimeoutError(Exception): ...
+
+# ---------------- Regions ----------------
+REGIONS: Dict[str, Set[str]] = {
+    "West_Coast":    {"CA","OR","WA"},
+    "Pacific":       {"AK","HI"},
+    "Mountain":      {"AZ","NV","UT","CO","NM","ID","MT","WY"},
+    "Southwest":     {"TX","OK"},
+    "South_Central": {"AR","LA"},
+    "Southeast":     {"FL","GA","SC","NC","AL","MS","TN","KY"},
+    "Great_Lakes":   {"IL","IN","MI","OH","WI"},
+    "Midwest_Plains":{"ND","SD","NE","KS","MN","IA","MO"},
+    "Mid_Atlantic":  {"PA","NJ","NY","DE","MD","DC","VA","WV"},
+    "New_England":   {"ME","NH","VT","MA","CT","RI"},
+}
+
+US_ABBR = {k:k for k in [
+"AL","AK","AZ","AR","CA","CO","CT","DE","FL","GA","HI","ID","IL","IN","IA","KS","KY",
+"LA","ME","MD","MA","MI","MN","MS","MO","MT","NE","NV","NH","NJ","NM","NY","NC","ND",
+"OH","OK","OR","PA","RI","SC","SD","TN","TX","UT","VT","VA","WA","WV","WI","WY","DC","PR"
+]}
+NAME_TO_ABBR = {
+    "alabama":"AL","alaska":"AK","arizona":"AZ","arkansas":"AR","california":"CA","colorado":"CO",
+    "connecticut":"CT","delaware":"DE","florida":"FL","georgia":"GA","hawaii":"HI","idaho":"ID",
+    "illinois":"IL","indiana":"IN","iowa":"IA","kansas":"KS","kentucky":"KY","louisiana":"LA",
+    "maine":"ME","maryland":"MD","massachusetts":"MA","michigan":"MI","minnesota":"MN",
+    "mississippi":"MS","missouri":"MO","montana":"MT","nebraska":"NE","nevada":"NV",
+    "new hampshire":"NH","new jersey":"NJ","new mexico":"NM","new york":"NY","north carolina":"NC",
+    "north dakota":"ND","ohio":"OH","oklahoma":"OK","oregon":"OR","pennsylvania":"PA","rhode island":"RI",
+    "south carolina":"SC","south dakota":"SD","tennessee":"TN","texas":"TX","utah":"UT","vermont":"VT",
+    "virginia":"VA","washington":"WA","west virginia":"WV","wisconsin":"WI","wyoming":"WY",
+    "district of columbia":"DC","dc":"DC","puerto rico":"PR"
+}
+
+def normalize_state(val: Optional[str]) -> Optional[str]:
+    if not val: return None
+    s = str(val).strip()
+    if not s: return None
+    u = s.upper()
+    if u in US_ABBR: return u
+    return NAME_TO_ABBR.get(s.lower())
+
+def parse_regions_arg(s: Optional[str]) -> Set[str]:
+    if not s: return set()
+    out = set()
+    for part in s.split(","):
+        key = part.strip().replace(" ", "_")
+        if key and key in REGIONS: out.add(key)
+        elif key: raise SystemExit(f"Unknown region '{part}'. Use --list-regions.")
+    return out
+
+# ---------------- DB helpers ----------------
 def connect(db_path: str) -> sqlite3.Connection:
     conn = sqlite3.connect(db_path)
     conn.execute("PRAGMA foreign_keys = ON;")
@@ -110,34 +128,58 @@ def connect(db_path: str) -> sqlite3.Connection:
     conn.execute("PRAGMA synchronous = NORMAL;")
     return conn
 
-def fetch_store_list(conn: sqlite3.Connection, only_store: Optional[str], max_stores: Optional[int]) -> List[str]:
-    q = "SELECT store_id FROM stores WHERE store_id IS NOT NULL AND store_id != ''"
-    params: Tuple = ()
-    if only_store:
-        q += " AND store_id = ?"
-        params = (only_store,)
-    q += " ORDER BY store_id"
-    if max_stores:
-        q += f" LIMIT {int(max_stores)}"
-    return [r[0] for r in conn.execute(q, params).fetchall()]
+def fetch_store_rows(conn: sqlite3.Connection) -> List[tuple]:
+    # Expect stores table with (store_id, state)
+    return conn.execute("SELECT store_id, state FROM stores WHERE store_id IS NOT NULL AND store_id != ''").fetchall()
+
+def list_regions_with_counts(rows: List[tuple]) -> List[tuple]:
+    counts = {name:0 for name in REGIONS}
+    for _, st in rows:
+        ab = normalize_state(st)
+        if not ab: continue
+        for name, states in REGIONS.items():
+            if ab in states:
+                counts[name]+=1; break
+    return sorted(counts.items(), key=lambda x: x[0])
+
+def filter_stores_by_regions(rows: List[tuple], include: Set[str], exclude: Set[str]) -> List[str]:
+    if not include and not exclude:
+        return [r[0] for r in rows]
+    include_states: Set[str] = set()
+    for r in include: include_states |= REGIONS[r]
+    exclude_states: Set[str] = set()
+    for r in exclude: exclude_states |= REGIONS[r]
+    out = []
+    for sid, st in rows:
+        ab = normalize_state(st)
+        if not ab: continue
+        if include and ab not in include_states: continue
+        if exclude and ab in exclude_states: continue
+        out.append(sid)
+    return out
 
 def load_code_to_canonical(conn: sqlite3.Connection) -> Dict[str, str]:
-    # Map product_code -> canonical_product_id
-    return {code: cpid for (code, cpid) in conn.execute(
-        "SELECT product_code, canonical_product_id FROM products WHERE product_code IS NOT NULL"
-    ).fetchall()}
+    # product_code -> canonical_product_id
+    m = {}
+    try:
+        for code, cpid in conn.execute("SELECT product_code, canonical_product_id FROM products WHERE product_code IS NOT NULL"):
+            if code: m[str(code)] = str(cpid)
+    except sqlite3.OperationalError:
+        pass
+    return m
 
 def load_store_product_pairs(conn: sqlite3.Connection) -> set:
-    # Set of (store_id, cpid) that exists in store_products (foreign-key parent)
-    return {(sid, cpid) for (sid, cpid) in conn.execute(
-        "SELECT store_id, canonical_product_id FROM store_products"
-    ).fetchall()}
+    # (store_id, canonical_product_id)
+    s = set()
+    try:
+        for sid, cpid in conn.execute("SELECT store_id, canonical_product_id FROM store_products"):
+            s.add((str(sid), str(cpid)))
+    except sqlite3.OperationalError:
+        pass
+    return s
 
 def upsert_store_last_scraped(conn: sqlite3.Connection, store_id: str, when_iso: str):
-    conn.execute(
-        "UPDATE stores SET last_scraped_date = ? WHERE store_id = ?",
-        (when_iso, store_id),
-    )
+    conn.execute("UPDATE stores SET last_scraped_date = ? WHERE store_id = ?", (when_iso, store_id))
 
 def insert_price(conn: sqlite3.Connection, store_id: str, cpid: str, cents: int, when_iso: str, currency: str="USD"):
     conn.execute("""
@@ -151,130 +193,210 @@ def insert_price_staging(conn: sqlite3.Connection, store_id: str, product_code: 
         VALUES (?, ?, ?, ?, ?)
     """, (store_id, product_code, cents, currency, when_iso))
 
-# --------------------------
-# ID normalization
-# --------------------------
-def sanitize_store_id(raw_id: str | None) -> str | None:
-    if not raw_id:
-        return None
-    sid = str(raw_id).strip()
-    m = ALPHA_PREFIX.match(sid)
-    if m:
-        return m.group(1)
-    if DIGITS.fullmatch(sid):
-        return sid
-    return None
+# ---------------- ID helpers ----------------
+ALPHA_PREFIX = re.compile(r"^[A-Za-z](\d{5,7})$")
+DIGITS = re.compile(r"^\d{4,7}$")
+def sanitize_store_id(raw_id: str | None) -> Optional[str]:
+    if not raw_id: return None
+    s = str(raw_id).strip()
+    m = ALPHA_PREFIX.match(s)
+    if m: return m.group(1)
+    return s if DIGITS.fullmatch(s) else None
 
-# --------------------------
-# Price extraction
-# --------------------------
+def store_id_candidates(raw_id: str) -> List[str]:
+    """Return [original, stripped-leading-zeros] if different."""
+    s = str(raw_id).strip()
+    nums = s.lstrip("0")
+    cand = [s]
+    if nums and nums != s: cand.append(nums)
+    return cand
+
+# ---------------- Price extraction ----------------
 def price_to_cents(value) -> Optional[int]:
-    """
-    Convert various price representations to integer cents.
-    Supports:
-      - numeric dollars (e.g., 2.99)
-      - strings like "$2.99" or "2.99"
-      - integer cents (already)
-    """
-    if value is None:
-        return None
-    # already an int and plausibly cents
-    if isinstance(value, int):
-        # Heuristic: if value >= 10000 it might be cents already; accept as-is
-        return int(value)
-    # numeric float dollars
-    if isinstance(value, float):
-        return int(round(value * 100))
+    if value is None: return None
+    if isinstance(value, int): return int(value)
+    if isinstance(value, float): return int(round(value * 100))
     s = str(value).strip()
-    if not s:
-        return None
-    s = s.replace("$", "").replace(",", "")
+    if not s: return None
+    s = s.replace("$","").replace(",","")
     try:
-        if "." in s:
-            return int(round(float(s) * 100))
+        if "." in s: return int(round(float(s)*100))
         return int(s)
     except Exception:
         return None
 
-def extract_price_from_product(p: dict) -> Optional[int]:
-    """
-    Try multiple common shapes seen in Taco Bell payloads.
-    We check keys in order and return first non-null cents value.
-    """
-    candidates = [
-        p.get("price"),                       # could be dollars or cents
-        p.get("displayPrice"),                # string like "$2.99"
-        p.get("priceValue"),                  # dollars
-        p.get("basePrice"),                   # dollars
-        (p.get("pricing") or {}).get("price"),
-        (p.get("pricing") or {}).get("displayPrice"),
-        (p.get("pricing") or {}).get("priceValue"),
-        (p.get("pricing") or {}).get("basePrice"),
-    ]
-    for v in candidates:
+def pick_first(values: List[Any]) -> Optional[int]:
+    for v in values:
         cents = price_to_cents(v)
         if cents is not None:
             return cents
     return None
 
-# --------------------------
-# HTTP fetch
-# --------------------------
-def fetch_menu_for_store(store_id: str) -> dict:
-    url = f"https://www.tacobell.com/tacobellwebservices/v4/tacobell/products/menu/{store_id}"
-    SESSION.headers["Referer"] = f"https://www.tacobell.com/locations/{random.randint(1000,9999)}"
-    try:
-        with hard_deadline(HARD_DEADLINE_SEC):
-            r = SESSION.get(url, timeout=REQUEST_TIMEOUT)
-        if r.status_code == 403:
-            # try cookie warm-up once
-            warm_cookies()
-            time.sleep(0.6 + random.random()*0.4)
-            with hard_deadline(HARD_DEADLINE_SEC):
-                r = SESSION.get(url, timeout=REQUEST_TIMEOUT)
-        r.raise_for_status()
-        return r.json()
-    except TimeoutError:
-        raise
-    except requests.HTTPError as e:
-        # Surface status code for logging
-        code = getattr(e.response, "status_code", None)
-        raise RuntimeError(f"HTTP {code} for store {store_id}") from e
+def extract_price_from_product(p: dict) -> Optional[int]:
+    """
+    Robustly extract a price in cents from a product dict.
+    Handles:
+      - price as number/string
+      - price as dict with .value
+      - priceRange.{minPrice|min|value}
+      - pricing.* mirrors
+      - variantOptions[].priceData.value
+      - lists like priceList/prices/priceOptions
+      - recursive fallback
+    """
+    def from_price_node(node) -> Optional[int]:
+        # node could be number/string/dict
+        c = price_to_cents(node)
+        if c is not None:
+            return c
+        if isinstance(node, dict):
+            # common shapes
+            for k in ("value", "amount", "minPrice", "min", "lowest", "price"):
+                if k in node:
+                    c = price_to_cents(node[k])
+                    if c is not None:
+                        return c
+        return None
 
-# --------------------------
-# Main scraping logic
-# --------------------------
-def scrape_store(conn: sqlite3.Connection, store_id: str, code_to_cpid: Dict[str, str], valid_pairs: set, verbose: bool=False) -> Tuple[int,int]:
-    """
-    Returns (n_final, n_staging)
-    """
+    # direct price / priceRange / pricing.*
+    for key in ("price", "priceRange"):
+        v = p.get(key)
+        c = from_price_node(v)
+        if c is not None and c > 0:
+            return c
+    pr = p.get("pricing") or {}
+    for key in ("price", "displayPrice", "priceValue", "basePrice"):
+        c = from_price_node(pr.get(key))
+        if c is not None and c > 0:
+            return c
+
+    # variants / sizes / skus / productVariants (drinks, etc.)
+    for key in ("variantOptions", "variants", "sizes", "skus", "productSizes", "productVariants"):
+        arr = p.get(key) or []
+        for node in arr:
+            # direct values on the variant
+            for k in ("price", "displayPrice", "priceValue", "basePrice"):
+                c = from_price_node(node.get(k))
+                if c is not None and c > 0:
+                    return c
+            # nested priceData/pricing
+            c = from_price_node((node.get("priceData") or {}).get("value"))
+            if c is not None and c > 0:
+                return c
+            c = from_price_node((node.get("pricing") or {}).get("price"))
+            if c is not None and c > 0:
+                return c
+
+    # price lists
+    for key in ("priceList", "prices", "priceOptions"):
+        pl = p.get(key)
+        if isinstance(pl, list):
+            for item in pl:
+                c = from_price_node(item.get("price") or item.get("displayPrice") or item.get("value"))
+                if c is not None and c > 0:
+                    return c
+        elif isinstance(pl, dict):
+            c = from_price_node(pl.get("price") or pl.get("displayPrice") or pl.get("value"))
+            if c is not None and c > 0:
+                return c
+
+    # last-resort recursive scan for any '*price*' key
+    def deep_scan(node, depth=0) -> Optional[int]:
+        if depth > 6:
+            return None
+        if isinstance(node, dict):
+            for k, v in node.items():
+                if "price" in str(k).lower():
+                    c = from_price_node(v)
+                    if c is not None and c > 0:
+                        return c
+                r = deep_scan(v, depth + 1)
+                if r is not None and r > 0:
+                    return r
+        elif isinstance(node, list):
+            for it in node:
+                r = deep_scan(it, depth + 1)
+                if r is not None and r > 0:
+                    return r
+        return None
+
+    return deep_scan(p)
+
+
+# ---------------- HTTP fetch (v5 -> v4, candidates) ----------------
+def fetch_menu_for_store_any(store_id_raw: str) -> dict:
+    base = "https://www.tacobell.com/tacobellwebservices"
+    candidates = store_id_candidates(store_id_raw)
+    endpoints = [
+        lambda sid: f"{base}/v5/tacobell/products/menu/{sid}?channel=WEB&lang=en&curr=USD",
+        lambda sid: f"{base}/v4/tacobell/products/menu/{sid}",
+    ]
+    for sid in candidates:
+        for mk in endpoints:
+            url = mk(sid)
+            SESSION.headers["Referer"] = f"https://www.tacobell.com/locations/{random.randint(1000,9999)}"
+            try:
+                with hard_deadline(HARD_DEADLINE_SEC):
+                    r = SESSION.get(url, timeout=REQUEST_TIMEOUT)
+                if r.status_code == 403:
+                    warm_cookies()
+                    time.sleep(0.6 + random.random()*0.4)
+                    with hard_deadline(HARD_DEADLINE_SEC):
+                        r = SESSION.get(url, timeout=REQUEST_TIMEOUT)
+                if r.status_code == 404:
+                    continue
+                r.raise_for_status()
+                return r.json()
+            except Exception:
+                continue
+    raise RuntimeError(f"HTTP 404/403 for store {store_id_raw} (all candidates tried)")
+
+# ---------------- Scrape one store ----------------
+def scrape_store(conn: sqlite3.Connection, store_id: str, code_to_cpid: Dict[str, str],
+                 valid_pairs: set, verbose: bool=False, log_misses: bool=False,
+                 dump_for: Optional[str]=None, peek_for: Optional[str]=None) -> Tuple[int,int]:
     sid = sanitize_store_id(store_id)
     if not sid:
         if verbose: print(f"[warn] invalid store_id: {store_id}", flush=True)
         return (0, 0)
 
     try:
-        payload = fetch_menu_for_store(sid)
-    except TimeoutError as te:
-        if verbose: print(f"[timeout] store {sid}: {te}", flush=True)
-        return (0, 0)
+        payload = fetch_menu_for_store_any(sid)
     except Exception as e:
         if verbose: print(f"[error] store {sid}: {e}", flush=True)
         return (0, 0)
 
-    categories = payload.get("menuProductCategories", []) or []
-    now_iso = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
-    wrote_final = 0
-    wrote_stage = 0
+    if dump_for and dump_for == sid:
+        Path(f"dump_{sid}.json").write_text(json.dumps(payload, indent=2), encoding="utf-8")
+        if verbose: print(f"[debug] wrote dump_{sid}.json", flush=True)
 
-    for cat in categories:
+    cats = payload.get("menuProductCategories", []) or []
+    now_iso = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
+    wrote_final = wrote_stage = 0
+    miss_logged = 0
+
+    # quick peek
+    if peek_for and peek_for == sid and cats:
+        printed = 0
+        for cat in cats:
+            for p in (cat.get("products") or []):
+                code = (p.get("code") or "")[:12]
+                name = (p.get("name") or "")[:70]
+                print(f"[peek] code={code} name={name} keys={list(p.keys())[:8]}", flush=True)
+                printed += 1
+                if printed >= 8: break
+            if printed >= 8: break
+
+    for cat in cats:
         for p in (cat.get("products") or []):
             code = (p.get("code") or "").strip()
             if not code:
                 continue
             cents = extract_price_from_product(p)
             if cents is None:
-                # skip if we truly have no price at all
+                if log_misses and miss_logged < 20:
+                    print(f"[miss] {sid} code={code} keys={list(p.keys())}", flush=True)
+                    miss_logged += 1
                 continue
 
             cpid = code_to_cpid.get(code)
@@ -285,37 +407,53 @@ def scrape_store(conn: sqlite3.Connection, store_id: str, code_to_cpid: Dict[str
                 insert_price_staging(conn, sid, code, cents, now_iso)
                 wrote_stage += 1
 
-    # mark store as scraped
     upsert_store_last_scraped(conn, sid, now_iso)
     return (wrote_final, wrote_stage)
 
-# --------------------------
-# CLI
-# --------------------------
+# ---------------- CLI ----------------
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--db", default="macrobell.db")
     ap.add_argument("--store", help="Scrape only this store_id")
-    ap.add_argument("--max-stores", type=int, help="Limit number of stores to process")
-    ap.add_argument("--sleep-min", type=float, default=0.10, help="Min sleep between stores")
-    ap.add_argument("--sleep-max", type=float, default=0.25, help="Max sleep between stores")
+    ap.add_argument("--regions", help="Comma-separated region names (use --list-regions)")
+    ap.add_argument("--exclude-regions", help="Comma-separated region names to exclude")
+    ap.add_argument("--list-regions", action="store_true", help="List regions and store counts, then exit")
+    ap.add_argument("--sleep-min", type=float, default=0.10)
+    ap.add_argument("--sleep-max", type=float, default=0.25)
     ap.add_argument("--verbose", action="store_true")
+    ap.add_argument("--dump-store-json", help="Store ID to dump raw JSON to dump_<id>.json")
+    ap.add_argument("--peek", help="Store ID to print first few product shapes for")
+    ap.add_argument("--log-misses", action="store_true")
     args = ap.parse_args()
 
-    # connect DB and preload mappings
+    include_regions = parse_regions_arg(args.regions)
+    exclude_regions = parse_regions_arg(args.exclude_regions)
+
     conn = connect(args.db)
     try:
         code_to_cpid = load_code_to_canonical(conn)
         valid_pairs = load_store_product_pairs(conn)
+        rows = fetch_store_rows(conn)
+
+        if args.list_regions:
+            summary = list_regions_with_counts(rows)
+            print("Regions and store counts (from current DB):")
+            for name, cnt in summary:
+                print(f"  {name:15s} {cnt:5d}")
+            return
+
+        # Build store list
+        stores = [args.store] if args.store else filter_stores_by_regions(rows, include_regions, exclude_regions)
+        if not stores:
+            print("[warn] no stores to scrape (check regions or stores table).", file=sys.stderr)
+            return
 
         if args.verbose:
             print(f"[info] loaded {len(code_to_cpid)} product_code→canonical mappings", flush=True)
-            print(f"[info] loaded {len(valid_pairs)} store↔product availability pairs", flush=True)
-
-        stores = fetch_store_list(conn, args.store, args.max_stores)
-        if not stores:
-            print("[warn] no stores to scrape (stores table empty?)", file=sys.stderr)
-            return
+            print(f"[info] loaded {len(valid_pairs)} store↔product pairs", flush=True)
+            print(f"[info] scraping {len(stores)} stores", flush=True)
+            if include_regions: print(f"[info] include regions: {', '.join(sorted(include_regions))}", flush=True)
+            if exclude_regions: print(f"[info] exclude regions: {', '.join(sorted(exclude_regions))}", flush=True)
 
         warm_cookies()
 
@@ -323,17 +461,15 @@ def main():
         for i, store_id in enumerate(stores, 1):
             if args.verbose:
                 print(f"[{i}/{len(stores)}] Scraping store {store_id}", flush=True)
-
-            n_final, n_stage = scrape_store(conn, store_id, code_to_cpid, valid_pairs, verbose=args.verbose)
-            conn.commit()  # commit after each store to keep progress durable
-
-            total_final += n_final
-            total_stage += n_stage
-
+            n_final, n_stage = scrape_store(conn, store_id, code_to_cpid, valid_pairs,
+                                            verbose=args.verbose,
+                                            log_misses=args.log_misses,
+                                            dump_for=args.dump_store_json,
+                                            peek_for=args.peek)
+            conn.commit()
+            total_final += n_final; total_stage += n_stage
             if args.verbose:
                 print(f"   -> wrote {n_final} prices, {n_stage} staged", flush=True)
-
-            # polite jitter between stores
             time.sleep(random.uniform(args.sleep_min, args.sleep_max))
 
         print(f"[done] {len(stores)} stores scraped | prices: {total_final} | staged: {total_stage}")
