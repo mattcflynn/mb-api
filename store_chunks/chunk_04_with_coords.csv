@@ -1,0 +1,248 @@
+url,state,city,address_slug,store_id,full_address,zip_code,latitude,longitude
+https://locations.tacobell.com/co/windsor/101-12th-street.html,co,windsor,101-12th-street,041490,"101 12th Street, Windsor, CO 80550",80550,40.4801372,-104.9198274
+https://locations.tacobell.com/co/colorado-springs/450-runway-point.html,co,colorado-springs,450-runway-point,040310,"450 Runway Point, Colorado Springs, CO 80916",80916,38.8021891,-104.7229279
+https://locations.tacobell.com/co/colorado-springs/3521-blue-horizon-view.html,co,colorado-springs,3521-blue-horizon-view,040322,"3521 Blue Horizon View, Colorado Springs, CO 80924",80924,38.9833071,-104.7581357
+https://locations.tacobell.com/co/sterling/1301-west-main-street.html,co,sterling,1301-west-main-street,041770,"1301 West Main Street, Sterling, CO 80751",80751,40.6248201,-103.2319273
+https://locations.tacobell.com/co/highlands-ranch/3984-red-cedar-drive.html,co,highlands-ranch,3984-red-cedar-drive,041775,"3984 Red Cedar Drive, Highlands Ranch, CO 80129",80129,39.5263644,-104.941671
+https://locations.tacobell.com/de/dover/25-jerome-drive.html,de,dover,25-jerome-drive,037077,"25 Jerome Drive, Dover, DE 19901",19901,39.174853,-75.5223689
+https://locations.tacobell.com/dc/washington/808-7th-street-nw.html,dc,washington,808-7th-street-nw,040573,"808 7th Street NW, Washington, DC 20001",20001,38.9000022,-77.022018
+https://locations.tacobell.com/co/arvada/9105-howell-street.html,co,arvada,9105-howell-street,037713,"9105 Howell Street, Arvada, CO 80005",80005,39.8478485,-105.1643468
+https://locations.tacobell.com/dc/washington/625-h-street-ne.html,dc,washington,625-h-street-ne,040994,"625 H Street NE Suite A, Washington, DC 20002",20002,38.9000572,-76.9974581
+https://locations.tacobell.com/dc/washington/1412-u-street-nw.html,dc,washington,1412-u-street-nw,041667,"1412 U Street NW, Washington, DC 20009",20009,38.9168485,-77.032485
+https://locations.tacobell.com/co/denver/3833-w--38th-ave.html,co,denver,3833-w--38th-ave,034914,"3833 w. 38th ave, Denver, CO 80211",80211,39.7696672,-105.0379822
+https://locations.tacobell.com/de/harrington/16680-s--dupont-hwy.html,de,harrington,16680-s--dupont-hwy,034798,"16680 S. Dupont Hwy, Harrington, DE 19952",16680,38.9308446,-75.5659457
+https://locations.tacobell.com/co/grand-junction/2897-north-avenue.html,co,grand-junction,2897-north-avenue,035012,"2897 North Avenue, Grand Junction, CO 81501",81501,39.0770523,-108.5159629
+https://locations.tacobell.com/ct/meriden/467-w-main-st.html,ct,meriden,467-w-main-st,034373,"467 W Main St, Meriden, CT 06451",06451,41.5408809,-72.8189727
+https://locations.tacobell.com/co/wellington/8050-6th-street.html,co,wellington,8050-6th-street,034942,"8050 6th Street, Wellington, CO 80549",80549,40.7016325,-104.9991878
+https://locations.tacobell.com/co/erie/2375-highway-7.html,co,erie,2375-highway-7,035137,"2375 Highway 7, Erie, CO 80516",80516,40.0008234,-105.0156912
+https://locations.tacobell.com/de/claymont/609-naamans-rd.html,de,claymont,609-naamans-rd,K071056,"609 Naamans Rd, Claymont, DE 19703",19703,39.8171769,-75.457236
+https://locations.tacobell.com/de/millsboro/26688-centerview-dr-.html,de,millsboro,26688-centerview-dr-,036033,"26688 Centerview Dr., Millsboro, DE 19966",26688,38.5708488,-75.2874755
+https://locations.tacobell.com/ct/farmington/5-westfarms-mall.html,ct,farmington,5-westfarms-mall,026730,"5 Westfarms Mall, Farmington, CT 06032",06032,41.7239419,-72.76319529999999
+https://locations.tacobell.com/ct/manchester/194-buckland-hills-drive.html,ct,manchester,194-buckland-hills-drive,026786,"194 Buckland Hills Drive, Manchester, CT 06042",06042,41.8075008,-72.5451881
+https://locations.tacobell.com/dc/washington/50-massachusetts-ave-ne.html,dc,washington,50-massachusetts-ave-ne,026658,"50 Massachusetts Ave NE, Washington, DC 20002",20002,38.8977149,-77.0070889
+https://locations.tacobell.com/ct/milldale/1875-meriden-waterbury-turnpike.html,ct,milldale,1875-meriden-waterbury-turnpike,23168,"1875 Meriden Waterbury Turnpike, Milldale, CT 06467",06467,41.564346,-72.9000054
+https://locations.tacobell.com/co/brighton/4765-e--bridge-st-.html,co,brighton,4765-e--bridge-st-,036552,"4765 E. Bridge St., Brighton, CO 80601",80601,39.9872994,-104.7555223
+https://locations.tacobell.com/co/lone-tree/9802-yosemite-street.html,co,lone-tree,9802-yosemite-street,042777,"9802 Yosemite Street, Lone Tree, CO 80124",80124,39.5381135,-104.8854082
+https://locations.tacobell.com/de/smyrna/134-n-dupont-blvd.html,de,smyrna,134-n-dupont-blvd,K071050,"134 N Dupont Blvd, Smyrna, DE 19977",19977,39.3046883,-75.6051019
+https://locations.tacobell.com/co/windsor/6465-crossroads-blvd.html,co,windsor,6465-crossroads-blvd,037090,"6465 crossroads blvd, Windsor, CO 80550",80550,40.4359966,-104.9353635
+https://locations.tacobell.com/ct/milford/1201-boston-post-rd.html,ct,milford,1201-boston-post-rd,023278,"1201 Boston Post Rd, Milford, CT 06460",06460,41.2358503,-73.0357721
+https://locations.tacobell.com/de/camden/344-walmart-drive.html,de,camden,344-walmart-drive,K071091,"344 Walmart Drive, Camden, DE 19934",19934,39.1008597,-75.5438846
+https://locations.tacobell.com/co/colorado-springs/1030-e--stewart-avenue.html,co,colorado-springs,1030-e--stewart-avenue,024036,"1030 E. Stewart Avenue, Colorado Springs, CO 80914",80914,38.8276938,-104.7202914
+https://locations.tacobell.com/ct/trumbull/5065-main-street.html,ct,trumbull,5065-main-street,023894,"5065 Main Street, Trumbull, CT 06611",06611,41.2299031,-73.2256011
+https://locations.tacobell.com/co/fort-collins/1101-central-avenue-mall.html,co,fort-collins,1101-central-avenue-mall,036118,"1101 Central Avenue Mall, Fort Collins, CO 80521",80521,40.5889664,-105.1375908
+https://locations.tacobell.com/ct/norwalk/315-westport-ave.html,ct,norwalk,315-westport-ave,C160042,"315 Westport Ave, Norwalk, CT 06851",06851,41.1255989,-73.3940974
+https://locations.tacobell.com/co/denver/5620-n-beeler-st.html,co,denver,5620-n-beeler-st,036408,"5620 N Beeler St, Denver, CO 80239",80239,39.76654,-104.8797427
+https://locations.tacobell.com/co/thornton/144th-and-washington.html,co,thornton,144th-and-washington,037500,"144th and Washington, Thornton, CO 80023",80023,39.9574623,-104.9784052
+https://locations.tacobell.com/dc/washington/3100-14th-street-nw.html,dc,washington,3100-14th-street-nw,036909,"3100 14th Street NW Ste 103, Washington, DC 20010",20010,38.9295555,-77.0332379
+https://locations.tacobell.com/ct/rocky-hill/1780-silas-deane-highway.html,ct,rocky-hill,1780-silas-deane-highway,037827,"1780 Silas Deane Highway, Rocky Hill, CT 06067",06067,41.6776713,-72.6505983
+https://locations.tacobell.com/co/broomfield/60-w--flatiron-crossing-dr-.html,co,broomfield,60-w--flatiron-crossing-dr-,039657,"60 W. Flatiron Crossing Dr., Broomfield, CO 80021",80021,39.9283902,-105.1345482
+https://locations.tacobell.com/ct/waterbury/224-kukas-lane.html,ct,waterbury,224-kukas-lane,034965,"224 Kukas Lane, Waterbury, CT 06705",06705,41.5372386,-73.0038627
+https://locations.tacobell.com/co/lafayette/2960-arapahoe-rd.html,co,lafayette,2960-arapahoe-rd,038772,"2960 Arapahoe Rd, Lafayette, CO 80026",80026,40.0133567,-105.1021931
+https://locations.tacobell.com/co/colorado-springs/13014-touchstone-view.html,co,colorado-springs,13014-touchstone-view,038844,"13014 Touchstone View, Colorado Springs, CO 80921",13014,39.0231263,-104.818206
+https://locations.tacobell.com/co/denver/1600-glenarm-place.html,co,denver,1600-glenarm-place,039656,"1600 Glenarm Place, Denver, CO 80205",80205,39.7439701,-104.9897529
+https://locations.tacobell.com/co/grand-junction/2674-tracy-ann-road.html,co,grand-junction,2674-tracy-ann-road,040115,"2674 Tracy Ann Road, Grand Junction, CO 81503",81503,39.0443182,-108.5572364
+https://locations.tacobell.com/co/pueblo-west/99-s-mcculloch-blvd.html,co,pueblo-west,99-s-mcculloch-blvd,037403,"99 S McCulloch Blvd, Pueblo West, CO 81007",81007,38.333505,-104.74516
+https://locations.tacobell.com/ct/waterbury/973-wolcott-street.html,ct,waterbury,973-wolcott-street,029324,"973 Wolcott Street, Waterbury, CT 06705",06705,41.5679798,-73.0070082
+https://locations.tacobell.com/ct/branford/960-w-main-st.html,ct,branford,960-w-main-st,029320,"960 W Main St, Branford, CT 06405",06405,41.2762543,-72.8342777
+https://locations.tacobell.com/co/castle-rock/95-rio-grande.html,co,castle-rock,95-rio-grande,036111,"95 Rio Grande, Castle Rock, CO 80104",80104,39.3641364,-104.8617224
+https://locations.tacobell.com/ct/wallingford/932-n-colony-road.html,ct,wallingford,932-n-colony-road,029303,"932 N Colony Road, Wallingford, CT 06492",06492,41.4850265,-72.8087555
+https://locations.tacobell.com/co/arvada/9200-ralston-road.html,co,arvada,9200-ralston-road,E720232,"9200 Ralston Road, Arvada, CO 80002",80002,39.801672,-105.1005899
+https://locations.tacobell.com/co/brighton/920-bridge-st.html,co,brighton,920-bridge-st,033842,"920 Bridge St, Brighton, CO 80601",80601,39.9865329,-104.810698
+https://locations.tacobell.com/ct/orange/89-boston-post-rd.html,ct,orange,89-boston-post-rd,029327,"89 Boston Post Rd, Orange, CT 06477",06477,41.2771774,-72.989611
+https://locations.tacobell.com/co/arvada/8760-wadsworth-blvd-.html,co,arvada,8760-wadsworth-blvd-,033858,"8760 Wadsworth Blvd., Arvada, CO 80003",80003,39.8554437,-105.0811053
+https://locations.tacobell.com/co/greenwood-village/8695-e-arapahoe-rd.html,co,greenwood-village,8695-e-arapahoe-rd,033850,"8695 E Arapahoe Rd, Greenwood Village, CO 80112",80112,39.5953657,-104.8882855
+https://locations.tacobell.com/co/frisco/865-summit-blvd-.html,co,frisco,865-summit-blvd-,021443,"865 Summit Blvd., Frisco, CO 80443",80443,39.5877443,-106.0941487
+https://locations.tacobell.com/ct/windsor-locks/86-ella-grasso-turnpike.html,ct,windsor-locks,86-ella-grasso-turnpike,029313,"86 Ella Grasso Turnpike, Windsor Locks, CT 06096",06096,41.9211906,-72.6711673
+https://locations.tacobell.com/ct/middletown/851-washington-st.html,ct,middletown,851-washington-st,029328,"851 Washington St, Middletown, CT 06457",06457,41.554058,-72.6808576
+https://locations.tacobell.com/co/littleton/8500-w-crestline.html,co,littleton,8500-w-crestline,004438,"8500 W Crestline Unit 8, Littleton, CO 80123",80123,39.6171538,-105.0918876
+https://locations.tacobell.com/co/grand-junction/850-north-ave.html,co,grand-junction,850-north-ave,000951,"850 North Ave, Grand Junction, CO 81501",81501,39.0776557,-108.5584435
+https://locations.tacobell.com/co/thornton/8401-washington-st.html,co,thornton,8401-washington-st,033870,"8401 Washington St, Thornton, CO 80229",80229,39.8495559,-104.9785
+https://locations.tacobell.com/ct/danbury/84-newtown-rd.html,ct,danbury,84-newtown-rd,039056,"84 Newtown Rd, Danbury, CT 06810",06810,41.4105847,-73.4134507
+https://locations.tacobell.com/co/englewood/8220-s--quebec.html,co,englewood,8220-s--quebec,003186,"8220 S. Quebec, Englewood, CO 80112",80112,39.5674854,-104.9038907
+https://locations.tacobell.com/co/littleton/8164-s--kipling-parkway.html,co,littleton,8164-s--kipling-parkway,E720443,"8164 S. Kipling Parkway, Littleton, CO 80127",80127,39.5683489,-105.1095651
+https://locations.tacobell.com/co/littleton/7911-s-broadway.html,co,littleton,7911-s-broadway,004078,"7911 S Broadway, Littleton, CO 80122",80122,39.5721242,-104.9890431
+https://locations.tacobell.com/co/eagle/774-chambers-avenue-.html,co,eagle,774-chambers-avenue-,022348,"774 Chambers Avenue., Eagle, CO 81631",81631,39.6615739,-106.821287
+https://locations.tacobell.com/ct/meriden/760-e-main-st-.html,ct,meriden,760-e-main-st-,029306,"760 E Main St., Meriden, CT 06450",06450,41.5294966,-72.777836
+https://locations.tacobell.com/ct/stamford/751-east-main-street.html,ct,stamford,751-east-main-street,039075,"751 East Main Street, Stamford, CT 06902",06902,41.0553388,-73.5308682
+https://locations.tacobell.com/co/colorado-springs/745-cheyenne-meadows-road.html,co,colorado-springs,745-cheyenne-meadows-road,037399,"745 Cheyenne Meadows Road, Colorado Springs, CO 80906",80906,38.7766489,-104.8137334
+https://locations.tacobell.com/co/grand-junction/736-horizon-dr.html,co,grand-junction,736-horizon-dr,005011,"736 Horizon Dr, Grand Junction, CO 81506",81506,39.1106381,-108.5403149
+https://locations.tacobell.com/co/denver/7221-pecos-st-.html,co,denver,7221-pecos-st-,033836,"7221 Pecos St., Denver, CO 80221",80221,39.7825246,-105.0064193
+https://locations.tacobell.com/co/rifle/721-smith-street.html,co,rifle,721-smith-street,023263,"721 Smith Street, Rifle, CO 81650",81650,39.5220785,-107.775364
+https://locations.tacobell.com/co/denver/7150-leetsdale-drive.html,co,denver,7150-leetsdale-drive,033860,"7150 Leetsdale Drive Unit J, Denver, CO 80224",80224,39.6987927,-104.9052291
+https://locations.tacobell.com/ct/southington/709-queen-st.html,ct,southington,709-queen-st,029304,"709 Queen St, Southington, CT 06489",06489,41.6358608,-72.8733327
+https://locations.tacobell.com/co/craig/707-west-victory-way.html,co,craig,707-west-victory-way,C750086,"707 West Victory Way, Craig, CO 81625",81625,40.514282,-107.5558777
+https://locations.tacobell.com/co/pueblo/703-n-santa-fe.html,co,pueblo,703-n-santa-fe,037409,"703 N Santa Fe, Pueblo, CO 81003",81003,38.2735809,-104.6072032
+https://locations.tacobell.com/co/greeley/6910-10th-st.html,co,greeley,6910-10th-st,033877,"6910 10th St, Greeley, CO 80634",80634,40.4209587,-104.7919772
+https://locations.tacobell.com/co/fountain/6905-mesa-ridge-parkway.html,co,fountain,6905-mesa-ridge-parkway,037411,"6905 Mesa Ridge Parkway, Fountain, CO 80817",80817,38.7180978,-104.6991931
+https://locations.tacobell.com/co/delta/674-stafford-lane.html,co,delta,674-stafford-lane,036772,"674 Stafford Lane, Delta, CO 81416",81416,38.7519868,-108.0502614
+https://locations.tacobell.com/co/fountain/6610-camden-blvd.html,co,fountain,6610-camden-blvd,037410,"6610 Camden Blvd, Fountain, CO 80817",80817,38.7424555,-104.7373775
+https://locations.tacobell.com/co/denver/6460-e-yale-ave.html,co,denver,6460-e-yale-ave,005599,"6460 E Yale Ave Unit B, Denver, CO 80222",80222,39.667319,-104.914208
+https://locations.tacobell.com/co/colorado-springs/6425-source-center-point.html,co,colorado-springs,6425-source-center-point,037413,"6425 Source Center Point, Colorado Springs, CO 80923",80923,38.9259596,-104.7215116
+https://locations.tacobell.com/co/arvada/6390-sheridan-blvd.html,co,arvada,6390-sheridan-blvd,020924,"6390 Sheridan Blvd, Arvada, CO 80003",80003,39.8124674,-105.052626
+https://locations.tacobell.com/co/aurora/6350-south-parker-road.html,co,aurora,6350-south-parker-road,020537,"6350 South Parker Road, Aurora, CO 80016",80016,39.6013714,-104.8052104
+https://locations.tacobell.com/co/steamboat-springs/625-snapdragon-way.html,co,steamboat-springs,625-snapdragon-way,C750085,"625 Snapdragon Way, Steamboat Springs, CO 80477",80477,40.460132,-106.819815
+https://locations.tacobell.com/ct/dayville/601-hartford-pike.html,ct,dayville,601-hartford-pike,029870,"601 Hartford Pike, Dayville, CT 06241",06241,41.8430386,-71.8811501
+https://locations.tacobell.com/co/fruita/599-kokopelli-blvd-.html,co,fruita,599-kokopelli-blvd-,023390,"599 Kokopelli Blvd., Fruita, CO 81521",81521,39.1511407,-108.7376662
+https://locations.tacobell.com/de/middletown/582-middletown-warwick-rd.html,de,middletown,582-middletown-warwick-rd,040061,"582 Middletown Warwick Rd, Middletown, DE 19709",19709,39.4504043,-75.724194
+https://locations.tacobell.com/ct/danielson/578-providence-rd-.html,ct,danielson,578-providence-rd-,E685064,"578 Providence Rd., Danielson, CT 06239",06239,41.8020885,-71.8873761
+https://locations.tacobell.com/co/colorado-springs/5650-north-academy-blvd.html,co,colorado-springs,5650-north-academy-blvd,037400,"5650 North Academy Blvd, Colorado Springs, CO 80918",80918,38.9128829,-104.7886382
+https://locations.tacobell.com/co/littleton/5572-s--broadway.html,co,littleton,5572-s--broadway,005716,"5572 S. Broadway, Littleton, CO 80121",80121,39.615559,-104.9879295
+https://locations.tacobell.com/co/northglenn/555-w--104th-ave-.html,co,northglenn,555-w--104th-ave-,033838,"555 W. 104th Ave., Northglenn, CO 80234",80234,39.8856569,-104.994221
+https://locations.tacobell.com/co/broomfield/550-alter-street.html,co,broomfield,550-alter-street,033841,"550 Alter Street, Broomfield, CO 80020",80020,39.9244008,-105.0914631
+https://locations.tacobell.com/ct/milford/543-bridgeport-ave.html,ct,milford,543-bridgeport-ave,029316,"543 Bridgeport Ave, Milford, CT 06460",06460,41.2068454,-73.0879303
+https://locations.tacobell.com/co/englewood/540-west-hampden-avenue.html,co,englewood,540-west-hampden-avenue,033857,"540 West Hampden Avenue, Englewood, CO 80110",80110,39.6529153,-104.9942933
+https://locations.tacobell.com/co/arvada/5325-west-80th-ave.html,co,arvada,5325-west-80th-ave,033869,"5325 West 80th Ave, Arvada, CO 80003",80003,39.8422468,-105.055327
+https://locations.tacobell.com/co/arvada/5260-wadsworth-bypass.html,co,arvada,5260-wadsworth-bypass,033854,"5260 Wadsworth Bypass, Arvada, CO 80002",80002,39.792237,-105.0803251
+https://locations.tacobell.com/co/denver/5225-e-colfax-ave.html,co,denver,5225-e-colfax-ave,004051,"5225 E Colfax Ave, Denver, CO 80220",80220,39.7404559,-104.9260889
+https://locations.tacobell.com/co/denver/5050-s-quebec.html,co,denver,5050-s-quebec,004375,"5050 S Quebec, Denver, CO 80237",80237,39.6249204,-104.9037034
+https://locations.tacobell.com/co/littleton/5041-s--jellison-way.html,co,littleton,5041-s--jellison-way,033843,"5041 S. Jellison Way, Littleton, CO 80123",80123,39.545928,-105.1086046
+https://locations.tacobell.com/co/colorado-springs/502-garden-of-the-gods-road.html,co,colorado-springs,502-garden-of-the-gods-road,037398,"502 Garden Of The Gods Road, Colorado Springs, CO 80907",80907,38.8765219,-104.8833467
+https://locations.tacobell.com/co/woodland-park/500-e-midland-ave.html,co,woodland-park,500-e-midland-ave,037404,"500 E Midland Ave, Woodland Park, CO 80863",80863,38.9942934,-105.0583679
+https://locations.tacobell.com/co/johnstown/50-telep-ave.html,co,johnstown,50-telep-ave,036114,"50 Telep Ave, Johnstown, CO 80534",80534,40.335495,-104.9244668
+https://locations.tacobell.com/co/commerce-city/4901-east-60th-ave.html,co,commerce-city,4901-east-60th-ave,033856,"4901 East 60th Ave, Commerce City, CO 80022",80022,39.8059818,-104.9302457
+https://locations.tacobell.com/ct/hartford/485-flatbush-ave-.html,ct,hartford,485-flatbush-ave-,029250,"485 Flatbush Ave., Hartford, CT 06106",06106,41.7424783,-72.7123306
+https://locations.tacobell.com/co/wheat-ridge/4795-kipling-st-.html,co,wheat-ridge,4795-kipling-st-,033863,"4795 Kipling St., Wheat Ridge, CO 80033",80033,39.7833293,-105.1101977
+https://locations.tacobell.com/co/timnath/4645-weitzel-street.html,co,timnath,4645-weitzel-street,036116,"4645 Weitzel Street, Timnath, CO 80547",80547,40.5225215,-104.9894353
+https://locations.tacobell.com/co/greeley/4638-centerplace-drive.html,co,greeley,4638-centerplace-drive,033872,"4638 Centerplace Drive, Greeley, CO 80634",80634,40.3946666,-104.7556048
+https://locations.tacobell.com/co/walsenburg/457-a-us-highway-85-87.html,co,walsenburg,457-a-us-highway-85-87,J188004,"457-A US Highway 85-87, Walsenburg, CO 81089",81089,37.6435201,-104.7898847
+https://locations.tacobell.com/co/lafayette/450-w-south-boulder-rd.html,co,lafayette,450-w-south-boulder-rd,003612,"450 W South Boulder Rd, Lafayette, CO 80026",80026,39.9865433,-105.0949597
+https://locations.tacobell.com/ct/norwich/45-salem-turnpike.html,ct,norwich,45-salem-turnpike,E685063,"45 Salem Turnpike, Norwich, CT 06360",06360,41.5140562,-72.1084066
+https://locations.tacobell.com/co/denver/4480-n-peoria-street.html,co,denver,4480-n-peoria-street,033876,"4480 N Peoria Street, Denver, CO 80239",80239,39.7771581,-104.8466704
+https://locations.tacobell.com/co/denver/447-south-broadway.html,co,denver,447-south-broadway,016230,"447 South Broadway, Denver, CO 80209",80209,39.7086819,-104.9879289
+https://locations.tacobell.com/co/monument/441-highway-105.html,co,monument,441-highway-105,036108,"441 Highway 105, Monument, CO 80132",80132,39.0931185,-104.8533466
+https://locations.tacobell.com/de/wilmington/4302-kirkwood-hwy.html,de,wilmington,4302-kirkwood-hwy,002170,"4302 Kirkwood Hwy, Wilmington, DE 19808",19808,39.7275308,-75.6497816
+https://locations.tacobell.com/co/colorado-springs/4195-n-academy.html,co,colorado-springs,4195-n-academy,037393,"4195 N Academy, Colorado Springs, CO 80918",80918,38.8925338,-104.7564141
+https://locations.tacobell.com/co/denver/4105-chambers-road.html,co,denver,4105-chambers-road,022091,"4105 Chambers Road, Denver, CO 80239",80239,39.7735826,-104.8106316
+https://locations.tacobell.com/co/fort-collins/4100-s--college-ave-.html,co,fort-collins,4100-s--college-ave-,033862,"4100 S. College Ave., Fort Collins, CO 80525",80525,40.5300208,-105.0765464
+https://locations.tacobell.com/ct/east-windsor/41-prospect-hill-rd-.html,ct,east-windsor,41-prospect-hill-rd-,029318,"41 Prospect Hill Rd., East Windsor, CT 06088",06088,41.9183557,-72.6107891
+https://locations.tacobell.com/co/colorado-springs/405-e--platte-avenue.html,co,colorado-springs,405-e--platte-avenue,037392,"405 E. Platte Avenue, Colorado Springs, CO 80903",80903,38.8376652,-104.8172902
+https://locations.tacobell.com/ct/new-london/404-colman-st.html,ct,new-london,404-colman-st,029308,"404 Colman St, New London, CT 06320",06320,41.359993,-72.1163668
+https://locations.tacobell.com/ct/danbury/392-main-st.html,ct,danbury,392-main-st,039051,"392 Main St, Danbury, CT 06810",06810,41.4020762,-73.4594621
+https://locations.tacobell.com/de/wilmington/3902-concord-pke.html,de,wilmington,3902-concord-pke,002035,"3902 Concord Pke, Wilmington, DE 19803",19803,39.8070019,-75.54911799999999
+https://locations.tacobell.com/co/thornton/3901-e-120th-ave.html,co,thornton,3901-e-120th-ave,033846,"3901 E 120th Ave, Thornton, CO 80233",80233,39.9137058,-104.941771
+https://locations.tacobell.com/co/colorado-springs/390-n-union-blvd.html,co,colorado-springs,390-n-union-blvd,037414,"390 N Union Blvd, Colorado Springs, CO 80909",80909,38.8384541,-104.7943019
+https://locations.tacobell.com/co/longmont/3818-state-highway-119.html,co,longmont,3818-state-highway-119,003768,"3818 State Highway 119, Longmont, CO 80501",80501,40.1602117,-104.9827049
+https://locations.tacobell.com/de/newark/379-e-chestnut-hill-plaza-rd.html,de,newark,379-e-chestnut-hill-plaza-rd,005181,"379 E Chestnut Hill Plaza Rd, Newark, DE 19713",19713,39.66192119999999,-75.7244288
+https://locations.tacobell.com/co/aurora/3554-s-tower-road.html,co,aurora,3554-s-tower-road,020357,"3554 S Tower Road, Aurora, CO 80013",80013,39.6518241,-104.771902
+https://locations.tacobell.com/ct/new-haven/355-foxon-blvd.html,ct,new-haven,355-foxon-blvd,029314,"355 Foxon Blvd, New Haven, CT 06513",06513,41.3205347,-72.873936
+https://locations.tacobell.com/co/greeley/3503-w-10th-st.html,co,greeley,3503-w-10th-st,033859,"3503 W 10th St, Greeley, CO 80634",80634,40.4229093,-104.7168512
+https://locations.tacobell.com/co/denver/350-south-federal-blvd.html,co,denver,350-south-federal-blvd,018776,"350 South Federal Blvd, Denver, CO 80219",80219,39.7100759,-105.024764
+https://locations.tacobell.com/co/colorado-springs/3436-research-parkway-blvd.html,co,colorado-springs,3436-research-parkway-blvd,037408,"3436 Research Parkway Blvd, Colorado Springs, CO 80920",80920,38.957388,-104.7680166
+https://locations.tacobell.com/co/pueblo/3333-north-elizabeth.html,co,pueblo,3333-north-elizabeth,037405,"3333 North Elizabeth, Pueblo, CO 81008",81008,38.3051372,-104.6151099
+https://locations.tacobell.com/co/aurora/3259-south-parker-road.html,co,aurora,3259-south-parker-road,033864,"3259 South Parker Road, Aurora, CO 80014",80014,39.6589927,-104.8489531
+https://locations.tacobell.com/co/boulder/3255-28th-street.html,co,boulder,3255-28th-street,033866,"3255 28th Street, Boulder, CO 80301",80301,40.0336771,-105.2590967
+https://locations.tacobell.com/co/colorado-springs/325-east-fillmore-street.html,co,colorado-springs,325-east-fillmore-street,037401,"325 East Fillmore Street, Colorado Springs, CO 80907",80907,38.8738639,-104.816511
+https://locations.tacobell.com/co/clifton/3231-i-70-business-loop.html,co,clifton,3231-i-70-business-loop,018160,"3231 I-70 Business Loop, Clifton, CO 81520",81520,39.0903457,-108.4541792
+https://locations.tacobell.com/co/denver/3110-south-sheridan.html,co,denver,3110-south-sheridan,E720351,"3110 South Sheridan, Denver, CO 80227",80227,39.6553046,-105.0526448
+https://locations.tacobell.com/co/evergreen/30850-stagecoach.html,co,evergreen,30850-stagecoach,036109,"30850 Stagecoach, Evergreen, CO 80439",30850,39.6520375,-105.3471398
+https://locations.tacobell.com/ct/bridgeport/308-lindley-st.html,ct,bridgeport,308-lindley-st,030472,"308 Lindley St, Bridgeport, CT 06606",06606,41.1964879,-73.1927109
+https://locations.tacobell.com/co/wheat-ridge/3050-youngfield-st.html,co,wheat-ridge,3050-youngfield-st,004264,"3050 Youngfield St, Wheat Ridge, CO 80215",80215,39.7590895,-105.1425754
+https://locations.tacobell.com/co/colorado-springs/3029-west-colorado-avenue.html,co,colorado-springs,3029-west-colorado-avenue,037395,"3029 West Colorado Avenue, Colorado Springs, CO 80904",80904,38.8523626,-104.8717104
+https://locations.tacobell.com/co/pueblo/301-e-abriendo-ave.html,co,pueblo,301-e-abriendo-ave,037391,"301 E Abriendo Ave, Pueblo, CO 81004",81004,38.257594,-104.61882
+https://locations.tacobell.com/co/colorado-springs/2935-hancock-expressway.html,co,colorado-springs,2935-hancock-expressway,037412,"2935 Hancock Expressway, Colorado Springs, CO 80916",80916,38.7894286,-104.7565259
+https://locations.tacobell.com/co/durango/2902-n-main.html,co,durango,2902-n-main,041190,"2902 N Main, Durango, CO 81301",81301,37.2793959,-107.878339
+https://locations.tacobell.com/co/denver/2815-colorado-boulevard.html,co,denver,2815-colorado-boulevard,E720222,"2815 Colorado Boulevard, Denver, CO 80207",80207,39.7568369,-104.940847
+https://locations.tacobell.com/co/la-junta/27980-frontage-rd.html,co,la-junta,27980-frontage-rd,037415,"27980 Frontage Rd, La Junta, CO 81050",27980,37.9903266,-103.5674992
+https://locations.tacobell.com/ct/waterbury/276-chase-ave-.html,ct,waterbury,276-chase-ave-,029309,"276 Chase Ave., Waterbury, CT 06704",06704,41.5813052,-73.0335516
+https://locations.tacobell.com/co/littleton/2717-w-bellview-ave.html,co,littleton,2717-w-bellview-ave,033873,"2717 W Bellview Ave, Littleton, CO 80123",80123,39.6244964,-105.0212464
+https://locations.tacobell.com/ct/east-hartford/268-silver-lane-road.html,ct,east-hartford,268-silver-lane-road,029242,"268 Silver Lane Road, East Hartford, CT 06118",06118,41.7623703,-72.63274
+https://locations.tacobell.com/co/aurora/25531-e--smoky-hill-rd-.html,co,aurora,25531-e--smoky-hill-rd-,030502,"25531 E. Smoky Hill Rd., Aurora, CO 80016",25531,39.5889139,-104.6893393
+https://locations.tacobell.com/ct/canton/250-albany-turnpike.html,ct,canton,250-albany-turnpike,029319,"250 Albany Turnpike, Canton, CT 06019",06019,41.8287579,-72.9019565
+https://locations.tacobell.com/co/boulder/2450-baseline-rd-.html,co,boulder,2450-baseline-rd-,033852,"2450 Baseline Rd., Boulder, CO 80305",80305,39.9997412,-105.2623508
+https://locations.tacobell.com/co/greeley/2450-8th-avenue.html,co,greeley,2450-8th-avenue,033868,"2450 8th Avenue, Greeley, CO 80631",80631,40.3979827,-104.6907623
+https://locations.tacobell.com/co/alamosa/2435-main-street.html,co,alamosa,2435-main-street,032052,"2435 Main Street Lot 4B-2, Alamosa, CO 81101",81101,37.4750242,-105.8932658
+https://locations.tacobell.com/co/grand-junction/2428-highway-6.html,co,grand-junction,2428-highway-6,002080,"2428 Highway 6, Grand Junction, CO 81505",81505,39.0774612,-108.5369425
+https://locations.tacobell.com/de/dover/241-s--dupont-hwy.html,de,dover,241-s--dupont-hwy,024759,"241 S. Dupont Hwy, Dover, DE 19901",19901,39.1607894,-75.5123787
+https://locations.tacobell.com/co/limon/2395-6th-street.html,co,limon,2395-6th-street,031695,"2395 6th Street, Limon, CO 80828",80828,39.2693571,-103.7100439
+https://locations.tacobell.com/co/elizabeth/2350-legacy-circle.html,co,elizabeth,2350-legacy-circle,036115,"2350 Legacy Circle, Elizabeth, CO 80107",80107,39.3609952,-104.6195784
+https://locations.tacobell.com/de/seaford/23475-sussex-hwy-.html,de,seaford,23475-sussex-hwy-,039967,"23475 Sussex Hwy., Seaford, DE 19973",23475,38.6533718,-75.5937295
+https://locations.tacobell.com/ct/hamden/2320-dixwell-ave-.html,ct,hamden,2320-dixwell-ave-,029322,"2320 Dixwell Ave., Hamden, CT 06514",06514,41.3730984,-72.9171673
+https://locations.tacobell.com/co/longmont/2220-main-street.html,co,longmont,2220-main-street,033840,"2220 Main Street, Longmont, CO 80501",80501,40.1983716,-105.1019436
+https://locations.tacobell.com/co/aurora/21865-e--quincy-ave-.html,co,aurora,21865-e--quincy-ave-,032400,"21865 E. Quincy Ave., Aurora, CO 80018",21865,39.6389252,-104.7342043
+https://locations.tacobell.com/co/castle-rock/217-metzler-drive.html,co,castle-rock,217-metzler-drive,036110,"217 Metzler Drive, Castle Rock, CO 80104",80104,39.4102139,-104.859966
+https://locations.tacobell.com/co/brighton/2121-prairie-center-pkwy-.html,co,brighton,2121-prairie-center-pkwy-,033874,"2121 Prairie Center Pkwy., Brighton, CO 80601",80601,39.9560774,-104.7770361
+https://locations.tacobell.com/co/trinidad/212-nevada-avenue.html,co,trinidad,212-nevada-avenue,C975071,"212 Nevada Avenue, Trinidad, CO 81082",81082,37.1698425,-104.5097748
+https://locations.tacobell.com/co/denver/2097-s-sheridan.html,co,denver,2097-s-sheridan,003155,"2097 S Sheridan, Denver, CO 80227",80227,39.6793112,-105.0533686
+https://locations.tacobell.com/co/montrose/2050-s-townsend.html,co,montrose,2050-s-townsend,036770,"2050 S Townsend, Montrose, CO 81401",81401,38.4639238,-107.8667152
+https://locations.tacobell.com/ct/ansonia/205-division-street.html,ct,ansonia,205-division-street,029311,"205 Division Street, Ansonia, CT 06401",06401,41.3315667,-73.0803186
+https://locations.tacobell.com/co/longmont/2010-ken-pratt-blvd-.html,co,longmont,2010-ken-pratt-blvd-,033848,"2010 Ken Pratt Blvd., Longmont, CO 80501",80501,40.1448408,-105.126699
+https://locations.tacobell.com/co/broomfield/2005-w-136th-ave.html,co,broomfield,2005-w-136th-ave,027370,"2005 W 136th Ave, Broomfield, CO 80023",80023,39.9435869,-105.0115757
+https://locations.tacobell.com/co/glenwood-springs/2002-grand-ave.html,co,glenwood-springs,2002-grand-ave,002613,"2002 Grand Ave, Glenwood Springs, CO 81601",81601,39.5319468,-107.3249317
+https://locations.tacobell.com/ct/new-britain/20-e-main-st.html,ct,new-britain,20-e-main-st,029256,"20 E Main St, New Britain, CT 06051",06051,41.6706223,-72.7807999
+https://locations.tacobell.com/co/denver/1998-s--federal-blvd-.html,co,denver,1998-s--federal-blvd-,033837,"1998 S. Federal Blvd., Denver, CO 80219",80219,39.6808264,-105.0245726
+https://locations.tacobell.com/ct/groton/195-route-12.html,ct,groton,195-route-12,029312,"195 Route 12, Groton, CT 06340",06340,41.3677152,-72.0702564
+https://locations.tacobell.com/co/edgewater/1911-sheridan-blvd.html,co,edgewater,1911-sheridan-blvd,033855,"1911 Sheridan Blvd, Edgewater, CO 80214",80214,39.7514315,-105.0532469
+https://locations.tacobell.com/de/rehoboth-beach/19010-coastal-hwy.html,de,rehoboth-beach,19010-coastal-hwy,039975,"19010 Coastal Hwy, Rehoboth Beach, DE 19971",19010,38.7290958,-75.1313494
+https://locations.tacobell.com/ct/cromwell/19-shunpike-road.html,ct,cromwell,19-shunpike-road,029302,"19 Shunpike Road, Cromwell, CT 06416",06416,41.6001404,-72.6772021
+https://locations.tacobell.com/co/denver/18641-green-valley-ranch-blvd.html,co,denver,18641-green-valley-ranch-blvd,023851,"18641 Green Valley Ranch Blvd, Denver, CO 80249",18641,39.7841573,-104.7684173
+https://locations.tacobell.com/ct/berlin/18-wilbur-cross-hwy.html,ct,berlin,18-wilbur-cross-hwy,029315,"18 Wilbur Cross Hwy, Berlin, CT 06037",06037,41.6487887,-72.7300245
+https://locations.tacobell.com/ct/enfield/18-hazard-ave.html,ct,enfield,18-hazard-ave,029301,"18 Hazard Ave, Enfield, CT 06082",06082,41.9893445,-72.5811443
+https://locations.tacobell.com/ct/torrington/1795-east-main-street.html,ct,torrington,1795-east-main-street,029325,"1795 East Main Street, Torrington, CT 06790",06790,41.821359,-73.0801771
+https://locations.tacobell.com/co/golden/17764-s-golden-rd.html,co,golden,17764-s-golden-rd,002542,"17764 S Golden Rd, Golden, CO 80401",17764,39.743134,-105.2023549
+https://locations.tacobell.com/co/denver/1775-e--colfax-ave-.html,co,denver,1775-e--colfax-ave-,033851,"1775 E. Colfax Ave., Denver, CO 80218",80218,39.7403006,-104.9664292
+https://locations.tacobell.com/ct/new-milford/177-danbury-rd.html,ct,new-milford,177-danbury-rd,029307,"177 Danbury Rd, New Milford, CT 06776",06776,41.5500081,-73.4178181
+https://locations.tacobell.com/co/colorado-springs/1750-n-powers-blvd.html,co,colorado-springs,1750-n-powers-blvd,037402,"1750 N Powers Blvd, Colorado Springs, CO 80915",80915,38.8576868,-104.7208159
+https://locations.tacobell.com/co/pueblo/1717-south-pueblo-blvd.html,co,pueblo,1717-south-pueblo-blvd,037397,"1717 South Pueblo Blvd, Pueblo, CO 81005",81005,38.2371344,-104.6628721
+https://locations.tacobell.com/co/parker/16950-e--lincoln-avenue.html,co,parker,16950-e--lincoln-avenue,021392,"16950 E. Lincoln Avenue, Parker, CO 80134",16950,39.5335245,-104.7922636
+https://locations.tacobell.com/co/aurora/16931-e-iliff.html,co,aurora,16931-e-iliff,002528,"16931 E Iliff, Aurora, CO 80013",16931,39.6741061,-104.7900006
+https://locations.tacobell.com/co/aurora/16776-east-smokey-hill-road.html,co,aurora,16776-east-smokey-hill-road,015856,"16776 East Smokey Hill Road, Aurora, CO 80015",16776,39.6255207,-104.7919098
+https://locations.tacobell.com/ct/plainville/167-new-britain-avenue.html,ct,plainville,167-new-britain-avenue,029251,"167 New Britain Avenue, Plainville, CT 06062",06062,41.6780256,-72.8457652
+https://locations.tacobell.com/co/loveland/1650-foxtrail-dr-.html,co,loveland,1650-foxtrail-dr-,E720413,"1650 Foxtrail Dr., Loveland, CO 80538",80538,40.4084548,-105.0017714
+https://locations.tacobell.com/co/lakewood/165-s-sheridan-blvd.html,co,lakewood,165-s-sheridan-blvd,033849,"165 S Sheridan Blvd, Lakewood, CO 80226",80226,39.7135114,-105.0537036
+https://locations.tacobell.com/co/aurora/1607-s-havana-st.html,co,aurora,1607-s-havana-st,033853,"1607 S Havana St, Aurora, CO 80012",80012,39.6869126,-104.8665851
+https://locations.tacobell.com/co/commerce-city/15450-e-104th-ave.html,co,commerce-city,15450-e-104th-ave,028416,"15450 E 104th Ave, Commerce City, CO 80022",15450,39.884821,-104.8080285
+https://locations.tacobell.com/co/fort-collins/1530-s-college-ave.html,co,fort-collins,1530-s-college-ave,033839,"1530 S College Ave, Fort Collins, CO 80524",80524,40.5676233,-105.0765202
+https://locations.tacobell.com/co/fort-collins/1527-w--elizabeth-st-.html,co,fort-collins,1527-w--elizabeth-st-,033844,"1527 W. Elizabeth St., Fort Collins, CO 80521",80521,40.5742183,-105.103939
+https://locations.tacobell.com/ct/manchester/1524-pleasant-valley-rd-.html,ct,manchester,1524-pleasant-valley-rd-,029244,"1524 Pleasant Valley Rd., Manchester, CT 06042",06042,41.8072236,-72.5562953
+https://locations.tacobell.com/co/aurora/15160-e-mississippi.html,co,aurora,15160-e-mississippi,002323,"15160 E Mississippi, Aurora, CO 80012",15160,39.6963036,-104.8113189
+https://locations.tacobell.com/co/colorado-springs/1507-s-nevada-ave.html,co,colorado-springs,1507-s-nevada-ave,037390,"1507 S Nevada Ave, Colorado Springs, CO 80906",80906,38.812304,-104.8218972
+https://locations.tacobell.com/co/lakewood/1505-s-kipling-pkwy.html,co,lakewood,1505-s-kipling-pkwy,033845,"1505 S Kipling Pkwy, Lakewood, CO 80232",80232,39.6902893,-105.1177445
+https://locations.tacobell.com/de/bear/1501-governors-place.html,de,bear,1501-governors-place,004640,"1501 Governor's Place, Bear, DE 19701",19701,39.6329113,-75.66165149999999
+https://locations.tacobell.com/ct/milford/1463-boston-post-rd.html,ct,milford,1463-boston-post-rd,029310,"1463 Boston Post Rd, Milford, CT 06460",06460,41.2424201,-73.0312691
+https://locations.tacobell.com/co/aurora/14551-e-colfax.html,co,aurora,14551-e-colfax,023963,"14551 E Colfax, Aurora, CO 80011",14551,39.74073,-104.8185314
+https://locations.tacobell.com/co/colorado-springs/1380-n-academy-blvd.html,co,colorado-springs,1380-n-academy-blvd,037394,"1380 N Academy Blvd, Colorado Springs, CO 80909",80909,38.8532953,-104.7578378
+https://locations.tacobell.com/co/thornton/13732-colorado-blvd-.html,co,thornton,13732-colorado-blvd-,023306,"13732 Colorado Blvd., Thornton, CO 80602",13732,39.945347,-104.940154
+https://locations.tacobell.com/ct/old-greenwich/1371-e-putnam-ave.html,ct,old-greenwich,1371-e-putnam-ave,039040,"1371 E Putnam Ave, Old Greenwich, CT 06870",06870,41.0443275,-73.57324
+https://locations.tacobell.com/co/loveland/1330-lincoln-ave.html,co,loveland,1330-lincoln-ave,001419,"1330 Lincoln Ave, Loveland, CO 80537",80537,40.406408,-105.0726798
+https://locations.tacobell.com/ct/willimantic/1320-main-st.html,ct,willimantic,1320-main-st,029305,"1320 Main St, Willimantic, CT 06226",06226,41.7136754,-72.2303401
+https://locations.tacobell.com/co/lakewood/13109-w--alameda-pkwy.html,co,lakewood,13109-w--alameda-pkwy,E720433,"13109 W. Alameda Pkwy, Lakewood, CO 80228",13109,39.6975574,-105.1453455
+https://locations.tacobell.com/co/fort-morgan/1305-main-st.html,co,fort-morgan,1305-main-st,029454,"1305 Main St, Fort Morgan, CO 80701",80701,40.2626298,-103.8018258
+https://locations.tacobell.com/co/cortez/1300-east-main-street.html,co,cortez,1300-east-main-street,041197,"1300 East Main Street, Cortez, CO 81321",81321,37.349209,-108.5690544
+https://locations.tacobell.com/co/thornton/1298-east-104th-avenue.html,co,thornton,1298-east-104th-avenue,033865,"1298 East 104th Avenue, Thornton, CO 80233",80233,39.884658,-104.9708372
+https://locations.tacobell.com/ct/vernon-rockville/129-talcottville-rd.html,ct,vernon-rockville,129-talcottville-rd,029241,"129 Talcottville Rd, Vernon Rockville, CT 06066",06066,41.8308575,-72.4954054
+https://locations.tacobell.com/co/denver/1265-s-colorado-blvd.html,co,denver,1265-s-colorado-blvd,033847,"1265 S Colorado Blvd, Denver, CO 80222",80222,39.6934289,-104.9411171
+https://locations.tacobell.com/ct/bristol/1250-farmington-ave-.html,ct,bristol,1250-farmington-ave-,029317,"1250 Farmington Ave., Bristol, CT 06010",06010,41.6977346,-72.9015377
+https://locations.tacobell.com/co/arvada/12480-west-64th-avenue.html,co,arvada,12480-west-64th-avenue,033861,"12480 West 64th Avenue, Arvada, CO 80004",12480,39.8122641,-105.1395139
+https://locations.tacobell.com/co/fort-collins/1227-e--magnolia.html,co,fort-collins,1227-e--magnolia,E720432,"1227 E. Magnolia, Fort Collins, CO 80524",80524,40.5839821,-105.0561288
+https://locations.tacobell.com/co/broomfield/1220-e-1st-ave.html,co,broomfield,1220-e-1st-ave,033867,"1220 E 1st Ave, Broomfield, CO 80020",80020,39.9145885,-105.0593925
+https://locations.tacobell.com/co/colorado-springs/1208-interquest-parkway.html,co,colorado-springs,1208-interquest-parkway,037416,"1208 Interquest Parkway, Colorado Springs, CO 80921",80921,38.9923238,-104.8074352
+https://locations.tacobell.com/co/pueblo/1200-southgate-place.html,co,pueblo,1200-southgate-place,037407,"1200 Southgate Place, Pueblo, CO 81004",81004,38.2175666,-104.6228882
+https://locations.tacobell.com/co/lakewood/11701-w-colfax.html,co,lakewood,11701-w-colfax,002220,"11701 W Colfax, Lakewood, CO 80215",11701,39.7404894,-105.1299291
+https://locations.tacobell.com/de/new-castle/116-north-dupont-highway.html,de,new-castle,116-north-dupont-highway,017255,"116 North Dupont Highway, New Castle, DE 19720",19720,39.6670403,-75.6018325
+https://locations.tacobell.com/co/loveland/115-65th-st-.html,co,loveland,115-65th-st-,030718,"115 65th St., Loveland, CO 80538",80538,40.4585485,-105.0778364
+https://locations.tacobell.com/co/canon-city/1112-royal-gorge-blvd.html,co,canon-city,1112-royal-gorge-blvd,037396,"1112 Royal Gorge Blvd, Canon City, CO 81212",81212,38.4433643,-105.2317205
+https://locations.tacobell.com/co/parker/10832-s-crossroads-dr.html,co,parker,10832-s-crossroads-dr,002643,"10832 S Crossroads Dr, Parker, CO 80138",10832,39.5199405,-104.7659775
+https://locations.tacobell.com/ct/watertown/1074-main-street.html,ct,watertown,1074-main-street,032183,"1074 Main Street, Watertown, CT 06795",06795,41.5960178,-73.1126055
+https://locations.tacobell.com/co/aurora/10750-east-colfax-avenue.html,co,aurora,10750-east-colfax-avenue,019310,"10750 East Colfax Avenue, Aurora, CO 80010",10750,39.7399122,-104.8626527
+https://locations.tacobell.com/co/dumont/1073-county-hwy-308.html,co,dumont,1073-county-hwy-308,030836,"1073 County Hwy-308, Dumont, CO 80436",80436,39.7662054,-105.5980035
+https://locations.tacobell.com/co/bennett/1065-s--1st-street.html,co,bennett,1065-s--1st-street,036113,"1065 S. 1st Street, Bennett, CO 80102",80102,39.7427389,-104.4338421
+https://locations.tacobell.com/co/henderson/10402-s-belle-creek-drive.html,co,henderson,10402-s-belle-creek-drive,031582,"10402 S Belle Creek Drive, Henderson, CO 80640",10402,39.8865554,-104.8819373
+https://locations.tacobell.com/co/colorado-springs/1030-academy-park-loop.html,co,colorado-springs,1030-academy-park-loop,037406,"1030 Academy Park Loop, Colorado Springs, CO 80910",80910,38.816574,-104.7569515
+https://locations.tacobell.com/ct/east-hartford/1-main-st.html,ct,east-hartford,1-main-st,029326,"1 Main St, East Hartford, CT 06118",06118,41.727861,-72.6173282
+https://locations.tacobell.com/co/montrose/1300-e--main-street.html,co,montrose,1300-e--main-street,040655,"1300 E. Main Street, Montrose, CO 81401",81401,38.4859572,-107.8666075
+https://locations.tacobell.com/co/colorado-springs/7857-woodmen-center-heights.html,co,colorado-springs,7857-woodmen-center-heights,038824,"7857 Woodmen Center Heights, Colorado Springs, CO 80908",80908,38.941968,-104.6792246
+https://locations.tacobell.com/co/berthoud/1279-grand-market-ave.html,co,berthoud,1279-grand-market-ave,038754,"1279 Grand Market Ave, Berthoud, CO 80513",80513,40.3364313,-105.0947553
+https://locations.tacobell.com/co/denver/6553-n--tower-rd-.html,co,denver,6553-n--tower-rd-,038773,"6553 N. Tower Rd., Denver, CO 80249",80249,39.8154423,-104.7727337
+https://locations.tacobell.com/de/wilmington/1059-s-market-st-.html,de,wilmington,1059-s-market-st-,040021,"1059 S Market St., Wilmington, DE 19801",19801,39.7207387,-75.5561908
+https://locations.tacobell.com/co/leadville/1717-poplar-st-.html,co,leadville,1717-poplar-st-,038752,"1717 Poplar St., Leadville, CO 80461",80461,39.2529135,-106.2910657
+https://locations.tacobell.com/ct/east-haven/98-frontage-rd-.html,ct,east-haven,98-frontage-rd-,038759,"98 Frontage Rd., East Haven, CT 06512",06512,41.2873083,-72.8805144
+https://locations.tacobell.com/co/denver/2975-w-51st-ave.html,co,denver,2975-w-51st-ave,033871,"2975 W 51st Ave, Denver, CO 80221",80221,39.7895893,-105.0248887
+https://locations.tacobell.com/de/georgetown/1-georgetown-plaza.html,de,georgetown,1-georgetown-plaza,J130046,"1 Georgetown Plaza, Georgetown, DE 19947",19947,38.6801518,-75.3951969
+https://locations.tacobell.com/de/milford/649-n--dupont-blvd-.html,de,milford,649-n--dupont-blvd-,K071052,"649 N. DuPont Blvd., Milford, DE 19963",19963,38.9169964,-75.4425899
+https://locations.tacobell.com/ct/new-haven/130-amity-road.html,ct,new-haven,130-amity-road,032184,"130 Amity Road, New Haven, CT 06515",06515,41.3377,-72.9801066
+https://locations.tacobell.com/de/wilmington/1925-lancaster-ave.html,de,wilmington,1925-lancaster-ave,K071051,"1925 Lancaster Ave, Wilmington, DE 19805",19805,39.7469589,-75.5741865
+https://locations.tacobell.com/dc/washington/1400-defense-pentagon.html,dc,washington,1400-defense-pentagon,040897,"1400 Defense Pentagon, Washington, DC 20301",20301,38.8718568,-77.0562669
+https://locations.tacobell.com/de/newark/2675-pulaski-highway.html,de,newark,2675-pulaski-highway,038979,"2675 Pulaski Highway, Newark, DE 19702",19702,39.6045487,-75.7547191
+https://locations.tacobell.com/ct/waterbury/155-thomaston-avenue.html,ct,waterbury,155-thomaston-avenue,034228,"155 Thomaston Avenue, Waterbury, CT 06702",06702,41.5587232,-73.0529813
+https://locations.tacobell.com/co/longmont/33-e--ken-pratt-blvd-.html,co,longmont,33-e--ken-pratt-blvd-,033370,"33 E. Ken Pratt Blvd., Longmont, CO 80504",80504,40.1531709,-105.092186
+https://locations.tacobell.com/co/aurora/7480-s-gartrell-rd.html,co,aurora,7480-s-gartrell-rd,038755,"7480 S Gartrell Rd, Aurora, CO 80016",80016,39.5791953,-104.7247833

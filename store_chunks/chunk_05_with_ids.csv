@@ -1,0 +1,485 @@
+url,state,city,address_slug,store_id,full_address,zip_code
+https://locations.tacobell.com/fl/clermont/1606-hammock-ridge-road.html,fl,clermont,1606-hammock-ridge-road,039700,"1606 Hammock Ridge Road, Clermont, FL 34711",34711
+https://locations.tacobell.com/fl/st-johns/335-harper-lane.html,fl,st-johns,335-harper-lane,040712,"335 Harper Lane, St Johns, FL 32259",32259
+https://locations.tacobell.com/fl/lake-placid/501-us-27.html,fl,lake-placid,501-us-27,040345,"501 US-27, Lake Placid, FL 33852",33852
+https://locations.tacobell.com/fl/plant-city/371-n--county-line-rd.html,fl,plant-city,371-n--county-line-rd,040723,"371 N. County Line Rd, Plant City, FL 33566",33566
+https://locations.tacobell.com/fl/venice/19431-times-circle.html,fl,venice,19431-times-circle,040617,"19431 Times Circle, Venice, FL 34292",19431
+https://locations.tacobell.com/fl/deltona/1519-saxon-blvd.html,fl,deltona,1519-saxon-blvd,040450,"1519 Saxon Blvd, Deltona, FL 32725",32725
+https://locations.tacobell.com/fl/edgewater/1308-s-ridgewood-avenue.html,fl,edgewater,1308-s-ridgewood-avenue,040730,"1308 S Ridgewood Avenue, Edgewater, FL 32132",32132
+https://locations.tacobell.com/fl/lake-alfred/130-north-lake-shore-way.html,fl,lake-alfred,130-north-lake-shore-way,040912,"130 North Lake Shore Way, Lake Alfred, FL 33850",33850
+https://locations.tacobell.com/fl/riverview/3824-us-301-s.html,fl,riverview,3824-us-301-s,040715,"3824 US 301 S, Riverview, FL 33578",33578
+https://locations.tacobell.com/fl/orlando/12101-university-blvd-.html,fl,orlando,12101-university-blvd-,034859,"12101 University Blvd. Suite 201, Orlando, FL 32817",12101
+https://locations.tacobell.com/fl/hialeah/3750-west-85th-street.html,fl,hialeah,3750-west-85th-street,036400,"3750 West 85th Street, Hialeah, FL 33018",33018
+https://locations.tacobell.com/fl/interlachen/1133-state-road-20.html,fl,interlachen,1133-state-road-20,040906,"1133 State Road 20, Interlachen, FL 32148",32148
+https://locations.tacobell.com/fl/yulee/463163-state-road.html,fl,yulee,463163-state-road,041470,"463163 State Road, Yulee, FL 32097",46316
+https://locations.tacobell.com/fl/miami/10975-sw-40th-street-(bird-rd).html,fl,miami,10975-sw-40th-street-(bird-rd),039119,"10975 SW 40th Street (Bird Rd), Miami, FL 33165",10975
+https://locations.tacobell.com/fl/westlake/4751-seminole-pratt-whitney-rd.html,fl,westlake,4751-seminole-pratt-whitney-rd,040348,"4751 Seminole Pratt Whitney Rd, Westlake, FL 33470",33470
+https://locations.tacobell.com/fl/palmetto/9410-buffalo-rd.html,fl,palmetto,9410-buffalo-rd,041103,"9410 Buffalo Rd, Palmetto, FL 34221",34221
+https://locations.tacobell.com/fl/winter-springs/295-e-state-road-434.html,fl,winter-springs,295-e-state-road-434,041844,"295 E State Road 434, Winter Springs, FL 32708",32708
+https://locations.tacobell.com/fl/tampa/12098-anderson-rd-.html,fl,tampa,12098-anderson-rd-,041335,"12098 Anderson Rd., Tampa, FL 33625",12098
+https://locations.tacobell.com/fl/auburndale/755-fl-559.html,fl,auburndale,755-fl-559,041878,"755 Fl-559, Auburndale, FL 33823",33823
+https://locations.tacobell.com/fl/lutz/17884-aprile-dr.html,fl,lutz,17884-aprile-dr,036147,"17884 Aprile Dr, Lutz, FL 33558",17884
+https://locations.tacobell.com/fl/naples/9000-sage-ave.html,fl,naples,9000-sage-ave,042858,"9000 Sage Ave, Naples, FL 34120",34120
+https://locations.tacobell.com/fl/pensacola/1201-e--cervantes-st-.html,fl,pensacola,1201-e--cervantes-st-,034767,"1201 E. Cervantes St., Pensacola, FL 32501",32501
+https://locations.tacobell.com/fl/north-port/4998-centerview-lane.html,fl,north-port,4998-centerview-lane,034606,"4998 Centerview Lane, North Port, FL 34287",34287
+https://locations.tacobell.com/fl/miramar-beach/10859-us-highway-98-w.html,fl,miramar-beach,10859-us-highway-98-w,042129,"10859 Us Highway 98 W, Miramar Beach, FL 32550",10859
+https://locations.tacobell.com/fl/bradenton/15215-garnet-trail.html,fl,bradenton,15215-garnet-trail,034960,"15215 Garnet Trail, Bradenton, FL 34211",15215
+https://locations.tacobell.com/fl/kissimmee/4370-pleasant-hill-rd.html,fl,kissimmee,4370-pleasant-hill-rd,039586,"4370 Pleasant Hill Rd, Kissimmee, FL 34746",34746
+https://locations.tacobell.com/fl/davenport/7480-osceola-polk-line-rd-.html,fl,davenport,7480-osceola-polk-line-rd-,034778,"7480 Osceola Polk-Line Rd., Davenport, FL 33896",33896
+https://locations.tacobell.com/fl/kissimmee/1006-buenaventura-blvd.html,fl,kissimmee,1006-buenaventura-blvd,039601,"1006 Buenaventura Blvd, Kissimmee, FL 34743",34743
+https://locations.tacobell.com/fl/casselberry/1265-state-rd-436.html,fl,casselberry,1265-state-rd-436,042753,"1265 State Rd 436, Casselberry, FL 32707",32707
+https://locations.tacobell.com/fl/miami/7900-nw-27th-ave.html,fl,miami,7900-nw-27th-ave,034920,"7900 NW 27th Ave, Miami, FL 33147",33147
+https://locations.tacobell.com/fl/stuart/6800-south-kanner-hwy.html,fl,stuart,6800-south-kanner-hwy,034612,"6800 South Kanner Hwy, Stuart, FL 34997",34997
+https://locations.tacobell.com/fl/kissimmee/2810-east-osceola-parkway.html,fl,kissimmee,2810-east-osceola-parkway,033927,"2810 East Osceola Parkway, Kissimmee, FL 34743",34743
+https://locations.tacobell.com/fl/delray-beach/5070-west-atlantic-ave.html,fl,delray-beach,5070-west-atlantic-ave,032631,"5070 West Atlantic Ave, Delray Beach, FL 33484",33484
+https://locations.tacobell.com/fl/chipley/1444-main-street.html,fl,chipley,1444-main-street,042128,"1444 Main Street, Chipley, FL 32428",32428
+https://locations.tacobell.com/fl/panama-city/4315-n--hwy--231.html,fl,panama-city,4315-n--hwy--231,034808,"4315 N. Hwy. 231, Panama City, FL 32404",32404
+https://locations.tacobell.com/fl/port-orange/1748-dunlawton-ave.html,fl,port-orange,1748-dunlawton-ave,036287,"1748 Dunlawton Ave, Port Orange, FL 32127",32127
+https://locations.tacobell.com/fl/fort-lauderdale/17-south-fort-lauderdale-beach-blvd-unit-r216.html,fl,fort-lauderdale,17-south-fort-lauderdale-beach-blvd-unit-r216,036291,"17 South Fort Lauderdale Beach Blvd Unit#R216, Fort Lauderdale, FL 33316",33316
+https://locations.tacobell.com/fl/lakeland/2045-w--memorial-blvd.html,fl,lakeland,2045-w--memorial-blvd,034813,"2045 W. Memorial Blvd, Lakeland, FL 33815",33815
+https://locations.tacobell.com/fl/wellington/13905-wellington-trace.html,fl,wellington,13905-wellington-trace,034613,"13905 Wellington Trace, Wellington, FL 33414",13905
+https://locations.tacobell.com/fl/vero-beach/1070-us-hwy-1.html,fl,vero-beach,1070-us-hwy-1,034374,"1070 US Hwy 1, Vero Beach, FL 32960",32960
+https://locations.tacobell.com/fl/pace/3860-highway-90.html,fl,pace,3860-highway-90,035070,"3860 Highway 90, Pace, FL 32571",32571
+https://locations.tacobell.com/fl/longwood/126-s--ronald-reagan-blvd-.html,fl,longwood,126-s--ronald-reagan-blvd-,036021,"126 S. Ronald Reagan Blvd., Longwood, FL 32750",32750
+https://locations.tacobell.com/fl/east-palatka/169-us-hwy-17.html,fl,east-palatka,169-us-hwy-17,034766,"169 US Hwy 17, East Palatka, FL 32131",32131
+https://locations.tacobell.com/fl/wildwood/5821-7-mile-drive.html,fl,wildwood,5821-7-mile-drive,036388,"5821 7 Mile Drive, Wildwood, FL 34785",34785
+https://locations.tacobell.com/fl/freeport/16461-us-331-south.html,fl,freeport,16461-us-331-south,042130,"16461 US 331 South, Freeport, FL 32439",16461
+https://locations.tacobell.com/fl/miami/20925-s--dixie-hwy.html,fl,miami,20925-s--dixie-hwy,029865,"20925 S. Dixie Hwy, Miami, FL 33189",20925
+https://locations.tacobell.com/fl/new-port-richey/7575-state-road-54.html,fl,new-port-richey,7575-state-road-54,035229,"7575 State Road 54, New Port Richey, FL 34653",34653
+https://locations.tacobell.com/fl/spring-hill/10295-county-line-rd.html,fl,spring-hill,10295-county-line-rd,035226,"10295 County Line Rd, Spring Hill, FL 34608",10295
+https://locations.tacobell.com/fl/orlando/7623-international-dr.html,fl,orlando,7623-international-dr,039602,"7623 International Dr, Orlando, FL 32819",32819
+https://locations.tacobell.com/fl/miramar/6961-miramar-parkway.html,fl,miramar,6961-miramar-parkway,034711,"6961 Miramar Parkway, Miramar, FL 33023",33023
+https://locations.tacobell.com/fl/palm-bay/1386-palm-bay-road-ne.html,fl,palm-bay,1386-palm-bay-road-ne,035177,"1386 Palm Bay Road NE, Palm Bay, FL 32905",32905
+https://locations.tacobell.com/fl/dunnellon/11582-n-williams-st.html,fl,dunnellon,11582-n-williams-st,034783,"11582 N Williams St, Dunnellon, FL 34431",11582
+https://locations.tacobell.com/fl/umatilla/365-n-central-ave.html,fl,umatilla,365-n-central-ave,034809,"365 N Central Ave, Umatilla, FL 32784",32784
+https://locations.tacobell.com/fl/bradenton/5298-33rd-st-.html,fl,bradenton,5298-33rd-st-,036517,"5298 33rd St., Bradenton, FL 34203",34203
+https://locations.tacobell.com/fl/orlando/13980-s-john-young-pkwy.html,fl,orlando,13980-s-john-young-pkwy,035998,"13980 S John Young Pkwy, Orlando, FL 32837",13980
+https://locations.tacobell.com/fl/wauchula/116-w-rea-rd.html,fl,wauchula,116-w-rea-rd,036387,"116 W Rea Rd, Wauchula, FL 33873",33873
+https://locations.tacobell.com/fl/boynton-beach/801-north-congress-avenue.html,fl,boynton-beach,801-north-congress-avenue,026132,"801 North Congress Avenue, Boynton Beach, FL 33426",33426
+https://locations.tacobell.com/fl/sanford/254-town-center-circle.html,fl,sanford,254-town-center-circle,033701,"254 Town Center Circle, Sanford, FL 32771",32771
+https://locations.tacobell.com/fl/marianna/2112-highway-71-south.html,fl,marianna,2112-highway-71-south,023260,"2112 Highway 71 South, Marianna, FL 32448",32448
+https://locations.tacobell.com/fl/orlando/8001-s-orange-blossom-trl.html,fl,orlando,8001-s-orange-blossom-trl,032170,"8001 S Orange Blossom Trl #952, Orlando, FL 32809",32809
+https://locations.tacobell.com/fl/lake-wales/813-eagle-ridge-dr-.html,fl,lake-wales,813-eagle-ridge-dr-,033704,"813 Eagle Ridge Dr., Lake Wales, FL 33859",33859
+https://locations.tacobell.com/fl/land-o-lakes/7645-land-o-lakes-blvd.html,fl,land-o-lakes,7645-land-o-lakes-blvd,041586,"7645 Land O' Lakes Blvd, Land O' Lakes, FL 34638",34638
+https://locations.tacobell.com/fl/miami-beach/1624-washington-ave.html,fl,miami-beach,1624-washington-ave,041779,"1624 Washington Ave, Miami Beach, FL 33139",33139
+https://locations.tacobell.com/fl/orlando/1-south-orange-avenue.html,fl,orlando,1-south-orange-avenue,035462,"1 South Orange Avenue, Orlando, FL 32801",32801
+https://locations.tacobell.com/fl/apopka/3002-e-sr-436-suite-1020.html,fl,apopka,3002-e-sr-436-suite-1020,036232,"3002 E SR 436 Suite 1020 Suite 1020, Apopka, FL 32703",32703
+https://locations.tacobell.com/fl/boynton-beach/2319-s-federal-hwy.html,fl,boynton-beach,2319-s-federal-hwy,036474,"2319 S Federal Hwy, Boynton Beach, FL 33435",33435
+https://locations.tacobell.com/fl/leesburg/27443-us-hwy-27.html,fl,leesburg,27443-us-hwy-27,037158,"27443 US Hwy 27, Leesburg, FL 34748",27443
+https://locations.tacobell.com/fl/winter-garden/3300-daniels-road.html,fl,winter-garden,3300-daniels-road,Y300051,"3300 Daniels Road, Winter Garden, FL 34787",34787
+https://locations.tacobell.com/fl/saint-cloud/2200-old-canoe-creek-rd.html,fl,saint-cloud,2200-old-canoe-creek-rd,Y300039,"2200 Old Canoe Creek RD, Saint Cloud, FL 34772",34772
+https://locations.tacobell.com/fl/orlando/3009-w-colonial-drive.html,fl,orlando,3009-w-colonial-drive,Y309203,"3009 W Colonial Drive, Orlando, FL 32808",32808
+https://locations.tacobell.com/fl/kissimmee/1924-e-irlo-bronson-memorial-hwy-.html,fl,kissimmee,1924-e-irlo-bronson-memorial-hwy-,W750270,"1924 E Irlo Bronson Memorial Hwy., Kissimmee, FL 34744",34744
+https://locations.tacobell.com/fl/kissimmee/1130-w--osceola-pkwy-.html,fl,kissimmee,1130-w--osceola-pkwy-,Y309085,"1130 W. Osceola Pkwy., Kissimmee, FL 34741",34741
+https://locations.tacobell.com/fl/kissimmee/3185-s--john-young-parkway.html,fl,kissimmee,3185-s--john-young-parkway,W750273,"3185 S. John Young Parkway, Kissimmee, FL 34746",34746
+https://locations.tacobell.com/fl/macdill-afb/building-926-food-court-b.html,fl,macdill-afb,building-926-food-court-b,034831,"Building 926 Food Court B, Macdill Afb, FL 33608",33608
+https://locations.tacobell.com/fl/minneola/320-us-highway-27.html,fl,minneola,320-us-highway-27,036438,"320 US Highway 27, Minneola, FL 34715",34715
+https://locations.tacobell.com/fl/keystone-heights/810-greenway.html,fl,keystone-heights,810-greenway,037112,"810 Greenway, Keystone Heights, FL 32656",32656
+https://locations.tacobell.com/fl/hobe-sound/11535-s-e--federal-hwy.html,fl,hobe-sound,11535-s-e--federal-hwy,036423,"11535 S.E. Federal Hwy, Hobe Sound, FL 33455",11535
+https://locations.tacobell.com/fl/hialeah/2915-w-16th-ave.html,fl,hialeah,2915-w-16th-ave,037207,"2915 W 16th Ave, Hialeah, FL 33012",33012
+https://locations.tacobell.com/fl/daytona-beach/2077-lpga-blvd.html,fl,daytona-beach,2077-lpga-blvd,037372,"2077 LPGA Blvd, Daytona Beach, FL 32117",32117
+https://locations.tacobell.com/fl/zephyrhills/34140-sr-54.html,fl,zephyrhills,34140-sr-54,036309,"34140 Sr 54, Zephyrhills, FL 33543",34140
+https://locations.tacobell.com/fl/miami/2440-nw-119th-street.html,fl,miami,2440-nw-119th-street,037159,"2440 NW 119th Street, Miami, FL 33167",33167
+https://locations.tacobell.com/fl/kissimmee/8910-west-irlo-bronson-memorial-pky.html,fl,kissimmee,8910-west-irlo-bronson-memorial-pky,037110,"8910 West Irlo Bronson Memorial Pky, Kissimmee, FL 34747",34747
+https://locations.tacobell.com/fl/tavares/2078-state-rd-19.html,fl,tavares,2078-state-rd-19,037187,"2078 State Rd 19, Tavares, FL 32778",32778
+https://locations.tacobell.com/fl/brooksville/7201-broad-street.html,fl,brooksville,7201-broad-street,037356,"7201 Broad Street, Brooksville, FL 34601",34601
+https://locations.tacobell.com/fl/pensacola/6-east-nine-mile-rd.html,fl,pensacola,6-east-nine-mile-rd,037347,"6 East Nine Mile Rd, Pensacola, FL 32534",32534
+https://locations.tacobell.com/fl/port-st-joe/115-ave-b.html,fl,port-st-joe,115-ave-b,037369,"115 Ave B, Port St Joe, FL 32456",32456
+https://locations.tacobell.com/fl/orlando/11850-glasshouse-lane.html,fl,orlando,11850-glasshouse-lane,039587,"11850 Glasshouse Lane, Orlando, FL 32836",11850
+https://locations.tacobell.com/fl/homosassa/9357-s--suncoast-blvd-.html,fl,homosassa,9357-s--suncoast-blvd-,037420,"9357 S. Suncoast Blvd., Homosassa, FL 34446",34446
+https://locations.tacobell.com/fl/gainesville/1515-sw-13th-street.html,fl,gainesville,1515-sw-13th-street,037323,"1515 SW 13th Street, Gainesville, FL 32601",32601
+https://locations.tacobell.com/fl/west-palm-beach/1237-palm-beach-lakes-blvd.html,fl,west-palm-beach,1237-palm-beach-lakes-blvd,038771,"1237 Palm Beach Lakes Blvd, West Palm Beach, FL 33401",33401
+https://locations.tacobell.com/fl/leesburg/9934-us-highway-441.html,fl,leesburg,9934-us-highway-441,032537,"9934 US Highway 441, Leesburg, FL 34748",34748
+https://locations.tacobell.com/fl/homestead/987-north-homestead-blvd.html,fl,homestead,987-north-homestead-blvd,025745,"987 North Homestead Blvd, Homestead, FL 33030",33030
+https://locations.tacobell.com/fl/boynton-beach/9854-military-trail.html,fl,boynton-beach,9854-military-trail,024534,"9854 Military Trail, Boynton Beach, FL 33436",33436
+https://locations.tacobell.com/fl/miami/966-sw-8th-st.html,fl,miami,966-sw-8th-st,031772,"966 SW 8th St, Miami, FL 33130",33130
+https://locations.tacobell.com/fl/fort-walton-beach/945-north-beal-pkwy.html,fl,fort-walton-beach,945-north-beal-pkwy,042127,"945 North Beal Pkwy, Fort Walton Beach, FL 32547",32547
+https://locations.tacobell.com/fl/hudson/9442-sr-52.html,fl,hudson,9442-sr-52,029593,"9442 SR 52, Hudson, FL 34669",34669
+https://locations.tacobell.com/fl/fort-myers/9400-daniels-pkwy.html,fl,fort-myers,9400-daniels-pkwy,042844,"9400 Daniels Pkwy, Fort Myers, FL 33912",33912
+https://locations.tacobell.com/fl/orange-park/938-blanding-blvd.html,fl,orange-park,938-blanding-blvd,023704,"938 Blanding Blvd, Orange Park, FL 32065",32065
+https://locations.tacobell.com/fl/jacksonville/9341-atlantic-blvd.html,fl,jacksonville,9341-atlantic-blvd,023755,"9341 Atlantic Blvd, Jacksonville, FL 32225",32225
+https://locations.tacobell.com/fl/port-richey/9211-us-19-north.html,fl,port-richey,9211-us-19-north,029589,"9211 US 19 North, Port Richey, FL 34668",34668
+https://locations.tacobell.com/fl/saint-petersburg/9211-4th-st-north.html,fl,saint-petersburg,9211-4th-st-north,029565,"9211 4th St North, Saint Petersburg, FL 33702",33702
+https://locations.tacobell.com/fl/coral-springs/9190-wiles-rd.html,fl,coral-springs,9190-wiles-rd,033103,"9190 Wiles Rd, Coral Springs, FL 33067",33067
+https://locations.tacobell.com/fl/brandon/904-bloomingdale-rd.html,fl,brandon,904-bloomingdale-rd,029580,"904 Bloomingdale Rd, Brandon, FL 33511",33511
+https://locations.tacobell.com/fl/south-pasadena/903-pasadena-avenue-south.html,fl,south-pasadena,903-pasadena-avenue-south,030436,"903 Pasadena Avenue South, South Pasadena, FL 33707",33707
+https://locations.tacobell.com/fl/port-saint-lucie/9016-s-us-highway-1.html,fl,port-saint-lucie,9016-s-us-highway-1,024546,"9016 S Us Highway 1, Port Saint Lucie, FL 34952",34952
+https://locations.tacobell.com/fl/coral-springs/900-n--university-drive.html,fl,coral-springs,900-n--university-drive,033099,"900 N. University Drive, Coral Springs, FL 33071",33071
+https://locations.tacobell.com/fl/fort-myers/8389-dani-drive.html,fl,fort-myers,8389-dani-drive,042855,"8389 Dani Drive, Fort Myers, FL 33905",33905
+https://locations.tacobell.com/fl/ocoee/8868-w--colonial-dr.html,fl,ocoee,8868-w--colonial-dr,039600,"8868 W. Colonial Dr, Ocoee, FL 34761",34761
+https://locations.tacobell.com/fl/naples/8835-davis-blvd.html,fl,naples,8835-davis-blvd,042854,"8835 Davis Blvd, Naples, FL 34116",34116
+https://locations.tacobell.com/fl/navarre/8714-navarre-pkwy.html,fl,navarre,8714-navarre-pkwy,009539,"8714 Navarre Pkwy, Navarre, FL 32566",32566
+https://locations.tacobell.com/fl/miami/8699-sw-24th-st.html,fl,miami,8699-sw-24th-st,005555,"8699 SW 24th St, Miami, FL 33155",33155
+https://locations.tacobell.com/fl/largo/8671-ulmerton-rd.html,fl,largo,8671-ulmerton-rd,002779,"8671 Ulmerton Rd, Largo, FL 33771",33771
+https://locations.tacobell.com/fl/belle-glade/865-south-main-street.html,fl,belle-glade,865-south-main-street,028590,"865 South Main Street, Belle Glade, FL 33430",33430
+https://locations.tacobell.com/fl/sarasota/855-south-tamiami-trail.html,fl,sarasota,855-south-tamiami-trail,024560,"855 South Tamiami Trail, Sarasota, FL 34236",34236
+https://locations.tacobell.com/fl/sarasota/8405-lockwood-ridge.html,fl,sarasota,8405-lockwood-ridge,024542,"8405 Lockwood Ridge, Sarasota, FL 34243",34243
+https://locations.tacobell.com/fl/miami/8363-w-flagler-street.html,fl,miami,8363-w-flagler-street,029536,"8363 W Flagler Street, Miami, FL 33144",33144
+https://locations.tacobell.com/fl/west-palm-beach/836-belvedere-road.html,fl,west-palm-beach,836-belvedere-road,033102,"836 Belvedere Road, West Palm Beach, FL 33405",33405
+https://locations.tacobell.com/fl/bradenton/8347-sr-64-east.html,fl,bradenton,8347-sr-64-east,032758,"8347 Sr 64 East, Bradenton, FL 34211",34211
+https://locations.tacobell.com/fl/jacksonville/8331-baymeadows-rd.html,fl,jacksonville,8331-baymeadows-rd,023760,"8331 Baymeadows Rd, Jacksonville, FL 32256",32256
+https://locations.tacobell.com/fl/new-port-richey/8242-little-road.html,fl,new-port-richey,8242-little-road,F569062,"8242 Little Road, New Port Richey, FL 34654",34654
+https://locations.tacobell.com/fl/pensacola/8088-n-davis-hwy.html,fl,pensacola,8088-n-davis-hwy,023757,"8088 N Davis Hwy, Pensacola, FL 32514",32514
+https://locations.tacobell.com/fl/starke/808-s-walnut-st.html,fl,starke,808-s-walnut-st,036297,"808 S Walnut St, Starke, FL 32091",32091
+https://locations.tacobell.com/fl/hialeah-gardens/8001-nw-95th-street.html,fl,hialeah-gardens,8001-nw-95th-street,G135942,"8001 NW 95th Street, Hialeah Gardens, FL 33016",33016
+https://locations.tacobell.com/fl/ocala/7919-sw-highway-200.html,fl,ocala,7919-sw-highway-200,031840,"7919 SW Highway 200, Ocala, FL 34476",34476
+https://locations.tacobell.com/fl/windermere/7970-winter-garden-vineland-rd.html,fl,windermere,7970-winter-garden-vineland-rd,032177,"7970 Winter Garden Vineland Rd, Windermere, FL 34786",34786
+https://locations.tacobell.com/fl/orlando/7853-colonial-drive.html,fl,orlando,7853-colonial-drive,023290,"7853 Colonial Drive, Orlando, FL 32807",32807
+https://locations.tacobell.com/fl/melbourne/7850-wickham-road.html,fl,melbourne,7850-wickham-road,030349,"7850 Wickham Road, Melbourne, FL 32940",32940
+https://locations.tacobell.com/fl/hialeah/785-east-9th-street.html,fl,hialeah,785-east-9th-street,020501,"785 East 9th Street, Hialeah, FL 33010",33010
+https://locations.tacobell.com/fl/kissimmee/7784-w-irlo-bronson-mem-pkwy.html,fl,kissimmee,7784-w-irlo-bronson-mem-pkwy,023302,"7784 W Irlo Bronson Mem Pkwy, Kissimmee, FL 34747",34747
+https://locations.tacobell.com/fl/miami/7745-sw-40th-street.html,fl,miami,7745-sw-40th-street,017108,"7745 SW 40th Street, Miami, FL 33155",33155
+https://locations.tacobell.com/fl/jacksonville/7637-lem-turner-road.html,fl,jacksonville,7637-lem-turner-road,023711,"7637 Lem Turner Road, Jacksonville, FL 32208",32208
+https://locations.tacobell.com/fl/tamarac/7625-w-commercial-blvd.html,fl,tamarac,7625-w-commercial-blvd,029535,"7625 W Commercial Blvd, Tamarac, FL 33351",33351
+https://locations.tacobell.com/fl/tampa/7620-west-hillsborough-avenue.html,fl,tampa,7620-west-hillsborough-avenue,029586,"7620 West Hillsborough Avenue, Tampa, FL 33615",33615
+https://locations.tacobell.com/fl/ocala/7610-s-e--maricamp-road.html,fl,ocala,7610-s-e--maricamp-road,026475,"7610 S.E. Maricamp Road, Ocala, FL 34472",34472
+https://locations.tacobell.com/fl/orlando/7601-s--orange-blossom-trail.html,fl,orlando,7601-s--orange-blossom-trail,039595,"7601 S. Orange Blossom Trail, Orlando, FL 32809",32809
+https://locations.tacobell.com/fl/gainesville/7410-w-newberry-rd.html,fl,gainesville,7410-w-newberry-rd,026451,"7410 W Newberry Rd, Gainesville, FL 32605",32605
+https://locations.tacobell.com/fl/hialeah/7405-west-4th-ave-.html,fl,hialeah,7405-west-4th-ave-,031023,"7405 West 4th Ave., Hialeah, FL 33014",33014
+https://locations.tacobell.com/fl/daytona-beach/740-north-nova-road.html,fl,daytona-beach,740-north-nova-road,022592,"740 North Nova Road, Daytona Beach, FL 32114",32114
+https://locations.tacobell.com/fl/jupiter/738-e-indiantown-rd.html,fl,jupiter,738-e-indiantown-rd,024535,"738 E Indiantown Rd, Jupiter, FL 33477",33477
+https://locations.tacobell.com/fl/miami/7350-sw-117th-avenue.html,fl,miami,7350-sw-117th-avenue,015451,"7350 SW 117th Avenue, Miami, FL 33183",33183
+https://locations.tacobell.com/fl/jacksonville/7331-103rd-street.html,fl,jacksonville,7331-103rd-street,023754,"7331 103rd Street, Jacksonville, FL 32210",32210
+https://locations.tacobell.com/fl/tampa/7329-w-waters-ave.html,fl,tampa,7329-w-waters-ave,029577,"7329 W Waters Ave, Tampa, FL 33634",33634
+https://locations.tacobell.com/fl/zephyrhills/7313-gall-blvd.html,fl,zephyrhills,7313-gall-blvd,029581,"7313 Gall Blvd, Zephyrhills, FL 33542",33542
+https://locations.tacobell.com/fl/lakeland/727-e--memorial-boulevard.html,fl,lakeland,727-e--memorial-boulevard,G135049,"727 E. Memorial Boulevard, Lakeland, FL 33801",33801
+https://locations.tacobell.com/fl/pompano-beach/7120-w-mcnab-road.html,fl,pompano-beach,7120-w-mcnab-road,029542,"7120 W McNab Road, Pompano Beach, FL 33068",33068
+https://locations.tacobell.com/fl/orlando/711-lee-road.html,fl,orlando,711-lee-road,027983,"711 Lee Road, Orlando, FL 32810",32810
+https://locations.tacobell.com/fl/miami/710-nw-37th-ave.html,fl,miami,710-nw-37th-ave,002936,"710 NW 37th Ave, Miami, FL 33125",33125
+https://locations.tacobell.com/fl/seffner/706-martin-luther-king-jr--blvd--w.html,fl,seffner,706-martin-luther-king-jr--blvd--w,029582,"706 Martin Luther King Jr. Blvd. W, Seffner, FL 33584",33584
+https://locations.tacobell.com/fl/panama-city-beach/7040-w-hwy-98.html,fl,panama-city-beach,7040-w-hwy-98,004370,"7040 W Hwy 98, Panama City Beach, FL 32407",32407
+https://locations.tacobell.com/fl/lantana/7035-seacrest-blvd.html,fl,lantana,7035-seacrest-blvd,033096,"7035 Seacrest Blvd, Lantana, FL 33462",33462
+https://locations.tacobell.com/fl/winter-park/690-s-orlando-ave.html,fl,winter-park,690-s-orlando-ave,027981,"690 S Orlando Ave, Winter Park, FL 32789",32789
+https://locations.tacobell.com/fl/west-palm-beach/6862-okeechobee-blvd.html,fl,west-palm-beach,6862-okeechobee-blvd,024564,"6862 Okeechobee Blvd, West Palm Beach, FL 33411",33411
+https://locations.tacobell.com/fl/hollywood/6835-taft-street.html,fl,hollywood,6835-taft-street,020192,"6835 Taft Street, Hollywood, FL 33024",33024
+https://locations.tacobell.com/fl/live-oak/6804-us-highway-129.html,fl,live-oak,6804-us-highway-129,036299,"6804 US Highway 129, Live Oak, FL 32060",32060
+https://locations.tacobell.com/fl/lakeland/6780-highway-98-n.html,fl,lakeland,6780-highway-98-n,029543,"6780 Highway 98 N, Lakeland, FL 33809",33809
+https://locations.tacobell.com/fl/mulberry/6753-north-church-ave.html,fl,mulberry,6753-north-church-ave,029541,"6753 North Church Ave, Mulberry, FL 33860",33860
+https://locations.tacobell.com/fl/miami/6740-sw-eighth-st.html,fl,miami,6740-sw-eighth-st,025738,"6740 SW Eighth St, Miami, FL 33144",33144
+https://locations.tacobell.com/fl/orlando/6611-west-colonial-drive.html,fl,orlando,6611-west-colonial-drive,027978,"6611 West Colonial Drive, Orlando, FL 32818",32818
+https://locations.tacobell.com/fl/marathon/6501-overseas-highway.html,fl,marathon,6501-overseas-highway,G135309,"6501 Overseas Highway, Marathon, FL 33050",33050
+https://locations.tacobell.com/fl/fort-walton-beach/65-eglin-parkway-ne.html,fl,fort-walton-beach,65-eglin-parkway-ne,042121,"65 Eglin Parkway NE, Fort Walton Beach, FL 32548",32548
+https://locations.tacobell.com/fl/leesburg/641-north-14-st.html,fl,leesburg,641-north-14-st,028353,"641 North 14 St, Leesburg, FL 34748",34748
+https://locations.tacobell.com/fl/north-miami/640-ne-125th-street.html,fl,north-miami,640-ne-125th-street,026473,"640 NE 125th Street, North Miami, FL 33161",33161
+https://locations.tacobell.com/fl/palmetto/640-10th-street-east.html,fl,palmetto,640-10th-street-east,029591,"640 10th Street East, Palmetto, FL 34221",34221
+https://locations.tacobell.com/fl/lake-worth/6380-hypoluxu-road.html,fl,lake-worth,6380-hypoluxu-road,024567,"6380 Hypoluxu Road, Lake Worth, FL 33463",33463
+https://locations.tacobell.com/fl/miami/6310-s-dixie-hwy.html,fl,miami,6310-s-dixie-hwy,025743,"6310 S Dixie Hwy, Miami, FL 33143",33143
+https://locations.tacobell.com/fl/rockledge/631-barnes-blvd-.html,fl,rockledge,631-barnes-blvd-,027975,"631 Barnes Blvd., Rockledge, FL 32955",32955
+https://locations.tacobell.com/fl/miami/630-ne-79th-st.html,fl,miami,630-ne-79th-st,025739,"630 NE 79th St, Miami, FL 33138",33138
+https://locations.tacobell.com/fl/milton/6281-hwy-90-west.html,fl,milton,6281-hwy-90-west,004170,"6281 Hwy 90 West, Milton, FL 32570",32570
+https://locations.tacobell.com/fl/greenacres/6265-lake-worth-rd.html,fl,greenacres,6265-lake-worth-rd,033095,"6265 Lake Worth Rd, Greenacres, FL 33463",33463
+https://locations.tacobell.com/fl/inverness/616-w-main-street.html,fl,inverness,616-w-main-street,026449,"616 W Main Street, Inverness, FL 34450",34450
+https://locations.tacobell.com/fl/orlando/6065-s--goldenrod-rd-.html,fl,orlando,6065-s--goldenrod-rd-,027988,"6065 S. Goldenrod Rd., Orlando, FL 32822",32822
+https://locations.tacobell.com/fl/ellenton/6025-north-us-301.html,fl,ellenton,6025-north-us-301,036143,"6025 North US 301, Ellenton, FL 34222",34222
+https://locations.tacobell.com/fl/bradenton/6004-14th-street.html,fl,bradenton,6004-14th-street,029587,"6004 14th Street, Bradenton, FL 34207",34207
+https://locations.tacobell.com/fl/jacksonville/600-airport-center-dr-.html,fl,jacksonville,600-airport-center-dr-,024245,"600 Airport Center Dr., Jacksonville, FL 32218",32218
+https://locations.tacobell.com/fl/miami/599-ne-167-st.html,fl,miami,599-ne-167-st,005485,"599 NE 167 St, Miami, FL 33162",33162
+https://locations.tacobell.com/fl/winter-haven/5975-cypress-garden-blvd.html,fl,winter-haven,5975-cypress-garden-blvd,029702,"5975 Cypress Garden Blvd, Winter Haven, FL 33884",33884
+https://locations.tacobell.com/fl/orlando/5960-central-florida-parkway.html,fl,orlando,5960-central-florida-parkway,039599,"5960 Central Florida Parkway, Orlando, FL 32821",32821
+https://locations.tacobell.com/fl/oakland-park/593-east-oakland-park-blvd.html,fl,oakland-park,593-east-oakland-park-blvd,017677,"593 East Oakland Park Blvd, Oakland Park, FL 33334",33334
+https://locations.tacobell.com/fl/jacksonville/5905-merrill.html,fl,jacksonville,5905-merrill,023761,"5905 Merrill, Jacksonville, FL 32211",32211
+https://locations.tacobell.com/fl/jacksonville/5875-new-kings-road.html,fl,jacksonville,5875-new-kings-road,024973,"5875 New Kings Road, Jacksonville, FL 32209",32209
+https://locations.tacobell.com/fl/sarasota/5811-bee-ridge-road.html,fl,sarasota,5811-bee-ridge-road,024549,"5811 Bee Ridge Road, Sarasota, FL 34233",34233
+https://locations.tacobell.com/fl/orlando/576-s--alafaya-trail.html,fl,orlando,576-s--alafaya-trail,022266,"576 S. Alafaya Trail, Orlando, FL 32828",32828
+https://locations.tacobell.com/fl/miami-lakes/5705-nw-163rd-street.html,fl,miami-lakes,5705-nw-163rd-street,018574,"5705 NW 163rd Street, Miami Lakes, FL 33014",33014
+https://locations.tacobell.com/fl/panama-city-beach/559-richard-jackson-blvd.html,fl,panama-city-beach,559-richard-jackson-blvd,030707,"559 Richard Jackson Blvd, Panama City Beach, FL 32407",32407
+https://locations.tacobell.com/fl/sarasota/5557-fruitville-rd.html,fl,sarasota,5557-fruitville-rd,024541,"5557 Fruitville Rd, Sarasota, FL 34236",34236
+https://locations.tacobell.com/fl/crystal-river/555-ne-hwy-19.html,fl,crystal-river,555-ne-hwy-19,026455,"555 NE Hwy 19, Crystal River, FL 34428",34428
+https://locations.tacobell.com/fl/pensacola/5510-mobile-highway.html,fl,pensacola,5510-mobile-highway,023775,"5510 Mobile Highway, Pensacola, FL 32526",32526
+https://locations.tacobell.com/fl/orlando/5503-s-semoran-blvd-.html,fl,orlando,5503-s-semoran-blvd-,039592,"5503 S Semoran Blvd., Orlando, FL 32822",32822
+https://locations.tacobell.com/fl/bradenton/5410-manatee-ave.html,fl,bradenton,5410-manatee-ave,024533,"5410 Manatee Ave, Bradenton, FL 34209",34209
+https://locations.tacobell.com/fl/wesley-chapel/5406-county-rd-581.html,fl,wesley-chapel,5406-county-rd-581,036139,"5406 County Rd 581, Wesley Chapel, FL 33543",33543
+https://locations.tacobell.com/fl/orlando/5400-n--orange-blossom-trail.html,fl,orlando,5400-n--orange-blossom-trail,027982,"5400 N. Orange Blossom Trail, Orlando, FL 32810",32810
+https://locations.tacobell.com/fl/orange-park/54-blanding-blvd.html,fl,orange-park,54-blanding-blvd,023720,"54 Blanding Blvd, Orange Park, FL 32073",32073
+https://locations.tacobell.com/fl/tampa/5367-ehrlich-road.html,fl,tampa,5367-ehrlich-road,G135059,"5367 Ehrlich Road, Tampa, FL 33625",33625
+https://locations.tacobell.com/fl/tampa/5318-east-fowler-ave.html,fl,tampa,5318-east-fowler-ave,029578,"5318 East Fowler Ave, Tampa, FL 33617",33617
+https://locations.tacobell.com/fl/clermont/526-us-highway-27.html,fl,clermont,526-us-highway-27,022833,"526 US Highway 27, Clermont, FL 34714",34714
+https://locations.tacobell.com/fl/clearwater/5225-east-bay-drive.html,fl,clearwater,5225-east-bay-drive,002448,"5225 East Bay Drive, Clearwater, FL 33764",33764
+https://locations.tacobell.com/fl/saint-petersburg/5210-34th-street-south.html,fl,saint-petersburg,5210-34th-street-south,018575,"5210 34th Street South, Saint Petersburg, FL 33711",33711
+https://locations.tacobell.com/fl/jacksonville/5151-university-blvd-w.html,fl,jacksonville,5151-university-blvd-w,023773,"5151 University Blvd W, Jacksonville, FL 32216",32216
+https://locations.tacobell.com/fl/orlando/5147-s-kirkman-rd.html,fl,orlando,5147-s-kirkman-rd,023299,"5147 S Kirkman Rd, Orlando, FL 32819",32819
+https://locations.tacobell.com/fl/orlando/5109-international-dr-.html,fl,orlando,5109-international-dr-,039597,"5109 International Dr., Orlando, FL 32819",32819
+https://locations.tacobell.com/fl/destin/509-hwy-98-east.html,fl,destin,509-hwy-98-east,042122,"509 Hwy 98 East, Destin, FL 32541",32541
+https://locations.tacobell.com/fl/jacksonville/5054-normandy-blvd.html,fl,jacksonville,5054-normandy-blvd,023749,"5054 Normandy Blvd, Jacksonville, FL 32205",32205
+https://locations.tacobell.com/fl/okeechobee/501-ne-park-street.html,fl,okeechobee,501-ne-park-street,032337,"501 NE Park Street, Okeechobee, FL 34972",34972
+https://locations.tacobell.com/fl/hialeah/501-east-49th-street.html,fl,hialeah,501-east-49th-street,028066,"501 East 49th Street, Hialeah, FL 33013",33013
+https://locations.tacobell.com/fl/ormond-beach/50-williamson-blvd.html,fl,ormond-beach,50-williamson-blvd,022596,"50 Williamson Blvd, Ormond Beach, FL 32174",32174
+https://locations.tacobell.com/fl/la-belle/50-north-lee-street.html,fl,la-belle,50-north-lee-street,042845,"50 North Lee Street, La Belle, FL 33935",33935
+https://locations.tacobell.com/fl/deerfield-beach/50-n-federal-hwy.html,fl,deerfield-beach,50-n-federal-hwy,033105,"50 N Federal Hwy, Deerfield Beach, FL 33441",33441
+https://locations.tacobell.com/fl/kissimmee/4951-w-irlo-brnsn-mem-hwy.html,fl,kissimmee,4951-w-irlo-brnsn-mem-hwy,023293,"4951 W Irlo Brnsn Mem Hwy, Kissimmee, FL 34746",34746
+https://locations.tacobell.com/fl/altamonte-springs/495-w-state-rd-436.html,fl,altamonte-springs,495-w-state-rd-436,005646,"495 W State Rd 436, Altamonte Springs, FL 32714",32714
+https://locations.tacobell.com/fl/miami-gardens/4870-nw-183-st.html,fl,miami-gardens,4870-nw-183-st,024746,"4870 NW 183 St, Miami Gardens, FL 33055",33055
+https://locations.tacobell.com/fl/fort-myers/4860-palm-beach-blvd.html,fl,fort-myers,4860-palm-beach-blvd,042849,"4860 Palm Beach Blvd, Fort Myers, FL 33905",33905
+https://locations.tacobell.com/fl/kenneth-city/4703-66th-street-north.html,fl,kenneth-city,4703-66th-street-north,029569,"4703 66th Street North, Kenneth City, FL 33709",33709
+https://locations.tacobell.com/fl/marianna/4689-highway-90.html,fl,marianna,4689-highway-90,042131,"4689 Highway 90, Marianna, FL 32446",32446
+https://locations.tacobell.com/fl/auburndale/465-havendale-blvd.html,fl,auburndale,465-havendale-blvd,029533,"465 Havendale Blvd, Auburndale, FL 33823",33823
+https://locations.tacobell.com/fl/tampa/4647-west-kennedy-blvd.html,fl,tampa,4647-west-kennedy-blvd,018301,"4647 West Kennedy Blvd, Tampa, FL 33609",33609
+https://locations.tacobell.com/fl/pinellas-park/4599-park-blvd.html,fl,pinellas-park,4599-park-blvd,029568,"4599 Park Blvd, Pinellas Park, FL 33781",33781
+https://locations.tacobell.com/fl/jacksonville/4495-roosevelt-blvd-.html,fl,jacksonville,4495-roosevelt-blvd-,L518065,"4495 Roosevelt Blvd., Jacksonville, FL 32210",32210
+https://locations.tacobell.com/fl/west-palm-beach/4466-forest-hill-blvd.html,fl,west-palm-beach,4466-forest-hill-blvd,033093,"4466 Forest Hill Blvd, West Palm Beach, FL 33406",33406
+https://locations.tacobell.com/fl/casselberry/4460-s-highway-17-92.html,fl,casselberry,4460-s-highway-17-92,017290,"4460 S Highway 17 92, Casselberry, FL 32707",32707
+https://locations.tacobell.com/fl/west-palm-beach/4385-45th-st.html,fl,west-palm-beach,4385-45th-st,024543,"4385 45th St, West Palm Beach, FL 33407",33407
+https://locations.tacobell.com/fl/mary-esther/435-mary-esther-blvd-.html,fl,mary-esther,435-mary-esther-blvd-,042134,"435 Mary Esther Blvd., Mary Esther, FL 32569",32569
+https://locations.tacobell.com/fl/panama-city/434-s-tyndall-parkway.html,fl,panama-city,434-s-tyndall-parkway,004185,"434 S Tyndall Parkway, Panama City, FL 32404",32404
+https://locations.tacobell.com/fl/west-palm-beach/4331-okeechobee-blvd-.html,fl,west-palm-beach,4331-okeechobee-blvd-,033092,"4331 Okeechobee Blvd., West Palm Beach, FL 33409",33409
+https://locations.tacobell.com/fl/new-port-richey/4312-u-s--highway-19.html,fl,new-port-richey,4312-u-s--highway-19,G135058,"4312 U.S. Highway 19, New Port Richey, FL 34652",34652
+https://locations.tacobell.com/fl/tampa/4302-n--armenia-avenue.html,fl,tampa,4302-n--armenia-avenue,G135040,"4302 N. Armenia Avenue, Tampa, FL 33607",33607
+https://locations.tacobell.com/fl/wildwood/428-east-sr-44.html,fl,wildwood,428-east-sr-44,032354,"428 East SR 44, Wildwood, FL 34785",34785
+https://locations.tacobell.com/fl/orlando/4225-e-colonial-drive.html,fl,orlando,4225-e-colonial-drive,027976,"4225 E Colonial Drive, Orlando, FL 32803",32803
+https://locations.tacobell.com/fl/naples/4201-tamiami-trail.html,fl,naples,4201-tamiami-trail,042859,"4201 Tamiami Trail, Naples, FL 34112",34112
+https://locations.tacobell.com/fl/tallahassee/4200-w-tennessee-st.html,fl,tallahassee,4200-w-tennessee-st,026459,"4200 W Tennessee St, Tallahassee, FL 32304",32304
+https://locations.tacobell.com/fl/davie/4200-sw-64th-ave-.html,fl,davie,4200-sw-64th-ave-,G979018,"4200 SW 64th Ave., Davie, FL 33314",33314
+https://locations.tacobell.com/fl/miami/4185-sw-147th-avenue.html,fl,miami,4185-sw-147th-avenue,031630,"4185 SW 147th Avenue, Miami, FL 33185",33185
+https://locations.tacobell.com/fl/lakeland/4165-highway-98-n.html,fl,lakeland,4165-highway-98-n,029534,"4165 Highway 98 N, Lakeland, FL 33809",33809
+https://locations.tacobell.com/fl/merritt-island/410-n-courtenay-pkwy.html,fl,merritt-island,410-n-courtenay-pkwy,027970,"410 N Courtenay Pkwy, Merritt Island, FL 32953",32953
+https://locations.tacobell.com/fl/tarpon-springs/40976-us-highway-19-north.html,fl,tarpon-springs,40976-us-highway-19-north,017693,"40976 US Highway 19 North, Tarpon Springs, FL 34689",40976
+https://locations.tacobell.com/fl/panama-city/4020-w--23rd--street.html,fl,panama-city,4020-w--23rd--street,022073,"4020 W. 23rd. Street, Panama City, FL 32405",32405
+https://locations.tacobell.com/fl/avon-park/401-us-highway-27-south.html,fl,avon-park,401-us-highway-27-south,028594,"401 US Highway 27 South, Avon Park, FL 33825",33825
+https://locations.tacobell.com/fl/lauderdale-lakes/3970-w-oakland-park-blvd.html,fl,lauderdale-lakes,3970-w-oakland-park-blvd,026469,"3970 W Oakland Park Blvd, Lauderdale Lakes, FL 33311",33311
+https://locations.tacobell.com/fl/hialeah/390-west-29th-street.html,fl,hialeah,390-west-29th-street,030358,"390 West 29th Street, Hialeah, FL 33010",33010
+https://locations.tacobell.com/fl/ruskin/3886-sun-city-center.html,fl,ruskin,3886-sun-city-center,036138,"3886 Sun City Center, Ruskin, FL 33570",33570
+https://locations.tacobell.com/fl/tallahassee/3839-capital-circle-ne.html,fl,tallahassee,3839-capital-circle-ne,026456,"3839 Capital Circle NE, Tallahassee, FL 32308",32308
+https://locations.tacobell.com/fl/tampa/3803-west-minnehaha-street.html,fl,tampa,3803-west-minnehaha-street,029595,"3803 West Minnehaha Street, Tampa, FL 33614",33614
+https://locations.tacobell.com/fl/tampa/3802-south-dale-mabry-highway.html,fl,tampa,3802-south-dale-mabry-highway,029584,"3802 South Dale Mabry Highway, Tampa, FL 33611",33611
+https://locations.tacobell.com/fl/palm-beach-gardens/3800-northlake-blvd.html,fl,palm-beach-gardens,3800-northlake-blvd,033094,"3800 Northlake Blvd, Palm Beach Gardens, FL 33410",33410
+https://locations.tacobell.com/fl/lake-mary/3755-w--lake-mary-blvd-.html,fl,lake-mary,3755-w--lake-mary-blvd-,027979,"3755 W. Lake Mary Blvd., Lake Mary, FL 32746",32746
+https://locations.tacobell.com/fl/miami/3750-nw-79th-ave.html,fl,miami,3750-nw-79th-ave,025741,"3750 NW 79th Ave, Miami, FL 33166",33166
+https://locations.tacobell.com/fl/bradenton/3710-cortez-rd-w.html,fl,bradenton,3710-cortez-rd-w,029585,"3710 Cortez Rd W, Bradenton, FL 34210",34210
+https://locations.tacobell.com/fl/orlando/369-s-avalon-park-blvd.html,fl,orlando,369-s-avalon-park-blvd,028007,"369 S Avalon Park Blvd, Orlando, FL 32828",32828
+https://locations.tacobell.com/fl/deerfield-beach/3652-w-hillsboro-blvd.html,fl,deerfield-beach,3652-w-hillsboro-blvd,003927,"3652 W Hillsboro Blvd, Deerfield Beach, FL 33442",33442
+https://locations.tacobell.com/fl/miramar/3650-utopia-drive.html,fl,miramar,3650-utopia-drive,G979007,"3650 Utopia Drive, Miramar, FL 33023",33023
+https://locations.tacobell.com/fl/cocoa-beach/3645-n-atlantic-ave.html,fl,cocoa-beach,3645-n-atlantic-ave,027971,"3645 N Atlantic Ave, Cocoa Beach, FL 32931",32931
+https://locations.tacobell.com/fl/ormond-beach/361-w-granda-blvd.html,fl,ormond-beach,361-w-granda-blvd,022590,"361 W Granda Blvd, Ormond Beach, FL 32174",32174
+https://locations.tacobell.com/fl/miramar/3606-red-road.html,fl,miramar,3606-red-road,030524,"3606 Red Road, Miramar, FL 33025",33025
+https://locations.tacobell.com/fl/lakeland/3605-south-florida-avenue.html,fl,lakeland,3605-south-florida-avenue,029539,"3605 South Florida Avenue, Lakeland, FL 33803",33803
+https://locations.tacobell.com/fl/saint-cloud/3601-13th-st.html,fl,saint-cloud,3601-13th-st,039584,"3601 13th St, Saint Cloud, FL 34769",34769
+https://locations.tacobell.com/fl/saint-petersburg/3600-4th-street-north.html,fl,saint-petersburg,3600-4th-street-north,029579,"3600 4th Street North, Saint Petersburg, FL 33704",33704
+https://locations.tacobell.com/fl/haines-city/35995-hwy-27.html,fl,haines-city,35995-hwy-27,018462,"35995 Hwy 27, Haines City, FL 33844",35995
+https://locations.tacobell.com/fl/miami/3595-biscayne-blvd.html,fl,miami,3595-biscayne-blvd,003669,"3595 Biscayne Blvd, Miami, FL 33137",33137
+https://locations.tacobell.com/fl/pompano-beach/357-w--atlantic-blvd.html,fl,pompano-beach,357-w--atlantic-blvd,003898,"357 W. Atlantic Blvd, Pompano Beach, FL 33060",33060
+https://locations.tacobell.com/fl/clearwater/3550-ulmerton-rd.html,fl,clearwater,3550-ulmerton-rd,029564,"3550 Ulmerton Rd, Clearwater, FL 33762",33762
+https://locations.tacobell.com/fl/tallahassee/3529-apalachee-pkwy.html,fl,tallahassee,3529-apalachee-pkwy,026463,"3529 Apalachee Pkwy, Tallahassee, FL 32311",32311
+https://locations.tacobell.com/fl/sarasota/3510-clark-road.html,fl,sarasota,3510-clark-road,024556,"3510 Clark Road, Sarasota, FL 34231",34231
+https://locations.tacobell.com/fl/ocala/3501-west-silver-springs-blvd.html,fl,ocala,3501-west-silver-springs-blvd,026466,"3501 West Silver Springs Blvd, Ocala, FL 34475",34475
+https://locations.tacobell.com/fl/fort-lauderdale/3500-west-broward-blvd.html,fl,fort-lauderdale,3500-west-broward-blvd,029537,"3500 West Broward Blvd, Fort Lauderdale, FL 33312",33312
+https://locations.tacobell.com/fl/the-villages/3450-wedgewood-lane.html,fl,the-villages,3450-wedgewood-lane,029544,"3450 Wedgewood Lane, The Villages, FL 32162",32162
+https://locations.tacobell.com/fl/stuart/3450-s-e--federal-highway.html,fl,stuart,3450-s-e--federal-highway,024554,"3450 S.E. Federal Highway, Stuart, FL 34997",34997
+https://locations.tacobell.com/fl/fort-myers/3431-cleveland-ave.html,fl,fort-myers,3431-cleveland-ave,042842,"3431 Cleveland Ave, Fort Myers, FL 33901",33901
+https://locations.tacobell.com/fl/gainesville/3408-sw-archer-rd.html,fl,gainesville,3408-sw-archer-rd,026450,"3408 SW Archer Rd, Gainesville, FL 32608",32608
+https://locations.tacobell.com/fl/saint-petersburg/3401-5th-avenue-n.html,fl,saint-petersburg,3401-5th-avenue-n,029576,"3401 5th Avenue N, Saint Petersburg, FL 33713",33713
+https://locations.tacobell.com/fl/titusville/3343-columbia-blvd.html,fl,titusville,3343-columbia-blvd,022595,"3343 Columbia Blvd, Titusville, FL 32780",32780
+https://locations.tacobell.com/fl/lake-worth/3330-s-congress-ave.html,fl,lake-worth,3330-s-congress-ave,033097,"3330 S Congress Ave, Lake Worth, FL 33461",33461
+https://locations.tacobell.com/fl/ocala/3325-nw-pine-avenue.html,fl,ocala,3325-nw-pine-avenue,026467,"3325 NW Pine Avenue, Ocala, FL 34475",34475
+https://locations.tacobell.com/fl/palatka/3306-crill-ave.html,fl,palatka,3306-crill-ave,026453,"3306 Crill Ave, Palatka, FL 32177",32177
+https://locations.tacobell.com/fl/palm-harbor/32899-us-highway-19-n.html,fl,palm-harbor,32899-us-highway-19-n,016507,"32899 US Highway 19 N, Palm Harbor, FL 34684",32899
+https://locations.tacobell.com/fl/tallahassee/3209-n--monroe-st.html,fl,tallahassee,3209-n--monroe-st,026465,"3209 N. Monroe St, Tallahassee, FL 32303",32303
+https://locations.tacobell.com/fl/miami/3190-coral-way.html,fl,miami,3190-coral-way,025742,"3190 Coral Way, Miami, FL 33145",33145
+https://locations.tacobell.com/fl/brooksville/31001-cortez-blvd.html,fl,brooksville,31001-cortez-blvd,031006,"31001 Cortez Blvd, Brooksville, FL 34602",31001
+https://locations.tacobell.com/fl/apopka/307-e-main-st.html,fl,apopka,307-e-main-st,ERROR,ERROR,ERROR
+https://locations.tacobell.com/fl/pensacola/305-south-warrington-road.html,fl,pensacola,305-south-warrington-road,026778,"305 South Warrington Road, Pensacola, FL 32507",32507
+https://locations.tacobell.com/fl/hollywood/300-north-park-road.html,fl,hollywood,300-north-park-road,019017,"300 North Park Road, Hollywood, FL 33021",33021
+https://locations.tacobell.com/fl/clearwater/2990-gulf-to-bay-blvd.html,fl,clearwater,2990-gulf-to-bay-blvd,031793,"2990 Gulf To Bay Blvd, Clearwater, FL 33759",33759
+https://locations.tacobell.com/fl/pembroke-pines/298-n--university-drive.html,fl,pembroke-pines,298-n--university-drive,021409,"298 N. University Drive, Pembroke Pines, FL 33024",33024
+https://locations.tacobell.com/fl/jensen-beach/2958-n-west-federal-hwy.html,fl,jensen-beach,2958-n-west-federal-hwy,024537,"2958 N West Federal Hwy, Jensen Beach, FL 34957",34957
+https://locations.tacobell.com/fl/miami/2935-sw-32nd-ave.html,fl,miami,2935-sw-32nd-ave,004467,"2935 SW 32nd Ave, Miami, FL 33133",33133
+https://locations.tacobell.com/fl/tampa/2921-e-busch-blvd.html,fl,tampa,2921-e-busch-blvd,036131,"2921 E Busch Blvd, Tampa, FL 33612",33612
+https://locations.tacobell.com/fl/bonita-springs/28370-trails-edge-blvd.html,fl,bonita-springs,28370-trails-edge-blvd,042851,"28370 Trails Edge Blvd, Bonita Springs, FL 34134",28370
+https://locations.tacobell.com/fl/tallahassee/2806-s-monroe.html,fl,tallahassee,2806-s-monroe,026454,"2806 S Monroe, Tallahassee, FL 32301",32301
+https://locations.tacobell.com/fl/pompano-beach/2801-w--atlantic-blvd.html,fl,pompano-beach,2801-w--atlantic-blvd,033106,"2801 W. Atlantic Blvd, Pompano Beach, FL 33069",33069
+https://locations.tacobell.com/fl/wellington/2801-s-state-road-7.html,fl,wellington,2801-s-state-road-7,033104,"2801 S State Road 7, Wellington, FL 33414",33414
+https://locations.tacobell.com/fl/lake-city/280-sw-main-blvd.html,fl,lake-city,280-sw-main-blvd,036301,"280 SW Main Blvd, Lake City, FL 32025",32025
+https://locations.tacobell.com/fl/jacksonville-beach/280-s-3rd-st.html,fl,jacksonville-beach,280-s-3rd-st,023697,"280 S 3rd St, Jacksonville Beach, FL 32250",32250
+https://locations.tacobell.com/fl/deltona/2753-elkcam-blvd-.html,fl,deltona,2753-elkcam-blvd-,027986,"2753 Elkcam Blvd., Deltona, FL 32738",32738
+https://locations.tacobell.com/fl/cocoa/2721-clear-lake-rd-.html,fl,cocoa,2721-clear-lake-rd-,027974,"2721 Clear Lake Rd., Cocoa, FL 32922",32922
+https://locations.tacobell.com/fl/lehigh-acres/2714-lee-blvd.html,fl,lehigh-acres,2714-lee-blvd,042852,"2714 Lee Blvd, Lehigh Acres, FL 33971",33971
+https://locations.tacobell.com/fl/hollywood/2700-stirling-road.html,fl,hollywood,2700-stirling-road,017092,"2700 Stirling Road, Hollywood, FL 33020",33020
+https://locations.tacobell.com/fl/sanford/2700-s-orlando-dr.html,fl,sanford,2700-s-orlando-dr,022589,"2700 S Orlando Dr, Sanford, FL 32773",32773
+https://locations.tacobell.com/fl/hialeah/2690-west-68th-street.html,fl,hialeah,2690-west-68th-street,017721,"2690 West 68th Street, Hialeah, FL 33016",33016
+https://locations.tacobell.com/fl/orange-city/2628-enterprise-rd-.html,fl,orange-city,2628-enterprise-rd-,027980,"2628 Enterprise Rd., Orange City, FL 32763",32763
+https://locations.tacobell.com/fl/orlando/2600-orlando-west-dr.html,fl,orlando,2600-orlando-west-dr,023296,"2600 Orlando West Dr, Orlando, FL 32808",32808
+https://locations.tacobell.com/fl/tampa/2575-e--hillsborough-ave.html,fl,tampa,2575-e--hillsborough-ave,031597,"2575 E. Hillsborough Ave, Tampa, FL 33610",33610
+https://locations.tacobell.com/fl/crestview/2549-s-ferdon-blvd.html,fl,crestview,2549-s-ferdon-blvd,003874,"2549 S Ferdon Blvd, Crestview, FL 32536",32536
+https://locations.tacobell.com/fl/naples/2482-immokalee-rd.html,fl,naples,2482-immokalee-rd,042857,"2482 Immokalee Rd, Naples, FL 34110",34110
+https://locations.tacobell.com/fl/orlando/2474-s-orange-ave-.html,fl,orlando,2474-s-orange-ave-,039593,"2474 S Orange Ave., Orlando, FL 32806",32806
+https://locations.tacobell.com/fl/margate/2466-n-state-road-7.html,fl,margate,2466-n-state-road-7,033100,"2466 N State Road 7, Margate, FL 33063",33063
+https://locations.tacobell.com/fl/clearwater/2456-mcmullen-booth-rd.html,fl,clearwater,2456-mcmullen-booth-rd,003773,"2456 McMullen Booth Rd, Clearwater, FL 33759",33759
+https://locations.tacobell.com/fl/saint-augustine/2453-state-road-16.html,fl,saint-augustine,2453-state-road-16,026464,"2453 State Road 16, Saint Augustine, FL 32092",32092
+https://locations.tacobell.com/fl/sunrise/2451-north-university-drive.html,fl,sunrise,2451-north-university-drive,029538,"2451 North University Drive, Sunrise, FL 33322",33322
+https://locations.tacobell.com/fl/plant-city/2442-jim-redman-pkwy-.html,fl,plant-city,2442-jim-redman-pkwy-,029590,"2442 Jim Redman Pkwy., Plant City, FL 33566",33566
+https://locations.tacobell.com/fl/melbourne/2424-wickham-rd.html,fl,melbourne,2424-wickham-rd,027972,"2424 Wickham Rd, Melbourne, FL 32935",32935
+https://locations.tacobell.com/fl/naples/2424-pine-ridge-road.html,fl,naples,2424-pine-ridge-road,042846,"2424 Pine Ridge Road, Naples, FL 34109",34109
+https://locations.tacobell.com/fl/lake-wales/24186-us-hwy-27.html,fl,lake-wales,24186-us-hwy-27,030375,"24186 US Hwy 27, Lake Wales, FL 33859",24186
+https://locations.tacobell.com/fl/lake-city/2411-w-us-highway-90.html,fl,lake-city,2411-w-us-highway-90,036296,"2411 W US Highway 90, Lake City, FL 32055",32055
+https://locations.tacobell.com/fl/orlando/2403-hiawassee-rd.html,fl,orlando,2403-hiawassee-rd,023298,"2403 Hiawassee Rd, Orlando, FL 32811",32811
+https://locations.tacobell.com/fl/delray-beach/240-linton-blvd.html,fl,delray-beach,240-linton-blvd,024548,"240 Linton Blvd, Delray Beach, FL 33444",33444
+https://locations.tacobell.com/fl/ocala/2380-s-w-college-road.html,fl,ocala,2380-s-w-college-road,026447,"2380 S W College Road, Ocala, FL 34474",34474
+https://locations.tacobell.com/fl/south-daytona/2375-ridge-wood-ave.html,fl,south-daytona,2375-ridge-wood-ave,022587,"2375 Ridge Wood Ave, South Daytona, FL 32119",32119
+https://locations.tacobell.com/fl/arcadia/2357-highway-70-se.html,fl,arcadia,2357-highway-70-se,030848,"2357 Highway 70 SE, Arcadia, FL 34266",34266
+https://locations.tacobell.com/fl/hollywood/235-s-r--7.html,fl,hollywood,235-s-r--7,028850,"235 S.R. 7, Hollywood, FL 33023",33023
+https://locations.tacobell.com/fl/key-west/2338-n--roosevelt-blvd.html,fl,key-west,2338-n--roosevelt-blvd,031299,"2338 N. Roosevelt Blvd, Key West, FL 33040",33040
+https://locations.tacobell.com/fl/auburndale/2325-us-highway-92-w.html,fl,auburndale,2325-us-highway-92-w,029545,"2325 US Highway 92 W, Auburndale, FL 33823",33823
+https://locations.tacobell.com/fl/florida-city/232-s-e--1st-avenue.html,fl,florida-city,232-s-e--1st-avenue,G135308,"232 S.E. 1st Avenue, Florida City, FL 33034",33034
+https://locations.tacobell.com/fl/davenport/2300-deer-creek-commerce.html,fl,davenport,2300-deer-creek-commerce,029992,"2300 Deer Creek Commerce, Davenport, FL 33837",33837
+https://locations.tacobell.com/fl/boca-raton/22953-sandalfoot-plaza-drive.html,fl,boca-raton,22953-sandalfoot-plaza-drive,002595,"22953 Sandalfoot Plaza Drive, Boca Raton, FL 33428",22953
+https://locations.tacobell.com/fl/lutz/22744-state-rd--54.html,fl,lutz,22744-state-rd--54,036137,"22744 State Rd. 54, Lutz, FL 33549",22744
+https://locations.tacobell.com/fl/davie/2250-s-university-dr-.html,fl,davie,2250-s-university-dr-,004642,"2250 S University Dr., Davie, FL 33324",33324
+https://locations.tacobell.com/fl/gainesville/2224-nw-13th-st.html,fl,gainesville,2224-nw-13th-st,026458,"2224 NW 13th St, Gainesville, FL 32605",32605
+https://locations.tacobell.com/fl/spring-hill/2220-commercial-way.html,fl,spring-hill,2220-commercial-way,036140,"2220 Commercial Way, Spring Hill, FL 34606",34606
+https://locations.tacobell.com/fl/valrico/2201-state-road-60-e.html,fl,valrico,2201-state-road-60-e,024562,"2201 State Road 60 E, Valrico, FL 33594",33594
+https://locations.tacobell.com/fl/daytona-beach/2140-w-international-speedway-blvd.html,fl,daytona-beach,2140-w-international-speedway-blvd,022594,"2140 W International Speedway Blvd, Daytona Beach, FL 32114",32114
+https://locations.tacobell.com/fl/ocala/2116-e-silver-springs-blvd.html,fl,ocala,2116-e-silver-springs-blvd,026457,"2116 E Silver Springs Blvd, Ocala, FL 34470",34470
+https://locations.tacobell.com/fl/plant-city/2101-west-baker-street.html,fl,plant-city,2101-west-baker-street,024566,"2101 West Baker Street, Plant City, FL 33567",33567
+https://locations.tacobell.com/fl/orlando/2050-s-semoran-blvd.html,fl,orlando,2050-s-semoran-blvd,039596,"2050 S Semoran Blvd, Orlando, FL 32822",32822
+https://locations.tacobell.com/fl/jupiter/2048-west-indiantown-road.html,fl,jupiter,2048-west-indiantown-road,033101,"2048 West Indiantown Road, Jupiter, FL 33458",33458
+https://locations.tacobell.com/fl/west-melbourne/2035-west-new-haven-ave.html,fl,west-melbourne,2035-west-new-haven-ave,023289,"2035 West New Haven Ave, West Melbourne, FL 32904",32904
+https://locations.tacobell.com/fl/tampa/2031-e-bearss-ave.html,fl,tampa,2031-e-bearss-ave,036133,"2031 E Bearss Ave, Tampa, FL 33613",33613
+https://locations.tacobell.com/fl/saint-petersburg/2028-66th-st-.html,fl,saint-petersburg,2028-66th-st-,029566,"2028 66th St., Saint Petersburg, FL 33710",33710
+https://locations.tacobell.com/fl/chiefland/2025-north-young-blvd.html,fl,chiefland,2025-north-young-blvd,036300,"2025 North Young Blvd, Chiefland, FL 32626",32626
+https://locations.tacobell.com/fl/tampa/2016-north-50th-street.html,fl,tampa,2016-north-50th-street,017398,"2016 North 50th Street, Tampa, FL 33619",33619
+https://locations.tacobell.com/fl/pensacola/2011-airport-blvd.html,fl,pensacola,2011-airport-blvd,023774,"2011 Airport Blvd, Pensacola, FL 32504",32504
+https://locations.tacobell.com/fl/lynn-haven/2005-hwy-77.html,fl,lynn-haven,2005-hwy-77,019753,"2005 Hwy 77, Lynn Haven, FL 32444",32444
+https://locations.tacobell.com/fl/titusville/2004-s-washington-ave.html,fl,titusville,2004-s-washington-ave,027969,"2004 S Washington Ave, Titusville, FL 32780",32780
+https://locations.tacobell.com/fl/vero-beach/1985-41st-ave.html,fl,vero-beach,1985-41st-ave,024545,"1985 41st Ave, Vero Beach, FL 32960",32960
+https://locations.tacobell.com/fl/bushnell/1969-w--county-road-48.html,fl,bushnell,1969-w--county-road-48,G979016,"1969 W. County Road 48, Bushnell, FL 33513",33513
+https://locations.tacobell.com/fl/lake-wales/1942-east-hwy-60.html,fl,lake-wales,1942-east-hwy-60,015937,"1942 East Hwy 60, Lake Wales, FL 33853",33853
+https://locations.tacobell.com/fl/englewood/1901-mccall-rd-s.html,fl,englewood,1901-mccall-rd-s,024547,"1901 McCall Rd S, Englewood, FL 34223",34223
+https://locations.tacobell.com/fl/miami/18885-nw-2nd-ave.html,fl,miami,18885-nw-2nd-ave,020206,"18885 NW 2nd Ave, Miami, FL 33169",18885
+https://locations.tacobell.com/fl/rockledge/188-barton-blvd.html,fl,rockledge,188-barton-blvd,027973,"188 Barton Blvd, Rockledge, FL 32955",32955
+https://locations.tacobell.com/fl/hialeah/18750-nw-67th-ave.html,fl,hialeah,18750-nw-67th-ave,003599,"18750 NW 67th Ave, Hialeah, FL 33015",18750
+https://locations.tacobell.com/fl/new-smyrna-beach/1860-state-road-44.html,fl,new-smyrna-beach,1860-state-road-44,027990,"1860 State Road 44, New Smyrna Beach, FL 32168",32168
+https://locations.tacobell.com/fl/oviedo/1859-w-county-road-419.html,fl,oviedo,1859-w-county-road-419,027987,"1859 W County Road 419, Oviedo, FL 32765",32765
+https://locations.tacobell.com/fl/fernandina-beach/1858-south-8th-street.html,fl,fernandina-beach,1858-south-8th-street,023699,"1858 South 8th Street, Fernandina Beach, FL 32034",32034
+https://locations.tacobell.com/fl/miami/18407-s-dixie-hwy.html,fl,miami,18407-s-dixie-hwy,004258,"18407 S Dixie Hwy, Miami, FL 33157",18407
+https://locations.tacobell.com/fl/port-saint-lucie/1840-sw-gatlin-blvd.html,fl,port-saint-lucie,1840-sw-gatlin-blvd,024715,"1840 SW Gatlin Blvd, Port Saint Lucie, FL 34953",34953
+https://locations.tacobell.com/fl/fort-lauderdale/1830-south-federal-highway.html,fl,fort-lauderdale,1830-south-federal-highway,026472,"1830 South Federal Highway, Fort Lauderdale, FL 33316",33316
+https://locations.tacobell.com/fl/clearwater/1824-gulf-to-bay-blvd.html,fl,clearwater,1824-gulf-to-bay-blvd,003880,"1824 Gulf To Bay Blvd, Clearwater, FL 33765",33765
+https://locations.tacobell.com/fl/saint-augustine/1820-us-highway-1-s.html,fl,saint-augustine,1820-us-highway-1-s,026448,"1820 US Highway 1 S, Saint Augustine, FL 32084",32084
+https://locations.tacobell.com/fl/fort-pierce/1812-s-us-hwy-1.html,fl,fort-pierce,1812-s-us-hwy-1,024538,"1812 S Us Hwy 1, Fort Pierce, FL 34981",34981
+https://locations.tacobell.com/fl/clermont/1810-east-highway-50.html,fl,clermont,1810-east-highway-50,021472,"1810 East Highway 50, Clermont, FL 34711",34711
+https://locations.tacobell.com/fl/sebastian/1809-u-s--highway-1.html,fl,sebastian,1809-u-s--highway-1,G135245,"1809 U.S. Highway 1, Sebastian, FL 32958",32958
+https://locations.tacobell.com/fl/dunedin/1800-main-street.html,fl,dunedin,1800-main-street,029567,"1800 Main Street, Dunedin, FL 34698",34698
+https://locations.tacobell.com/fl/winter-haven/1799-3rd-street-sw.html,fl,winter-haven,1799-3rd-street-sw,002163,"1799 3rd Street SW, Winter Haven, FL 33880",33880
+https://locations.tacobell.com/fl/miami-gardens/17950-nw-27th-ave.html,fl,miami-gardens,17950-nw-27th-ave,026474,"17950 NW 27th Ave, Miami Gardens, FL 33056",17950
+https://locations.tacobell.com/fl/fort-myers/17460-ben-hill-griffin-parkway.html,fl,fort-myers,17460-ben-hill-griffin-parkway,042856,"17460 Ben Hill Griffin Parkway, Fort Myers, FL 33913",17460
+https://locations.tacobell.com/fl/tampa/17402-dona-michelle-dr.html,fl,tampa,17402-dona-michelle-dr,036141,"17402 Dona Michelle Dr, Tampa, FL 33647",17402
+https://locations.tacobell.com/fl/pompano-beach/1717-east-sample-road.html,fl,pompano-beach,1717-east-sample-road,019579,"1717 East Sample Road, Pompano Beach, FL 33064",33064
+https://locations.tacobell.com/fl/panama-city-beach/17120-panama-city-beach-pkwy.html,fl,panama-city-beach,17120-panama-city-beach-pkwy,019713,"17120 Panama City Beach Pkwy, Panama City Beach, FL 32413",17120
+https://locations.tacobell.com/fl/riviera-beach/1710-w--blue-heron-blvd.html,fl,riviera-beach,1710-w--blue-heron-blvd,033107,"1710 W. Blue Heron Blvd, Riviera Beach, FL 33404",33404
+https://locations.tacobell.com/fl/port-charlotte/1710-tamiami-trail.html,fl,port-charlotte,1710-tamiami-trail,042860,"1710 Tamiami Trail, Port Charlotte, FL 33948",33948
+https://locations.tacobell.com/fl/kissimmee/1709-w--vine-st-.html,fl,kissimmee,1709-w--vine-st-,039585,"1709 W. Vine St., Kissimmee, FL 34741",34741
+https://locations.tacobell.com/fl/mount-dora/17060-us-hwy-441.html,fl,mount-dora,17060-us-hwy-441,023301,"17060 US Hwy 441, Mount Dora, FL 32757",17060
+https://locations.tacobell.com/fl/tampa/1701-east-fowler-avenue.html,fl,tampa,1701-east-fowler-avenue,029583,"1701 East Fowler Avenue, Tampa, FL 33612",33612
+https://locations.tacobell.com/fl/sebring/1698-us-27-north.html,fl,sebring,1698-us-27-north,032190,"1698 US 27 North, Sebring, FL 33870",33870
+https://locations.tacobell.com/fl/orlando/16880-e--colonial-dr-.html,fl,orlando,16880-e--colonial-dr-,027985,"16880 E. Colonial Dr., Orlando, FL 32820",16880
+https://locations.tacobell.com/fl/lithia/16581-fishhawk-blvd-.html,fl,lithia,16581-fishhawk-blvd-,024568,"16581 Fishhawk Blvd., Lithia, FL 33547",16581
+https://locations.tacobell.com/fl/north-miami-beach/1650-ne-163rd-st.html,fl,north-miami-beach,1650-ne-163rd-st,026468,"1650 NE 163rd St, North Miami Beach, FL 33162",33162
+https://locations.tacobell.com/fl/clearwater/1648-s--missouri-avenue.html,fl,clearwater,1648-s--missouri-avenue,G135064,"1648 S. Missouri Avenue, Clearwater, FL 33756",33756
+https://locations.tacobell.com/fl/port-saint-lucie/1641-n-w--saint-lucie-west-boulevard.html,fl,port-saint-lucie,1641-n-w--saint-lucie-west-boulevard,G135265,"1641 N.W. Saint Lucie West Boulevard, Port Saint Lucie, FL 34986",34986
+https://locations.tacobell.com/fl/fleming-island/1635-cr-220.html,fl,fleming-island,1635-cr-220,032035,"1635 CR 220, Fleming Island, FL 32003",32003
+https://locations.tacobell.com/fl/cape-coral/1616-del-prado-blvd-s.html,fl,cape-coral,1616-del-prado-blvd-s,042841,"1616 Del Prado Blvd S, Cape Coral, FL 33990",33990
+https://locations.tacobell.com/fl/tampa/1605-w--kennedy-boulevard.html,fl,tampa,1605-w--kennedy-boulevard,G135063,"1605 W. Kennedy Boulevard, Tampa, FL 33606",33606
+https://locations.tacobell.com/fl/tampa/16020-mapledale-blvd.html,fl,tampa,16020-mapledale-blvd,036132,"16020 Mapledale Blvd, Tampa, FL 33624",16020
+https://locations.tacobell.com/fl/pembroke-pines/15821-pines-blvd-.html,fl,pembroke-pines,15821-pines-blvd-,G979008,"15821 Pines Blvd., Pembroke Pines, FL 33027",15821
+https://locations.tacobell.com/fl/miami/15715-sw-72-street.html,fl,miami,15715-sw-72-street,031588,"15715 SW 72 Street, Miami, FL 33196",15715
+https://locations.tacobell.com/fl/alachua/15350-nw-144th-way.html,fl,alachua,15350-nw-144th-way,026477,"15350 NW 144th Way, Alachua, FL 32615",15350
+https://locations.tacobell.com/fl/miami/15295-s-dixie-hwy.html,fl,miami,15295-s-dixie-hwy,025740,"15295 S Dixie Hwy, Miami, FL 33157",15295
+https://locations.tacobell.com/fl/quincy/1524-w--jefferson-street.html,fl,quincy,1524-w--jefferson-street,041836,"1524 W. Jefferson Street, Quincy, FL 32351",32351
+https://locations.tacobell.com/fl/miami/15201-sw-104th-street.html,fl,miami,15201-sw-104th-street,018554,"15201 SW 104th Street, Miami, FL 33196",15201
+https://locations.tacobell.com/fl/tallahassee/1506-w-tennessee-st.html,fl,tallahassee,1506-w-tennessee-st,026452,"1506 W Tennessee St, Tallahassee, FL 32304",32304
+https://locations.tacobell.com/fl/deland/1501-north-woodland-blvd.html,fl,deland,1501-north-woodland-blvd,022593,"1501 North Woodland Blvd, Deland, FL 32720",32720
+https://locations.tacobell.com/fl/orlando/1500-mccoy-rd-.html,fl,orlando,1500-mccoy-rd-,039598,"1500 McCoy Rd., Orlando, FL 32809",32809
+https://locations.tacobell.com/fl/saint-petersburg/1495-4th-street-south.html,fl,saint-petersburg,1495-4th-street-south,030370,"1495 4th Street South, Saint Petersburg, FL 33701",33701
+https://locations.tacobell.com/fl/north-port/14912-tamiami-trail.html,fl,north-port,14912-tamiami-trail,024571,"14912 Tamiami Trail, North Port, FL 34287",14912
+https://locations.tacobell.com/fl/defuniak-springs/1465-us-hwy--331-south.html,fl,defuniak-springs,1465-us-hwy--331-south,042126,"1465 US Hwy. 331 South, Defuniak Springs, FL 32435",32435
+https://locations.tacobell.com/fl/williston/143-w-noble-ave.html,fl,williston,143-w-noble-ave,042290,"143 W Noble Ave, Williston, FL 32696",32696
+https://locations.tacobell.com/fl/apopka/1429-west-orange-blossom-trail.html,fl,apopka,1429-west-orange-blossom-trail,030999,"1429 West Orange Blossom Trail, Apopka, FL 32712",32712
+https://locations.tacobell.com/fl/weston/1425-n-park.html,fl,weston,1425-n-park,026471,"1425 N Park, Weston, FL 33326",33326
+https://locations.tacobell.com/fl/daytona-beach/1408-beville-rd.html,fl,daytona-beach,1408-beville-rd,022591,"1408 Beville Rd, Daytona Beach, FL 32114",32114
+https://locations.tacobell.com/fl/north-fort-myers/14041-n-cleveland-ave.html,fl,north-fort-myers,14041-n-cleveland-ave,042847,"14041 N Cleveland Ave, North Fort Myers, FL 33903",14041
+https://locations.tacobell.com/fl/tampa/13917-w--hillsborough-ave.html,fl,tampa,13917-w--hillsborough-ave,029570,"13917 W. Hillsborough Ave, Tampa, FL 33635",13917
+https://locations.tacobell.com/fl/miami/13720-s-w-8th-street.html,fl,miami,13720-s-w-8th-street,025746,"13720 S W 8th Street, Miami, FL 33184",13720
+https://locations.tacobell.com/fl/miami/13710-sw-88th-street.html,fl,miami,13710-sw-88th-street,027690,"13710 SW 88th Street, Miami, FL 33186",13710
+https://locations.tacobell.com/fl/jacksonville/13710-beach-blvd.html,fl,jacksonville,13710-beach-blvd,026096,"13710 Beach Blvd, Jacksonville, FL 32224",13710
+https://locations.tacobell.com/fl/largo/13709-walsingham-rd.html,fl,largo,13709-walsingham-rd,002444,"13709 Walsingham Rd, Largo, FL 33774",13709
+https://locations.tacobell.com/fl/homestead/13610-sw-288th-st.html,fl,homestead,13610-sw-288th-st,032189,"13610 SW 288th St, Homestead, FL 33033",13610
+https://locations.tacobell.com/fl/boca-raton/1361-west-palmetto-park-rd.html,fl,boca-raton,1361-west-palmetto-park-rd,026581,"1361 West Palmetto Park Rd, Boca Raton, FL 33486",33486
+https://locations.tacobell.com/fl/miami/13550-sw-152nd-street.html,fl,miami,13550-sw-152nd-street,016100,"13550 SW 152nd Street, Miami, FL 33177",13550
+https://locations.tacobell.com/fl/ocala/13545-s-w--17th-court.html,fl,ocala,13545-s-w--17th-court,026476,"13545 S.W. 17th Court, Ocala, FL 34473",13545
+https://locations.tacobell.com/fl/brandon/1350-w--brandon-blvd.html,fl,brandon,1350-w--brandon-blvd,029357,"1350 W. Brandon Blvd, Brandon, FL 33511",33511
+https://locations.tacobell.com/fl/winter-springs/1345-tuskawilla-rd.html,fl,winter-springs,1345-tuskawilla-rd,023295,"1345 Tuskawilla Rd, Winter Springs, FL 32708",32708
+https://locations.tacobell.com/fl/brooksville/13390-cortez-blvd.html,fl,brooksville,13390-cortez-blvd,036142,"13390 Cortez Blvd, Brooksville, FL 34613",13390
+https://locations.tacobell.com/fl/winter-garden/13309-w-colonial-dr.html,fl,winter-garden,13309-w-colonial-dr,039594,"13309 W Colonial Dr, Winter Garden, FL 34787",13309
+https://locations.tacobell.com/fl/royal-palm-beach/1318-royal-palm-beach-blvd.html,fl,royal-palm-beach,1318-royal-palm-beach-blvd,033112,"1318 Royal Palm Beach Blvd, Royal Palm Beach, FL 33411",33411
+https://locations.tacobell.com/fl/jacksonville/13160-atlantic-blvd.html,fl,jacksonville,13160-atlantic-blvd,023765,"13160 Atlantic Blvd, Jacksonville, FL 32225",13160
+https://locations.tacobell.com/fl/fort-myers/12851-s-cleveland-avenue.html,fl,fort-myers,12851-s-cleveland-avenue,042853,"12851 S Cleveland Avenue, Fort Myers, FL 33907",12851
+https://locations.tacobell.com/fl/dade-city/12816-us-highway-301.html,fl,dade-city,12816-us-highway-301,029592,"12816 US Highway 301, Dade City, FL 33525",12816
+https://locations.tacobell.com/fl/sunrise/12575-sunrise-blvd-.html,fl,sunrise,12575-sunrise-blvd-,026470,"12575 Sunrise Blvd., Sunrise, FL 33323",12575
+https://locations.tacobell.com/fl/crestview/1224-north-ferdon-blvd.html,fl,crestview,1224-north-ferdon-blvd,042125,"1224 North Ferdon Blvd, Crestview, FL 32536",32536
+https://locations.tacobell.com/fl/orlando/12151-so-orange-blossom-trail.html,fl,orlando,12151-so-orange-blossom-trail,023304,"12151 So Orange Blossom Trail, Orlando, FL 32837",12151
+https://locations.tacobell.com/fl/macclenny/1215-s-6th-st.html,fl,macclenny,1215-s-6th-st,036298,"1215 S 6th St, MacClenny, FL 32063",32063
+https://locations.tacobell.com/fl/deland/1201-s-woodland-blvd.html,fl,deland,1201-s-woodland-blvd,022588,"1201 S Woodland Blvd #A, Deland, FL 32720",32720
+https://locations.tacobell.com/fl/miami/12001-sw-129th-ct.html,fl,miami,12001-sw-129th-ct,029742,"12001 SW 129th Ct, Miami, FL 33186",12001
+https://locations.tacobell.com/fl/sanford/1200-wp-ball-blvd.html,fl,sanford,1200-wp-ball-blvd,027984,"1200 Wp Ball Blvd, Sanford, FL 32771",32771
+https://locations.tacobell.com/fl/orlando/11893-e-colonial-dr.html,fl,orlando,11893-e-colonial-dr,004435,"11893 E Colonial Dr, Orlando, FL 32826",11893
+https://locations.tacobell.com/fl/hialeah-gardens/11890-hialeah-gardens-blvd.html,fl,hialeah-gardens,11890-hialeah-gardens-blvd,028507,"11890 Hialeah Gardens Blvd, Hialeah Gardens, FL 33018",11890
+https://locations.tacobell.com/fl/port-richey/11818-u-s--highway-19.html,fl,port-richey,11818-u-s--highway-19,G135055,"11818 U.S. Highway 19, Port Richey, FL 34668",11818
+https://locations.tacobell.com/fl/jacksonville/11646-san-jose-blvd.html,fl,jacksonville,11646-san-jose-blvd,023698,"11646 San Jose Blvd, Jacksonville, FL 32223",11646
+https://locations.tacobell.com/fl/apopka/1154-rock-springs-rd.html,fl,apopka,1154-rock-springs-rd,030277,"1154 Rock Springs Rd, Apopka, FL 32712",32712
+https://locations.tacobell.com/fl/coral-springs/11431-west-sample-road.html,fl,coral-springs,11431-west-sample-road,033108,"11431 West Sample Road, Coral Springs, FL 33065",11431
+https://locations.tacobell.com/fl/brandon/11315-causeway-blvd.html,fl,brandon,11315-causeway-blvd,029588,"11315 Causeway Blvd, Brandon, FL 33511",11315
+https://locations.tacobell.com/fl/fort-myers-beach/11290-summerlin-square-dr.html,fl,fort-myers-beach,11290-summerlin-square-dr,042850,"11290 Summerlin Square Dr, Fort Myers Beach, FL 33931",11290
+https://locations.tacobell.com/fl/jacksonville/11270-old-st-augustine-rd.html,fl,jacksonville,11270-old-st-augustine-rd,023706,"11270 Old St Augustine Rd, Jacksonville, FL 32257",11270
+https://locations.tacobell.com/fl/pembroke-pines/11257-pines-blvd.html,fl,pembroke-pines,11257-pines-blvd,015777,"11257 Pines Blvd, Pembroke Pines, FL 33026",11257
+https://locations.tacobell.com/fl/jacksonville/11228-beach-blvd.html,fl,jacksonville,11228-beach-blvd,023700,"11228 Beach Blvd, Jacksonville, FL 32246",11228
+https://locations.tacobell.com/fl/spring-hill/11140-springhill-blvd.html,fl,spring-hill,11140-springhill-blvd,036135,"11140 Springhill Blvd, Spring Hill, FL 34609",11140
+https://locations.tacobell.com/fl/riverview/11118-bloomingdale-ave.html,fl,riverview,11118-bloomingdale-ave,029594,"11118 Bloomingdale Ave, Riverview, FL 33578",11118
+https://locations.tacobell.com/fl/tampa/11007-north-dale-mabry.html,fl,tampa,11007-north-dale-mabry,036136,"11007 North Dale Mabry, Tampa, FL 33618",11007
+https://locations.tacobell.com/fl/niceville/110-w--john-sims-parkway.html,fl,niceville,110-w--john-sims-parkway,042124,"110 W. John Sims Parkway, Niceville, FL 32578",32578
+https://locations.tacobell.com/fl/cape-coral/11-hancock-bridge-pkwy-west.html,fl,cape-coral,11-hancock-bridge-pkwy-west,042848,"11 Hancock Bridge Pkwy West, Cape Coral, FL 33990",33990
+https://locations.tacobell.com/fl/new-port-richey/10795-state-road-54.html,fl,new-port-richey,10795-state-road-54,030728,"10795 State Road 54, New Port Richey, FL 34653",10795
+https://locations.tacobell.com/fl/hialeah/1075-w-49th-st.html,fl,hialeah,1075-w-49th-st,000243,"1075 W 49th St, Hialeah, FL 33012",33012
+https://locations.tacobell.com/fl/seminole/10749-park-blvd.html,fl,seminole,10749-park-blvd,003861,"10749 Park Blvd, Seminole, FL 33772",10749
+https://locations.tacobell.com/fl/riverview/10611-gibsonton-drive.html,fl,riverview,10611-gibsonton-drive,024565,"10611 Gibsonton Drive, Riverview, FL 33569",10611
+https://locations.tacobell.com/fl/bartow/1060-east-van-fleet-drive.html,fl,bartow,1060-east-van-fleet-drive,016927,"1060 East Van Fleet Drive, Bartow, FL 33830",33830
+https://locations.tacobell.com/fl/miami/10580-sw-8th-st.html,fl,miami,10580-sw-8th-st,003684,"10580 SW 8th St, Miami, FL 33174",10580
+https://locations.tacobell.com/fl/jacksonville/10400-phillips-hwy.html,fl,jacksonville,10400-phillips-hwy,023703,"10400 Phillips Hwy, Jacksonville, FL 32256",10400
+https://locations.tacobell.com/fl/hallandale/1040-w-hallandale-beach-blvd.html,fl,hallandale,1040-w-hallandale-beach-blvd,028474,"1040 W Hallandale Beach Blvd, Hallandale, FL 33009",33009
+https://locations.tacobell.com/fl/orlando/10211-narcoossee-rd-.html,fl,orlando,10211-narcoossee-rd-,027989,"10211 Narcoossee Rd., Orlando, FL 32832",10211
+https://locations.tacobell.com/fl/palm-coast/1020-palm-coast-parkway.html,fl,palm-coast,1020-palm-coast-parkway,026462,"1020 Palm Coast Parkway, Palm Coast, FL 32137",32137
+https://locations.tacobell.com/fl/belleview/10199-se-hwy-441.html,fl,belleview,10199-se-hwy-441,026461,"10199 SE Hwy 441, Belleview, FL 34420",10199
+https://locations.tacobell.com/fl/royal-palm-beach/10115-southern-blvd.html,fl,royal-palm-beach,10115-southern-blvd,033098,"10115 Southern Blvd, Royal Palm Beach, FL 33411",10115
+https://locations.tacobell.com/fl/winter-park/101-semoran-blvd.html,fl,winter-park,101-semoran-blvd,023297,"101 Semoran Blvd, Winter Park, FL 32792",32792
+https://locations.tacobell.com/fl/lady-lake/1005-bichara-blvd-.html,fl,lady-lake,1005-bichara-blvd-,037822,"1005 Bichara Blvd., Lady Lake, FL 32159",32159
+https://locations.tacobell.com/fl/satellite-beach/1004-hwy-a1a.html,fl,satellite-beach,1004-hwy-a1a,023291,"1004 Hwy A1A, Satellite Beach, FL 32937",32937
+https://locations.tacobell.com/fl/port-charlotte/1001-kings-hwy.html,fl,port-charlotte,1001-kings-hwy,042843,"1001 Kings Hwy, Port Charlotte, FL 33980",33980
+https://locations.tacobell.com/fl/orlando/10005-university-blvd-.html,fl,orlando,10005-university-blvd-,027977,"10005 University Blvd., Orlando, FL 32817",10005
+https://locations.tacobell.com/fl/callahan/542285-u-s--1.html,fl,callahan,542285-u-s--1,033129,"542285 U.S. 1, Callahan, FL 32011",54228
+https://locations.tacobell.com/fl/jacksonville/4466-towne-center-parkway.html,fl,jacksonville,4466-towne-center-parkway,032690,"4466 Towne Center Parkway, Jacksonville, FL 32246",32246
+https://locations.tacobell.com/fl/palm-bay/1120-malabar-rd-se.html,fl,palm-bay,1120-malabar-rd-se,023300,"1120 Malabar Rd SE, Palm Bay, FL 32907",32907
+https://locations.tacobell.com/fl/apollo-beach/5096-us-41-19th-ave-nw.html,fl,apollo-beach,5096-us-41-19th-ave-nw,033297,"5096 US 41 19th Ave NW, Apollo Beach, FL 33572",33572
+https://locations.tacobell.com/fl/lakeland/5090-dave-robbins-way.html,fl,lakeland,5090-dave-robbins-way,031921,"5090 Dave Robbins Way, Lakeland, FL 33812",33812
+https://locations.tacobell.com/fl/crawfordville/49-preston-circle.html,fl,crawfordville,49-preston-circle,041839,"49 Preston Circle, Crawfordville, FL 32327",32327
+https://locations.tacobell.com/fl/lakeland/2520-e--memorial-blvd.html,fl,lakeland,2520-e--memorial-blvd,033087,"2520 E. Memorial Blvd, Lakeland, FL 33801",33801
+https://locations.tacobell.com/fl/riverview/13032-us-301-s.html,fl,riverview,13032-us-301-s,036146,"13032 US 301 S, Riverview, FL 33578",13032
+https://locations.tacobell.com/fl/niceville/4573-e--highway-20.html,fl,niceville,4573-e--highway-20,042123,"4573 E. Highway 20, Niceville, FL 32578",32578
+https://locations.tacobell.com/fl/naranja/26551-s--dixie-hwy.html,fl,naranja,26551-s--dixie-hwy,040302,"26551 S. Dixie Hwy, Naranja, FL 33032",26551
+https://locations.tacobell.com/fl/lutz/25630-sierra-center-blvd.html,fl,lutz,25630-sierra-center-blvd,036144,"25630 Sierra Center Blvd, Lutz, FL 33559",25630
+https://locations.tacobell.com/fl/middleburg/2614-blanding-blvd.html,fl,middleburg,2614-blanding-blvd,032367,"2614 Blanding Blvd, Middleburg, FL 32068",32068
+https://locations.tacobell.com/fl/spring-hill/3112-anderson-snow-rd.html,fl,spring-hill,3112-anderson-snow-rd,036148,"3112 Anderson Snow Rd, Spring Hill, FL 34609",34609
+https://locations.tacobell.com/fl/plantation/8221-west-broward-blvd.html,fl,plantation,8221-west-broward-blvd,E320111,"8221 West Broward Blvd, Plantation, FL 33324",33324
+https://locations.tacobell.com/fl/cooper-city/5990-s--flamingo-road.html,fl,cooper-city,5990-s--flamingo-road,E320121,"5990 S. Flamingo Road, Cooper City, FL 33330",33330
+https://locations.tacobell.com/fl/coral-springs/5850-wiles-road.html,fl,coral-springs,5850-wiles-road,E320122,"5850 Wiles Road, Coral Springs, FL 33067",33067
+https://locations.tacobell.com/fl/miami/3855-nw-27th-avenue.html,fl,miami,3855-nw-27th-avenue,E320120,"3855 NW 27th Avenue, Miami, FL 33142",33142
+https://locations.tacobell.com/fl/miami/2375-sw-8th-street.html,fl,miami,2375-sw-8th-street,E320117,"2375 SW 8th Street, Miami, FL 33135",33135
+https://locations.tacobell.com/fl/miami/14790-sw-56th-st.html,fl,miami,14790-sw-56th-st,E320110,"14790 SW 56th St, Miami, FL 33185",14790
+https://locations.tacobell.com/fl/miami/11585-quail-roost-drive.html,fl,miami,11585-quail-roost-drive,E320132,"11585 Quail Roost Drive, Miami, FL 33157",11585
+https://locations.tacobell.com/fl/miami/10725-nw-41st-street.html,fl,miami,10725-nw-41st-street,E320131,"10725 NW 41st Street, Miami, FL 33178",10725
+https://locations.tacobell.com/fl/kissimmee/3270-pleasant-hill-rd.html,fl,kissimmee,3270-pleasant-hill-rd,034162,"3270 Pleasant Hill Rd, Kissimmee, FL 34746",34746
+https://locations.tacobell.com/fl/groveland/7763-state-road-50.html,fl,groveland,7763-state-road-50,032955,"7763 State Road 50, Groveland, FL 34736",34736
+https://locations.tacobell.com/fl/perry/2159-byron-butler-parkway.html,fl,perry,2159-byron-butler-parkway,041840,"2159 Byron Butler Parkway, Perry, FL 32348",32348
+https://locations.tacobell.com/fl/saint-cloud/4899-e-irlo-bronson-mem-hwy.html,fl,saint-cloud,4899-e-irlo-bronson-mem-hwy,034163,"4899 E Irlo Bronson Mem Hwy, Saint Cloud, FL 34771",34771
+https://locations.tacobell.com/fl/palm-coast/5045-state-hwy-100-east.html,fl,palm-coast,5045-state-hwy-100-east,034148,"5045 State Hwy 100 East, Palm Coast, FL 32164",32164
+https://locations.tacobell.com/fl/homosassa/3763-south-suncoast-blvd-.html,fl,homosassa,3763-south-suncoast-blvd-,036145,"3763 South Suncoast Blvd., Homosassa, FL 34448",34448
+https://locations.tacobell.com/fl/ocoee/257-west-fountains-blvd.html,fl,ocoee,257-west-fountains-blvd,032959,"257 West Fountains Blvd, Ocoee, FL 34761",34761
+https://locations.tacobell.com/fl/port-saint-lucie/191-sw-port-st-lucie-blvd.html,fl,port-saint-lucie,191-sw-port-st-lucie-blvd,033110,"191 SW Port St Lucie Blvd, Port Saint Lucie, FL 34953",34953
+https://locations.tacobell.com/fl/winter-garden/5201-hamlin-groves-trail.html,fl,winter-garden,5201-hamlin-groves-trail,038869,"5201 Hamlin Groves Trail, Winter Garden, FL 34787",34787

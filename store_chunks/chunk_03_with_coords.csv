@@ -1,0 +1,881 @@
+url,state,city,address_slug,store_id,full_address,zip_code,latitude,longitude
+https://locations.tacobell.com/ca/bakersfield/2605-hosking-ave.html,ca,bakersfield,2605-hosking-ave,035849,"2605 Hosking Ave, Bakersfield, CA 93313",93313,35.2812928,-119.0313647
+https://locations.tacobell.com/ca/san-jose/925-blossom-hill-road.html,ca,san-jose,925-blossom-hill-road,040409,"925 Blossom Hill Road Suite 1641, San Jose, CA 95123",95123,37.2516658,-121.8634941
+https://locations.tacobell.com/ca/bakersfield/16132-stockdale-hwy.html,ca,bakersfield,16132-stockdale-hwy,040390,"16132 Stockdale Hwy, Bakersfield, CA 93314",16132,35.3544867,-119.1835207
+https://locations.tacobell.com/ca/fresno/6939-golden-state-blvd-.html,ca,fresno,6939-golden-state-blvd-,036022,"6939 Golden State Blvd., Fresno, CA 93722",93722,36.6230137,-119.673929
+https://locations.tacobell.com/ca/sacramento/1919-cosumnes-river-blvd-.html,ca,sacramento,1919-cosumnes-river-blvd-,039647,"1919 Cosumnes River Blvd., Sacramento, CA 95832",95832,38.4661405,-121.4993605
+https://locations.tacobell.com/ca/fresno/5244-n--jackson-ave.html,ca,fresno,5244-n--jackson-ave,041774,"5244 N. Jackson Ave, Fresno, CA 93740",93740,36.8111357,-119.7475649
+https://locations.tacobell.com/ca/san-luis-obispo/1-grand-avenue.html,ca,san-luis-obispo,1-grand-avenue,041424,"1 Grand Avenue, San Luis Obispo, CA 93407",93407,35.3074623,-120.6646483
+https://locations.tacobell.com/ca/sunnyvale/485-north-mathilda-ave-.html,ca,sunnyvale,485-north-mathilda-ave-,041078,"485 North Mathilda Ave., Sunnyvale, CA 94085",94085,37.3892005,-122.0311267
+https://locations.tacobell.com/ca/san-francisco/90-charter-oak-ave.html,ca,san-francisco,90-charter-oak-ave,041771,"90 Charter Oak Ave, San Francisco, CA 94124",94124,37.7366478,-122.404851
+https://locations.tacobell.com/ca/visalia/6620-betty-dr-.html,ca,visalia,6620-betty-dr-,038731,"6620 Betty Dr., Visalia, CA 93291",93291,36.3516689,-119.4260097
+https://locations.tacobell.com/ca/eastvale/14097-limonite-ave.html,ca,eastvale,14097-limonite-ave,041119,"14097 Limonite Ave, Eastvale, CA 92880",14097,33.9698259,-117.6042061
+https://locations.tacobell.com/ca/twentynine-palms/72180-twentynine-palms-highway.html,ca,twentynine-palms,72180-twentynine-palms-highway,040373,"72180 Twentynine Palms Highway, Twentynine Palms, CA 92277",72180,34.135954,-116.087752
+https://locations.tacobell.com/ca/los-angeles/2722-s--figueroa-st-.html,ca,los-angeles,2722-s--figueroa-st-,037739,"2722 S. Figueroa St., Los Angeles, CA 90007",90007,34.0268782,-118.2767036
+https://locations.tacobell.com/ca/yucaipa/31522-yucaipa-blvd.html,ca,yucaipa,31522-yucaipa-blvd,040936,"31522 Yucaipa Blvd, Yucaipa, CA 92399",31522,34.0289384,-117.1160974
+https://locations.tacobell.com/ca/santa-maria/560-s--blosser-rd-.html,ca,santa-maria,560-s--blosser-rd-,040355,"560 S. Blosser Rd., Santa Maria, CA 93458",93458,34.9467373,-120.4536362
+https://locations.tacobell.com/ca/lancaster/1313-w-ave-k.html,ca,lancaster,1313-w-ave-k,041064,"1313 W Ave K, Lancaster, CA 93534",93534,34.6772885,-118.1559634
+https://locations.tacobell.com/ca/los-angeles/801-west-7th-street.html,ca,los-angeles,801-west-7th-street,040890,"801 West 7th Street, Los Angeles, CA 90017",90017,34.04883,-118.258822
+https://locations.tacobell.com/ca/san-ysidro/2030-dairy-mart-road.html,ca,san-ysidro,2030-dairy-mart-road,041866,"2030 Dairy Mart Road, San Ysidro, CA 92173",92173,32.5609904,-117.0628536
+https://locations.tacobell.com/ca/fullerton/1889-west-malvern-ave-.html,ca,fullerton,1889-west-malvern-ave-,D742016,"1889 West Malvern Ave., Fullerton, CA 92833",92833,33.8749752,-117.9417411
+https://locations.tacobell.com/ca/los-angeles/7801-melrose-ave.html,ca,los-angeles,7801-melrose-ave,041953,"7801 Melrose Ave, Los Angeles, CA 90046",90046,34.083854,-118.359596
+https://locations.tacobell.com/ca/tracy/1102-n-international-parkway.html,ca,tracy,1102-n-international-parkway,041434,"1102 N International Parkway, Tracy, CA 95377",95377,37.7294814,-121.5313042
+https://locations.tacobell.com/ca/oceanside/3845-plaza-drive.html,ca,oceanside,3845-plaza-drive,040808,"3845 Plaza Drive, Oceanside, CA 92056",92056,33.182141,-117.2915626
+https://locations.tacobell.com/ca/desert-hot-springs/12975-palm-drive.html,ca,desert-hot-springs,12975-palm-drive,033354,"12975 Palm Drive, Desert Hot Springs, CA 92240",12975,33.9544178,-116.5014322
+https://locations.tacobell.com/ca/hemet/2097-east-florida-ave-.html,ca,hemet,2097-east-florida-ave-,031924,"2097 East Florida Ave., Hemet, CA 92544",92544,33.7475729,-116.9501135
+https://locations.tacobell.com/ca/arvin/330-bear-mountain-blvd-.html,ca,arvin,330-bear-mountain-blvd-,036480,"330 Bear Mountain Blvd., Arvin, CA 93203",93203,35.2091802,-118.8277561
+https://locations.tacobell.com/ca/fowler/105-s--10th-street.html,ca,fowler,105-s--10th-street,034793,"105 S. 10th Street, Fowler, CA 93625",93625,36.6273583,-119.6829235
+https://locations.tacobell.com/ca/san-diego/3195-market-st.html,ca,san-diego,3195-market-st,035187,"3195 Market St, San Diego, CA 92102",92102,32.711372,-117.125405
+https://locations.tacobell.com/ca/mcfarland/51-west-sherwood-ave.html,ca,mcfarland,51-west-sherwood-ave,033939,"51 West Sherwood Ave, McFarland, CA 93250",93250,35.6740491,-119.2271516
+https://locations.tacobell.com/ca/riverside/5225-van-buren-blvd.html,ca,riverside,5225-van-buren-blvd,039855,"5225 Van Buren Blvd, Riverside, CA 92503",92503,33.9372723,-117.4534283
+https://locations.tacobell.com/ca/anaheim/3270-w--lincoln-ave-.html,ca,anaheim,3270-w--lincoln-ave-,034357,"3270 W. Lincoln Ave., Anaheim, CA 92801",92801,33.8316728,-118.0049722
+https://locations.tacobell.com/ca/diamond-bar/218-s-diamond-bar-blvd.html,ca,diamond-bar,218-s-diamond-bar-blvd,019545,"218 S Diamond Bar Blvd, Diamond Bar, CA 91765",91765,34.022224,-117.8097433
+https://locations.tacobell.com/ca/barstow/1500-east-main-street.html,ca,barstow,1500-east-main-street,035991,"1500 East Main Street, Barstow, CA 92311",92311,34.8931394,-117.0015642
+https://locations.tacobell.com/ca/cathedral-city/31300-bob-hope-dr-.html,ca,cathedral-city,31300-bob-hope-dr-,034823,"31300 Bob Hope Dr., Cathedral City, CA 92234",31300,33.8200452,-116.4090103
+https://locations.tacobell.com/ca/san-jose/19-market-st-.html,ca,san-jose,19-market-st-,035133,"19 Market St., San Jose, CA 95113",95113,37.3350885,-121.8918937
+https://locations.tacobell.com/ca/brawley/120-w--main.html,ca,brawley,120-w--main,033480,"120 W. Main, Brawley, CA 92227",92227,32.9785707,-115.5420759
+https://locations.tacobell.com/ca/san-luis-obispo/3810-broad-street.html,ca,san-luis-obispo,3810-broad-street,024286,"3810 Broad Street Suite 1, San Luis Obispo, CA 93401",93401,35.2500464,-120.6436506
+https://locations.tacobell.com/ca/santa-barbara/1840-cliff-dr.html,ca,santa-barbara,1840-cliff-dr,041979,"1840 Cliff Dr, Santa Barbara, CA 93109",93109,34.4014771,-119.72136
+https://locations.tacobell.com/ca/fontana/7430-cherry-ave.html,ca,fontana,7430-cherry-ave,039856,"7430 Cherry Ave, Fontana, CA 92336",92336,34.1190069,-117.488651
+https://locations.tacobell.com/ca/dunnigan/30034-county-rd-8.html,ca,dunnigan,30034-county-rd-8,033444,"30034 County Rd 8, Dunnigan, CA 95937",30034,38.8628369,-121.9523615
+https://locations.tacobell.com/ca/bakersfield/5812-comanche-drive.html,ca,bakersfield,5812-comanche-drive,033938,"5812 Comanche Drive, Bakersfield, CA 93306",93306,35.4067172,-118.8595325
+https://locations.tacobell.com/ca/garden-grove/10901-garden-grove-blvd.html,ca,garden-grove,10901-garden-grove-blvd,036407,"10901 Garden Grove Blvd, Garden Grove, CA 92843",10901,33.7751176,-117.9424448
+https://locations.tacobell.com/ca/sacramento/900-k-street.html,ca,sacramento,900-k-street,036425,"900 K Street, Sacramento, CA 95814",95814,38.5793815,-121.4951746
+https://locations.tacobell.com/ca/riverside/17965-van-buren-blvd.html,ca,riverside,17965-van-buren-blvd,039857,"17965 Van Buren Blvd, Riverside, CA 92508",17965,33.8853744,-117.3489802
+https://locations.tacobell.com/ca/fresno/4071-e--ventura-st-.html,ca,fresno,4071-e--ventura-st-,036130,"4071 E. Ventura St., Fresno, CA 93702",93702,36.7357823,-119.777184
+https://locations.tacobell.com/ca/monterey/321-alvarado-st.html,ca,monterey,321-alvarado-st,026671,"321 Alvarado St, Monterey, CA 93940",93940,36.6005522,-121.8940936
+https://locations.tacobell.com/ca/brentwood/5941-lone-tree-way.html,ca,brentwood,5941-lone-tree-way,036249,"5941 Lone Tree Way, Brentwood, CA 94513",94513,37.9596902,-121.7426184
+https://locations.tacobell.com/ca/norco/1448-sixth-street.html,ca,norco,1448-sixth-street,039858,"1448 Sixth Street, Norco, CA 92860",92860,33.9380665,-117.5536133
+https://locations.tacobell.com/ca/la-verne/1401-foothill-blvd-.html,ca,la-verne,1401-foothill-blvd-,036437,"1401 Foothill Blvd., La Verne, CA 91750",91750,34.1175044,-117.776437
+https://locations.tacobell.com/ca/valencia/24541-copper-hill-drive.html,ca,valencia,24541-copper-hill-drive,036173,"24541 Copper Hill Drive, Valencia, CA 91354",24541,34.4525832,-118.5663333
+https://locations.tacobell.com/ca/anaheim/5626-e-santa-ana-canyon-rd.html,ca,anaheim,5626-e-santa-ana-canyon-rd,016781,"5626 E Santa Ana Canyon Rd, Anaheim, CA 92807",92807,33.8544188,-117.7773871
+https://locations.tacobell.com/ca/ventura/7880-telegraph-road.html,ca,ventura,7880-telegraph-road,019685,"7880 Telegraph Road Suite F, Ventura, CA 93004",93004,34.2812081,-119.1908014
+https://locations.tacobell.com/ca/sacramento/1580-w--el-camino-avenue.html,ca,sacramento,1580-w--el-camino-avenue,028111,"1580 W. El Camino Avenue Suite A-1, Sacramento, CA 95833",95833,38.6119116,-121.4973205
+https://locations.tacobell.com/ca/los-angeles/10937-weyburn-ave-.html,ca,los-angeles,10937-weyburn-ave-,024278,"10937 Weyburn Ave., Los Angeles, CA 90024",10937,34.0627296,-118.4466237
+https://locations.tacobell.com/ca/penn-valley/16978-penn-valley-dr.html,ca,penn-valley,16978-penn-valley-dr,019909,"16978 Penn Valley Dr, Penn Valley, CA 95946",16978,39.2018807,-121.1705517
+https://locations.tacobell.com/ca/calexico/2540-rockwood-avenue.html,ca,calexico,2540-rockwood-avenue,026032,"2540 Rockwood Avenue, Calexico, CA 92231",92231,32.6976001,-115.4965838
+https://locations.tacobell.com/ca/pacific-palisades/17299-pacific-coast-hwy.html,ca,pacific-palisades,17299-pacific-coast-hwy,021122,"17299 Pacific Coast Hwy, Pacific Palisades, CA 90272",17299,34.0389723,-118.5546333
+https://locations.tacobell.com/ca/buttonwillow/27769-lagoon-drive.html,ca,buttonwillow,27769-lagoon-drive,031607,"27769 Lagoon Drive Ta #160, Buttonwillow, CA 93206",27769,35.4009409,-119.3962255
+https://locations.tacobell.com/ca/cabazon/49030-seminole-dr.html,ca,cabazon,49030-seminole-dr,030724,"49030 Seminole Dr, Cabazon, CA 92230",49030,33.9222982,-116.8054538
+https://locations.tacobell.com/ca/coronado/100-b-ave.html,ca,coronado,100-b-ave,C191021,"100 B Ave, Coronado, CA 92118",92118,32.6977173,-117.170262
+https://locations.tacobell.com/ca/coachella/46155-dillion-road.html,ca,coachella,46155-dillion-road,018848,"46155 Dillion Road, Coachella, CA 92236",46155,33.7138603,-116.1765609
+https://locations.tacobell.com/ca/ontario/4265-east-guasti-road.html,ca,ontario,4265-east-guasti-road,21296,"4265 East Guasti Road, Ontario, CA 91761",91761,34.0648351,-117.5602897
+https://locations.tacobell.com/ca/arvin/5552-s--wheeler-ridge-road.html,ca,arvin,5552-s--wheeler-ridge-road,026655,"5552 S. Wheeler Ridge Road, Arvin, CA 93203",93203,34.9922024,-118.941339
+https://locations.tacobell.com/ca/maywood/3701-slauson-avenue.html,ca,maywood,3701-slauson-avenue,036226,"3701 Slauson Avenue, Maywood, CA 90270",90270,33.987335,-118.1867673
+https://locations.tacobell.com/ca/williams/288-vann-street.html,ca,williams,288-vann-street,037014,"288 Vann Street, Williams, CA 95987",95987,39.1583967,-122.1411451
+https://locations.tacobell.com/ca/vacaville/977-merchant-street.html,ca,vacaville,977-merchant-street,036224,"977 Merchant Street, Vacaville, CA 95688",95688,38.3471007,-121.997776
+https://locations.tacobell.com/ca/perris/3909-ramona-expressway.html,ca,perris,3909-ramona-expressway,041857,"3909 Ramona Expressway, Perris, CA 92571",92571,33.844449,-117.2266718
+https://locations.tacobell.com/ca/murrieta/36615-briggs-rd.html,ca,murrieta,36615-briggs-rd,038734,"36615 Briggs Rd, Murrieta, CA 92563",36615,33.592604,-117.1271217
+https://locations.tacobell.com/ca/fairfield/2061-walters-rd-.html,ca,fairfield,2061-walters-rd-,037732,"2061 Walters Rd., Fairfield, CA 94533",94533,38.2710913,-121.9880839
+https://locations.tacobell.com/ca/danville/444-front-street.html,ca,danville,444-front-street,037328,"444 Front Street, Danville, CA 94526",94526,37.8196055,-121.9959258
+https://locations.tacobell.com/ca/tulare/1051-s--mooney-blvd-.html,ca,tulare,1051-s--mooney-blvd-,037041,"1051 S. Mooney Blvd., Tulare, CA 93274",93274,36.1961928,-119.3130939
+https://locations.tacobell.com/ca/sacramento/1689-arden-way.html,ca,sacramento,1689-arden-way,030479,"1689 Arden Way Arden Fair Mall - Space 2012, Sacramento, CA 95815",95815,38.6011646,-121.4276086
+https://locations.tacobell.com/ca/highland/7347-boulder-avenue.html,ca,highland,7347-boulder-avenue,K312036,"7347 Boulder Avenue, Highland, CA 92346",92346,34.1202708,-117.1947269
+https://locations.tacobell.com/ca/los-angeles/8515-s--central-ave-.html,ca,los-angeles,8515-s--central-ave-,K312013,"8515 S. Central Ave., Los Angeles, CA 90001",90001,33.9605639,-118.2567085
+https://locations.tacobell.com/ca/universal-city/100-universal-city-plaza.html,ca,universal-city,100-universal-city-plaza,026759,"100 Universal City Plaza, Universal City, CA 91608",91608,34.1392322,-118.3543834
+https://locations.tacobell.com/ca/hawthorne/11523-hawthorne-blvd-.html,ca,hawthorne,11523-hawthorne-blvd-,K312018,"11523 Hawthorne Blvd., Hawthorne, CA 90250",11523,33.9295569,-118.353039
+https://locations.tacobell.com/ca/ontario/4371-ontario-mills-parkway.html,ca,ontario,4371-ontario-mills-parkway,K312053,"4371 Ontario Mills Parkway, Ontario, CA 91764",91764,34.069535,-117.5567356
+https://locations.tacobell.com/ca/madera/28577-avenue-12.html,ca,madera,28577-avenue-12,037386,"28577 Avenue 12, Madera, CA 93637",28577,36.9247586,-120.026726
+https://locations.tacobell.com/ca/los-angeles/320-north-soto.html,ca,los-angeles,320-north-soto,D016002,"320 North Soto, Los Angeles, CA 90033",90033,34.0558122,-118.2020966
+https://locations.tacobell.com/ca/corona/1300-e--ontario-avenue.html,ca,corona,1300-e--ontario-avenue,K312055,"1300 E. Ontario Avenue, Corona, CA 92881",92881,33.8457865,-117.5387869
+https://locations.tacobell.com/ca/los-angeles/308-westwood-plaza.html,ca,los-angeles,308-westwood-plaza,022913,"308 Westwood Plaza, Los Angeles, CA 90024",90024,34.0702829,-118.4439659
+https://locations.tacobell.com/ca/lebec/5941-dennis-mccarthy-drive.html,ca,lebec,5941-dennis-mccarthy-drive,036422,"5941 Dennis McCarthy Drive, Lebec, CA 93243",93243,34.9834732,-118.9489453
+https://locations.tacobell.com/ca/inglewood/2941-west-imperial-hwy-.html,ca,inglewood,2941-west-imperial-hwy-,K312059,"2941 West Imperial Hwy., Inglewood, CA 90303",90303,33.9314445,-118.3255907
+https://locations.tacobell.com/ca/thermal/2084-s-marina-drive.html,ca,thermal,2084-s-marina-drive,034755,"2084 S Marina Drive, Thermal, CA 92274",92274,33.2787399,-115.965434
+https://locations.tacobell.com/ca/parlier/801-e-manning-ave.html,ca,parlier,801-e-manning-ave,037171,"801 E Manning Ave, Parlier, CA 93648",93648,36.6047614,-119.5272274
+https://locations.tacobell.com/ca/san-jose/211-s-9th-street.html,ca,san-jose,211-s-9th-street,036511,"211 S 9th Street, San Jose, CA 95112",95112,37.336385,-121.881096
+https://locations.tacobell.com/ca/costa-mesa/1476-bristol-street.html,ca,costa-mesa,1476-bristol-street,037288,"1476 Bristol Street, Costa Mesa, CA 92626",92626,33.6665165,-117.8827745
+https://locations.tacobell.com/ca/san-jose/609-horning-street.html,ca,san-jose,609-horning-street,036165,"609 Horning Street, San Jose, CA 95112",95112,37.3617004,-121.8924669
+https://locations.tacobell.com/ca/greenfield/780-walnut-ave.html,ca,greenfield,780-walnut-ave,036720,"780 Walnut Ave, Greenfield, CA 93927",93927,36.3273673,-121.2476278
+https://locations.tacobell.com/ca/visalia/815-s--akers-drive.html,ca,visalia,815-s--akers-drive,037148,"815 S. Akers Drive, Visalia, CA 93277",93277,36.3237415,-119.350282
+https://locations.tacobell.com/ca/grand-terrace/22172-barton-road.html,ca,grand-terrace,22172-barton-road,036555,"22172 Barton Road, Grand Terrace, CA 92313",22172,34.0342192,-117.3211276
+https://locations.tacobell.com/ca/menifee/27721-scott-rd-.html,ca,menifee,27721-scott-rd-,040811,"27721 Scott Rd. #3, Menifee, CA 92584",27721,33.6411323,-117.1738125
+https://locations.tacobell.com/ca/bakersfield/17047-zachary-ave.html,ca,bakersfield,17047-zachary-ave,037418,"17047 Zachary Ave, Bakersfield, CA 93308",17047,35.5313522,-119.187911
+https://locations.tacobell.com/ca/sacramento/3291-truxel-rd.html,ca,sacramento,3291-truxel-rd,038739,"3291 Truxel Rd, Sacramento, CA 95833",95833,38.6254177,-121.498442
+https://locations.tacobell.com/ca/lake-elsinore/29230-central-ave.html,ca,lake-elsinore,29230-central-ave,038874,"29230 Central Ave, Lake Elsinore, CA 92532",29230,33.6949494,-117.3341489
+https://locations.tacobell.com/ca/calexico/217-w--birch-street.html,ca,calexico,217-w--birch-street,036942,"217 W. Birch Street, Calexico, CA 92231",92231,32.6789294,-115.5014478
+https://locations.tacobell.com/ca/buena-park/8450-la-palma-ave.html,ca,buena-park,8450-la-palma-ave,039637,"8450 La Palma Ave, Buena Park, CA 90620",90620,33.8446585,-117.9866898
+https://locations.tacobell.com/ca/la-habra/751-e-imperial-hwy.html,ca,la-habra,751-e-imperial-hwy,034769,"751 E Imperial Hwy, La Habra, CA 90631",90631,33.9173064,-117.9756515
+https://locations.tacobell.com/ca/tehachapi/1098-valley-blvd.html,ca,tehachapi,1098-valley-blvd,024302,"1098 Valley Blvd, Tehachapi, CA 93561",93561,35.1239764,-118.467505
+https://locations.tacobell.com/ca/bakersfield/11108-olive-drive.html,ca,bakersfield,11108-olive-drive,030525,"11108 Olive Drive, Bakersfield, CA 93312",11108,35.4201097,-119.1265986
+https://locations.tacobell.com/ca/taft/1121-kern-st-.html,ca,taft,1121-kern-st-,030914,"1121 Kern St., Taft, CA 93268",93268,35.14452,-119.4638822
+https://locations.tacobell.com/ca/bakersfield/139-s-oswell-st.html,ca,bakersfield,139-s-oswell-st,027634,"139 S Oswell St, Bakersfield, CA 93307",93307,35.3535216,-118.9493469
+https://locations.tacobell.com/ca/bakersfield/15-south-h-street.html,ca,bakersfield,15-south-h-street,020578,"15 South H Street, Bakersfield, CA 93304",93304,35.3532084,-119.0217228
+https://locations.tacobell.com/ca/bakersfield/1877-white-lane.html,ca,bakersfield,1877-white-lane,015362,"1877 White Lane, Bakersfield, CA 93304",93304,35.317417,-119.0233939
+https://locations.tacobell.com/ca/delano/1940-cecil-ave.html,ca,delano,1940-cecil-ave,032525,"1940 Cecil Ave, Delano, CA 93215",93215,35.7757824,-119.2304112
+https://locations.tacobell.com/ca/lost-hills/21959-highway-46.html,ca,lost-hills,21959-highway-46,026336,"21959 Highway 46, Lost Hills, CA 93249",21959,35.6161529,-119.6916017
+https://locations.tacobell.com/ca/bakersfield/2300-h-street.html,ca,bakersfield,2300-h-street,004510,"2300 H Street, Bakersfield, CA 93301",93301,35.380168,-119.021068
+https://locations.tacobell.com/ca/wasco/2415-highway-46.html,ca,wasco,2415-highway-46,032518,"2415 Highway 46, Wasco, CA 93280",93280,35.6014653,-119.3526863
+https://locations.tacobell.com/ca/bakersfield/2433-n--chester-ave-.html,ca,bakersfield,2433-n--chester-ave-,021226,"2433 N. Chester Ave., Bakersfield, CA 93308",93308,35.4282407,-119.0215895
+https://locations.tacobell.com/ca/bakersfield/2676-mt-vernon-avenue.html,ca,bakersfield,2676-mt-vernon-avenue,017435,"2676 Mt Vernon Avenue, Bakersfield, CA 93306",93306,35.3922422,-118.9673907
+https://locations.tacobell.com/ca/bakersfield/3200-california-avenue.html,ca,bakersfield,3200-california-avenue,015455,"3200 California Avenue, Bakersfield, CA 93304",93304,35.3689799,-119.0390854
+https://locations.tacobell.com/ca/bakersfield/3300-buena-vista-rd.html,ca,bakersfield,3300-buena-vista-rd,024402,"3300 Buena Vista Rd Bldg I, Bakersfield, CA 93311",93311,35.3232314,-119.1274274
+https://locations.tacobell.com/ca/bakersfield/3300-panama-lane.html,ca,bakersfield,3300-panama-lane,020190,"3300 Panama Lane, Bakersfield, CA 93313",93313,35.2970436,-119.039364
+https://locations.tacobell.com/ca/bakersfield/3315-union-ave.html,ca,bakersfield,3315-union-ave,004578,"3315 Union Ave, Bakersfield, CA 93305",93305,35.3891205,-119.0029652
+https://locations.tacobell.com/ca/bakersfield/3707-coffee-rd-.html,ca,bakersfield,3707-coffee-rd-,026836,"3707 Coffee Rd., Bakersfield, CA 93308",93308,35.3930994,-119.0923018
+https://locations.tacobell.com/ca/bakersfield/3799-rosedale-highway.html,ca,bakersfield,3799-rosedale-highway,003207,"3799 Rosedale Highway, Bakersfield, CA 93308",93308,35.3828482,-119.0505447
+https://locations.tacobell.com/ca/bakersfield/4675-ming-ave-.html,ca,bakersfield,4675-ming-ave-,004054,"4675 Ming Ave., Bakersfield, CA 93309",93309,35.3392586,-119.0546369
+https://locations.tacobell.com/ca/bakersfield/5121-olive-drive.html,ca,bakersfield,5121-olive-drive,017751,"5121 Olive Drive, Bakersfield, CA 93308",93308,35.412257,-119.05716
+https://locations.tacobell.com/ca/bakersfield/551-weedpatch-hwy.html,ca,bakersfield,551-weedpatch-hwy,015573,"551 Weedpatch Hwy, Bakersfield, CA 93307",93307,35.3501416,-118.9138777
+https://locations.tacobell.com/ca/bakersfield/6119-niles-street.html,ca,bakersfield,6119-niles-street,004168,"6119 Niles Street, Bakersfield, CA 93306",93306,35.3784429,-118.9761308
+https://locations.tacobell.com/ca/bakersfield/6619-panama-lane.html,ca,bakersfield,6619-panama-lane,030699,"6619 Panama Lane, Bakersfield, CA 93313",93313,35.2957679,-119.0764839
+https://locations.tacobell.com/ca/delano/700-woollomes-ave.html,ca,delano,700-woollomes-ave,032534,"700 Woollomes Ave, Delano, CA 93215",93215,35.7467905,-119.2472223
+https://locations.tacobell.com/ca/bakersfield/7880-white-lane.html,ca,bakersfield,7880-white-lane,004356,"7880 White Lane, Bakersfield, CA 93309",93309,35.31854,-119.0898879
+https://locations.tacobell.com/ca/bakersfield/9640-hageman-rd-.html,ca,bakersfield,9640-hageman-rd-,022460,"9640 Hageman Rd., Bakersfield, CA 93312",93312,35.3984432,-119.1093086
+https://locations.tacobell.com/ca/bakersfield/9741-s--enos-ln.html,ca,bakersfield,9741-s--enos-ln,030305,"9741 S. Enos Ln, Bakersfield, CA 93311",93311,35.2669398,-119.2533255
+https://locations.tacobell.com/ca/merced/1990-yosemite-parkway.html,ca,merced,1990-yosemite-parkway,036505,"1990 Yosemite Parkway, Merced, CA 95341",95341,37.2947949,-120.4519976
+https://locations.tacobell.com/ca/rancho-murieta/7205-murieta-drive.html,ca,rancho-murieta,7205-murieta-drive,036252,"7205 Murieta Drive, Rancho Murieta, CA 95683",95683,38.49615,-121.0986572
+https://locations.tacobell.com/ca/laguna-hills/24888-alicia-parkway.html,ca,laguna-hills,24888-alicia-parkway,037163,"24888 Alicia Parkway, Laguna Hills, CA 92653",24888,33.6010302,-117.6898749
+https://locations.tacobell.com/ca/gilroy/995-first-street.html,ca,gilroy,995-first-street,019338,"995 First Street, Gilroy, CA 95020",95020,37.0139717,-121.5913976
+https://locations.tacobell.com/ca/fountain-valley/9925-warner-ave.html,ca,fountain-valley,9925-warner-ave,039617,"9925 Warner Ave, Fountain Valley, CA 92708",92708,33.71666,-117.9558611
+https://locations.tacobell.com/ca/los-angeles/9919-south-avalon-blvd.html,ca,los-angeles,9919-south-avalon-blvd,017194,"9919 South Avalon Blvd, Los Angeles, CA 90003",90003,33.9458709,-118.265651
+https://locations.tacobell.com/ca/sunnyvale/991-w-el-camino-real.html,ca,sunnyvale,991-w-el-camino-real,028834,"991 W El Camino Real, Sunnyvale, CA 94087",94087,37.3720785,-122.0475018
+https://locations.tacobell.com/ca/los-angeles/990-n--western-ave-.html,ca,los-angeles,990-n--western-ave-,028713,"990 N. Western Ave., Los Angeles, CA 90029",90029,34.0883123,-118.3088446
+https://locations.tacobell.com/ca/upland/989-w-foothill-blvd-.html,ca,upland,989-w-foothill-blvd-,039787,"989 W Foothill Blvd., Upland, CA 91786",91786,34.1074387,-117.6652312
+https://locations.tacobell.com/ca/livermore/985-east-stanley-blvd.html,ca,livermore,985-east-stanley-blvd,030766,"985 East Stanley Blvd, Livermore, CA 94550",94550,37.6780548,-121.7847729
+https://locations.tacobell.com/ca/santee/9825-mission-gorge-road.html,ca,santee,9825-mission-gorge-road,041604,"9825 Mission Gorge Road, Santee, CA 92071",92071,32.8383598,-116.9827742
+https://locations.tacobell.com/ca/northridge/9825-balboa-blvd.html,ca,northridge,9825-balboa-blvd,028467,"9825 Balboa Blvd, Northridge, CA 91325",91325,34.2496243,-118.5030389
+https://locations.tacobell.com/ca/san-diego/9821-aero-dr.html,ca,san-diego,9821-aero-dr,025501,"9821 Aero Dr, San Diego, CA 92123",92123,32.8091221,-117.1169041
+https://locations.tacobell.com/ca/mountain-view/975-north-shoreline-blvd.html,ca,mountain-view,975-north-shoreline-blvd,028836,"975 North Shoreline Blvd, Mountain View, CA 94043",94043,37.4082604,-122.077603
+https://locations.tacobell.com/ca/rancho-cucamonga/9709-baseline-rd.html,ca,rancho-cucamonga,9709-baseline-rd,039835,"9709 Baseline Rd, Rancho Cucamonga, CA 91730",91730,34.1212095,-117.5930788
+https://locations.tacobell.com/ca/phelan/9619-sheep-creek-road.html,ca,phelan,9619-sheep-creek-road,D016022,"9619 Sheep Creek Road, Phelan, CA 92371",92371,34.4251079,-117.5720842
+https://locations.tacobell.com/ca/san-clemente/959-avenida-pico.html,ca,san-clemente,959-avenida-pico,031981,"959 Avenida Pico, San Clemente, CA 92673",92673,33.4541897,-117.6061922
+https://locations.tacobell.com/ca/downey/9551-lakewood-blvd.html,ca,downey,9551-lakewood-blvd,031849,"9551 Lakewood Blvd, Downey, CA 90240",90240,33.9534906,-118.1144246
+https://locations.tacobell.com/ca/camarillo/95-daily-dr.html,ca,camarillo,95-daily-dr,003544,"95 Daily Dr, Camarillo, CA 93010",93010,34.2217182,-119.0676689
+https://locations.tacobell.com/ca/orangevale/9382-madison-ave.html,ca,orangevale,9382-madison-ave,003821,"9382 Madison Ave, Orangevale, CA 95662",95662,38.6714,-121.2031385
+https://locations.tacobell.com/ca/glendale/932-s--central-ave-.html,ca,glendale,932-s--central-ave-,028466,"932 S. Central Ave., Glendale, CA 91204",91204,34.1347728,-118.257604
+https://locations.tacobell.com/ca/novato/930-seventh-street.html,ca,novato,930-seventh-street,031457,"930 Seventh Street, Novato, CA 94945",94945,38.1069613,-122.5779666
+https://locations.tacobell.com/ca/bishop/926-n-main-street.html,ca,bishop,926-n-main-street,028232,"926 N Main Street, Bishop, CA 93514",93514,37.3705476,-118.3949914
+https://locations.tacobell.com/ca/roseville/923-pleasant-grove-blvd-.html,ca,roseville,923-pleasant-grove-blvd-,023159,"923 Pleasant Grove Blvd., Roseville, CA 95678",95678,38.7821912,-121.2863499
+https://locations.tacobell.com/ca/santa-rosa/923-hopper-avenue.html,ca,santa-rosa,923-hopper-avenue,017329,"923 Hopper Avenue, Santa Rosa, CA 95403",95403,38.4800608,-122.7373158
+https://locations.tacobell.com/ca/torrance/921-west-sepulveda-blvd.html,ca,torrance,921-west-sepulveda-blvd,028523,"921 West Sepulveda Blvd, Torrance, CA 90502",90502,33.8107468,-118.2908371
+https://locations.tacobell.com/ca/pico-rivera/9180-whittier-blvd.html,ca,pico-rivera,9180-whittier-blvd,003670,"9180 Whittier Blvd, Pico Rivera, CA 90660",90660,34.0001827,-118.0816192
+https://locations.tacobell.com/ca/san-clemente/918-s-el-camino-real.html,ca,san-clemente,918-s-el-camino-real,031976,"918 S El Camino Real, San Clemente, CA 92672",92672,33.4217739,-117.6088079
+https://locations.tacobell.com/ca/tracy/915-s--tracy-blvd-.html,ca,tracy,915-s--tracy-blvd-,030810,"915 S. Tracy Blvd., Tracy, CA 95376",95376,37.7235338,-121.4353072
+https://locations.tacobell.com/ca/vista/910-east-vista-way.html,ca,vista,910-east-vista-way,041598,"910 East Vista Way, Vista, CA 92084",92084,33.2117665,-117.2312334
+https://locations.tacobell.com/ca/palo-alto/910-e--charleston-road.html,ca,palo-alto,910-e--charleston-road,028833,"910 E. Charleston Road, Palo Alto, CA 94303",94303,37.4217516,-122.1013568
+https://locations.tacobell.com/ca/oakdale/901-east-f-street.html,ca,oakdale,901-east-f-street,034168,"901 East F Street, Oakdale, CA 95361",95361,37.7685591,-120.8412631
+https://locations.tacobell.com/ca/oxnard/900-n-ventura-rd.html,ca,oxnard,900-n-ventura-rd,018682,"900 N Ventura Rd, Oxnard, CA 93030",93030,34.2103684,-119.194114
+https://locations.tacobell.com/ca/anaheim/8972-katella-ave.html,ca,anaheim,8972-katella-ave,003120,"8972 Katella Ave, Anaheim, CA 92804",92804,33.8032367,-117.9592326
+https://locations.tacobell.com/ca/windsor/8900-brooks-rd.html,ca,windsor,8900-brooks-rd,005182,"8900 Brooks Rd, Windsor, CA 95492",95492,38.5483077,-122.8064678
+https://locations.tacobell.com/ca/orangevale/8823-greenback-lane.html,ca,orangevale,8823-greenback-lane,004879,"8823 Greenback Lane, Orangevale, CA 95662",95662,38.6789217,-121.2293483
+https://locations.tacobell.com/ca/elk-grove/8750-elk-grove-blvd.html,ca,elk-grove,8750-elk-grove-blvd,002751,"8750 Elk Grove Blvd, Elk Grove, CA 95624",95624,38.4086128,-121.379207
+https://locations.tacobell.com/ca/montclair/8720-central-avenue.html,ca,montclair,8720-central-avenue,039821,"8720 Central Avenue, Montclair, CA 91763",91763,34.0948783,-117.6897089
+https://locations.tacobell.com/ca/pismo-beach/867-oak-park-blvd.html,ca,pismo-beach,867-oak-park-blvd,023053,"867 Oak Park Blvd, Pismo Beach, CA 93449",93449,35.1345394,-120.6051248
+https://locations.tacobell.com/ca/stockton/864-w-charter-way.html,ca,stockton,864-w-charter-way,041364,"864 W Charter Way, Stockton, CA 95206",95206,37.9357919,-121.299581
+https://locations.tacobell.com/ca/walnut/864-nogales.html,ca,walnut,864-nogales,038983,"864 Nogales, Walnut, CA 91789",91789,34.0267695,-117.8951597
+https://locations.tacobell.com/ca/sebastopol/860-gravenstein-hwy-north.html,ca,sebastopol,860-gravenstein-hwy-north,031454,"860 Gravenstein Hwy North, Sebastopol, CA 95472",95472,38.4090165,-122.840507
+https://locations.tacobell.com/ca/ontario/859-n-mountain-ave.html,ca,ontario,859-n-mountain-ave,039814,"859 N Mountain Ave, Ontario, CA 91762",91762,34.073818,-117.6705436
+https://locations.tacobell.com/ca/orange/8548-east-chapman-avenue.html,ca,orange,8548-east-chapman-avenue,039618,"8548 East Chapman Avenue, Orange, CA 92869",92869,33.7906137,-117.7620863
+https://locations.tacobell.com/ca/west-sacramento/850-harbor-blvd.html,ca,west-sacramento,850-harbor-blvd,028751,"850 Harbor Blvd, West Sacramento, CA 95691",95691,38.5776117,-121.5491028
+https://locations.tacobell.com/ca/kings-beach/8491-north-lake-blvd.html,ca,kings-beach,8491-north-lake-blvd,036124,"8491 North Lake Blvd, Kings Beach, CA 96143",96143,39.2362888,-120.022614
+https://locations.tacobell.com/ca/arcadia/849-south-baldwin.html,ca,arcadia,849-south-baldwin,H730105,"849 South Baldwin, Arcadia, CA 91007",91007,34.1302485,-118.0549945
+https://locations.tacobell.com/ca/los-angeles/8440-beverly-blvd-.html,ca,los-angeles,8440-beverly-blvd-,028706,"8440 Beverly Blvd., Los Angeles, CA 90048",90048,34.0759593,-118.3756195
+https://locations.tacobell.com/ca/granite-bay/8433-sierra-college-blvd.html,ca,granite-bay,8433-sierra-college-blvd,020784,"8433 Sierra College Blvd, Granite Bay, CA 95746",95746,38.745569,-121.2257939
+https://locations.tacobell.com/ca/san-jose/840-s-bascom-ave-.html,ca,san-jose,840-s-bascom-ave-,030790,"840 S Bascom Ave., San Jose, CA 95128",95128,37.3119446,-121.9314134
+https://locations.tacobell.com/ca/gonzales/840-fifth-street.html,ca,gonzales,840-fifth-street,031416,"840 Fifth Street, Gonzales, CA 93926",93926,36.5138566,-121.4361263
+https://locations.tacobell.com/ca/san-diego/8389-mira-mesa-blvd.html,ca,san-diego,8389-mira-mesa-blvd,041595,"8389 Mira Mesa Blvd, San Diego, CA 92126",92126,32.912446,-117.142532
+https://locations.tacobell.com/ca/spring-valley/8330-paradise-valley-rd.html,ca,spring-valley,8330-paradise-valley-rd,C191027,"8330 Paradise Valley Rd, Spring Valley, CA 91977",91977,32.6974767,-117.0196204
+https://locations.tacobell.com/ca/coachella/83-157-avenue-48.html,ca,coachella,83-157-avenue-48,027784,"83-157 Avenue 48, Coachella, CA 92236",92236,33.6999856,-116.2137177
+https://locations.tacobell.com/ca/clovis/830-herndon-avenue.html,ca,clovis,830-herndon-avenue,034209,"830 Herndon Avenue, Clovis, CA 93612",93612,36.8360058,-119.6995456
+https://locations.tacobell.com/ca/van-nuys/8256-orion-ave.html,ca,van-nuys,8256-orion-ave,029284,"8256 Orion Ave, Van Nuys, CA 91406",91406,34.200249,-118.4705727
+https://locations.tacobell.com/ca/north-hollywood/8250-laurel-canyon-blvd.html,ca,north-hollywood,8250-laurel-canyon-blvd,039784,"8250 Laurel Canyon Blvd, North Hollywood, CA 91605",91605,34.186247,-118.3965813
+https://locations.tacobell.com/ca/modesto/825-9th-street.html,ca,modesto,825-9th-street,034177,"825 9th Street, Modesto, CA 95354",95354,37.6383725,-121.0002404
+https://locations.tacobell.com/ca/canoga-park/8220-de-soto-ave.html,ca,canoga-park,8220-de-soto-ave,028473,"8220 De Soto Ave, Canoga Park, CA 91304",91304,34.2187914,-118.5880438
+https://locations.tacobell.com/ca/santa-barbara/821-n-milpas-street.html,ca,santa-barbara,821-n-milpas-street,027772,"821 N Milpas Street, Santa Barbara, CA 93103",93103,34.429423,-119.690129
+https://locations.tacobell.com/ca/elk-grove/8170-sheldon-road.html,ca,elk-grove,8170-sheldon-road,026015,"8170 Sheldon Road, Elk Grove, CA 95758",95758,38.4379197,-121.4045628
+https://locations.tacobell.com/ca/sacramento/8170-gerber-rd.html,ca,sacramento,8170-gerber-rd,026727,"8170 Gerber Rd, Sacramento, CA 95828",95828,38.4817352,-121.4076897
+https://locations.tacobell.com/ca/hilmar/8119-lander-ave.html,ca,hilmar,8119-lander-ave,034214,"8119 Lander Ave, Hilmar, CA 95324",95324,37.4059858,-120.8505084
+https://locations.tacobell.com/ca/sunnyvale/811-kifer-road.html,ca,sunnyvale,811-kifer-road,028832,"811 Kifer Road, Sunnyvale, CA 94086",94086,37.3756208,-122.0132486
+https://locations.tacobell.com/ca/anaheim/810-n-euclid.html,ca,anaheim,810-n-euclid,004485,"810 N Euclid, Anaheim, CA 92801",92801,33.8431638,-117.9412674
+https://locations.tacobell.com/ca/milpitas/81-ranch-drive.html,ca,milpitas,81-ranch-drive,016736,"81 Ranch Drive, Milpitas, CA 95035",95035,37.4275265,-121.921154
+https://locations.tacobell.com/ca/sacramento/8071-elk-grove-florin-rd.html,ca,sacramento,8071-elk-grove-florin-rd,018916,"8071 Elk Grove Florin Rd, Sacramento, CA 95829",95829,38.464575,-121.3712675
+https://locations.tacobell.com/ca/antelope/8045-watt-ave.html,ca,antelope,8045-watt-ave,028761,"8045 Watt Ave, Antelope, CA 95843",95843,38.7153495,-121.392797
+https://locations.tacobell.com/ca/garden-grove/8042-garden-grove.html,ca,garden-grove,8042-garden-grove,021112,"8042 Garden Grove, Garden Grove, CA 92844",92844,33.7732495,-117.991561
+https://locations.tacobell.com/ca/atwater/801-bellevue-road.html,ca,atwater,801-bellevue-road,019505,"801 Bellevue Road, Atwater, CA 95301",95301,37.360534,-120.601515
+https://locations.tacobell.com/ca/fillmore/800-w-ventura-st.html,ca,fillmore,800-w-ventura-st,002450,"800 W Ventura St, Fillmore, CA 93015",93015,34.3948648,-118.9292833
+https://locations.tacobell.com/ca/azusa/800-e-alosta.html,ca,azusa,800-e-alosta,002389,"800 E Alosta, Azusa, CA 91702",91702,34.1333632,-117.8976047
+https://locations.tacobell.com/ca/san-leandro/797-marina-blvd.html,ca,san-leandro,797-marina-blvd,030774,"797 Marina Blvd, San Leandro, CA 94577",94577,37.7139796,-122.1574074
+https://locations.tacobell.com/ca/san-bernardino/797-2nd-street.html,ca,san-bernardino,797-2nd-street,035614,"797 2nd Street, San Bernardino, CA 92408",92408,34.1026379,-117.2662147
+https://locations.tacobell.com/ca/riverside/7940-limonite.html,ca,riverside,7940-limonite,039842,"7940 Limonite, Riverside, CA 92509",92509,33.9779822,-117.4573148
+https://locations.tacobell.com/ca/newbury-park/791-n-wendy-dr.html,ca,newbury-park,791-n-wendy-dr,024248,"791 N Wendy Dr, Newbury Park, CA 91320",91320,34.1890964,-118.941183
+https://locations.tacobell.com/ca/port-hueneme/790-n-ventura.html,ca,port-hueneme,790-n-ventura,005007,"790 N Ventura, Port Hueneme, CA 93041",93041,34.1756887,-119.1950522
+https://locations.tacobell.com/ca/la-quinta/78932-highway-111.html,ca,la-quinta,78932-highway-111,027782,"78932 Highway 111, La Quinta, CA 92253",78932,33.7103475,-116.2890357
+https://locations.tacobell.com/ca/buena-park/7878-valley-view-st.html,ca,buena-park,7878-valley-view-st,023177,"7878 Valley View St, Buena Park, CA 90620",90620,33.8475138,-118.0280768
+https://locations.tacobell.com/ca/sunland/7856-foothill-blvd.html,ca,sunland,7856-foothill-blvd,017131,"7856 Foothill Blvd, Sunland, CA 91040",91040,34.2593218,-118.3046317
+https://locations.tacobell.com/ca/san-jacinto/785-north-ramona-blvd.html,ca,san-jacinto,785-north-ramona-blvd,039849,"785 North Ramona Blvd, San Jacinto, CA 92583",92583,33.7927056,-116.9693788
+https://locations.tacobell.com/ca/brentwood/7814-brentwood-blvd.html,ca,brentwood,7814-brentwood-blvd,030762,"7814 Brentwood Blvd, Brentwood, CA 94513",94513,37.9427889,-121.6957204
+https://locations.tacobell.com/ca/fresno/7785-n--1st-st-.html,ca,fresno,7785-n--1st-st-,034205,"7785 N. 1st St., Fresno, CA 93720",93720,36.8500025,-119.774642
+https://locations.tacobell.com/ca/west-sacramento/776-ikea-court.html,ca,west-sacramento,776-ikea-court,028753,"776 Ikea Court, West Sacramento, CA 95605",95605,38.5908953,-121.5508745
+https://locations.tacobell.com/ca/milpitas/774-s-main-st.html,ca,milpitas,774-s-main-st,004445,"774 S Main St, Milpitas, CA 95035",95035,37.4200448,-121.9037907
+https://locations.tacobell.com/ca/citrus-heights/7730-sunrise-blvd-.html,ca,citrus-heights,7730-sunrise-blvd-,035467,"7730 Sunrise Blvd., Citrus Heights, CA 95610",95610,38.7066177,-121.271288
+https://locations.tacobell.com/ca/santa-rosa/771-stony-point-rd.html,ca,santa-rosa,771-stony-point-rd,030932,"771 Stony Point Rd, Santa Rosa, CA 95407",95407,38.4275047,-122.7418959
+https://locations.tacobell.com/ca/covina/768-arrow-hwy.html,ca,covina,768-arrow-hwy,028729,"768 Arrow Hwy, Covina, CA 91722",91722,34.1064838,-117.905155
+https://locations.tacobell.com/ca/sacramento/7590-la-riviera-drive.html,ca,sacramento,7590-la-riviera-drive,041367,"7590 La Riviera Drive, Sacramento, CA 95826",95826,38.556373,-121.4100338
+https://locations.tacobell.com/ca/chico/757-east-avenue.html,ca,chico,757-east-avenue,034202,"757 East Avenue, Chico, CA 95926",95926,39.7606272,-121.8489118
+https://locations.tacobell.com/ca/canoga-park/7545-fallbrook-ave.html,ca,canoga-park,7545-fallbrook-ave,003074,"7545 Fallbrook Ave, Canoga Park, CA 91307",91307,34.2079388,-118.6238574
+https://locations.tacobell.com/ca/cudahy/7500-atlantic-ave.html,ca,cudahy,7500-atlantic-ave,031564,"7500 Atlantic Ave, Cudahy, CA 90201",90201,33.967366,-118.187197
+https://locations.tacobell.com/ca/huntington-beach/7480-edinger-ave.html,ca,huntington-beach,7480-edinger-ave,002529,"7480 Edinger Ave, Huntington Beach, CA 92647",92647,33.7297467,-117.9983652
+https://locations.tacobell.com/ca/carlsbad/745-carlsbad-village-drive.html,ca,carlsbad,745-carlsbad-village-drive,D742010,"745 Carlsbad Village Drive, Carlsbad, CA 92008",92008,33.1607031,-117.3460656
+https://locations.tacobell.com/ca/palmdale/739-w-avenue-p.html,ca,palmdale,739-w-avenue-p,039811,"739 W Avenue P, Palmdale, CA 93550",93550,34.6020989,-118.1450483
+https://locations.tacobell.com/ca/atascadero/7385-el-camino-real.html,ca,atascadero,7385-el-camino-real,023049,"7385 El Camino Real, Atascadero, CA 93422",93422,35.4830597,-120.6598867
+https://locations.tacobell.com/ca/monrovia/733-e-huntington-dr.html,ca,monrovia,733-e-huntington-dr,002905,"733 E Huntington Dr, Monrovia, CA 91016",91016,34.140509,-117.9910503
+https://locations.tacobell.com/ca/daly-city/7255-mission-st-.html,ca,daly-city,7255-mission-st-,030799,"7255 Mission St., Daly City, CA 94014",94014,37.6927664,-122.4647337
+https://locations.tacobell.com/ca/dinuba/725-n-alta.html,ca,dinuba,725-n-alta,032521,"725 N Alta, Dinuba, CA 93618",93618,36.5596542,-119.3951623
+https://locations.tacobell.com/ca/lemon-grove/7232-broadway.html,ca,lemon-grove,7232-broadway,041616,"7232 Broadway, Lemon Grove, CA 91945",91945,32.7428928,-117.0419911
+https://locations.tacobell.com/ca/baker/72083-baker-blvd.html,ca,baker,72083-baker-blvd,023892,"72083 Baker Blvd, Baker, CA 92309",72083,35.2640782,-116.0761763
+https://locations.tacobell.com/ca/san-jose/720-story-road.html,ca,san-jose,720-story-road,030793,"720 Story Road, San Jose, CA 95122",95122,37.3287538,-121.8589251
+https://locations.tacobell.com/ca/westminster/7192-westminster-blvd.html,ca,westminster,7192-westminster-blvd,000114,"7192 Westminster Blvd, Westminster, CA 92683",92683,33.759038,-118.0045483
+https://locations.tacobell.com/ca/san-diego/7180-miramar-rd.html,ca,san-diego,7180-miramar-rd,C191031,"7180 Miramar Rd, San Diego, CA 92121",92121,32.8810716,-117.158505
+https://locations.tacobell.com/ca/downey/7127-east-firestone-blvd.html,ca,downey,7127-east-firestone-blvd,019589,"7127 East Firestone Blvd, Downey, CA 90241",90241,33.9482328,-118.1555341
+https://locations.tacobell.com/ca/dublin/7123-village-pkwy.html,ca,dublin,7123-village-pkwy,031447,"7123 Village Pkwy, Dublin, CA 94568",94568,37.7095709,-121.9261799
+https://locations.tacobell.com/ca/san-francisco/710-third-street.html,ca,san-francisco,710-third-street,031685,"710 Third Street, San Francisco, CA 94107",94107,37.7785689,-122.3928066
+https://locations.tacobell.com/ca/fresno/7085-north-marks-avenue.html,ca,fresno,7085-north-marks-avenue,034188,"7085 North Marks Avenue, Fresno, CA 93711",93711,36.8387338,-119.847863
+https://locations.tacobell.com/ca/san-dimas/705-w-arrow-highway.html,ca,san-dimas,705-w-arrow-highway,028732,"705 W Arrow Highway, San Dimas, CA 91773",91773,34.1068373,-117.8191374
+https://locations.tacobell.com/ca/san-diego/7049-eastman-street.html,ca,san-diego,7049-eastman-street,C191009,"7049 Eastman Street, San Diego, CA 92111",92111,32.789192,-117.168798
+https://locations.tacobell.com/ca/san-marcos/704-center-dr.html,ca,san-marcos,704-center-dr,040800,"704 Center Dr, San Marcos, CA 92069",92069,33.1336338,-117.1218701
+https://locations.tacobell.com/ca/winters/703-matsumoto-lane.html,ca,winters,703-matsumoto-lane,029423,"703 Matsumoto Lane, Winters, CA 95694",95694,38.5317868,-121.9557765
+https://locations.tacobell.com/ca/folsom/702-e-bidwell-st-.html,ca,folsom,702-e-bidwell-st-,030341,"702 E Bidwell St., Folsom, CA 95630",95630,38.6719791,-121.1603605
+https://locations.tacobell.com/ca/benicia/700-military-west.html,ca,benicia,700-military-west,030752,"700 Military West, Benicia, CA 94510",94510,38.059031,-122.167168
+https://locations.tacobell.com/ca/granite-bay/6975-douglas-blvd.html,ca,granite-bay,6975-douglas-blvd,024043,"6975 Douglas Blvd, Granite Bay, CA 95746",95746,38.7438056,-121.1723966
+https://locations.tacobell.com/ca/rubidoux/6970-mission-blvd.html,ca,rubidoux,6970-mission-blvd,039818,"6970 Mission Blvd, Rubidoux, CA 92509",92509,34.011565,-117.4364745
+https://locations.tacobell.com/ca/chula-vista/696-e-st.html,ca,chula-vista,696-e-st,041608,"696 E St, Chula Vista, CA 91910",91910,32.6401564,-117.0973153
+https://locations.tacobell.com/ca/fort-bragg/695-s-main-st.html,ca,fort-bragg,695-s-main-st,030717,"695 S Main St, Fort Bragg, CA 95437",95437,39.432502,-123.8056888
+https://locations.tacobell.com/ca/oceanside/695-college-blvd.html,ca,oceanside,695-college-blvd,040797,"695 College Blvd, Oceanside, CA 92057",92057,33.2430701,-117.2914791
+https://locations.tacobell.com/ca/canoga-park/6921-topanga-canyon-blvd-.html,ca,canoga-park,6921-topanga-canyon-blvd-,028469,"6921 Topanga Canyon Blvd., Canoga Park, CA 91303",91303,34.1962026,-118.6062988
+https://locations.tacobell.com/ca/san-francisco/691-eddy-street.html,ca,san-francisco,691-eddy-street,E720033,"691 Eddy Street, San Francisco, CA 94109",94109,37.7829665,-122.4190187
+https://locations.tacobell.com/ca/oakland/6900-bancroft-ave.html,ca,oakland,6900-bancroft-ave,030742,"6900 Bancroft Ave, Oakland, CA 94605",94605,37.7680515,-122.1790505
+https://locations.tacobell.com/ca/pomona/690-n--indian-hill-blvd.html,ca,pomona,690-n--indian-hill-blvd,039839,"690 N. Indian Hill Blvd, Pomona, CA 91767",91767,34.0692184,-117.7192347
+https://locations.tacobell.com/ca/cathedral-city/68509-e-palm-canyon-dr.html,ca,cathedral-city,68509-e-palm-canyon-dr,029965,"68509 E Palm Canyon Dr, Cathedral City, CA 92234",68509,33.7800247,-116.4664973
+https://locations.tacobell.com/ca/cypress/6827-katella-ave.html,ca,cypress,6827-katella-ave,031563,"6827 Katella Ave, Cypress, CA 90630",90630,33.803042,-118.014518
+https://locations.tacobell.com/ca/bell-gardens/6800-eastern-avenue.html,ca,bell-gardens,6800-eastern-avenue,000215,"6800 Eastern Avenue, Bell Gardens, CA 90201",90201,33.9713716,-118.1638448
+https://locations.tacobell.com/ca/fresno/6776-n-blackstone-ave.html,ca,fresno,6776-n-blackstone-ave,034180,"6776 N Blackstone Ave, Fresno, CA 93710",93710,36.836699,-119.7901308
+https://locations.tacobell.com/ca/fair-oaks/6745-madison-ave.html,ca,fair-oaks,6745-madison-ave,041361,"6745 Madison Ave, Fair Oaks, CA 95628",95628,38.6638699,-121.306634
+https://locations.tacobell.com/ca/north-highlands/6741-watt-ave.html,ca,north-highlands,6741-watt-ave,041349,"6741 Watt Ave, North Highlands, CA 95660",95660,38.6896386,-121.3832843
+https://locations.tacobell.com/ca/reseda/6733-reseda-blvd.html,ca,reseda,6733-reseda-blvd,028472,"6733 Reseda Blvd, Reseda, CA 91335",91335,34.1931155,-118.5363648
+https://locations.tacobell.com/ca/long-beach/6730-cherry-ave.html,ca,long-beach,6730-cherry-ave,028524,"6730 Cherry Ave, Long Beach, CA 90805",90805,33.8771075,-118.1684045
+https://locations.tacobell.com/ca/elk-grove/6704-laguna-blvd.html,ca,elk-grove,6704-laguna-blvd,021113,"6704 Laguna Blvd, Elk Grove, CA 95758",95758,38.4230537,-121.4252225
+https://locations.tacobell.com/ca/salinas/664-e-alisal.html,ca,salinas,664-e-alisal,025510,"664 E Alisal, Salinas, CA 93901",93901,36.6745169,-121.6438664
+https://locations.tacobell.com/ca/rancho-cucamonga/6579-milliken.html,ca,rancho-cucamonga,6579-milliken,039820,"6579 Milliken, Rancho Cucamonga, CA 91701",91701,34.1349212,-117.5581108
+https://locations.tacobell.com/ca/citrus-heights/6440-antelope-rd.html,ca,citrus-heights,6440-antelope-rd,028110,"6440 Antelope Rd, Citrus Heights, CA 95621",95621,38.7070751,-121.3134569
+https://locations.tacobell.com/ca/long-beach/6407-stearns-ave-.html,ca,long-beach,6407-stearns-ave-,028513,"6407 Stearns Ave., Long Beach, CA 90815",90815,33.7956604,-118.1075333
+https://locations.tacobell.com/ca/seal-beach/640-pacific-coast-hwy.html,ca,seal-beach,640-pacific-coast-hwy,002669,"640 Pacific Coast Hwy, Seal Beach, CA 90740",90740,33.7459351,-118.1046065
+https://locations.tacobell.com/ca/albany/635-san-pablo-ave.html,ca,albany,635-san-pablo-ave,041342,"635 San Pablo Ave, Albany, CA 94706",94706,37.8940623,-122.29985
+https://locations.tacobell.com/ca/san-diego/632-dennery-road.html,ca,san-diego,632-dennery-road,041620,"632 Dennery Road, San Diego, CA 92154",92154,32.578865,-117.0348419
+https://locations.tacobell.com/ca/marysville/631-10th-street.html,ca,marysville,631-10th-street,000236,"631 10th Street, Marysville, CA 95901",95901,39.1454376,-121.5938247
+https://locations.tacobell.com/ca/woodland-hills/6303-platt-ave.html,ca,woodland-hills,6303-platt-ave,001020,"6303 Platt Ave, Woodland Hills, CA 91367",91367,34.1856969,-118.6431328
+https://locations.tacobell.com/ca/lake-isabella/6300-lake-isabella-blvd.html,ca,lake-isabella,6300-lake-isabella-blvd,032680,"6300 Lake Isabella Blvd, Lake Isabella, CA 93240",93240,35.6269446,-118.473457
+https://locations.tacobell.com/ca/oakland/630-hegenberger-rd.html,ca,oakland,630-hegenberger-rd,030769,"630 Hegenberger Rd, Oakland, CA 94621",94621,37.7469043,-122.1956726
+https://locations.tacobell.com/ca/escondido/627-n--escondido-blvd-.html,ca,escondido,627-n--escondido-blvd-,041596,"627 N. Escondido Blvd., Escondido, CA 92025",92025,33.1261599,-117.0882699
+https://locations.tacobell.com/ca/stockton/627-n-wilson-way.html,ca,stockton,627-n-wilson-way,041340,"627 N Wilson Way, Stockton, CA 95205",95205,37.9621786,-121.2735832
+https://locations.tacobell.com/ca/yuba-city/619-colusa-ave.html,ca,yuba-city,619-colusa-ave,003026,"619 Colusa Ave, Yuba City, CA 95991",95991,39.1414406,-121.6156968
+https://locations.tacobell.com/ca/san-diego/6104-university-ave.html,ca,san-diego,6104-university-ave,041594,"6104 University Ave, San Diego, CA 92115",92115,32.7532417,-117.064339
+https://locations.tacobell.com/ca/lodi/608-w-lodi-ave.html,ca,lodi,608-w-lodi-ave,035900,"608 W Lodi Ave, Lodi, CA 95240",95240,38.1298053,-121.2816417
+https://locations.tacobell.com/ca/loomis/6079-horseshoe-bar-road.html,ca,loomis,6079-horseshoe-bar-road,018675,"6079 Horseshoe Bar Road, Loomis, CA 95650",95650,38.8181433,-121.1899113
+https://locations.tacobell.com/ca/highland-park/6060-north-figueroa-street.html,ca,highland-park,6060-north-figueroa-street,039803,"6060 North Figueroa Street, Highland Park, CA 90042",90042,34.1117158,-118.1878911
+https://locations.tacobell.com/ca/oakland/6035-telegraph-road.html,ca,oakland,6035-telegraph-road,E720055,"6035 Telegraph Road, Oakland, CA 94609",94609,37.8470561,-122.2612457
+https://locations.tacobell.com/ca/citrus-heights/6031-greenback-lane.html,ca,citrus-heights,6031-greenback-lane,035470,"6031 Greenback Lane, Citrus Heights, CA 95621",95621,38.680564,-121.3219599
+https://locations.tacobell.com/ca/pleasanton/6030-johnson-dr.html,ca,pleasanton,6030-johnson-dr,031451,"6030 Johnson Dr, Pleasanton, CA 94588",94588,37.7006511,-121.908813
+https://locations.tacobell.com/ca/carlsbad/6017-paseo-del-norte.html,ca,carlsbad,6017-paseo-del-norte,031977,"6017 Paseo Del Norte, Carlsbad, CA 92011",92011,33.1211008,-117.3196593
+https://locations.tacobell.com/ca/livermore/6005-preston-avenue.html,ca,livermore,6005-preston-avenue,030782,"6005 Preston Avenue, Livermore, CA 94551",94551,37.7061216,-121.7221659
+https://locations.tacobell.com/ca/buena-park/6001-beach-blvd-.html,ca,buena-park,6001-beach-blvd-,003212,"6001 Beach Blvd., Buena Park, CA 90621",90621,33.8731865,-117.9986551
+https://locations.tacobell.com/ca/los-angeles/6000-crenshaw-blvd.html,ca,los-angeles,6000-crenshaw-blvd,001178,"6000 Crenshaw Blvd, Los Angeles, CA 90043",90043,33.985274,-118.330734
+https://locations.tacobell.com/ca/salinas/6-maple-street.html,ca,salinas,6-maple-street,027302,"6 Maple Street, Salinas, CA 93901",93901,36.6683609,-121.6554873
+https://locations.tacobell.com/ca/king-city/6-broadway-circle.html,ca,king-city,6-broadway-circle,026126,"6 Broadway Circle, King City, CA 93930",93930,36.2029287,-121.1367912
+https://locations.tacobell.com/ca/goleta/5980-hollister-avenue.html,ca,goleta,5980-hollister-avenue,027773,"5980 Hollister Avenue, Goleta, CA 93117",93117,34.4362939,-119.8304545
+https://locations.tacobell.com/ca/north-hollywood/5958-lankershim-blvd.html,ca,north-hollywood,5958-lankershim-blvd,000086,"5958 Lankershim Blvd, North Hollywood, CA 91601",91601,34.1791139,-118.3829245
+https://locations.tacobell.com/ca/sacramento/5919-stockton-blvd.html,ca,sacramento,5919-stockton-blvd,041347,"5919 Stockton Blvd, Sacramento, CA 95824",95824,38.5194058,-121.4396608
+https://locations.tacobell.com/ca/garden-grove/5891-chapman-ave.html,ca,garden-grove,5891-chapman-ave,027568,"5891 Chapman Ave, Garden Grove, CA 92845",92845,33.7887753,-118.0300701
+https://locations.tacobell.com/ca/paradise/5859-clark-road.html,ca,paradise,5859-clark-road,016953,"5859 Clark Road, Paradise, CA 95969",95969,39.7552746,-121.607648
+https://locations.tacobell.com/ca/lakewood/5850-del-amo-blvd.html,ca,lakewood,5850-del-amo-blvd,028515,"5850 Del Amo Blvd, Lakewood, CA 90713",90713,33.8467155,-118.1175005
+https://locations.tacobell.com/ca/yucca-valley/58497-29-palms-hwy.html,ca,yucca-valley,58497-29-palms-hwy,039837,"58497 29 Palms Hwy, Yucca Valley, CA 92284",58497,34.1330699,-116.3873638
+https://locations.tacobell.com/ca/los-angeles/5801-s--vermont-ave-.html,ca,los-angeles,5801-s--vermont-ave-,033622,"5801 S. Vermont Ave., Los Angeles, CA 90044",90044,33.9894421,-118.2917828
+https://locations.tacobell.com/ca/newark/5684-thornton-ave.html,ca,newark,5684-thornton-ave,030765,"5684 Thornton Ave, Newark, CA 94560",94560,37.5407018,-122.0269494
+https://locations.tacobell.com/ca/fresno/5651-east-kings-canyon-rd-.html,ca,fresno,5651-east-kings-canyon-rd-,034212,"5651 East Kings Canyon Rd., Fresno, CA 93727",93727,36.7374925,-119.6995865
+https://locations.tacobell.com/ca/sacramento/5641-freeport-blvd-.html,ca,sacramento,5641-freeport-blvd-,001521,"5641 Freeport Blvd., Sacramento, CA 95822",95822,38.5229444,-121.4974401
+https://locations.tacobell.com/ca/sacramento/5625-folsom-blvd.html,ca,sacramento,5625-folsom-blvd,028749,"5625 Folsom Blvd, Sacramento, CA 95819",95819,38.5583702,-121.4372683
+https://locations.tacobell.com/ca/fresno/5610-blackstone-ave.html,ca,fresno,5610-blackstone-ave,034198,"5610 Blackstone Ave, Fresno, CA 93710",93710,36.8196827,-119.7899482
+https://locations.tacobell.com/ca/port-hueneme/559-w-channel-islands-blvd.html,ca,port-hueneme,559-w-channel-islands-blvd,021201,"559 W Channel Islands Blvd, Port Hueneme, CA 93041",93041,34.1756635,-119.2107463
+https://locations.tacobell.com/ca/agoura-hills/5589-kanan-road.html,ca,agoura-hills,5589-kanan-road,001524,"5589 Kanan Road, Agoura Hills, CA 91301",91301,34.151661,-118.7587467
+https://locations.tacobell.com/ca/riverside/5587-arlington-avenue.html,ca,riverside,5587-arlington-avenue,039846,"5587 Arlington Avenue, Riverside, CA 92504",92504,33.9462776,-117.4248396
+https://locations.tacobell.com/ca/sacramento/5550-martin-luther-king-blvd.html,ca,sacramento,5550-martin-luther-king-blvd,041356,"5550 Martin Luther King Blvd, Sacramento, CA 95820",95820,38.5254323,-121.4647315
+https://locations.tacobell.com/ca/colfax/555-south-auburn-street.html,ca,colfax,555-south-auburn-street,036122,"555 South Auburn Street, Colfax, CA 95713",95713,39.0934593,-120.9512957
+https://locations.tacobell.com/ca/san-rafael/555-second-street.html,ca,san-rafael,555-second-street,E720121,"555 Second Street, San Rafael, CA 94901",94901,37.9701716,-122.5201782
+https://locations.tacobell.com/ca/san-jose/5538-monterey-hwy.html,ca,san-jose,5538-monterey-hwy,030789,"5538 Monterey Hwy, San Jose, CA 95138",95138,37.2413824,-121.7784666
+https://locations.tacobell.com/ca/san-jose/5431-camden-ave-.html,ca,san-jose,5431-camden-ave-,030786,"5431 Camden Ave., San Jose, CA 95124",95124,37.2398399,-121.904034
+https://locations.tacobell.com/ca/jackson/541-s-highway-49.html,ca,jackson,541-s-highway-49,003452,"541 S Highway 49, Jackson, CA 95642",95642,38.3428232,-120.7679106
+https://locations.tacobell.com/ca/east-los-angeles/5406-whittier-blvd.html,ca,east-los-angeles,5406-whittier-blvd,003052,"5406 Whittier Blvd, East Los Angeles, CA 90022",90022,34.0196255,-118.1540405
+https://locations.tacobell.com/ca/long-beach/5395-atlantic-ave.html,ca,long-beach,5395-atlantic-ave,003135,"5395 Atlantic Ave, Long Beach, CA 90805",90805,33.8541406,-118.1850286
+https://locations.tacobell.com/ca/san-jose/5389-prospect-rd.html,ca,san-jose,5389-prospect-rd,028838,"5389 Prospect Rd, San Jose, CA 95129",95129,37.2934166,-121.9970565
+https://locations.tacobell.com/ca/santa-clara/5350-great-america-parkway.html,ca,santa-clara,5350-great-america-parkway,030811,"5350 Great America Parkway, Santa Clara, CA 95054",95054,37.4070781,-121.9778937
+https://locations.tacobell.com/ca/santa-paula/535-west-harvard-blvd.html,ca,santa-paula,535-west-harvard-blvd,016640,"535 West Harvard Blvd, Santa Paula, CA 93060",93060,34.344175,-119.0792793
+https://locations.tacobell.com/ca/nipomo/535-w-tefft-street.html,ca,nipomo,535-w-tefft-street,021177,"535 W Tefft Street, Nipomo, CA 93444",93444,35.0364337,-120.4856829
+https://locations.tacobell.com/ca/san-jose/535-w-capitol-expressway.html,ca,san-jose,535-w-capitol-expressway,030794,"535 W Capitol Expressway, San Jose, CA 95136",95136,37.2749484,-121.8524419
+https://locations.tacobell.com/ca/stockton/532-w-hammer-lane.html,ca,stockton,532-w-hammer-lane,041348,"532 W Hammer Lane, Stockton, CA 95210",95210,38.0205919,-121.3190299
+https://locations.tacobell.com/ca/sanger/524-academy.html,ca,sanger,524-academy,034194,"524 Academy, Sanger, CA 93657",93657,36.7086164,-119.5558417
+https://locations.tacobell.com/ca/san-diego/5230-balboa-ave-.html,ca,san-diego,5230-balboa-ave-,025503,"5230 Balboa Ave., San Diego, CA 92117",92117,32.8191991,-117.1835498
+https://locations.tacobell.com/ca/sacramento/5210-auburn-blvd.html,ca,sacramento,5210-auburn-blvd,024111,"5210 Auburn Blvd, Sacramento, CA 95841",95841,38.6634288,-121.3432775
+https://locations.tacobell.com/ca/pacifica/5200-coast-highway.html,ca,pacifica,5200-coast-highway,030754,"5200 Coast Highway, Pacifica, CA 94044",94044,33.7660585,-118.1164383
+https://locations.tacobell.com/ca/fresno/5145-n-cedar-ave.html,ca,fresno,5145-n-cedar-ave,034182,"5145 N Cedar Ave, Fresno, CA 93710",93710,36.8108648,-119.7547627
+https://locations.tacobell.com/ca/torrance/5125-pacific-coast-hwy.html,ca,torrance,5125-pacific-coast-hwy,028517,"5125 Pacific Coast Hwy, Torrance, CA 90505",90505,33.8129033,-118.3689802
+https://locations.tacobell.com/ca/stockton/5115-west-lane.html,ca,stockton,5115-west-lane,034179,"5115 West Lane, Stockton, CA 95210",95210,38.0029137,-121.2914481
+https://locations.tacobell.com/ca/tulare/510-e-tulare-ave.html,ca,tulare,510-e-tulare-ave,024280,"510 E Tulare Ave, Tulare, CA 93274",93274,36.2087896,-119.3419187
+https://locations.tacobell.com/ca/stockton/5025-s-highway-99.html,ca,stockton,5025-s-highway-99,041355,"5025 S Highway 99, Stockton, CA 95215",95215,37.9253956,-121.2310486
+https://locations.tacobell.com/ca/coachella/50060-harrison-st-.html,ca,coachella,50060-harrison-st-,031951,"50060 Harrison St., Coachella, CA 92236",50060,33.6849696,-116.1814015
+https://locations.tacobell.com/ca/roseville/5002-foothills-blvd.html,ca,roseville,5002-foothills-blvd,028763,"5002 Foothills Blvd, Roseville, CA 95747",95747,38.7600648,-121.3105236
+https://locations.tacobell.com/ca/rohnert-park/5000-redwood-dr.html,ca,rohnert-park,5000-redwood-dr,030936,"5000 Redwood Dr, Rohnert Park, CA 94928",94928,38.36471,-122.7136431
+https://locations.tacobell.com/ca/kingsburg/500-sierra-street.html,ca,kingsburg,500-sierra-street,032524,"500 Sierra Street, Kingsburg, CA 93631",93631,36.517837,-119.563421
+https://locations.tacobell.com/ca/san-mateo/500-e-4th-ave.html,ca,san-mateo,500-e-4th-ave,030746,"500 E 4th Ave, San Mateo, CA 94401",94401,37.565857,-122.319794
+https://locations.tacobell.com/ca/pleasant-hill/500-contra-costa-blvd.html,ca,pleasant-hill,500-contra-costa-blvd,031450,"500 Contra Costa Blvd, Pleasant Hill, CA 94523",94523,37.9812275,-122.0675005
+https://locations.tacobell.com/ca/fresno/4972-e-caeser-chavez.html,ca,fresno,4972-e-caeser-chavez,034193,"4972 E Caeser Chavez, Fresno, CA 93727",93727,36.7355662,-119.7289977
+https://locations.tacobell.com/ca/north-highlands/4915-watt-ave.html,ca,north-highlands,4915-watt-ave,041360,"4915 Watt Ave, North Highlands, CA 95660",95660,38.6543799,-121.3834465
+https://locations.tacobell.com/ca/modesto/4911-mchenry-avenue.html,ca,modesto,4911-mchenry-avenue,034191,"4911 McHenry Avenue, Modesto, CA 95356",95356,37.710654,-120.9953034
+https://locations.tacobell.com/ca/orange/490-n-tustin-st.html,ca,orange,490-n-tustin-st,039789,"490 N Tustin St, Orange, CA 92867",92867,33.7947021,-117.8361054
+https://locations.tacobell.com/ca/fresno/4857-e-mckinley-ave.html,ca,fresno,4857-e-mckinley-ave,034196,"4857 E McKinley Ave, Fresno, CA 93703",93703,36.7655282,-119.734398
+https://locations.tacobell.com/ca/davis/4811-chiles-road.html,ca,davis,4811-chiles-road,041352,"4811 Chiles Road, Davis, CA 95618",95618,38.5509498,-121.6939305
+https://locations.tacobell.com/ca/corona/4718-green-river-rd.html,ca,corona,4718-green-river-rd,039848,"4718 Green River Rd, Corona, CA 92880",92880,33.8778708,-117.6596844
+https://locations.tacobell.com/ca/orange/468-south-main-street.html,ca,orange,468-south-main-street,039804,"468 South Main Street, Orange, CA 92868",92868,33.781264,-117.8678698
+https://locations.tacobell.com/ca/concord/4674-clayton-road.html,ca,concord,4674-clayton-road,030776,"4674 Clayton Road, Concord, CA 94521",94521,37.961489,-121.983714
+https://locations.tacobell.com/ca/fremont/46690-mission-blvd.html,ca,fremont,46690-mission-blvd,002420,"46690 Mission Blvd, Fremont, CA 94538",46690,37.491097,-121.927144
+https://locations.tacobell.com/ca/sacramento/4651-mack-rd.html,ca,sacramento,4651-mack-rd,003907,"4651 Mack Rd, Sacramento, CA 95823",95823,38.4748516,-121.4478003
+https://locations.tacobell.com/ca/south-san-francisco/465-el-camino-real.html,ca,south-san-francisco,465-el-camino-real,030785,"465 El Camino Real, South San Francisco, CA 94080",94080,37.6468268,-122.4287275
+https://locations.tacobell.com/ca/farmersville/452-w-noble-ave-.html,ca,farmersville,452-w-noble-ave-,032535,"452 W Noble Ave., Farmersville, CA 93223",93223,36.326409,-119.2112597
+https://locations.tacobell.com/ca/coalinga/451-e--elm-avenue.html,ca,coalinga,451-e--elm-avenue,L227001,"451 E. Elm Avenue, Coalinga, CA 93210",93210,36.1435118,-120.3572357
+https://locations.tacobell.com/ca/porterville/450-w-olive-ave-.html,ca,porterville,450-w-olive-ave-,026098,"450 W Olive Ave., Porterville, CA 93257",93257,36.0662886,-119.027426
+https://locations.tacobell.com/ca/stockton/45-e-harding-way.html,ca,stockton,45-e-harding-way,041369,"45 E Harding Way, Stockton, CA 95204",95204,37.9676835,-121.294303
+https://locations.tacobell.com/ca/fairfield/4475-central-way.html,ca,fairfield,4475-central-way,041366,"4475 Central Way, Fairfield, CA 94534",94534,38.2207895,-122.128669
+https://locations.tacobell.com/ca/pittsburg/4470-century-blvd.html,ca,pittsburg,4470-century-blvd,030943,"4470 Century Blvd, Pittsburg, CA 94565",94565,38.0059878,-121.837684
+https://locations.tacobell.com/ca/culver-city/4416-sepulveda-blvd.html,ca,culver-city,4416-sepulveda-blvd,003144,"4416 Sepulveda Blvd, Culver City, CA 90230",90230,34.0032509,-118.4069101
+https://locations.tacobell.com/ca/san-diego/4401-mission-blvd-.html,ca,san-diego,4401-mission-blvd-,040799,"4401 Mission Blvd., San Diego, CA 92109",92109,32.79507,-117.254752
+https://locations.tacobell.com/ca/hemet/43466-state-highway-74.html,ca,hemet,43466-state-highway-74,039793,"43466 State Highway 74, Hemet, CA 92544",43466,33.7481661,-116.9025718
+https://locations.tacobell.com/ca/antioch/4346-lone-tree-way.html,ca,antioch,4346-lone-tree-way,030781,"4346 Lone Tree Way, Antioch, CA 94531",94531,37.9616427,-121.7617751
+https://locations.tacobell.com/ca/fair-oaks/4343-sunrise-blvd.html,ca,fair-oaks,4343-sunrise-blvd,035471,"4343 Sunrise Blvd, Fair Oaks, CA 95628",95628,38.644487,-121.2727355
+https://locations.tacobell.com/ca/rocklin/4340-rocklin-rd.html,ca,rocklin,4340-rocklin-rd,002665,"4340 Rocklin Rd, Rocklin, CA 95677",95677,38.7880957,-121.2265999
+https://locations.tacobell.com/ca/clovis/434-west-shaw-avenue.html,ca,clovis,434-west-shaw-avenue,034208,"434 West Shaw Avenue, Clovis, CA 93612",93612,36.8083905,-119.7191424
+https://locations.tacobell.com/ca/stockton/4327-east-highway-88.html,ca,stockton,4327-east-highway-88,034173,"4327 East Highway 88, Stockton, CA 95215",95215,37.98707539999999,-121.2469654
+https://locations.tacobell.com/ca/sacramento/4318-marconi-ave.html,ca,sacramento,4318-marconi-ave,001041,"4318 Marconi Ave, Sacramento, CA 95821",95821,38.6174894,-121.3639521
+https://locations.tacobell.com/ca/hollister/431-tres-pinos-rd.html,ca,hollister,431-tres-pinos-rd,024362,"431 Tres Pinos Rd, Hollister, CA 95023",95023,36.8391079,-121.3947883
+https://locations.tacobell.com/ca/hawthorne/4305-el-segundo-blvd.html,ca,hawthorne,4305-el-segundo-blvd,026842,"4305 El Segundo Blvd, Hawthorne, CA 90250",90250,33.9164982,-118.3504756
+https://locations.tacobell.com/ca/burbank/4301-w-magnolia-blvd.html,ca,burbank,4301-w-magnolia-blvd,022010,"4301 W Magnolia Blvd, Burbank, CA 91505",91505,34.1660017,-118.353314
+https://locations.tacobell.com/ca/san-diego/4290-clairemont-mesa-blvd.html,ca,san-diego,4290-clairemont-mesa-blvd,C191024,"4290 Clairemont Mesa Blvd, San Diego, CA 92117",92117,32.8328327,-117.201372
+https://locations.tacobell.com/ca/san-francisco/4285-mission-st-.html,ca,san-francisco,4285-mission-st-,E720034,"4285 Mission St., San Francisco, CA 94112",94112,37.7288885,-122.4307199
+https://locations.tacobell.com/ca/indio/42750-b-jackson-st-.html,ca,indio,42750-b-jackson-st-,027783,"42750 B Jackson St., Indio, CA 92203",42750,33.7382395,-116.2147063
+https://locations.tacobell.com/ca/los-angeles/4270-south-central-ave-.html,ca,los-angeles,4270-south-central-ave-,H730124,"4270 South Central Ave., Los Angeles, CA 90011",90011,34.0060306,-118.2562702
+https://locations.tacobell.com/ca/davis/425-g-street.html,ca,davis,425-g-street,000290,"425 G Street, Davis, CA 95616",95616,38.5468573,-121.7400795
+https://locations.tacobell.com/ca/sacramento/4244-florin-rd.html,ca,sacramento,4244-florin-rd,028752,"4244 Florin Rd, Sacramento, CA 95823",95823,38.4956663,-121.455914
+https://locations.tacobell.com/ca/manteca/421-e-yosemite-ave.html,ca,manteca,421-e-yosemite-ave,041341,"421 E Yosemite Ave, Manteca, CA 95336",95336,37.7976482,-121.212008
+https://locations.tacobell.com/ca/chino-hills/4200-chino-hills-pkwy.html,ca,chino-hills,4200-chino-hills-pkwy,039854,"4200 Chino Hills Pkwy Suite 115, Chino Hills, CA 91709",91709,33.9834694,-117.7145644
+https://locations.tacobell.com/ca/san-francisco/4150-geary-boulevard.html,ca,san-francisco,4150-geary-boulevard,E720048,"4150 Geary Boulevard, San Francisco, CA 94118",94118,37.781272,-122.4641203
+https://locations.tacobell.com/ca/big-bear-lake/41170-big-bear-blvd.html,ca,big-bear-lake,41170-big-bear-blvd,035612,"41170 Big Bear Blvd, Big Bear Lake, CA 92315",41170,34.243877,-116.9038915
+https://locations.tacobell.com/ca/woodland/411-pioneer-ave.html,ca,woodland,411-pioneer-ave,041368,"411 Pioneer Ave, Woodland, CA 95776",95776,38.6758727,-121.7464637
+https://locations.tacobell.com/ca/santa-ana/411-e-first-street.html,ca,santa-ana,411-e-first-street,003434,"411 E First Street, Santa Ana, CA 92701",92701,33.7446947,-117.9236685
+https://locations.tacobell.com/ca/newport-beach/4101-jamboree-rd.html,ca,newport-beach,4101-jamboree-rd,004704,"4101 Jamboree Rd, Newport Beach, CA 92660",92660,33.659683,-117.8611694
+https://locations.tacobell.com/ca/irvine/4101-campus-drive.html,ca,irvine,4101-campus-drive,027505,"4101 Campus Drive, Irvine, CA 92612",92612,33.6509808,-117.8409004
+https://locations.tacobell.com/ca/temecula/41005-winchester-road.html,ca,temecula,41005-winchester-road,041617,"41005 Winchester Road, Temecula, CA 92591",41005,33.5251004,-117.1603014
+https://locations.tacobell.com/ca/oceanside/4100-oceanside-blvd-.html,ca,oceanside,4100-oceanside-blvd-,D742008,"4100 Oceanside Blvd., Oceanside, CA 92056",92056,33.20642,-117.289075
+https://locations.tacobell.com/ca/moraga/410-moraga-rd.html,ca,moraga,410-moraga-rd,031448,"410 Moraga Rd, Moraga, CA 94556",94556,37.859545,-122.1244251
+https://locations.tacobell.com/ca/american-canyon/408-napa-junction-rd-.html,ca,american-canyon,408-napa-junction-rd-,031850,"408 Napa Junction Rd., American Canyon, CA 94503",94503,38.1851186,-122.2542386
+https://locations.tacobell.com/ca/petaluma/406-east-washington-street.html,ca,petaluma,406-east-washington-street,030939,"406 East Washington Street, Petaluma, CA 94952",94952,38.2381089,-122.6355466
+https://locations.tacobell.com/ca/fresno/4050-w-shaw-ave.html,ca,fresno,4050-w-shaw-ave,032529,"4050 W Shaw Ave, Fresno, CA 93722",93722,36.8086729,-119.8638633
+https://locations.tacobell.com/ca/los-angeles/4050-marlton-ave.html,ca,los-angeles,4050-marlton-ave,004634,"4050 Marlton Ave, Los Angeles, CA 90008",90008,34.0111925,-118.3384691
+https://locations.tacobell.com/ca/carmichael/4041-manzanita-avenue.html,ca,carmichael,4041-manzanita-avenue,035469,"4041 Manzanita Avenue, Carmichael, CA 95608",95608,38.6385834,-121.3284963
+https://locations.tacobell.com/ca/orange/4035-w-chapman.html,ca,orange,4035-w-chapman,039613,"4035 W Chapman, Orange, CA 92868",92868,33.789,-117.8971741
+https://locations.tacobell.com/ca/fresno/4015-west-clinton-avenue.html,ca,fresno,4015-west-clinton-avenue,032531,"4015 West Clinton Avenue, Fresno, CA 93722",93722,36.7715573,-119.8627202
+https://locations.tacobell.com/ca/oakhurst/40020-hwy-49.html,ca,oakhurst,40020-hwy-49,034186,"40020 Hwy 49, Oakhurst, CA 93644",40020,37.3311643,-119.6566394
+https://locations.tacobell.com/ca/san-pablo/40-san-pablo-towne-ctr.html,ca,san-pablo,40-san-pablo-towne-ctr,030935,"40 San Pablo Towne Ctr, San Pablo, CA 94806",94806,37.9549102,-122.3314307
+https://locations.tacobell.com/ca/hollister/40-san-felipe-road.html,ca,hollister,40-san-felipe-road,020961,"40 San Felipe Road, Hollister, CA 95023",95023,36.8572203,-121.4022687
+https://locations.tacobell.com/ca/san-luis-obispo/397-santa-rosa.html,ca,san-luis-obispo,397-santa-rosa,024283,"397 Santa Rosa, San Luis Obispo, CA 93401",93401,35.287558,-120.6646707
+https://locations.tacobell.com/ca/murrieta/39557-los-alamos-rd.html,ca,murrieta,39557-los-alamos-rd,040803,"39557 Los Alamos Rd, Murrieta, CA 92563",39557,33.5750063,-117.1780835
+https://locations.tacobell.com/ca/palm-desert/39335-washington-st-.html,ca,palm-desert,39335-washington-st-,031525,"39335 Washington St., Palm Desert, CA 92211",39335,33.7541219,-116.3038715
+https://locations.tacobell.com/ca/newark/39199-cedar-blvd-.html,ca,newark,39199-cedar-blvd-,030755,"39199 Cedar Blvd., Newark, CA 94560",39199,37.5230314,-122.0048836
+https://locations.tacobell.com/ca/murrieta/39056-winchester-rd.html,ca,murrieta,39056-winchester-rd,041614,"39056 Winchester Rd, Murrieta, CA 92563",39056,33.5520147,-117.139129
+https://locations.tacobell.com/ca/modesto/3900-pelandale-ave.html,ca,modesto,3900-pelandale-ave,034178,"3900 Pelandale Ave, Modesto, CA 95356",95356,37.6995722,-121.0665495
+https://locations.tacobell.com/ca/dublin/3890-fallon-rd.html,ca,dublin,3890-fallon-rd,033088,"3890 Fallon Rd, Dublin, CA 94568",94568,37.7054825,-121.8509646
+https://locations.tacobell.com/ca/oceanside/3895-mission-ave.html,ca,oceanside,3895-mission-ave,040796,"3895 Mission Ave, Oceanside, CA 92054",92054,33.2273938,-117.3270206
+https://locations.tacobell.com/ca/el-monte/3858-north-peck-rd.html,ca,el-monte,3858-north-peck-rd,027247,"3858 North Peck Rd, El Monte, CA 91732",91732,34.0756612,-118.0216737
+https://locations.tacobell.com/ca/sacramento/3820-northgate-blvd.html,ca,sacramento,3820-northgate-blvd,028109,"3820 Northgate Blvd, Sacramento, CA 95834",95834,38.6366509,-121.475759
+https://locations.tacobell.com/ca/gilroy/380-east-10th-st.html,ca,gilroy,380-east-10th-st,026235,"380 East 10th St, Gilroy, CA 95020",95020,37.0013516,-121.5608271
+https://locations.tacobell.com/ca/palmdale/37910-47th-street-east.html,ca,palmdale,37910-47th-street-east,039815,"37910 47th Street East, Palmdale, CA 93552",37910,34.5713207,-118.0446061
+https://locations.tacobell.com/ca/blythe/375-s-lovekin-blvd.html,ca,blythe,375-s-lovekin-blvd,003631,"375 S Lovekin Blvd, Blythe, CA 92225",92225,33.6052293,-114.605798
+https://locations.tacobell.com/ca/visalia/3727-south-mooney-blvd.html,ca,visalia,3727-south-mooney-blvd,032523,"3727 South Mooney Blvd, Visalia, CA 93277",93277,36.296665,-119.3141321
+https://locations.tacobell.com/ca/fremont/37236-fremont-blvd.html,ca,fremont,37236-fremont-blvd,030792,"37236 Fremont Blvd, Fremont, CA 94536",37236,37.5593089,-122.0085971
+https://locations.tacobell.com/ca/stockton/3714-east-hammer-lane.html,ca,stockton,3714-east-hammer-lane,034185,"3714 East Hammer Lane, Stockton, CA 95212",95212,38.0208385,-121.2682277
+https://locations.tacobell.com/ca/lincoln/37-lincoln-blvd.html,ca,lincoln,37-lincoln-blvd,031352,"37 Lincoln Blvd, Lincoln, CA 95648",95648,38.8712411,-121.2978381
+https://locations.tacobell.com/ca/san-jose/3690-stevens-creek-blvd.html,ca,san-jose,3690-stevens-creek-blvd,024789,"3690 Stevens Creek Blvd, San Jose, CA 95117",95117,37.3229501,-121.9658702
+https://locations.tacobell.com/ca/los-angeles/3629-south-vermont-avenue.html,ca,los-angeles,3629-south-vermont-avenue,033624,"3629 South Vermont Avenue, Los Angeles, CA 90007",90007,34.0223054,-118.2918343
+https://locations.tacobell.com/ca/turlock/3606-n-golden-state-blvd-.html,ca,turlock,3606-n-golden-state-blvd-,034215,"3606 N Golden State Blvd., Turlock, CA 95382",95382,37.5258434,-120.8813883
+https://locations.tacobell.com/ca/modesto/3601-yosemite-avenue.html,ca,modesto,3601-yosemite-avenue,034203,"3601 Yosemite Avenue, Modesto, CA 95357",95357,37.6273455,-121.0083345
+https://locations.tacobell.com/ca/vallejo/3600-sonoma-blvd.html,ca,vallejo,3600-sonoma-blvd,041346,"3600 Sonoma Blvd, Vallejo, CA 94590",94590,38.1233342,-122.2547914
+https://locations.tacobell.com/ca/los-angeles/3562-s-la-cienega-blvd.html,ca,los-angeles,3562-s-la-cienega-blvd,005130,"3562 S La Cienega Blvd, Los Angeles, CA 90016",90016,34.0225641,-118.3719791
+https://locations.tacobell.com/ca/sacramento/356-florin-rd.html,ca,sacramento,356-florin-rd,016327,"356 Florin Rd, Sacramento, CA 95831",95831,38.5084196,-121.5420147
+https://locations.tacobell.com/ca/oakland/3535-35th-avenue.html,ca,oakland,3535-35th-avenue,030763,"3535 35th Avenue, Oakland, CA 94619",94619,37.793745,-122.2011424
+https://locations.tacobell.com/ca/stockton/3507-w-hammer-lane.html,ca,stockton,3507-w-hammer-lane,041345,"3507 W Hammer Lane, Stockton, CA 95219",95219,38.0216234,-121.3608024
+https://locations.tacobell.com/ca/lafayette/3501-mt--diablo-blvd.html,ca,lafayette,3501-mt--diablo-blvd,030741,"3501 Mt. Diablo Blvd, Lafayette, CA 94549",94549,37.892255,-122.116531
+https://locations.tacobell.com/ca/el-centro/350-wake-ave-.html,ca,el-centro,350-wake-ave-,026033,"350 Wake Ave., El Centro, CA 92243",92243,32.7715442,-115.5506938
+https://locations.tacobell.com/ca/union-city/34525-alvarado-niles-road.html,ca,union-city,34525-alvarado-niles-road,030768,"34525 Alvarado Niles Road, Union City, CA 94587",34525,37.5868735,-122.0213304
+https://locations.tacobell.com/ca/antioch/3445-deer-valley-rd.html,ca,antioch,3445-deer-valley-rd,030941,"3445 Deer Valley Rd, Antioch, CA 94531",94531,37.9887987,-121.7856336
+https://locations.tacobell.com/ca/roseville/342-north-sunrise-blvd.html,ca,roseville,342-north-sunrise-blvd,028112,"342 North Sunrise Blvd, Roseville, CA 95661",95661,38.7533703,-121.2603565
+https://locations.tacobell.com/ca/dana-point/34117-pacific-coast-hwy.html,ca,dana-point,34117-pacific-coast-hwy,003607,"34117 Pacific Coast Hwy, Dana Point, CA 92629",34117,33.4672636,-117.6978304
+https://locations.tacobell.com/ca/sacramento/3411-bradshaw-road.html,ca,sacramento,3411-bradshaw-road,041344,"3411 Bradshaw Road, Sacramento, CA 95827",95827,38.5615226,-121.3356247
+https://locations.tacobell.com/ca/yucaipa/34077-yucaipa-blvd.html,ca,yucaipa,34077-yucaipa-blvd,038986,"34077 Yucaipa Blvd, Yucaipa, CA 92399",34077,34.0336434,-117.0609524
+https://locations.tacobell.com/ca/chula-vista/340-east-h-street.html,ca,chula-vista,340-east-h-street,041601,"340 East H Street, Chula Vista, CA 91910",91910,32.6408558,-117.0508048
+https://locations.tacobell.com/ca/long-beach/3398-norwalk-blvd.html,ca,long-beach,3398-norwalk-blvd,028725,"3398 Norwalk Blvd, Long Beach, CA 90808",90808,33.8172325,-118.0713091
+https://locations.tacobell.com/ca/livingston/339-joseph-gallo-drive.html,ca,livingston,339-joseph-gallo-drive,034204,"339 Joseph Gallo Drive, Livingston, CA 95334",95334,37.3884515,-120.7384893
+https://locations.tacobell.com/ca/cameron-park/3382-coach-ln.html,ca,cameron-park,3382-coach-ln,031114,"3382 Coach Ln, Cameron Park, CA 95682",95682,38.6580603,-120.96975
+https://locations.tacobell.com/ca/el-cajon/335-n-second-st-.html,ca,el-cajon,335-n-second-st-,041612,"335 N Second St., El Cajon, CA 92021",92021,32.7985726,-116.9352266
+https://locations.tacobell.com/ca/hemet/3317-w--florida-ave-.html,ca,hemet,3317-w--florida-ave-,039852,"3317 W. Florida Ave., Hemet, CA 92545",92545,33.747019,-117.0073264
+https://locations.tacobell.com/ca/vista/3271-business-park-dr.html,ca,vista,3271-business-park-dr,040802,"3271 Business Park Dr, Vista, CA 92081",92081,33.132556,-117.2284882
+https://locations.tacobell.com/ca/anaheim/324-s-brookhurst.html,ca,anaheim,324-s-brookhurst,039792,"324 S Brookhurst, Anaheim, CA 92804",92804,33.826905,-117.9589588
+https://locations.tacobell.com/ca/union-city/32002-alvarado.html,ca,union-city,32002-alvarado,030750,"32002 Alvarado, Union City, CA 94587",32002,37.5895061,-122.0695794
+https://locations.tacobell.com/ca/san-juan-capistrano/31771-del-obispo.html,ca,san-juan-capistrano,31771-del-obispo,019697,"31771 Del Obispo, San Juan Capistrano, CA 92675",31771,33.5010334,-117.6604978
+https://locations.tacobell.com/ca/napa/3177-jefferson-street.html,ca,napa,3177-jefferson-street,030940,"3177 Jefferson Street, Napa, CA 94558",94558,38.3183135,-122.2989223
+https://locations.tacobell.com/ca/lake-elsinore/31712-mission-trail.html,ca,lake-elsinore,31712-mission-trail,040806,"31712 Mission Trail, Lake Elsinore, CA 92530",31712,33.6598255,-117.2999201
+https://locations.tacobell.com/ca/cathedral-city/31-705-date-palm-dr-.html,ca,cathedral-city,31-705-date-palm-dr-,027781,"31-705 Date Palm Dr., Cathedral City, CA 92234",92234,33.7925528,-116.4580795
+https://locations.tacobell.com/ca/temecula/31677-us-hwy-79-south.html,ca,temecula,31677-us-hwy-79-south,041615,"31677 US Hwy 79 South, Temecula, CA 92592",31677,33.4875292,-117.051675
+https://locations.tacobell.com/ca/alamo/3160-d-danville-blvd-.html,ca,alamo,3160-d-danville-blvd-,030808,"3160-D Danville Blvd., Alamo, CA 94507",94507,37.8520722,-122.0335909
+https://locations.tacobell.com/ca/san-diego/3152-midway-drive.html,ca,san-diego,3152-midway-drive,026240,"3152 Midway Drive, San Diego, CA 92110",92110,32.7506305,-117.2082978
+https://locations.tacobell.com/ca/rancho-santa-margarita/31491-santa-margarita-pky.html,ca,rancho-santa-margarita,31491-santa-margarita-pky,004181,"31491 Santa Margarita Pky, Rancho Santa Margarita, CA 92688",31491,33.6491155,-117.5819768
+https://locations.tacobell.com/ca/san-diego/3144-carmel-valley-road.html,ca,san-diego,3144-carmel-valley-road,025500,"3144 Carmel Valley Road, San Diego, CA 92130",92130,32.9342574,-117.2381483
+https://locations.tacobell.com/ca/merced/3140-g-street.html,ca,merced,3140-g-street,003171,"3140 G Street, Merced, CA 95340",95340,37.3191911,-120.4688585
+https://locations.tacobell.com/ca/chino-hills/3140-chino-ave.html,ca,chino-hills,3140-chino-ave,039838,"3140 Chino Ave, Chino Hills, CA 91709",91709,34.0120096,-117.7358256
+https://locations.tacobell.com/ca/lake-elsinore/31257-riverside-drive.html,ca,lake-elsinore,31257-riverside-drive,K584009,"31257 Riverside Drive, Lake Elsinore, CA 92530",31257,33.68287,-117.36826
+https://locations.tacobell.com/ca/long-beach/3125-e-broadway.html,ca,long-beach,3125-e-broadway,000146,"3125 E Broadway, Long Beach, CA 90803",90803,33.7649165,-118.1553566
+https://locations.tacobell.com/ca/baldwin-park/3120-baldwin-park-blvd.html,ca,baldwin-park,3120-baldwin-park-blvd,028728,"3120 Baldwin Park Blvd, Baldwin Park, CA 91706",91706,34.0692774,-117.9796718
+https://locations.tacobell.com/ca/costa-mesa/3115-harbor-blvd-.html,ca,costa-mesa,3115-harbor-blvd-,027949,"3115 Harbor Blvd., Costa Mesa, CA 92626",92626,33.6836416,-117.9195757
+https://locations.tacobell.com/ca/hayward/31077-mission-boulevard.html,ca,hayward,31077-mission-boulevard,E720275,"31077 Mission Boulevard, Hayward, CA 94544",31077,37.6197034,-122.0360535
+https://locations.tacobell.com/ca/fresno/3095-e-shields-ave.html,ca,fresno,3095-e-shields-ave,034172,"3095 E Shields Ave, Fresno, CA 93726",93726,36.7796834,-119.7727695
+https://locations.tacobell.com/ca/eureka/3080-broadway.html,ca,eureka,3080-broadway,018568,"3080 Broadway, Eureka, CA 95501",95501,40.7806628,-124.1857509
+https://locations.tacobell.com/ca/fairfield/3070-travis-blvd.html,ca,fairfield,3070-travis-blvd,028842,"3070 Travis Blvd, Fairfield, CA 94534",94534,38.2587923,-122.0670875
+https://locations.tacobell.com/ca/brea/303-west-imperial-highway.html,ca,brea,303-west-imperial-highway,016276,"303 West Imperial Highway, Brea, CA 92821",92821,33.9176757,-117.9024876
+https://locations.tacobell.com/ca/los-angeles/3029-w-8th-st.html,ca,los-angeles,3029-w-8th-st,026839,"3029 W 8th St, Los Angeles, CA 90005",90005,34.0578323,-118.2924812
+https://locations.tacobell.com/ca/menifee/30115-antelope-road.html,ca,menifee,30115-antelope-road,040804,"30115 Antelope Road, Menifee, CA 92584",30115,33.6835386,-117.1676522
+https://locations.tacobell.com/ca/tustin/3010-el-camino-real.html,ca,tustin,3010-el-camino-real,033503,"3010 El Camino Real, Tustin, CA 92782",92782,33.7230141,-117.7938992
+https://locations.tacobell.com/ca/manhattan-beach/301-n-sepulveda-blvd.html,ca,manhattan-beach,301-n-sepulveda-blvd,033626,"301 N Sepulveda Blvd, Manhattan Beach, CA 90266",90266,33.881494,-118.396076
+https://locations.tacobell.com/ca/covina/301-n-citrus.html,ca,covina,301-n-citrus,038982,"301 N Citrus, Covina, CA 91723",91723,34.0802789,-117.8901002
+https://locations.tacobell.com/ca/fullerton/301-e-commonwealth-ave.html,ca,fullerton,301-e-commonwealth-ave,023176,"301 E Commonwealth Ave, Fullerton, CA 92832",92832,33.8706869,-117.9196203
+https://locations.tacobell.com/ca/union-city/30075-industrial-pkwy.html,ca,union-city,30075-industrial-pkwy,030775,"30075 Industrial Pkwy, Union City, CA 94587",30075,37.6112474,-122.0674286
+https://locations.tacobell.com/ca/laguna-niguel/30022-crown-valley-pkwy.html,ca,laguna-niguel,30022-crown-valley-pkwy,028715,"30022 Crown Valley Pkwy, Laguna Niguel, CA 92677",30022,33.5263307,-117.7108195
+https://locations.tacobell.com/ca/fullerton/3000-yorba-linda-blvd.html,ca,fullerton,3000-yorba-linda-blvd,009489,"3000 Yorba Linda Blvd, Fullerton, CA 92831",92831,33.8887868,-117.8744031
+https://locations.tacobell.com/ca/susanville/2990-main-street.html,ca,susanville,2990-main-street,003991,"2990 Main Street, Susanville, CA 96130",96130,40.4101698,-120.6358953
+https://locations.tacobell.com/ca/fresno/2928-n--fowler-ave-.html,ca,fresno,2928-n--fowler-ave-,034217,"2928 N. Fowler Ave., Fresno, CA 93727",93727,36.7783235,-119.6816669
+https://locations.tacobell.com/ca/sacramento/2921-advantage-ln.html,ca,sacramento,2921-advantage-ln,022062,"2921 Advantage Ln, Sacramento, CA 95834",95834,38.6418022,-121.5255815
+https://locations.tacobell.com/ca/ceres/2918-e-whitmore-ave.html,ca,ceres,2918-e-whitmore-ave,034169,"2918 E Whitmore Ave, Ceres, CA 95307",95307,37.5946426,-120.9400939
+https://locations.tacobell.com/ca/santa-ana/2910-s--bristol-st-.html,ca,santa-ana,2910-s--bristol-st-,028727,"2910 S. Bristol St., Santa Ana, CA 92704",92704,33.7085664,-117.8855635
+https://locations.tacobell.com/ca/clovis/290-w-ashlan-ave.html,ca,clovis,290-w-ashlan-ave,034206,"290 W Ashlan Ave, Clovis, CA 93612",93612,36.7936631,-119.7170184
+https://locations.tacobell.com/ca/rancho-cordova/2891-zinfandel-dr.html,ca,rancho-cordova,2891-zinfandel-dr,035468,"2891 Zinfandel Dr, Rancho Cordova, CA 95670",95670,38.5941599,-121.2875361
+https://locations.tacobell.com/ca/selma/2883-highland-avenue.html,ca,selma,2883-highland-avenue,032532,"2883 Highland Avenue, Selma, CA 93662",93662,36.574355,-119.6288135
+https://locations.tacobell.com/ca/tracy/2880-w-grant-line-rd.html,ca,tracy,2880-w-grant-line-rd,030779,"2880 W Grant Line Rd, Tracy, CA 95304",95304,37.7536567,-121.4689174
+https://locations.tacobell.com/ca/daly-city/287-westmoor-ave.html,ca,daly-city,287-westmoor-ave,E720354,"287 Westmoor Ave, Daly City, CA 94015",94015,37.682901,-122.4885692
+https://locations.tacobell.com/ca/rancho-santa-margarita/28532-oso-parkway.html,ca,rancho-santa-margarita,28532-oso-parkway,019895,"28532 Oso Parkway, Rancho Santa Margarita, CA 92688",28532,33.5834859,-117.6328563
+https://locations.tacobell.com/ca/torrance/2840-sepulveda-blvd.html,ca,torrance,2840-sepulveda-blvd,033807,"2840 Sepulveda Blvd, Torrance, CA 90505",90505,33.8230182,-118.3362746
+https://locations.tacobell.com/ca/el-cajon/2827-navajo-road.html,ca,el-cajon,2827-navajo-road,041611,"2827 Navajo Road, El Cajon, CA 92020",92020,32.8021153,-117.0044185
+https://locations.tacobell.com/ca/daly-city/2815-geneva-avenue.html,ca,daly-city,2815-geneva-avenue,E720032,"2815 Geneva Avenue, Daly City, CA 94014",94014,37.7069556,-122.4144393
+https://locations.tacobell.com/ca/ventura/2800-johnson-drive.html,ca,ventura,2800-johnson-drive,019209,"2800 Johnson Drive, Ventura, CA 93003",93003,34.249356,-119.196144
+https://locations.tacobell.com/ca/los-angeles/2800-crenshaw-blvd.html,ca,los-angeles,2800-crenshaw-blvd,033623,"2800 Crenshaw Blvd, Los Angeles, CA 90016",90016,34.030865,-118.3348358
+https://locations.tacobell.com/ca/san-jose/2779-aborn-rd.html,ca,san-jose,2779-aborn-rd,030798,"2779 Aborn Rd, San Jose, CA 95121",95121,37.3139468,-121.7922258
+https://locations.tacobell.com/ca/mission-viejo/27770-santa-margarita-pkwy.html,ca,mission-viejo,27770-santa-margarita-pkwy,002984,"27770 Santa Margarita Pkwy, Mission Viejo, CA 92691",27770,33.6518032,-117.6457011
+https://locations.tacobell.com/ca/anderson/2770-mcmurry.html,ca,anderson,2770-mcmurry,004410,"2770 McMurry, Anderson, CA 96007",96007,40.4530501,-122.2913367
+https://locations.tacobell.com/ca/san-jose/2770-alum-rock-ave.html,ca,san-jose,2770-alum-rock-ave,024525,"2770 Alum Rock Ave, San Jose, CA 95127",95127,37.3620369,-121.8339265
+https://locations.tacobell.com/ca/fullerton/2750-w-orangethorpe-ave-.html,ca,fullerton,2750-w-orangethorpe-ave-,028718,"2750 W Orangethorpe Ave., Fullerton, CA 92833",92833,33.8593471,-117.9651521
+https://locations.tacobell.com/ca/kettleman-city/27494-dana-circle.html,ca,kettleman-city,27494-dana-circle,027301,"27494 Dana Circle, Kettleman City, CA 93239",27494,35.989349,-119.9591702
+https://locations.tacobell.com/ca/laguna-niguel/27371-la-paz-rd.html,ca,laguna-niguel,27371-la-paz-rd,004290,"27371 La Paz Rd, Laguna Niguel, CA 92677",27371,33.5655374,-117.7081842
+https://locations.tacobell.com/ca/soquel/2730-41st-ave.html,ca,soquel,2730-41st-ave,030770,"2730 41st Ave, Soquel, CA 95073",95073,36.9861885,-121.9646107
+https://locations.tacobell.com/ca/lancaster/2729-w-ave-l.html,ca,lancaster,2729-w-ave-l,039807,"2729 W Ave L, Lancaster, CA 93536",93536,34.6607564,-118.1803013
+https://locations.tacobell.com/ca/santa-ana/2720-w-edinger.html,ca,santa-ana,2720-w-edinger,031974,"2720 W Edinger, Santa Ana, CA 92704",92704,33.7270355,-117.9058496
+https://locations.tacobell.com/ca/bay-point/2713-willow-pass-road.html,ca,bay-point,2713-willow-pass-road,030753,"2713 Willow Pass Road, Bay Point, CA 94565",94565,38.0264558,-121.9416514
+https://locations.tacobell.com/ca/moreno-valley/27010-fir-ave-.html,ca,moreno-valley,27010-fir-ave-,039836,"27010 Fir Ave., Moreno Valley, CA 92555",27010,33.9357903,-117.191054
+https://locations.tacobell.com/ca/turlock/2700-geer-rd.html,ca,turlock,2700-geer-rd,034166,"2700 Geer Rd, Turlock, CA 95382",95382,37.5177843,-120.8486126
+https://locations.tacobell.com/ca/redwood-city/2693-el-camino-real.html,ca,redwood-city,2693-el-camino-real,030787,"2693 El Camino Real, Redwood City, CA 94061",94061,37.4722838,-122.2155403
+https://locations.tacobell.com/ca/south-lake-tahoe/2681-lake-tahoe-blvd.html,ca,south-lake-tahoe,2681-lake-tahoe-blvd,036120,"2681 Lake Tahoe Blvd, South Lake Tahoe, CA 96150",96150,38.9285476,-119.9822153
+https://locations.tacobell.com/ca/sun-city/26660-encanto-dr.html,ca,sun-city,26660-encanto-dr,K710018,"26660 Encanto Dr, Sun City, CA 92585",26660,33.7338059,-117.1882836
+https://locations.tacobell.com/ca/foothill-ranch/26656-portola-parkway.html,ca,foothill-ranch,26656-portola-parkway,031978,"26656 Portola Parkway, Foothill Ranch, CA 92610",26656,33.681936,-117.6684017
+https://locations.tacobell.com/ca/mission-viejo/26631-trabuco-road.html,ca,mission-viejo,26631-trabuco-road,039817,"26631 Trabuco Road, Mission Viejo, CA 92691",26631,33.6294412,-117.6655822
+https://locations.tacobell.com/ca/oroville/2660-olive-hwy.html,ca,oroville,2660-olive-hwy,004077,"2660 Olive Hwy, Oroville, CA 95966",95966,39.5048735,-121.5431789
+https://locations.tacobell.com/ca/aliso-viejo/26521-aliso-creek-road.html,ca,aliso-viejo,26521-aliso-creek-road,024148,"26521 Aliso Creek Road, Aliso Viejo, CA 92656",26521,33.5781257,-117.7233111
+https://locations.tacobell.com/ca/fresno/2639-s-second-st.html,ca,fresno,2639-s-second-st,034171,"2639 S Second St, Fresno, CA 93706",93706,36.705666,-119.7704216
+https://locations.tacobell.com/ca/los-angeles/2628-s-robertson-blvd.html,ca,los-angeles,2628-s-robertson-blvd,019260,"2628 S Robertson Blvd, Los Angeles, CA 90034",90034,34.0374792,-118.3883701
+https://locations.tacobell.com/ca/san-diego/2626-el-cajon-blvd.html,ca,san-diego,2626-el-cajon-blvd,025498,"2626 El Cajon Blvd, San Diego, CA 92104",92104,32.7556079,-117.1361258
+https://locations.tacobell.com/ca/mission-viejo/26171-la-paz-rd-.html,ca,mission-viejo,26171-la-paz-rd-,028719,"26171 La Paz Rd., Mission Viejo, CA 92691",26171,33.6008248,-117.672645
+https://locations.tacobell.com/ca/redding/2610-hilltop-dr.html,ca,redding,2610-hilltop-dr,027723,"2610 Hilltop Dr, Redding, CA 96002",96002,40.5695622,-122.3592953
+https://locations.tacobell.com/ca/santa-clara/2600-homestead-rd.html,ca,santa-clara,2600-homestead-rd,028835,"2600 Homestead Rd, Santa Clara, CA 95051",95051,37.3393765,-121.9725681
+https://locations.tacobell.com/ca/oroville/2590-feather-river-blvd.html,ca,oroville,2590-feather-river-blvd,021367,"2590 Feather River Blvd, Oroville, CA 95965",95965,39.4943486,-121.5728898
+https://locations.tacobell.com/ca/san-carlos/259-el-camino-real.html,ca,san-carlos,259-el-camino-real,030796,"259 El Camino Real, San Carlos, CA 94070",94070,37.511398,-122.2650463
+https://locations.tacobell.com/ca/alhambra/2588-w--commonwealth-ave-.html,ca,alhambra,2588-w--commonwealth-ave-,028724,"2588 W. Commonwealth Ave., Alhambra, CA 91801",91801,34.087478,-118.1516897
+https://locations.tacobell.com/ca/palmdale/2561-e-ave-s.html,ca,palmdale,2561-e-ave-s,039809,"2561 E Ave S, Palmdale, CA 93550",93550,34.5583642,-118.0828203
+https://locations.tacobell.com/ca/perris/2560-n-perris-blvd.html,ca,perris,2560-n-perris-blvd,039796,"2560 N Perris Blvd, Perris, CA 92571",92571,33.816676,-117.2266173
+https://locations.tacobell.com/ca/santa-clara/2555-the-alameda.html,ca,santa-clara,2555-the-alameda,024783,"2555 The Alameda, Santa Clara, CA 95050",95050,37.3451697,-121.935731
+https://locations.tacobell.com/ca/rosamond/2547-rosamond-blvd.html,ca,rosamond,2547-rosamond-blvd,024303,"2547 Rosamond Blvd Suite D, Rosamond, CA 93560",93560,34.8648833,-118.1769951
+https://locations.tacobell.com/ca/long-beach/2545-long-beach-blvd.html,ca,long-beach,2545-long-beach-blvd,002828,"2545 Long Beach Blvd, Long Beach, CA 90806",90806,33.8036572,-118.1898367
+https://locations.tacobell.com/ca/folsom/2545-iron-point-rd.html,ca,folsom,2545-iron-point-rd,031118,"2545 Iron Point Rd, Folsom, CA 95630",95630,38.6462313,-121.1171426
+https://locations.tacobell.com/ca/ontario/2544-s-archibald-ave.html,ca,ontario,2544-s-archibald-ave,039827,"2544 S Archibald Ave, Ontario, CA 91761",91761,34.0279591,-117.5933032
+https://locations.tacobell.com/ca/huntington-park/2543-slauson-ave.html,ca,huntington-park,2543-slauson-ave,033621,"2543 Slauson Ave, Huntington Park, CA 90255",90255,33.9894558,-118.22642
+https://locations.tacobell.com/ca/berkeley/2528-durant-ave.html,ca,berkeley,2528-durant-ave,032759,"2528 Durant Ave, Berkeley, CA 94704",94704,37.8678279,-122.2576246
+https://locations.tacobell.com/ca/sacramento/2525-marconi-ave.html,ca,sacramento,2525-marconi-ave,026783,"2525 Marconi Ave, Sacramento, CA 95821",95821,38.6183787,-121.403236
+https://locations.tacobell.com/ca/highland/2525-highland-ave.html,ca,highland,2525-highland-ave,035613,"2525 Highland Ave, Highland, CA 92346",92346,34.1355394,-117.2322283
+https://locations.tacobell.com/ca/modesto/2517-oakdale-rd.html,ca,modesto,2517-oakdale-rd,034176,"2517 Oakdale Rd, Modesto, CA 95355",95355,37.6777456,-120.958241
+https://locations.tacobell.com/ca/coalinga/25101-dorris-ave.html,ca,coalinga,25101-dorris-ave,027300,"25101 Dorris Ave, Coalinga, CA 93210",25101,36.2537261,-120.2483613
+https://locations.tacobell.com/ca/el-cajon/2506-jamacha-rd.html,ca,el-cajon,2506-jamacha-rd,041605,"2506 Jamacha Rd, El Cajon, CA 92019",92019,32.753291,-116.910523
+https://locations.tacobell.com/ca/folsom/25002-blue-ravine-rd.html,ca,folsom,25002-blue-ravine-rd,030342,"25002 Blue Ravine Rd, Folsom, CA 95630",25002,38.6895062,-121.1240948
+https://locations.tacobell.com/ca/long-beach/2500-e-pacific-coast-hwy.html,ca,long-beach,2500-e-pacific-coast-hwy,040401,"2500 E Pacific Coast Hwy, Long Beach, CA 90804",90804,33.7898503,-118.1490387
+https://locations.tacobell.com/ca/san-jose/250-north-bascom-avenue.html,ca,san-jose,250-north-bascom-avenue,E720082,"250 North Bascom Avenue, San Jose, CA 95128",95128,37.3274382,-121.9319098
+https://locations.tacobell.com/ca/thousand-oaks/25-rancho-rd.html,ca,thousand-oaks,25-rancho-rd,003782,"25 Rancho Rd, Thousand Oaks, CA 91360",91360,34.1789007,-118.8579924
+https://locations.tacobell.com/ca/moreno-valley/24936-elder-ave-.html,ca,moreno-valley,24936-elder-ave-,039822,"24936 Elder Ave., Moreno Valley, CA 92557",24936,33.9414723,-117.2279711
+https://locations.tacobell.com/ca/concord/2475-olivera-rd-.html,ca,concord,2475-olivera-rd-,030747,"2475 Olivera Rd., Concord, CA 94520",94520,37.9953953,-122.0319102
+https://locations.tacobell.com/ca/newhall/24712-w-pico-canyon-rd.html,ca,newhall,24712-w-pico-canyon-rd,039795,"24712 W Pico Canyon Rd, Newhall, CA 91321",24712,34.3794441,-118.5681632
+https://locations.tacobell.com/ca/san-jose/2471-berryessa-road.html,ca,san-jose,2471-berryessa-road,027523,"2471 Berryessa Road Unit 1, San Jose, CA 95132",95132,37.386233,-121.8619493
+https://locations.tacobell.com/ca/murrieta/24656-madison-ave.html,ca,murrieta,24656-madison-ave,040805,"24656 Madison Ave, Murrieta, CA 92562",24656,33.5630618,-117.2059618
+https://locations.tacobell.com/ca/marina/244-reservation-rd.html,ca,marina,244-reservation-rd,027303,"244 Reservation Rd, Marina, CA 93933",93933,36.6858577,-121.7967107
+https://locations.tacobell.com/ca/sacramento/2434-del-paso-blvd.html,ca,sacramento,2434-del-paso-blvd,028108,"2434 Del Paso Blvd, Sacramento, CA 95815",95815,38.6121002,-121.4467703
+https://locations.tacobell.com/ca/sacramento/2431-broadway.html,ca,sacramento,2431-broadway,028748,"2431 Broadway, Sacramento, CA 95818",95818,38.5587087,-121.480665
+https://locations.tacobell.com/ca/lakewood/2430-carson-st-.html,ca,lakewood,2430-carson-st-,028526,"2430 Carson St., Lakewood, CA 90712",90712,33.8321507,-118.1628966
+https://locations.tacobell.com/ca/burbank/2425-w-magnolia-blvd-.html,ca,burbank,2425-w-magnolia-blvd-,028471,"2425 W Magnolia Blvd., Burbank, CA 91506",91506,34.1722944,-118.3346606
+https://locations.tacobell.com/ca/riverbank/2421-patterson-rd.html,ca,riverbank,2421-patterson-rd,034213,"2421 Patterson Rd, Riverbank, CA 95367",95367,37.7330776,-120.9533548
+https://locations.tacobell.com/ca/visalia/2421-n-dinuba-blvd.html,ca,visalia,2421-n-dinuba-blvd,032526,"2421 N Dinuba Blvd, Visalia, CA 93291",93291,36.3514495,-119.297431
+https://locations.tacobell.com/ca/san-jose/2415-south-king-road.html,ca,san-jose,2415-south-king-road,E720165,"2415 South King Road, San Jose, CA 95122",95122,37.3215855,-121.8256024
+https://locations.tacobell.com/ca/san-ramon/2415-san-ramon-valley-blvd.html,ca,san-ramon,2415-san-ramon-valley-blvd,030771,"2415 San Ramon Valley Blvd Suite 6, San Ramon, CA 94583",94583,37.774711,-121.9792934
+https://locations.tacobell.com/ca/alhambra/241-e-valley-blvd.html,ca,alhambra,241-e-valley-blvd,003123,"241 E Valley Blvd, Alhambra, CA 91801",91801,34.0790271,-118.1200539
+https://locations.tacobell.com/ca/compton/241-e-compton-blvd.html,ca,compton,241-e-compton-blvd,005598,"241 E Compton Blvd, Compton, CA 90220",90220,33.8940528,-118.2735537
+https://locations.tacobell.com/ca/stockton/2407-west-march-lane.html,ca,stockton,2407-west-march-lane,041363,"2407 West March Lane, Stockton, CA 95207",95207,37.9855606,-121.3374137
+https://locations.tacobell.com/ca/walnut-creek/2400-n--main-st-.html,ca,walnut-creek,2400-n--main-st-,031458,"2400 N. Main St., Walnut Creek, CA 94596",94596,37.9133177,-122.0652236
+https://locations.tacobell.com/ca/rialto/240-w-base-line-rd.html,ca,rialto,240-w-base-line-rd,022452,"240 W Base Line Rd, Rialto, CA 92376",92376,34.1213884,-117.4247559
+https://locations.tacobell.com/ca/chico/2398-esplanade.html,ca,chico,2398-esplanade,027724,"2398 Esplanade, Chico, CA 95926",95926,39.7553359,-121.8594834
+https://locations.tacobell.com/ca/lodi/2380-w-kettleman-ln.html,ca,lodi,2380-w-kettleman-ln,035901,"2380 W Kettleman Ln, Lodi, CA 95242",95242,38.1156342,-121.3023181
+https://locations.tacobell.com/ca/lake-forest/23651-rockfield-blvd-.html,ca,lake-forest,23651-rockfield-blvd-,039851,"23651 Rockfield Blvd., Lake Forest, CA 92630",23651,33.6291631,-117.7169109
+https://locations.tacobell.com/ca/rocklin/2365-sunset-blvd.html,ca,rocklin,2365-sunset-blvd,005192,"2365 Sunset Blvd, Rocklin, CA 95765",95765,38.7991902,-121.2680327
+https://locations.tacobell.com/ca/simi-valley/2360-tapo-street.html,ca,simi-valley,2360-tapo-street,039797,"2360 Tapo Street, Simi Valley, CA 93063",93063,34.278728,-118.707907
+https://locations.tacobell.com/ca/madera/2350-w-cleveland-ave.html,ca,madera,2350-w-cleveland-ave,034219,"2350 W Cleveland Ave, Madera, CA 93637",93637,36.9745123,-120.0857869
+https://locations.tacobell.com/ca/fairfield/2334-north-texas-street.html,ca,fairfield,2334-north-texas-street,028846,"2334 North Texas Street, Fairfield, CA 94533",94533,38.2705674,-122.0340342
+https://locations.tacobell.com/ca/scotts-valley/233-mount-hermon-rd.html,ca,scotts-valley,233-mount-hermon-rd,030751,"233 Mount Hermon Rd, Scotts Valley, CA 95066",95066,37.0455956,-122.0281819
+https://locations.tacobell.com/ca/woodland-hills/23275-mulholland-drive.html,ca,woodland-hills,23275-mulholland-drive,016639,"23275 Mulholland Drive, Woodland Hills, CA 91364",23275,34.1557275,-118.6333917
+https://locations.tacobell.com/ca/tracy/2320-tracy-blvd.html,ca,tracy,2320-tracy-blvd,030748,"2320 Tracy Blvd, Tracy, CA 95376",95376,37.7535131,-121.4348253
+https://locations.tacobell.com/ca/santa-clarita/23146-valencia-blvd.html,ca,santa-clarita,23146-valencia-blvd,039794,"23146 Valencia Blvd, Santa Clarita, CA 91355",23146,34.4212116,-118.5421392
+https://locations.tacobell.com/ca/moreno-valley/23010-sunnymead-blvd.html,ca,moreno-valley,23010-sunnymead-blvd,039843,"23010 Sunnymead Blvd, Moreno Valley, CA 92553",23010,33.9399929,-117.26106
+https://locations.tacobell.com/ca/richmond/2300-barrett-ave.html,ca,richmond,2300-barrett-ave,041350,"2300 Barrett Ave, Richmond, CA 94804",94804,37.938209,-122.3471509
+https://locations.tacobell.com/ca/san-jose/2284-monterey-road.html,ca,san-jose,2284-monterey-road,030648,"2284 Monterey Road, San Jose, CA 95112",95112,37.30232,-121.8594644
+https://locations.tacobell.com/ca/red-bluff/228-main-st.html,ca,red-bluff,228-main-st,019662,"228 Main St, Red Bluff, CA 96080",96080,40.1740113,-122.2314082
+https://locations.tacobell.com/ca/long-beach/228-e-seventh.html,ca,long-beach,228-e-seventh,004636,"228 E Seventh, Long Beach, CA 90813",90813,48.9589985,-125.4361017
+https://locations.tacobell.com/ca/costa-mesa/2259-harbor-blvd.html,ca,costa-mesa,2259-harbor-blvd,028709,"2259 Harbor Blvd, Costa Mesa, CA 92626",92626,33.6572017,-117.9193115
+https://locations.tacobell.com/ca/moreno-valley/22585-alessandro-blvd.html,ca,moreno-valley,22585-alessandro-blvd,039850,"22585 Alessandro Blvd, Moreno Valley, CA 92553",22585,33.9166809,-117.2686166
+https://locations.tacobell.com/ca/oakland/2255-telegraph-avenue.html,ca,oakland,2255-telegraph-avenue,030756,"2255 Telegraph Avenue, Oakland, CA 94612",94612,37.8121737,-122.2691122
+https://locations.tacobell.com/ca/ventura/2250-e-main-st.html,ca,ventura,2250-e-main-st,018365,"2250 E Main St, Ventura, CA 93001",93001,34.2769556,-119.2664973
+https://locations.tacobell.com/ca/santa-ana/2246-s-grand-ave-.html,ca,santa-ana,2246-s-grand-ave-,033502,"2246 S Grand Ave., Santa Ana, CA 92705",92705,33.7167042,-117.8506844
+https://locations.tacobell.com/ca/west-sacramento/2246-lake-washington-blvd-.html,ca,west-sacramento,2246-lake-washington-blvd-,028754,"2246 Lake Washington Blvd., West Sacramento, CA 95691",95691,38.55734,-121.5398835
+https://locations.tacobell.com/ca/orange/2233-n-tustin-st.html,ca,orange,2233-n-tustin-st,039805,"2233 N Tustin St, Orange, CA 92865",92865,33.825057,-117.8356645
+https://locations.tacobell.com/ca/yorba-linda/22300-old-canal-road.html,ca,yorba-linda,22300-old-canal-road,039853,"22300 Old Canal Road, Yorba Linda, CA 92887",22300,33.8727118,-117.7457359
+https://locations.tacobell.com/ca/carson/22235-so-main-st.html,ca,carson,22235-so-main-st,028518,"22235 So Main St, Carson, CA 90745",22235,33.8246599,-118.2764725
+https://locations.tacobell.com/ca/irvine/2222-barranca-pkwy.html,ca,irvine,2222-barranca-pkwy,003904,"2222 Barranca Pkwy, Irvine, CA 92606",92606,33.6993923,-117.8349621
+https://locations.tacobell.com/ca/pomona/2204-n-garey.html,ca,pomona,2204-n-garey,000024,"2204 N Garey, Pomona, CA 91767",91767,34.0885167,-117.7496796
+https://locations.tacobell.com/ca/ontario/2201-s--mountain-ave-.html,ca,ontario,2201-s--mountain-ave-,039825,"2201 S. Mountain Ave., Ontario, CA 91762",91762,34.033447,-117.6684712
+https://locations.tacobell.com/ca/redondo-beach/2201-artesia-blvd.html,ca,redondo-beach,2201-artesia-blvd,033628,"2201 Artesia Blvd, Redondo Beach, CA 90278",90278,33.873108,-118.3725152
+https://locations.tacobell.com/ca/corona/220-w--ontario-st-.html,ca,corona,220-w--ontario-st-,039833,"220 W. Ontario St., Corona, CA 92882",92882,33.8562427,-117.5719845
+https://locations.tacobell.com/ca/corona/2193-sampson-ave.html,ca,corona,2193-sampson-ave,039823,"2193 Sampson Ave, Corona, CA 92879",92879,33.8847156,-117.5177976
+https://locations.tacobell.com/ca/corning/2189-solano-street.html,ca,corning,2189-solano-street,009488,"2189 Solano Street, Corning, CA 96021",96021,39.9279696,-122.1970205
+https://locations.tacobell.com/ca/hayward/21600-foothill-blvd.html,ca,hayward,21600-foothill-blvd,030757,"21600 Foothill Blvd, Hayward, CA 94541",21600,37.6829593,-122.0887194
+https://locations.tacobell.com/ca/la-canada-flintridge/2151-foothill-blvd.html,ca,la-canada-flintridge,2151-foothill-blvd,039798,"2151 Foothill Blvd, La Canada Flintridge, CA 91011",91011,34.2154425,-118.2233487
+https://locations.tacobell.com/ca/hayward/215-west-jackson-street.html,ca,hayward,215-west-jackson-street,030795,"215 West Jackson Street, Hayward, CA 94544",94544,37.6519551,-122.0898341
+https://locations.tacobell.com/ca/anaheim/2144-south-harbor-blvd.html,ca,anaheim,2144-south-harbor-blvd,031980,"2144 South Harbor Blvd, Anaheim, CA 92802",92802,33.7945493,-117.9144653
+https://locations.tacobell.com/ca/hacienda-heights/2136-hacienda-blvd.html,ca,hacienda-heights,2136-hacienda-blvd,039802,"2136 Hacienda Blvd, Hacienda Heights, CA 91745",91745,33.9954949,-117.9680848
+https://locations.tacobell.com/ca/clovis/2131-east-shaw.html,ca,clovis,2131-east-shaw,034207,"2131 East Shaw, Clovis, CA 93611",93611,36.8083396,-119.6414296
+https://locations.tacobell.com/ca/chatsworth/21120-devonshire-street.html,ca,chatsworth,21120-devonshire-street,039785,"21120 Devonshire Street, Chatsworth, CA 91311",21120,34.2569856,-118.5939821
+https://locations.tacobell.com/ca/pittsburg/2111-loveridge-rd.html,ca,pittsburg,2111-loveridge-rd,030937,"2111 Loveridge Rd, Pittsburg, CA 94565",94565,38.0103595,-121.8693484
+https://locations.tacobell.com/ca/millbrae/210-el-camino-real.html,ca,millbrae,210-el-camino-real,026850,"210 El Camino Real, Millbrae, CA 94030",94030,37.6011898,-122.3899351
+https://locations.tacobell.com/ca/castro-valley/20925-redwood-rd.html,ca,castro-valley,20925-redwood-rd,030744,"20925 Redwood Rd, Castro Valley, CA 94546",20925,37.6942413,-122.0740758
+https://locations.tacobell.com/ca/woodland/208-w-main-st.html,ca,woodland,208-w-main-st,028844,"208 W Main St, Woodland, CA 95695",95695,38.6780246,-121.7937735
+https://locations.tacobell.com/ca/lomita/2054-lomita-blvd.html,ca,lomita,2054-lomita-blvd,028521,"2054 Lomita Blvd, Lomita, CA 90717",90717,33.800711,-118.316228
+https://locations.tacobell.com/ca/turlock/2050-w-main-st.html,ca,turlock,2050-w-main-st,034170,"2050 W Main St, Turlock, CA 95380",95380,37.4923743,-120.8725144
+https://locations.tacobell.com/ca/pasadena/2050-fair-oaks-boulevard.html,ca,pasadena,2050-fair-oaks-boulevard,D016008,"2050 Fair Oaks Boulevard, Pasadena, CA 91103",91103,34.1809778,-118.1505016
+https://locations.tacobell.com/ca/los-angeles/2046-w-manchester-blvd.html,ca,los-angeles,2046-w-manchester-blvd,000833,"2046 W Manchester Blvd, Los Angeles, CA 90047",90047,33.9597232,-118.3146259
+https://locations.tacobell.com/ca/rocklin/2041-wildcat-blvd.html,ca,rocklin,2041-wildcat-blvd,031733,"2041 Wildcat Blvd, Rocklin, CA 95765",95765,38.8189025,-121.2804149
+https://locations.tacobell.com/ca/fresno/2040-west-shaw-avenue.html,ca,fresno,2040-west-shaw-avenue,032530,"2040 West Shaw Avenue, Fresno, CA 93711",93711,36.8086686,-119.8272344
+https://locations.tacobell.com/ca/san-pedro/204-n--gaffey-st-.html,ca,san-pedro,204-n--gaffey-st-,028514,"204 N. Gaffey St., San Pedro, CA 90731",90731,33.7443455,-118.291993
+https://locations.tacobell.com/ca/banning/2034-w--ramsey-st-.html,ca,banning,2034-w--ramsey-st-,032536,"2034 W. Ramsey St., Banning, CA 92220",92220,33.9254403,-116.8989399
+https://locations.tacobell.com/ca/vallejo/2033-solano-avenue.html,ca,vallejo,2033-solano-avenue,041371,"2033 Solano Avenue, Vallejo, CA 94590",94590,38.1048995,-122.2319472
+https://locations.tacobell.com/ca/corcoran/2021-whitley-avenue.html,ca,corcoran,2021-whitley-avenue,031651,"2021 Whitley Avenue, Corcoran, CA 93212",93212,36.0982044,-119.5724606
+https://locations.tacobell.com/ca/lindsay/202-north-highway-65.html,ca,lindsay,202-north-highway-65,024287,"202 North Highway 65, Lindsay, CA 93247",93247,36.2029138,-119.102537
+https://locations.tacobell.com/ca/apple-valley/20185-highway-18.html,ca,apple-valley,20185-highway-18,019410,"20185 Highway 18, Apple Valley, CA 92307",20185,34.527295,-117.2231955
+https://locations.tacobell.com/ca/oakley/2015-main-st.html,ca,oakley,2015-main-st,030767,"2015 Main St, Oakley, CA 94561",94561,38.0050614,-121.7339905
+https://locations.tacobell.com/ca/san-diego/2011-camino-del-este.html,ca,san-diego,2011-camino-del-este,025502,"2011 Camino Del Este, San Diego, CA 92108",92108,32.7710461,-117.1443408
+https://locations.tacobell.com/ca/vacaville/2010-nut-tree-road.html,ca,vacaville,2010-nut-tree-road,041351,"2010 Nut Tree Road, Vacaville, CA 95687",95687,38.3514765,-121.9529521
+https://locations.tacobell.com/ca/oxnard/201-w-channel-islands-blvd.html,ca,oxnard,201-w-channel-islands-blvd,019899,"201 W Channel Islands Blvd, Oxnard, CA 93033",93033,34.173509,-119.178948
+https://locations.tacobell.com/ca/manteca/201-northgate-dr.html,ca,manteca,201-northgate-dr,041359,"201 Northgate Dr, Manteca, CA 95336",95336,37.8188407,-121.2187239
+https://locations.tacobell.com/ca/santa-rosa/2000-santa-rosa-ave.html,ca,santa-rosa,2000-santa-rosa-ave,030942,"2000 Santa Rosa Ave, Santa Rosa, CA 95407",95407,38.4181781,-122.7131617
+https://locations.tacobell.com/ca/vacaville/2000-alamo-drive.html,ca,vacaville,2000-alamo-drive,028845,"2000 Alamo Drive, Vacaville, CA 95687",95687,38.3350042,-121.9700379
+https://locations.tacobell.com/ca/angels-camp/200-s-main.html,ca,angels-camp,200-s-main,022939,"200 S Main, Angels Camp, CA 95221",95221,38.080124,-120.555707
+https://locations.tacobell.com/ca/weed/200-east-vista-drive.html,ca,weed,200-east-vista-drive,015851,"200 East Vista Drive, Weed, CA 96094",96094,41.398163,-122.3776619
+https://locations.tacobell.com/ca/valley-springs/200-e--hwy-12.html,ca,valley-springs,200-e--hwy-12,024461,"200 E. Hwy 12, Valley Springs, CA 95252",95252,38.1922481,-120.8278168
+https://locations.tacobell.com/ca/san-bernardino/1990-ostrems-way.html,ca,san-bernardino,1990-ostrems-way,039615,"1990 Ostrems Way, San Bernardino, CA 92407",92407,34.1620396,-117.3343138
+https://locations.tacobell.com/ca/el-centro/1990-n--imperial-ave-.html,ca,el-centro,1990-n--imperial-ave-,026031,"1990 N. Imperial Ave., El Centro, CA 92243",92243,32.8107491,-115.5704333
+https://locations.tacobell.com/ca/south-san-francisco/199-airport-boulevard.html,ca,south-san-francisco,199-airport-boulevard,E720210,"199 Airport Boulevard, South San Francisco, CA 94080",94080,37.6536293,-122.4086821
+https://locations.tacobell.com/ca/san-mateo/1975-s-el-camino-real.html,ca,san-mateo,1975-s-el-camino-real,030758,"1975 S El Camino Real, San Mateo, CA 94403",94403,37.5485885,-122.3097547
+https://locations.tacobell.com/ca/san-fernando/1968-glen-oaks-blvd.html,ca,san-fernando,1968-glen-oaks-blvd,039791,"1968 Glen Oaks Blvd, San Fernando, CA 91340",91340,34.2979506,-118.4378813
+https://locations.tacobell.com/ca/manteca/1968-daniels-street.html,ca,manteca,1968-daniels-street,034216,"1968 Daniels Street, Manteca, CA 95337",95337,37.7860517,-121.2510449
+https://locations.tacobell.com/ca/pasadena/1953-e-colorado-blvd.html,ca,pasadena,1953-e-colorado-blvd,039800,"1953 E Colorado Blvd, Pasadena, CA 91107",91107,34.146271,-118.1100699
+https://locations.tacobell.com/ca/escondido/1944-e-valley-pkwy.html,ca,escondido,1944-e-valley-pkwy,041599,"1944 E Valley Pkwy, Escondido, CA 92027",92027,33.137374,-117.0527366
+https://locations.tacobell.com/ca/oceanside/1940-oceanside-blvd.html,ca,oceanside,1940-oceanside-blvd,040795,"1940 Oceanside Blvd, Oceanside, CA 92054",92054,33.194293,-117.3554956
+https://locations.tacobell.com/ca/chico/1930-east-20th-st.html,ca,chico,1930-east-20th-st,034200,"1930 East 20th St, Chico, CA 95928",95928,39.7275256,-121.8066505
+https://locations.tacobell.com/ca/thousand-oaks/1928-e-avenida-de-los-arboles.html,ca,thousand-oaks,1928-e-avenida-de-los-arboles,003543,"1928 E Avenida De Los Arboles, Thousand Oaks, CA 91362",91362,34.210769,-118.8429608
+https://locations.tacobell.com/ca/ramona/1925-main-street.html,ca,ramona,1925-main-street,041609,"1925 Main Street Suite A, Ramona, CA 92065",92065,33.0334323,-116.8835274
+https://locations.tacobell.com/ca/santa-maria/1919-s-broadway.html,ca,santa-maria,1919-s-broadway,002474,"1919 S Broadway, Santa Maria, CA 93454",93454,34.9260793,-120.4364342
+https://locations.tacobell.com/ca/compton/1914-w-rosecrans-ave.html,ca,compton,1914-w-rosecrans-ave,004576,"1914 W Rosecrans Ave, Compton, CA 90220",90220,33.9020788,-118.2529719
+https://locations.tacobell.com/ca/paso-robles/191-niblick-road.html,ca,paso-robles,191-niblick-road,023052,"191 Niblick Road, Paso Robles, CA 93446",93446,35.6154807,-120.6813836
+https://locations.tacobell.com/ca/buellton/191-e-highway-246.html,ca,buellton,191-e-highway-246,027774,"191 E Highway 246, Buellton, CA 93427",93427,34.6121896,-120.1893049
+https://locations.tacobell.com/ca/huntington-beach/19051-magnolia-st-.html,ca,huntington-beach,19051-magnolia-st-,028730,"19051 Magnolia St., Huntington Beach, CA 92646",19051,33.6858125,-117.9717273
+https://locations.tacobell.com/ca/sonoma/19025-sonoma-hwy-.html,ca,sonoma,19025-sonoma-hwy-,041357,"19025 Sonoma Hwy., Sonoma, CA 95476",19025,38.3023895,-122.4753865
+https://locations.tacobell.com/ca/huntington-beach/19002-beach-blvd.html,ca,huntington-beach,19002-beach-blvd,028708,"19002 Beach Blvd, Huntington Beach, CA 92648",19002,33.6864321,-117.9882772
+https://locations.tacobell.com/ca/alameda/1900-webster.html,ca,alameda,1900-webster,030745,"1900 Webster, Alameda, CA 94501",94501,37.7785958,-122.2763583
+https://locations.tacobell.com/ca/auburn/1895-auburn-ravine-road.html,ca,auburn,1895-auburn-ravine-road,036123,"1895 Auburn Ravine Road, Auburn, CA 95603",95603,38.9239204,-121.0595843
+https://locations.tacobell.com/ca/canyon-country/18941-soledad-canyon-rd.html,ca,canyon-country,18941-soledad-canyon-rd,039786,"18941 Soledad Canyon Rd, Canyon Country, CA 91351",18941,34.4160491,-118.4661265
+https://locations.tacobell.com/ca/ontario/1885-e-4th-st.html,ca,ontario,1885-e-4th-st,039826,"1885 E 4th St, Ontario, CA 91764",91764,34.0776668,-117.6115345
+https://locations.tacobell.com/ca/lockeford/18780-n-highway-88.html,ca,lockeford,18780-n-highway-88,041362,"18780 N Highway 88, Lockeford, CA 95237",18780,38.116185,-121.1733333
+https://locations.tacobell.com/ca/bloomington/18772-valley-blvd.html,ca,bloomington,18772-valley-blvd,039847,"18772 Valley Blvd, Bloomington, CA 92316",18772,34.0709465,-117.3950244
+https://locations.tacobell.com/ca/glendale/1850-w-glenoaks-blvd.html,ca,glendale,1850-w-glenoaks-blvd,019247,"1850 W Glenoaks Blvd, Glendale, CA 91201",91201,34.173531,-118.29354
+https://locations.tacobell.com/ca/tarzana/18450-ventura-blvd.html,ca,tarzana,18450-ventura-blvd,028470,"18450 Ventura Blvd, Tarzana, CA 91356",18450,34.1681728,-118.5352545
+https://locations.tacobell.com/ca/santa-rosa/1835-mendocino-ave.html,ca,santa-rosa,1835-mendocino-ave,030934,"1835 Mendocino Ave, Santa Rosa, CA 95401",95401,38.4579521,-122.7178664
+https://locations.tacobell.com/ca/seaside/1830-fremont-blvd.html,ca,seaside,1830-fremont-blvd,026043,"1830 Fremont Blvd, Seaside, CA 93955",93955,36.6154568,-121.8420959
+https://locations.tacobell.com/ca/long-beach/1822-santa-fe.html,ca,long-beach,1822-santa-fe,040400,"1822 Santa Fe, Long Beach, CA 90810",90810,33.7903919,-118.2152556
+https://locations.tacobell.com/ca/mckinleyville/1811-central-ave.html,ca,mckinleyville,1811-central-ave,017993,"1811 Central Ave, McKinleyville, CA 95519",95519,40.9383208,-124.1005324
+https://locations.tacobell.com/ca/santa-ana/1810-n-bristol-st-.html,ca,santa-ana,1810-n-bristol-st-,039806,"1810 N Bristol St., Santa Ana, CA 92706",92706,33.7611218,-117.8855001
+https://locations.tacobell.com/ca/riverside/181-e-alessandro-blvd.html,ca,riverside,181-e-alessandro-blvd,039845,"181 E Alessandro Blvd, Riverside, CA 92508",92508,33.9158898,-117.3294621
+https://locations.tacobell.com/ca/santa-maria/1807-n--broadway.html,ca,santa-maria,1807-n--broadway,026420,"1807 N. Broadway, Santa Maria, CA 93455",93455,34.9723625,-120.4360608
+https://locations.tacobell.com/ca/yreka/1804-fort-jones-rd.html,ca,yreka,1804-fort-jones-rd,002299,"1804 Fort Jones Rd, Yreka, CA 96097",96097,41.7029015,-122.6443443
+https://locations.tacobell.com/ca/sacramento/1801-watt-ave.html,ca,sacramento,1801-watt-ave,041358,"1801 Watt Ave, Sacramento, CA 95825",95825,38.5976316,-121.3835888
+https://locations.tacobell.com/ca/modesto/1800-prescott-road.html,ca,modesto,1800-prescott-road,034220,"1800 Prescott Road, Modesto, CA 95350",95350,37.672236,-121.0308223
+https://locations.tacobell.com/ca/novato/180-rowland-blvd.html,ca,novato,180-rowland-blvd,026849,"180 Rowland Blvd, Novato, CA 94945",94945,38.0941286,-122.5552338
+https://locations.tacobell.com/ca/hanford/1796-w-lacey-blvd.html,ca,hanford,1796-w-lacey-blvd,032528,"1796 W Lacey Blvd, Hanford, CA 93230",93230,36.3284432,-119.6752113
+https://locations.tacobell.com/ca/bellflower/17900-bellflower-blvd.html,ca,bellflower,17900-bellflower-blvd,028520,"17900 Bellflower Blvd, Bellflower, CA 90706",17900,33.8694814,-118.1247848
+https://locations.tacobell.com/ca/prunedale/17533-vierra-canyon-rd.html,ca,prunedale,17533-vierra-canyon-rd,030719,"17533 Vierra Canyon Rd, Prunedale, CA 93907",17533,36.7922679,-121.6654092
+https://locations.tacobell.com/ca/tustin/17502-e-17th.html,ca,tustin,17502-e-17th,031975,"17502 E 17th, Tustin, CA 92780",17502,33.7593469,-117.8266331
+https://locations.tacobell.com/ca/lancaster/1740-east-avenue-j.html,ca,lancaster,1740-east-avenue-j,039808,"1740 East Avenue J, Lancaster, CA 93535",93535,34.6891873,-118.0978912
+https://locations.tacobell.com/ca/national-city/1737-sweetwater-rd.html,ca,national-city,1737-sweetwater-rd,040801,"1737 Sweetwater Rd, National City, CA 91950",91950,32.6619426,-117.0812706
+https://locations.tacobell.com/ca/la-puente/1737-north-hacienda-blvd.html,ca,la-puente,1737-north-hacienda-blvd,038985,"1737 North Hacienda Blvd, La Puente, CA 91744",91744,34.0506802,-117.9443954
+https://locations.tacobell.com/ca/los-angeles/1734-w-colorado-blvd.html,ca,los-angeles,1734-w-colorado-blvd,029286,"1734 W Colorado Blvd, Los Angeles, CA 90041",90041,34.1392101,-118.2050021
+https://locations.tacobell.com/ca/victorville/17250-bear-valley-rd.html,ca,victorville,17250-bear-valley-rd,004660,"17250 Bear Valley Rd, Victorville, CA 92392",17250,34.4713452,-117.2863146
+https://locations.tacobell.com/ca/oxnard/1725-n-oxnard-blvd.html,ca,oxnard,1725-n-oxnard-blvd,000953,"1725 N Oxnard Blvd, Oxnard, CA 93030",93030,34.2177357,-119.1776667
+https://locations.tacobell.com/ca/huntington-beach/17182-beach-blvd.html,ca,huntington-beach,17182-beach-blvd,028705,"17182 Beach Blvd, Huntington Beach, CA 92647",17182,33.7128889,-117.9886176
+https://locations.tacobell.com/ca/hanford/1718-n-11th-ave.html,ca,hanford,1718-n-11th-ave,032533,"1718 N 11th Ave, Hanford, CA 93230",93230,36.3430761,-119.6552647
+https://locations.tacobell.com/ca/hesperia/17170-main-street.html,ca,hesperia,17170-main-street,015599,"17170 Main Street, Hesperia, CA 92345",17170,34.4198899,-117.2879428
+https://locations.tacobell.com/ca/auburn/1717-grass-valley-hwy.html,ca,auburn,1717-grass-valley-hwy,036121,"1717 Grass Valley Hwy, Auburn, CA 95603",95603,38.9271582,-121.0872308
+https://locations.tacobell.com/ca/palm-springs/1717-e--vista-chino-st-.html,ca,palm-springs,1717-e--vista-chino-st-,027780,"1717 E. Vista Chino St. Bldg. E, Palm Springs, CA 92262",92262,33.8445005,-116.5256549
+https://locations.tacobell.com/ca/fontana/17111-foothill-blvd.html,ca,fontana,17111-foothill-blvd,039819,"17111 Foothill Blvd, Fontana, CA 92335",17111,34.1061697,-117.4311531
+https://locations.tacobell.com/ca/antioch/1706-a-st.html,ca,antioch,1706-a-st,031531,"1706 A St, Antioch, CA 94509",94509,38.0050688,-121.8064167
+https://locations.tacobell.com/ca/palo-alto/1701-e-bayshore-rd-.html,ca,palo-alto,1701-e-bayshore-rd-,028837,"1701 E Bayshore Rd., Palo Alto, CA 94303",94303,37.4590754,-122.137274
+https://locations.tacobell.com/ca/morgan-hill/17000-condit-road.html,ca,morgan-hill,17000-condit-road,019615,"17000 Condit Road, Morgan Hill, CA 95037",17000,37.1332528,-121.6300448
+https://locations.tacobell.com/ca/morro-bay/1700-main-street.html,ca,morro-bay,1700-main-street,003499,"1700 Main Street, Morro Bay, CA 93442",93442,35.3793983,-120.8544016
+https://locations.tacobell.com/ca/rohnert-park/1700-e-cotati-ave.html,ca,rohnert-park,1700-e-cotati-ave,030938,"1700 E Cotati Ave, Rohnert Park, CA 94928",94928,38.3357266,-122.6776902
+https://locations.tacobell.com/ca/pleasant-hill/1700-contra-costa-blvd.html,ca,pleasant-hill,1700-contra-costa-blvd,031449,"1700 Contra Costa Blvd, Pleasant Hill, CA 94523",94523,37.9531862,-122.0597358
+https://locations.tacobell.com/ca/san-jose/170-bernal-rd.html,ca,san-jose,170-bernal-rd,026329,"170 Bernal Rd, San Jose, CA 95119",95119,37.2274752,-121.7756419
+https://locations.tacobell.com/ca/concord/1698-monument-blvd.html,ca,concord,1698-monument-blvd,030743,"1698 Monument Blvd, Concord, CA 94520",94520,37.9541399,-122.0416857
+https://locations.tacobell.com/ca/sunnyvale/1695-hollenbeck-road.html,ca,sunnyvale,1695-hollenbeck-road,E720355,"1695 Hollenbeck Road, Sunnyvale, CA 94087",94087,37.3378739,-122.0418693
+https://locations.tacobell.com/ca/lathrop/16905-s-harlan-rd.html,ca,lathrop,16905-s-harlan-rd,034183,"16905 S Harlan Rd, Lathrop, CA 95330",16905,37.8103525,-121.2939327
+https://locations.tacobell.com/ca/lawndale/16901-hawthorne-blvd.html,ca,lawndale,16901-hawthorne-blvd,000084,"16901 Hawthorne Blvd, Lawndale, CA 90260",16901,33.8772393,-118.3529232
+https://locations.tacobell.com/ca/morgan-hill/16900-monterey-rd.html,ca,morgan-hill,16900-monterey-rd,026048,"16900 Monterey Rd, Morgan Hill, CA 95037",16900,37.1251797,-121.6502863
+https://locations.tacobell.com/ca/fontana/16863-valley-blvd.html,ca,fontana,16863-valley-blvd,039828,"16863 Valley Blvd, Fontana, CA 92335",16863,34.070272,-117.4365683
+https://locations.tacobell.com/ca/reedley/1686-e-manning-ave.html,ca,reedley,1686-e-manning-ave,032522,"1686 E Manning Ave, Reedley, CA 93654",93654,36.604197,-119.4317221
+https://locations.tacobell.com/ca/santa-clara/1680-el-camino-real.html,ca,santa-clara,1680-el-camino-real,024790,"1680 El Camino Real, Santa Clara, CA 95050",95050,37.3520633,-121.9554147
+https://locations.tacobell.com/ca/huntington-beach/16431-bolsa-chica-st-.html,ca,huntington-beach,16431-bolsa-chica-st-,028716,"16431 Bolsa Chica St., Huntington Beach, CA 92649",16431,33.7228764,-118.041709
+https://locations.tacobell.com/ca/torrance/16414-crenshaw-blvd.html,ca,torrance,16414-crenshaw-blvd,033631,"16414 Crenshaw Blvd, Torrance, CA 90504",16414,33.881437,-118.3261204
+https://locations.tacobell.com/ca/santa-ana/16252-harbor-blvd-.html,ca,santa-ana,16252-harbor-blvd-,039614,"16252 Harbor Blvd., Santa Ana, CA 92704",16252,33.7102235,-117.9195892
+https://locations.tacobell.com/ca/santa-monica/1624-santa-monica-blvd-.html,ca,santa-monica,1624-santa-monica-blvd-,028710,"1624 Santa Monica Blvd., Santa Monica, CA 90404",90404,34.0259672,-118.4830298
+https://locations.tacobell.com/ca/fontana/16045-sierra-lakes-pkwy.html,ca,fontana,16045-sierra-lakes-pkwy,039824,"16045 Sierra Lakes Pkwy, Fontana, CA 92336",16045,34.1386428,-117.4546742
+https://locations.tacobell.com/ca/los-angeles/1604-s--la-brea-ave-.html,ca,los-angeles,1604-s--la-brea-ave-,028731,"1604 S. La Brea Ave., Los Angeles, CA 90019",90019,34.0455718,-118.3452198
+https://locations.tacobell.com/ca/beaumont/1604-2nd-st.html,ca,beaumont,1604-2nd-st,027948,"1604 2nd St, Beaumont, CA 92223",92223,33.9233202,-116.9491189
+https://locations.tacobell.com/ca/los-angeles/1601-crenshaw-blvd-.html,ca,los-angeles,1601-crenshaw-blvd-,H730125,"1601 Crenshaw Blvd., Los Angeles, CA 90019",90019,34.0445753,-118.328827
+https://locations.tacobell.com/ca/anaheim/1600-w--katella-ave-.html,ca,anaheim,1600-w--katella-ave-,028721,"1600 W. Katella Ave., Anaheim, CA 92802",92802,33.8028779,-117.9371897
+https://locations.tacobell.com/ca/salinas/1597-n-sanborn-rd.html,ca,salinas,1597-n-sanborn-rd,026831,"1597 N Sanborn Rd, Salinas, CA 93905",93905,36.6949349,-121.5968922
+https://locations.tacobell.com/ca/los-banos/1571-west-pacheco-blvd.html,ca,los-banos,1571-west-pacheco-blvd,034187,"1571 West Pacheco Blvd, Los Banos, CA 93635",93635,37.0563985,-120.8802669
+https://locations.tacobell.com/ca/van-nuys/15651-sherman-way.html,ca,van-nuys,15651-sherman-way,039801,"15651 Sherman Way, Van Nuys, CA 91406",15651,34.2014724,-118.4746339
+https://locations.tacobell.com/ca/el-cajon/1561-n--magnolia-ave-.html,ca,el-cajon,1561-n--magnolia-ave-,041606,"1561 N. Magnolia Ave., El Cajon, CA 92020",92020,32.8193203,-116.962432
+https://locations.tacobell.com/ca/pinole/1561-fitzgerald-dr.html,ca,pinole,1561-fitzgerald-dr,041343,"1561 Fitzgerald Dr, Pinole, CA 94564",94564,37.9917394,-122.3025374
+https://locations.tacobell.com/ca/san-leandro/15501-hesperian-blvd.html,ca,san-leandro,15501-hesperian-blvd,030784,"15501 Hesperian Blvd, San Leandro, CA 94579",15501,37.6896473,-122.130649
+https://locations.tacobell.com/ca/napa/155-soscol-ave.html,ca,napa,155-soscol-ave,030931,"155 Soscol Ave, Napa, CA 94559",94559,38.281424,-122.2747454
+https://locations.tacobell.com/ca/lompoc/1548-north-h-street.html,ca,lompoc,1548-north-h-street,027775,"1548 North H Street, Lompoc, CA 93436",93436,34.6631062,-120.4573711
+https://locations.tacobell.com/ca/chula-vista/1548-east-h-street.html,ca,chula-vista,1548-east-h-street,041613,"1548 East H Street, Chula Vista, CA 91913",91913,32.6448342,-116.9973851
+https://locations.tacobell.com/ca/hercules/1541-sycamore-avenue.html,ca,hercules,1541-sycamore-avenue,041365,"1541 Sycamore Avenue, Hercules, CA 94547",94547,38.0102788,-122.2713412
+https://locations.tacobell.com/ca/victorville/15357-palmdale-rd.html,ca,victorville,15357-palmdale-rd,002531,"15357 Palmdale Rd, Victorville, CA 92392",15357,34.5069088,-117.3293093
+https://locations.tacobell.com/ca/tulare/1520-north-hillman-street.html,ca,tulare,1520-north-hillman-street,024285,"1520 North Hillman Street, Tulare, CA 93274",93274,36.2272234,-119.3304823
+https://locations.tacobell.com/ca/san-gabriel/1518-s-san-gabriel.html,ca,san-gabriel,1518-s-san-gabriel,000017,"1518 S San Gabriel, San Gabriel, CA 91776",91776,34.0811521,-118.0903522
+https://locations.tacobell.com/ca/santa-maria/1515-s-bradley-rd.html,ca,santa-maria,1515-s-bradley-rd,005360,"1515 S Bradley Rd, Santa Maria, CA 93454",93454,34.933945,-120.4188438
+https://locations.tacobell.com/ca/fontana/15140-summit-ave-.html,ca,fontana,15140-summit-ave-,039832,"15140 Summit Ave., Fontana, CA 92336",15140,34.1503283,-117.4693948
+https://locations.tacobell.com/ca/clearlake/15115-lakeshore-blvd.html,ca,clearlake,15115-lakeshore-blvd,016929,"15115 Lakeshore Blvd, Clearlake, CA 95422",15115,38.94961199999999,-122.630575
+https://locations.tacobell.com/ca/camarillo/1505-flynn-rd.html,ca,camarillo,1505-flynn-rd,004249,"1505 Flynn Rd, Camarillo, CA 93012",93012,34.2298381,-119.0169399
+https://locations.tacobell.com/ca/gridley/1503-highway-99.html,ca,gridley,1503-highway-99,017116,"1503 Highway 99, Gridley, CA 95948",95948,39.359357,-121.6884368
+https://locations.tacobell.com/ca/encinitas/1502-encinitas-blvd.html,ca,encinitas,1502-encinitas-blvd,025497,"1502 Encinitas Blvd, Encinitas, CA 92024",92024,33.0461093,-117.2564579
+https://locations.tacobell.com/ca/san-leandro/15016-e-14th-street.html,ca,san-leandro,15016-e-14th-street,032289,"15016 E 14th Street, San Leandro, CA 94578",15016,37.7056033,-122.1284561
+https://locations.tacobell.com/ca/la-mirada/15006-la-mirada-blvd-.html,ca,la-mirada,15006-la-mirada-blvd-,033692,"15006 La Mirada Blvd., La Mirada, CA 90638",15006,33.8951737,-118.0086615
+https://locations.tacobell.com/ca/grover-beach/1500-w-grand-ave.html,ca,grover-beach,1500-w-grand-ave,023051,"1500 W Grand Ave, Grover Beach, CA 93433",93433,35.1208798,-120.6132043
+https://locations.tacobell.com/ca/willits/1500-s-main-st.html,ca,willits,1500-s-main-st,026056,"1500 S Main St, Willits, CA 95490",95490,39.3941552,-123.3491531
+https://locations.tacobell.com/ca/la-mirada/14950-leffingwell-rd.html,ca,la-mirada,14950-leffingwell-rd,033072,"14950 Leffingwell Rd, La Mirada, CA 90638",14950,33.9264236,-118.0129103
+https://locations.tacobell.com/ca/modesto/1493-herndon-rd.html,ca,modesto,1493-herndon-rd,034174,"1493 Herndon Rd, Modesto, CA 95351",95351,37.6104088,-120.9747466
+https://locations.tacobell.com/ca/montebello/1485-n-montebello-blvd.html,ca,montebello,1485-n-montebello-blvd,040403,"1485 N Montebello Blvd, Montebello, CA 90640",90640,34.0336456,-118.0919941
+https://locations.tacobell.com/ca/yuba-city/1483-bridge-street.html,ca,yuba-city,1483-bridge-street,020019,"1483 Bridge Street, Yuba City, CA 95991",95991,39.132442,-121.639135
+https://locations.tacobell.com/ca/vacaville/1481-east-monte-vista-ave.html,ca,vacaville,1481-east-monte-vista-ave,028841,"1481 East Monte Vista Ave, Vacaville, CA 95688",95688,38.3636896,-121.9682211
+https://locations.tacobell.com/ca/paramount/14625-lakewood-blvd.html,ca,paramount,14625-lakewood-blvd,028522,"14625 Lakewood Blvd, Paramount, CA 90723",14625,33.900436,-118.1431598
+https://locations.tacobell.com/ca/san-fernando/14511-chatsworth-drive.html,ca,san-fernando,14511-chatsworth-drive,039799,"14511 Chatsworth Drive, San Fernando, CA 91340",14511,34.2740184,-118.4488381
+https://locations.tacobell.com/ca/campbell/1450-camden-ave-.html,ca,campbell,1450-camden-ave-,030797,"1450 Camden Ave., Campbell, CA 95008",95008,37.2683644,-121.9433634
+https://locations.tacobell.com/ca/merced/1440-martin-luther-king-jr-way.html,ca,merced,1440-martin-luther-king-jr-way,004758,"1440 Martin Luther King Jr Way, Merced, CA 95340",95340,37.2974075,-120.4818978
+https://locations.tacobell.com/ca/simi-valley/1438-los-angeles-ave.html,ca,simi-valley,1438-los-angeles-ave,039788,"1438 Los Angeles Ave, Simi Valley, CA 93065",93065,34.2713612,-118.7711999
+https://locations.tacobell.com/ca/modesto/1438-coffee-road.html,ca,modesto,1438-coffee-road,034192,"1438 Coffee Road, Modesto, CA 95355",95355,37.6642652,-120.9755867
+https://locations.tacobell.com/ca/hawthorne/14325-south-prairie-avenue.html,ca,hawthorne,14325-south-prairie-avenue,018286,"14325 South Prairie Avenue, Hawthorne, CA 90250",14325,33.9011012,-118.344117
+https://locations.tacobell.com/ca/gardena/14308-so-western-ave.html,ca,gardena,14308-so-western-ave,033627,"14308 So Western Ave, Gardena, CA 90249",14308,33.9016213,-118.3088683
+https://locations.tacobell.com/ca/norwalk/14301-pioneer.html,ca,norwalk,14301-pioneer,003138,"14301 Pioneer, Norwalk, CA 90650",14301,33.9018902,-118.0828998
+https://locations.tacobell.com/ca/santa-rosa/1429-fulton-rd.html,ca,santa-rosa,1429-fulton-rd,005029,"1429 Fulton Rd, Santa Rosa, CA 95403",95403,38.4546469,-122.7700114
+https://locations.tacobell.com/ca/ripon/1421-w-colony-rd.html,ca,ripon,1421-w-colony-rd,034197,"1421 W Colony Rd, Ripon, CA 95366",95366,37.7539508,-121.135567
+https://locations.tacobell.com/ca/riverside/1420-university-ave.html,ca,riverside,1420-university-ave,039841,"1420 University Ave, Riverside, CA 92507",92507,33.9753469,-117.3425541
+https://locations.tacobell.com/ca/madera/1420-howard-rd.html,ca,madera,1420-howard-rd,034218,"1420 Howard Rd, Madera, CA 93637",93637,36.952509,-120.0749406
+https://locations.tacobell.com/ca/dixon/1420-ary-lane.html,ca,dixon,1420-ary-lane,041354,"1420 Ary Lane, Dixon, CA 95620",95620,38.4576423,-121.8421018
+https://locations.tacobell.com/ca/victorville/14181-u-s--highway-395.html,ca,victorville,14181-u-s--highway-395,031603,"14181 U.S. Highway 395 Building #C, Victorville, CA 92392",14181,34.5080881,-117.398919
+https://locations.tacobell.com/ca/modesto/1416-kansas-avenue.html,ca,modesto,1416-kansas-avenue,034184,"1416 Kansas Avenue, Modesto, CA 95351",95351,37.6459201,-121.0284562
+https://locations.tacobell.com/ca/santa-rosa/1416-farmers-ln.html,ca,santa-rosa,1416-farmers-ln,030933,"1416 Farmers Ln, Santa Rosa, CA 95405",95405,38.4345223,-122.6872561
+https://locations.tacobell.com/ca/sherman-oaks/14115-ventura-blvd.html,ca,sherman-oaks,14115-ventura-blvd,018454,"14115 Ventura Blvd, Sherman Oaks, CA 91423",14115,34.1498356,-118.4406193
+https://locations.tacobell.com/ca/west-covina/1410-s-azusa-ave.html,ca,west-covina,1410-s-azusa-ave,038984,"1410 S Azusa Ave, West Covina, CA 91791",91791,34.0490243,-117.9077143
+https://locations.tacobell.com/ca/los-angeles/1408-w-century-blvd.html,ca,los-angeles,1408-w-century-blvd,003141,"1408 W Century Blvd, Los Angeles, CA 90047",90047,33.9452163,-118.3006506
+https://locations.tacobell.com/ca/hesperia/14071-main-street.html,ca,hesperia,14071-main-street,023898,"14071 Main Street, Hesperia, CA 92345",14071,34.4263124,-117.3575017
+https://locations.tacobell.com/ca/santa-cruz/1405-mission-street.html,ca,santa-cruz,1405-mission-street,030740,"1405 Mission Street, Santa Cruz, CA 95060",95060,36.9673152,-122.0387666
+https://locations.tacobell.com/ca/tustin/14042-red-hill-ave-.html,ca,tustin,14042-red-hill-ave-,017471,"14042 Red Hill Ave., Tustin, CA 92780",14042,33.7328091,-117.815605
+https://locations.tacobell.com/ca/kerman/14019-w--whitesbridge.html,ca,kerman,14019-w--whitesbridge,031652,"14019 W. Whitesbridge, Kerman, CA 93630",14019,36.7348709,-120.0427659
+https://locations.tacobell.com/ca/los-angeles/1401-martin-luther-king-blvd.html,ca,los-angeles,1401-martin-luther-king-blvd,033625,"1401 Martin Luther King Blvd, Los Angeles, CA 90062",90062,34.010944,-118.300303
+https://locations.tacobell.com/ca/newport-beach/1400-west-coast-highway.html,ca,newport-beach,1400-west-coast-highway,031512,"1400 West Coast Highway, Newport Beach, CA 92663",92663,33.6166469,-117.9153415
+https://locations.tacobell.com/ca/monrovia/140-west-huntington-drive.html,ca,monrovia,140-west-huntington-drive,028723,"140 West Huntington Drive, Monrovia, CA 91016",91016,34.1401104,-118.0027521
+https://locations.tacobell.com/ca/goleta/140-n--fairview.html,ca,goleta,140-n--fairview,027776,"140 N. Fairview, Goleta, CA 93117",93117,34.4422877,-119.8303351
+https://locations.tacobell.com/ca/freedom/14-green-valley-road.html,ca,freedom,14-green-valley-road,030764,"14 Green Valley Road, Freedom, CA 95019",95019,36.9354145,-121.7724749
+https://locations.tacobell.com/ca/sonora/13770-mono-way.html,ca,sonora,13770-mono-way,004212,"13770 Mono Way, Sonora, CA 95370",13770,37.9763397,-120.3442544
+https://locations.tacobell.com/ca/visalia/1377-e-noble-ave-.html,ca,visalia,1377-e-noble-ave-,032520,"1377 E Noble Ave., Visalia, CA 93292",93292,36.3255002,-119.2773617
+https://locations.tacobell.com/ca/san-jose/1370-blossom-hill-road.html,ca,san-jose,1370-blossom-hill-road,024784,"1370 Blossom Hill Road, San Jose, CA 95118",95118,37.2449436,-121.888152
+https://locations.tacobell.com/ca/fresno/1365-w--olive-ave-.html,ca,fresno,1365-w--olive-ave-,032527,"1365 W. Olive Ave., Fresno, CA 93728",93728,36.7573806,-119.827348
+https://locations.tacobell.com/ca/milpitas/1365-s-park-victoria.html,ca,milpitas,1365-s-park-victoria,000992,"1365 S Park Victoria, Milpitas, CA 95035",95035,37.41725950000001,-121.8757326
+https://locations.tacobell.com/ca/lodi/1364-business-park-dr.html,ca,lodi,1364-business-park-dr,035902,"1364 Business Park Dr, Lodi, CA 95240",95240,38.1172254,-121.2559859
+https://locations.tacobell.com/ca/south-gate/13601-garfield-ave-.html,ca,south-gate,13601-garfield-ave-,032030,"13601 Garfield Ave., South Gate, CA 90280",13601,33.914442,-118.168949
+https://locations.tacobell.com/ca/torrance/1354-w-190th-st.html,ca,torrance,1354-w-190th-st,033630,"1354 W 190th St, Torrance, CA 90501",90501,33.8579476,-118.3015904
+https://locations.tacobell.com/ca/salinas/1345-n--main-street.html,ca,salinas,1345-n--main-street,024207,"1345 N. Main Street, Salinas, CA 93906",93906,36.7043845,-121.6530042
+https://locations.tacobell.com/ca/el-cajon/13418-camino-canada.html,ca,el-cajon,13418-camino-canada,041607,"13418 Camino Canada, El Cajon, CA 92021",13418,32.8253303,-116.9025348
+https://locations.tacobell.com/ca/norwalk/13410-rosecrans-ave.html,ca,norwalk,13410-rosecrans-ave,021145,"13410 Rosecrans Ave, Norwalk, CA 90650",13410,33.9019904,-118.045828
+https://locations.tacobell.com/ca/garden-grove/13291-harbor-blvd.html,ca,garden-grove,13291-harbor-blvd,023091,"13291 Harbor Blvd, Garden Grove, CA 92843",13291,33.7698689,-117.9207959
+https://locations.tacobell.com/ca/poway/13112-poway-road.html,ca,poway,13112-poway-road,041603,"13112 Poway Road, Poway, CA 92064",13112,32.9569806,-117.0465607
+https://locations.tacobell.com/ca/fullerton/131-e--orangethorpe-ave-.html,ca,fullerton,131-e--orangethorpe-ave-,002700,"131 E. Orangethorpe Ave., Fullerton, CA 92832",92832,33.85982,-117.9231373
+https://locations.tacobell.com/ca/willows/1301-w-wood-st.html,ca,willows,1301-w-wood-st,002463,"1301 W Wood St, Willows, CA 95988",95988,39.5246479,-122.2124722
+https://locations.tacobell.com/ca/gardena/1301-w-artesia-blvd.html,ca,gardena,1301-w-artesia-blvd,033629,"1301 W Artesia Blvd, Gardena, CA 90247",90247,33.8732246,-118.2957556
+https://locations.tacobell.com/ca/bakersfield/1301-allen-rd-.html,ca,bakersfield,1301-allen-rd-,031634,"1301 Allen Rd., Bakersfield, CA 93314",93314,35.343579,-119.1454178
+https://locations.tacobell.com/ca/whittier/13008-whittier-blvd.html,ca,whittier,13008-whittier-blvd,028712,"13008 Whittier Blvd, Whittier, CA 90602",13008,33.9652606,-118.037034
+https://locations.tacobell.com/ca/la-habra/1300-w-whittier-blvd.html,ca,la-habra,1300-w-whittier-blvd,032158,"1300 W Whittier Blvd, La Habra, CA 90631",90631,33.9389332,-117.9607028
+https://locations.tacobell.com/ca/sacramento/1300-howe-ave.html,ca,sacramento,1300-howe-ave,028750,"1300 Howe Ave, Sacramento, CA 95825",95825,38.5892948,-121.4149725
+https://locations.tacobell.com/ca/san-jose/1298-winchester-blvd.html,ca,san-jose,1298-winchester-blvd,024787,"1298 Winchester Blvd, San Jose, CA 95128",95128,37.301679,-121.949846
+https://locations.tacobell.com/ca/sylmar/12910-foothill-blvd.html,ca,sylmar,12910-foothill-blvd,039790,"12910 Foothill Blvd, Sylmar, CA 91342",12910,34.2939124,-118.4161531
+https://locations.tacobell.com/ca/lakeport/1285-parallel-rd.html,ca,lakeport,1285-parallel-rd,023836,"1285 Parallel Rd, Lakeport, CA 95453",95453,39.0324162,-122.9258856
+https://locations.tacobell.com/ca/los-angeles/12800-s--figueroa-st-.html,ca,los-angeles,12800-s--figueroa-st-,026843,"12800 S. Figueroa St., Los Angeles, CA 90061",12800,33.916298,-118.282609
+https://locations.tacobell.com/ca/rancho-cucamonga/12789-foothill-blvd-.html,ca,rancho-cucamonga,12789-foothill-blvd-,039830,"12789 Foothill Blvd., Rancho Cucamonga, CA 91739",12789,34.1057778,-117.5261739
+https://locations.tacobell.com/ca/pacoima/12786-van-nuys-blvd.html,ca,pacoima,12786-van-nuys-blvd,039816,"12786 Van Nuys Blvd, Pacoima, CA 91331",12786,34.2736195,-118.4112092
+https://locations.tacobell.com/ca/santa-nella/12780-south-highway-33.html,ca,santa-nella,12780-south-highway-33,034175,"12780 South Highway 33, Santa Nella, CA 95322",12780,37.1038199,-121.015255
+https://locations.tacobell.com/ca/norwalk/12503-e-alondra-blvd.html,ca,norwalk,12503-e-alondra-blvd,003075,"12503 E Alondra Blvd, Norwalk, CA 90650",12503,33.8880123,-118.0660743
+https://locations.tacobell.com/ca/moorpark/125-w-los-angeles-ave.html,ca,moorpark,125-w-los-angeles-ave,002458,"125 W Los Angeles Ave, Moorpark, CA 93021",93021,34.2792063,-118.883632
+https://locations.tacobell.com/ca/mira-loma/12486-limonite-ave.html,ca,mira-loma,12486-limonite-ave,039834,"12486 Limonite Ave, Mira Loma, CA 91752",12486,33.9753427,-117.5293276
+https://locations.tacobell.com/ca/modesto/1241-standiford.html,ca,modesto,1241-standiford,034167,"1241 Standiford, Modesto, CA 95350",95350,37.6894176,-121.0113707
+https://locations.tacobell.com/ca/ridgecrest/1240-n-china-lake-blvd.html,ca,ridgecrest,1240-n-china-lake-blvd,022229,"1240 N China Lake Blvd, Ridgecrest, CA 93555",93555,35.6434704,-117.6693986
+https://locations.tacobell.com/ca/placerville/1240-broadway.html,ca,placerville,1240-broadway,031113,"1240 Broadway, Placerville, CA 95667",95667,38.7308703,-120.7861637
+https://locations.tacobell.com/ca/chino/12382-central-avenue.html,ca,chino,12382-central-avenue,039840,"12382 Central Avenue, Chino, CA 91710",12382,34.0284375,-117.6899452
+https://locations.tacobell.com/ca/los-banos/1236-e-pacheco-blvd.html,ca,los-banos,1236-e-pacheco-blvd,034195,"1236 E Pacheco Blvd, Los Banos, CA 93635",93635,37.0572995,-120.8372835
+https://locations.tacobell.com/ca/santa-ana/1229-e-17th-st.html,ca,santa-ana,1229-e-17th-st,031979,"1229 E 17th St, Santa Ana, CA 92701",92701,33.7603056,-117.8522885
+https://locations.tacobell.com/ca/truckee/12277-deerfield.html,ca,truckee,12277-deerfield,037209,"12277 Deerfield, Truckee, CA 96161",12277,39.32283,-120.22577
+https://locations.tacobell.com/ca/lakeside/12265-woodside-ave.html,ca,lakeside,12265-woodside-ave,041600,"12265 Woodside Ave, Lakeside, CA 92040",12265,32.8563479,-116.9264468
+https://locations.tacobell.com/ca/redlands/1225-w-colton.html,ca,redlands,1225-w-colton,002192,"1225 W Colton, Redlands, CA 92374",92374,34.0624698,-117.2010153
+https://locations.tacobell.com/ca/rancho-cordova/12220-tributary-lane.html,ca,rancho-cordova,12220-tributary-lane,017468,"12220 Tributary Lane, Rancho Cordova, CA 95670",12220,38.631692,-121.2187027
+https://locations.tacobell.com/ca/concord/1221-concord-avenue.html,ca,concord,1221-concord-avenue,031455,"1221 Concord Avenue, Concord, CA 94520",94520,37.9807956,-122.0558597
+https://locations.tacobell.com/ca/porterville/1220-w-henderson.html,ca,porterville,1220-w-henderson,024284,"1220 W Henderson, Porterville, CA 93257",93257,36.0805595,-119.0265873
+https://locations.tacobell.com/ca/redding/1220-market-st.html,ca,redding,1220-market-st,027725,"1220 Market St, Redding, CA 96001",96001,40.5868651,-122.3923134
+https://locations.tacobell.com/ca/waterford/12170-yosemite-blvd.html,ca,waterford,12170-yosemite-blvd,034190,"12170 Yosemite Blvd, Waterford, CA 95386",12170,37.6381297,-120.7697191
+https://locations.tacobell.com/ca/artesia/12156-south-street.html,ca,artesia,12156-south-street,026046,"12156 South Street, Artesia, CA 90701",12156,33.8582548,-118.0726439
+https://locations.tacobell.com/ca/monterey-park/1214-avenida-cesar-chavez.html,ca,monterey-park,1214-avenida-cesar-chavez,028720,"1214 Avenida Cesar Chavez, Monterey Park, CA 91754",91754,34.0379856,-118.1473023
+https://locations.tacobell.com/ca/anaheim/1212-south-harbor-blvd.html,ca,anaheim,1212-south-harbor-blvd,020598,"1212 South Harbor Blvd, Anaheim, CA 92805",92805,33.8216001,-117.9154168
+https://locations.tacobell.com/ca/los-angeles/12105-w-pico-blvd.html,ca,los-angeles,12105-w-pico-blvd,028711,"12105 W Pico Blvd, Los Angeles, CA 90064",12105,34.0294732,-118.4507032
+https://locations.tacobell.com/ca/los-angeles/12011-venice-blvd.html,ca,los-angeles,12011-venice-blvd,026840,"12011 Venice Blvd, Los Angeles, CA 90066",12011,34.0062422,-118.4294896
+https://locations.tacobell.com/ca/ukiah/1201-north-state-st.html,ca,ukiah,1201-north-state-st,004115,"1201 North State St, Ukiah, CA 95482",95482,39.1660368,-123.2103772
+https://locations.tacobell.com/ca/san-marcos/120-n-rancho-santa-fe-rd.html,ca,san-marcos,120-n-rancho-santa-fe-rd,040798,"120 N Rancho Santa Fe Rd, San Marcos, CA 92069",92069,33.1517751,-117.1978927
+https://locations.tacobell.com/ca/cloverdale/1194-s-cloverdale-boulevard.html,ca,cloverdale,1194-s-cloverdale-boulevard,035895,"1194 S Cloverdale Boulevard, Cloverdale, CA 95425",95425,38.7839839,-123.0115081
+https://locations.tacobell.com/ca/downey/11905-paramount-blvd.html,ca,downey,11905-paramount-blvd,028519,"11905 Paramount Blvd, Downey, CA 90242",11905,33.9346114,-118.144309
+https://locations.tacobell.com/ca/calimesa/1190-calimesa-blvd.html,ca,calimesa,1190-calimesa-blvd,038987,"1190 Calimesa Blvd, Calimesa, CA 92320",92320,33.9941339,-117.0579902
+https://locations.tacobell.com/ca/ojai/11850-old-grade-road.html,ca,ojai,11850-old-grade-road,016546,"11850 Old Grade Road, Ojai, CA 93023",11850,34.4243366,-119.2882886
+https://locations.tacobell.com/ca/soledad/1185-front-street.html,ca,soledad,1185-front-street,027304,"1185 Front Street, Soledad, CA 93960",93960,36.4185424,-121.3217267
+https://locations.tacobell.com/ca/orland/1179-hoff-way.html,ca,orland,1179-hoff-way,020343,"1179 Hoff Way, Orland, CA 95963",95963,39.7526331,-122.2084433
+https://locations.tacobell.com/ca/los-angeles/11758-s-wilmington.html,ca,los-angeles,11758-s-wilmington,004554,"11758 S Wilmington, Los Angeles, CA 90059",11758,33.9264517,-118.2388627
+https://locations.tacobell.com/ca/placentia/1174-yorba-linda-blvd-.html,ca,placentia,1174-yorba-linda-blvd-,028714,"1174 Yorba Linda Blvd., Placentia, CA 92870",92870,33.8880386,-117.8425247
+https://locations.tacobell.com/ca/north-hollywood/11694-magnolia-avenue.html,ca,north-hollywood,11694-magnolia-avenue,028468,"11694 Magnolia Avenue, North Hollywood, CA 91601",11694,34.164688,-118.3875672
+https://locations.tacobell.com/ca/san-diego/11688-carmel-mtn-rd.html,ca,san-diego,11688-carmel-mtn-rd,041597,"11688 Carmel Mtn Rd, San Diego, CA 92128",11688,32.979921,-117.0799625
+https://locations.tacobell.com/ca/glendora/116-e-route-66.html,ca,glendora,116-e-route-66,027889,"116 E Route 66, Glendora, CA 91740",91740,34.1284287,-117.8629187
+https://locations.tacobell.com/ca/azusa/1150-w-foothill.html,ca,azusa,1150-w-foothill,040402,"1150 W Foothill, Azusa, CA 91702",91702,34.1225398,-117.9123827
+https://locations.tacobell.com/ca/san-francisco/1150-taraval-street.html,ca,san-francisco,1150-taraval-street,E720158,"1150 Taraval Street, San Francisco, CA 94116",94116,37.7431213,-122.4787674
+https://locations.tacobell.com/ca/norco/1140-hamner-avenue.html,ca,norco,1140-hamner-avenue,039831,"1140 Hamner Avenue, Norco, CA 92860",92860,33.8993356,-117.5631325
+https://locations.tacobell.com/ca/corona/1134-w-6th-st.html,ca,corona,1134-w-6th-st,039829,"1134 W 6th St, Corona, CA 92882",92882,33.8772594,-117.5842625
+https://locations.tacobell.com/ca/foster-city/1131-triton-dr-.html,ca,foster-city,1131-triton-dr-,030788,"1131 Triton Dr., Foster City, CA 94404",94404,37.5635948,-122.2711381
+https://locations.tacobell.com/ca/fallbrook/1131-s-mission-rd.html,ca,fallbrook,1131-s-mission-rd,040807,"1131 S Mission Rd, Fallbrook, CA 92028",92028,33.3721671,-117.2536859
+https://locations.tacobell.com/ca/martinez/1130-arnold-dr-.html,ca,martinez,1130-arnold-dr-,030801,"1130 Arnold Dr., Martinez, CA 94553",94553,37.9935127,-122.1032034
+https://locations.tacobell.com/ca/fountain-valley/11291-talbert.html,ca,fountain-valley,11291-talbert,039616,"11291 Talbert, Fountain Valley, CA 92708",11291,33.7022427,-117.932942
+https://locations.tacobell.com/ca/rancho-cordova/11230-sun-center-dr.html,ca,rancho-cordova,11230-sun-center-dr,041353,"11230 Sun Center Dr, Rancho Cordova, CA 95670",11230,38.5977842,-121.2661857
+https://locations.tacobell.com/ca/vacaville/1120-leisure-town-rd.html,ca,vacaville,1120-leisure-town-rd,030256,"1120 Leisure Town Rd, Vacaville, CA 95687",95687,38.3852317,-121.9343827
+https://locations.tacobell.com/ca/burbank/1115-n-san-fernando-blvd.html,ca,burbank,1115-n-san-fernando-blvd,000071,"1115 N San Fernando Blvd, Burbank, CA 91504",91504,34.1882058,-118.3191305
+https://locations.tacobell.com/ca/glendale/1113-e-colorado-st.html,ca,glendale,1113-e-colorado-st,036294,"1113 E Colorado St, Glendale, CA 91205",91205,34.1428451,-118.241102
+https://locations.tacobell.com/ca/granada-hills/11101-woodley-avenue.html,ca,granada-hills,11101-woodley-avenue,003570,"11101 Woodley Avenue, Granada Hills, CA 91344",11101,34.272277,-118.4851842
+https://locations.tacobell.com/ca/sunnyvale/1109-tasman-drive.html,ca,sunnyvale,1109-tasman-drive,030780,"1109 Tasman Drive, Sunnyvale, CA 94089",94089,37.4027251,-122.0102074
+https://locations.tacobell.com/ca/exeter/1107-visalia-rd.html,ca,exeter,1107-visalia-rd,032519,"1107 Visalia Rd, Exeter, CA 93221",93221,36.2976323,-119.1556237
+https://locations.tacobell.com/ca/paso-robles/1107-24th-st.html,ca,paso-robles,1107-24th-st,023050,"1107 24th St, Paso Robles, CA 93446",93446,35.6402849,-120.6879868
+https://locations.tacobell.com/ca/orcutt/1106-e-clark.html,ca,orcutt,1106-e-clark,020852,"1106 E Clark, Orcutt, CA 93455",93455,34.8646324,-120.4180217
+https://locations.tacobell.com/ca/chowchilla/1105-e-robertson-blvd.html,ca,chowchilla,1105-e-robertson-blvd,J226001,"1105 E Robertson Blvd, Chowchilla, CA 93610",93610,37.1162077,-120.2683325
+https://locations.tacobell.com/ca/redwood-city/1103-veterans-blvd.html,ca,redwood-city,1103-veterans-blvd,030791,"1103 Veterans Blvd, Redwood City, CA 94063",94063,37.4901874,-122.2240985
+https://locations.tacobell.com/ca/el-monte/11007-garvey-ave.html,ca,el-monte,11007-garvey-ave,003148,"11007 Garvey Ave, El Monte, CA 91733",11007,34.0631501,-118.0354097
+https://locations.tacobell.com/ca/norwalk/11005-imperial-highway.html,ca,norwalk,11005-imperial-highway,028525,"11005 Imperial Highway, Norwalk, CA 90650",11005,33.9173725,-118.0987604
+https://locations.tacobell.com/ca/lynwood/11001-atlantic-ave.html,ca,lynwood,11001-atlantic-ave,003133,"11001 Atlantic Ave, Lynwood, CA 90262",11001,33.9304421,-118.1839908
+https://locations.tacobell.com/ca/escalon/1100-yosemite-ave.html,ca,escalon,1100-yosemite-ave,034189,"1100 Yosemite Ave, Escalon, CA 95320",95320,37.798912,-120.9990296
+https://locations.tacobell.com/ca/riverside/10995-magnolia-ave.html,ca,riverside,10995-magnolia-ave,039844,"10995 Magnolia Ave, Riverside, CA 92505",10995,33.9049346,-117.4746968
+https://locations.tacobell.com/ca/clovis/1097-north-willow-ave-.html,ca,clovis,1097-north-willow-ave-,034211,"1097 North Willow Ave., Clovis, CA 93611",93611,36.849582,-119.7292245
+https://locations.tacobell.com/ca/san-diego/1090-outer-rd.html,ca,san-diego,1090-outer-rd,041602,"1090 Outer Rd, San Diego, CA 92154",92154,32.5767788,-117.0811002
+https://locations.tacobell.com/ca/grass-valley/109-olympia-park-road.html,ca,grass-valley,109-olympia-park-road,002471,"109 Olympia Park Road, Grass Valley, CA 95945",95945,39.2354988,-121.0379058
+https://locations.tacobell.com/ca/fresno/1085-east-champlain-drive.html,ca,fresno,1085-east-champlain-drive,034210,"1085 East Champlain Drive, Fresno, CA 93720",93720,36.8714609,-119.7640934
+https://locations.tacobell.com/ca/anaheim/1075-north-tustin-avenue.html,ca,anaheim,1075-north-tustin-avenue,023178,"1075 North Tustin Avenue, Anaheim, CA 92807",92807,33.8541801,-117.8378291
+https://locations.tacobell.com/ca/whittier/10722-e-whittier-blvd.html,ca,whittier,10722-e-whittier-blvd,003056,"10722 E Whittier Blvd, Whittier, CA 90606",10722,33.9898645,-118.0644424
+https://locations.tacobell.com/ca/suisun-city/107-sunset-ave-.html,ca,suisun-city,107-sunset-ave-,028843,"107 Sunset Ave., Suisun City, CA 94585",94585,38.2445565,-122.0199745
+https://locations.tacobell.com/ca/galt/1069-c-st.html,ca,galt,1069-c-st,004429,"1069 C St, Galt, CA 95632",95632,38.2535078,-121.2958322
+https://locations.tacobell.com/ca/patterson/1060-sperry-ave.html,ca,patterson,1060-sperry-ave,034199,"1060 Sperry Ave, Patterson, CA 95363",95363,37.4639821,-121.143014
+https://locations.tacobell.com/ca/lemoore/1059-n-lemoore-ave.html,ca,lemoore,1059-n-lemoore-ave,031650,"1059 N Lemoore Ave, Lemoore, CA 93245",93245,36.3105768,-119.7806322
+https://locations.tacobell.com/ca/santa-fe-springs/10551-carmenita-rd.html,ca,santa-fe-springs,10551-carmenita-rd,033693,"10551 Carmenita Rd, Santa Fe Springs, CA 90670",10551,33.9478297,-118.0465909
+https://locations.tacobell.com/ca/galt/10550-twin-cities-road.html,ca,galt,10550-twin-cities-road,032036,"10550 Twin Cities Road Suite 110, Galt, CA 95632",10550,38.2909052,-121.2997591
+https://locations.tacobell.com/ca/glendora/105-w-arrow-hwy.html,ca,glendora,105-w-arrow-hwy,028717,"105 W Arrow Hwy, Glendora, CA 91740",91740,34.1070611,-117.864334
+https://locations.tacobell.com/ca/carpinteria/1045-casitas-pass-road.html,ca,carpinteria,1045-casitas-pass-road,041978,"1045 Casitas Pass Road, Carpinteria, CA 93013",93013,34.3965846,-119.513333
+https://locations.tacobell.com/ca/marysville/1044-north-beale-road.html,ca,marysville,1044-north-beale-road,015670,"1044 North Beale Road, Marysville, CA 95901",95901,39.1255891,-121.5776241
+https://locations.tacobell.com/ca/stanton/10360-beach-blvd.html,ca,stanton,10360-beach-blvd,002763,"10360 Beach Blvd, Stanton, CA 90680",10360,33.8120787,-117.9927775
+https://locations.tacobell.com/ca/san-pedro/1031-s-gaffey-st.html,ca,san-pedro,1031-s-gaffey-st,028516,"1031 S Gaffey St, San Pedro, CA 90731",90731,33.734819,-118.2924432
+https://locations.tacobell.com/ca/bellflower/10300-alondra-blvd.html,ca,bellflower,10300-alondra-blvd,028512,"10300 Alondra Blvd, Bellflower, CA 90706",10300,33.889133,-118.115157
+https://locations.tacobell.com/ca/los-angeles/103-s-rampart-blvd.html,ca,los-angeles,103-s-rampart-blvd,003108,"103 S Rampart Blvd, Los Angeles, CA 90057",90057,34.0694586,-118.2772305
+https://locations.tacobell.com/ca/redding/1020-old-alturas-rd.html,ca,redding,1020-old-alturas-rd,034201,"1020 Old Alturas Rd, Redding, CA 96003",96003,40.5878608,-122.3463636
+https://locations.tacobell.com/ca/palmdale/102-west-palmdale-blvd.html,ca,palmdale,102-west-palmdale-blvd,039813,"102 West Palmdale Blvd, Palmdale, CA 93550",93550,34.5794078,-118.1298958
+https://locations.tacobell.com/ca/visalia/1018-s-mooney-blvd.html,ca,visalia,1018-s-mooney-blvd,032517,"1018 S Mooney Blvd, Visalia, CA 93277",93277,36.3120731,-119.3137638
+https://locations.tacobell.com/ca/rio-vista/1005-highway-12.html,ca,rio-vista,1005-highway-12,041370,"1005 Highway 12, Rio Vista, CA 94571",94571,38.1618814,-121.6990062
+https://locations.tacobell.com/ca/lancaster/1004-west-avenue-i.html,ca,lancaster,1004-west-avenue-i,039812,"1004 West Avenue I, Lancaster, CA 93534",93534,34.7035331,-118.1484752
+https://locations.tacobell.com/ca/buena-park/10010-valley-view-street.html,ca,buena-park,10010-valley-view-street,028726,"10010 Valley View Street, Buena Park, CA 90620",10010,33.8167935,-118.0277075
+https://locations.tacobell.com/ca/concord/1001-willow-pass-court.html,ca,concord,1001-willow-pass-court,030491,"1001 Willow Pass Court, Concord, CA 94520",94520,38.0149425,-121.9993888
+https://locations.tacobell.com/ca/wilmington/100-w-pacific-coast-hwy.html,ca,wilmington,100-w-pacific-coast-hwy,033620,"100 W Pacific Coast Hwy, Wilmington, CA 90744",90744,33.7909026,-118.2636933
+https://locations.tacobell.com/ca/anaheim/100-n-state-college-blvd.html,ca,anaheim,100-n-state-college-blvd,023218,"100 N State College Blvd, Anaheim, CA 92806",92806,33.8414961,-117.8888824
+https://locations.tacobell.com/ca/edwards/240-w-fitgerald-ave.html,ca,edwards,240-w-fitgerald-ave,019539,"240 W Fitgerald Ave Bldg. 6001, Edwards, CA 93524",93524,34.9326031,-117.9073244
+https://locations.tacobell.com/ca/hayward/25800-carlos-bee-blvd.html,ca,hayward,25800-carlos-bee-blvd,040781,"25800 Carlos Bee Blvd, Hayward, CA 94542",25800,37.6541317,-122.0536567
+https://locations.tacobell.com/ca/inglewood/10006-s-inglewood.html,ca,inglewood,10006-s-inglewood,039154,"10006 S Inglewood, Inglewood, CA 90304",10006,33.9452778,-118.369938
+https://locations.tacobell.com/ca/pleasanton/4210-rosewood-dr.html,ca,pleasanton,4210-rosewood-dr,037740,"4210 Rosewood Dr, Pleasanton, CA 94588",94588,37.6965463,-121.8859357
+https://locations.tacobell.com/ca/jamestown/18334-highway-108-49.html,ca,jamestown,18334-highway-108-49,037824,"18334 Highway 108-49, Jamestown, CA 95327",18334,37.955436,-120.4242775
+https://locations.tacobell.com/ca/el-dorado-hills/3967-park-drive.html,ca,el-dorado-hills,3967-park-drive,031116,"3967 Park Drive, El Dorado Hills, CA 95762",95762,38.6543017,-121.0694998
+https://locations.tacobell.com/ca/san-bernardino/295-w-highland.html,ca,san-bernardino,295-w-highland,035611,"295 W Highland, San Bernardino, CA 92405",92405,34.1358861,-117.2894285
+https://locations.tacobell.com/ca/northridge/18100-parthenia-st.html,ca,northridge,18100-parthenia-st,003114,"18100 Parthenia St, Northridge, CA 91325",18100,34.228574,-118.527497
+https://locations.tacobell.com/ca/north-hollywood/12900-vanowen.html,ca,north-hollywood,12900-vanowen,029287,"12900 Vanowen, North Hollywood, CA 91605",12900,34.193857,-118.413937
+https://locations.tacobell.com/ca/pasadena/333-so-rosemead.html,ca,pasadena,333-so-rosemead,003147,"333 So Rosemead, Pasadena, CA 91107",91107,34.1406586,-118.0737447
+https://locations.tacobell.com/ca/madera/1420-e-yosemite-avenue.html,ca,madera,1420-e-yosemite-avenue,034221,"1420 E Yosemite Avenue, Madera, CA 93638",93638,36.9712587,-120.0464884
+https://locations.tacobell.com/ca/fremont/40660-grimmer-blvd.html,ca,fremont,40660-grimmer-blvd,030761,"40660 Grimmer Blvd, Fremont, CA 94538",40660,37.5346539,-121.9664302
+https://locations.tacobell.com/ca/fort-irwin/918-langford-lake-rd-.html,ca,fort-irwin,918-langford-lake-rd-,033111,"918 Langford Lake Rd., Fort Irwin, CA 92310",92310,35.2641794,-116.6931087
+https://locations.tacobell.com/ca/hollywood/6741-hollywood-blvd.html,ca,hollywood,6741-hollywood-blvd,040414,"6741 Hollywood Blvd, Hollywood, CA 90028",90028,34.1017261,-118.3371834
+https://locations.tacobell.com/ca/atascadero/1920-camino-real.html,ca,atascadero,1920-camino-real,037715,"1920 Camino Real, Atascadero, CA 93422",93422,35.5143167,-120.6982357
+https://locations.tacobell.com/ca/los-angeles/6254-lexington-avenue.html,ca,los-angeles,6254-lexington-avenue,028722,"6254 Lexington Avenue, Los Angeles, CA 90038",90038,34.0923513,-118.3262631
+https://locations.tacobell.com/ca/south-gate/3480-firestone-blvd-.html,ca,south-gate,3480-firestone-blvd-,031008,"3480 Firestone Blvd., South Gate, CA 90280",90280,33.9539716,-118.2065099
+https://locations.tacobell.com/ca/shafter/100-w-lerdo-hwy.html,ca,shafter,100-w-lerdo-hwy,036479,"100 W Lerdo Hwy, Shafter, CA 93263",93263,35.5001686,-119.2785458
+https://locations.tacobell.com/ca/wildomar/36230-hidden-springs-rd-.html,ca,wildomar,36230-hidden-springs-rd-,040810,"36230 Hidden Springs Rd., Wildomar, CA 92595",36230,33.5941847,-117.2463189
+https://locations.tacobell.com/ca/san-bernardino/385-e--hospitality-lane.html,ca,san-bernardino,385-e--hospitality-lane,037717,"385 E. Hospitality Lane, San Bernardino, CA 92408",92408,34.0656897,-117.2776991
+https://locations.tacobell.com/ca/sacramento/7310-w--stockton-blvd-.html,ca,sacramento,7310-w--stockton-blvd-,031851,"7310 W. Stockton Blvd., Sacramento, CA 95823",95823,38.4550215,-121.41737
+https://locations.tacobell.com/ca/hanford/2417-e--lacey-blvd.html,ca,hanford,2417-e--lacey-blvd,033352,"2417 E. Lacey Blvd, Hanford, CA 93230",93230,36.328019,-119.6312824
+https://locations.tacobell.com/ca/newport-beach/2121-w--balboa-blvd-.html,ca,newport-beach,2121-w--balboa-blvd-,040763,"2121 W. Balboa Blvd., Newport Beach, CA 92663",92663,33.6092693,-117.928687
+https://locations.tacobell.com/ca/wheatland/1916-state-route-(sr)-65.html,ca,wheatland,1916-state-route-(sr)-65,033940,"1916 State Route (SR) 65, Wheatland, CA 95692",95692,39.0148208,-121.4321272
+https://locations.tacobell.com/ca/corona/8602-cajalco-road.html,ca,corona,8602-cajalco-road,038511,"8602 Cajalco Road, Corona, CA 92881",92881,33.8247722,-117.5092456
+https://locations.tacobell.com/ca/elk-grove/10061-bruceville-road.html,ca,elk-grove,10061-bruceville-road,031814,"10061 Bruceville Road, Elk Grove, CA 95757",10061,38.3937969,-121.4155089
+https://locations.tacobell.com/ca/castaic/31824-the-old-rd.html,ca,castaic,31824-the-old-rd,036765,"31824 The Old Rd, Castaic, CA 91384",31824,34.4969186,-118.6254685
