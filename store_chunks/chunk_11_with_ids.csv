@@ -1,0 +1,354 @@
+url,state,city,address_slug,store_id,full_address,zip_code
+https://locations.tacobell.com/mo/versailles/405-south-state-hwy-5.html,mo,versailles,405-south-state-hwy-5,041152,"405 South State Hwy 5, Versailles, MO 65084",65084
+https://locations.tacobell.com/mo/butler/201-fran-avenue.html,mo,butler,201-fran-avenue,041339,"201 Fran Avenue, Butler, MO 64730",64730
+https://locations.tacobell.com/mo/independence/16502-us40-highway.html,mo,independence,16502-us40-highway,041082,"16502 US40 Highway, Independence, MO 64055",16502
+https://locations.tacobell.com/mo/higginsville/2708-hwy-blvd-.html,mo,higginsville,2708-hwy-blvd-,041412,"2708 Hwy Blvd., Higginsville, MO 64037",64037
+https://locations.tacobell.com/mt/billings/1509-rehberg-lane.html,mt,billings,1509-rehberg-lane,041189,"1509 Rehberg Lane, Billings, MT 59102",59102
+https://locations.tacobell.com/mt/bozeman/35-n-star-lane.html,mt,bozeman,35-n-star-lane,041644,"35 N Star Lane, Bozeman, MT 59718",59718
+https://locations.tacobell.com/mo/kansas-city/3030-van-brunt-blvd.html,mo,kansas-city,3030-van-brunt-blvd,041056,"3030 Van Brunt Blvd, Kansas City, MO 64128",64128
+https://locations.tacobell.com/ms/holly-springs/620-highway-7.html,ms,holly-springs,620-highway-7,041762,"620 Highway 7, Holly Springs, MS 38635",38635
+https://locations.tacobell.com/mo/st--louis/6639-s--kingshighway-blvd.html,mo,st--louis,6639-s--kingshighway-blvd,041499,"6639 S. Kingshighway Blvd, St. Louis, MO 63109",63109
+https://locations.tacobell.com/ms/kosciusko/40-veterans-memorial-drive.html,ms,kosciusko,40-veterans-memorial-drive,041818,"40 Veterans Memorial Drive, Kosciusko, MS 39090",39090
+https://locations.tacobell.com/mo/st-charles/3786-elm-st.html,mo,st-charles,3786-elm-st,041973,"3786 Elm St, St Charles, MO 63301",63301
+https://locations.tacobell.com/mo/sedalia/655-east-broadway.html,mo,sedalia,655-east-broadway,042074,"655 East Broadway, Sedalia, MO 65301",65301
+https://locations.tacobell.com/ms/waynesboro/807-mississippi-dr.html,ms,waynesboro,807-mississippi-dr,041970,"807 Mississippi Dr, Waynesboro, MS 39367",39367
+https://locations.tacobell.com/mo/trenton/1909-e-9th-st.html,mo,trenton,1909-e-9th-st,041432,"1909 E 9th St, Trenton, MO 64683",64683
+https://locations.tacobell.com/mo/cuba/405-n--franklin-street.html,mo,cuba,405-n--franklin-street,033497,"405 N. Franklin Street, Cuba, MO 65453",65453
+https://locations.tacobell.com/mt/livingston/2410-park-st-south.html,mt,livingston,2410-park-st-south,034358,"2410 Park St South Ste 1, Livingston, MT 59047",59047
+https://locations.tacobell.com/mo/maplewood/2750-s--big-bend-blvd-.html,mo,maplewood,2750-s--big-bend-blvd-,035014,"2750 S. Big Bend Blvd., Maplewood, MO 63143",63143
+https://locations.tacobell.com/mo/farmington/1706-w--columbia-st-.html,mo,farmington,1706-w--columbia-st-,035390,"1706 W. Columbia St., Farmington, MO 63640",63640
+https://locations.tacobell.com/mo/seymour/132-loveland-street.html,mo,seymour,132-loveland-street,039697,"132 Loveland Street, Seymour, MO 65746",65746
+https://locations.tacobell.com/mo/pleasant-hill/2015-n-highway-7.html,mo,pleasant-hill,2015-n-highway-7,020696,"2015 N Highway 7, Pleasant Hill, MO 64080",64080
+https://locations.tacobell.com/mo/poplar-bluff/450-highway-53.html,mo,poplar-bluff,450-highway-53,036222,"450 Highway 53, Poplar Bluff, MO 63901",63901
+https://locations.tacobell.com/mo/springfield/2047-e--independence-st.html,mo,springfield,2047-e--independence-st,036223,"2047 E. Independence St, Springfield, MO 65804",65804
+https://locations.tacobell.com/mo/ellisville/16100-manchester-road.html,mo,ellisville,16100-manchester-road,035013,"16100 Manchester Road, Ellisville, MO 63011",16100
+https://locations.tacobell.com/mo/lees-summit/3225-sw-3rd-street.html,mo,lees-summit,3225-sw-3rd-street,036001,"3225 SW 3rd Street, Lees Summit, MO 64081",64081
+https://locations.tacobell.com/mo/waynesville/102-lowe-ave-.html,mo,waynesville,102-lowe-ave-,035179,"102 Lowe Ave., Waynesville, MO 65583",65583
+https://locations.tacobell.com/mo/springfield/3860-west-sunshine-street.html,mo,springfield,3860-west-sunshine-street,036366,"3860 West Sunshine Street, Springfield, MO 65807",65807
+https://locations.tacobell.com/ms/ocean-springs/7402-washington-ave-.html,ms,ocean-springs,7402-washington-ave-,036324,"7402 Washington Ave., Ocean Springs, MS 39564",39564
+https://locations.tacobell.com/mo/kansas-city/4443-blue-parkway-rd.html,mo,kansas-city,4443-blue-parkway-rd,036251,"4443 Blue Parkway Rd, Kansas City, MO 64130",64130
+https://locations.tacobell.com/mo/smithville/15700-n--us-169-hwy.html,mo,smithville,15700-n--us-169-hwy,036391,"15700 N. US 169 Hwy, Smithville, MO 64089",15700
+https://locations.tacobell.com/mo/rolla/120-highway-72-west.html,mo,rolla,120-highway-72-west,036427,"120 Highway 72 West, Rolla, MO 65401",65401
+https://locations.tacobell.com/mo/lees-summit/851-ne-woods-chapel.html,mo,lees-summit,851-ne-woods-chapel,036467,"851 NE Woods Chapel, Lees Summit, MO 64064",64064
+https://locations.tacobell.com/mo/grain-valley/1101-n--buckner-tarsney.html,mo,grain-valley,1101-n--buckner-tarsney,036390,"1101 N. Buckner Tarsney, Grain Valley, MO 64029",64029
+https://locations.tacobell.com/ms/winona/403-s-w--frontage-road.html,ms,winona,403-s-w--frontage-road,022743,"403 S.W. Frontage Road, Winona, MS 38967",38967
+https://locations.tacobell.com/mo/strafford/225-east-evergreen.html,mo,strafford,225-east-evergreen,020477,"225 East Evergreen, Strafford, MO 65757",65757
+https://locations.tacobell.com/mo/foristell/3265-n-service-rd-e.html,mo,foristell,3265-n-service-rd-e,023393,"3265 N Service Rd E, Foristell, MO 63348",63348
+https://locations.tacobell.com/mo/kearney/600-west-sr-92.html,mo,kearney,600-west-sr-92,023882,"600 West SR 92, Kearney, MO 64060",64060
+https://locations.tacobell.com/mo/matthews/854-state-highway-80.html,mo,matthews,854-state-highway-80,016471,"854 State Highway 80 Travel Centers of America #51, Matthews, MO 63867",63867
+https://locations.tacobell.com/mo/joplin/4240-highway-43.html,mo,joplin,4240-highway-43,026729,"4240 Highway 43, Joplin, MO 64804",64804
+https://locations.tacobell.com/mo/bethany/4132-miller-st.html,mo,bethany,4132-miller-st,037172,"4132 Miller St, Bethany, MO 64424",64424
+https://locations.tacobell.com/mo/kansas-city/1420-prospect-ave.html,mo,kansas-city,1420-prospect-ave,037174,"1420 Prospect Ave, Kansas City, MO 64127",64127
+https://locations.tacobell.com/mo/aurora/2026-south-elliott.html,mo,aurora,2026-south-elliott,037469,"2026 South Elliott, Aurora, MO 65605",65605
+https://locations.tacobell.com/mo/ozark/5564-n-21st-st.html,mo,ozark,5564-n-21st-st,037468,"5564 N 21st St, Ozark, MO 65721",65721
+https://locations.tacobell.com/mo/whiteman-afb/711-vandenberg-avenue.html,mo,whiteman-afb,711-vandenberg-avenue,022002,"711 Vandenberg Avenue Bldg. 529, Whiteman Afb, MO 65305",65305
+https://locations.tacobell.com/mt/missoula/8500-truck-stop-rd-.html,mt,missoula,8500-truck-stop-rd-,037015,"8500 Truck Stop Rd., Missoula, MT 59808",59808
+https://locations.tacobell.com/mo/kansas-city/5700-e-bannister-rd.html,mo,kansas-city,5700-e-bannister-rd,037215,"5700 E Bannister Rd, Kansas City, MO 64137",64137
+https://locations.tacobell.com/ms/carthage/306-hwy-16-west.html,ms,carthage,306-hwy-16-west,037295,"306 Hwy 16 West, Carthage, MS 39051",39051
+https://locations.tacobell.com/ms/forest/1309-ms-hwy-35.html,ms,forest,1309-ms-hwy-35,037463,"1309 MS Hwy 35, Forest, MS 39074",39074
+https://locations.tacobell.com/ms/fulton/402-interchange-dr-.html,ms,fulton,402-interchange-dr-,039640,"402 Interchange Dr., Fulton, MS 38843",38843
+https://locations.tacobell.com/mo/warsaw/1830-commercial-street.html,mo,warsaw,1830-commercial-street,038966,"1830 Commercial Street, Warsaw, MO 65355",65355
+https://locations.tacobell.com/mt/helena/1485-vandelay-ave-.html,mt,helena,1485-vandelay-ave-,038830,"1485 Vandelay Ave., Helena, MT 59601",59601
+https://locations.tacobell.com/mo/faucett/1303-se-grand-hwy.html,mo,faucett,1303-se-grand-hwy,038765,"1303 SE Grand Hwy, Faucett, MO 64448",64448
+https://locations.tacobell.com/mo/sugar-creek/11120-us-24.html,mo,sugar-creek,11120-us-24,038851,"11120 US- 24, Sugar Creek, MO 64054",11120
+https://locations.tacobell.com/mo/owensville/503-e-lincoln-avenue.html,mo,owensville,503-e-lincoln-avenue,039574,"503 E Lincoln Avenue, Owensville, MO 65066",65066
+https://locations.tacobell.com/mo/ofallon/4231-state-highway-k.html,mo,ofallon,4231-state-highway-k,039544,"4231 State Highway K, O'Fallon, MO 63368",63368
+https://locations.tacobell.com/mo/nevada/2300-austin-blvd.html,mo,nevada,2300-austin-blvd,039605,"2300 Austin Blvd Lot 21, Nevada, MO 64772",64772
+https://locations.tacobell.com/mo/west-plains/1464-gibson-avenue.html,mo,west-plains,1464-gibson-avenue,039575,"1464 Gibson Avenue, West Plains, MO 65775",65775
+https://locations.tacobell.com/mt/kalispell/2254-highway-93-north.html,mt,kalispell,2254-highway-93-north,038742,"2254 Highway 93 North, Kalispell, MT 59901",59901
+https://locations.tacobell.com/mo/kansas-city/4101-broadway-blvd-.html,mo,kansas-city,4101-broadway-blvd-,038783,"4101 Broadway Blvd., Kansas City, MO 64111",64111
+https://locations.tacobell.com/mo/crestwood/9805-watson-rd-.html,mo,crestwood,9805-watson-rd-,039578,"9805 Watson Rd., Crestwood, MO 63126",63126
+https://locations.tacobell.com/mo/malden/1220-north-douglass-street.html,mo,malden,1220-north-douglass-street,040417,"1220 North Douglass Street, Malden, MO 63863",63863
+https://locations.tacobell.com/mo/holts-summit/137-n--summit-drive.html,mo,holts-summit,137-n--summit-drive,040494,"137 N. Summit Drive, Holts Summit, MO 65043",65043
+https://locations.tacobell.com/mo/parkville/7085-elizabeth-st.html,mo,parkville,7085-elizabeth-st,040324,"7085 Elizabeth St, Parkville, MO 64152",64152
+https://locations.tacobell.com/ms/iuka/1709-battleground-drive.html,ms,iuka,1709-battleground-drive,040413,"1709 Battleground Drive, Iuka, MS 38852",38852
+https://locations.tacobell.com/mo/buffalo/510-s--ash-st-.html,mo,buffalo,510-s--ash-st-,038850,"510 S. Ash St., Buffalo, MO 65622",65622
+https://locations.tacobell.com/mo/lebanon/2500-boulder-court.html,mo,lebanon,2500-boulder-court,040650,"2500 Boulder Court, Lebanon, MO 65536",65536
+https://locations.tacobell.com/ms/horn-lake/999-goodman-road.html,ms,horn-lake,999-goodman-road,035156,"999 Goodman Road, Horn Lake, MS 38637",38637
+https://locations.tacobell.com/mo/saint-louis/9951-w-florissant-ave.html,mo,saint-louis,9951-w-florissant-ave,029649,"9951 W Florissant Ave, Saint Louis, MO 63136",63136
+https://locations.tacobell.com/mo/saint-louis/9787-st-charles-rock-rd.html,mo,saint-louis,9787-st-charles-rock-rd,028483,"9787 St Charles Rock Rd, Saint Louis, MO 63114",63114
+https://locations.tacobell.com/ms/brookhaven/977-brookway-blvd.html,ms,brookhaven,977-brookway-blvd,003924,"977 Brookway Blvd, Brookhaven, MS 39601",39601
+https://locations.tacobell.com/ms/louisville/958-w--main-street.html,ms,louisville,958-w--main-street,L775096,"958 W. Main Street, Louisville, MS 39339",39339
+https://locations.tacobell.com/mo/kansas-city/9571-n-mcgee-st.html,mo,kansas-city,9571-n-mcgee-st,034411,"9571 N McGee St, Kansas City, MO 64155",64155
+https://locations.tacobell.com/ms/meridian/95-s-frontage-rd.html,ms,meridian,95-s-frontage-rd,032316,"95 S Frontage Rd, Meridian, MS 39301",39301
+https://locations.tacobell.com/ms/gulfport/9384-hwy-49.html,ms,gulfport,9384-hwy-49,034638,"9384 Hwy 49, Gulfport, MS 39503",39503
+https://locations.tacobell.com/mo/blue-springs/934-s-7-highway.html,mo,blue-springs,934-s-7-highway,035236,"934 S 7 Highway, Blue Springs, MO 64014",64014
+https://locations.tacobell.com/mo/olivette/9339-olive-blvd.html,mo,olivette,9339-olive-blvd,028490,"9339 Olive Blvd, Olivette, MO 63132",63132
+https://locations.tacobell.com/mo/kansas-city/9301-ne-highway-152.html,mo,kansas-city,9301-ne-highway-152,034410,"9301 NE Highway 152, Kansas City, MO 64158",64158
+https://locations.tacobell.com/mo/raymore/930-west-foxwood-drive.html,mo,raymore,930-west-foxwood-drive,035244,"930 West Foxwood Drive, Raymore, MO 64083",64083
+https://locations.tacobell.com/mo/arnold/926-jeffco-blvd.html,mo,arnold,926-jeffco-blvd,029657,"926 Jeffco Blvd, Arnold, MO 63010",63010
+https://locations.tacobell.com/mo/ava/913-nw-12th-ave.html,mo,ava,913-nw-12th-ave,039695,"913 NW 12th Ave, Ava, MO 65608",65608
+https://locations.tacobell.com/ms/biloxi/913-cedar-lake-rd.html,ms,biloxi,913-cedar-lake-rd,034640,"913 Cedar Lake Rd, Biloxi, MS 39532",39532
+https://locations.tacobell.com/mo/saint-joseph/910-francis-street.html,mo,saint-joseph,910-francis-street,024470,"910 Francis Street, Saint Joseph, MO 64501",64501
+https://locations.tacobell.com/ms/columbus/905-alabama-street.html,ms,columbus,905-alabama-street,020698,"905 Alabama Street, Columbus, MS 39702",39702
+https://locations.tacobell.com/mo/mountain-view/904-e--us-highway-60.html,mo,mountain-view,904-e--us-highway-60,036280,"904 E. US Highway 60, Mountain View, MO 65548",65548
+https://locations.tacobell.com/mo/raytown/9021-e--highway-350.html,mo,raytown,9021-e--highway-350,035239,"9021 E. Highway 350, Raytown, MO 64133",64133
+https://locations.tacobell.com/mo/lake-saint-louis/901-robert-raymond-dr-.html,mo,lake-saint-louis,901-robert-raymond-dr-,029674,"901 Robert Raymond Dr., Lake Saint Louis, MO 63367",63367
+https://locations.tacobell.com/ms/tupelo/884-barnes-crossing-road.html,ms,tupelo,884-barnes-crossing-road,039634,"884 Barnes Crossing Road, Tupelo, MS 38801",38801
+https://locations.tacobell.com/mo/ozark/880-north-18th-street.html,mo,ozark,880-north-18th-street,016810,"880 North 18th Street, Ozark, MO 65721",65721
+https://locations.tacobell.com/mo/saint-louis/851-n-skinker-blvd.html,mo,saint-louis,851-n-skinker-blvd,029638,"851 N Skinker Blvd, Saint Louis, MO 63130",63130
+https://locations.tacobell.com/mo/cassville/84-south-main-street.html,mo,cassville,84-south-main-street,030897,"84 South Main Street, Cassville, MO 65625",65625
+https://locations.tacobell.com/ms/gulfport/831-cowan-rd-.html,ms,gulfport,831-cowan-rd-,034639,"831 Cowan Rd., Gulfport, MS 39507",39507
+https://locations.tacobell.com/mo/eureka/83-hilltop-village-center-dr.html,mo,eureka,83-hilltop-village-center-dr,029627,"83 Hilltop Village Center Dr, Eureka, MO 63025",63025
+https://locations.tacobell.com/mo/saint-clair/8299-highway-47.html,mo,saint-clair,8299-highway-47,020142,"8299 Highway 47, Saint Clair, MO 63077",63077
+https://locations.tacobell.com/mo/monett/829-e-highway-60.html,mo,monett,829-e-highway-60,003984,"829 E Highway 60, Monett, MO 65708",65708
+https://locations.tacobell.com/mo/kansas-city/8215-wornall-rd.html,mo,kansas-city,8215-wornall-rd,034385,"8215 Wornall Rd, Kansas City, MO 64114",64114
+https://locations.tacobell.com/mo/sedalia/820-s-highway-65.html,mo,sedalia,820-s-highway-65,002358,"820 S Highway 65, Sedalia, MO 65301",65301
+https://locations.tacobell.com/mo/lebanon/810-s-jefferson-ave-.html,mo,lebanon,810-s-jefferson-ave-,027910,"810 S Jefferson Ave., Lebanon, MO 65536",65536
+https://locations.tacobell.com/mo/potosi/810-east-high-street.html,mo,potosi,810-east-high-street,028494,"810 East High Street, Potosi, MO 63664",63664
+https://locations.tacobell.com/ms/columbia/807-highway-98.html,ms,columbia,807-highway-98,026276,"807 Highway 98, Columbia, MS 39429",39429
+https://locations.tacobell.com/mo/richmond/806-slumber-lane.html,mo,richmond,806-slumber-lane,G135863,"806 Slumber Lane, Richmond, MO 64085",64085
+https://locations.tacobell.com/mo/festus/806-lee-ave.html,mo,festus,806-lee-ave,029662,"806 Lee Ave, Festus, MO 63028",63028
+https://locations.tacobell.com/mo/belton/7901-east-171st-street.html,mo,belton,7901-east-171st-street,035237,"7901 East 171st Street, Belton, MO 64012",64012
+https://locations.tacobell.com/mo/washington/777-washington-square-shoping-cntr.html,mo,washington,777-washington-square-shoping-cntr,004241,"777 Washington Square Shoping Cntr, Washington, MO 63090",63090
+https://locations.tacobell.com/mo/hazelwood/7747-n-lindbergh-blvd-.html,mo,hazelwood,7747-n-lindbergh-blvd-,029658,"7747 N Lindbergh Blvd., Hazelwood, MO 63042",63042
+https://locations.tacobell.com/ms/olive-branch/7500-commerce.html,ms,olive-branch,7500-commerce,032318,"7500 Commerce, Olive Branch, MS 38654",38654
+https://locations.tacobell.com/mt/billings/749-commerce-way.html,mt,billings,749-commerce-way,038935,"749 Commerce Way, Billings, MT 59101",59101
+https://locations.tacobell.com/mo/saint-louis/7237-watson-road.html,mo,saint-louis,7237-watson-road,029672,"7237 Watson Road, Saint Louis, MO 63119",63119
+https://locations.tacobell.com/mo/kansas-city/7201-ne-parvin-road.html,mo,kansas-city,7201-ne-parvin-road,034420,"7201 NE Parvin Road, Kansas City, MO 64117",64117
+https://locations.tacobell.com/mo/cameron/708-baldwin.html,mo,cameron,708-baldwin,G135263,"708 Baldwin, Cameron, MO 64429",64429
+https://locations.tacobell.com/mo/warrenton/705-n-state-hwy-47.html,mo,warrenton,705-n-state-hwy-47,029636,"705 N State Hwy 47, Warrenton, MO 63383",63383
+https://locations.tacobell.com/ms/batesville/705-highway-6-east.html,ms,batesville,705-highway-6-east,015288,"705 Highway 6 East, Batesville, MS 38606",38606
+https://locations.tacobell.com/mo/salem/704-s--main.html,mo,salem,704-s--main,F485004,"704 S. Main, Salem, MO 65560",65560
+https://locations.tacobell.com/mo/warrensburg/701-n-maguire-st.html,mo,warrensburg,701-n-maguire-st,002367,"701 N Maguire St, Warrensburg, MO 64093",64093
+https://locations.tacobell.com/mo/florissant/6934-parker-rd.html,mo,florissant,6934-parker-rd,031308,"6934 Parker Rd, Florissant, MO 63033",63033
+https://locations.tacobell.com/ms/moss-point/6732-hwy-63.html,ms,moss-point,6732-hwy-63,034642,"6732 Hwy 63, Moss Point, MS 39563",39563
+https://locations.tacobell.com/mo/kansas-city/6607-prospect-ave.html,mo,kansas-city,6607-prospect-ave,G135008,"6607 Prospect Ave, Kansas City, MO 64132",64132
+https://locations.tacobell.com/mt/missoula/651-e-broadway.html,mt,missoula,651-e-broadway,004804,"651 E Broadway, Missoula, MT 59802",59802
+https://locations.tacobell.com/mo/kansas-city/6350-nw-barry-road.html,mo,kansas-city,6350-nw-barry-road,035234,"6350 NW Barry Road, Kansas City, MO 64154",64154
+https://locations.tacobell.com/mo/kansas-city/6350-north-lucerne.html,mo,kansas-city,6350-north-lucerne,034393,"6350 North Lucerne, Kansas City, MO 64151",64151
+https://locations.tacobell.com/mt/billings/633-main-st.html,mt,billings,633-main-st,038932,"633 Main St, Billings, MT 59105",59105
+https://locations.tacobell.com/mo/gladstone/6321-n-oak-trafficway.html,mo,gladstone,6321-n-oak-trafficway,034388,"6321 N Oak Trafficway, Gladstone, MO 64118",64118
+https://locations.tacobell.com/mo/springfield/629-west-sunshine-street.html,mo,springfield,629-west-sunshine-street,015449,"629 West Sunshine Street, Springfield, MO 65807",65807
+https://locations.tacobell.com/mo/saint-louis/626-n-kings-highway-blvd.html,mo,saint-louis,626-n-kings-highway-blvd,029631,"626 N Kings Highway Blvd, Saint Louis, MO 63108",63108
+https://locations.tacobell.com/mo/lees-summit/615-libby-lane.html,mo,lees-summit,615-libby-lane,034382,"615 Libby Lane, Lees Summit, MO 64063",64063
+https://locations.tacobell.com/ms/clarksdale/614-s-state-st.html,ms,clarksdale,614-s-state-st,039142,"614 S State St, Clarksdale, MS 38614",38614
+https://locations.tacobell.com/mo/fenton/611-gravois-rd-.html,mo,fenton,611-gravois-rd-,029660,"611 Gravois Rd., Fenton, MO 63026",63026
+https://locations.tacobell.com/mo/republic/610-u-s--hwy-60-east.html,mo,republic,610-u-s--hwy-60-east,018190,"610 U.S. Hwy 60 East, Republic, MO 65738",65738
+https://locations.tacobell.com/ms/west-point/6095-highway-45-alt-south.html,ms,west-point,6095-highway-45-alt-south,031750,"6095 Highway 45 Alt South, West Point, MS 39773",39773
+https://locations.tacobell.com/mo/saint-peters/6082-mid-rivers-mall-dr-.html,mo,saint-peters,6082-mid-rivers-mall-dr-,029673,"6082 Mid Rivers Mall Dr., Saint Peters, MO 63304",63304
+https://locations.tacobell.com/mo/mexico/607-west-monroe-street.html,mo,mexico,607-west-monroe-street,030188,"607 West Monroe Street, Mexico, MO 65265",65265
+https://locations.tacobell.com/ms/cleveland/606-n--davis.html,ms,cleveland,606-n--davis,039144,"606 N. Davis, Cleveland, MS 38732",38732
+https://locations.tacobell.com/mo/lees-summit/605-ne-highway-291.html,mo,lees-summit,605-ne-highway-291,035241,"605 NE Highway 291, Lees Summit, MO 64086",64086
+https://locations.tacobell.com/mo/ofallon/603-s-main-st.html,mo,ofallon,603-s-main-st,029652,"603 S Main St, O'Fallon, MO 63366",63366
+https://locations.tacobell.com/mo/springfield/601-south-national-avenue.html,mo,springfield,601-south-national-avenue,018354,"601 South National Avenue, Springfield, MO 65804",65804
+https://locations.tacobell.com/ms/tupelo/600-s--gloster-st.html,ms,tupelo,600-s--gloster-st,039632,"600 S. Gloster St, Tupelo, MS 38801",38801
+https://locations.tacobell.com/mo/hazelwood/5950-howdershell-rd.html,mo,hazelwood,5950-howdershell-rd,031700,"5950 Howdershell Rd, Hazelwood, MO 63042",63042
+https://locations.tacobell.com/mo/kansas-city/5925-independence-ave.html,mo,kansas-city,5925-independence-ave,034405,"5925 Independence Ave, Kansas City, MO 64125",64125
+https://locations.tacobell.com/ms/southaven/580-church-rd-.html,ms,southaven,580-church-rd-,035173,"580 Church Rd., Southaven, MS 38671",38671
+https://locations.tacobell.com/mo/kansas-city/5704-e-red-bridge-rd.html,mo,kansas-city,5704-e-red-bridge-rd,035245,"5704 E Red Bridge Rd, Kansas City, MO 64137",64137
+https://locations.tacobell.com/mo/farmington/560-w-karsch-blvd.html,mo,farmington,560-w-karsch-blvd,028481,"560 W Karsch Blvd, Farmington, MO 63640",63640
+https://locations.tacobell.com/ms/byram/5575-i-55-south.html,ms,byram,5575-i-55-south,032320,"5575 I-55 South, Byram, MS 39272",39272
+https://locations.tacobell.com/mo/saint-louis/5453-telegraph-road.html,mo,saint-louis,5453-telegraph-road,029654,"5453 Telegraph Road, Saint Louis, MO 63129",63129
+https://locations.tacobell.com/mt/kalispell/535-e--idaho.html,mt,kalispell,535-e--idaho,009552,"535 E. Idaho, Kalispell, MT 59901",59901
+https://locations.tacobell.com/mo/blue-springs/525-ne-coronado-drive.html,mo,blue-springs,525-ne-coronado-drive,035242,"525 NE Coronado Drive, Blue Springs, MO 64014",64014
+https://locations.tacobell.com/mo/mount-vernon/510-e-mt-vernon-blvd.html,mo,mount-vernon,510-e-mt-vernon-blvd,019834,"510 E Mt Vernon Blvd, Mount Vernon, MO 65712",65712
+https://locations.tacobell.com/mo/columbia/508-e-nifong-blvd.html,mo,columbia,508-e-nifong-blvd,004209,"508 E Nifong Blvd, Columbia, MO 65201",65201
+https://locations.tacobell.com/mo/nixa/507-west-mt-vernon-street.html,mo,nixa,507-west-mt-vernon-street,016249,"507 West Mt Vernon Street, Nixa, MO 65714",65714
+https://locations.tacobell.com/mo/saint-louis/5031-natural-bridge.html,mo,saint-louis,5031-natural-bridge,029637,"5031 Natural Bridge, Saint Louis, MO 63115",63115
+https://locations.tacobell.com/mo/saint-louis/501-chouteau.html,mo,saint-louis,501-chouteau,028498,"501 Chouteau, Saint Louis, MO 63102",63102
+https://locations.tacobell.com/ms/ripley/497-city-avenue.html,ms,ripley,497-city-avenue,L775056,"497 City Avenue, Ripley, MS 38663",38663
+https://locations.tacobell.com/ms/hattiesburg/4908-hardy-st.html,ms,hattiesburg,4908-hardy-st,004760,"4908 Hardy St, Hattiesburg, MS 39402",39402
+https://locations.tacobell.com/ms/clinton/490-springridge.html,ms,clinton,490-springridge,019737,"490 Springridge, Clinton, MS 39056",39056
+https://locations.tacobell.com/ms/meridian/4821-8th-street.html,ms,meridian,4821-8th-street,032304,"4821 8th Street, Meridian, MS 39307",39307
+https://locations.tacobell.com/mo/byrnes-mill/4698-highway-w.html,mo,byrnes-mill,4698-highway-w,029659,"4698 Highway W, Byrnes Mill, MO 63051",63051
+https://locations.tacobell.com/ms/waveland/456-highway-90.html,ms,waveland,456-highway-90,034629,"456 Highway 90, Waveland, MS 39576",39576
+https://locations.tacobell.com/mo/hannibal/4413-mcmasters-ave.html,mo,hannibal,4413-mcmasters-ave,036530,"4413 McMasters Ave, Hannibal, MO 63401",63401
+https://locations.tacobell.com/mo/saint-louis/4320-butler-hill-road.html,mo,saint-louis,4320-butler-hill-road,029665,"4320 Butler Hill Road, Saint Louis, MO 63128",63128
+https://locations.tacobell.com/mo/kansas-city/430-ne-barry-rd.html,mo,kansas-city,430-ne-barry-rd,034408,"430 NE Barry Rd, Kansas City, MO 64155",64155
+https://locations.tacobell.com/mo/saint-louis/4254-bayless-ave.html,mo,saint-louis,4254-bayless-ave,029663,"4254 Bayless Ave, Saint Louis, MO 63123",63123
+https://locations.tacobell.com/ms/picayune/425-memorial-blvd.html,ms,picayune,425-memorial-blvd,028509,"425 Memorial Blvd, Picayune, MS 39466",39466
+https://locations.tacobell.com/mo/camdenton/423-e-highway-54.html,mo,camdenton,423-e-highway-54,027909,"423 E Highway 54, Camdenton, MO 65020",65020
+https://locations.tacobell.com/mo/independence/4210-s-noland-rd.html,mo,independence,4210-s-noland-rd,G135012,"4210 S Noland Rd, Independence, MO 64055",64055
+https://locations.tacobell.com/mo/springfield/4140-s-lipscomb-ave.html,mo,springfield,4140-s-lipscomb-ave,022777,"4140 S Lipscomb Ave, Springfield, MO 65807",65807
+https://locations.tacobell.com/mo/saint-peters/4120-mexico-road.html,mo,saint-peters,4120-mexico-road,029650,"4120 Mexico Road, Saint Peters, MO 63376",63376
+https://locations.tacobell.com/mo/desloge/412-n-state-st.html,mo,desloge,412-n-state-st,028487,"412 N State St, Desloge, MO 63601",63601
+https://locations.tacobell.com/mo/columbia/411-s-providence-rd.html,mo,columbia,411-s-providence-rd,000456,"411 S Providence Rd, Columbia, MO 65203",65203
+https://locations.tacobell.com/mo/willard/405-e--walnut-lane.html,mo,willard,405-e--walnut-lane,026065,"405 E. Walnut Lane, Willard, MO 65781",65781
+https://locations.tacobell.com/mo/kansas-city/4017-blue-ridge-cut-off.html,mo,kansas-city,4017-blue-ridge-cut-off,034383,"4017 Blue Ridge Cut-Off, Kansas City, MO 64133",64133
+https://locations.tacobell.com/ms/philadelphia/394-main-street.html,ms,philadelphia,394-main-street,032319,"394 Main Street, Philadelphia, MS 39350",39350
+https://locations.tacobell.com/mo/independence/3927-bolger-road.html,mo,independence,3927-bolger-road,035243,"3927 Bolger Road, Independence, MO 64055",64055
+https://locations.tacobell.com/ms/southaven/3920-goodman-rd.html,ms,southaven,3920-goodman-rd,032330,"3920 Goodman Rd, Southaven, MS 38672",38672
+https://locations.tacobell.com/ms/horn-lake/3910-goodman-road-west.html,ms,horn-lake,3910-goodman-road-west,035161,"3910 Goodman Road West, Horn Lake, MS 38637",38637
+https://locations.tacobell.com/mo/saint-louis/3715-lemay-ferry-road.html,mo,saint-louis,3715-lemay-ferry-road,028492,"3715 Lemay Ferry Road, Saint Louis, MO 63125",63125
+https://locations.tacobell.com/mo/lees-summit/3701-sw-hollywood-drive.html,mo,lees-summit,3701-sw-hollywood-drive,034395,"3701 SW Hollywood Drive, Lees Summit, MO 64082",64082
+https://locations.tacobell.com/mo/osage-beach/3554-osage-beach-pkwy.html,mo,osage-beach,3554-osage-beach-pkwy,027907,"3554 Osage Beach Pkwy, Osage Beach, MO 65065",65065
+https://locations.tacobell.com/mo/kirkwood/353-south-kirkwood-road.html,mo,kirkwood,353-south-kirkwood-road,029669,"353 South Kirkwood Road, Kirkwood, MO 63122",63122
+https://locations.tacobell.com/mo/springfield/3511-w-chestnut-expy-.html,mo,springfield,3511-w-chestnut-expy-,003845,"3511 W Chestnut Expy., Springfield, MO 65802",65802
+https://locations.tacobell.com/mo/branson/3511-shepherd-hills-expy.html,mo,branson,3511-shepherd-hills-expy,016811,"3511 Shepherd Hills Expy, Branson, MO 65616",65616
+https://locations.tacobell.com/mo/saint-louis/3501-s-grand-ave.html,mo,saint-louis,3501-s-grand-ave,029624,"3501 S Grand Ave, Saint Louis, MO 63118",63118
+https://locations.tacobell.com/mo/saint-louis/3440-so-kings-highway.html,mo,saint-louis,3440-so-kings-highway,029625,"3440 So Kings Highway, Saint Louis, MO 63139",63139
+https://locations.tacobell.com/mo/sullivan/344-s-service-rd-e.html,mo,sullivan,344-s-service-rd-e,029633,"344 S Service Rd E, Sullivan, MO 63080",63080
+https://locations.tacobell.com/ms/vicksburg/3416-pemberton-square-blvd.html,ms,vicksburg,3416-pemberton-square-blvd,032314,"3416 Pemberton Square Blvd, Vicksburg, MS 39180",39180
+https://locations.tacobell.com/mo/saint-joseph/3402-s-belt-hwy.html,mo,saint-joseph,3402-s-belt-hwy,024468,"3402 S Belt Hwy, Saint Joseph, MO 64503",64503
+https://locations.tacobell.com/mt/missoula/3400-brooks-street.html,mt,missoula,3400-brooks-street,003583,"3400 Brooks Street, Missoula, MT 59801",59801
+https://locations.tacobell.com/ms/natchez/34-sergeant-prentiss-dr.html,ms,natchez,34-sergeant-prentiss-dr,004309,"34 Sergeant Prentiss Dr, Natchez, MS 39120",39120
+https://locations.tacobell.com/mo/cape-girardeau/335-n-kingshighway-st.html,mo,cape-girardeau,335-n-kingshighway-st,018941,"335 N Kingshighway St, Cape Girardeau, MO 63701",63701
+https://locations.tacobell.com/mo/springfield/3340-south-campbell.html,mo,springfield,3340-south-campbell,003851,"3340 South Campbell, Springfield, MO 65807",65807
+https://locations.tacobell.com/mo/saint-joseph/3301-north-belt-hwy.html,mo,saint-joseph,3301-north-belt-hwy,024472,"3301 North Belt Hwy, Saint Joseph, MO 64506",64506
+https://locations.tacobell.com/mo/columbia/3301-clark-lane.html,mo,columbia,3301-clark-lane,015923,"3301 Clark Lane, Columbia, MO 65202",65202
+https://locations.tacobell.com/ms/jackson/330-w-northside-dr.html,ms,jackson,330-w-northside-dr,032307,"330 W Northside Dr, Jackson, MS 39206",39206
+https://locations.tacobell.com/ms/jackson/3276-highway-80-west.html,ms,jackson,3276-highway-80-west,032306,"3276 Highway 80 West, Jackson, MS 39204",39204
+https://locations.tacobell.com/ms/pascagoula/3259-denny-avenue.html,ms,pascagoula,3259-denny-avenue,034633,"3259 Denny Avenue, Pascagoula, MS 39581",39581
+https://locations.tacobell.com/mo/saint-louis/3204-telegraph-rd.html,mo,saint-louis,3204-telegraph-rd,029670,"3204 Telegraph Rd, Saint Louis, MO 63125",63125
+https://locations.tacobell.com/mo/saint-joseph/320-n--belt-hwy-.html,mo,saint-joseph,320-n--belt-hwy-,024467,"320 N. Belt Hwy., Saint Joseph, MO 64506",64506
+https://locations.tacobell.com/mo/kingdom-city/3188-us-highway-54.html,mo,kingdom-city,3188-us-highway-54,030186,"3188 US Highway 54, Kingdom City, MO 65262",65262
+https://locations.tacobell.com/mo/liberty/315-s-291-hwy.html,mo,liberty,315-s-291-hwy,035232,"315 S 291 Hwy, Liberty, MO 64068",64068
+https://locations.tacobell.com/ms/ocean-springs/3134-bienville-blvd.html,ms,ocean-springs,3134-bienville-blvd,034644,"3134 Bienville Blvd, Ocean Springs, MS 39564",39564
+https://locations.tacobell.com/ms/pearl/3051-highway-80-east.html,ms,pearl,3051-highway-80-east,032305,"3051 Highway 80 East, Pearl, MS 39208",39208
+https://locations.tacobell.com/mo/cape-girardeau/3039-williams.html,mo,cape-girardeau,3039-williams,028485,"3039 Williams, Cape Girardeau, MO 63703",63703
+https://locations.tacobell.com/mo/union/301-crestview.html,mo,union,301-crestview,016764,"301 Crestview, Union, MO 63084",63084
+https://locations.tacobell.com/mo/saint-louis/2971-dougherty-ferry-rd-.html,mo,saint-louis,2971-dougherty-ferry-rd-,034788,"2971 Dougherty Ferry Rd., Saint Louis, MO 63122",63122
+https://locations.tacobell.com/mt/butte/2939-harrison-ave.html,mt,butte,2939-harrison-ave,004043,"2939 Harrison Ave, Butte, MT 59701",59701
+https://locations.tacobell.com/mo/springfield/2933-s-national-ave-.html,mo,springfield,2933-s-national-ave-,001695,"2933 S National Ave., Springfield, MO 65804",65804
+https://locations.tacobell.com/ms/newton/289-east-side-drive.html,ms,newton,289-east-side-drive,L775068,"289 East Side Drive, Newton, MS 39345",39345
+https://locations.tacobell.com/mo/kansas-city/2825-ne-vivion-road.html,mo,kansas-city,2825-ne-vivion-road,035240,"2825 NE Vivion Road, Kansas City, MO 64119",64119
+https://locations.tacobell.com/mt/bozeman/2817-west-main-street.html,mt,bozeman,2817-west-main-street,021144,"2817 West Main Street, Bozeman, MT 59718",59718
+https://locations.tacobell.com/mt/helena/2815-north-montana.html,mt,helena,2815-north-montana,018703,"2815 North Montana, Helena, MT 59601",59601
+https://locations.tacobell.com/ms/hazlehurst/28073-highway-28.html,ms,hazlehurst,28073-highway-28,L775055,"28073 Highway 28, Hazlehurst, MS 39083",28073
+https://locations.tacobell.com/ms/jackson/2804-suncrest-drive.html,ms,jackson,2804-suncrest-drive,032032,"2804 Suncrest Drive, Jackson, MS 39212",39212
+https://locations.tacobell.com/mo/poplar-bluff/2761-n--westwood-blvd.html,mo,poplar-bluff,2761-n--westwood-blvd,028482,"2761 N. Westwood Blvd, Poplar Bluff, MO 63901",63901
+https://locations.tacobell.com/ms/tupelo/2732-west-main-street.html,ms,tupelo,2732-west-main-street,039636,"2732 West Main Street, Tupelo, MS 38801",38801
+https://locations.tacobell.com/mo/high-ridge/2699-ridge-point-drive.html,mo,high-ridge,2699-ridge-point-drive,032396,"2699 Ridge Point Drive, High Ridge, MO 63049",63049
+https://locations.tacobell.com/ms/hernando/2650-mcingvale-rd-.html,ms,hernando,2650-mcingvale-rd-,035158,"2650 McIngvale Rd., Hernando, MS 38632",38632
+https://locations.tacobell.com/mo/jefferson-city/2605-missouri-blvd.html,mo,jefferson-city,2605-missouri-blvd,027911,"2605 Missouri Blvd, Jefferson City, MO 65109",65109
+https://locations.tacobell.com/mo/carthage/2603-grand-ave.html,mo,carthage,2603-grand-ave,021325,"2603 Grand Ave, Carthage, MO 64836",64836
+https://locations.tacobell.com/mo/joplin/2601-main-street.html,mo,joplin,2601-main-street,001123,"2601 Main Street, Joplin, MO 64804",64804
+https://locations.tacobell.com/mo/florissant/2525-n-lindbergh-blvd.html,mo,florissant,2525-n-lindbergh-blvd,029667,"2525 N Lindbergh Blvd, Florissant, MO 63033",63033
+https://locations.tacobell.com/mo/independence/2491-s--state-route-291.html,mo,independence,2491-s--state-route-291,035233,"2491 S. State Route 291, Independence, MO 64057",64057
+https://locations.tacobell.com/ms/pontotoc/2467-hwy-15-n-.html,ms,pontotoc,2467-hwy-15-n-,032639,"2467 Hwy 15 N., Pontotoc, MS 38863",38863
+https://locations.tacobell.com/mo/boonville/2440-main-street.html,mo,boonville,2440-main-street,030187,"2440 Main Street, Boonville, MO 65233",65233
+https://locations.tacobell.com/ms/gulfport/2417-25th-ave.html,ms,gulfport,2417-25th-ave,ERROR,ERROR,ERROR
+https://locations.tacobell.com/ms/hattiesburg/2407-hardy-st.html,ms,hattiesburg,2407-hardy-st,001898,"2407 Hardy St, Hattiesburg, MS 39401",39401
+https://locations.tacobell.com/ms/macon/236-kfc-road.html,ms,macon,236-kfc-road,L775101,"236 KFC Road, Macon, MS 39341",39341
+https://locations.tacobell.com/mo/troy/235-e--hwy-47.html,mo,troy,235-e--hwy-47,029639,"235 E. Hwy 47, Troy, MO 63379",63379
+https://locations.tacobell.com/mt/billings/2338-central-avenue.html,mt,billings,2338-central-avenue,038931,"2338 Central Avenue, Billings, MT 59102",59102
+https://locations.tacobell.com/ms/biloxi/2335-pass-road.html,ms,biloxi,2335-pass-road,034630,"2335 Pass Road, Biloxi, MS 39531",39531
+https://locations.tacobell.com/ms/flowood/2331-lakeland-drive.html,ms,flowood,2331-lakeland-drive,032325,"2331 Lakeland Drive, Flowood, MS 39232",39232
+https://locations.tacobell.com/ms/columbus/2328-highway-45-n.html,ms,columbus,2328-highway-45-n,024728,"2328 Highway 45 N, Columbus, MS 39705",39705
+https://locations.tacobell.com/mt/missoula/2320-north-reserve.html,mt,missoula,2320-north-reserve,016603,"2320 North Reserve, Missoula, MT 59808",59808
+https://locations.tacobell.com/mo/joplin/2315-west-7th-street.html,mo,joplin,2315-west-7th-street,020648,"2315 West 7th Street, Joplin, MO 64801",64801
+https://locations.tacobell.com/mo/saint-robert/229-vfw-memorial-dr.html,mo,saint-robert,229-vfw-memorial-dr,027908,"229 Vfw Memorial Dr, Saint Robert, MO 65584",65584
+https://locations.tacobell.com/mo/jackson/2271-east-jackson-blvd.html,mo,jackson,2271-east-jackson-blvd,020143,"2271 East Jackson Blvd, Jackson, MO 63755",63755
+https://locations.tacobell.com/mo/springfield/2249-east-sunshine.html,mo,springfield,2249-east-sunshine,004042,"2249 East Sunshine, Springfield, MO 65804",65804
+https://locations.tacobell.com/mo/saint-charles/2203-droste-rd-.html,mo,saint-charles,2203-droste-rd-,029651,"2203 Droste Rd., Saint Charles, MO 63301",63301
+https://locations.tacobell.com/mo/columbia/220-business-loop-70-e.html,mo,columbia,220-business-loop-70-e,004947,"220 Business Loop 70 E, Columbia, MO 65203",65203
+https://locations.tacobell.com/mo/jane/21150-us-highway-71.html,mo,jane,21150-us-highway-71,027087,"21150 US Highway 71, Jane, MO 64856",21150
+https://locations.tacobell.com/ms/meridian/2106-n-hills-st.html,ms,meridian,2106-n-hills-st,032327,"2106 N Hills St, Meridian, MS 39305",39305
+https://locations.tacobell.com/mo/lamar/21-east-highway-160.html,mo,lamar,21-east-highway-160,030896,"21 East Highway 160, Lamar, MO 64759",64759
+https://locations.tacobell.com/ms/senatobia/209-norfleet-dr.html,ms,senatobia,209-norfleet-dr,003639,"209 Norfleet Dr, Senatobia, MS 38668",38668
+https://locations.tacobell.com/ms/starkville/207-highway-12-west.html,ms,starkville,207-highway-12-west,004274,"207 Highway 12 West, Starkville, MS 39759",39759
+https://locations.tacobell.com/mt/belgrade/206-w-madison.html,mt,belgrade,206-w-madison,030343,"206 W Madison, Belgrade, MT 59714",59714
+https://locations.tacobell.com/mo/harrisonville/2010-n-commercial-st.html,mo,harrisonville,2010-n-commercial-st,002517,"2010 N Commercial St, Harrisonville, MO 64701",64701
+https://locations.tacobell.com/mo/oak-grove/201-se-4th-street.html,mo,oak-grove,201-se-4th-street,G135261,"201 SE 4th Street, Oak Grove, MO 64075",64075
+https://locations.tacobell.com/mo/columbia/2009-bernadette-drive.html,mo,columbia,2009-bernadette-drive,015618,"2009 Bernadette Drive, Columbia, MO 65203",65203
+https://locations.tacobell.com/mo/jefferson-city/2005-schotthilll-woods-rd-.html,mo,jefferson-city,2005-schotthilll-woods-rd-,032706,"2005 Schotthilll Woods Rd., Jefferson City, MO 65101",65101
+https://locations.tacobell.com/mo/saint-charles/2003-zumbehl-rd.html,mo,saint-charles,2003-zumbehl-rd,029655,"2003 Zumbehl Rd, Saint Charles, MO 63303",63303
+https://locations.tacobell.com/mo/branson/2000-w--us-hwy-76.html,mo,branson,2000-w--us-hwy-76,003602,"2000 W. US Hwy 76, Branson, MO 65616",65616
+https://locations.tacobell.com/ms/new-albany/200-park-plaza.html,ms,new-albany,200-park-plaza,039633,"200 Park Plaza, New Albany, MS 38652",38652
+https://locations.tacobell.com/mo/arnold/1932-richardson-road.html,mo,arnold,1932-richardson-road,028496,"1932 Richardson Road, Arnold, MO 63010",63010
+https://locations.tacobell.com/ms/wiggins/1911-azalea-dr-s.html,ms,wiggins,1911-azalea-dr-s,024294,"1911 Azalea Dr S, Wiggins, MS 39577",39577
+https://locations.tacobell.com/mo/jefferson-city/1905-southwest-blvd.html,mo,jefferson-city,1905-southwest-blvd,027906,"1905 Southwest Blvd, Jefferson City, MO 65109",65109
+https://locations.tacobell.com/mt/great-falls/1901-10th-ave--south.html,mt,great-falls,1901-10th-ave--south,029740,"1901 10th Ave. South, Great Falls, MT 59405",59405
+https://locations.tacobell.com/mo/bolivar/1875-s-springfield-ave.html,mo,bolivar,1875-s-springfield-ave,016632,"1875 S Springfield Ave, Bolivar, MO 65613",65613
+https://locations.tacobell.com/ms/madison/1853-main-street.html,ms,madison,1853-main-street,032359,"1853 Main Street, Madison, MS 39110",39110
+https://locations.tacobell.com/mo/platte-city/1824-prairie-view-road.html,mo,platte-city,1824-prairie-view-road,024471,"1824 Prairie View Road, Platte City, MO 64079",64079
+https://locations.tacobell.com/mo/kennett/1782-1st-street.html,mo,kennett,1782-1st-street,004807,"1782 1st Street, Kennett, MO 63857",63857
+https://locations.tacobell.com/mo/excelsior-springs/1744-west-jesse-james-road.html,mo,excelsior-springs,1744-west-jesse-james-road,G135262,"1744 West Jesse James Road, Excelsior Springs, MO 64024",64024
+https://locations.tacobell.com/mo/rogersville/174-johnstown-drive.html,mo,rogersville,174-johnstown-drive,J568001,"174 Johnstown Drive, Rogersville, MO 65742",65742
+https://locations.tacobell.com/ms/oxford/1726-university-ave.html,ms,oxford,1726-university-ave,003564,"1726 University Ave, Oxford, MS 38655",38655
+https://locations.tacobell.com/ms/greenville/1716-dr-martin-luther-king-jr-blvd.html,ms,greenville,1716-dr-martin-luther-king-jr-blvd,029603,"1716 Dr Martin Luther King Jr Blvd, Greenville, MS 38701",38701
+https://locations.tacobell.com/mo/neosho/1710-industrial-drive.html,mo,neosho,1710-industrial-drive,018891,"1710 Industrial Drive, Neosho, MO 64850",64850
+https://locations.tacobell.com/mo/chesterfield/17090-chesterfield-airport-rd-.html,mo,chesterfield,17090-chesterfield-airport-rd-,041380,"17090 Chesterfield Airport Rd., Chesterfield, MO 63005",17090
+https://locations.tacobell.com/mo/webb-city/1708-s-madison-st.html,mo,webb-city,1708-s-madison-st,020195,"1708 S Madison St, Webb City, MO 64870",64870
+https://locations.tacobell.com/mo/lees-summit/1700-se-blue-parkway.html,mo,lees-summit,1700-se-blue-parkway,034417,"1700 SE Blue Parkway, Lees Summit, MO 64063",64063
+https://locations.tacobell.com/mo/moberly/1700-n-morley.html,mo,moberly,1700-n-morley,003863,"1700 N Morley, Moberly, MO 65270",65270
+https://locations.tacobell.com/mo/clinton/1700-east-ohio-st.html,mo,clinton,1700-east-ohio-st,003757,"1700 East Ohio St, Clinton, MO 64735",64735
+https://locations.tacobell.com/mo/independence/16903-east-24-hwy.html,mo,independence,16903-east-24-hwy,035238,"16903 East 24 Hwy, Independence, MO 64056",16903
+https://locations.tacobell.com/ms/grenada/1651-sunset-drive.html,ms,grenada,1651-sunset-drive,032331,"1651 Sunset Drive, Grenada, MS 38901",38901
+https://locations.tacobell.com/mo/pacific/1630-west-osage-street.html,mo,pacific,1630-west-osage-street,029642,"1630 West Osage Street, Pacific, MO 63069",63069
+https://locations.tacobell.com/mo/saint-peters/1630-jungermann-rd-.html,mo,saint-peters,1630-jungermann-rd-,029653,"1630 Jungermann Rd., Saint Peters, MO 63304",63304
+https://locations.tacobell.com/mo/pevely/1621-highway-z.html,mo,pevely,1621-highway-z,029685,"1621 Highway Z, Pevely, MO 63070",63070
+https://locations.tacobell.com/mt/great-falls/1601-3rd-street-nw.html,mt,great-falls,1601-3rd-street-nw,018930,"1601 3rd Street NW, Great Falls, MT 59404",59404
+https://locations.tacobell.com/mo/saint-peters/159-mid-rivers-mall-rd.html,mo,saint-peters,159-mid-rivers-mall-rd,029661,"159 Mid Rivers Mall Rd, Saint Peters, MO 63376",63376
+https://locations.tacobell.com/ms/magee/1558-hwy-49.html,ms,magee,1558-hwy-49,032335,"1558 Hwy 49, Magee, MS 39111",39111
+https://locations.tacobell.com/ms/yazoo-city/1554-jerry-clower-blvd.html,ms,yazoo-city,1554-jerry-clower-blvd,036787,"1554 Jerry Clower Blvd, Yazoo City, MS 39194",39194
+https://locations.tacobell.com/mo/ballwin/15225-manchester-rd.html,mo,ballwin,15225-manchester-rd,029656,"15225 Manchester Rd, Ballwin, MO 63011",15225
+https://locations.tacobell.com/ms/petal/15-brinker-dr-.html,ms,petal,15-brinker-dr-,026715,"15 Brinker Dr., Petal, MS 39465",39465
+https://locations.tacobell.com/mo/florissant/1491-dunn-road.html,mo,florissant,1491-dunn-road,029664,"1491 Dunn Road, Florissant, MO 63033",63033
+https://locations.tacobell.com/mo/columbia/1421-cinnamon-hill-lane.html,mo,columbia,1421-cinnamon-hill-lane,029943,"1421 Cinnamon Hill Lane, Columbia, MO 65201",65201
+https://locations.tacobell.com/ms/greenwood/1412-w-park-ave.html,ms,greenwood,1412-w-park-ave,039143,"1412 W Park Ave, Greenwood, MS 38930",38930
+https://locations.tacobell.com/mo/dexter/1403-business-hwy-60.html,mo,dexter,1403-business-hwy-60,028489,"1403 Business Hwy 60, Dexter, MO 63841",63841
+https://locations.tacobell.com/mo/marshfield/1390-spur-drive.html,mo,marshfield,1390-spur-drive,017577,"1390 Spur Drive Marshfield Center #25, Marshfield, MO 65706",65706
+https://locations.tacobell.com/mo/ballwin/13775-manchester-rd.html,mo,ballwin,13775-manchester-rd,029666,"13775 Manchester Rd, Ballwin, MO 63011",13775
+https://locations.tacobell.com/mo/springfield/1348-n-glenstone.html,mo,springfield,1348-n-glenstone,001669,"1348 N Glenstone, Springfield, MO 65802",65802
+https://locations.tacobell.com/mo/west-plains/1345-southern-hills-drive.html,mo,west-plains,1345-southern-hills-drive,026913,"1345 Southern Hills Drive, West Plains, MO 65775",65775
+https://locations.tacobell.com/mo/springfield/1335-w-kearney-st.html,mo,springfield,1335-w-kearney-st,002278,"1335 W Kearney St, Springfield, MO 65803",65803
+https://locations.tacobell.com/mo/saint-louis/1324-hampton-avenue.html,mo,saint-louis,1324-hampton-avenue,029626,"1324 Hampton Avenue, Saint Louis, MO 63139",63139
+https://locations.tacobell.com/ms/laurel/132-south-16th-avenue.html,ms,laurel,132-south-16th-avenue,015801,"132 South 16th Avenue, Laurel, MS 39440",39440
+https://locations.tacobell.com/mo/kansas-city/1313-west-103rd-street.html,mo,kansas-city,1313-west-103rd-street,034387,"1313 West 103rd Street, Kansas City, MO 64114",64114
+https://locations.tacobell.com/mo/saint-louis/13123-olive-blvd.html,mo,saint-louis,13123-olive-blvd,029668,"13123 Olive Blvd, Saint Louis, MO 63141",13123
+https://locations.tacobell.com/mo/kansas-city/13111-state-line-road.html,mo,kansas-city,13111-state-line-road,034391,"13111 State Line Road, Kansas City, MO 64145",13111
+https://locations.tacobell.com/mo/kansas-city/1310-emmanuel-cleaver-ii-blvd-.html,mo,kansas-city,1310-emmanuel-cleaver-ii-blvd-,034384,"1310 Emmanuel Cleaver II Blvd., Kansas City, MO 64110",64110
+https://locations.tacobell.com/mo/macon/1304-north-missouri-street.html,mo,macon,1304-north-missouri-street,020519,"1304 North Missouri Street, Macon, MO 63552",63552
+https://locations.tacobell.com/mo/perryville/1303-s-perryville-blvd.html,mo,perryville,1303-s-perryville-blvd,028491,"1303 S Perryville Blvd, Perryville, MO 63775",63775
+https://locations.tacobell.com/mo/independence/1300-a-s--noland-rd.html,mo,independence,1300-a-s--noland-rd,034409,"1300-A S. Noland Rd, Independence, MO 64055",64055
+https://locations.tacobell.com/mo/grandview/12918-s-us-highway-71.html,mo,grandview,12918-s-us-highway-71,035235,"12918 S US Highway 71, Grandview, MO 64030",12918
+https://locations.tacobell.com/mo/de-soto/12866-highway-21.html,mo,de-soto,12866-highway-21,031542,"12866 Highway 21, De Soto, MO 63020",12866
+https://locations.tacobell.com/mo/saint-louis/12850-tesson-ferry-road.html,mo,saint-louis,12850-tesson-ferry-road,029648,"12850 Tesson Ferry Road, Saint Louis, MO 63128",12850
+https://locations.tacobell.com/mo/bridgeton/12420-st-charles-rock-rd.html,mo,bridgeton,12420-st-charles-rock-rd,028488,"12420 St Charles Rock Rd, Bridgeton, MO 63044",12420
+https://locations.tacobell.com/mo/blue-springs/1236-nw-woods-chapel-road.html,mo,blue-springs,1236-nw-woods-chapel-road,G135014,"1236 NW Woods Chapel Road, Blue Springs, MO 64015",64015
+https://locations.tacobell.com/mo/kansas-city/123-e-linwood.html,mo,kansas-city,123-e-linwood,034379,"123 E Linwood, Kansas City, MO 64111",64111
+https://locations.tacobell.com/mo/kirksville/1217-s-baltimore.html,mo,kirksville,1217-s-baltimore,005032,"1217 S Baltimore, Kirksville, MO 63501",63501
+https://locations.tacobell.com/mo/houston/1213-sam-houston-blvd-.html,mo,houston,1213-sam-houston-blvd-,036281,"1213 Sam Houston Blvd., Houston, MO 65483",65483
+https://locations.tacobell.com/ms/mccomb/1209-delaware-avenue.html,ms,mccomb,1209-delaware-avenue,009455,"1209 Delaware Avenue, McComb, MS 39648",39648
+https://locations.tacobell.com/mo/marshall/1201-w-college-st.html,mo,marshall,1201-w-college-st,030184,"1201 W College St, Marshall, MO 65340",65340
+https://locations.tacobell.com/ms/jackson/1200-high-street.html,ms,jackson,1200-high-street,032312,"1200 High Street, Jackson, MS 39202",39202
+https://locations.tacobell.com/mo/maryland-heights/11952-dorsett-rd.html,mo,maryland-heights,11952-dorsett-rd,029635,"11952 Dorsett Rd, Maryland Heights, MO 63043",11952
+https://locations.tacobell.com/mt/laurel/119-se-4th-street.html,mt,laurel,119-se-4th-street,038934,"119 SE 4th Street, Laurel, MT 59044",59044
+https://locations.tacobell.com/ms/richland/1170-highway-49-south.html,ms,richland,1170-highway-49-south,032321,"1170 Highway 49 South, Richland, MS 39218",39218
+https://locations.tacobell.com/mo/sikeston/1165-s--main.html,mo,sikeston,1165-s--main,028499,"1165 S. Main, Sikeston, MO 63801",63801
+https://locations.tacobell.com/ms/ridgeland/1146-e-county-line-rd.html,ms,ridgeland,1146-e-county-line-rd,032313,"1146 E County Line Rd, Ridgeland, MS 39157",39157
+https://locations.tacobell.com/ms/gulfport/11423-highway-49-north.html,ms,gulfport,11423-highway-49-north,034628,"11423 Highway 49 North, Gulfport, MS 39503",11423
+https://locations.tacobell.com/mo/wentzville/1139-w--pearce-blvd-.html,mo,wentzville,1139-w--pearce-blvd-,029644,"1139 W. Pearce Blvd., Wentzville, MO 63385",63385
+https://locations.tacobell.com/ms/brandon/1131-west-government-street.html,ms,brandon,1131-west-government-street,032322,"1131 West Government Street, Brandon, MS 39042",39042
+https://locations.tacobell.com/ms/lucedale/11282-old-63-south.html,ms,lucedale,11282-old-63-south,032399,"11282 Old 63 South, Lucedale, MS 39452",11282
+https://locations.tacobell.com/mo/maryville/1117-s-main-st.html,mo,maryville,1117-s-main-st,026082,"1117 S Main St, Maryville, MO 64468",64468
+https://locations.tacobell.com/ms/southaven/1117-main-st.html,ms,southaven,1117-main-st,032332,"1117 Main St, Southaven, MS 38671",38671
+https://locations.tacobell.com/mo/rolla/1109-n-bishop-avenue.html,mo,rolla,1109-n-bishop-avenue,027912,"1109 N Bishop Avenue, Rolla, MO 65401",65401
+https://locations.tacobell.com/mo/independence/11020-e-23rd-st-s.html,mo,independence,11020-e-23rd-st-s,034406,"11020 E 23rd St S, Independence, MO 64052",11020
+https://locations.tacobell.com/mo/columbia/1100-smiley-lane.html,mo,columbia,1100-smiley-lane,022668,"1100 Smiley Lane, Columbia, MO 65202",65202
+https://locations.tacobell.com/mo/poplar-bluff/108-s--westwood-blvd-.html,mo,poplar-bluff,108-s--westwood-blvd-,028500,"108 S. Westwood Blvd., Poplar Bluff, MO 63901",63901
+https://locations.tacobell.com/mo/branson-west/10738-hwy-76-west.html,mo,branson-west,10738-hwy-76-west,016169,"10738 Hwy 76 West, Branson West, MO 65737",10738
+https://locations.tacobell.com/ms/diberville/10569-diberville-road.html,ms,diberville,10569-diberville-road,034627,"10569 D'Iberville Road, D'Iberville, MS 39540",10569
+https://locations.tacobell.com/mt/polson/105-ridgewater-dr-.html,mt,polson,105-ridgewater-dr-,031624,"105 Ridgewater Dr., Polson, MT 59860",59860
+https://locations.tacobell.com/mo/olivette/10426-page-ave.html,mo,olivette,10426-page-ave,028479,"10426 Page Ave, Olivette, MO 63132",10426
+https://locations.tacobell.com/mo/north-kansas-city/1040-armour-rd.html,mo,north-kansas-city,1040-armour-rd,034407,"1040 Armour Rd, North Kansas City, MO 64116",64116
+https://locations.tacobell.com/ms/flowood/103-plaza-dr-ext.html,ms,flowood,103-plaza-dr-ext,032334,"103 Plaza Dr Ext, Flowood, MS 39232",39232
+https://locations.tacobell.com/mo/hollister/103-gage-dr-.html,mo,hollister,103-gage-dr-,030546,"103 Gage Dr., Hollister, MO 65672",65672
+https://locations.tacobell.com/mo/chillicothe/1029-s-washington-st.html,mo,chillicothe,1029-s-washington-st,027538,"1029 S Washington St, Chillicothe, MO 64601",64601
+https://locations.tacobell.com/mo/joplin/1029-s-range-line-rd.html,mo,joplin,1029-s-range-line-rd,001128,"1029 S Range Line Rd, Joplin, MO 64801",64801
+https://locations.tacobell.com/mt/billings/1026-grand-ave.html,mt,billings,1026-grand-ave,038930,"1026 Grand Ave, Billings, MT 59102",59102
+https://locations.tacobell.com/mo/hillsboro/10255-business-hwy-21.html,mo,hillsboro,10255-business-hwy-21,028502,"10255 Business Hwy 21, Hillsboro, MO 63050",10255
+https://locations.tacobell.com/ms/corinth/1021-s-cass-st.html,ms,corinth,1021-s-cass-st,039631,"1021 S Cass St, Corinth, MS 38834",38834
+https://locations.tacobell.com/mo/ofallon/102-fallon-parkway.html,mo,ofallon,102-fallon-parkway,029671,"102 Fallon Parkway, O'Fallon, MO 63368",63368
+https://locations.tacobell.com/ms/indianola/1014-highway-82.html,ms,indianola,1014-highway-82,C412001,"1014 Highway 82, Indianola, MS 38751",38751
+https://locations.tacobell.com/mo/fulton/1009-n-bluff.html,mo,fulton,1009-n-bluff,030185,"1009 N Bluff, Fulton, MO 65251",65251
+https://locations.tacobell.com/mt/hamilton/1007-n-1st-st.html,mt,hamilton,1007-n-1st-st,019428,"1007 N 1st St, Hamilton, MT 59840",59840
+https://locations.tacobell.com/mt/billings/1006-shilo-crossings-blvd.html,mt,billings,1006-shilo-crossings-blvd,038933,"1006 Shilo Crossings Blvd, Billings, MT 59102",59102
+https://locations.tacobell.com/mo/saint-louis/10035-manchester-road.html,mo,saint-louis,10035-manchester-road,029643,"10035 Manchester Road, Saint Louis, MO 63122",10035
+https://locations.tacobell.com/ms/booneville/1000-north-second-street.html,ms,booneville,1000-north-second-street,039635,"1000 North Second Street, Booneville, MS 38829",38829
+https://locations.tacobell.com/mo/bowling-green/100-sharry-st-.html,mo,bowling-green,100-sharry-st-,030712,"100 Sharry St., Bowling Green, MO 63334",63334
+https://locations.tacobell.com/ms/collins/3515-hwy-49.html,ms,collins,3515-hwy-49,040332,"3515 Hwy 49, Collins, MS 39428",39428
+https://locations.tacobell.com/mo/springfield/520-north-eastgate-avenue.html,mo,springfield,520-north-eastgate-avenue,040493,"520 North Eastgate Avenue, Springfield, MO 65802",65802
+https://locations.tacobell.com/mo/ashland/15015-eastside-drive.html,mo,ashland,15015-eastside-drive,040919,"15015 Eastside Drive, Ashland, MO 65010",15015
+https://locations.tacobell.com/ms/amory/300-cappell-st-.html,ms,amory,300-cappell-st-,040632,"300 Cappell St., Amory, MS 38821",38821
+https://locations.tacobell.com/mt/butte/1-n-montana-street.html,mt,butte,1-n-montana-street,039534,"1 N Montana Street, Butte, MT 59701",59701
+https://locations.tacobell.com/mt/great-falls/1100-57th-st--south.html,mt,great-falls,1100-57th-st--south,040472,"1100 57th St. South, Great Falls, MT 59405",59405
+https://locations.tacobell.com/mo/valley-park/2115-smizer-station-road.html,mo,valley-park,2115-smizer-station-road,029641,"2115 Smizer Station Road, Valley Park, MO 63088",63088
+https://locations.tacobell.com/mo/mountain-grove/1818-n-main.html,mo,mountain-grove,1818-n-main,039696,"1818 N Main, Mountain Grove, MO 65711",65711
+https://locations.tacobell.com/mo/green-park/6080-s--lindbergh-blvd-.html,mo,green-park,6080-s--lindbergh-blvd-,033469,"6080 S. Lindbergh Blvd., Green Park, MO 63123",63123
+https://locations.tacobell.com/mt/bozeman/2505-catamount-street.html,mt,bozeman,2505-catamount-street,031922,"2505 Catamount Street, Bozeman, MT 59718",59718
+https://locations.tacobell.com/ms/diamondhead/4405-e--aloha-dr-.html,ms,diamondhead,4405-e--aloha-dr-,038834,"4405 E. Aloha Dr., Diamondhead, MS 39525",39525
+https://locations.tacobell.com/ms/olive-branch/7147-hacks-cross-road.html,ms,olive-branch,7147-hacks-cross-road,034079,"7147 Hacks Cross Road, Olive Branch, MS 38654",38654
+https://locations.tacobell.com/ms/canton/118-soldier-colony-rd.html,ms,canton,118-soldier-colony-rd,034078,"118 Soldier Colony Rd, Canton, MS 39046",39046

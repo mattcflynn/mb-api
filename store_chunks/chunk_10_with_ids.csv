@@ -1,0 +1,472 @@
+url,state,city,address_slug,store_id,full_address,zip_code
+https://locations.tacobell.com/mi/pontiac/458-e--walton-blvd.html,mi,pontiac,458-e--walton-blvd,040303,"458 E. Walton Blvd, Pontiac, MI 48340",48340
+https://locations.tacobell.com/mn/andover/14254-inca-street-nw.html,mn,andover,14254-inca-street-nw,040776,"14254 Inca Street NW, Andover, MN 55303",14254
+https://locations.tacobell.com/mn/duluth/2031-london-rd.html,mn,duluth,2031-london-rd,040584,"2031 London Rd, Duluth, MN 55812",55812
+https://locations.tacobell.com/mi/grandville/4625-wilson-avenue.html,mi,grandville,4625-wilson-avenue,041324,"4625 Wilson Avenue Suite 200, Grandville, MI 49418",49418
+https://locations.tacobell.com/mi/grosse-pointe/18550-east-warren-avenue.html,mi,grosse-pointe,18550-east-warren-avenue,038871,"18550 East Warren Avenue, Grosse Pointe, MI 48236",18550
+https://locations.tacobell.com/mi/oxford/870-n-lapeer-rd-.html,mi,oxford,870-n-lapeer-rd-,040437,"870 N Lapeer Rd., Oxford, MI 48371",48371
+https://locations.tacobell.com/mn/white-bear-lake/4600-centerville-road.html,mn,white-bear-lake,4600-centerville-road,041408,"4600 Centerville Road, White Bear Lake, MN 55110",55110
+https://locations.tacobell.com/mi/grand-blanc/7500-grand-pkwy.html,mi,grand-blanc,7500-grand-pkwy,041640,"7500 Grand Pkwy, Grand Blanc, MI 48507",48507
+https://locations.tacobell.com/mn/roseville/1741-country-rd-c.html,mn,roseville,1741-country-rd-c,041269,"1741 Country Rd C, Roseville, MN 55113",55113
+https://locations.tacobell.com/me/newport/4-lunt-rd.html,me,newport,4-lunt-rd,041070,"4 Lunt Rd, Newport, ME 04953",04953
+https://locations.tacobell.com/mi/saginaw/2945-bay-rd-.html,mi,saginaw,2945-bay-rd-,041112,"2945 Bay Rd., Saginaw, MI 48603",48603
+https://locations.tacobell.com/mi/macomb/17699-23-mile-road.html,mi,macomb,17699-23-mile-road,039704,"17699 23 Mile Road, Macomb, MI 48042",17699
+https://locations.tacobell.com/mi/otisville/229-s-state-st.html,mi,otisville,229-s-state-st,041637,"229 S State St, Otisville, MI 48463",48463
+https://locations.tacobell.com/mi/monroe/1925-north-telegraph-road.html,mi,monroe,1925-north-telegraph-road,041027,"1925 North Telegraph Road, Monroe, MI 48162",48162
+https://locations.tacobell.com/me/bangor/740-hogan-rd.html,me,bangor,740-hogan-rd,040379,"740 Hogan Rd, Bangor, ME 04401",04401
+https://locations.tacobell.com/mi/kalkaska/510-north-cedar-st-.html,mi,kalkaska,510-north-cedar-st-,041411,"510 North Cedar St., Kalkaska, MI 49646",49646
+https://locations.tacobell.com/mi/brooklyn/413-s-main-st.html,mi,brooklyn,413-s-main-st,041114,"413 S Main St, Brooklyn, MI 49230",49230
+https://locations.tacobell.com/mi/sebewaing/601-unionville-rd.html,mi,sebewaing,601-unionville-rd,041687,"601 Unionville Rd, Sebewaing, MI 48759",48759
+https://locations.tacobell.com/mi/metamora/4106-s-lapeer-rd.html,mi,metamora,4106-s-lapeer-rd,041139,"4106 S Lapeer Rd, Metamora, MI 48455",48455
+https://locations.tacobell.com/mi/taylor/27330-eureka-road.html,mi,taylor,27330-eureka-road,040761,"27330 Eureka Road, Taylor, MI 48180",27330
+https://locations.tacobell.com/mi/wyoming/5560-clyde-park-ave-sw.html,mi,wyoming,5560-clyde-park-ave-sw,041267,"5560 Clyde Park Ave SW, Wyoming, MI 49509",49509
+https://locations.tacobell.com/mi/buchanan/708-east-front-st-.html,mi,buchanan,708-east-front-st-,041468,"708 East Front St., Buchanan, MI 49107",49107
+https://locations.tacobell.com/mi/croswell/5311-e--peck-rd.html,mi,croswell,5311-e--peck-rd,040613,"5311 E. Peck Rd, Croswell, MI 48422",48422
+https://locations.tacobell.com/mi/cass-city/6743-e-main-st-.html,mi,cass-city,6743-e-main-st-,041686,"6743 E Main St., Cass City, MI 48726",48726
+https://locations.tacobell.com/mi/trenton/4480-fort-street.html,mi,trenton,4480-fort-street,040463,"4480 Fort Street, Trenton, MI 48183",48183
+https://locations.tacobell.com/mi/bay-city/2852-east-wilder-rd.html,mi,bay-city,2852-east-wilder-rd,041173,"2852 East Wilder Rd, Bay City, MI 48706",48706
+https://locations.tacobell.com/mi/shelby-township/56331-van-dyke-avenue.html,mi,shelby-township,56331-van-dyke-avenue,040760,"56331 Van Dyke Avenue, Shelby Township, MI 48316",56331
+https://locations.tacobell.com/mi/harrison/714-n-first-st.html,mi,harrison,714-n-first-st,042043,"714 N First St, Harrison, MI 48625",48625
+https://locations.tacobell.com/mn/lakeville/20681-keokuk-ave.html,mn,lakeville,20681-keokuk-ave,040891,"20681 Keokuk Ave, Lakeville, MN 55044",20681
+https://locations.tacobell.com/mi/battle-creek/2169-w-columbia-ave.html,mi,battle-creek,2169-w-columbia-ave,034828,"2169 W Columbia Ave, Battle Creek, MI 49015",49015
+https://locations.tacobell.com/mi/roseville/20779-east-13-mile-road.html,mi,roseville,20779-east-13-mile-road,033376,"20779 East 13 Mile Road, Roseville, MI 48066",20779
+https://locations.tacobell.com/mi/ann-arbor/1655-plymouth-rd.html,mi,ann-arbor,1655-plymouth-rd,040315,"1655 Plymouth Rd, Ann Arbor, MI 48105",48105
+https://locations.tacobell.com/mn/north-saint-paul/2371-mcknight-rd-n.html,mn,north-saint-paul,2371-mcknight-rd-n,041989,"2371 McKnight Rd N, North Saint Paul, MN 55109",55109
+https://locations.tacobell.com/mi/spring-arbor/8030-spring-arbor-rd.html,mi,spring-arbor,8030-spring-arbor-rd,041174,"8030 Spring Arbor Rd, Spring Arbor, MI 49283",49283
+https://locations.tacobell.com/mi/hemlock/185-e-saginaw-st.html,mi,hemlock,185-e-saginaw-st,042044,"185 E Saginaw St, Hemlock, MI 48626",48626
+https://locations.tacobell.com/mi/walled-lake/800-n-pontiac-trail.html,mi,walled-lake,800-n-pontiac-trail,041745,"800 N Pontiac Trail, Walled Lake, MI 48390",48390
+https://locations.tacobell.com/mn/virginia/1475-12th-avenue.html,mn,virginia,1475-12th-avenue,041915,"1475 12th Avenue, Virginia, MN 55792",55792
+https://locations.tacobell.com/mi/sanford/2738-n-meridian-rd.html,mi,sanford,2738-n-meridian-rd,042230,"2738 N Meridian Rd, Sanford, MI 48657",48657
+https://locations.tacobell.com/mi/cheboygan/215-mill-st-.html,mi,cheboygan,215-mill-st-,041937,"215 Mill St., Cheboygan, MI 49721",49721
+https://locations.tacobell.com/mi/capac/3283-capac-rd-.html,mi,capac,3283-capac-rd-,040997,"3283 Capac Rd., Capac, MI 48014",48014
+https://locations.tacobell.com/mi/new-hudson/57275-lyon-center-dr.html,mi,new-hudson,57275-lyon-center-dr,034814,"57275 Lyon Center Dr, New Hudson, MI 48165",57275
+https://locations.tacobell.com/mi/sandusky/550-west-sanilac-rd.html,mi,sandusky,550-west-sanilac-rd,034276,"550 West Sanilac Rd, Sandusky, MI 48471",48471
+https://locations.tacobell.com/mn/blaine/11665-ulysses-lane.html,mn,blaine,11665-ulysses-lane,034948,"11665 Ulysses Lane, Blaine, MN 55434",11665
+https://locations.tacobell.com/mi/clinton-township/15640-hall-rd-.html,mi,clinton-township,15640-hall-rd-,034817,"15640 Hall Rd., Clinton Township, MI 48038",15640
+https://locations.tacobell.com/mi/frankenmuth/208-n-main-street.html,mi,frankenmuth,208-n-main-street,042637,"208 N Main Street, Frankenmuth, MI 48734",48734
+https://locations.tacobell.com/mi/southgate/19000-northline-road.html,mi,southgate,19000-northline-road,033808,"19000 Northline Road, Southgate, MI 48195",19000
+https://locations.tacobell.com/mi/white-lake/8100-cooley-lake-road.html,mi,white-lake,8100-cooley-lake-road,034021,"8100 Cooley Lake Road, White Lake, MI 48386",48386
+https://locations.tacobell.com/mi/westland/37500-ford-road.html,mi,westland,37500-ford-road,034418,"37500 Ford Road, Westland, MI 48185",37500
+https://locations.tacobell.com/mn/crystal/5547-west-broadway.html,mn,crystal,5547-west-broadway,035897,"5547 West Broadway, Crystal, MN 55428",55428
+https://locations.tacobell.com/mi/tecumseh/1006-w--chicago.html,mi,tecumseh,1006-w--chicago,036293,"1006 W. Chicago, Tecumseh, MI 49286",49286
+https://locations.tacobell.com/me/waterville/345-main-street.html,me,waterville,345-main-street,036230,"345 Main Street, Waterville, ME 04901",04901
+https://locations.tacobell.com/me/biddeford/460-alfred-street.html,me,biddeford,460-alfred-street,036028,"460 Alfred Street, Biddeford, ME 04005",04005
+https://locations.tacobell.com/mn/rochester/2230-3rd--ave-se.html,mn,rochester,2230-3rd--ave-se,036175,"2230 3rd. Ave SE, Rochester, MN 55904",55904
+https://locations.tacobell.com/me/augusta/230-western-avenue.html,me,augusta,230-western-avenue,036030,"230 Western Avenue, Augusta, ME 04330",04330
+https://locations.tacobell.com/me/portland/1363-washington.html,me,portland,1363-washington,036029,"1363 Washington, Portland, ME 04103",04103
+https://locations.tacobell.com/mi/durand/8831-e-lansing-rd.html,mi,durand,8831-e-lansing-rd,036386,"8831 E Lansing Rd, Durand, MI 48429",48429
+https://locations.tacobell.com/mn/oakdale/7049-10th-street-north.html,mn,oakdale,7049-10th-street-north,036305,"7049 10th Street North, Oakdale, MN 55128",55128
+https://locations.tacobell.com/mn/duluth/201-north-44th-ave--w.html,mn,duluth,201-north-44th-ave--w,035845,"201 North 44th Ave. W, Duluth, MN 55807",55807
+https://locations.tacobell.com/mi/auburn-hills/4249-interpark-dr-.html,mi,auburn-hills,4249-interpark-dr-,036234,"4249 Interpark Dr., Auburn Hills, MI 48326",48326
+https://locations.tacobell.com/mn/fairmont/2235-state-st-n.html,mn,fairmont,2235-state-st-n,036419,"2235 State St N, Fairmont, MN 56031",56031
+https://locations.tacobell.com/mi/caledonia/6445-cherry-meadow-drive-se.html,mi,caledonia,6445-cherry-meadow-drive-se,036418,"6445 Cherry Meadow Drive SE, Caledonia, MI 49316",49316
+https://locations.tacobell.com/mi/warren/13495-east-10-mile-road.html,mi,warren,13495-east-10-mile-road,035098,"13495 East 10 Mile Road, Warren, MI 48089",13495
+https://locations.tacobell.com/mi/davison/1232-south-irish-rd.html,mi,davison,1232-south-irish-rd,034923,"1232 South Irish Rd, Davison, MI 48423",48423
+https://locations.tacobell.com/mi/midland/7340-eastman-ave.html,mi,midland,7340-eastman-ave,036013,"7340 Eastman Ave, Midland, MI 48642",48642
+https://locations.tacobell.com/mi/plymouth/47673-five-mile-rd.html,mi,plymouth,47673-five-mile-rd,035629,"47673 Five Mile Rd, Plymouth, MI 48170",47673
+https://locations.tacobell.com/mn/shakopee/1530-vierling-drive-e.html,mn,shakopee,1530-vierling-drive-e,036421,"1530 Vierling Drive E, Shakopee, MN 55379",55379
+https://locations.tacobell.com/mi/shelby-township/50835-van-dyke-avenue.html,mi,shelby-township,50835-van-dyke-avenue,035304,"50835 Van Dyke Avenue, Shelby Township, MI 48317",50835
+https://locations.tacobell.com/mn/waite-park/580-division-street.html,mn,waite-park,580-division-street,036560,"580 Division Street, Waite Park, MN 56387",56387
+https://locations.tacobell.com/me/auburn/458-center-street.html,me,auburn,458-center-street,036373,"458 Center Street, Auburn, ME 04210",04210
+https://locations.tacobell.com/mi/traverse-city/3200-s--airport-road-w-.html,mi,traverse-city,3200-s--airport-road-w-,004818,"3200 S. Airport Road W. Suite 608, Traverse City, MI 49684",49684
+https://locations.tacobell.com/mi/east-lansing/601-e-grand-river-ave.html,mi,east-lansing,601-e-grand-river-ave,023401,"601 E Grand River Ave, East Lansing, MI 48823",48823
+https://locations.tacobell.com/mi/monroe/1200-nadeau-road.html,mi,monroe,1200-nadeau-road,028298,"1200 Nadeau Road, Monroe, MI 48162",48162
+https://locations.tacobell.com/mn/albert-lea/820-happy-trails-lane.html,mn,albert-lea,820-happy-trails-lane,036276,"820 Happy Trails Lane, Albert Lea, MN 56007",56007
+https://locations.tacobell.com/mi/sawyer/6100-sawyer-road.html,mi,sawyer,6100-sawyer-road,020481,"6100 Sawyer Road, Sawyer, MI 49125",49125
+https://locations.tacobell.com/mi/hillsdale/3011-w-carleton-road.html,mi,hillsdale,3011-w-carleton-road,037166,"3011 W Carleton Road, Hillsdale, MI 49242",49242
+https://locations.tacobell.com/mn/maple-grove/9816-hospital-drive-n-.html,mn,maple-grove,9816-hospital-drive-n-,036439,"9816 Hospital Drive N., Maple Grove, MN 55369",55369
+https://locations.tacobell.com/mi/reed-city/4861-s--220th-ave-.html,mi,reed-city,4861-s--220th-ave-,042648,"4861 S. 220th Ave., Reed City, MI 49677",49677
+https://locations.tacobell.com/mi/portland/1433-e--grand-river.html,mi,portland,1433-e--grand-river,037168,"1433 E. Grand River, Portland, MI 48875",48875
+https://locations.tacobell.com/mi/evart/202-e--7th-street.html,mi,evart,202-e--7th-street,042412,"202 E. 7Th Street, Evart, MI 49631",49631
+https://locations.tacobell.com/mi/stanton/340-s--state-st-.html,mi,stanton,340-s--state-st-,042604,"340 S. State St., Stanton, MI 48888",48888
+https://locations.tacobell.com/mi/stevensville/4604-red-arrow-hwy.html,mi,stevensville,4604-red-arrow-hwy,042231,"4604 Red Arrow Hwy, Stevensville, MI 49127",49127
+https://locations.tacobell.com/mi/carson-city/10723-e-carson-city-rd.html,mi,carson-city,10723-e-carson-city-rd,042728,"10723 E Carson City RD, Carson City, MI 48811",10723
+https://locations.tacobell.com/mi/petoskey/2129-us-131.html,mi,petoskey,2129-us-131,042178,"2129 US-131, Petoskey, MI 49770",49770
+https://locations.tacobell.com/mi/hudsonville/4029-32nd-ave.html,mi,hudsonville,4029-32nd-ave,042751,"4029 32nd Ave, Hudsonville, MI 49426",49426
+https://locations.tacobell.com/mi/fraser/34701-utica-road.html,mi,fraser,34701-utica-road,037169,"34701 Utica Road, Fraser, MI 48026",34701
+https://locations.tacobell.com/mi/novi/27288-novi-rd.html,mi,novi,27288-novi-rd,023248,"27288 Novi Rd Ste A, Novi, MI 48377",27288
+https://locations.tacobell.com/mn/mankato/7-centennial-student-union.html,mn,mankato,7-centennial-student-union,023451,"7 Centennial Student Union, Mankato, MN 56001",56001
+https://locations.tacobell.com/mi/detroit/5221-gullen-mall.html,mi,detroit,5221-gullen-mall,042801,"5221 Gullen Mall, Detroit, MI 48202",48202
+https://locations.tacobell.com/mi/auburn-hills/great-lakes-crossing-mall.html,mi,auburn-hills,great-lakes-crossing-mall,023198,"Great Lakes Crossing Mall Space #10, Auburn Hills, MI 48326",48326
+https://locations.tacobell.com/mi/dearborn/18900-michigan-ave.html,mi,dearborn,18900-michigan-ave,023249,"18900 Michigan Ave, Dearborn, MI 48126",18900
+https://locations.tacobell.com/mi/montrose/250-e-state-st.html,mi,montrose,250-e-state-st,037213,"250 E State St, Montrose, MI 48457",48457
+https://locations.tacobell.com/mi/ishpeming/848-us-highway-41-w.html,mi,ishpeming,848-us-highway-41-w,038750,"848 US Highway 41 W, Ishpeming, MI 49849",49849
+https://locations.tacobell.com/mn/stewartville/100-schumann-dr-nw.html,mn,stewartville,100-schumann-dr-nw,038999,"100 Schumann Dr NW, Stewartville, MN 55976",55976
+https://locations.tacobell.com/mi/zeeland/8387-westpark-way.html,mi,zeeland,8387-westpark-way,039000,"8387 Westpark Way, Zeeland, MI 49464",49464
+https://locations.tacobell.com/mi/gladwin/1179-e--cedar-ave-.html,mi,gladwin,1179-e--cedar-ave-,042647,"1179 E. Cedar Ave., Gladwin, MI 48624",48624
+https://locations.tacobell.com/mn/minnetonka/12320-wayzata-blvd-.html,mn,minnetonka,12320-wayzata-blvd-,038976,"12320 Wayzata Blvd., Minnetonka, MN 55305",12320
+https://locations.tacobell.com/mi/tawas-city/709-e--lake-st-.html,mi,tawas-city,709-e--lake-st-,038763,"709 E. Lake St., Tawas City, MI 48763",48763
+https://locations.tacobell.com/mi/vassar/936-w-huron-rd.html,mi,vassar,936-w-huron-rd,038843,"936 W Huron Rd, Vassar, MI 48768",48768
+https://locations.tacobell.com/mn/waconia/640-marketplace-drive.html,mn,waconia,640-marketplace-drive,039579,"640 Marketplace Drive, Waconia, MN 55387",55387
+https://locations.tacobell.com/mi/brownstown/21121-gibraltar-road.html,mi,brownstown,21121-gibraltar-road,035306,"21121 Gibraltar Road, Brownstown, MI 48183",21121
+https://locations.tacobell.com/mi/chesaning/12958-w--brady.html,mi,chesaning,12958-w--brady,039555,"12958 W. Brady, Chesaning, MI 48616",12958
+https://locations.tacobell.com/mn/eagan/3015-holiday-lane.html,mn,eagan,3015-holiday-lane,039032,"3015 Holiday Lane, Eagan, MN 55121",55121
+https://locations.tacobell.com/mi/lincoln-park/1519-southfield-road.html,mi,lincoln-park,1519-southfield-road,037663,"1519 Southfield Road, Lincoln Park, MI 48146",48146
+https://locations.tacobell.com/mi/flint/2479-hill-rd-.html,mi,flint,2479-hill-rd-,039123,"2479 Hill Rd., Flint, MI 48507",48507
+https://locations.tacobell.com/mi/taylor/10060-telegraph-rd-.html,mi,taylor,10060-telegraph-rd-,001510,"10060 Telegraph Rd., Taylor, MI 48180",10060
+https://locations.tacobell.com/mi/mount-clemens/103-n-groesbeck-hwy.html,mi,mount-clemens,103-n-groesbeck-hwy,030367,"103 N Groesbeck Hwy, Mount Clemens, MI 48043",48043
+https://locations.tacobell.com/mi/howell/1031-south-michigan-ave-.html,mi,howell,1031-south-michigan-ave-,037842,"1031 South Michigan Ave., Howell, MI 48843",48843
+https://locations.tacobell.com/mi/ferndale/1045-w-9-mile-road.html,mi,ferndale,1045-w-9-mile-road,002260,"1045 W 9 Mile Road, Ferndale, MI 48220",48220
+https://locations.tacobell.com/mi/taylor/10484-pelham-rd-.html,mi,taylor,10484-pelham-rd-,001971,"10484 Pelham Rd., Taylor, MI 48180",10484
+https://locations.tacobell.com/mi/hartland/10558-hartland-square-dr-.html,mi,hartland,10558-hartland-square-dr-,029978,"10558 Hartland Square Dr., Hartland, MI 48353",10558
+https://locations.tacobell.com/mi/belleville/10640-belleville-rd-.html,mi,belleville,10640-belleville-rd-,023745,"10640 Belleville Rd., Belleville, MI 48111",10640
+https://locations.tacobell.com/mi/ypsilanti/1085-e-michigan-ave.html,mi,ypsilanti,1085-e-michigan-ave,027886,"1085 E Michigan Ave, Ypsilanti, MI 48198",48198
+https://locations.tacobell.com/mi/livonia/11707-merriman-rd-.html,mi,livonia,11707-merriman-rd-,001571,"11707 Merriman Rd., Livonia, MI 48150",11707
+https://locations.tacobell.com/mi/warren/11799-13-miles-road.html,mi,warren,11799-13-miles-road,024649,"11799 13 Miles Road, Warren, MI 48093",11799
+https://locations.tacobell.com/mi/waterford/119-north-telegraph-road.html,mi,waterford,119-north-telegraph-road,033313,"119 North Telegraph Road, Waterford, MI 48328",48328
+https://locations.tacobell.com/mi/pontiac/1200-s--opdyke-road.html,mi,pontiac,1200-s--opdyke-road,038975,"1200 S. Opdyke Road, Pontiac, MI 48341",48341
+https://locations.tacobell.com/mi/hazel-park/1221-e--9-mile-rd-.html,mi,hazel-park,1221-e--9-mile-rd-,033300,"1221 E. 9 Mile Rd., Hazel Park, MI 48030",48030
+https://locations.tacobell.com/mi/southgate/12260-fort-st.html,mi,southgate,12260-fort-st,021292,"12260 Fort St, Southgate, MI 48195",12260
+https://locations.tacobell.com/mi/pinckney/1278-east-mi-36.html,mi,pinckney,1278-east-mi-36,027374,"1278 East MI-36, Pinckney, MI 48169",48169
+https://locations.tacobell.com/mi/rochester-hills/1281-walton-blvd-.html,mi,rochester-hills,1281-walton-blvd-,027668,"1281 Walton Blvd., Rochester Hills, MI 48306",48306
+https://locations.tacobell.com/mi/monroe/1300-north-dixie-hwy.html,mi,monroe,1300-north-dixie-hwy,031392,"1300 North Dixie Hwy, Monroe, MI 48162",48162
+https://locations.tacobell.com/mi/clawson/131-s--crooks-rd-.html,mi,clawson,131-s--crooks-rd-,033308,"131 S. Crooks Rd., Clawson, MI 48017",48017
+https://locations.tacobell.com/mi/auburn-hills/1341-n--opdyke-rd-.html,mi,auburn-hills,1341-n--opdyke-rd-,033311,"1341 N. Opdyke Rd., Auburn Hills, MI 48326",48326
+https://locations.tacobell.com/mi/southgate/13865-eureka-rd-.html,mi,southgate,13865-eureka-rd-,005095,"13865 Eureka Rd., Southgate, MI 48195",13865
+https://locations.tacobell.com/mi/utica/13940-23-mile-road.html,mi,utica,13940-23-mile-road,023211,"13940 23 Mile Road, Utica, MI 48315",13940
+https://locations.tacobell.com/mi/detroit/14000-livernois.html,mi,detroit,14000-livernois,004014,"14000 Livernois, Detroit, MI 48238",14000
+https://locations.tacobell.com/mi/clawson/1435-n-main-st.html,mi,clawson,1435-n-main-st,003292,"1435 N Main St, Clawson, MI 48017",48017
+https://locations.tacobell.com/mi/monroe/14495-laplaisance-road.html,mi,monroe,14495-laplaisance-road,020212,"14495 Laplaisance Road, Monroe, MI 48161",14495
+https://locations.tacobell.com/mi/taylor/14839-telegraph-rd.html,mi,taylor,14839-telegraph-rd,002140,"14839 Telegraph Rd, Taylor, MI 48180",14839
+https://locations.tacobell.com/mi/livonia/15055-middle-belt.html,mi,livonia,15055-middle-belt,040656,"15055 Middle Belt, Livonia, MI 48154",15055
+https://locations.tacobell.com/mi/roseville/15220-e-12-mile-rd.html,mi,roseville,15220-e-12-mile-rd,002236,"15220 E 12 Mile Rd, Roseville, MI 48066",15220
+https://locations.tacobell.com/mi/chelsea/1590-s--main-street.html,mi,chelsea,1590-s--main-street,002837,"1590 S. Main Street, Chelsea, MI 48118",48118
+https://locations.tacobell.com/mi/royal-oak/1611-e-11-mile-rd.html,mi,royal-oak,1611-e-11-mile-rd,033299,"1611 E 11 Mile Rd, Royal Oak, MI 48067",48067
+https://locations.tacobell.com/mi/madison-heights/1611-east-12-mile-road.html,mi,madison-heights,1611-east-12-mile-road,033310,"1611 East 12 Mile Road, Madison Heights, MI 48071",48071
+https://locations.tacobell.com/mi/macomb/16248-26-mile-road.html,mi,macomb,16248-26-mile-road,030857,"16248 26 Mile Road, Macomb, MI 48042",16248
+https://locations.tacobell.com/mi/eastpointe/17801-e-9-mile-rd.html,mi,eastpointe,17801-e-9-mile-rd,021299,"17801 E 9 Mile Rd, Eastpointe, MI 48021",17801
+https://locations.tacobell.com/mi/riverview/18718-fort-st.html,mi,riverview,18718-fort-st,003990,"18718 Fort St, Riverview, MI 48192",18718
+https://locations.tacobell.com/mi/macomb/18767-hall-rd-.html,mi,macomb,18767-hall-rd-,028167,"18767 Hall Rd., Macomb, MI 48044",18767
+https://locations.tacobell.com/mi/westland/201-s--merriman-road.html,mi,westland,201-s--merriman-road,001795,"201 S. Merriman Road, Westland, MI 48185",48185
+https://locations.tacobell.com/mi/plymouth/205-ann-arbor-rd.html,mi,plymouth,205-ann-arbor-rd,004986,"205 Ann Arbor Rd, Plymouth, MI 48170",48170
+https://locations.tacobell.com/mi/harper-woods/20726-harper-ave-.html,mi,harper-woods,20726-harper-ave-,002937,"20726 Harper Ave., Harper Woods, MI 48225",20726
+https://locations.tacobell.com/mi/novi/21090-haggerty-rd-.html,mi,novi,21090-haggerty-rd-,003783,"21090 Haggerty Rd., Novi, MI 48375",21090
+https://locations.tacobell.com/mi/oak-park/21350-greenfield-road.html,mi,oak-park,21350-greenfield-road,016415,"21350 Greenfield Road, Oak Park, MI 48237",21350
+https://locations.tacobell.com/mi/ferndale/21900-woodward-avenue.html,mi,ferndale,21900-woodward-avenue,003527,"21900 Woodward Avenue, Ferndale, MI 48220",21900
+https://locations.tacobell.com/mi/sylvan-lake/2210-orchard-lake-rd.html,mi,sylvan-lake,2210-orchard-lake-rd,002029,"2210 Orchard Lake Rd, Sylvan Lake, MI 48320",48320
+https://locations.tacobell.com/mi/south-lyon/22315-pontiac-trail.html,mi,south-lyon,22315-pontiac-trail,026083,"22315 Pontiac Trail, South Lyon, MI 48178",22315
+https://locations.tacobell.com/mi/belleville/2235-rawsonville-road.html,mi,belleville,2235-rawsonville-road,024745,"2235 Rawsonville Road, Belleville, MI 48111",48111
+https://locations.tacobell.com/mi/berkley/2260-colidge-hwy-.html,mi,berkley,2260-colidge-hwy-,026084,"2260 Colidge Hwy., Berkley, MI 48072",48072
+https://locations.tacobell.com/mi/woodhaven/22670-allen-road.html,mi,woodhaven,22670-allen-road,001557,"22670 Allen Road, Woodhaven, MI 48183",22670
+https://locations.tacobell.com/mi/rochester-hills/2290-crooks-road.html,mi,rochester-hills,2290-crooks-road,030700,"2290 Crooks Road, Rochester Hills, MI 48309",48309
+https://locations.tacobell.com/mi/lincoln-park/2306-dix-hwy.html,mi,lincoln-park,2306-dix-hwy,000848,"2306 Dix Hwy, Lincoln Park, MI 48146",48146
+https://locations.tacobell.com/mi/westland/2307-s--wayne-rd-.html,mi,westland,2307-s--wayne-rd-,001469,"2307 S. Wayne Rd., Westland, MI 48186",48186
+https://locations.tacobell.com/mi/ypsilanti/2351-ellsworth-road.html,mi,ypsilanti,2351-ellsworth-road,037841,"2351 Ellsworth Road, Ypsilanti, MI 48197",48197
+https://locations.tacobell.com/mi/saint-clair-shores/23709-harper-avenue.html,mi,saint-clair-shores,23709-harper-avenue,031302,"23709 Harper Avenue, Saint Clair Shores, MI 48080",23709
+https://locations.tacobell.com/mi/southfield/24024-w-9-mile-rd.html,mi,southfield,24024-w-9-mile-rd,003291,"24024 W 9 Mile Rd, Southfield, MI 48033",24024
+https://locations.tacobell.com/mi/southfield/24705-w-12-mile-rd.html,mi,southfield,24705-w-12-mile-rd,029258,"24705 W 12 Mile Rd, Southfield, MI 48034",24705
+https://locations.tacobell.com/mi/dearborn/25120-michigan.html,mi,dearborn,25120-michigan,000867,"25120 Michigan, Dearborn, MI 48124",25120
+https://locations.tacobell.com/mi/roseville/25544-gratiot.html,mi,roseville,25544-gratiot,003190,"25544 Gratiot, Roseville, MI 48066",25544
+https://locations.tacobell.com/mi/kimball/2593-wadhams-rd.html,mi,kimball,2593-wadhams-rd,030253,"2593 Wadhams Rd, Kimball, MI 48074",48074
+https://locations.tacobell.com/mi/warren/26130-hoover-road.html,mi,warren,26130-hoover-road,015919,"26130 Hoover Road, Warren, MI 48089",26130
+https://locations.tacobell.com/mi/redford/26450-plymouth-rd-.html,mi,redford,26450-plymouth-rd-,001264,"26450 Plymouth Rd., Redford, MI 48239",26450
+https://locations.tacobell.com/mi/ypsilanti/2655-washtenaw-ave.html,mi,ypsilanti,2655-washtenaw-ave,040657,"2655 Washtenaw Ave, Ypsilanti, MI 48197",48197
+https://locations.tacobell.com/mi/flat-rock/27067-telegraph-road.html,mi,flat-rock,27067-telegraph-road,003297,"27067 Telegraph Road, Flat Rock, MI 48134",27067
+https://locations.tacobell.com/mi/redford/27349-grand-river-ave-.html,mi,redford,27349-grand-river-ave-,003293,"27349 Grand River Ave., Redford, MI 48240",27349
+https://locations.tacobell.com/mi/wixom/28020-wixom-rd.html,mi,wixom,28020-wixom-rd,005018,"28020 Wixom Rd, Wixom, MI 48393",28020
+https://locations.tacobell.com/mi/saint-clair-shores/28501-harper-ave-.html,mi,saint-clair-shores,28501-harper-ave-,021342,"28501 Harper Ave., Saint Clair Shores, MI 48081",28501
+https://locations.tacobell.com/mi/roseville/28540-gratiot-ave-.html,mi,roseville,28540-gratiot-ave-,001567,"28540 Gratiot Ave., Roseville, MI 48066",28540
+https://locations.tacobell.com/mi/rochester-hills/2855-s-rochester-rd.html,mi,rochester-hills,2855-s-rochester-rd,004161,"2855 S Rochester Rd, Rochester Hills, MI 48307",48307
+https://locations.tacobell.com/mi/garden-city/28993-ford-road.html,mi,garden-city,28993-ford-road,017105,"28993 Ford Road, Garden City, MI 48135",28993
+https://locations.tacobell.com/mi/new-baltimore/29180-23-mile-rd.html,mi,new-baltimore,29180-23-mile-rd,002965,"29180 23 Mile Rd, New Baltimore, MI 48047",29180
+https://locations.tacobell.com/mi/farmington-hills/29925-orchard-lake-road.html,mi,farmington-hills,29925-orchard-lake-road,001896,"29925 Orchard Lake Road, Farmington Hills, MI 48334",29925
+https://locations.tacobell.com/mi/marysville/3000-gratiot-avenue.html,mi,marysville,3000-gratiot-avenue,019191,"3000 Gratiot Avenue, Marysville, MI 48040",48040
+https://locations.tacobell.com/mi/novi/31100-beck-rd.html,mi,novi,31100-beck-rd,031393,"31100 Beck Rd, Novi, MI 48377",31100
+https://locations.tacobell.com/mi/beverly-hills/31305-southfield-road.html,mi,beverly-hills,31305-southfield-road,001999,"31305 Southfield Road, Beverly Hills, MI 48025",31305
+https://locations.tacobell.com/mi/lambertville/3240-w-sterns-rd.html,mi,lambertville,3240-w-sterns-rd,030676,"3240 W Sterns Rd, Lambertville, MI 48144",48144
+https://locations.tacobell.com/mi/troy/3268-rochester-road.html,mi,troy,3268-rochester-road,033312,"3268 Rochester Road, Troy, MI 48083",48083
+https://locations.tacobell.com/mi/madison-heights/32801-john-r-road.html,mi,madison-heights,32801-john-r-road,033303,"32801 John R Road, Madison Heights, MI 48071",32801
+https://locations.tacobell.com/mi/wayne/32940-michigan-ave.html,mi,wayne,32940-michigan-ave,003584,"32940 Michigan Ave, Wayne, MI 48184",32940
+https://locations.tacobell.com/mi/livonia/33203-west-eight-mile-road.html,mi,livonia,33203-west-eight-mile-road,024444,"33203 West Eight Mile Road, Livonia, MI 48152",33203
+https://locations.tacobell.com/mi/allen-park/3333-fairlane-drive.html,mi,allen-park,3333-fairlane-drive,024434,"3333 Fairlane Drive, Allen Park, MI 48101",48101
+https://locations.tacobell.com/mi/clinton-township/34600-groesbeck-hwy.html,mi,clinton-township,34600-groesbeck-hwy,027361,"34600 Groesbeck Hwy, Clinton Township, MI 48035",34600
+https://locations.tacobell.com/mi/sterling-heights/36300-van-dyke-ave.html,mi,sterling-heights,36300-van-dyke-ave,021229,"36300 Van Dyke Ave, Sterling Heights, MI 48312",36300
+https://locations.tacobell.com/mi/howell/3653-e-grand-river-ave-.html,mi,howell,3653-e-grand-river-ave-,037840,"3653 E Grand River Ave., Howell, MI 48843",48843
+https://locations.tacobell.com/mi/clinton-township/37510-s-gratiot-ave.html,mi,clinton-township,37510-s-gratiot-ave,024650,"37510 S Gratiot Ave, Clinton Township, MI 48036",37510
+https://locations.tacobell.com/mi/farmington-hills/38330-w-10-mile-rd.html,mi,farmington-hills,38330-w-10-mile-rd,001738,"38330 W 10 Mile Rd, Farmington Hills, MI 48335",38330
+https://locations.tacobell.com/mi/ann-arbor/3860-s--state-rd-.html,mi,ann-arbor,3860-s--state-rd-,037839,"3860 S. State Rd., Ann Arbor, MI 48108",48108
+https://locations.tacobell.com/mi/fort-gratiot/3977-24th-ave.html,mi,fort-gratiot,3977-24th-ave,041875,"3977 24th Ave, Fort Gratiot, MI 48059",48059
+https://locations.tacobell.com/mi/plymouth/409-n-main-st.html,mi,plymouth,409-n-main-st,003296,"409 N Main St, Plymouth, MI 48170",48170
+https://locations.tacobell.com/mi/warren/4105-e-8-mile-rd.html,mi,warren,4105-e-8-mile-rd,024651,"4105 E 8 Mile Rd, Warren, MI 48091",48091
+https://locations.tacobell.com/mi/troy/41167-dequindre-rd.html,mi,troy,41167-dequindre-rd,024150,"41167 Dequindre Rd, Troy, MI 48085",41167
+https://locations.tacobell.com/mi/sterling-heights/4141-e-14-mile-road.html,mi,sterling-heights,4141-e-14-mile-road,001439,"4141 E 14 Mile Road, Sterling Heights, MI 48310",48310
+https://locations.tacobell.com/mi/clinton-township/41450-garfield-rd-.html,mi,clinton-township,41450-garfield-rd-,002681,"41450 Garfield Rd., Clinton Township, MI 48038",41450
+https://locations.tacobell.com/mi/monroe/445-n-telegraph-rd-.html,mi,monroe,445-n-telegraph-rd-,001691,"445 N Telegraph Rd., Monroe, MI 48161",48161
+https://locations.tacobell.com/mi/canton/44570-michigan-avenue.html,mi,canton,44570-michigan-avenue,021521,"44570 Michigan Avenue, Canton, MI 48188",44570
+https://locations.tacobell.com/mi/canton/45132-ford-road.html,mi,canton,45132-ford-road,001732,"45132 Ford Road, Canton, MI 48187",45132
+https://locations.tacobell.com/mi/utica/45201-schoenherr-rd-.html,mi,utica,45201-schoenherr-rd-,003865,"45201 Schoenherr Rd., Utica, MI 48315",45201
+https://locations.tacobell.com/mi/dearborn-heights/4539-s--telegraph-rd.html,mi,dearborn-heights,4539-s--telegraph-rd,003290,"4539 S. Telegraph Rd, Dearborn Heights, MI 48125",48125
+https://locations.tacobell.com/mi/macomb/45590-gratiot-avenue.html,mi,macomb,45590-gratiot-avenue,024653,"45590 Gratiot Avenue, Macomb, MI 48042",45590
+https://locations.tacobell.com/mi/utica/47154-van-dyke-ave-.html,mi,utica,47154-van-dyke-ave-,001591,"47154 Van Dyke Ave., Utica, MI 48317",47154
+https://locations.tacobell.com/mi/waterford/4743-dixie-highway.html,mi,waterford,4743-dixie-highway,033314,"4743 Dixie Highway, Waterford, MI 48329",48329
+https://locations.tacobell.com/mi/lake-orion/4885-s-baldwin-road.html,mi,lake-orion,4885-s-baldwin-road,033316,"4885 S Baldwin Road, Lake Orion, MI 48359",48359
+https://locations.tacobell.com/mi/milford/525-general-motors-rd.html,mi,milford,525-general-motors-rd,020721,"525 General Motors Rd, Milford, MI 48381",48381
+https://locations.tacobell.com/mi/waterford/5350-highland-road.html,mi,waterford,5350-highland-road,033301,"5350 Highland Road, Waterford, MI 48327",48327
+https://locations.tacobell.com/mi/dundee/537-tecumseh-st.html,mi,dundee,537-tecumseh-st,004298,"537 Tecumseh St, Dundee, MI 48131",48131
+https://locations.tacobell.com/mi/ann-arbor/5650-jackson-rd.html,mi,ann-arbor,5650-jackson-rd,005228,"5650 Jackson Rd, Ann Arbor, MI 48103",48103
+https://locations.tacobell.com/mi/clarkston/6584-dixie-hwy.html,mi,clarkston,6584-dixie-hwy,033309,"6584 Dixie Hwy, Clarkston, MI 48346",48346
+https://locations.tacobell.com/mi/washington/65891-van-dyke.html,mi,washington,65891-van-dyke,039686,"65891 Van Dyke, Washington, MI 48095",65891
+https://locations.tacobell.com/mi/lake-orion/660-s-lapeer-rd.html,mi,lake-orion,660-s-lapeer-rd,040007,"660 S Lapeer Rd, Lake Orion, MI 48362",48362
+https://locations.tacobell.com/mi/richmond/67556-main-street.html,mi,richmond,67556-main-street,024658,"67556 Main Street, Richmond, MI 48062",67556
+https://locations.tacobell.com/mi/westland/6925-n-wayne-rd.html,mi,westland,6925-n-wayne-rd,021162,"6925 N Wayne Rd, Westland, MI 48185",48185
+https://locations.tacobell.com/mi/clarkston/6946-sashabaw-rd-.html,mi,clarkston,6946-sashabaw-rd-,040006,"6946 Sashabaw Rd., Clarkston, MI 48348",48348
+https://locations.tacobell.com/mi/port-huron/729-24th-street.html,mi,port-huron,729-24th-street,023045,"729 24th Street, Port Huron, MI 48060",48060
+https://locations.tacobell.com/mi/imlay-city/731-south-cedar-street.html,mi,imlay-city,731-south-cedar-street,039687,"731 South Cedar Street, Imlay City, MI 48444",48444
+https://locations.tacobell.com/mi/algonac/800-pointe-tremble-rd.html,mi,algonac,800-pointe-tremble-rd,041877,"800 Pointe Tremble Rd, Algonac, MI 48001",48001
+https://locations.tacobell.com/mi/fowlerville/800-south-grand-avenue.html,mi,fowlerville,800-south-grand-avenue,032514,"800 South Grand Avenue, Fowlerville, MI 48836",48836
+https://locations.tacobell.com/mi/dearborn-heights/8112-telegraph-road.html,mi,dearborn-heights,8112-telegraph-road,001661,"8112 Telegraph Road, Dearborn Heights, MI 48127",48127
+https://locations.tacobell.com/mi/brighton/8541-w-grand-river-avenue.html,mi,brighton,8541-w-grand-river-avenue,002440,"8541 W Grand River Avenue, Brighton, MI 48116",48116
+https://locations.tacobell.com/mi/dearborn/8956-warren.html,mi,dearborn,8956-warren,003294,"8956 Warren, Dearborn, MI 48126",48126
+https://locations.tacobell.com/mi/white-lake/9044-highland-road.html,mi,white-lake,9044-highland-road,033315,"9044 Highland Road, White Lake, MI 48386",48386
+https://locations.tacobell.com/mi/lapeer/984-s-main-st.html,mi,lapeer,984-s-main-st,039685,"984 S Main St, Lapeer, MI 48446",48446
+https://locations.tacobell.com/mi/romulus/9920-wayne-rd.html,mi,romulus,9920-wayne-rd,029334,"9920 Wayne Rd, Romulus, MI 48174",48174
+https://locations.tacobell.com/mn/brooklyn-park/5931-94th-ave-n.html,mn,brooklyn-park,5931-94th-ave-n,039130,"5931 94th Ave N, Brooklyn Park, MN 55443",55443
+https://locations.tacobell.com/mi/lansing/3215-s-martin-luther-king-jr-blvd.html,mi,lansing,3215-s-martin-luther-king-jr-blvd,038761,"3215 S Martin Luther King Jr Blvd, Lansing, MI 48910",48910
+https://locations.tacobell.com/mn/cambridge/1950-2nd-ave-se.html,mn,cambridge,1950-2nd-ave-se,040116,"1950 2nd Ave SE, Cambridge, MN 55008",55008
+https://locations.tacobell.com/mn/sauk-centre/1215-getty-st-s.html,mn,sauk-centre,1215-getty-st-s,040344,"1215 Getty St S, Sauk Centre, MN 56378",56378
+https://locations.tacobell.com/mi/east-lansing/7195-e-saginaw-st.html,mi,east-lansing,7195-e-saginaw-st,038760,"7195 E Saginaw St, East Lansing, MI 48823",48823
+https://locations.tacobell.com/mi/lenox/36505-26-mile-road.html,mi,lenox,36505-26-mile-road,040464,"36505 26 Mile Road, Lenox, MI 48048",36505
+https://locations.tacobell.com/mi/saint-ignace/w-206-us-2.html,mi,saint-ignace,w-206-us-2,040152,"W 206 US-2, Saint Ignace, MI 49781",49781
+https://locations.tacobell.com/mn/plymouth/9900-rockford-road.html,mn,plymouth,9900-rockford-road,023837,"9900 Rockford Road, Plymouth, MN 55442",55442
+https://locations.tacobell.com/mn/chanhassen/975-west-78th-street.html,mn,chanhassen,975-west-78th-street,017983,"975 West 78th Street, Chanhassen, MN 55317",55317
+https://locations.tacobell.com/mn/bloomington/9230-lyndale-ave-south.html,mn,bloomington,9230-lyndale-ave-south,003333,"9230 Lyndale Ave South, Bloomington, MN 55420",55420
+https://locations.tacobell.com/mn/hopkins/919-cambridge-st.html,mn,hopkins,919-cambridge-st,031682,"919 Cambridge St, Hopkins, MN 55343",55343
+https://locations.tacobell.com/mi/grand-haven/917-s-beacon.html,mi,grand-haven,917-s-beacon,042626,"917 S Beacon, Grand Haven, MI 49417",49417
+https://locations.tacobell.com/mi/saint-johns/916-s-us-highway-27.html,mi,saint-johns,916-s-us-highway-27,002945,"916 S Us Highway 27, Saint Johns, MI 48879",48879
+https://locations.tacobell.com/mi/grand-blanc/9008-holly-road.html,mi,grand-blanc,9008-holly-road,040005,"9008 Holly Road, Grand Blanc, MI 48439",48439
+https://locations.tacobell.com/mi/houghton/900-razorback-drive.html,mi,houghton,900-razorback-drive,033432,"900 Razorback Drive, Houghton, MI 49931",49931
+https://locations.tacobell.com/mi/birch-run/8750-main-st-.html,mi,birch-run,8750-main-st-,042650,"8750 Main St., Birch Run, MI 48415",48415
+https://locations.tacobell.com/mi/traverse-city/873-us-highway-31-s.html,mi,traverse-city,873-us-highway-31-s,042631,"873 US Highway 31 S, Traverse City, MI 49684",49684
+https://locations.tacobell.com/mn/cottage-grove/8623-e-point-douglas-rd-s.html,mn,cottage-grove,8623-e-point-douglas-rd-s,015867,"8623 E Point Douglas Rd S, Cottage Grove, MN 55016",55016
+https://locations.tacobell.com/mn/brooklyn-park/8575-aspen-lane-north.html,mn,brooklyn-park,8575-aspen-lane-north,018005,"8575 Aspen Lane North, Brooklyn Park, MN 55445",55445
+https://locations.tacobell.com/mn/brooklyn-park/8530-edinburgh-centre-dr.html,mn,brooklyn-park,8530-edinburgh-centre-dr,019622,"8530 Edinburgh Centre Dr, Brooklyn Park, MN 55443",55443
+https://locations.tacobell.com/mi/bad-axe/852-north-van-dyke-road.html,mi,bad-axe,852-north-van-dyke-road,024657,"852 North Van Dyke Road, Bad Axe, MI 48413",48413
+https://locations.tacobell.com/mn/woodbury/8473-tamarack-road.html,mn,woodbury,8473-tamarack-road,020000,"8473 Tamarack Road, Woodbury, MN 55125",55125
+https://locations.tacobell.com/mn/eden-prairie/8450-joiner-way.html,mn,eden-prairie,8450-joiner-way,005058,"8450 Joiner Way, Eden Prairie, MN 55344",55344
+https://locations.tacobell.com/mi/paw-paw/835-s-kalamazoo-st.html,mi,paw-paw,835-s-kalamazoo-st,032987,"835 S Kalamazoo St, Paw Paw, MI 49079",49079
+https://locations.tacobell.com/mi/battle-creek/821-capitol-avenue-s-w-.html,mi,battle-creek,821-capitol-avenue-s-w-,032982,"821 Capitol Avenue S.W., Battle Creek, MI 49015",49015
+https://locations.tacobell.com/mi/grand-ledge/820-torch-street.html,mi,grand-ledge,820-torch-street,019755,"820 Torch Street, Grand Ledge, MI 48837",48837
+https://locations.tacobell.com/mi/newaygo/8161-south-mason-street.html,mi,newaygo,8161-south-mason-street,C044009,"8161 South Mason Street, Newaygo, MI 49337",49337
+https://locations.tacobell.com/mi/traverse-city/720-e-front-st.html,mi,traverse-city,720-e-front-st,042621,"720 E Front St, Traverse City, MI 49686",49686
+https://locations.tacobell.com/me/presque-isle/808-main-st.html,me,presque-isle,808-main-st,G135882,"808 Main St, Presque Isle, ME 04769",04769
+https://locations.tacobell.com/mi/mason/805-n-cedar-st.html,mi,mason,805-n-cedar-st,020299,"805 N Cedar St, Mason, MI 48854",48854
+https://locations.tacobell.com/mi/saginaw/8030-gratiot-rd-.html,mi,saginaw,8030-gratiot-rd-,004647,"8030 Gratiot Rd., Saginaw, MI 48609",48609
+https://locations.tacobell.com/mi/jackson/801-w-ganson-street.html,mi,jackson,801-w-ganson-street,001651,"801 W Ganson Street, Jackson, MI 49202",49202
+https://locations.tacobell.com/mi/caro/801-s-state.html,mi,caro,801-s-state,039688,"801 S State, Caro, MI 48723",48723
+https://locations.tacobell.com/mn/richfield/7740-2nd-ave-south.html,mn,richfield,7740-2nd-ave-south,029688,"7740 2nd Ave South, Richfield, MN 55423",55423
+https://locations.tacobell.com/mn/apple-valley/7715-150th-street-west.html,mn,apple-valley,7715-150th-street-west,015905,"7715 150th Street West, Apple Valley, MN 55124",55124
+https://locations.tacobell.com/me/windham/755-roosevelt-trail.html,me,windham,755-roosevelt-trail,G135828,"755 Roosevelt Trail, Windham, ME 04062",04062
+https://locations.tacobell.com/mi/alma/7337-n-alger-rd.html,mi,alma,7337-n-alger-rd,042630,"7337 N Alger Rd, Alma, MI 48801",48801
+https://locations.tacobell.com/mn/fridley/7295-university-ave-ne.html,mn,fridley,7295-university-ave-ne,020117,"7295 University Ave NE, Fridley, MN 55432",55432
+https://locations.tacobell.com/mn/grand-rapids/720-ne-hwy-2.html,mn,grand-rapids,720-ne-hwy-2,030486,"720 NE Hwy 2, Grand Rapids, MN 55744",55744
+https://locations.tacobell.com/mi/watervliet/714-s-main-st.html,mi,watervliet,714-s-main-st,032107,"714 S Main St, Watervliet, MI 49098",49098
+https://locations.tacobell.com/mi/mount-morris/7047-n-saginaw-rd.html,mi,mount-morris,7047-n-saginaw-rd,016184,"7047 N Saginaw Rd, Mount Morris, MI 48458",48458
+https://locations.tacobell.com/mi/byron-center/695-68th-st-sw.html,mi,byron-center,695-68th-st-sw,032997,"695 68th St SW, Byron Center, MI 49315",49315
+https://locations.tacobell.com/mi/edwardsburg/69069-m-62.html,mi,edwardsburg,69069-m-62,032101,"69069 M 62, Edwardsburg, MI 49112",69069
+https://locations.tacobell.com/mn/owatonna/681-west-bridge-street.html,mn,owatonna,681-west-bridge-street,016351,"681 West Bridge Street, Owatonna, MN 55060",55060
+https://locations.tacobell.com/mi/grand-rapids/6728-kalamazoo-avenue-se.html,mi,grand-rapids,6728-kalamazoo-avenue-se,033020,"6728 Kalamazoo Avenue SE, Grand Rapids, MI 49508",49508
+https://locations.tacobell.com/mn/golden-valley/6620-wayzata-blvd.html,mn,golden-valley,6620-wayzata-blvd,002421,"6620 Wayzata Blvd, Golden Valley, MN 55426",55426
+https://locations.tacobell.com/mi/charlotte/660-lansing-rd.html,mi,charlotte,660-lansing-rd,005624,"660 Lansing Rd, Charlotte, MI 48813",48813
+https://locations.tacobell.com/mi/coldwater/650-e-chicago-st-.html,mi,coldwater,650-e-chicago-st-,032989,"650 E Chicago St., Coldwater, MI 49036",49036
+https://locations.tacobell.com/mn/anoka/647-w-main-st.html,mn,anoka,647-w-main-st,002892,"647 W Main St, Anoka, MN 55303",55303
+https://locations.tacobell.com/mi/bay-city/6362-3-mile-road.html,mi,bay-city,6362-3-mile-road,G135746,"6362 3 Mile Road, Bay City, MI 48706",48706
+https://locations.tacobell.com/mi/bridgeport/6345-dixie-highway.html,mi,bridgeport,6345-dixie-highway,042646,"6345 Dixie Highway, Bridgeport, MI 48722",48722
+https://locations.tacobell.com/mi/portage/6314-s--westnedge.html,mi,portage,6314-s--westnedge,032985,"6314 S. Westnedge, Portage, MI 49002",49002
+https://locations.tacobell.com/mi/grand-rapids/605-leonard-street-nw.html,mi,grand-rapids,605-leonard-street-nw,042642,"605 Leonard Street NW, Grand Rapids, MI 49504",49504
+https://locations.tacobell.com/mn/albertville/6040-labeaux-ave-ne.html,mn,albertville,6040-labeaux-ave-ne,032573,"6040 LaBeaux Ave NE, Albertville, MN 55301",55301
+https://locations.tacobell.com/mi/big-rapids/604-s-state-street.html,mi,big-rapids,604-s-state-street,042622,"604 S State Street, Big Rapids, MI 49307",49307
+https://locations.tacobell.com/mi/kalamazoo/6035-gull-rd.html,mi,kalamazoo,6035-gull-rd,033012,"6035 Gull Rd, Kalamazoo, MI 49048",49048
+https://locations.tacobell.com/me/bangor/603-broadway-street.html,me,bangor,603-broadway-street,G135820,"603 Broadway Street, Bangor, ME 04401",04401
+https://locations.tacobell.com/mi/sturgis/601-s-centerville-rd.html,mi,sturgis,601-s-centerville-rd,032990,"601 S Centerville Rd, Sturgis, MI 49091",49091
+https://locations.tacobell.com/mn/saint-paul/565-no-snelling.html,mn,saint-paul,565-no-snelling,003314,"565 No Snelling, Saint Paul, MN 55104",55104
+https://locations.tacobell.com/mi/lansing/5634-s-cedar.html,mi,lansing,5634-s-cedar,001646,"5634 S Cedar, Lansing, MI 48911",48911
+https://locations.tacobell.com/mi/wyoming/560-28th-st-se.html,mi,wyoming,560-28th-st-se,032986,"560 28th St SE, Wyoming, MI 49548",49548
+https://locations.tacobell.com/mi/battle-creek/5560-beckley.html,mi,battle-creek,5560-beckley,032988,"5560 Beckley, Battle Creek, MI 49015",49015
+https://locations.tacobell.com/mn/brooklyn-center/5532-brooklyn-blvd.html,mn,brooklyn-center,5532-brooklyn-blvd,003378,"5532 Brooklyn Blvd, Brooklyn Center, MN 55429",55429
+https://locations.tacobell.com/mi/fruitport/5425-blueberry-lane.html,mi,fruitport,5425-blueberry-lane,033044,"5425 Blueberry Lane, Fruitport, MI 49415",49415
+https://locations.tacobell.com/mi/escanaba/539-n-lincoln-road.html,mi,escanaba,539-n-lincoln-road,033430,"539 N Lincoln Road, Escanaba, MI 49829",49829
+https://locations.tacobell.com/mi/kalamazoo/5301-portage-road.html,mi,kalamazoo,5301-portage-road,032996,"5301 Portage Road, Kalamazoo, MI 49002",49002
+https://locations.tacobell.com/mn/faribault/526-wilson-ave-nw.html,mn,faribault,526-wilson-ave-nw,030268,"526 Wilson Ave NW, Faribault, MN 55021",55021
+https://locations.tacobell.com/mn/rochester/516-n-broadway.html,mn,rochester,516-n-broadway,003307,"516 N Broadway, Rochester, MN 55906",55906
+https://locations.tacobell.com/mi/oscoda/5150-u-s--23-north.html,mi,oscoda,5150-u-s--23-north,F705004,"5150 U.S. 23 North, Oscoda, MI 48750",48750
+https://locations.tacobell.com/mn/bemidji/515-paul-bunyan-drive.html,mn,bemidji,515-paul-bunyan-drive,015843,"515 Paul Bunyan Drive, Bemidji, MN 56601",56601
+https://locations.tacobell.com/mi/kalamazoo/5076-south-9th-street.html,mi,kalamazoo,5076-south-9th-street,033004,"5076 South 9th Street, Kalamazoo, MI 49009",49009
+https://locations.tacobell.com/mi/saginaw/5066-state-st-.html,mi,saginaw,5066-state-st-,001288,"5066 State St., Saginaw, MI 48603",48603
+https://locations.tacobell.com/mi/standish/506-main-st.html,mi,standish,506-main-st,024659,"506 Main St, Standish, MI 48658",48658
+https://locations.tacobell.com/mi/grand-rapids/5049-northland-dr.html,mi,grand-rapids,5049-northland-dr,033014,"5049 Northland Dr, Grand Rapids, MI 49525",49525
+https://locations.tacobell.com/mi/saline/502-east-michigan-avenue.html,mi,saline,502-east-michigan-avenue,G135774,"502 East Michigan Avenue, Saline, MI 48176",48176
+https://locations.tacobell.com/mi/kalamazoo/5013-w-main.html,mi,kalamazoo,5013-w-main,042639,"5013 W Main, Kalamazoo, MI 49009",49009
+https://locations.tacobell.com/mi/allendale/4989-lake-michigan-dr.html,mi,allendale,4989-lake-michigan-dr,033022,"4989 Lake Michigan Dr, Allendale, MI 49401",49401
+https://locations.tacobell.com/me/saco/491-main-st-.html,me,saco,491-main-st-,G445001,"491 Main St., Saco, ME 04072",04072
+https://locations.tacobell.com/mi/flint/4903-fenton-road.html,mi,flint,4903-fenton-road,020292,"4903 Fenton Road, Flint, MI 48507",48507
+https://locations.tacobell.com/mn/minneapolis/4900-central-ave-ne.html,mn,minneapolis,4900-central-ave-ne,002365,"4900 Central Ave NE, Minneapolis, MN 55421",55421
+https://locations.tacobell.com/mn/alexandria/4817-hwy-29-s.html,mn,alexandria,4817-hwy-29-s,005470,"4817 Hwy 29 S, Alexandria, MN 56308",56308
+https://locations.tacobell.com/me/brewer/470-wilson-street.html,me,brewer,470-wilson-street,G135823,"470 Wilson Street, Brewer, ME 04412",04412
+https://locations.tacobell.com/me/waterville/444-kennedy-memorial-drive.html,me,waterville,444-kennedy-memorial-drive,G135821,"444 Kennedy Memorial Drive, Waterville, ME 04901",04901
+https://locations.tacobell.com/mi/ludington/4418-w-us-highway-10.html,mi,ludington,4418-w-us-highway-10,042632,"4418 W US Highway 10, Ludington, MI 49431",49431
+https://locations.tacobell.com/mi/flint/4382-w-pierson-rd.html,mi,flint,4382-w-pierson-rd,033304,"4382 W Pierson Rd, Flint, MI 48504",48504
+https://locations.tacobell.com/mi/lansing/4347-w-saginaw-hwy.html,mi,lansing,4347-w-saginaw-hwy,021470,"4347 W Saginaw Hwy, Lansing, MI 48917",48917
+https://locations.tacobell.com/mi/clio/4337-w-vienna-road.html,mi,clio,4337-w-vienna-road,003386,"4337 W Vienna Road, Clio, MI 48420",48420
+https://locations.tacobell.com/mi/swartz-creek/4311-elms-rd.html,mi,swartz-creek,4311-elms-rd,033318,"4311 Elms Rd, Swartz Creek, MI 48473",48473
+https://locations.tacobell.com/mi/cedar-springs/4269-17-mile-road-se.html,mi,cedar-springs,4269-17-mile-road-se,033021,"4269 17 Mile Road SE, Cedar Springs, MI 49319",49319
+https://locations.tacobell.com/mn/minneapolis/425-w-broadway.html,mn,minneapolis,425-w-broadway,003370,"425 W Broadway, Minneapolis, MN 55411",55411
+https://locations.tacobell.com/mn/blaine/4240-pheasant-ridge-dr-ne.html,mn,blaine,4240-pheasant-ridge-dr-ne,021459,"4240 Pheasant Ridge Dr NE, Blaine, MN 55449",55449
+https://locations.tacobell.com/mi/walker/4234-lake-michigan-drive.html,mi,walker,4234-lake-michigan-drive,033001,"4234 Lake Michigan Drive, Walker, MI 49534",49534
+https://locations.tacobell.com/mi/bay-city/4111-e-wilder-road.html,mi,bay-city,4111-e-wilder-road,024656,"4111 E Wilder Road, Bay City, MI 48706",48706
+https://locations.tacobell.com/mn/northfield/410-s-hwy-3.html,mn,northfield,410-s-hwy-3,005580,"410 S Hwy 3, Northfield, MN 55057",55057
+https://locations.tacobell.com/mi/burton/4071-davison-rd.html,mi,burton,4071-davison-rd,033302,"4071 Davison Rd, Burton, MI 48509",48509
+https://locations.tacobell.com/mn/rochester/4000-marketplace-dr-nw.html,mn,rochester,4000-marketplace-dr-nw,021103,"4000 Marketplace Dr NW, Rochester, MN 55901",55901
+https://locations.tacobell.com/me/scarborough/400-gallery-boulevard.html,me,scarborough,400-gallery-boulevard,G135822,"400 Gallery Boulevard, Scarborough, ME 04074",04074
+https://locations.tacobell.com/mn/north-branch/38706-14th-avenue.html,mn,north-branch,38706-14th-avenue,020952,"38706 14th Avenue, North Branch, MN 55056",38706
+https://locations.tacobell.com/me/farmington/369-wilton-road.html,me,farmington,369-wilton-road,G135832,"369 Wilton Road, Farmington, ME 04938",04938
+https://locations.tacobell.com/mi/flint/3606-corunna-rd-.html,mi,flint,3606-corunna-rd-,033306,"3606 Corunna Rd., Flint, MI 48532",48532
+https://locations.tacobell.com/mi/holland/3471-w-shore-dr.html,mi,holland,3471-w-shore-dr,033015,"3471 W Shore Dr, Holland, MI 49424",49424
+https://locations.tacobell.com/mn/saint-paul/3464-n--rice-street.html,mn,saint-paul,3464-n--rice-street,004672,"3464 N. Rice Street, Saint Paul, MN 55126",55126
+https://locations.tacobell.com/mi/chesterfield/34626-23-mile-road.html,mi,chesterfield,34626-23-mile-road,030922,"34626 23 Mile Road, Chesterfield, MI 48047",34626
+https://locations.tacobell.com/me/skowhegan/339a-madison-avenue.html,me,skowhegan,339a-madison-avenue,G135833,"339A Madison Avenue, Skowhegan, ME 04976",04976
+https://locations.tacobell.com/mi/flint/3383-s-linden-rd.html,mi,flint,3383-s-linden-rd,033305,"3383 S Linden Rd, Flint, MI 48507",48507
+https://locations.tacobell.com/mn/saint-cloud/3311-2nd-st-s.html,mn,saint-cloud,3311-2nd-st-s,004907,"3311 2nd St S, Saint Cloud, MN 56301",56301
+https://locations.tacobell.com/mi/whitehall/3271-colby-rd.html,mi,whitehall,3271-colby-rd,033003,"3271 Colby Rd, Whitehall, MI 49461",49461
+https://locations.tacobell.com/mi/saginaw/3262-e-holland-road.html,mi,saginaw,3262-e-holland-road,042635,"3262 E Holland Road, Saginaw, MI 48601",48601
+https://locations.tacobell.com/mi/grand-rapids/3243-plainfield-avenue.html,mi,grand-rapids,3243-plainfield-avenue,033017,"3243 Plainfield Avenue, Grand Rapids, MI 49525",49525
+https://locations.tacobell.com/mi/kalamazoo/3233-s-westnedge-ave.html,mi,kalamazoo,3233-s-westnedge-ave,033010,"3233 S Westnedge Ave, Kalamazoo, MI 49008",49008
+https://locations.tacobell.com/mn/edina/3210-southdale-circle.html,mn,edina,3210-southdale-circle,003308,"3210 Southdale Circle, Edina, MN 55435",55435
+https://locations.tacobell.com/mn/moorhead/321-south-8th-street.html,mn,moorhead,321-south-8th-street,037579,"321 South 8th Street, Moorhead, MN 56560",56560
+https://locations.tacobell.com/mi/grand-rapids/3160-alpine-ave-nw.html,mi,grand-rapids,3160-alpine-ave-nw,042634,"3160 Alpine Ave NW, Grand Rapids, MI 49544",49544
+https://locations.tacobell.com/mi/ionia/3105-commerce-lane.html,mi,ionia,3105-commerce-lane,033019,"3105 Commerce Lane, Ionia, MI 48846",48846
+https://locations.tacobell.com/mi/marquette/3062-us-highway-41-w.html,mi,marquette,3062-us-highway-41-w,033429,"3062 US Highway 41 W, Marquette, MI 49855",49855
+https://locations.tacobell.com/mn/red-wing/3048-n--service-drive.html,mn,red-wing,3048-n--service-drive,029817,"3048 N. Service Drive, Red Wing, MN 55066",55066
+https://locations.tacobell.com/mi/houghton-lake/3023-w-houghton-lake-dr.html,mi,houghton-lake,3023-w-houghton-lake-dr,042649,"3023 W Houghton Lake Dr, Houghton Lake, MI 48629",48629
+https://locations.tacobell.com/me/augusta/300-civic-center-dr-.html,me,augusta,300-civic-center-dr-,G135834,"300 Civic Center Dr., Augusta, ME 04330",04330
+https://locations.tacobell.com/mi/west-branch/2995-cook-road.html,mi,west-branch,2995-cook-road,003881,"2995 Cook Road, West Branch, MI 48661",48661
+https://locations.tacobell.com/mi/lansing/2990-dunckle-road.html,mi,lansing,2990-dunckle-road,032543,"2990 Dunckle Road, Lansing, MI 48910",48910
+https://locations.tacobell.com/mn/blaine/291-county-hwy-10.html,mn,blaine,291-county-hwy-10,003379,"291 County Hwy 10, Blaine, MN 55434",55434
+https://locations.tacobell.com/mi/perry/2889-west-lansing-road.html,mi,perry,2889-west-lansing-road,023362,"2889 West Lansing Road, Perry, MI 48872",48872
+https://locations.tacobell.com/mi/muskegon/2860-henry-street.html,mi,muskegon,2860-henry-street,032984,"2860 Henry Street, Muskegon, MI 49441",49441
+https://locations.tacobell.com/mi/grand-rapids/2829-28th-street-se.html,mi,grand-rapids,2829-28th-street-se,032983,"2829 28th Street SE, Grand Rapids, MI 49512",49512
+https://locations.tacobell.com/mi/lansing/2809-n-east-st.html,mi,lansing,2809-n-east-st,004360,"2809 N East St, Lansing, MI 48906",48906
+https://locations.tacobell.com/mi/sault-sainte-marie/2751-i-75-business-spur.html,mi,sault-sainte-marie,2751-i-75-business-spur,004399,"2751 I-75 Business Spur, Sault Sainte Marie, MI 49783",49783
+https://locations.tacobell.com/mi/bay-city/260-washington-avenue.html,mi,bay-city,260-washington-avenue,031824,"260 Washington Avenue, Bay City, MI 48708",48708
+https://locations.tacobell.com/mi/jackson/2545-airport-rd.html,mi,jackson,2545-airport-rd,020199,"2545 Airport Rd, Jackson, MI 49202",49202
+https://locations.tacobell.com/mi/holland/25-s-waverly-rd.html,mi,holland,25-s-waverly-rd,032991,"25 S Waverly Rd, Holland, MI 49423",49423
+https://locations.tacobell.com/me/ellsworth/245-high-street.html,me,ellsworth,245-high-street,G135819,"245 High Street, Ellsworth, ME 04605",04605
+https://locations.tacobell.com/mi/saginaw/2424-tittabawassee-rd-.html,mi,saginaw,2424-tittabawassee-rd-,015733,"2424 Tittabawassee Rd., Saginaw, MI 48604",48604
+https://locations.tacobell.com/mi/holt/2420-cedar-st.html,mi,holt,2420-cedar-st,031509,"2420 Cedar St, Holt, MI 48842",48842
+https://locations.tacobell.com/mi/brownstown-township/23759-west-road.html,mi,brownstown-township,23759-west-road,031472,"23759 West Road, Brownstown Township, MI 48183",23759
+https://locations.tacobell.com/mi/okemos/2307-jolly-rd.html,mi,okemos,2307-jolly-rd,ERROR,ERROR,ERROR
+https://locations.tacobell.com/mi/kalamazoo/2229-sprinkle-road.html,mi,kalamazoo,2229-sprinkle-road,032998,"2229 Sprinkle Road, Kalamazoo, MI 49001",49001
+https://locations.tacobell.com/mn/saint-paul/2219-highway-10.html,mn,saint-paul,2219-highway-10,004039,"2219 Highway 10, Saint Paul, MN 55112",55112
+https://locations.tacobell.com/mi/wyoming/22-44th-st-sw.html,mi,wyoming,22-44th-st-sw,032992,"22 44th St SW, Wyoming, MI 49548",49548
+https://locations.tacobell.com/mi/taylor/21700-ecorse-rd.html,mi,taylor,21700-ecorse-rd,004530,"21700 Ecorse Rd, Taylor, MI 48180",21700
+https://locations.tacobell.com/mi/grayling/2167-s-i-75-business-loop.html,mi,grayling,2167-s-i-75-business-loop,042643,"2167 S I-75 Business Loop, Grayling, MI 49738",49738
+https://locations.tacobell.com/mi/muskegon/2160-holton-rd.html,mi,muskegon,2160-holton-rd,033011,"2160 Holton Rd, Muskegon, MI 49445",49445
+https://locations.tacobell.com/mn/minneapolis/215-east-lake-street.html,mn,minneapolis,215-east-lake-street,003371,"215 East Lake Street, Minneapolis, MN 55408",55408
+https://locations.tacobell.com/mi/saint-joseph/2051-niles-rd.html,mi,saint-joseph,2051-niles-rd,032087,"2051 Niles Rd, Saint Joseph, MI 49085",49085
+https://locations.tacobell.com/mi/midland/2038-n-saginaw-rd.html,mi,midland,2038-n-saginaw-rd,002883,"2038 N Saginaw Rd, Midland, MI 48640",48640
+https://locations.tacobell.com/mi/cadillac/2030-n-mitchell.html,mi,cadillac,2030-n-mitchell,042627,"2030 N Mitchell, Cadillac, MI 49601",49601
+https://locations.tacobell.com/mi/okemos/2030-grand-river-avenue.html,mi,okemos,2030-grand-river-avenue,002469,"2030 Grand River Avenue, Okemos, MI 48864",48864
+https://locations.tacobell.com/mi/owosso/201-e-main-street.html,mi,owosso,201-e-main-street,003620,"201 E Main Street, Owosso, MI 48867",48867
+https://locations.tacobell.com/mn/eagan/2000-cliff-rd.html,mn,eagan,2000-cliff-rd,005644,"2000 Cliff Rd, Eagan, MN 55122",55122
+https://locations.tacobell.com/mn/willmar/200-24th-avenue-southeast.html,mn,willmar,200-24th-avenue-southeast,030499,"200 24th Avenue Southeast, Willmar, MN 56201",56201
+https://locations.tacobell.com/mi/lowell/1975-west-main-street.html,mi,lowell,1975-west-main-street,033007,"1975 West Main Street, Lowell, MI 49331",49331
+https://locations.tacobell.com/mn/maplewood/1965-county-road-d.html,mn,maplewood,1965-county-road-d,003372,"1965 County Road D, Maplewood, MN 55109",55109
+https://locations.tacobell.com/mn/saint-paul/1940-suburban-avenue.html,mn,saint-paul,1940-suburban-avenue,023671,"1940 Suburban Avenue, Saint Paul, MN 55119",55119
+https://locations.tacobell.com/mn/elk-river/19131-freeport-avenue.html,mn,elk-river,19131-freeport-avenue,016998,"19131 Freeport Avenue, Elk River, MN 55330",19131
+https://locations.tacobell.com/mi/benton-harbor/1905-m-139.html,mi,benton-harbor,1905-m-139,032103,"1905 M-139, Benton Harbor, MI 49022",49022
+https://locations.tacobell.com/mi/holland/190-n--river-ave.html,mi,holland,190-n--river-ave,033009,"190 N. River Ave, Holland, MI 49424",49424
+https://locations.tacobell.com/mi/muskegon/1887-east-sherman.html,mi,muskegon,1887-east-sherman,033027,"1887 East Sherman, Muskegon, MI 49444",49444
+https://locations.tacobell.com/mi/jenison/188-chicago-drive.html,mi,jenison,188-chicago-drive,033016,"188 Chicago Drive, Jenison, MI 49428",49428
+https://locations.tacobell.com/mn/coon-rapids/1865-gateway-dr--nw.html,mn,coon-rapids,1865-gateway-dr--nw,031578,"1865 Gateway Dr. NW, Coon Rapids, MN 55448",55448
+https://locations.tacobell.com/mi/greenville/1825-w--washington-st-.html,mi,greenville,1825-w--washington-st-,033018,"1825 W. Washington St., Greenville, MI 48838",48838
+https://locations.tacobell.com/mn/mankato/1819-madison-avenue.html,mn,mankato,1819-madison-avenue,016623,"1819 Madison Avenue, Mankato, MN 56001",56001
+https://locations.tacobell.com/mi/wyoming/1819-28th-street-sw.html,mi,wyoming,1819-28th-street-sw,033005,"1819 28th Street SW, Wyoming, MI 49509",49509
+https://locations.tacobell.com/mi/midland/1810-s--saginaw-road.html,mi,midland,1810-s--saginaw-road,022688,"1810 S. Saginaw Road, Midland, MI 48640",48640
+https://locations.tacobell.com/mn/lakeville/17750-kenwood-trail.html,mn,lakeville,17750-kenwood-trail,021487,"17750 Kenwood Trail, Lakeville, MN 55044",17750
+https://locations.tacobell.com/mi/manistee/1745-u-s--31-south.html,mi,manistee,1745-u-s--31-south,H198001,"1745 U.S. 31 South, Manistee, MI 49660",49660
+https://locations.tacobell.com/mi/flint/1740-s-dort-hwy.html,mi,flint,1740-s-dort-hwy,033307,"1740 S Dort Hwy, Flint, MI 48503",48503
+https://locations.tacobell.com/me/brunswick/17-gurnet-road.html,me,brunswick,17-gurnet-road,G135826,"17 Gurnet Road, Brunswick, ME 04011",04011
+https://locations.tacobell.com/mn/plymouth/16855-county-road-24.html,mn,plymouth,16855-county-road-24,019992,"16855 County Road 24, Plymouth, MN 55447",16855
+https://locations.tacobell.com/mn/saint-paul/1672-rice-st.html,mn,saint-paul,1672-rice-st,001398,"1672 Rice St, Saint Paul, MN 55117",55117
+https://locations.tacobell.com/mn/saint-paul/1630-robert-st-s.html,mn,saint-paul,1630-robert-st-s,002395,"1630 Robert St S, Saint Paul, MN 55118",55118
+https://locations.tacobell.com/mi/marshall/15955-w-michigan-ave.html,mi,marshall,15955-w-michigan-ave,032993,"15955 W Michigan Ave, Marshall, MI 49068",15955
+https://locations.tacobell.com/mi/allegan/1575-lincoln-rd.html,mi,allegan,1575-lincoln-rd,033025,"1575 Lincoln Rd, Allegan, MI 49010",49010
+https://locations.tacobell.com/mi/detroit/15624-west-mc-nichols.html,mi,detroit,15624-west-mc-nichols,024449,"15624 West Mc Nichols, Detroit, MI 48235",15624
+https://locations.tacobell.com/mi/essexville/1555-w-center-ave.html,mi,essexville,1555-w-center-ave,021032,"1555 W Center Ave, Essexville, MI 48732",48732
+https://locations.tacobell.com/mn/minneapolis/1540-stinson-blvd-ne.html,mn,minneapolis,1540-stinson-blvd-ne,002384,"1540 Stinson Blvd NE, Minneapolis, MN 55413",55413
+https://locations.tacobell.com/mi/flushing/1535-e-pierson-rd.html,mi,flushing,1535-e-pierson-rd,033319,"1535 E Pierson Rd, Flushing, MI 48433",48433
+https://locations.tacobell.com/mi/iron-mountain/1520-s-stephenson-ave.html,mi,iron-mountain,1520-s-stephenson-ave,033431,"1520 S Stephenson Ave, Iron Mountain, MI 49801",49801
+https://locations.tacobell.com/mn/minnetonka/15110-highway-7.html,mn,minnetonka,15110-highway-7,002396,"15110 Highway 7, Minnetonka, MN 55345",15110
+https://locations.tacobell.com/mn/buffalo/150-orr-ave.html,mn,buffalo,150-orr-ave,031015,"150 Orr Ave, Buffalo, MN 55313",55313
+https://locations.tacobell.com/mn/saint-paul/1484-white-bear-avenue.html,mn,saint-paul,1484-white-bear-avenue,016333,"1484 White Bear Avenue, Saint Paul, MN 55106",55106
+https://locations.tacobell.com/mi/saginaw/1472-n-michigan-ave.html,mi,saginaw,1472-n-michigan-ave,042645,"1472 N Michigan Ave, Saginaw, MI 48602",48602
+https://locations.tacobell.com/mn/winona/1455-gilmore-ave.html,mn,winona,1455-gilmore-ave,003994,"1455 Gilmore Ave, Winona, MN 55987",55987
+https://locations.tacobell.com/mn/oak-park-heights/14529-60th-street-north.html,mn,oak-park-heights,14529-60th-street-north,015743,"14529 60th Street North, Oak Park Heights, MN 55082",14529
+https://locations.tacobell.com/mi/traverse-city/1447-w-south-airport-rd.html,mi,traverse-city,1447-w-south-airport-rd,042629,"1447 W South Airport Rd, Traverse City, MI 49686",49686
+https://locations.tacobell.com/mi/albion/1440-n--eaton-street.html,mi,albion,1440-n--eaton-street,033026,"1440 N. Eaton Street, Albion, MI 49224",49224
+https://locations.tacobell.com/mi/muskegon/1431-e-apple-ave.html,mi,muskegon,1431-e-apple-ave,033024,"1431 E Apple Ave, Muskegon, MI 49442",49442
+https://locations.tacobell.com/mn/burnsville/14231-nicollet-ave.html,mn,burnsville,14231-nicollet-ave,003929,"14231 Nicollet Ave, Burnsville, MN 55337",14231
+https://locations.tacobell.com/mn/baxter/14175-edgewood-dr.html,mn,baxter,14175-edgewood-dr,009467,"14175 Edgewood Dr, Baxter, MN 56425",14175
+https://locations.tacobell.com/mn/savage/14040-s-hwy-13.html,mn,savage,14040-s-hwy-13,020131,"14040 S Hwy 13, Savage, MN 55378",14040
+https://locations.tacobell.com/me/westbrook/140-main-st-.html,me,westbrook,140-main-st-,G135824,"140 Main St., Westbrook, ME 04092",04092
+https://locations.tacobell.com/mn/maple-grove/13910-grove-dr.html,mn,maple-grove,13910-grove-dr,004850,"13910 Grove Dr, Maple Grove, MN 55311",13910
+https://locations.tacobell.com/mi/freeland/138-s--main-st.html,mi,freeland,138-s--main-st,029864,"138 S. Main St, Freeland, MI 48623",48623
+https://locations.tacobell.com/mi/gaylord/1352-w-main.html,mi,gaylord,1352-w-main,042625,"1352 W Main, Gaylord, MI 49735",49735
+https://locations.tacobell.com/mn/rogers/13500-rogers-drive.html,mn,rogers,13500-rogers-drive,020173,"13500 Rogers Drive, Rogers, MN 55374",13500
+https://locations.tacobell.com/mn/eagan/1325-town-centre-dr.html,mn,eagan,1325-town-centre-dr,027586,"1325 Town Centre Dr, Eagan, MN 55123",55123
+https://locations.tacobell.com/mi/menominee/1322-8th-avenue.html,mi,menominee,1322-8th-avenue,033434,"1322 8th Avenue, Menominee, MI 49858",49858
+https://locations.tacobell.com/mi/ithaca/1321-e--center-street.html,mi,ithaca,1321-e--center-street,028153,"1321 E. Center Street, Ithaca, MI 48847",48847
+https://locations.tacobell.com/mi/plainwell/1310-m89.html,mi,plainwell,1310-m89,032995,"1310 M89, Plainwell, MI 49080",49080
+https://locations.tacobell.com/mi/battle-creek/1307-capital-ave-ne.html,mi,battle-creek,1307-capital-ave-ne,032999,"1307 Capital Ave NE, Battle Creek, MI 49017",49017
+https://locations.tacobell.com/mn/coon-rapids/13057-round-lake-blvd.html,mn,coon-rapids,13057-round-lake-blvd,005180,"13057 Round Lake Blvd, Coon Rapids, MN 55448",13057
+https://locations.tacobell.com/mi/fremont/1305-west-main-street.html,mi,fremont,1305-west-main-street,032994,"1305 West Main Street, Fremont, MI 49412",49412
+https://locations.tacobell.com/mn/marshall/1304-e--college-drive.html,mn,marshall,1304-e--college-drive,032402,"1304 E. College Drive, Marshall, MN 56258",56258
+https://locations.tacobell.com/mi/niles/1298-s-11th-st.html,mi,niles,1298-s-11th-st,035395,"1298 S 11th St, Niles, MI 49120",49120
+https://locations.tacobell.com/mn/forest-lake/1279-west-broadway.html,mn,forest-lake,1279-west-broadway,018101,"1279 West Broadway, Forest Lake, MN 55025",55025
+https://locations.tacobell.com/me/sanford/1244-main-street.html,me,sanford,1244-main-street,G445006,"1244 Main Street, Sanford, ME 04073",04073
+https://locations.tacobell.com/mn/monticello/124-e-7th-st.html,mn,monticello,124-e-7th-st,005714,"124 E 7th St, Monticello, MN 55362",55362
+https://locations.tacobell.com/mn/hastings/1229-n-frontage-rd.html,mn,hastings,1229-n-frontage-rd,005401,"1229 N Frontage Rd, Hastings, MN 55033",55033
+https://locations.tacobell.com/me/lewiston/1201-lisbon.html,me,lewiston,1201-lisbon,G135825,"1201 Lisbon, Lewiston, ME 04240",04240
+https://locations.tacobell.com/mi/coopersville/1191-omalley-drive.html,mi,coopersville,1191-omalley-drive,033000,"1191 O'Malley Drive, Coopersville, MI 49404",49404
+https://locations.tacobell.com/mi/petoskey/1191-n--u-s--highway-31.html,mi,petoskey,1191-n--u-s--highway-31,003758,"1191 N. U.S. Highway 31, Petoskey, MI 49770",49770
+https://locations.tacobell.com/mi/burton/1176-n-belsay-rd.html,mi,burton,1176-n-belsay-rd,002780,"1176 N Belsay Rd, Burton, MI 48509",48509
+https://locations.tacobell.com/mi/wayland/1158-w--superior-street.html,mi,wayland,1158-w--superior-street,033043,"1158 W. Superior Street, Wayland, MI 49348",49348
+https://locations.tacobell.com/mi/davison/1153-s--state-rd.html,mi,davison,1153-s--state-rd,003192,"1153 S. State Rd, Davison, MI 48423",48423
+https://locations.tacobell.com/mi/holland/1144-south-washington.html,mi,holland,1144-south-washington,033002,"1144 South Washington, Holland, MI 49423",49423
+https://locations.tacobell.com/mi/mount-pleasant/1143-s-mission-st.html,mi,mount-pleasant,1143-s-mission-st,042651,"1143 S Mission St, Mount Pleasant, MI 48858",48858
+https://locations.tacobell.com/mi/dowagiac/114-main-street.html,mi,dowagiac,114-main-street,032105,"114 Main Street, Dowagiac, MI 49047",49047
+https://locations.tacobell.com/mi/south-haven/1133-phoenix-road.html,mi,south-haven,1133-phoenix-road,033006,"1133 Phoenix Road, South Haven, MI 49090",49090
+https://locations.tacobell.com/mi/wyoming/1123-chicago-dr.html,mi,wyoming,1123-chicago-dr,033013,"1123 Chicago Dr, Wyoming, MI 49509",49509
+https://locations.tacobell.com/mi/alpena/111-padd-court.html,mi,alpena,111-padd-court,042641,"111 Padd Court, Alpena, MI 49707",49707
+https://locations.tacobell.com/mi/adrian/1106-n--main-st.html,mi,adrian,1106-n--main-st,031390,"1106 N. Main St, Adrian, MI 49221",49221
+https://locations.tacobell.com/mi/dewitt/1100-east-herbison-rd.html,mi,dewitt,1100-east-herbison-rd,031269,"1100 East Herbison Rd, Dewitt, MI 48820",48820
+https://locations.tacobell.com/mn/blaine/10729-university-ave-ne.html,mn,blaine,10729-university-ave-ne,004513,"10729 University Ave NE, Blaine, MN 55434",10729
+https://locations.tacobell.com/mi/east-lansing/1051-trowbridge-road.html,mi,east-lansing,1051-trowbridge-road,001880,"1051 Trowbridge Road, East Lansing, MI 48823",48823
+https://locations.tacobell.com/mn/little-falls/105-lemieur-st.html,mn,little-falls,105-lemieur-st,029904,"105 Lemieur St, Little Falls, MN 56345",56345
+https://locations.tacobell.com/mi/clare/10384-s--clare-avenue.html,mi,clare,10384-s--clare-avenue,024033,"10384 S. Clare Avenue, Clare, MI 48617",10384
+https://locations.tacobell.com/mn/duluth/1031-west-central-entrance.html,mn,duluth,1031-west-central-entrance,015637,"1031 West Central Entrance, Duluth, MN 55811",55811
+https://locations.tacobell.com/mi/adrian/1024-south-main-st-.html,mi,adrian,1024-south-main-st-,022671,"1024 South Main St., Adrian, MI 49221",49221
+https://locations.tacobell.com/mi/hastings/1021-w--state-st-.html,mi,hastings,1021-w--state-st-,033008,"1021 W. State St., Hastings, MI 49058",49058
+https://locations.tacobell.com/mi/three-rivers/1017-w-michigan-ave.html,mi,three-rivers,1017-w-michigan-ave,033023,"1017 W Michigan Ave, Three Rivers, MI 49093",49093
+https://locations.tacobell.com/mi/grand-rapids/1014-michigan-street-n-e.html,mi,grand-rapids,1014-michigan-street-n-e,042636,"1014 Michigan Street N E, Grand Rapids, MI 49503",49503
+https://locations.tacobell.com/mi/bay-city/1004-north-euclid-avenue.html,mi,bay-city,1004-north-euclid-avenue,018677,"1004 North Euclid Avenue, Bay City, MI 48706",48706
+https://locations.tacobell.com/mn/hutchinson/1004-highway-15-south.html,mn,hutchinson,1004-highway-15-south,016318,"1004 Highway 15 South, Hutchinson, MN 55350",55350
+https://locations.tacobell.com/mn/saint-cloud/10-8th-avenue-se.html,mn,saint-cloud,10-8th-avenue-se,016822,"10 8th Avenue SE, Saint Cloud, MN 56304",56304
+https://locations.tacobell.com/mi/marlette/2747-main-street.html,mi,marlette,2747-main-street,040700,"2747 Main Street, Marlette, MI 48453",48453
+https://locations.tacobell.com/mi/brownstown/18880-telegraph-rd-.html,mi,brownstown,18880-telegraph-rd-,040164,"18880 Telegraph Rd., Brownstown, MI 48174",18880
+https://locations.tacobell.com/mi/battle-creek/1501-michigan-ave-w.html,mi,battle-creek,1501-michigan-ave-w,040369,"1501 Michigan Ave W, Battle Creek, MI 49037",49037
+https://locations.tacobell.com/mi/white-lake/6305-highland-road.html,mi,white-lake,6305-highland-road,037362,"6305 Highland Road, White Lake, MI 48383",48383
+https://locations.tacobell.com/mi/holly/4047-grange-hall-rd.html,mi,holly,4047-grange-hall-rd,040608,"4047 Grange Hall Rd, Holly, MI 48442",48442
+https://locations.tacobell.com/mi/mount-pleasant/5760-e--pickard-rd-.html,mi,mount-pleasant,5760-e--pickard-rd-,042652,"5760 E. Pickard Rd., Mount Pleasant, MI 48858",48858
+https://locations.tacobell.com/mi/saint-clair/1191-s-carney-dr.html,mi,saint-clair,1191-s-carney-dr,041876,"1191 S Carney Dr, Saint Clair, MI 48079",48079
+https://locations.tacobell.com/mi/milan/1180-dexter-street.html,mi,milan,1180-dexter-street,040898,"1180 Dexter Street, Milan, MI 48160",48160
+https://locations.tacobell.com/mn/mankato/145-st--andrews-dr.html,mn,mankato,145-st--andrews-dr,040771,"145 St. Andrews Dr, Mankato, MN 56001",56001
+https://locations.tacobell.com/mn/lakeville/16085-elmhurst-lane.html,mn,lakeville,16085-elmhurst-lane,033441,"16085 Elmhurst Lane, Lakeville, MN 55044",16085
+https://locations.tacobell.com/mn/fergus-falls/615-frontier-dr.html,mn,fergus-falls,615-frontier-dr,033440,"615 Frontier Dr, Fergus Falls, MN 56537",56537
+https://locations.tacobell.com/mi/grand-rapids/6010-28th-st-se.html,mi,grand-rapids,6010-28th-st-se,033075,"6010 28th St SE, Grand Rapids, MI 49546",49546
+https://locations.tacobell.com/mi/rockford/2971-10-mile-rd-ne.html,mi,rockford,2971-10-mile-rd-ne,032574,"2971 10 Mile Rd NE, Rockford, MI 49341",49341
+https://locations.tacobell.com/mn/cloquet/1418-highway-33.html,mn,cloquet,1418-highway-33,033465,"1418 Highway 33, Cloquet, MN 55720",55720
+https://locations.tacobell.com/mn/jordan/240-triangle-lane-north.html,mn,jordan,240-triangle-lane-north,033635,"240 Triangle Lane North, Jordan, MN 55352",55352
+https://locations.tacobell.com/mi/grand-blanc/1058-e-hill-road.html,mi,grand-blanc,1058-e-hill-road,033999,"1058 E Hill Road, Grand Blanc, MI 48439",48439
+https://locations.tacobell.com/mi/linden/605-west-broad-street.html,mi,linden,605-west-broad-street,034020,"605 West Broad Street, Linden, MI 48451",48451
+https://locations.tacobell.com/mi/lansing/310-n--clippert-street.html,mi,lansing,310-n--clippert-street,034299,"310 N. Clippert Street, Lansing, MI 48912",48912
+https://locations.tacobell.com/mi/corunna/2511-e-m-21.html,mi,corunna,2511-e-m-21,040524,"2511 E M-21, Corunna, MI 48817",48817

@@ -1,0 +1,497 @@
+url,state,city,address_slug,store_id,full_address,zip_code,latitude,longitude
+https://locations.tacobell.com/ky/cave-city/800-mammouth-cave-st-.html,ky,cave-city,800-mammouth-cave-st-,040326,"800 Mammouth Cave St., Cave City, KY 42127",42127,37.13810000000001,-85.97359999999999
+https://locations.tacobell.com/md/fort-washington/9594-livingston-rd.html,md,fort-washington,9594-livingston-rd,040699,"9594 Livingston Rd, Fort Washington, MD 20744",20744,38.7578397,-76.9961115
+https://locations.tacobell.com/ky/owingsville/18-miller-scenic-view-drive.html,ky,owingsville,18-miller-scenic-view-drive,041495,"18 Miller Scenic View Drive, Owingsville, KY 40360",40360,38.131999,-83.7518132
+https://locations.tacobell.com/ky/taylorsville/135-settlers-center-rd-.html,ky,taylorsville,135-settlers-center-rd-,041162,"135 Settlers Center Rd., Taylorsville, KY 40071",40071,38.0439064,-85.3413479
+https://locations.tacobell.com/ky/louisville/12609-taylorsville-rd.html,ky,louisville,12609-taylorsville-rd,041401,"12609 Taylorsville Rd, Louisville, KY 40299",12609,38.1880925,-85.5180313
+https://locations.tacobell.com/md/brandywine/15815-robert-crain-highway-sw.html,md,brandywine,15815-robert-crain-highway-sw,037815,"15815 Robert Crain Highway SW, Brandywine, MD 20613",15815,38.6758749,-76.8768178
+https://locations.tacobell.com/ma/allston/1222-commonwealth-ave.html,ma,allston,1222-commonwealth-ave,041634,"1222 Commonwealth Ave, Allston, MA 02134",02134,42.3500982,-71.1306257
+https://locations.tacobell.com/md/silver-spring/8662-colesville-road.html,md,silver-spring,8662-colesville-road,041067,"8662 Colesville Road, Silver Spring, MD 20910",20910,38.9975264,-77.0273835
+https://locations.tacobell.com/md/centreville/104-stella-ln.html,md,centreville,104-stella-ln,041012,"104 Stella Ln, Centreville, MD 21617",21617,39.0289199,-76.076818
+https://locations.tacobell.com/md/elkton/312-east-pulaski-hwy-.html,md,elkton,312-east-pulaski-hwy-,041691,"312 East Pulaski Hwy., Elkton, MD 21921",21921,39.5975634,-75.8183278
+https://locations.tacobell.com/ky/louisville/2009-brownsboro-rd.html,ky,louisville,2009-brownsboro-rd,041311,"2009 Brownsboro Rd, Louisville, KY 40206",40206,38.259663,-85.707018
+https://locations.tacobell.com/la/rayne/1049-church-point-highway.html,la,rayne,1049-church-point-highway,034830,"1049 Church Point Highway, Rayne, LA 70578",70578,30.2534598,-92.2698266
+https://locations.tacobell.com/ma/taunton/700-county-street.html,ma,taunton,700-county-street,040880,"700 County Street, Taunton, MA 02780",02780,41.883787,-71.0658433
+https://locations.tacobell.com/ky/falmouth/1321-w-shelby-st.html,ky,falmouth,1321-w-shelby-st,042081,"1321 W Shelby St, Falmouth, KY 41040",41040,38.6786231,-84.3433202
+https://locations.tacobell.com/la/many/225-san-antonio-ave.html,la,many,225-san-antonio-ave,041689,"225 San Antonio Ave, Many, LA 71449",71449,31.5670607,-93.4897725
+https://locations.tacobell.com/ma/hanover/1167-washington-street.html,ma,hanover,1167-washington-street,041822,"1167 Washington Street, Hanover, MA 02339",02339,42.13681,-70.8389441
+https://locations.tacobell.com/ma/boston/1084-boylston-street.html,ma,boston,1084-boylston-street,042045,"1084 Boylston Street, Boston, MA 02215",02215,42.3469152,-71.0880639
+https://locations.tacobell.com/la/port-allen/3631-hwy-1-south.html,la,port-allen,3631-hwy-1-south,041954,"3631 Hwy 1 South, Port Allen, LA 70767",70767,30.4461828,-91.210243
+https://locations.tacobell.com/ky/somerset/3013-s--highway-27.html,ky,somerset,3013-s--highway-27,041951,"3013 S. Highway 27, Somerset, KY 42503",42503,37.051844,-84.626002
+https://locations.tacobell.com/ma/springfield/464-breckwood-blvd.html,ma,springfield,464-breckwood-blvd,034829,"464 Breckwood Blvd, Springfield, MA 01109",01109,42.117426,-72.524399
+https://locations.tacobell.com/la/meraux/4212-east-judge-perez-drive.html,la,meraux,4212-east-judge-perez-drive,034246,"4212 East Judge Perez Drive, Meraux, LA 70075",70075,29.9344682,-89.9218439
+https://locations.tacobell.com/ky/crescent-springs/609-emily-drive.html,ky,crescent-springs,609-emily-drive,034236,"609 Emily Drive, Crescent Springs, KY 41017",41017,39.0529171,-84.5758569
+https://locations.tacobell.com/ky/louisa/100-falls-creek-drive.html,ky,louisa,100-falls-creek-drive,031766,"100 Falls Creek Drive, Louisa, KY 41230",41230,38.1248489,-82.62815049999999
+https://locations.tacobell.com/la/morgan-city/1079r-highway-90-e.html,la,morgan-city,1079r-highway-90-e,017489,"1079R Highway 90 E, Morgan City, LA 70380",70380,29.6831921,-91.26527929999999
+https://locations.tacobell.com/ky/crestwood/6521-veterans-memorial-pkwy.html,ky,crestwood,6521-veterans-memorial-pkwy,033935,"6521 Veterans Memorial Pkwy, Crestwood, KY 40014",40014,38.3390318,-85.473573
+https://locations.tacobell.com/ky/hazard/105-black-gold-court.html,ky,hazard,105-black-gold-court,034770,"105 Black Gold Court, Hazard, KY 41701",41701,37.2532326,-83.1994415
+https://locations.tacobell.com/ma/athol/79-market-dr.html,ma,athol,79-market-dr,035333,"79 Market Dr, Athol, MA 01331",01331,42.5803838,-72.1846802
+https://locations.tacobell.com/ky/salyersville/357-e-mountain-parkway.html,ky,salyersville,357-e-mountain-parkway,035324,"357 E Mountain Parkway, Salyersville, KY 41465",41465,37.7359262,-83.0647569
+https://locations.tacobell.com/la/bossier-city/5500-airline-dr.html,la,bossier-city,5500-airline-dr,042215,"5500 Airline Dr, Bossier City, LA 71111",71111,32.6226074,-93.7135377
+https://locations.tacobell.com/la/denham-springs/27750-juban-rd.html,la,denham-springs,27750-juban-rd,036221,"27750 Juban Rd Suite A, Denham Springs, LA 70726",27750,30.468343,-90.9176952
+https://locations.tacobell.com/md/elkton/260-belle-hill-road.html,md,elkton,260-belle-hill-road,G135761,"260 Belle Hill Road, Elkton, MD 21921",21921,39.6352324,-75.8065706
+https://locations.tacobell.com/la/new-roads/2300-false-river-drive.html,la,new-roads,2300-false-river-drive,036269,"2300 False River Drive, New Roads, LA 70760",70760,30.6872354,-91.4524013
+https://locations.tacobell.com/la/pineville/2399-hwy-28-east.html,la,pineville,2399-hwy-28-east,035186,"2399 Hwy 28 East, Pineville, LA 71360",71360,31.3333809,-92.4143395
+https://locations.tacobell.com/ky/pikeville/384-s-mayo-trail.html,ky,pikeville,384-s-mayo-trail,035299,"384 S Mayo Trail, Pikeville, KY 41501",41501,37.4665254,-82.5313766
+https://locations.tacobell.com/ma/boston/76-summer-street.html,ma,boston,76-summer-street,035162,"76 Summer Street, Boston, MA 02110",02110,42.3540669,-71.0582052
+https://locations.tacobell.com/md/dunkirk/10090-dunkirk-way.html,md,dunkirk,10090-dunkirk-way,039992,"10090 Dunkirk Way, Dunkirk, MD 20754",10090,38.7167137,-76.6582916
+https://locations.tacobell.com/md/bel-air/2203-jack-lane.html,md,bel-air,2203-jack-lane,034949,"2203 Jack Lane, Bel Air, MD 21015",21015,39.5769208,-76.3420631
+https://locations.tacobell.com/ma/fall-river/150-plymouth-ave.html,ma,fall-river,150-plymouth-ave,040881,"150 Plymouth Ave, Fall River, MA 02721",02721,41.6971706,-71.1484056
+https://locations.tacobell.com/la/plaquemine/24529-highway-1.html,la,plaquemine,24529-highway-1,036471,"24529 Highway 1, Plaquemine, LA 70764",24529,30.2817112,-91.2278018
+https://locations.tacobell.com/la/new-orleans/2169-robert-e--lee-boulevard.html,la,new-orleans,2169-robert-e--lee-boulevard,033498,"2169 Robert E. Lee Boulevard, New Orleans, LA 70122",70122,30.0224794,-90.0617219
+https://locations.tacobell.com/ma/worcester/418-park-ave.html,ma,worcester,418-park-ave,E685022,"418 Park Ave, Worcester, MA 01610",01610,42.2567243,-71.8238769
+https://locations.tacobell.com/ky/louisville/7420-westport-road.html,ky,louisville,7420-westport-road,036164,"7420 Westport Road, Louisville, KY 40222",40222,38.2871856,-85.5730662
+https://locations.tacobell.com/md/baltimore/6602-reisterstown-rd.html,md,baltimore,6602-reisterstown-rd,036235,"6602 Reisterstown Rd, Baltimore, MD 21215",21215,39.3569985,-76.7043018
+https://locations.tacobell.com/md/lavale/1262-national-highway.html,md,lavale,1262-national-highway,040080,"1262 National Highway, Lavale, MD 21502",21502,39.6361582,-78.8418436
+https://locations.tacobell.com/ky/russell-springs/305-s-hwy-127.html,ky,russell-springs,305-s-hwy-127,036472,"305 S Hwy 127, Russell Springs, KY 42642",42642,37.0561788,-85.0885667
+https://locations.tacobell.com/ky/smiths-grove/605-main-street.html,ky,smiths-grove,605-main-street,034077,"605 Main Street, Smiths Grove, KY 42171",42171,37.0558556,-86.2079287
+https://locations.tacobell.com/ky/walton/145-richwood-road.html,ky,walton,145-richwood-road,019405,"145 Richwood Road, Walton, KY 41094",41094,38.9175645,-84.6264685
+https://locations.tacobell.com/md/burtonsville/15670-columbia-pike.html,md,burtonsville,15670-columbia-pike,039993,"15670 Columbia Pike, Burtonsville, MD 20866",15670,39.1123525,-76.9341504
+https://locations.tacobell.com/ky/hodgenville/300-lincoln-parkway.html,ky,hodgenville,300-lincoln-parkway,036940,"300 Lincoln Parkway, Hodgenville, KY 42748",42748,37.6054448,-85.7891461
+https://locations.tacobell.com/ky/liberty/705-n-wallace-wilkinson-blvd.html,ky,liberty,705-n-wallace-wilkinson-blvd,037098,"705 N Wallace Wilkinson Blvd, Liberty, KY 42539",42539,37.3232731,-84.9252267
+https://locations.tacobell.com/ma/brookline/872-commonwealth-avenue.html,ma,brookline,872-commonwealth-avenue,037044,"872 Commonwealth Avenue, Brookline, MA 02446",02446,42.3506724,-71.11441479999999
+https://locations.tacobell.com/ky/corbin/955-w-cumberland-gap-parkway.html,ky,corbin,955-w-cumberland-gap-parkway,037188,"955 W Cumberland Gap Parkway, Corbin, KY 40701",40701,36.9732613,-84.0978051
+https://locations.tacobell.com/ma/cambridge/95-1st-st.html,ma,cambridge,95-1st-st,042066,"95 1st St, Cambridge, MA 02141",02141,42.36806920000001,-71.07774909999999
+https://locations.tacobell.com/ma/boston/10-maverick-square.html,ma,boston,10-maverick-square,042078,"10 Maverick Square, Boston, MA 02128",02128,42.3692135,-71.0399631
+https://locations.tacobell.com/ma/brockton/715-crescent-street.html,ma,brockton,715-crescent-street,042171,"715 Crescent Street, Brockton, MA 02302",02302,42.0805171,-70.9898036
+https://locations.tacobell.com/ky/nicholasville/150-hope-court.html,ky,nicholasville,150-hope-court,042036,"150 Hope Court, Nicholasville, KY 40356",40356,37.9478197,-84.5413999
+https://locations.tacobell.com/ky/louisville/3459-taylor-blvd.html,ky,louisville,3459-taylor-blvd,042410,"3459 Taylor Blvd, Louisville, KY 40215",40215,38.1967832,-85.7824188
+https://locations.tacobell.com/la/broussard/1106-e-main-st-.html,la,broussard,1106-e-main-st-,042413,"1106 E Main St., Broussard, LA 70518",70518,30.1436122,-91.9479557
+https://locations.tacobell.com/ky/stanford/378-vincent-drive.html,ky,stanford,378-vincent-drive,037287,"378 Vincent Drive, Stanford, KY 40484",40484,37.5389458,-84.6495192
+https://locations.tacobell.com/md/germantown/19650-gunners-branch-road.html,md,germantown,19650-gunners-branch-road,K071131,"19650 Gunners Branch Road, Germantown, MD 20876",19650,39.1783103,-77.2402122
+https://locations.tacobell.com/md/hampstead/2309-hanover-pike.html,md,hampstead,2309-hanover-pike,K071043,"2309 Hanover Pike, Hampstead, MD 21074",21074,39.6386503,-76.8670529
+https://locations.tacobell.com/ky/nicholasville/116-hendren-way.html,ky,nicholasville,116-hendren-way,037344,"116 Hendren Way, Nicholasville, KY 40356",40356,37.8712466,-84.5987326
+https://locations.tacobell.com/ma/saugus/1201-broadway.html,ma,saugus,1201-broadway,023972,"1201 Broadway, Saugus, MA 01906",01906,42.4610967,-71.0278666
+https://locations.tacobell.com/md/frederick/5583-spectrum-dr.html,md,frederick,5583-spectrum-dr,K071104,"5583 Spectrum Dr, Frederick, MD 21703",21703,39.3859257,-77.4066422
+https://locations.tacobell.com/ky/louisville/one-arena-plaza-307696.html,ky,louisville,one-arena-plaza-307696,027086,"One Arena Plaza, Louisville, KY 40203",40203,38.2429908,-85.7641013
+https://locations.tacobell.com/md/college-park/1150-south-campus-dining-hall.html,md,college-park,1150-south-campus-dining-hall,005497,"1150 South Campus Dining Hall, College Park, MD 20742",20742,38.9833309,-76.9437058
+https://locations.tacobell.com/ky/louisville/1441-gardiner-lane.html,ky,louisville,1441-gardiner-lane,004656,"1441 Gardiner Lane, Louisville, KY 40213",40213,38.1999626,-85.6950601
+https://locations.tacobell.com/md/mount-airy/1613-ridgeside-dr.html,md,mount-airy,1613-ridgeside-dr,K071041,"1613 Ridgeside Dr, Mount Airy, MD 21771",21771,39.3630701,-77.1634907
+https://locations.tacobell.com/ky/louisville/5012-s-3rd-st.html,ky,louisville,5012-s-3rd-st,Y052016,"5012 S 3rd St, Louisville, KY 40214",40214,38.1740238,-85.7679843
+https://locations.tacobell.com/ky/fort-knox/bldg-127-gold-vault-ave.html,ky,fort-knox,bldg-127-gold-vault-ave,032140,"Bldg 127 Gold Vault Ave, Fort Knox, KY 40121",40121,37.8853595,-85.9503469
+https://locations.tacobell.com/md/silver-spring/7720-blair-road.html,md,silver-spring,7720-blair-road,K071135,"7720 Blair Road, Silver Spring, MD 20912",20912,38.9839387,-77.025395
+https://locations.tacobell.com/ma/natick/1245-worchester-street.html,ma,natick,1245-worchester-street,027513,"1245 Worchester Street, Natick, MA 01760",01760,42.30089710000001,-71.38317959999999
+https://locations.tacobell.com/md/wheaton/11160-veirs-mill-road.html,md,wheaton,11160-veirs-mill-road,032954,"11160 Veirs Mill Road, Wheaton, MD 20902",11160,39.0361733,-77.054976
+https://locations.tacobell.com/ky/louisville/one-arena-plaza-307695.html,ky,louisville,one-arena-plaza-307695,027085,"One Arena Plaza, Louisville, KY 40202",40202,38.2522493,-85.7518429
+https://locations.tacobell.com/ky/munfordville/103-old-main-street.html,ky,munfordville,103-old-main-street,037108,"103 Old Main Street, Munfordville, KY 42765",42765,37.2866112,-85.9034256
+https://locations.tacobell.com/md/lexington-park/21583-great-mills-road.html,md,lexington-park,21583-great-mills-road,039994,"21583 Great Mills Road, Lexington Park, MD 20653",21583,38.2601143,-76.4673151
+https://locations.tacobell.com/ma/new-bedford/129-rockdale-ave.html,ma,new-bedford,129-rockdale-ave,040883,"129 Rockdale Ave, New Bedford, MA 02740",02740,41.6146462,-70.9364224
+https://locations.tacobell.com/ky/louisville/5868-new-cut-road.html,ky,louisville,5868-new-cut-road,037672,"5868 New Cut Road, Louisville, KY 40214",40214,38.128405,-85.7751056
+https://locations.tacobell.com/la/port-barre/17621-hwy-190.html,la,port-barre,17621-hwy-190,041580,"17621 Hwy 190, Port Barre, LA 70577",17621,30.5468208,-91.9647895
+https://locations.tacobell.com/ma/norwood/958-providence-highway.html,ma,norwood,958-providence-highway,040884,"958 Providence Highway, Norwood, MA 02062",02062,42.1567474,-71.2024756
+https://locations.tacobell.com/md/baltimore/5371-campbell-boulevard.html,md,baltimore,5371-campbell-boulevard,037494,"5371 Campbell Boulevard, Baltimore, MD 21237",21237,39.36711,-76.4507728
+https://locations.tacobell.com/md/hagerstown/10425-sharpsburg-pike.html,md,hagerstown,10425-sharpsburg-pike,034372,"10425 Sharpsburg Pike, Hagerstown, MD 21740",10425,39.599959,-77.7293713
+https://locations.tacobell.com/ky/henderson/132-green-street.html,ky,henderson,132-green-street,037703,"132 Green Street, Henderson, KY 42420",42420,37.8355026,-87.5914454
+https://locations.tacobell.com/ky/brandenburg/316-bypass-road.html,ky,brandenburg,316-bypass-road,037365,"316 Bypass Road, Brandenburg, KY 40108",40108,38.0102603,-86.2002017
+https://locations.tacobell.com/ky/whitley-city/1155-n-hwy-27.html,ky,whitley-city,1155-n-hwy-27,039124,"1155 N Hwy 27, Whitley City, KY 42653",42653,36.7389948,-84.4724105
+https://locations.tacobell.com/ma/pittsfield/1011-dalton-avenue.html,ma,pittsfield,1011-dalton-avenue,037339,"1011 Dalton Avenue, Pittsfield, MA 01201",01201,42.4700531,-73.1972071
+https://locations.tacobell.com/ky/louisville/5414-bardstown-road.html,ky,louisville,5414-bardstown-road,037677,"5414 Bardstown Road, Louisville, KY 40291",40291,38.1661163,-85.601619
+https://locations.tacobell.com/ky/scottsville/1751-old-gallatin-rd.html,ky,scottsville,1751-old-gallatin-rd,035007,"1751 Old Gallatin Rd, Scottsville, KY 42164",42164,36.7374104,-86.2121518
+https://locations.tacobell.com/ky/hopkinsville/2629-ft--campbell-blvd.html,ky,hopkinsville,2629-ft--campbell-blvd,034432,"2629 Ft. Campbell Blvd, Hopkinsville, KY 42240",42240,36.842067,-87.4841391
+https://locations.tacobell.com/ky/ashland/2850-winchester-ave.html,ky,ashland,2850-winchester-ave,034567,"2850 Winchester Ave, Ashland, KY 41101",41101,38.4699261,-82.6239389
+https://locations.tacobell.com/ky/south-williamson/29080-us-hwy-119-n.html,ky,south-williamson,29080-us-hwy-119-n,023964,"29080 US Hwy 119 N, South Williamson, KY 41503",29080,37.6665144,-82.2752817
+https://locations.tacobell.com/ky/ashland/410-russell-rd.html,ky,ashland,410-russell-rd,034558,"410 Russell Rd, Ashland, KY 41101",41101,38.5022829,-82.6789818
+https://locations.tacobell.com/ky/pikeville/4368-north-mayo-trail.html,ky,pikeville,4368-north-mayo-trail,017315,"4368 North Mayo Trail, Pikeville, KY 41501",41501,37.5259866,-82.5729495
+https://locations.tacobell.com/ky/hopkinsville/498-north-drive.html,ky,hopkinsville,498-north-drive,034439,"498 North Drive, Hopkinsville, KY 42240",42240,36.8707672,-87.4993958
+https://locations.tacobell.com/ky/tompkinsville/507-n-main-st-.html,ky,tompkinsville,507-n-main-st-,035008,"507 N Main St., Tompkinsville, KY 42167",42167,36.7034441,-85.6907401
+https://locations.tacobell.com/ky/russellville/590-n-main-st.html,ky,russellville,590-n-main-st,015281,"590 N Main St, Russellville, KY 42276",42276,36.8504222,-86.8894006
+https://locations.tacobell.com/ky/paintsville/603-n--mayo-trail.html,ky,paintsville,603-n--mayo-trail,024662,"603 N. Mayo Trail, Paintsville, KY 41240",41240,37.8254839,-82.8228775
+https://locations.tacobell.com/ky/grayson/730-north-carol-malone-blvd.html,ky,grayson,730-north-carol-malone-blvd,017256,"730 North Carol Malone Blvd, Grayson, KY 41143",41143,38.3408216,-82.94213020000001
+https://locations.tacobell.com/ky/prestonsburg/740-n-lake-dr.html,ky,prestonsburg,740-n-lake-dr,028463,"740 N Lake Dr, Prestonsburg, KY 41653",41653,37.6761418,-82.7787815
+https://locations.tacobell.com/ky/franklin/847-s-main-st.html,ky,franklin,847-s-main-st,015897,"847 S Main St, Franklin, KY 42134",42134,36.7084486,-86.575881
+https://locations.tacobell.com/ky/louisville/4225-cane-run-road.html,ky,louisville,4225-cane-run-road,038512,"4225 Cane Run Road, Louisville, KY 40216",40216,38.200608,-85.8352541
+https://locations.tacobell.com/ma/boston/449-west-broadway.html,ma,boston,449-west-broadway,039603,"449 West Broadway, Boston, MA 02127",02127,42.3359444,-71.0468001
+https://locations.tacobell.com/ky/springfield/977-lincoln-park-road.html,ky,springfield,977-lincoln-park-road,040308,"977 Lincoln Park Road, Springfield, KY 40069",40069,37.6933595,-85.2183832
+https://locations.tacobell.com/ma/swansea/572-gar-highway.html,ma,swansea,572-gar-highway,039537,"572 GAR Highway, Swansea, MA 02777",02777,41.7471191,-71.2054903
+https://locations.tacobell.com/la/new-orleans/6007-bullard-ave.html,la,new-orleans,6007-bullard-ave,036928,"6007 Bullard Ave, New Orleans, LA 70128",70128,30.0443552,-89.9590185
+https://locations.tacobell.com/md/cockeysville/9928-york-rd.html,md,cockeysville,9928-york-rd,032675,"9928 York Rd, Cockeysville, MD 21030",21030,39.4623413,-76.6361397
+https://locations.tacobell.com/la/baton-rouge/9656-airline-hwy.html,la,baton-rouge,9656-airline-hwy,034621,"9656 Airline Hwy, Baton Rouge, LA 70815",70815,30.4328202,-91.0813038
+https://locations.tacobell.com/la/shreveport/9424-mansfield-rd.html,la,shreveport,9424-mansfield-rd,042220,"9424 Mansfield Rd, Shreveport, LA 71118",71118,32.3953058,-93.8115403
+https://locations.tacobell.com/md/lanham/9409-annapolis-road.html,md,lanham,9409-annapolis-road,040049,"9409 Annapolis Road, Lanham, MD 20706",20706,38.9648945,-76.8454874
+https://locations.tacobell.com/md/salisbury/932-s--salisbury-blvd-.html,md,salisbury,932-s--salisbury-blvd-,029893,"932 S. Salisbury Blvd., Salisbury, MD 21801",21801,38.3518317,-75.6017323
+https://locations.tacobell.com/md/frederick/931-w-7th-st.html,md,frederick,931-w-7th-st,040039,"931 W 7th St, Frederick, MD 21701",21701,39.4259324,-77.4163292
+https://locations.tacobell.com/ky/ashland/9309-u-s--highway-60.html,ky,ashland,9309-u-s--highway-60,K198013,"9309 U.S. Highway 60, Ashland, KY 41102",41102,38.4079982,-82.7156627
+https://locations.tacobell.com/ky/jeffersontown/9102-taylorsville-rd.html,ky,jeffersontown,9102-taylorsville-rd,036155,"9102 Taylorsville Rd, Jeffersontown, KY 40299",40299,38.2132898,-85.5888276
+https://locations.tacobell.com/md/waldorf/91-smallwood-drive.html,md,waldorf,91-smallwood-drive,039973,"91 Smallwood Drive, Waldorf, MD 20602",20602,38.6108638,-76.9251967
+https://locations.tacobell.com/ky/cynthiana/905-u-s--highway-27-south.html,ky,cynthiana,905-u-s--highway-27-south,G135980,"905 U.S. Highway 27 South, Cynthiana, KY 41031",41031,38.3787465,-84.309516
+https://locations.tacobell.com/la/monroe/900-sterlington-rd.html,la,monroe,900-sterlington-rd,037689,"900 Sterlington Rd, Monroe, LA 71203",71203,32.5301972,-92.0796848
+https://locations.tacobell.com/ky/columbia/899-jamestown-road.html,ky,columbia,899-jamestown-road,016279,"899 Jamestown Road, Columbia, KY 42728",42728,37.1025574,-85.3058709
+https://locations.tacobell.com/la/metairie/8817-west-veterans-memorial-blvd.html,la,metairie,8817-west-veterans-memorial-blvd,041584,"8817 West Veterans Memorial Blvd, Metairie, LA 70003",70003,30.0060239,-90.2246562
+https://locations.tacobell.com/ma/brockton/875-n-montello-st.html,ma,brockton,875-n-montello-st,E685016,"875 N Montello St, Brockton, MA 02301",02301,42.1070823,-71.0230196
+https://locations.tacobell.com/md/jessup/8620-washington-blvd.html,md,jessup,8620-washington-blvd,032667,"8620 Washington Blvd, Jessup, MD 20794",20794,39.146077,-76.8088612
+https://locations.tacobell.com/ky/louisville/8602-dixie-hwy.html,ky,louisville,8602-dixie-hwy,034664,"8602 Dixie Hwy, Louisville, KY 40258",40258,38.1268608,-85.8513039
+https://locations.tacobell.com/ky/florence/8526-us-highway-42.html,ky,florence,8526-us-highway-42,033648,"8526 US Highway 42, Florence, KY 41042",41042,38.974992,-84.66097420000001
+https://locations.tacobell.com/ma/new-bedford/85-coggeshall-st.html,ma,new-bedford,85-coggeshall-st,040872,"85 Coggeshall St, New Bedford, MA 02746",02746,41.6559988,-70.9194343
+https://locations.tacobell.com/md/college-park/8428-baltimore-ave-.html,md,college-park,8428-baltimore-ave-,039072,"8428 Baltimore Ave., College Park, MD 20740",20740,38.9943467,-76.932912
+https://locations.tacobell.com/la/chalmette/8317-w--judge-perez.html,la,chalmette,8317-w--judge-perez,026656,"8317 W. Judge Perez, Chalmette, LA 70043",70043,29.95379609999999,-89.9785485
+https://locations.tacobell.com/md/parkville/8311-harford-road.html,md,parkville,8311-harford-road,032679,"8311 Harford Road, Parkville, MD 21234",21234,39.379702,-76.537215
+https://locations.tacobell.com/la/new-iberia/824-e--admiral-doyle-drive.html,la,new-iberia,824-e--admiral-doyle-drive,002079,"824 E. Admiral Doyle Drive, New Iberia, LA 70560",70560,29.9872396,-91.8248663
+https://locations.tacobell.com/ma/auburn/820-southbridge-st-.html,ma,auburn,820-southbridge-st-,J089021,"820 Southbridge St., Auburn, MA 01501",01501,42.1810133,-71.8693366
+https://locations.tacobell.com/md/baltimore/8110-liberty-rd.html,md,baltimore,8110-liberty-rd,040038,"8110 Liberty Rd, Baltimore, MD 21244",21244,39.3545724,-76.7596183
+https://locations.tacobell.com/md/pasadena/8099-edwin-raynor-blvd.html,md,pasadena,8099-edwin-raynor-blvd,032666,"8099 Edwin Raynor Blvd, Pasadena, MD 21122",21122,39.1253709,-76.5311618
+https://locations.tacobell.com/md/easton/8091-ocean-gateway.html,md,easton,8091-ocean-gateway,039969,"8091 Ocean Gateway, Easton, MD 21601",21601,38.77131,-76.0597296
+https://locations.tacobell.com/md/millersville/8081-veterans-highway.html,md,millersville,8081-veterans-highway,032669,"8081 Veterans Highway, Millersville, MD 21108",21108,39.1200704,-76.6360582
+https://locations.tacobell.com/ky/leitchfield/802-south-main-street.html,ky,leitchfield,802-south-main-street,036782,"802 South Main Street, Leitchfield, KY 42754",42754,37.4643763,-86.2923601
+https://locations.tacobell.com/ky/campbellsville/800-e-broadway-st.html,ky,campbellsville,800-e-broadway-st,004718,"800 E Broadway St, Campbellsville, KY 42718",42718,37.3480634,-85.3348884
+https://locations.tacobell.com/ma/gardner/8-pearson-blvd.html,ma,gardner,8-pearson-blvd,D378001,"8 Pearson Blvd, Gardner, MA 01440",01440,42.5667143,-71.9804761
+https://locations.tacobell.com/la/belle-chasse/7976-highway-23.html,la,belle-chasse,7976-highway-23,041582,"7976 Highway 23, Belle Chasse, LA 70037",70037,29.8603509,-89.99388280000001
+https://locations.tacobell.com/md/baltimore/7933-belair-road.html,md,baltimore,7933-belair-road,032676,"7933 Belair Road, Baltimore, MD 21236",21236,39.3745771,-76.5076757
+https://locations.tacobell.com/ma/lawrence/79-winthrop-avenue.html,ma,lawrence,79-winthrop-avenue,029264,"79 Winthrop Avenue, Lawrence, MA 01843",01843,42.6893303,-71.1489632
+https://locations.tacobell.com/md/dundalk/7815-wise-avenue.html,md,dundalk,7815-wise-avenue,040026,"7815 Wise Avenue, Dundalk, MD 21222",21222,39.267625,-76.4983724
+https://locations.tacobell.com/ky/lebanon/780-w--main-street.html,ky,lebanon,780-w--main-street,028510,"780 W. Main Street, Lebanon, KY 40033",40033,37.5593813,-85.2716596
+https://locations.tacobell.com/ma/north-dartmouth/78-n-dartmouth-mall.html,ma,north-dartmouth,78-n-dartmouth-mall,040865,"78 N Dartmouth Mall, North Dartmouth, MA 02747",02747,41.6405401,-70.9914882
+https://locations.tacobell.com/ma/marlborough/773-boston-post-road-east.html,ma,marlborough,773-boston-post-road-east,031715,"773 Boston Post Road East, Marlborough, MA 01752",01752,42.3503257,-71.4991924
+https://locations.tacobell.com/md/upper-marlboro/7622-osborne-rd.html,md,upper-marlboro,7622-osborne-rd,039988,"7622 Osborne Rd, Upper Marlboro, MD 20772",20772,38.7846023,-76.7953387
+https://locations.tacobell.com/ky/florence/7619-mall-rd.html,ky,florence,7619-mall-rd,033646,"7619 Mall Rd, Florence, KY 41042",41042,38.9982732,-84.6536686
+https://locations.tacobell.com/la/baton-rouge/7541-perkins-rd.html,la,baton-rouge,7541-perkins-rd,031654,"7541 Perkins Rd, Baton Rouge, LA 70808",70808,30.3956751,-91.1105446
+https://locations.tacobell.com/md/landover-hills/7501-annapolis-road.html,md,landover-hills,7501-annapolis-road,039033,"7501 Annapolis Road, Landover Hills, MD 20784",20784,38.9499323,-76.8860852
+https://locations.tacobell.com/la/lake-charles/728-e-prien-lake-rd.html,la,lake-charles,728-e-prien-lake-rd,003165,"728 E Prien Lake Rd, Lake Charles, LA 70601",70601,30.1981879,-93.21124
+https://locations.tacobell.com/la/baton-rouge/7212-siegen-lane.html,la,baton-rouge,7212-siegen-lane,031655,"7212 Siegen Lane, Baton Rouge, LA 70809",70809,30.3836361,-91.0659515
+https://locations.tacobell.com/md/columbia/7102-minstrel-way.html,md,columbia,7102-minstrel-way,032665,"7102 Minstrel Way, Columbia, MD 21045",21045,39.1766757,-76.8429582
+https://locations.tacobell.com/ma/webster/71-e--main-st-.html,ma,webster,71-e--main-st-,J089019,"71 E. Main St., Webster, MA 01570",01570,42.0573084,-71.8711585
+https://locations.tacobell.com/ky/dry-ridge/71-broadway-street.html,ky,dry-ridge,71-broadway-street,G135979,"71 Broadway Street, Dry Ridge, KY 41035",41035,38.6817296,-84.5962224
+https://locations.tacobell.com/ma/quincy/707-hancock-st.html,ma,quincy,707-hancock-st,E685011,"707 Hancock St, Quincy, MA 02170",02170,42.2666315,-71.0148281
+https://locations.tacobell.com/md/essex/700-eastern-boulevard.html,md,essex,700-eastern-boulevard,040027,"700 Eastern Boulevard, Essex, MD 21221",21221,39.310702,-76.4707225
+https://locations.tacobell.com/md/chester/70-kent-towne-market.html,md,chester,70-kent-towne-market,039963,"70 Kent Towne Market, Chester, MD 21619",21619,38.9743369,-76.2767689
+https://locations.tacobell.com/la/covington/69368a-highway-21.html,la,covington,69368a-highway-21,041558,"69368A Highway 21, Covington, LA 70433",69368,30.4437312,-90.1421146
+https://locations.tacobell.com/md/towson/6861-loch-raven-blvd.html,md,towson,6861-loch-raven-blvd,032673,"6861 Loch Raven Blvd, Towson, MD 21286",21286,39.3845574,-76.5766114
+https://locations.tacobell.com/la/shreveport/6810-pines-rd.html,la,shreveport,6810-pines-rd,042217,"6810 Pines Rd, Shreveport, LA 71129",71129,32.4457167,-93.8628244
+https://locations.tacobell.com/ky/louisville/6800-bardstown-rd-.html,ky,louisville,6800-bardstown-rd-,034668,"6800 Bardstown Rd., Louisville, KY 40291",40291,38.1471897,-85.586546
+https://locations.tacobell.com/ma/brockton/675-belmont-st.html,ma,brockton,675-belmont-st,040863,"675 Belmont St, Brockton, MA 02301",02301,42.0706096,-71.0459542
+https://locations.tacobell.com/ky/florence/6724-dixie-highway.html,ky,florence,6724-dixie-highway,033645,"6724 Dixie Highway, Florence, KY 41042",41042,39.0046583,-84.6207385
+https://locations.tacobell.com/la/metairie/6715-airline-dr.html,la,metairie,6715-airline-dr,041559,"6715 Airline Dr, Metairie, LA 70003",70003,29.9778768,-90.2078249
+https://locations.tacobell.com/md/baltimore/6664-security-blvd.html,md,baltimore,6664-security-blvd,040071,"6664 Security Blvd, Baltimore, MD 21207",21207,39.3123664,-76.7384261
+https://locations.tacobell.com/md/glen-burnie/6656-ritchie-hwy.html,md,glen-burnie,6656-ritchie-hwy,032668,"6656 Ritchie Hwy, Glen Burnie, MD 21061",21061,39.194128,-76.6140347
+https://locations.tacobell.com/ky/louisville/6501-paramount-park-dr-.html,ky,louisville,6501-paramount-park-dr-,036158,"6501 Paramount Park Dr., Louisville, KY 40213",40213,38.1567148,-85.7120997
+https://locations.tacobell.com/la/shreveport/645-e--kings-highway.html,la,shreveport,645-e--kings-highway,042210,"645 E. Kings Highway, Shreveport, LA 71105",71105,32.4793965,-93.7192895
+https://locations.tacobell.com/md/clinton/6420-coventry-way.html,md,clinton,6420-coventry-way,039964,"6420 Coventry Way, Clinton, MD 20735",20735,38.7825412,-76.8963858
+https://locations.tacobell.com/ma/springfield/633-liberty-st-.html,ma,springfield,633-liberty-st-,029248,"633 Liberty St., Springfield, MA 01104",01104,42.1212852,-72.5834286
+https://locations.tacobell.com/md/oxon-hill/6315-oxon-hill-road.html,md,oxon-hill,6315-oxon-hill-road,039034,"6315 Oxon Hill Road, Oxon Hill, MD 20745",20745,38.8035426,-76.9909194
+https://locations.tacobell.com/la/gretna/62b-westbank-expressway.html,la,gretna,62b-westbank-expressway,041574,"62B Westbank Expressway, Gretna, LA 70053",70053,29.9213497,-90.0430967
+https://locations.tacobell.com/md/elkridge/6281-washington-blvd.html,md,elkridge,6281-washington-blvd,036692,"6281 Washington Blvd, Elkridge, MD 21075",21075,39.2076257,-76.7258435
+https://locations.tacobell.com/la/alexandria/626-mac-arthur.html,la,alexandria,626-mac-arthur,017183,"626 Mac Arthur, Alexandria, LA 71303",71303,31.2958496,-92.4794572
+https://locations.tacobell.com/md/capitol-heights/6250-central-ave.html,md,capitol-heights,6250-central-ave,039052,"6250 Central Ave, Capitol Heights, MD 20743",20743,38.8870574,-76.8996231
+https://locations.tacobell.com/md/westminster/625-baltimore-blvd.html,md,westminster,625-baltimore-blvd,040028,"625 Baltimore Blvd, Westminster, MD 21157",21157,39.5632175,-76.9734577
+https://locations.tacobell.com/md/catonsville/6200-baltimore-national-pike.html,md,catonsville,6200-baltimore-national-pike,040052,"6200 Baltimore National Pike, Catonsville, MD 21228",21228,39.2840345,-76.7504818
+https://locations.tacobell.com/ky/harrodsburg/609-south-college-st-.html,ky,harrodsburg,609-south-college-st-,021493,"609 South College St., Harrodsburg, KY 40330",40330,37.7532918,-84.8455668
+https://locations.tacobell.com/la/opelousas/605-creswell-ln.html,la,opelousas,605-creswell-ln,041585,"605 Creswell Ln, Opelousas, LA 70570",70570,30.5201867,-92.0790613
+https://locations.tacobell.com/ky/williamsburg/604-hwy-92-w.html,ky,williamsburg,604-hwy-92-w,030954,"604 Hwy 92 W, Williamsburg, KY 40769",40769,36.7222585,-84.17057059999999
+https://locations.tacobell.com/la/abbeville/600-veterans-memorial-dr.html,la,abbeville,600-veterans-memorial-dr,023902,"600 Veterans Memorial Dr, Abbeville, LA 70510",70510,29.9819534,-92.127806
+https://locations.tacobell.com/ma/raynham/600-south-street.html,ma,raynham,600-south-street,040869,"600 South Street, Raynham, MA 02767",02767,41.9047958,-71.0450166
+https://locations.tacobell.com/ky/london/60-austin-lane.html,ky,london,60-austin-lane,029058,"60 Austin Lane, London, KY 40741",40741,37.1494085,-84.1166176
+https://locations.tacobell.com/md/la-plata/5995-crain-hwy-.html,md,la-plata,5995-crain-hwy-,039981,"5995 Crain Hwy., La Plata, MD 20646",20646,38.547591,-76.9858971
+https://locations.tacobell.com/la/houma/5974-w-main-st.html,la,houma,5974-w-main-st,026732,"5974 W Main St, Houma, LA 70360",70360,29.6328035,-90.7589821
+https://locations.tacobell.com/md/severna-park/578-richie-hwy.html,md,severna-park,578-richie-hwy,039970,"578 Richie Hwy, Severna Park, MD 21146",21146,39.0753265,-76.54457959999999
+https://locations.tacobell.com/ky/cadiz/57-hospitality-lane.html,ky,cadiz,57-hospitality-lane,F569104,"57 Hospitality Lane, Cadiz, KY 42211",42211,36.8792083,-87.735878
+https://locations.tacobell.com/md/brooklyn/5501-ritchie-hwy.html,md,brooklyn,5501-ritchie-hwy,032670,"5501 Ritchie Hwy, Brooklyn, MD 21225",21225,39.2211274,-76.6135246
+https://locations.tacobell.com/md/prince-frederick/55-steeple-chase-drive.html,md,prince-frederick,55-steeple-chase-drive,039974,"55 Steeple Chase Drive, Prince Frederick, MD 20678",20678,38.5506343,-76.5917291
+https://locations.tacobell.com/ky/louisville/5414-newcut-rd.html,ky,louisville,5414-newcut-rd,034667,"5414 Newcut Rd, Louisville, KY 40214",40214,38.1497512,-85.77658339999999
+https://locations.tacobell.com/la/west-monroe/5322-cypress-street.html,la,west-monroe,5322-cypress-street,037690,"5322 Cypress Street, West Monroe, LA 71291",71291,32.5164065,-92.1904845
+https://locations.tacobell.com/md/linthicum-heights/5184-raynor-ave.html,md,linthicum-heights,5184-raynor-ave,032678,"5184 Raynor Ave, Linthicum Heights, MD 21090",21090,39.2240613,-76.6594444
+https://locations.tacobell.com/la/marrero/5141-lapalco-blvd.html,la,marrero,5141-lapalco-blvd,041570,"5141 Lapalco Blvd, Marrero, LA 70072",70072,29.8748089,-90.1042049
+https://locations.tacobell.com/ma/attleboro/514-washington-st.html,ma,attleboro,514-washington-st,040857,"514 Washington St, Attleboro, MA 02703",02703,41.9144189,-71.360971
+https://locations.tacobell.com/ky/richmond/514-eastern-bypass.html,ky,richmond,514-eastern-bypass,022284,"514 Eastern Bypass, Richmond, KY 40475",40475,37.7359846,-84.3093361
+https://locations.tacobell.com/ky/taylor-mill/5067-sandman-dr.html,ky,taylor-mill,5067-sandman-dr,G135714,"5067 Sandman Dr, Taylor Mill, KY 41015",41015,39.0189062,-84.5114434
+https://locations.tacobell.com/md/bel-air/504-baltimore-pike.html,md,bel-air,504-baltimore-pike,032674,"504 Baltimore Pike, Bel Air, MD 21014",21014,39.5273926,-76.353956
+https://locations.tacobell.com/la/bossier-city/501-stockwell-road.html,la,bossier-city,501-stockwell-road,042224,"501 Stockwell Road, Bossier City, LA 71111",71111,32.5501202,-93.6300174
+https://locations.tacobell.com/la/la-place/500-west-airline-highway.html,la,la-place,500-west-airline-highway,024768,"500 West Airline Highway, La Place, LA 70068",70068,30.0696605,-90.4849167
+https://locations.tacobell.com/la/bossier-city/4960-barksdale-blvd.html,la,bossier-city,4960-barksdale-blvd,042213,"4960 Barksdale Blvd, Bossier City, LA 71112",71112,32.4561448,-93.6597055
+https://locations.tacobell.com/ky/louisville/4910-shelbyville-rd.html,ky,louisville,4910-shelbyville-rd,034660,"4910 Shelbyville Rd, Louisville, KY 40207",40207,38.2529721,-85.6560615
+https://locations.tacobell.com/ma/norwell/48-washington-st.html,ma,norwell,48-washington-st,040861,"48 Washington St, Norwell, MA 02061",02061,42.1732031,-70.8815528
+https://locations.tacobell.com/la/raceland/4720-hwy-1.html,la,raceland,4720-hwy-1,029777,"4720 Hwy 1, Raceland, LA 70394",70394,29.6988749,-90.5585557
+https://locations.tacobell.com/la/metairie/4713-veterans-memorial-blvd.html,la,metairie,4713-veterans-memorial-blvd,041567,"4713 Veterans Memorial Blvd, Metairie, LA 70006",70006,30.0059862,-90.1888225
+https://locations.tacobell.com/md/baltimore/4700-boston-street.html,md,baltimore,4700-boston-street,040074,"4700 Boston Street, Baltimore, MD 21224",21224,39.2778258,-76.5557333
+https://locations.tacobell.com/ky/carrollton/47-kinman-drive.html,ky,carrollton,47-kinman-drive,018026,"47 Kinman Drive, Carrollton, KY 41008",41008,38.6520904,-85.1256413
+https://locations.tacobell.com/ky/louisville/4643-dixie-hwy.html,ky,louisville,4643-dixie-hwy,034665,"4643 Dixie Hwy, Louisville, KY 40216",40216,38.1737185,-85.8239164
+https://locations.tacobell.com/ma/worcester/463-lincoln-street.html,ma,worcester,463-lincoln-street,J089017,"463 Lincoln Street, Worcester, MA 01605",01605,42.2925363,-71.7785526
+https://locations.tacobell.com/ky/owensboro/4620-frederica.html,ky,owensboro,4620-frederica,028866,"4620 Frederica, Owensboro, KY 42301",42301,37.7254145,-87.1232084
+https://locations.tacobell.com/la/zachary/4608-highway-19.html,la,zachary,4608-highway-19,034631,"4608 Highway 19, Zachary, LA 70791",70791,30.648748,-91.149954
+https://locations.tacobell.com/la/new-orleans/4603-chef-menteur-hwy.html,la,new-orleans,4603-chef-menteur-hwy,026773,"4603 Chef Menteur Hwy, New Orleans, LA 70126",70126,30.0061743,-90.0354549
+https://locations.tacobell.com/ma/springfield/456-sumner-ave.html,ma,springfield,456-sumner-ave,029246,"456 Sumner Ave, Springfield, MA 01108",01108,42.0860412,-72.5601796
+https://locations.tacobell.com/la/shreveport/4520-northport-blvd.html,la,shreveport,4520-northport-blvd,042223,"4520 Northport Blvd, Shreveport, LA 71107",71107,32.5992452,-93.8392234
+https://locations.tacobell.com/md/hagerstown/450-dual-hwy.html,md,hagerstown,450-dual-hwy,004725,"450 Dual Hwy, Hagerstown, MD 21740",21740,39.6383175,-77.7102555
+https://locations.tacobell.com/la/lake-charles/4305-nelson-rd.html,la,lake-charles,4305-nelson-rd,016951,"4305 Nelson Rd, Lake Charles, LA 70605",70605,30.1783523,-93.2493758
+https://locations.tacobell.com/ky/louisville/4304-outer-loop.html,ky,louisville,4304-outer-loop,034673,"4304 Outer Loop, Louisville, KY 40219",40219,38.1378777,-85.6816358
+https://locations.tacobell.com/la/new-orleans/4300-general-degaulle-dr-.html,la,new-orleans,4300-general-degaulle-dr-,041571,"4300 General Degaulle Dr., New Orleans, LA 70131",70131,29.9197844,-90.0113597
+https://locations.tacobell.com/ky/elizabethtown/426-w--dixie-hwy.html,ky,elizabethtown,426-w--dixie-hwy,034677,"426 W. Dixie Hwy, Elizabethtown, KY 42701",42701,37.6997543,-85.8669748
+https://locations.tacobell.com/la/baton-rouge/4220-burbank-dr.html,la,baton-rouge,4220-burbank-dr,026916,"4220 Burbank Dr, Baton Rouge, LA 70808",70808,30.4014323,-91.1761991
+https://locations.tacobell.com/ma/saugus/421-broadway.html,ma,saugus,421-broadway,029261,"421 Broadway, Saugus, MA 01906",01906,42.4860961,-71.0191588
+https://locations.tacobell.com/ma/franklin/420-w-central-st.html,ma,franklin,420-w-central-st,040871,"420 W Central St, Franklin, MA 02038",02038,42.0876497,-71.4152957
+https://locations.tacobell.com/ky/covington/420-w-4th-street.html,ky,covington,420-w-4th-street,015353,"420 W 4th Street, Covington, KY 41011",41011,39.0866966,-84.5184639
+https://locations.tacobell.com/ky/lexington/4191-tates-creek-centre-rd.html,ky,lexington,4191-tates-creek-centre-rd,016531,"4191 Tates Creek Centre Rd, Lexington, KY 40517",40517,37.968374,-84.50306739999999
+https://locations.tacobell.com/la/denham-springs/418-florida-blvd.html,la,denham-springs,418-florida-blvd,034620,"418 Florida Blvd, Denham Springs, LA 70726",70726,30.464164,-90.9870782
+https://locations.tacobell.com/la/deridder/411-n-pine-st.html,la,deridder,411-n-pine-st,030182,"411 N Pine St, Deridder, LA 70634",70634,30.8504825,-93.2893968
+https://locations.tacobell.com/ky/versailles/411-lexington-rd.html,ky,versailles,411-lexington-rd,029523,"411 Lexington Rd, Versailles, KY 40383",40383,38.0520414,-84.7194054
+https://locations.tacobell.com/la/bossier-city/4100-industrial-dr.html,la,bossier-city,4100-industrial-dr,042208,"4100 Industrial Dr, Bossier City, LA 71112",71112,32.527179,-93.6748372
+https://locations.tacobell.com/ky/florence/410-mt-zion-road.html,ky,florence,410-mt-zion-road,033650,"410 Mt Zion Road, Florence, KY 41042",41042,38.9567593,-84.6292057
+https://locations.tacobell.com/md/abingdon/406-constant-friendship-blvd.html,md,abingdon,406-constant-friendship-blvd,G135762,"406 Constant Friendship Blvd, Abingdon, MD 21009",21009,39.4615653,-76.3180176
+https://locations.tacobell.com/md/temple-hills/4045-branch-ave.html,md,temple-hills,4045-branch-ave,039038,"4045 Branch Ave, Temple Hills, MD 20748",20748,38.8338941,-76.9430166
+https://locations.tacobell.com/md/colmar-manor/4021-bladensburg-rd.html,md,colmar-manor,4021-bladensburg-rd,K071134,"4021 Bladensburg Rd, Colmar Manor, MD 20722",20722,38.9360581,-76.9474084
+https://locations.tacobell.com/ky/murray/402-n-12th-st.html,ky,murray,402-n-12th-st,037484,"402 N 12th St, Murray, KY 42071",42071,36.6158247,-88.3146163
+https://locations.tacobell.com/ma/ayer/4-sandy-pond-rd.html,ma,ayer,4-sandy-pond-rd,030734,"4 Sandy Pond Rd, Ayer, MA 01432",01432,42.5540474,-71.571168
+https://locations.tacobell.com/ma/plymouth/4-plaza-way.html,ma,plymouth,4-plaza-way,029268,"4 Plaza Way, Plymouth, MA 02360",02360,41.9492742,-70.7156271
+https://locations.tacobell.com/ky/maysville/398-market-square-drive.html,ky,maysville,398-market-square-drive,015750,"398 Market Square Drive, Maysville, KY 41056",41056,38.6269257,-83.7908779
+https://locations.tacobell.com/la/moss-bluff/396-sam-houston-jones-pkwy.html,la,moss-bluff,396-sam-houston-jones-pkwy,027675,"396 Sam Houston Jones Pkwy, Moss Bluff, LA 70611",70611,30.3011061,-93.2020817
+https://locations.tacobell.com/ky/louisville/3950-taylorsville-road.html,ky,louisville,3950-taylorsville-road,018173,"3950 Taylorsville Road, Louisville, KY 40220",40220,38.2195771,-85.6270245
+https://locations.tacobell.com/la/carencro/3924-ne-evangeline-trwy.html,la,carencro,3924-ne-evangeline-trwy,032608,"3924 NE Evangeline Trwy, Carencro, LA 70520",70520,30.3224683,-92.0319631
+https://locations.tacobell.com/la/metairie/3840-veterans-memorial-blvd.html,la,metairie,3840-veterans-memorial-blvd,041560,"3840 Veterans Memorial Blvd, Metairie, LA 70002",70002,30.0035665,-90.1699056
+https://locations.tacobell.com/la/alexandria/3840-alexandria-mall-dr.html,la,alexandria,3840-alexandria-mall-dr,002952,"3840 Alexandria Mall Dr, Alexandria, LA 71301",71301,31.2718666,-92.461693
+https://locations.tacobell.com/ky/jackson/382-highway-15-north.html,ky,jackson,382-highway-15-north,K198026,"382 Highway 15 North, Jackson, KY 41339",41339,37.5583109,-83.3884933
+https://locations.tacobell.com/ky/bardstown/3818-e--john-rowan-blvd.html,ky,bardstown,3818-e--john-rowan-blvd,034681,"3818 E. John Rowan Blvd, Bardstown, KY 40004",40004,37.7996834,-85.433698
+https://locations.tacobell.com/ky/glasgow/380-n-l--roger-wells-blvd-.html,ky,glasgow,380-n-l--roger-wells-blvd-,004430,"380 N.l. Roger Wells Blvd., Glasgow, KY 42141",42141,37.0072327,-85.92448540000001
+https://locations.tacobell.com/la/thibodaux/377-n-canal-blvd.html,la,thibodaux,377-n-canal-blvd,004727,"377 N Canal Blvd, Thibodaux, LA 70301",70301,29.8048065,-90.8160261
+https://locations.tacobell.com/la/baton-rouge/3709-hollywood-st.html,la,baton-rouge,3709-hollywood-st,042614,"3709 Hollywood St, Baton Rouge, LA 70805",70805,30.4993977,-91.152231
+https://locations.tacobell.com/la/lafayette/3630-ambassador-caffery-pkwy.html,la,lafayette,3630-ambassador-caffery-pkwy,032605,"3630 Ambassador Caffery Pkwy, Lafayette, LA 70503",70503,30.1737273,-92.0697644
+https://locations.tacobell.com/la/donaldsonville/1525-marchand-drive.html,la,donaldsonville,1525-marchand-drive,034643,"1525 Marchand Drive, Donaldsonville, LA 70346",70346,30.0931026,-90.9791259
+https://locations.tacobell.com/ky/frankfort/355-leonardwood-road.html,ky,frankfort,355-leonardwood-road,020362,"355 Leonardwood Road, Frankfort, KY 40601",40601,38.1626452,-84.8962095
+https://locations.tacobell.com/ky/louisville/3520-bardstown-rd-.html,ky,louisville,3520-bardstown-rd-,034675,"3520 Bardstown Rd., Louisville, KY 40218",40218,38.190577,-85.645155
+https://locations.tacobell.com/ma/hadley/348-russell-street.html,ma,hadley,348-russell-street,029254,"348 Russell Street, Hadley, MA 01035",01035,42.3581751,-72.5514765
+https://locations.tacobell.com/ma/ludlow/343-center-street.html,ma,ludlow,343-center-street,029253,"343 Center Street, Ludlow, MA 01056",01056,42.1663183,-72.4822812
+https://locations.tacobell.com/la/lake-charles/3407-gerstner-memorial-blvd.html,la,lake-charles,3407-gerstner-memorial-blvd,018210,"3407 Gerstner Memorial Blvd, Lake Charles, LA 70607",70607,30.1952969,-93.1793907
+https://locations.tacobell.com/ky/fort-wright/3400-madison-pike.html,ky,fort-wright,3400-madison-pike,029976,"3400 Madison Pike, Fort Wright, KY 41017",41017,39.032506,-84.532971
+https://locations.tacobell.com/ma/revere/339-squire-road.html,ma,revere,339-squire-road,031555,"339 Squire Road, Revere, MA 02151",02151,42.4268667,-71.0127795
+https://locations.tacobell.com/md/cumberland/334-queen-city-drive.html,md,cumberland,334-queen-city-drive,040047,"334 Queen City Drive, Cumberland, MD 21502",21502,39.6485314,-78.7591183
+https://locations.tacobell.com/ky/owensboro/3335-villa-point.html,ky,owensboro,3335-villa-point,028920,"3335 Villa Point, Owensboro, KY 42303",42303,37.7523905,-87.057476
+https://locations.tacobell.com/md/forestville/3330-donnell-dr.html,md,forestville,3330-donnell-dr,039041,"3330 Donnell Dr, Forestville, MD 20747",20747,38.8462473,-76.8843613
+https://locations.tacobell.com/md/baltimore/3319-pulaski-hwy.html,md,baltimore,3319-pulaski-hwy,040041,"3319 Pulaski Hwy, Baltimore, MD 21224",21224,39.2956389,-76.5702535
+https://locations.tacobell.com/la/kenner/3302-williams-blvd.html,la,kenner,3302-williams-blvd,041572,"3302 Williams Blvd, Kenner, LA 70065",70065,30.0162747,-90.2393348
+https://locations.tacobell.com/ma/fairhaven/33-alden-road.html,ma,fairhaven,33-alden-road,040868,"33 Alden Road, Fairhaven, MA 02719",02719,41.6431122,-70.8847619
+https://locations.tacobell.com/ma/fitchburg/325-john-fitch-hwy.html,ma,fitchburg,325-john-fitch-hwy,031549,"325 John Fitch Hwy, Fitchburg, MA 01420",01420,42.5794939,-71.7748878
+https://locations.tacobell.com/la/pineville/3200-monroe-hwy.html,la,pineville,3200-monroe-hwy,003532,"3200 Monroe Hwy, Pineville, LA 71360",71360,31.3622116,-92.4115272
+https://locations.tacobell.com/ky/elizabethtown/3200-leitchfield-road.html,ky,elizabethtown,3200-leitchfield-road,034680,"3200 Leitchfield Road, Elizabethtown, KY 42701",42701,37.6780393,-85.8851728
+https://locations.tacobell.com/ky/lexington/320-new-circle-rd--n-w-.html,ky,lexington,320-new-circle-rd--n-w-,022282,"320 New Circle Rd. N.W., Lexington, KY 40505",40505,38.070408,-84.477049
+https://locations.tacobell.com/la/denham-springs/31618-la-highway-16.html,la,denham-springs,31618-la-highway-16,034637,"31618 LA Highway 16, Denham Springs, LA 70726",31618,30.471295,-90.9473668
+https://locations.tacobell.com/ma/hyannis/314-barnstable-road.html,ma,hyannis,314-barnstable-road,E685004,"314 Barnstable Road, Hyannis, MA 02601",02601,41.6619308,-70.2854913
+https://locations.tacobell.com/ky/louisville/3125-poplar-level-rd-.html,ky,louisville,3125-poplar-level-rd-,036159,"3125 Poplar Level Rd., Louisville, KY 40213",40213,38.2121586,-85.7204802
+https://locations.tacobell.com/la/baton-rouge/3125-college-drive.html,la,baton-rouge,3125-college-drive,034632,"3125 College Drive, Baton Rouge, LA 70808",70808,30.4192602,-91.1409182
+https://locations.tacobell.com/ky/paducah/3120-james-sanders-blvd.html,ky,paducah,3120-james-sanders-blvd,037483,"3120 James Sanders Blvd, Paducah, KY 42001",42001,37.0791119,-88.6839314
+https://locations.tacobell.com/la/marksville/312-tunica-dr-e.html,la,marksville,312-tunica-dr-e,026003,"312 Tunica Dr E, Marksville, LA 71351",71351,31.1212843,-92.0680281
+https://locations.tacobell.com/ky/radcliff/311-s--dixie-blvd-.html,ky,radcliff,311-s--dixie-blvd-,034663,"311 S. Dixie Blvd., Radcliff, KY 40160",40160,37.8363134,-85.9358382
+https://locations.tacobell.com/la/lafayette/3103-louisiana-ave-.html,la,lafayette,3103-louisiana-ave-,032606,"3103 Louisiana Ave., Lafayette, LA 70501",70501,30.26301,-91.9937883
+https://locations.tacobell.com/la/youngsville/3100-e--milton-ave.html,la,youngsville,3100-e--milton-ave,029737,"3100 E. Milton Ave, Youngsville, LA 70592",70592,30.1088698,-92.010543
+https://locations.tacobell.com/ma/haverhill/31-plaistow-rd-.html,ma,haverhill,31-plaistow-rd-,029262,"31 Plaistow Rd. #35, Haverhill, MA 01830",01830,42.8117986,-71.1022652
+https://locations.tacobell.com/md/edgewater/3091-solomons-island-rd.html,md,edgewater,3091-solomons-island-rd,039968,"3091 Solomons Island Rd, Edgewater, MD 21037",21037,38.9396423,-76.5648002
+https://locations.tacobell.com/ky/hebron/3075-n-bend-rd.html,ky,hebron,3075-n-bend-rd,033649,"3075 N Bend Rd, Hebron, KY 41048",41048,39.0650414,-84.7041391
+https://locations.tacobell.com/md/salisbury/307-tilghman-road.html,md,salisbury,307-tilghman-road,J130048,"307 Tilghman Road, Salisbury, MD 21804",21804,38.3649956,-75.5471025
+https://locations.tacobell.com/md/frederick/305-ballenger-center-dr-.html,md,frederick,305-ballenger-center-dr-,040059,"305 Ballenger Center Dr., Frederick, MD 21703",21703,39.3966505,-77.4369449
+https://locations.tacobell.com/ky/paris/304-letton-drive.html,ky,paris,304-letton-drive,J718266,"304 Letton Drive, Paris, KY 40361",40361,38.196799,-84.2750973
+https://locations.tacobell.com/md/charlotte-hall/30343-triangle-drive.html,md,charlotte-hall,30343-triangle-drive,039989,"30343 Triangle Drive, Charlotte Hall, MD 20622",30343,38.4984894,-76.77420529999999
+https://locations.tacobell.com/ky/princeton/302-parkway-ave-.html,ky,princeton,302-parkway-ave-,030534,"302 Parkway Ave., Princeton, KY 42445",42445,37.1092162,-87.8819594
+https://locations.tacobell.com/ma/east-wareham/3015-cranberry-hwy.html,ma,east-wareham,3015-cranberry-hwy,E685002,"3015 Cranberry Hwy, East Wareham, MA 02538",02538,41.7608123,-70.6708923
+https://locations.tacobell.com/la/kenner/3012-loyola-drive.html,la,kenner,3012-loyola-drive,041578,"3012 Loyola Drive, Kenner, LA 70065",70065,30.009142,-90.2658847
+https://locations.tacobell.com/la/ruston/301-w-california-ave-.html,la,ruston,301-w-california-ave-,037691,"301 W California Ave., Ruston, LA 71270",71270,32.5234411,-92.6416706
+https://locations.tacobell.com/ky/fort-campbell/3001-bastogne-avenue.html,ky,fort-campbell,3001-bastogne-avenue,F569103,"3001 Bastogne Avenue, Fort Campbell, KY 42223",42223,36.6476669,-87.4537557
+https://locations.tacobell.com/ky/morehead/300-old-flemingsburg-rd.html,ky,morehead,300-old-flemingsburg-rd,022845,"300 Old Flemingsburg Rd, Morehead, KY 40351",40351,38.1794599,-83.4435694
+https://locations.tacobell.com/ky/newport/30-carothers-rd.html,ky,newport,30-carothers-rd,003302,"30 Carothers Rd, Newport, KY 41071",41071,39.0847975,-84.4805418
+https://locations.tacobell.com/ma/west-springfield/298-memorial-ave.html,ma,west-springfield,298-memorial-ave,029245,"298 Memorial Ave, West Springfield, MA 01089",01089,42.0965586,-72.6019543
+https://locations.tacobell.com/ky/paducah/2921-irvin-cobb-drive.html,ky,paducah,2921-irvin-cobb-drive,L518056,"2921 Irvin Cobb Drive, Paducah, KY 42003",42003,37.0558048,-88.573762
+https://locations.tacobell.com/ky/lexington/2917-richmond-road.html,ky,lexington,2917-richmond-road,023279,"2917 Richmond Road, Lexington, KY 40509",40509,38.0044773,-84.448319
+https://locations.tacobell.com/ma/westborough/289-turnpike-rd.html,ma,westborough,289-turnpike-rd,040876,"289 Turnpike Rd, Westborough, MA 01581",01581,42.2837524,-71.6487662
+https://locations.tacobell.com/la/walker/28455-walker-rd-s.html,la,walker,28455-walker-rd-s,034634,"28455 Walker Rd S, Walker, LA 70785",28455,30.477245,-90.863847
+https://locations.tacobell.com/la/port-allen/2830-n--westport-drive.html,la,port-allen,2830-n--westport-drive,F685002,"2830 N. Westport Drive, Port Allen, LA 70767",70767,30.4488746,-91.2436632
+https://locations.tacobell.com/ma/hudson/282-washington-street.html,ma,hudson,282-washington-street,E685027,"282 Washington Street, Hudson, MA 01749",01749,42.3719731,-71.5615292
+https://locations.tacobell.com/ky/louisville/2801-w-broadway-ave.html,ky,louisville,2801-w-broadway-ave,036157,"2801 W Broadway Ave, Louisville, KY 40211",40211,38.2499611,-85.7987267
+https://locations.tacobell.com/la/new-orleans/2800-s-claiborne-ave.html,la,new-orleans,2800-s-claiborne-ave,027665,"2800 S Claiborne Ave, New Orleans, LA 70115",70115,29.9420275,-90.0944643
+https://locations.tacobell.com/ma/haverhill/280-main-street.html,ma,haverhill,280-main-street,J089020,"280 Main Street, Haverhill, MA 01830",01830,42.7806621,-71.0777243
+https://locations.tacobell.com/md/middle-river/28-middle-river-rd-.html,md,middle-river,28-middle-river-rd-,032672,"28 Middle River Rd., Middle River, MD 21220",21220,39.3326696,-76.4447589
+https://locations.tacobell.com/ky/manchester/275-highway-80.html,ky,manchester,275-highway-80,030474,"275 Highway 80, Manchester, KY 40962",40962,37.1351485,-83.76816889999999
+https://locations.tacobell.com/ma/salem/267-highland-ave.html,ma,salem,267-highland-ave,029263,"267 Highland Ave, Salem, MA 01970",01970,42.5035817,-70.9224627
+https://locations.tacobell.com/md/leonardtown/26501-point-lookout-road.html,md,leonardtown,26501-point-lookout-road,039978,"26501 Point Lookout Road, Leonardtown, MD 20650",26501,38.296621,-76.6342787
+https://locations.tacobell.com/ma/stoughton/265-washington-street.html,ma,stoughton,265-washington-street,E685017,"265 Washington Street, Stoughton, MA 02072",02072,42.138808,-71.1023558
+https://locations.tacobell.com/la/terrytown/2640-belle-chase-hwy.html,la,terrytown,2640-belle-chase-hwy,041566,"2640 Belle Chase Hwy, Terrytown, LA 70056",70056,29.8930874,-90.0279867
+https://locations.tacobell.com/md/hanover/2639-annapolis-rd.html,md,hanover,2639-annapolis-rd,032664,"2639 Annapolis Rd, Hanover, MD 21076",21076,39.1316369,-76.7409204
+https://locations.tacobell.com/ky/bowling-green/2628-scottsville-rd.html,ky,bowling-green,2628-scottsville-rd,023161,"2628 Scottsville Rd, Bowling Green, KY 42104",42104,36.9504476,-86.4250332
+https://locations.tacobell.com/la/bossier-city/2601-viking-drive.html,la,bossier-city,2601-viking-drive,042216,"2601 Viking Drive, Bossier City, LA 71111",71111,32.5555765,-93.709893
+https://locations.tacobell.com/la/slidell/2508-old-spanish-trail.html,la,slidell,2508-old-spanish-trail,026772,"2508 Old Spanish Trail, Slidell, LA 70461",70461,30.244905,-89.7600635
+https://locations.tacobell.com/ky/owensboro/2500-west-parrish-avenue.html,ky,owensboro,2500-west-parrish-avenue,028891,"2500 West Parrish Avenue, Owensboro, KY 42301",42301,37.7576583,-87.1429304
+https://locations.tacobell.com/ma/west-springfield/25-morgan-road.html,ma,west-springfield,25-morgan-road,031222,"25 Morgan Road, West Springfield, MA 01089",01089,42.1294279,-72.6278799
+https://locations.tacobell.com/ky/bowling-green/2460-nashville-rd.html,ky,bowling-green,2460-nashville-rd,027951,"2460 Nashville Rd, Bowling Green, KY 42101",42101,36.9608542,-86.46884
+https://locations.tacobell.com/la/crowley/2408-north-parkerson-avenue.html,la,crowley,2408-north-parkerson-avenue,016313,"2408 North Parkerson Avenue, Crowley, LA 70526",70526,30.2329925,-92.3841633
+https://locations.tacobell.com/la/lafayette/2406-w-congress-st.html,la,lafayette,2406-w-congress-st,032600,"2406 W Congress St, Lafayette, LA 70506",70506,30.2146279,-92.0475111
+https://locations.tacobell.com/ma/leominster/24-sack-blvd-.html,ma,leominster,24-sack-blvd-,031556,"24 Sack Blvd., Leominster, MA 01453",01453,42.5316237,-71.7440283
+https://locations.tacobell.com/ky/lexington/2323-versailles-rd.html,ky,lexington,2323-versailles-rd,029739,"2323 Versailles Rd, Lexington, KY 40504",40504,38.0469463,-84.5537623
+https://locations.tacobell.com/la/lafayette/2317-kaliste-saloom-road.html,la,lafayette,2317-kaliste-saloom-road,032607,"2317 Kaliste Saloom Road, Lafayette, LA 70508",70508,30.1594879,-92.0448029
+https://locations.tacobell.com/md/baltimore/2317-e-joppa-rd.html,md,baltimore,2317-e-joppa-rd,032671,"2317 E Joppa Rd, Baltimore, MD 21234",21234,39.3978726,-76.5380654
+https://locations.tacobell.com/la/baton-rouge/2313-sherwood-forest-blvd-.html,la,baton-rouge,2313-sherwood-forest-blvd-,034636,"2313 Sherwood Forest Blvd., Baton Rouge, LA 70816",70816,30.4374656,-91.0575059
+https://locations.tacobell.com/ma/westfield/231-e--main-st-.html,ma,westfield,231-e--main-st-,029252,"231 E. Main St., Westfield, MA 01085",01085,42.1145968,-72.7309515
+https://locations.tacobell.com/md/baltimore/2300-w-patapsco.html,md,baltimore,2300-w-patapsco,032663,"2300 W Patapsco, Baltimore, MD 21230",21230,39.251664,-76.646689
+https://locations.tacobell.com/ky/somerset/229-s--hwy-27.html,ky,somerset,229-s--hwy-27,004473,"229 S. Hwy 27, Somerset, KY 42501",42501,37.0710683,-84.6167453
+https://locations.tacobell.com/ky/lexington/2275-nicholasville-rd.html,ky,lexington,2275-nicholasville-rd,022283,"2275 Nicholasville Rd, Lexington, KY 40503",40503,38.0067329,-84.5188692
+https://locations.tacobell.com/md/california/22599-macarthur-blvd.html,md,california,22599-macarthur-blvd,039966,"22599 MacArthur Blvd, California, MD 20619",22599,38.287292,-76.48557
+https://locations.tacobell.com/md/waldorf/2200-crain-hwy.html,md,waldorf,2200-crain-hwy,039962,"2200 Crain Hwy, Waldorf, MD 20601",20601,38.6205834,-76.9163915
+https://locations.tacobell.com/ma/holyoke/2199-northampton-st.html,ma,holyoke,2199-northampton-st,029255,"2199 Northampton St, Holyoke, MA 01040",01040,42.1859454,-72.6309575
+https://locations.tacobell.com/ma/bridgewater/218-broad-st.html,ma,bridgewater,218-broad-st,E685018,"218 Broad St, Bridgewater, MA 02324",02324,41.9960311,-70.9735644
+https://locations.tacobell.com/ky/richmond/2173-lexington-road.html,ky,richmond,2173-lexington-road,030882,"2173 Lexington Road, Richmond, KY 40475",40475,37.7757224,-84.3178141
+https://locations.tacobell.com/md/edgewood/2155-pulaski-hwy.html,md,edgewood,2155-pulaski-hwy,040030,"2155 Pulaski Hwy, Edgewood, MD 21040",21040,39.4359289,-76.3077083
+https://locations.tacobell.com/la/sulphur/215-s-cities-service-hwy.html,la,sulphur,215-s-cities-service-hwy,016966,"215 S Cities Service Hwy, Sulphur, LA 70663",70663,30.2255937,-93.3254021
+https://locations.tacobell.com/ky/mount-sterling/213-indian-mound-drive.html,ky,mount-sterling,213-indian-mound-drive,022285,"213 Indian Mound Drive, Mount Sterling, KY 40353",40353,38.0741079,-83.950896
+https://locations.tacobell.com/la/eunice/2121-w-laurel.html,la,eunice,2121-w-laurel,003700,"2121 W Laurel, Eunice, LA 70535",70535,30.4946793,-92.4388728
+https://locations.tacobell.com/la/west-monroe/212-thomas-rd.html,la,west-monroe,212-thomas-rd,037688,"212 Thomas Rd, West Monroe, LA 71291",71291,32.5105115,-92.1578117
+https://locations.tacobell.com/ma/methuen/212-haverhill-street.html,ma,methuen,212-haverhill-street,E685026,"212 Haverhill Street, Methuen, MA 01844",01844,42.7063431,-71.2028986
+https://locations.tacobell.com/ky/walton/211-mary-grubbs-highway.html,ky,walton,211-mary-grubbs-highway,030737,"211 Mary Grubbs Highway, Walton, KY 41094",41094,38.859187,-84.6192352
+https://locations.tacobell.com/la/ruston/2103-farmerville-hwy.html,la,ruston,2103-farmerville-hwy,037693,"2103 Farmerville Hwy, Ruston, LA 71270",71270,32.5495323,-92.6102423
+https://locations.tacobell.com/ma/shrewsbury/21-s-quinsigamond-ave.html,ma,shrewsbury,21-s-quinsigamond-ave,E685023,"21 S Quinsigamond Ave, Shrewsbury, MA 01545",01545,42.2736675,-71.7509559
+https://locations.tacobell.com/ky/madisonville/21-madison-square-dr.html,ky,madisonville,21-madison-square-dr,028885,"21 Madison Square Dr, Madisonville, KY 42431",42431,37.3261202,-87.4808717
+https://locations.tacobell.com/ky/monticello/1960-n-main-st.html,ky,monticello,1960-n-main-st,024104,"1960 N Main St, Monticello, KY 42633",42633,36.8298123,-84.8488488
+https://locations.tacobell.com/la/mandeville/2055-florida-st.html,la,mandeville,2055-florida-st,041564,"2055 Florida St, Mandeville, LA 70448",70448,30.3644864,-90.0627677
+https://locations.tacobell.com/la/bogalusa/205-b-superior-avenue.html,la,bogalusa,205-b-superior-avenue,016664,"205 B Superior Avenue, Bogalusa, LA 70427",70427,30.790639,-89.8721255
+https://locations.tacobell.com/la/sulphur/2040-ruth-st.html,la,sulphur,2040-ruth-st,002999,"2040 Ruth St, Sulphur, LA 70663",70663,30.2189787,-93.3762839
+https://locations.tacobell.com/la/baton-rouge/2040-oneal-lane.html,la,baton-rouge,2040-oneal-lane,031656,"2040 O'Neal Lane, Baton Rouge, LA 70816",70816,30.4389867,-91.0079892
+https://locations.tacobell.com/ma/northampton/203-king-street.html,ma,northampton,203-king-street,029323,"203 King Street, Northampton, MA 01060",01060,42.3285036,-72.6331361
+https://locations.tacobell.com/la/hammond/2025-w-thomas-st-.html,la,hammond,2025-w-thomas-st-,041568,"2025 W Thomas St., Hammond, LA 70401",70401,30.5005575,-90.4833212
+https://locations.tacobell.com/ky/independence/2019-centennial-blvd.html,ky,independence,2019-centennial-blvd,030831,"2019 Centennial Blvd, Independence, KY 41051",41051,38.9306805,-84.5409517
+https://locations.tacobell.com/ky/inez/2018-main-street.html,ky,inez,2018-main-street,C477001,"2018 Main Street, Inez, KY 41224",41224,37.8677264,-82.5337507
+https://locations.tacobell.com/ky/shelbyville/200-mortown-way.html,ky,shelbyville,200-mortown-way,034678,"200 Mortown Way, Shelbyville, KY 40065",40065,38.1962018,-85.268966
+https://locations.tacobell.com/md/germantown/19923-century-blvd.html,md,germantown,19923-century-blvd,036541,"19923 Century Blvd, Germantown, MD 20874",19923,39.1823885,-77.2629222
+https://locations.tacobell.com/la/bossier-city/1990-airline-dr.html,la,bossier-city,1990-airline-dr,042212,"1990 Airline Dr, Bossier City, LA 71112",71112,32.5281322,-93.7010928
+https://locations.tacobell.com/la/hammond/1977-sw-railroad-ave.html,la,hammond,1977-sw-railroad-ave,041573,"1977 SW Railroad Ave, Hammond, LA 70403",70403,30.4819252,-90.457053
+https://locations.tacobell.com/ky/lexington/1970-harrodsburg-road.html,ky,lexington,1970-harrodsburg-road,031595,"1970 Harrodsburg Road, Lexington, KY 40503",40503,38.0267336,-84.5343018
+https://locations.tacobell.com/ky/shepherdsville/1961-east-blue-lick-road.html,ky,shepherdsville,1961-east-blue-lick-road,034679,"1961 East Blue Lick Road, Shepherdsville, KY 40165",40165,38.0614231,-85.7018972
+https://locations.tacobell.com/ma/fall-river/195-marianno-bishop-blvd.html,ma,fall-river,195-marianno-bishop-blvd,040859,"195 Marianno Bishop Blvd, Fall River, MA 02721",02721,41.6754513,-71.1630467
+https://locations.tacobell.com/la/lafayette/1935-west-pinhook-road.html,la,lafayette,1935-west-pinhook-road,032604,"1935 West Pinhook Road, Lafayette, LA 70508",70508,30.1892435,-92.0140943
+https://locations.tacobell.com/ky/lexington/1935-plaudit-place.html,ky,lexington,1935-plaudit-place,020363,"1935 Plaudit Place, Lexington, KY 40507",40507,38.0198493,-84.4148731
+https://locations.tacobell.com/la/covington/19290-19th-avenue.html,la,covington,19290-19th-avenue,041563,"19290 19th Avenue, Covington, LA 70433",19290,30.4453701,-90.0815274
+https://locations.tacobell.com/la/gonzales/1928-west-highway-30.html,la,gonzales,1928-west-highway-30,034626,"1928 West Highway 30, Gonzales, LA 70737",70737,30.2111203,-90.94161199999999
+https://locations.tacobell.com/ky/henderson/1917-us-hwy-41-n.html,ky,henderson,1917-us-hwy-41-n,028883,"1917 US Hwy 41 N, Henderson, KY 42420",42420,37.8623561,-87.575273
+https://locations.tacobell.com/la/shreveport/1911-north-market.html,la,shreveport,1911-north-market,042211,"1911 North Market, Shreveport, LA 71107",71107,32.5444393,-93.7763759
+https://locations.tacobell.com/ky/corbin/1880-cumberland-falls-highway.html,ky,corbin,1880-cumberland-falls-highway,032059,"1880 Cumberland Falls Highway, Corbin, KY 40701",40701,36.9187836,-84.1261359
+https://locations.tacobell.com/ma/danvers/186-endicott-street.html,ma,danvers,186-endicott-street,029270,"186 Endicott Street, Danvers, MA 01923",01923,42.5479465,-70.9424465
+https://locations.tacobell.com/md/gaithersburg/18415-woodfield-road.html,md,gaithersburg,18415-woodfield-road,036540,"18415 Woodfield Road, Gaithersburg, MD 20879",18415,39.1594274,-77.1593023
+https://locations.tacobell.com/la/bastrop/1816-east-madison-street.html,la,bastrop,1816-east-madison-street,016865,"1816 East Madison Street, Bastrop, LA 71220",71220,32.7787026,-91.892173
+https://locations.tacobell.com/la/metairie/1805-veterans-memorial-blvd.html,la,metairie,1805-veterans-memorial-blvd,041583,"1805 Veterans Memorial Blvd, Metairie, LA 70005",70005,30.0024405,-90.1431271
+https://locations.tacobell.com/ky/louisville/1805-blankenbaker-parkway.html,ky,louisville,1805-blankenbaker-parkway,036160,"1805 Blankenbaker Parkway, Louisville, KY 40299",40299,38.1966957,-85.5478443
+https://locations.tacobell.com/md/annapolis/1803-west-st.html,md,annapolis,1803-west-st,039987,"1803 West St, Annapolis, MD 21401",21401,38.9795282,-76.5217138
+https://locations.tacobell.com/la/leesville/1802-south-5th-street.html,la,leesville,1802-south-5th-street,030183,"1802 South 5th Street, Leesville, LA 71446",71446,31.1239093,-93.268588
+https://locations.tacobell.com/ky/bowling-green/1802-russellville-rd-.html,ky,bowling-green,1802-russellville-rd-,027653,"1802 Russellville Rd., Bowling Green, KY 42101",42101,36.9812393,-86.4663388
+https://locations.tacobell.com/ky/louisville/1801-south-brook-street.html,ky,louisville,1801-south-brook-street,034682,"1801 South Brook Street, Louisville, KY 40208",40208,38.2211504,-85.7556028
+https://locations.tacobell.com/ky/lexington/1768-sharkey-way.html,ky,lexington,1768-sharkey-way,023156,"1768 Sharkey Way, Lexington, KY 40511",40511,38.0692377,-84.5302447
+https://locations.tacobell.com/la/harvey/1740-manhattan-blvd-.html,la,harvey,1740-manhattan-blvd-,041579,"1740 Manhattan Blvd., Harvey, LA 70058",70058,29.888251,-90.056932
+https://locations.tacobell.com/la/prairieville/17297-airline-highway-.html,la,prairieville,17297-airline-highway-,034635,"17297 Airline Highway., Prairieville, LA 70769",17297,30.2932509,-90.9634483
+https://locations.tacobell.com/ma/lowell/1720-middlesex-street.html,ma,lowell,1720-middlesex-street,G205001,"1720 Middlesex Street, Lowell, MA 01851",01851,42.635019,-71.3529751
+https://locations.tacobell.com/la/jennings/1719-elton-rd.html,la,jennings,1719-elton-rd,003601,"1719 Elton Rd, Jennings, LA 70546",70546,30.2413312,-92.6640581
+https://locations.tacobell.com/ky/bardstown/171-w--john-rowan-blvd-.html,ky,bardstown,171-w--john-rowan-blvd-,034670,"171 W. John Rowan Blvd., Bardstown, KY 40004",40004,37.8271066,-85.4697828
+https://locations.tacobell.com/ma/everett/1683-revere-beach-pkwy.html,ma,everett,1683-revere-beach-pkwy,031550,"1683 Revere Beach Pkwy, Everett, MA 02149",02149,42.4022035,-71.0422586
+https://locations.tacobell.com/la/slidell/1681-gause-blvd.html,la,slidell,1681-gause-blvd,002875,"1681 Gause Blvd, Slidell, LA 70458",70458,30.2841917,-89.7511637
+https://locations.tacobell.com/md/bowie/16300-heritage-blvd.html,md,bowie,16300-heritage-blvd,039990,"16300 Heritage Blvd, Bowie, MD 20716",16300,38.9460708,-76.7210107
+https://locations.tacobell.com/la/shreveport/1630-e-bert-kouns-loop.html,la,shreveport,1630-e-bert-kouns-loop,042214,"1630 E Bert Kouns Loop, Shreveport, LA 71105",71105,32.402039,-93.7895714
+https://locations.tacobell.com/ma/woburn/163-cambridge-rd.html,ma,woburn,163-cambridge-rd,E685020,"163 Cambridge Rd, Woburn, MA 01801",01801,42.4685138,-71.1794838
+https://locations.tacobell.com/ky/elizabethtown/1604-north-dixie-hwy.html,ky,elizabethtown,1604-north-dixie-hwy,034672,"1604 North Dixie Hwy, Elizabethtown, KY 42701",42701,37.7288911,-85.8851912
+https://locations.tacobell.com/la/metairie/1601-airline-dr.html,la,metairie,1601-airline-dr,041562,"1601 Airline Dr, Metairie, LA 70001",70001,29.9735533,-90.1458239
+https://locations.tacobell.com/md/hagerstown/1600-wesel-blvd.html,md,hagerstown,1600-wesel-blvd,005141,"1600 Wesel Blvd, Hagerstown, MD 21740",21740,39.6319606,-77.7611135
+https://locations.tacobell.com/la/springhill/1600-s-arkansas-street.html,la,springhill,1600-s-arkansas-street,042219,"1600 S Arkansas Street, Springhill, LA 71075",71075,32.9880309,-93.4608351
+https://locations.tacobell.com/ky/whitesburg/16-maple-street.html,ky,whitesburg,16-maple-street,038807,"16 Maple Street, Whitesburg, KY 41858",41858,37.1200307,-82.8437522
+https://locations.tacobell.com/ky/frankfort/1582-versailles-road.html,ky,frankfort,1582-versailles-road,024663,"1582 Versailles Road, Frankfort, KY 40601",40601,38.1794623,-84.8142171
+https://locations.tacobell.com/md/bowie/15701-annapolis-rd.html,md,bowie,15701-annapolis-rd,039971,"15701 Annapolis Rd, Bowie, MD 20715",15701,38.9796872,-76.7327618
+https://locations.tacobell.com/ma/west-roxbury/1560-vfw-parkway.html,ma,west-roxbury,1560-vfw-parkway,029265,"1560 Vfw Parkway, West Roxbury, MA 02132",02132,42.2668672,-71.169263
+https://locations.tacobell.com/ma/pembroke/156-church-st.html,ma,pembroke,156-church-st,040875,"156 Church St, Pembroke, MA 02359",02359,42.1084563,-70.7693766
+https://locations.tacobell.com/la/slidell/155-northshore-blvd.html,la,slidell,155-northshore-blvd,041561,"155 Northshore Blvd, Slidell, LA 70460",70460,30.306121,-89.8262458
+https://locations.tacobell.com/la/baton-rouge/15295-george-oneal-ln-.html,la,baton-rouge,15295-george-oneal-ln-,034624,"15295 George O'Neal Ln., Baton Rouge, LA 70817",15295,30.4087687,-91.0149966
+https://locations.tacobell.com/ky/paducah/1525-lone-oak-road.html,ky,paducah,1525-lone-oak-road,037485,"1525 Lone Oak Road, Paducah, KY 42003",42003,37.0535799,-88.6471261
+https://locations.tacobell.com/la/monroe/1510-martin-luther-king-dr-.html,la,monroe,1510-martin-luther-king-dr-,037692,"1510 Martin Luther King Dr., Monroe, LA 71202",71202,32.4921437,-92.0838282
+https://locations.tacobell.com/ky/mount-washington/149-oakbrooke-drive.html,ky,mount-washington,149-oakbrooke-drive,022842,"149 Oakbrooke Drive, Mount Washington, KY 40047",40047,38.0517461,-85.5394057
+https://locations.tacobell.com/ma/framingham/149-cochituate-rd.html,ma,framingham,149-cochituate-rd,E685024,"149 Cochituate Rd, Framingham, MA 01701",01701,42.3003353,-71.4084224
+https://locations.tacobell.com/ma/chicopee/1471-memorial-drive.html,ma,chicopee,1471-memorial-drive,029247,"1471 Memorial Drive, Chicopee, MA 01020",01020,42.1977873,-72.573197
+https://locations.tacobell.com/la/baker/14610-plank-rd.html,la,baker,14610-plank-rd,031657,"14610 Plank Rd, Baker, LA 70714",14610,30.5794263,-91.1270371
+https://locations.tacobell.com/md/eldersburg/1429-liberty-road.html,md,eldersburg,1429-liberty-road,040036,"1429 Liberty Road, Eldersburg, MD 21784",21784,39.4021237,-76.9455464
+https://locations.tacobell.com/ky/danville/1428-hustonville-rd.html,ky,danville,1428-hustonville-rd,019746,"1428 Hustonville Rd, Danville, KY 40422",40422,37.6226129,-84.774739
+https://locations.tacobell.com/la/lafayette/1422-johnston-st.html,la,lafayette,1422-johnston-st,032601,"1422 Johnston St, Lafayette, LA 70503",70503,30.2152079,-92.0211654
+https://locations.tacobell.com/la/hammond/14109-university-avenue.html,la,hammond,14109-university-avenue,041575,"14109 University Avenue, Hammond, LA 70401",14109,30.5196216,-90.5004291
+https://locations.tacobell.com/la/gray/141-linda-ann-avenue.html,la,gray,141-linda-ann-avenue,020511,"141 Linda Ann Avenue, Gray, LA 70359",70359,29.6810144,-90.7824398
+https://locations.tacobell.com/ky/central-city/1409-w-everly-brothers-blvd.html,ky,central-city,1409-w-everly-brothers-blvd,036780,"1409 W Everly Brothers Blvd, Central City, KY 42330",42330,37.2824629,-87.1308441
+https://locations.tacobell.com/la/breaux-bridge/1409-rees-st.html,la,breaux-bridge,1409-rees-st,026637,"1409 Rees St, Breaux Bridge, LA 70517",70517,30.2853986,-91.907174
+https://locations.tacobell.com/ky/cold-spring/14-martha-layne-collins-blvd-.html,ky,cold-spring,14-martha-layne-collins-blvd-,004394,"14 Martha Layne Collins Blvd., Cold Spring, KY 41076",41076,39.027904,-84.4514134
+https://locations.tacobell.com/la/larose/13926-west-main-street.html,la,larose,13926-west-main-street,015758,"13926 West Main Street, Larose, LA 70373",13926,29.5516781,-90.3487742
+https://locations.tacobell.com/md/silver-spring/13830-georgia-avenue.html,md,silver-spring,13830-georgia-avenue,040054,"13830 Georgia Avenue, Silver Spring, MD 20906",13830,39.0806914,-77.0748494
+https://locations.tacobell.com/ky/hazard/137-village-lane.html,ky,hazard,137-village-lane,031444,"137 Village Lane, Hazard, KY 41701",41701,37.2820589,-83.2272335
+https://locations.tacobell.com/md/hagerstown/13609-crayton-blvd.html,md,hagerstown,13609-crayton-blvd,020073,"13609 Crayton Blvd, Hagerstown, MD 21742",13609,39.6889832,-77.7303164
+https://locations.tacobell.com/md/solomons/13400-hg-trueman-rd-.html,md,solomons,13400-hg-trueman-rd-,039980,"13400 HG Trueman Rd., Solomons, MD 20688",13400,38.346225,-76.4599688
+https://locations.tacobell.com/md/laurel/13360-laurel-bowie-rd.html,md,laurel,13360-laurel-bowie-rd,039972,"13360 Laurel Bowie Rd, Laurel, MD 20708",13360,39.0751657,-76.8491127
+https://locations.tacobell.com/la/lake-charles/1325-n--martin-luther-king-hwy.html,la,lake-charles,1325-n--martin-luther-king-hwy,029857,"1325 N. Martin Luther King Hwy, Lake Charles, LA 70601",70601,30.2361179,-93.1804724
+https://locations.tacobell.com/md/frederick/1314-e-patrick.html,md,frederick,1314-e-patrick,040057,"1314 E Patrick, Frederick, MD 21701",21701,39.40445,-77.3816146
+https://locations.tacobell.com/md/oakland/13010-garrett-highway.html,md,oakland,13010-garrett-highway,040060,"13010 Garrett Highway, Oakland, MD 21550",13010,39.4244451,-79.3933163
+https://locations.tacobell.com/la/natchitoches/127-south-dr.html,la,natchitoches,127-south-dr,002619,"127 South Dr, Natchitoches, LA 71457",71457,31.7488591,-93.0819436
+https://locations.tacobell.com/ky/london/127-kings-way.html,ky,london,127-kings-way,029065,"127 King's Way, London, KY 40741",40741,37.1118109,-84.0937369
+https://locations.tacobell.com/ma/springfield/1264-boston-road.html,ma,springfield,1264-boston-road,029249,"1264 Boston Road, Springfield, MA 01119",01119,42.1400676,-72.5031082
+https://locations.tacobell.com/ky/middletown/12529-shelbyville-rd.html,ky,middletown,12529-shelbyville-rd,036154,"12529 Shelbyville Rd, Middletown, KY 40243",12529,38.2450108,-85.5228148
+https://locations.tacobell.com/ky/louisville/12434-lagrange-rd-.html,ky,louisville,12434-lagrange-rd-,036161,"12434 LaGrange Rd., Louisville, KY 40245",12434,38.2916848,-85.509842
+https://locations.tacobell.com/ma/east-walpole/124-providence-highway.html,ma,east-walpole,124-providence-highway,040864,"124 Providence Highway, East Walpole, MA 02032",02032,42.1541172,-71.2048381
+https://locations.tacobell.com/ma/lynn/124-boston-st.html,ma,lynn,124-boston-st,032157,"124 Boston St, Lynn, MA 01904",01904,42.473828,-70.957965
+https://locations.tacobell.com/ky/middlesboro/1231-north-12th-street.html,ky,middlesboro,1231-north-12th-street,029047,"1231 North 12th Street, Middlesboro, KY 40965",40965,36.6130425,-83.7020112
+https://locations.tacobell.com/la/franklinton/1230-washington-st-.html,la,franklinton,1230-washington-st-,031713,"1230 Washington St., Franklinton, LA 70438",70438,30.8475617,-90.1515008
+https://locations.tacobell.com/la/houma/1228-saint-charles-street.html,la,houma,1228-saint-charles-street,024689,"1228 Saint Charles Street, Houma, LA 70360",70360,29.5885164,-90.7435283
+https://locations.tacobell.com/la/baton-rouge/122-lobdell-avenue.html,la,baton-rouge,122-lobdell-avenue,L775092,"122 Lobdell Avenue, Baton Rouge, LA 70806",70806,30.442364,-91.1106013
+https://locations.tacobell.com/la/gonzales/1202-n--airline-hwy-.html,la,gonzales,1202-n--airline-hwy-,034625,"1202 N. Airline Hwy., Gonzales, LA 70737",70737,30.2422665,-90.9174519
+https://locations.tacobell.com/ky/barbourville/1200-south-us-hwy-25e.html,ky,barbourville,1200-south-us-hwy-25e,024360,"1200 South US Hwy 25E, Barbourville, KY 40906",40906,36.8531304,-83.8651835
+https://locations.tacobell.com/ky/shepherdsville/120-n-joe-b--hall-ave-.html,ky,shepherdsville,120-n-joe-b--hall-ave-,034666,"120 N Joe B. Hall Ave., Shepherdsville, KY 40165",40165,37.9902023,-85.7065939
+https://locations.tacobell.com/la/baton-rouge/11991-hooper-rd-.html,la,baton-rouge,11991-hooper-rd-,034641,"11991 Hooper Rd., Baton Rouge, LA 70818",11991,30.547631,-91.0541242
+https://locations.tacobell.com/ky/berea/119-brentwood.html,ky,berea,119-brentwood,021543,"119 Brentwood, Berea, KY 40403",40403,37.565279,-84.31253810000001
+https://locations.tacobell.com/la/scott/119-ambassador-caffrey-pkwy.html,la,scott,119-ambassador-caffrey-pkwy,032602,"119 Ambassador Caffrey Pkwy, Scott, LA 70583",70583,30.2439569,-92.0657248
+https://locations.tacobell.com/la/minden/1180-homer-rd.html,la,minden,1180-homer-rd,042209,"1180 Homer Rd, Minden, LA 71055",71055,32.6240096,-93.2541177
+https://locations.tacobell.com/ma/ware/118-west-street.html,ma,ware,118-west-street,032588,"118 West Street, Ware, MA 01082",01082,42.2565908,-72.2493256
+https://locations.tacobell.com/md/beltsville/11751-beltsville-drive.html,md,beltsville,11751-beltsville-drive,039979,"11751 Beltsville Drive, Beltsville, MD 20705",11751,39.0505745,-76.9367102
+https://locations.tacobell.com/ky/bowling-green/1162-31w-bypass.html,ky,bowling-green,1162-31w-bypass,023160,"1162 31W Bypass, Bowling Green, KY 42101",42101,36.9825959,-86.43907279999999
+https://locations.tacobell.com/la/leesville/1145-entrance-rd.html,la,leesville,1145-entrance-rd,024526,"1145 Entrance Rd, Leesville, LA 71446",71446,31.0558185,-93.24490019999999
+https://locations.tacobell.com/ky/louisville/11206-preston-hwy.html,ky,louisville,11206-preston-hwy,034669,"11206 Preston Hwy, Louisville, KY 40229",11206,38.0864564,-85.6685641
+https://locations.tacobell.com/la/shreveport/1120-kings-hwy.html,la,shreveport,1120-kings-hwy,042221,"1120 Kings Hwy, Shreveport, LA 71104",71104,32.4823244,-93.7534558
+https://locations.tacobell.com/la/jefferson/1117-s-clearview-pkwy.html,la,jefferson,1117-s-clearview-pkwy,041569,"1117 S Clearview Pkwy, Jefferson, LA 70121",70121,29.9603515,-90.1833364
+https://locations.tacobell.com/ky/beaver-dam/1110-north-main.html,ky,beaver-dam,1110-north-main,036779,"1110 North Main Ashland Oil / Fast Way #3, Beaver Dam, KY 42320",42320,37.415947,-86.8787921
+https://locations.tacobell.com/ky/shelbyville/111-boone-station-road.html,ky,shelbyville,111-boone-station-road,034671,"111 Boone Station Road, Shelbyville, KY 40065",40065,38.2121976,-85.2049868
+https://locations.tacobell.com/la/houma/1107-grand-caillou-rd.html,la,houma,1107-grand-caillou-rd,021553,"1107 Grand Caillou Rd, Houma, LA 70363",70363,29.5798748,-90.6909107
+https://locations.tacobell.com/la/amite/1104-west-oak.html,la,amite,1104-west-oak,041577,"1104 West Oak, Amite, LA 70422",70422,30.7269169,-90.5259211
+https://locations.tacobell.com/ky/georgetown/1104-lexington-road.html,ky,georgetown,1104-lexington-road,031527,"1104 Lexington Road, Georgetown, KY 40324",40324,38.1881254,-84.562045
+https://locations.tacobell.com/md/rockville/1100-rockville-pike.html,md,rockville,1100-rockville-pike,036539,"1100 Rockville Pike, Rockville, MD 20852",20852,39.071985,-77.1324642
+https://locations.tacobell.com/ky/winchester/110-april-way.html,ky,winchester,110-april-way,020919,"110 April Way, Winchester, KY 40391",40391,37.9871679,-84.2088997
+https://locations.tacobell.com/ma/seekonk/11-commerce-way.html,ma,seekonk,11-commerce-way,040860,"11 Commerce Way, Seekonk, MA 02771",02771,41.7933424,-71.3241179
+https://locations.tacobell.com/ky/mount-vernon/1090-richmond-street.html,ky,mount-vernon,1090-richmond-street,030446,"1090 Richmond Street, Mount Vernon, KY 40456",40456,37.3678862,-84.3359919
+https://locations.tacobell.com/md/gambrills/1088-state-route-3-n.html,md,gambrills,1088-state-route-3-n,039965,"1088 State Route 3 N, Gambrills, MD 21054",21054,39.0255487,-76.6906989
+https://locations.tacobell.com/md/frederick/1086-w-patrick-st-.html,md,frederick,1086-w-patrick-st-,040035,"1086 W Patrick St., Frederick, MD 21703",21703,39.4169339,-77.4455245
+https://locations.tacobell.com/md/beltsville/10810-baltimore-avenue.html,md,beltsville,10810-baltimore-avenue,040055,"10810 Baltimore Avenue, Beltsville, MD 20705",10810,39.0322543,-76.9120979
+https://locations.tacobell.com/ky/louisville/108-e--broadway.html,ky,louisville,108-e--broadway,034661,"108 E. Broadway, Louisville, KY 40202",40202,38.2456156,-85.7531762
+https://locations.tacobell.com/ky/louisville/10701-dixie-hwy.html,ky,louisville,10701-dixie-hwy,034676,"10701 Dixie Hwy, Louisville, KY 40272",10701,38.0986903,-85.8715487
+https://locations.tacobell.com/ky/louisville/1069-bardstown-rd.html,ky,louisville,1069-bardstown-rd,034662,"1069 Bardstown Rd, Louisville, KY 40204",40204,38.2391595,-85.7218954
+https://locations.tacobell.com/ky/lexington/1065-e-new-circle-rd.html,ky,lexington,1065-e-new-circle-rd,004653,"1065 E New Circle Rd, Lexington, KY 40505",40505,38.0367072,-84.4538295
+https://locations.tacobell.com/la/baton-rouge/10623-burbank-drive.html,la,baton-rouge,10623-burbank-drive,031648,"10623 Burbank Drive, Baton Rouge, LA 70810",10623,30.3538982,-91.1076744
+https://locations.tacobell.com/ky/louisville/10541-fischer-park-drive.html,ky,louisville,10541-fischer-park-drive,034674,"10541 Fischer Park Drive, Louisville, KY 40241",10541,38.2955889,-85.5572467
+https://locations.tacobell.com/la/shreveport/105-east-bert-kouns.html,la,shreveport,105-east-bert-kouns,042218,"105 East Bert Kouns, Shreveport, LA 71106",71106,32.3979434,-93.7500617
+https://locations.tacobell.com/ky/elizabethtown/105-buffalo-creek-drive.html,ky,elizabethtown,105-buffalo-creek-drive,K750031,"105 Buffalo Creek Drive, Elizabethtown, KY 42701",42701,37.7140007,-85.8324666
+https://locations.tacobell.com/ky/la-grange/103-w-crystal-dr.html,ky,la-grange,103-w-crystal-dr,019608,"103 W Crystal Dr, La Grange, KY 40031",40031,38.4013965,-85.3770618
+https://locations.tacobell.com/md/owings-mills/10245-reistertown-road.html,md,owings-mills,10245-reistertown-road,040051,"10245 Reistertown Road, Owings Mills, MD 21117",10245,39.4168552,-76.7759264
+https://locations.tacobell.com/ky/mayfield/1023-paris-rd.html,ky,mayfield,1023-paris-rd,029376,"1023 Paris Rd, Mayfield, KY 42066",42066,36.729309,-88.6314327
+https://locations.tacobell.com/ky/hardinsburg/1012-old-highway-60.html,ky,hardinsburg,1012-old-highway-60,036781,"1012 Old Highway 60, Hardinsburg, KY 40143",40143,37.7663599,-86.44185259999999
+https://locations.tacobell.com/ky/nicholasville/1011-n-main-st.html,ky,nicholasville,1011-n-main-st,004495,"1011 N Main St, Nicholasville, KY 40356",40356,37.8984018,-84.5658634
+https://locations.tacobell.com/la/ponchatoula/1011-highway-51-north.html,la,ponchatoula,1011-highway-51-north,041576,"1011 Highway 51 North, Ponchatoula, LA 70454",70454,30.42962,-90.4542523
+https://locations.tacobell.com/md/pocomoke-city/101-newtowne-boulevard.html,md,pocomoke-city,101-newtowne-boulevard,041557,"101 Newtowne Boulevard, Pocomoke City, MD 21851",21851,38.0754037,-75.5567859
+https://locations.tacobell.com/ky/lawrenceburg/1008-bypass-s.html,ky,lawrenceburg,1008-bypass-s,025506,"1008 Bypass S, Lawrenceburg, KY 40342",40342,38.030568,-84.91239399999999
+https://locations.tacobell.com/md/largo/1006-largo-center-dr.html,md,largo,1006-largo-center-dr,039049,"1006 Largo Center Dr, Largo, MD 20774",20774,38.9028559,-76.8348095
+https://locations.tacobell.com/la/morgan-city/1005-greenwood-st-.html,la,morgan-city,1005-greenwood-st-,030498,"1005 Greenwood St., Morgan City, LA 70380",70380,29.7011062,-91.2005648
+https://locations.tacobell.com/la/covington/1004-ronald-reagan-highway.html,la,covington,1004-ronald-reagan-highway,041565,"1004 Ronald Reagan Highway, Covington, LA 70434",70434,30.5001521,-90.1090251
+https://locations.tacobell.com/md/aberdeen/1002-beards-hill-road.html,md,aberdeen,1002-beards-hill-road,040044,"1002 Beards Hill Road, Aberdeen, MD 21001",21001,39.5223389,-76.1837538
+https://locations.tacobell.com/la/westwego/1001-westbank-expressway.html,la,westwego,1001-westbank-expressway,041919,"1001 Westbank Expressway, Westwego, LA 70094",70094,29.8984914,-90.1423395
+https://locations.tacobell.com/ky/georgetown/100-finley-drive.html,ky,georgetown,100-finley-drive,016950,"100 Finley Drive, Georgetown, KY 40324",40324,38.2123394,-84.5389901
+https://locations.tacobell.com/md/thurmont/1-thurmont-blvd.html,md,thurmont,1-thurmont-blvd,G135760,"1 Thurmont Blvd, Thurmont, MD 21788",21788,39.6142172,-77.41829
+https://locations.tacobell.com/ma/brookline/276-harvard-st.html,ma,brookline,276-harvard-st,040446,"276 Harvard St, Brookline, MA 02446",02446,42.3423956,-71.1218383
+https://locations.tacobell.com/ky/oak-grove/213-claire-ave-.html,ky,oak-grove,213-claire-ave-,039122,"213 Claire Ave., Oak Grove, KY 42262",42262,36.6690694,-87.4429474
+https://locations.tacobell.com/ky/radcliff/3040-s--dixie-blvd.html,ky,radcliff,3040-s--dixie-blvd,040565,"3040 S. Dixie Blvd, Radcliff, KY 40160",40160,37.8064472,-85.9199829
+https://locations.tacobell.com/ma/raynham/883-broadway.html,ma,raynham,883-broadway,040485,"883 Broadway, Raynham, MA 02767",02767,41.9519162,-71.0706137
+https://locations.tacobell.com/ky/flemingsburg/19-ashbrook-dr.html,ky,flemingsburg,19-ashbrook-dr,040633,"19 Ashbrook Dr, Flemingsburg, KY 41041",41041,38.4219719,-83.75370459999999
+https://locations.tacobell.com/ma/attleboro/211-pleasant-st.html,ma,attleboro,211-pleasant-st,038791,"211 Pleasant St, Attleboro, MA 02703",02703,41.9448766,-71.281179
+https://locations.tacobell.com/la/boutte/14130-highway-90.html,la,boutte,14130-highway-90,017611,"14130 Highway 90, Boutte, LA 70039",14130,29.8907496,-90.4108016
+https://locations.tacobell.com/ky/harlan/2880-bell-street.html,ky,harlan,2880-bell-street,029043,"2880 Bell Street, Harlan, KY 40831",40831,36.863493,-83.193222
+https://locations.tacobell.com/ky/bellevue/55-donnermeyer-drive.html,ky,bellevue,55-donnermeyer-drive,040385,"55 Donnermeyer Drive, Bellevue, KY 41073",41073,39.0974962,-84.4829724
+https://locations.tacobell.com/ky/edgewood/3039-dixie-highway.html,ky,edgewood,3039-dixie-highway,040504,"3039 Dixie Highway, Edgewood, KY 41017",41017,39.021815,-84.5860583
+https://locations.tacobell.com/md/andrews-afb/1811-g-st-.html,md,andrews-afb,1811-g-st-,033350,"1811 G St., Andrews Afb, MD 20762",20762,38.81882100000001,-76.882757
+https://locations.tacobell.com/md/takoma-park/1300-holton-lane.html,md,takoma-park,1300-holton-lane,039102,"1300 Holton Lane, Takoma Park, MD 20912",20912,38.986065,-76.9877161
+https://locations.tacobell.com/ky/alexandria/7101-alexandria-pike.html,ky,alexandria,7101-alexandria-pike,033270,"7101 Alexandria Pike, Alexandria, KY 41001",41001,38.9843833,-84.4004665
+https://locations.tacobell.com/ma/worcester/801-grafton-street.html,ma,worcester,801-grafton-street,033749,"801 Grafton Street, Worcester, MA 01604",01604,42.2497655,-71.7626131
+https://locations.tacobell.com/ky/morganfield/716-us-hwy-60-east.html,ky,morganfield,716-us-hwy-60-east,033496,"716 US Hwy 60 East, Morganfield, KY 42437",42437,37.6894022,-87.9059158
+https://locations.tacobell.com/ma/springfield/2433-main-street.html,ma,springfield,2433-main-street,033637,"2433 Main Street, Springfield, MA 01104",01104,42.1120425,-72.6037756
+https://locations.tacobell.com/ky/louisville/6306-greenwood-road.html,ky,louisville,6306-greenwood-road,034683,"6306 Greenwood Road, Louisville, KY 40258",40258,38.1445443,-85.8689203
+https://locations.tacobell.com/ky/louisville/6212-shephersdville-road.html,ky,louisville,6212-shephersdville-road,040443,"6212 Shephersdville Road, Louisville, KY 40228",40228,38.158358,-85.6603787
+https://locations.tacobell.com/la/livingston/29170-frost-rd.html,la,livingston,29170-frost-rd,038852,"29170 Frost Rd, Livingston, LA 70754",29170,30.4802866,-90.7476502
+https://locations.tacobell.com/md/wheaton/2119-university-blvd-w.html,md,wheaton,2119-university-blvd-w,K071128,"2119 University Blvd W, Wheaton, MD 20902",20902,39.0414241,-77.0473627
+https://locations.tacobell.com/md/rockville/9910-key-west-avenue.html,md,rockville,9910-key-west-avenue,K071139,"9910 Key West Avenue, Rockville, MD 20850",20850,39.1006446,-77.2121753
+https://locations.tacobell.com/la/st-rose/10384-east-airline-hwy.html,la,st-rose,10384-east-airline-hwy,034156,"10384 East Airline Hwy, St Rose, LA 70087",10384,29.9765437,-90.2921766
+https://locations.tacobell.com/la/baton-rouge/9409-greenwell-springs-rd.html,la,baton-rouge,9409-greenwell-springs-rd,039604,"9409 Greenwell Springs Rd, Baton Rouge, LA 70814",70814,30.4855494,-91.0833797
+https://locations.tacobell.com/md/cambridge/707-cambridge-marketplace-blvd-.html,md,cambridge,707-cambridge-marketplace-blvd-,034442,"707 Cambridge Marketplace Blvd., Cambridge, MD 21613",21613,38.5616277,-76.0638306
+https://locations.tacobell.com/md/denton/615-legion-road.html,md,denton,615-legion-road,034234,"615 Legion Road, Denton, MD 21629",21629,38.8765798,-75.822056
+https://locations.tacobell.com/la/pearl-river/64113-hwy-1090.html,la,pearl-river,64113-hwy-1090,041581,"64113 Hwy 1090, Pearl River, LA 70452",64113,30.3535633,-89.7410742

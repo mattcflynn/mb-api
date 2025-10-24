@@ -1,0 +1,369 @@
+url,state,city,address_slug,store_id,full_address,zip_code,latitude,longitude
+https://locations.tacobell.com/in/lebanon/2427-n--lebanon-street.html,in,lebanon,2427-n--lebanon-street,040496,"2427 N. Lebanon Street, Lebanon, IN 46052",46052,40.0731089,-86.4742304
+https://locations.tacobell.com/in/attica/1201-east-main-street.html,in,attica,1201-east-main-street,041054,"1201 East Main Street, Attica, IN 47918",47918,40.285696,-87.234431
+https://locations.tacobell.com/in/carmel/15005-thatcher-ln.html,in,carmel,15005-thatcher-ln,041161,"15005 Thatcher LN, Carmel, IN 46032",15005,40.0061721,-86.126564
+https://locations.tacobell.com/in/cedar-lake/13313-wicker-avenue.html,in,cedar-lake,13313-wicker-avenue,040019,"13313 Wicker Avenue, Cedar Lake, IN 46303",13313,41.37611,-87.4699098
+https://locations.tacobell.com/ks/basehor/15498-state-avenue.html,ks,basehor,15498-state-avenue,041543,"15498 State Avenue, Basehor, KS 66007",15498,39.116818,-94.937973
+https://locations.tacobell.com/in/indianapolis/24-west-washington-street.html,in,indianapolis,24-west-washington-street,041738,"24 West Washington Street, Indianapolis, IN 46204",46204,39.7671741,-86.1586727
+https://locations.tacobell.com/in/hebron/631-n--main-st-.html,in,hebron,631-n--main-st-,041205,"631 N. Main St., Hebron, IN 46341",46341,41.3157645,-87.1999344
+https://locations.tacobell.com/in/lowell/2107-e-commercial-ave.html,in,lowell,2107-e-commercial-ave,041099,"2107 E Commercial Ave, Lowell, IN 46356",46356,41.2899129,-87.3933332
+https://locations.tacobell.com/ks/wichita/2707-west-53rd-street.html,ks,wichita,2707-west-53rd-street,041266,"2707 West 53rd Street, Wichita, KS 67204",67204,37.7810746,-97.37442
+https://locations.tacobell.com/in/indianapolis/8120-e--southport-road.html,in,indianapolis,8120-e--southport-road,041048,"8120 E. Southport Road, Indianapolis, IN 46259",46259,39.6689387,-86.0213814
+https://locations.tacobell.com/in/muncie/6400-w-kilgore-avenue.html,in,muncie,6400-w-kilgore-avenue,041760,"6400 W Kilgore Avenue, Muncie, IN 47304",47304,40.1812229,-85.4605382
+https://locations.tacobell.com/in/syracuse/1206-s-huntington-st-.html,in,syracuse,1206-s-huntington-st-,034791,"1206 S Huntington ST., Syracuse, IN 46567",46567,41.4077913,-85.7454678
+https://locations.tacobell.com/ks/gardner/18731-s-gardner-rd.html,ks,gardner,18731-s-gardner-rd,041986,"18731 S Gardner Rd, Gardner, KS 66030",18731,38.8335165,-94.9276283
+https://locations.tacobell.com/ks/olathe/14189-w-135th-st.html,ks,olathe,14189-w-135th-st,042175,"14189 W 135th St, Olathe, KS 66062",14189,38.8831967,-94.7501885
+https://locations.tacobell.com/in/westville/600-n-flynn-road.html,in,westville,600-n-flynn-road,042001,"600 N Flynn Road, Westville, IN 46391",46391,41.5471853,-86.8972206
+https://locations.tacobell.com/in/la-porte/1301-e-lincolnway.html,in,la-porte,1301-e-lincolnway,041638,"1301 E Lincolnway, La Porte, IN 46350",46350,41.6240326,-86.6943783
+https://locations.tacobell.com/in/crown-point/549-e-109th-avenue.html,in,crown-point,549-e-109th-avenue,042059,"549 E 109th Avenue, Crown Point, IN 46307",46307,41.4202509,-87.3199517
+https://locations.tacobell.com/in/bloomington/2611-e--3rd-st.html,in,bloomington,2611-e--3rd-st,042149,"2611 E. 3rd St, Bloomington, IN 47401",47401,39.1647683,-86.5005071
+https://locations.tacobell.com/in/albany/1215-w-walnut-st.html,in,albany,1215-w-walnut-st,042048,"1215 W Walnut St, Albany, IN 47320",47320,40.3035603,-85.2440183
+https://locations.tacobell.com/in/indianapolis/5002-east-56th-street.html,in,indianapolis,5002-east-56th-street,034956,"5002 East 56th Street, Indianapolis, IN 46226",46226,39.855208,-86.0865263
+https://locations.tacobell.com/in/new-albany/100-daisy-summit.html,in,new-albany,100-daisy-summit,033583,"100 Daisy Summit, New Albany, IN 47150",47150,38.3078173,-85.8451065
+https://locations.tacobell.com/in/dyer/917-joliet-street.html,in,dyer,917-joliet-street,034772,"917 Joliet Street, Dyer, IN 46311",46311,41.4927987,-87.5044569
+https://locations.tacobell.com/in/muncie/1001-e-mcgalliard-rd.html,in,muncie,1001-e-mcgalliard-rd,034648,"1001 E McGalliard Rd, Muncie, IN 47303",47303,40.218692,-85.3756874
+https://locations.tacobell.com/in/kokomo/204-markland-avenue.html,in,kokomo,204-markland-avenue,035474,"204 Markland Avenue, Kokomo, IN 46901",46901,40.4765671,-86.1296083
+https://locations.tacobell.com/in/versailles/608-south-adams-street.html,in,versailles,608-south-adams-street,035130,"608 South Adams Street, Versailles, IN 47042",47042,39.0669165,-85.2543072
+https://locations.tacobell.com/in/seymour/2017-outlet-blvd.html,in,seymour,2017-outlet-blvd,035899,"2017 Outlet Blvd, Seymour, IN 47274",47274,38.9588013,-85.8389077
+https://locations.tacobell.com/in/crawfordsville/2503-lafayette-avenue.html,in,crawfordsville,2503-lafayette-avenue,036172,"2503 Lafayette Avenue, Crawfordsville, IN 47933",47933,40.0739892,-86.9057837
+https://locations.tacobell.com/in/clinton/1885-east-state-road-163.html,in,clinton,1885-east-state-road-163,036461,"1885 East State Road 163, Clinton, IN 47842",47842,39.6557637,-87.428624
+https://locations.tacobell.com/ks/derby/2127-north-rock-road.html,ks,derby,2127-north-rock-road,036264,"2127 North Rock Road, Derby, KS 67037",67037,37.5692353,-97.2450646
+https://locations.tacobell.com/in/franklin/115-granville-drive.html,in,franklin,115-granville-drive,035305,"115 Granville Drive, Franklin, IN 46131",46131,39.4837948,-86.0169758
+https://locations.tacobell.com/ks/olathe/10546-s-ridgeview.html,ks,olathe,10546-s-ridgeview,036456,"10546 S Ridgeview, Olathe, KS 66061",10546,38.9373448,-94.7985315
+https://locations.tacobell.com/in/ft-wayne/7719-southtown-crossing.html,in,ft-wayne,7719-southtown-crossing,036384,"7719 Southtown Crossing, Ft Wayne, IN 46816",46816,41.0149163,-85.116013
+https://locations.tacobell.com/in/granger/13120-state-road-23.html,in,granger,13120-state-road-23,036448,"13120 State Road 23, Granger, IN 46530",13120,41.7519013,-86.1218316
+https://locations.tacobell.com/in/spencer/234-e-morgan-st.html,in,spencer,234-e-morgan-st,036714,"234 E Morgan St, Spencer, IN 47460",47460,39.2867686,-86.7598603
+https://locations.tacobell.com/ks/overland-park/7100-w--119th-st.html,ks,overland-park,7100-w--119th-st,036695,"7100 W. 119th St, Overland Park, KS 66213",66213,38.9143844,-94.6699464
+https://locations.tacobell.com/in/indianapolis/8820-e-21st-st-.html,in,indianapolis,8820-e-21st-st-,G135814,"8820 E 21st St., Indianapolis, IN 46219",46219,39.7969279,-86.0126659
+https://locations.tacobell.com/in/indianapolis/5662-georgetown-road.html,in,indianapolis,5662-georgetown-road,G135815,"5662 Georgetown Road, Indianapolis, IN 46254",46254,39.8550603,-86.2407525
+https://locations.tacobell.com/in/indianapolis/2401-n-meridian-st.html,in,indianapolis,2401-n-meridian-st,G135807,"2401 N Meridian St, Indianapolis, IN 46208",46208,39.8013538,-86.1564974
+https://locations.tacobell.com/in/west-lafayette/5829-state-road-43-n.html,in,west-lafayette,5829-state-road-43-n,023130,"5829 State Road 43 N, West Lafayette, IN 47906",47906,40.5020291,-86.8680638
+https://locations.tacobell.com/in/new-lisbon/5884-s--wilbur-wright-road.html,in,new-lisbon,5884-s--wilbur-wright-road,035842,"5884 S. Wilbur Wright Road, New Lisbon, IN 47366",47366,39.8487187,-85.262495
+https://locations.tacobell.com/in/gary/2510-burr-street.html,in,gary,2510-burr-street,017703,"2510 Burr Street, Gary, IN 46406",46406,41.5722574,-87.4050414
+https://locations.tacobell.com/in/chesterton/1600-w-us-hwy-20.html,in,chesterton,1600-w-us-hwy-20,023089,"1600 W US Hwy 20, Chesterton, IN 46304",46304,41.6125001,-87.09850759999999
+https://locations.tacobell.com/in/haubstadt/1042-e-warrenton-road.html,in,haubstadt,1042-e-warrenton-road,023861,"1042 E Warrenton Road, Haubstadt, IN 47639",47639,38.1744351,-87.5486431
+https://locations.tacobell.com/in/gary/3001-grant-street.html,in,gary,3001-grant-street,029344,"3001 Grant Street, Gary, IN 46408",46408,41.5622855,-87.3538206
+https://locations.tacobell.com/ks/tecumseh/e-topeka-service-area-2-8000.html,ks,tecumseh,e-topeka-service-area-2-8000,30461,"E Topeka Service Area 2-8000 SE I-70, Tecumseh, KS 66542",66542,39.0195306,-95.5088194
+https://locations.tacobell.com/in/merrillville/2109-southlake-mall.html,in,merrillville,2109-southlake-mall,025736,"2109 Southlake Mall #Fc9, Merrillville, IN 46410",46410,41.4688844,-87.3094759
+https://locations.tacobell.com/in/remington/4154-west-us-highway-24.html,in,remington,4154-west-us-highway-24,034237,"4154 West US Highway 24, Remington, IN 47977",47977,40.7664211,-87.12405129999999
+https://locations.tacobell.com/in/demotte/1222-s-halleck-street.html,in,demotte,1222-s-halleck-street,036775,"1222 S Halleck Street, Demotte, IN 46310",46310,41.1909002,-87.1986926
+https://locations.tacobell.com/ks/wichita/3216-e--harry-st-.html,ks,wichita,3216-e--harry-st-,042112,"3216 E. Harry St., Wichita, KS 67218",67218,37.6646172,-97.2937379
+https://locations.tacobell.com/in/whitestown/4178-s-state-road-267.html,in,whitestown,4178-s-state-road-267,042232,"4178 S State Road 267, Whitestown, IN 46075",46075,39.9789719,-86.39725550000001
+https://locations.tacobell.com/in/valparaiso/793-mccool-rd-.html,in,valparaiso,793-mccool-rd-,041773,"793 Mccool Rd., Valparaiso, IN 46385",46385,41.5491308,-87.1434384
+https://locations.tacobell.com/in/indianapolis/2316-southport-commons-drive.html,in,indianapolis,2316-southport-commons-drive,041998,"2316 Southport Commons Drive, Indianapolis, IN 46217",46217,39.6642867,-86.2002907
+https://locations.tacobell.com/in/mccordsville/5835-w-broadway.html,in,mccordsville,5835-w-broadway,042009,"5835 W Broadway, McCordsville, IN 46055",46055,39.9006874,-85.9117822
+https://locations.tacobell.com/in/burns-harbor/250-melton-rd-.html,in,burns-harbor,250-melton-rd-,041163,"250 Melton Rd., Burns Harbor, IN 46304",46304,41.6025324,-87.1175554
+https://locations.tacobell.com/in/notre-dame/315-lafortune-student-center.html,in,notre-dame,315-lafortune-student-center,028427,"315 LaFortune Student Center, Notre Dame, IN 46556",46556,41.7020371,-86.2377606
+https://locations.tacobell.com/in/terre-haute/401-chestnut-street.html,in,terre-haute,401-chestnut-street,004535,"401 Chestnut Street, Terre Haute, IN 47808",47808,39.470567,-87.416539
+https://locations.tacobell.com/in/muncie/2000-w--university-avenue.html,in,muncie,2000-w--university-avenue,026085,"2000 W. University Avenue, Muncie, IN 47303",47303,40.1977334,-85.4090475
+https://locations.tacobell.com/in/indianapolis/49-w--maryland-street.html,in,indianapolis,49-w--maryland-street,024039,"49 W. Maryland Street, Indianapolis, IN 46225",46225,39.7656183,-86.159344
+https://locations.tacobell.com/ks/mission/6350-johnson-dr.html,ks,mission,6350-johnson-dr,037462,"6350 Johnson Dr, Mission, KS 66202",66202,39.0226729,-94.6594338
+https://locations.tacobell.com/in/hammond/954-indianapolis-blvd.html,in,hammond,954-indianapolis-blvd,036452,"954 Indianapolis Blvd, Hammond, IN 46320",46320,41.6962128,-87.5170873
+https://locations.tacobell.com/ks/leavenworth/601-metropolitan-ave.html,ks,leavenworth,601-metropolitan-ave,037673,"601 Metropolitan Ave, Leavenworth, KS 66048",66048,39.328354,-94.919294
+https://locations.tacobell.com/in/avon/6851-east-u-s--highway-36.html,in,avon,6851-east-u-s--highway-36,036229,"6851 East U.S. Highway 36, Avon, IN 46123",46123,39.7621991,-86.402673
+https://locations.tacobell.com/in/martinsville/1305-morton-ave.html,in,martinsville,1305-morton-ave,037488,"1305 Morton Ave, Martinsville, IN 46151",46151,39.4161184,-86.4322951
+https://locations.tacobell.com/in/mishawaka/3615-bremen-hwy.html,in,mishawaka,3615-bremen-hwy,037199,"3615 Bremen Hwy, Mishawaka, IN 46544",46544,41.6275421,-86.1773113
+https://locations.tacobell.com/in/indianapolis/9885-fall-creek-rd-.html,in,indianapolis,9885-fall-creek-rd-,038784,"9885 Fall Creek Rd., Indianapolis, IN 46256",46256,39.900436,-85.9932264
+https://locations.tacobell.com/in/jeffersonville/5031-watertower-rd-.html,in,jeffersonville,5031-watertower-rd-,037338,"5031 Watertower Rd., Jeffersonville, IN 47130",47130,38.3518762,-85.7047903
+https://locations.tacobell.com/in/loogootee/704-w-broadway-st-.html,in,loogootee,704-w-broadway-st-,038800,"704 W Broadway St., Loogootee, IN 47553",47553,38.6689378,-86.914892
+https://locations.tacobell.com/in/shelbyville/1810-n--riley.html,in,shelbyville,1810-n--riley,038792,"1810 N. Riley, Shelbyville, IN 46176",46176,39.548941,-85.7755257
+https://locations.tacobell.com/in/carmel/9853-n-michigan-rd-.html,in,carmel,9853-n-michigan-rd-,039002,"9853 N Michigan Rd., Carmel, IN 46032",46032,39.9305531,-86.2310801
+https://locations.tacobell.com/in/richmond/3029-east-main-st-.html,in,richmond,3029-east-main-st-,037373,"3029 East Main St., Richmond, IN 47374",47374,39.8305893,-84.8593695
+https://locations.tacobell.com/in/plainfield/702-west-main-street.html,in,plainfield,702-west-main-street,036538,"702 West Main Street, Plainfield, IN 46168",46168,39.700181,-86.4117815
+https://locations.tacobell.com/in/middlebury/122-u-s--hwy-20.html,in,middlebury,122-u-s--hwy-20,038816,"122 U.S. Hwy 20, Middlebury, IN 46540",46540,41.6561653,-85.7092748
+https://locations.tacobell.com/in/west-lafayette/5900-sr-43.html,in,west-lafayette,5900-sr-43,040495,"5900 Sr 43, West Lafayette, IN 47906",47906,40.5029898,-86.869158
+https://locations.tacobell.com/in/mount-vernon/1328-e-4th-st-.html,in,mount-vernon,1328-e-4th-st-,040331,"1328 E 4th St., Mount Vernon, IN 47620",47620,37.9366118,-87.8781304
+https://locations.tacobell.com/in/indianapolis/9755-e-washington-st.html,in,indianapolis,9755-e-washington-st,021075,"9755 E Washington St, Indianapolis, IN 46229",46229,39.7742152,-85.9953007
+https://locations.tacobell.com/ks/overland-park/9690-metcalf-ave-.html,ks,overland-park,9690-metcalf-ave-,034403,"9690 Metcalf Ave., Overland Park, KS 66212",66212,38.9533262,-94.6677317
+https://locations.tacobell.com/in/westfield/965-tournament-trail.html,in,westfield,965-tournament-trail,029452,"965 Tournament Trail, Westfield, IN 46074",46074,40.0432724,-86.1406982
+https://locations.tacobell.com/ks/lenexa/9600-quivira-rd-.html,ks,lenexa,9600-quivira-rd-,034397,"9600 Quivira Rd., Lenexa, KS 66215",66215,38.9541562,-94.7241096
+https://locations.tacobell.com/ks/derby/957-n-buckner.html,ks,derby,957-n-buckner,003968,"957 N Buckner, Derby, KS 67037",67037,37.5837496,-97.2791865
+https://locations.tacobell.com/in/indianapolis/951-indiana-avenue.html,in,indianapolis,951-indiana-avenue,028915,"951 Indiana Avenue, Indianapolis, IN 46202",46202,39.7800589,-86.1736739
+https://locations.tacobell.com/in/winchester/951-e-greenville-pike.html,in,winchester,951-e-greenville-pike,026722,"951 E Greenville Pike, Winchester, IN 47394",47394,40.1644997,-84.9651545
+https://locations.tacobell.com/ks/park-city/950-connolly-ct.html,ks,park-city,950-connolly-ct,020154,"950 Connolly Ct, Park City, KS 67219",67219,37.7974585,-97.327195
+https://locations.tacobell.com/in/charlestown/9301-hwy-403.html,in,charlestown,9301-hwy-403,022844,"9301 Hwy 403, Charlestown, IN 47111",47111,38.45312,-85.6702406
+https://locations.tacobell.com/in/anderson/925-s--scatterfield.html,in,anderson,925-s--scatterfield,028919,"925 S. Scatterfield, Anderson, IN 46012",46012,40.1474379,-85.6685345
+https://locations.tacobell.com/in/tipton/925-east-jefferson.html,in,tipton,925-east-jefferson,023133,"925 East Jefferson, Tipton, IN 46072",46072,40.2826487,-86.0319189
+https://locations.tacobell.com/in/wabash/917-n-cass-st.html,in,wabash,917-n-cass-st,042624,"917 N Cass St, Wabash, IN 46992",46992,40.8060951,-85.8291505
+https://locations.tacobell.com/in/marion/916-n--baldwin-ave-.html,in,marion,916-n--baldwin-ave-,024752,"916 N. Baldwin Ave., Marion, IN 46952",46952,40.5681742,-85.6753057
+https://locations.tacobell.com/in/indianapolis/9120-rockville-road.html,in,indianapolis,9120-rockville-road,026761,"9120 Rockville Road, Indianapolis, IN 46234",46234,39.7643349,-86.3240191
+https://locations.tacobell.com/in/floyds-knobs/900-lafollette-center-north.html,in,floyds-knobs,900-lafollette-center-north,023373,"900 LaFollette Center North, Floyds Knobs, IN 47119",47119,38.3242901,-85.8738399
+https://locations.tacobell.com/in/daleville/8990-innovative-dr-.html,in,daleville,8990-innovative-dr-,028917,"8990 Innovative Dr., Daleville, IN 47334",47334,40.1131842,-85.5625124
+https://locations.tacobell.com/ks/wichita/8979-w-central.html,ks,wichita,8979-w-central,023047,"8979 W Central, Wichita, KS 67212",67212,37.6936557,-97.4474739
+https://locations.tacobell.com/in/rensselaer/8833-west-state-road-114.html,in,rensselaer,8833-west-state-road-114,032495,"8833 West State Road 114, Rensselaer, IN 47978",47978,40.9458489,-86.3754099
+https://locations.tacobell.com/ks/overland-park/8559-west-135th-st-.html,ks,overland-park,8559-west-135th-st-,034404,"8559 West 135th St., Overland Park, KS 66223",66223,38.88382,-94.6843172
+https://locations.tacobell.com/in/brownsburg/850-n--green-st-.html,in,brownsburg,850-n--green-st-,028906,"850 N. Green St., Brownsburg, IN 46112",46112,39.8546921,-86.3940301
+https://locations.tacobell.com/in/saint-john/8496-wicker-avenue.html,in,saint-john,8496-wicker-avenue,032492,"8496 Wicker Avenue, Saint John, IN 46373",46373,41.4645881,-87.4709452
+https://locations.tacobell.com/in/hobart/8476-e-ridge-rd.html,in,hobart,8476-e-ridge-rd,032494,"8476 E Ridge Rd, Hobart, IN 46342",46342,41.5511021,-87.3177466
+https://locations.tacobell.com/in/sellersburg/8111-highway-311.html,in,sellersburg,8111-highway-311,015324,"8111 Highway 311, Sellersburg, IN 47172",47172,38.3899012,-85.7659183
+https://locations.tacobell.com/in/newburgh/8099-w-state-route-66.html,in,newburgh,8099-w-state-route-66,028888,"8099 W State Route 66, Newburgh, IN 47630",47630,37.9310127,-87.3504201
+https://locations.tacobell.com/in/avon/8080-e-us-highway-36.html,in,avon,8080-e-us-highway-36,005311,"8080 E US Highway 36, Avon, IN 46123",46123,39.76355849999999,-86.37960489999999
+https://locations.tacobell.com/in/greenwood/801-us-31-north.html,in,greenwood,801-us-31-north,001940,"801 US 31 North, Greenwood, IN 46142",46142,39.62862459999999,-86.1212563
+https://locations.tacobell.com/ks/overland-park/8000-w--151st-st-.html,ks,overland-park,8000-w--151st-st-,035231,"8000 W. 151st St., Overland Park, KS 66223",66223,38.8549871,-94.6801117
+https://locations.tacobell.com/in/munster/7949-calumet-ave.html,in,munster,7949-calumet-ave,005090,"7949 Calumet Ave, Munster, IN 46321",46321,41.5683935,-87.508546
+https://locations.tacobell.com/in/fishers/7680-e--96th-st-.html,in,fishers,7680-e--96th-st-,016097,"7680 E. 96th St., Fishers, IN 46038",46038,39.9271463,-86.0334443
+https://locations.tacobell.com/in/indianapolis/7650-brookville-road.html,in,indianapolis,7650-brookville-road,031680,"7650 Brookville Road, Indianapolis, IN 46239",46239,39.7516909,-86.0342598
+https://locations.tacobell.com/in/danville/745-east-main-street.html,in,danville,745-east-main-street,031572,"745 East Main Street, Danville, IN 46122",46122,39.7584746,-86.5096539
+https://locations.tacobell.com/ks/kansas-city/7337-state-ave.html,ks,kansas-city,7337-state-ave,034381,"7337 State Ave, Kansas City, KS 66112",66112,39.1167077,-94.7489801
+https://locations.tacobell.com/ks/wichita/7301-west-21st-street.html,ks,wichita,7301-west-21st-street,016744,"7301 West 21st Street, Wichita, KS 67205",67205,37.723112,-97.4274685
+https://locations.tacobell.com/in/peru/730-n-broadway.html,in,peru,730-n-broadway,028873,"730 N Broadway, Peru, IN 46970",46970,40.7656128,-86.0773592
+https://locations.tacobell.com/in/boonville/729-w-main-st.html,in,boonville,729-w-main-st,028896,"729 W Main St, Boonville, IN 47601",47601,38.0481691,-87.2876608
+https://locations.tacobell.com/in/indianapolis/7275-w-10th-st.html,in,indianapolis,7275-w-10th-st,002124,"7275 W 10th St, Indianapolis, IN 46214",46214,39.7790103,-86.2860344
+https://locations.tacobell.com/in/lawrence/7230-pendleton-pike.html,in,lawrence,7230-pendleton-pike,017314,"7230 Pendleton Pike, Lawrence, IN 46226",46226,39.8333953,-86.0334795
+https://locations.tacobell.com/ks/el-dorado/721-north-main-street.html,ks,el-dorado,721-north-main-street,019348,"721 North Main Street, El Dorado, KS 67042",67042,37.8256921,-96.8499237
+https://locations.tacobell.com/in/pendleton/7159-south-state-road-67.html,in,pendleton,7159-south-state-road-67,030845,"7159 South State Road 67, Pendleton, IN 46064",46064,40.0005631,-85.734966
+https://locations.tacobell.com/in/indianapolis/7098-n-michigan-rd.html,in,indianapolis,7098-n-michigan-rd,028867,"7098 N Michigan Rd, Indianapolis, IN 46268",46268,39.9269038,-86.2300872
+https://locations.tacobell.com/ks/dodge-city/708-west-wyatt-earp-road.html,ks,dodge-city,708-west-wyatt-earp-road,015610,"708 West Wyatt Earp Road, Dodge City, KS 67801",67801,37.7536118,-100.0238149
+https://locations.tacobell.com/in/chesterton/702-plaza-dr.html,in,chesterton,702-plaza-dr,032487,"702 Plaza Dr, Chesterton, IN 46304",46304,41.6171901,-87.0446246
+https://locations.tacobell.com/in/goshen/701-west-pike-st.html,in,goshen,701-west-pike-st,035405,"701 West Pike St, Goshen, IN 46526",46526,41.5892616,-85.8457694
+https://locations.tacobell.com/in/muncie/701-s--tillotson-ave-.html,in,muncie,701-s--tillotson-ave-,016044,"701 S. Tillotson Ave., Muncie, IN 47304",47304,40.1883004,-85.4194872
+https://locations.tacobell.com/in/indianapolis/6990-e-10th-st.html,in,indianapolis,6990-e-10th-st,028880,"6990 E 10th St, Indianapolis, IN 46219",46219,39.7819868,-86.0458778
+https://locations.tacobell.com/in/indianapolis/6957-w-38th-street.html,in,indianapolis,6957-w-38th-street,004977,"6957 W 38th Street, Indianapolis, IN 46254",46254,39.8225751,-86.2816044
+https://locations.tacobell.com/in/fort-wayne/6608-lima-road.html,in,fort-wayne,6608-lima-road,035402,"6608 Lima Road, Fort Wayne, IN 46818",46818,41.140148,-85.1616003
+https://locations.tacobell.com/in/hammond/6527-indianapolis-blvd.html,in,hammond,6527-indianapolis-blvd,015757,"6527 Indianapolis Blvd, Hammond, IN 46323",46323,41.5948222,-87.4803785
+https://locations.tacobell.com/ks/wichita/6515-e-37th-st-n.html,ks,wichita,6515-e-37th-st-n,021337,"6515 E 37th St N Wichita, KS 67226",67226,37.7516838,-97.2600453
+https://locations.tacobell.com/ks/gardner/651-east-main-street.html,ks,gardner,651-east-main-street,K071016,"651 East Main Street, Gardner, KS 66030",66030,38.8106836,-94.9136702
+https://locations.tacobell.com/in/indianapolis/6501-east-washington-street.html,in,indianapolis,6501-east-washington-street,028916,"6501 East Washington Street, Indianapolis, IN 46219",46219,39.7712865,-86.0555595
+https://locations.tacobell.com/in/whitestown/6430-center-dr.html,in,whitestown,6430-center-dr,028912,"6430 Center Dr, Whitestown, IN 46075",46075,39.9486579,-86.3478264
+https://locations.tacobell.com/in/decatur/639-n-13th-st.html,in,decatur,639-n-13th-st,042656,"639 N 13th St, Decatur, IN 46733",46733,40.838811,-84.9377387
+https://locations.tacobell.com/ks/kansas-city/635-s-7th-st.html,ks,kansas-city,635-s-7th-st,G135017,"635 S 7th St, Kansas City, KS 66105",66105,39.0672893,-94.6262039
+https://locations.tacobell.com/in/fort-wayne/6343-w--jefferson-blvd-.html,in,fort-wayne,6343-w--jefferson-blvd-,035400,"6343 W. Jefferson Blvd., Fort Wayne, IN 46804",46804,41.0553795,-85.2247191
+https://locations.tacobell.com/in/indianapolis/6327-e-82nd-st.html,in,indianapolis,6327-e-82nd-st,028860,"6327 E 82nd St, Indianapolis, IN 46250",46250,39.9048686,-86.058827
+https://locations.tacobell.com/ks/junction-city/631-e-chestnut-st.html,ks,junction-city,631-e-chestnut-st,023229,"631 E Chestnut St, Junction City, KS 66441",66441,39.0211546,-96.8196366
+https://locations.tacobell.com/in/portage/6300-ameriplex-dr.html,in,portage,6300-ameriplex-dr,030947,"6300 Ameriplex Dr, Portage, IN 46368",46368,41.6077863,-87.1721283
+https://locations.tacobell.com/in/bluffton/628-n-main-st.html,in,bluffton,628-n-main-st,042628,"628 N Main St, Bluffton, IN 46714",46714,40.7424221,-85.1713712
+https://locations.tacobell.com/in/gas-city/6265-e-500-s.html,in,gas-city,6265-e-500-s,023140,"6265 E 500 S, Gas City, IN 46933",46933,40.4808841,-85.5526018
+https://locations.tacobell.com/in/south-bend/6225-brick-rd.html,in,south-bend,6225-brick-rd,032118,"6225 Brick Rd, South Bend, IN 46628",46628,41.7375645,-86.336161
+https://locations.tacobell.com/in/fort-wayne/6224-bluffton-rd.html,in,fort-wayne,6224-bluffton-rd,042633,"6224 Bluffton Rd, Fort Wayne, IN 46809",46809,41.0271,-85.1678106
+https://locations.tacobell.com/in/speedway/6215-crawfordsville-rd.html,in,speedway,6215-crawfordsville-rd,028861,"6215 Crawfordsville Rd, Speedway, IN 46224",46224,39.8007451,-86.2687615
+https://locations.tacobell.com/in/fort-wayne/6211-stellhorn-rd.html,in,fort-wayne,6211-stellhorn-rd,042623,"6211 Stellhorn Rd, Fort Wayne, IN 46815",46815,41.121826,-85.0618267
+https://locations.tacobell.com/ks/augusta/620-w-7th-ave-.html,ks,augusta,620-w-7th-ave-,022521,"620 W 7th Ave., Augusta, KS 67010",67010,37.6797491,-96.9853393
+https://locations.tacobell.com/in/indianapolis/6165-n-keystone-ave-.html,in,indianapolis,6165-n-keystone-ave-,021193,"6165 N Keystone Ave., Indianapolis, IN 46220",46220,39.8671734,-86.1216912
+https://locations.tacobell.com/in/carmel/615-e--carmel-drive.html,in,carmel,615-e--carmel-drive,028921,"615 E. Carmel Drive, Carmel, IN 46032",46032,39.9616259,-86.1163912
+https://locations.tacobell.com/in/noblesville/610-westfield-rd.html,in,noblesville,610-westfield-rd,023122,"610 Westfield Rd, Noblesville, IN 46060",46060,40.0470919,-86.0272733
+https://locations.tacobell.com/in/kendallville/610-fairview-drive.html,in,kendallville,610-fairview-drive,032091,"610 Fairview Drive, Kendallville, IN 46755",46755,41.4510441,-85.2469405
+https://locations.tacobell.com/in/portage/6053-us-highway-6.html,in,portage,6053-us-highway-6,019297,"6053 US Highway 6, Portage, IN 46368",46368,41.5504069,-87.1809076
+https://locations.tacobell.com/ks/merriam/5930-ikea-way.html,ks,merriam,5930-ikea-way,034414,"5930 Ikea Way, Merriam, KS 66203",66203,39.0210651,-94.6906793
+https://locations.tacobell.com/ks/wichita/5808-e-central.html,ks,wichita,5808-e-central,004523,"5808 E Central, Wichita, KS 67208",67208,37.6938746,-97.2686316
+https://locations.tacobell.com/in/greendale/575-eads-parkway-east.html,in,greendale,575-eads-parkway-east,033651,"575 Eads Parkway East, Greendale, IN 47025",47025,39.112294,-84.8518524
+https://locations.tacobell.com/in/indianapolis/5721-w--86th-street.html,in,indianapolis,5721-w--86th-street,028905,"5721 W. 86th Street, Indianapolis, IN 46278",46278,39.9101759,-86.2623233
+https://locations.tacobell.com/in/elkhart/55560-ash-road.html,in,elkhart,55560-ash-road,035412,"55560 Ash Road, Elkhart, IN 46514",55560,41.687301,-86.0609081
+https://locations.tacobell.com/in/elkhart/54633-county-road-17.html,in,elkhart,54633-county-road-17,032112,"54633 County Road 17, Elkhart, IN 46516",54633,41.700169,-85.8892292
+https://locations.tacobell.com/in/indianapolis/5407-e-thompson-road.html,in,indianapolis,5407-e-thompson-road,031280,"5407 E Thompson Road, Indianapolis, IN 46237",46237,39.694288,-86.0750308
+https://locations.tacobell.com/in/mishawaka/536-west-mckinley-road.html,in,mishawaka,536-west-mckinley-road,035407,"536 West McKinley Road, Mishawaka, IN 46545",46545,41.6806987,-86.18992879999999
+https://locations.tacobell.com/in/warsaw/534-west-300-north.html,in,warsaw,534-west-300-north,035410,"534 West 300 North, Warsaw, IN 46582",46582,41.2775063,-85.85338
+https://locations.tacobell.com/in/anderson/5310-s--scatterfield-rd-.html,in,anderson,5310-s--scatterfield-rd-,003289,"5310 S. Scatterfield Rd., Anderson, IN 46013",46013,40.0611788,-85.6523352
+https://locations.tacobell.com/in/indianapolis/5302-w-washington-st-.html,in,indianapolis,5302-w-washington-st-,002969,"5302 W Washington St., Indianapolis, IN 46241",46241,39.7530735,-86.2506614
+https://locations.tacobell.com/in/indianapolis/5260-e--southport-rd-.html,in,indianapolis,5260-e--southport-rd-,021479,"5260 E. Southport Rd., Indianapolis, IN 46237",46237,39.6664196,-86.0780453
+https://locations.tacobell.com/in/south-bend/5131-w--western-avenue.html,in,south-bend,5131-w--western-avenue,032114,"5131 W. Western Avenue, South Bend, IN 46619",46619,41.6724609,-86.3202874
+https://locations.tacobell.com/in/plainfield/5030-cambridge-way.html,in,plainfield,5030-cambridge-way,029694,"5030 Cambridge Way, Plainfield, IN 46168",46168,39.6776281,-86.3705065
+https://locations.tacobell.com/in/indianapolis/5010-east-county-line-rd.html,in,indianapolis,5010-east-county-line-rd,030847,"5010 East County Line Rd, Indianapolis, IN 46237",46237,39.6357802,-86.1087662
+https://locations.tacobell.com/ks/roeland-park/5004-roe-blvd-.html,ks,roeland-park,5004-roe-blvd-,034413,"5004 Roe Blvd., Roeland Park, KS 66205",66205,39.0371512,-94.6401283
+https://locations.tacobell.com/in/fort-wayne/4747-coldwater-rd.html,in,fort-wayne,4747-coldwater-rd,035391,"4747 Coldwater Rd, Fort Wayne, IN 46825",46825,41.1213719,-85.1360217
+https://locations.tacobell.com/ks/lawrence/4721-bauer-farm-drive.html,ks,lawrence,4721-bauer-farm-drive,025719,"4721 Bauer Farm Drive, Lawrence, KS 66049",66049,38.9720137,-95.3038695
+https://locations.tacobell.com/in/hobart/4681-west-61st-avenue.html,in,hobart,4681-west-61st-avenue,019752,"4681 West 61st Avenue, Hobart, IN 46342",46342,41.5068149,-87.3151467
+https://locations.tacobell.com/in/hammond/4605-calumet-avenue.html,in,hammond,4605-calumet-avenue,015971,"4605 Calumet Avenue, Hammond, IN 46327",46327,41.6299307,-87.5082176
+https://locations.tacobell.com/in/elkhart/4510-elkhart-road.html,in,elkhart,4510-elkhart-road,035414,"4510 Elkhart Road, Elkhart, IN 46517",46517,41.6262588,-85.907304
+https://locations.tacobell.com/in/indianapolis/4502-w--38th-street.html,in,indianapolis,4502-w--38th-street,028913,"4502 W. 38th Street, Indianapolis, IN 46254",46254,39.8244162,-86.2357676
+https://locations.tacobell.com/in/evansville/4501-1st-ave.html,in,evansville,4501-1st-ave,028864,"4501 1st Ave, Evansville, IN 47710",47710,38.0203941,-87.5739027
+https://locations.tacobell.com/in/indianapolis/444-e-thompson-road.html,in,indianapolis,444-e-thompson-road,028909,"444 E Thompson Road, Indianapolis, IN 46227",46227,39.6935441,-86.1493406
+https://locations.tacobell.com/in/evansville/4422-west-lloyd-expressway.html,in,evansville,4422-west-lloyd-expressway,034786,"4422 West Lloyd Expressway, Evansville, IN 47712",47712,37.9772463,-87.6292076
+https://locations.tacobell.com/ks/kansas-city/4401-shawnee-drive.html,ks,kansas-city,4401-shawnee-drive,G135013,"4401 Shawnee Drive, Kansas City, KS 66106",66106,39.0525706,-94.6807618
+https://locations.tacobell.com/in/lebanon/435-n-mount-zion-rd.html,in,lebanon,435-n-mount-zion-rd,023124,"435 N Mount Zion Rd, Lebanon, IN 46052",46052,40.0454724,-86.4912183
+https://locations.tacobell.com/ks/wichita/422-east-47th-south.html,ks,wichita,422-east-47th-south,003829,"422 East 47th South, Wichita, KS 67216",67216,37.6084125,-97.3314649
+https://locations.tacobell.com/in/ferdinand/420-south-main-st.html,in,ferdinand,420-south-main-st,031692,"420 South Main St, Ferdinand, IN 47532",47532,38.2110187,-86.8650918
+https://locations.tacobell.com/ks/hutchinson/412-e-4th-ave.html,ks,hutchinson,412-e-4th-ave,003778,"412 E 4th Ave, Hutchinson, KS 67501",67501,38.0573801,-97.9240697
+https://locations.tacobell.com/ks/junction-city/407-w--18th-street.html,ks,junction-city,407-w--18th-street,024109,"407 W. 18th Street, Junction City, KS 66441",66441,39.0416801,-96.8355418
+https://locations.tacobell.com/in/new-albany/4018-grant-line-road.html,in,new-albany,4018-grant-line-road,020585,"4018 Grant Line Road, New Albany, IN 47150",47150,38.3404587,-85.8167215
+https://locations.tacobell.com/ks/maize/4000-north-maize-road.html,ks,maize,4000-north-maize-road,023152,"4000 North Maize Road, Maize, KS 67101",67101,37.75572,-97.4624074
+https://locations.tacobell.com/in/fort-wayne/3950-east-dupont-rd.html,in,fort-wayne,3950-east-dupont-rd,035411,"3950 East DuPont Rd, Fort Wayne, IN 46825",46825,41.1786269,-85.0944897
+https://locations.tacobell.com/ks/kansas-city/3948-rainbow-blvd.html,ks,kansas-city,3948-rainbow-blvd,034412,"3948 Rainbow Blvd, Kansas City, KS 66103",66103,39.0553742,-94.6121734
+https://locations.tacobell.com/in/michigan-city/3936-s-franklin.html,in,michigan-city,3936-s-franklin,032490,"3936 S Franklin, Michigan City, IN 46360",46360,41.68290349999999,-86.8934865
+https://locations.tacobell.com/in/indianapolis/3910-madison-avenue.html,in,indianapolis,3910-madison-avenue,019619,"3910 Madison Avenue, Indianapolis, IN 46227",46227,39.7093542,-86.1437535
+https://locations.tacobell.com/in/indianapolis/3842-s--emerson-ave.html,in,indianapolis,3842-s--emerson-ave,001715,"3842 S. Emerson Ave, Indianapolis, IN 46203",46203,39.7491936,-86.0828227
+https://locations.tacobell.com/in/bloomington/3811-w-state-road-46.html,in,bloomington,3811-w-state-road-46,028922,"3811 W State Road 46, Bloomington, IN 47404",47404,39.186789,-86.5421753
+https://locations.tacobell.com/in/lafayette/3805-south-street.html,in,lafayette,3805-south-street,023125,"3805 South Street, Lafayette, IN 47905",47905,40.4170993,-86.8373675
+https://locations.tacobell.com/in/kokomo/3801-s-reed-rd.html,in,kokomo,3801-s-reed-rd,023127,"3801 S Reed Rd, Kokomo, IN 46902",46902,40.4421339,-86.1261015
+https://locations.tacobell.com/in/indianapolis/3715-n-post-rd.html,in,indianapolis,3715-n-post-rd,028865,"3715 N Post Rd, Indianapolis, IN 46226",46226,39.8248075,-86.0093838
+https://locations.tacobell.com/in/bloomington/3702-w-3rd-st.html,in,bloomington,3702-w-3rd-st,028878,"3702 W 3rd St, Bloomington, IN 47404",47404,39.1650586,-86.580639
+https://locations.tacobell.com/ks/kansas-city/3651-state-avenue.html,ks,kansas-city,3651-state-avenue,034380,"3651 State Avenue, Kansas City, KS 66102",66102,39.1163084,-94.6713016
+https://locations.tacobell.com/in/terre-haute/3636-s--us-highwy-41.html,in,terre-haute,3636-s--us-highwy-41,028862,"3636 S. US Highwy 41, Terre Haute, IN 47802",47802,39.4227914,-87.4154645
+https://locations.tacobell.com/in/logansport/3615-e-market-st.html,in,logansport,3615-e-market-st,023134,"3615 E Market St, Logansport, IN 46947",46947,40.756922,-86.3173439
+https://locations.tacobell.com/ks/great-bend/3607-west-10th-street.html,ks,great-bend,3607-west-10th-street,016993,"3607 West 10th Street, Great Bend, KS 67530",67530,38.3613903,-98.78794359999999
+https://locations.tacobell.com/in/indianapolis/3601-kentucky-avenue.html,in,indianapolis,3601-kentucky-avenue,021254,"3601 Kentucky Avenue, Indianapolis, IN 46221",46221,39.7135993,-86.2388497
+https://locations.tacobell.com/in/jasper/3592-newton-st.html,in,jasper,3592-newton-st,028879,"3592 Newton St, Jasper, IN 47546",47546,38.4221525,-86.9374995
+https://locations.tacobell.com/in/columbus/3520-jonathan-moore-pike.html,in,columbus,3520-jonathan-moore-pike,028868,"3520 Jonathan Moore Pike, Columbus, IN 47201",47201,39.2005968,-85.9628628
+https://locations.tacobell.com/in/elkhart/3505-s-main-st.html,in,elkhart,3505-s-main-st,035408,"3505 S Main St, Elkhart, IN 46517",46517,41.6461623,-85.9353151
+https://locations.tacobell.com/ks/wichita/3455-south-meridian-.html,ks,wichita,3455-south-meridian-,022686,"3455 South Meridian., Wichita, KS 67217",67217,37.6270675,-97.3707619
+https://locations.tacobell.com/in/indianapolis/3423-w-86th-st.html,in,indianapolis,3423-w-86th-st,002113,"3423 W 86th St, Indianapolis, IN 46268",46268,39.9112857,-86.2190619
+https://locations.tacobell.com/in/fort-wayne/340-w-jefferson-blvd.html,in,fort-wayne,340-w-jefferson-blvd,035397,"340 W Jefferson Blvd, Fort Wayne, IN 46802",46802,41.0759079,-85.1434329
+https://locations.tacobell.com/in/columbia-city/337-w-plaza-dr.html,in,columbia-city,337-w-plaza-dr,032090,"337 W Plaza Dr, Columbia City, IN 46725",46725,41.1696421,-85.4932066
+https://locations.tacobell.com/ks/andover/336-s-andover-rd.html,ks,andover,336-s-andover-rd,019957,"336 S Andover Rd, Andover, KS 67002",67002,37.6816915,-97.134787
+https://locations.tacobell.com/in/indianapolis/3350-e-washington-street.html,in,indianapolis,3350-e-washington-street,002057,"3350 E Washington Street, Indianapolis, IN 46201",46201,39.7691853,-86.109278
+https://locations.tacobell.com/in/fort-wayne/3320-saint-joe-center-rd.html,in,fort-wayne,3320-saint-joe-center-rd,035394,"3320 Saint Joe Center Rd, Fort Wayne, IN 46835",46835,41.1334984,-85.1003978
+https://locations.tacobell.com/ks/wichita/328-s-west-st.html,ks,wichita,328-s-west-st,021178,"328 S West St, Wichita, KS 67213",67213,37.6797029,-97.3893036
+https://locations.tacobell.com/in/marion/3244-s-western-ave.html,in,marion,3244-s-western-ave,024751,"3244 S Western Ave, Marion, IN 46953",46953,40.5311153,-85.6737985
+https://locations.tacobell.com/in/south-bend/3208-lincolnway-west.html,in,south-bend,3208-lincolnway-west,032081,"3208 Lincolnway West, South Bend, IN 46628",46628,41.6909012,-86.2937486
+https://locations.tacobell.com/in/muncie/3201-n-morrison.html,in,muncie,3201-n-morrison,027557,"3201 N Morrison, Muncie, IN 47304",47304,40.2186721,-85.4432145
+https://locations.tacobell.com/in/terre-haute/3132-wabash-ave.html,in,terre-haute,3132-wabash-ave,028859,"3132 Wabash Ave, Terre Haute, IN 47803",47803,39.4723406,-87.3714849
+https://locations.tacobell.com/in/bloomington/309-north-walnut-street.html,in,bloomington,309-north-walnut-street,028901,"309 North Walnut Street, Bloomington, IN 47404",47404,39.1689604,-86.534004
+https://locations.tacobell.com/in/angola/3075-w-maumee-st.html,in,angola,3075-w-maumee-st,042644,"3075 W Maumee St Suite B, Angola, IN 46703",46703,41.634397,-85.0444902
+https://locations.tacobell.com/ks/independence/305-n-8th-st.html,ks,independence,305-n-8th-st,021199,"305 N 8th St, Independence, KS 67301",67301,37.2260409,-95.7084432
+https://locations.tacobell.com/in/greenwood/3042-stones-crossing-road-west.html,in,greenwood,3042-stones-crossing-road-west,030265,"3042 Stones Crossing Road West, Greenwood, IN 46143",46143,39.5777854,-86.1478753
+https://locations.tacobell.com/in/bedford/2999-w-16th-st.html,in,bedford,2999-w-16th-st,028874,"2999 W 16th St, Bedford, IN 47421",47421,38.8613352,-86.5141422
+https://locations.tacobell.com/in/jeffersonville/2966-e-10th-st.html,in,jeffersonville,2966-e-10th-st,033945,"2966 E 10th St, Jeffersonville, IN 47130",47130,38.3204411,-85.7134895
+https://locations.tacobell.com/ks/leavenworth/2925-s-4th-st-.html,ks,leavenworth,2925-s-4th-st-,035230,"2925 S 4th St., Leavenworth, KS 66048",66048,39.2878278,-94.9055133
+https://locations.tacobell.com/in/warsaw/2924-frontage-rd.html,in,warsaw,2924-frontage-rd,035393,"2924 Frontage Rd, Warsaw, IN 46580",46580,41.2371772,-85.8164802
+https://locations.tacobell.com/in/merrillville/2821-e-81st-ave.html,in,merrillville,2821-e-81st-ave,009538,"2821 E 81st Ave, Merrillville, IN 46410",46410,41.4704378,-87.3020994
+https://locations.tacobell.com/in/mishawaka/2817-lincoln-way-east.html,in,mishawaka,2817-lincoln-way-east,035406,"2817 Lincoln Way East, Mishawaka, IN 46544",46544,41.6618268,-86.1339061
+https://locations.tacobell.com/in/huntington/2810-n-jefferson-st-.html,in,huntington,2810-n-jefferson-st-,035398,"2810 N Jefferson St., Huntington, IN 46750",46750,40.8986283,-85.5121021
+https://locations.tacobell.com/in/indianapolis/2809-east-38th-street.html,in,indianapolis,2809-east-38th-street,028890,"2809 East 38th Street, Indianapolis, IN 46218",46218,39.8249964,-86.1164073
+https://locations.tacobell.com/ks/emporia/2807-eaglecrest-drive.html,ks,emporia,2807-eaglecrest-drive,024469,"2807 Eaglecrest Drive, Emporia, KS 66801",66801,38.4228631,-96.2175086
+https://locations.tacobell.com/in/princeton/2720-w-broadway.html,in,princeton,2720-w-broadway,028882,"2720 W Broadway, Princeton, IN 47670",47670,38.3557016,-87.6053675
+https://locations.tacobell.com/in/vincennes/2701-hart-street.html,in,vincennes,2701-hart-street,C119007,"2701 Hart Street, Vincennes, IN 47591",47591,38.6588724,-87.5062586
+https://locations.tacobell.com/in/plainfield/2646-e-main-st-.html,in,plainfield,2646-e-main-st-,021159,"2646 E Main St., Plainfield, IN 46168",46168,39.7203317,-86.3512222
+https://locations.tacobell.com/in/anderson/2618-n-broadway-ave.html,in,anderson,2618-n-broadway-ave,028894,"2618 N Broadway Ave, Anderson, IN 46012",46012,40.1500052,-85.6740231
+https://locations.tacobell.com/in/new-albany/2563-charlestown-rd.html,in,new-albany,2563-charlestown-rd,031510,"2563 Charlestown Rd, New Albany, IN 47150",47150,38.313076,-85.806081
+https://locations.tacobell.com/in/elkhart/2508-cassopolis-st.html,in,elkhart,2508-cassopolis-st,035409,"2508 Cassopolis St, Elkhart, IN 46514",46514,41.7200878,-85.9721389
+https://locations.tacobell.com/ks/wichita/2432-s-seneca.html,ks,wichita,2432-s-seneca,004381,"2432 S Seneca, Wichita, KS 67217",67217,37.6503307,-97.3521923
+https://locations.tacobell.com/in/ligonier/241-u-s--highway-6-s-.html,in,ligonier,241-u-s--highway-6-s-,037838,"241 U.S. Highway 6 S., Ligonier, IN 46767",46767,41.4518873,-85.58846
+https://locations.tacobell.com/in/evansville/2408-w--maryland-street.html,in,evansville,2408-w--maryland-street,028904,"2408 W. Maryland Street, Evansville, IN 47712",47712,37.9856722,-87.6007583
+https://locations.tacobell.com/ks/garden-city/2408-east-kansas-ave.html,ks,garden-city,2408-east-kansas-ave,029458,"2408 East Kansas Ave, Garden City, KS 67846",67846,37.9791423,-100.8414318
+https://locations.tacobell.com/in/frankfort/2403-east-wabash-street.html,in,frankfort,2403-east-wabash-street,023129,"2403 East Wabash Street, Frankfort, IN 46041",46041,40.2784235,-86.4805977
+https://locations.tacobell.com/in/bloomington/2400-s-walnut.html,in,bloomington,2400-s-walnut,028870,"2400 S Walnut, Bloomington, IN 47401",47401,39.1385492,-86.5308815
+https://locations.tacobell.com/in/indianapolis/2390-e-stop-11-rd.html,in,indianapolis,2390-e-stop-11-rd,004486,"2390 E Stop 11 Rd, Indianapolis, IN 46227",46227,39.6508113,-86.1217753
+https://locations.tacobell.com/in/vincennes/2326-n-6th-street.html,in,vincennes,2326-n-6th-street,028863,"2326 N 6th Street, Vincennes, IN 47591",47591,38.6898308,-87.5048507
+https://locations.tacobell.com/in/terre-haute/2319-s--state-road-46.html,in,terre-haute,2319-s--state-road-46,030643,"2319 S. State Road 46, Terre Haute, IN 47803",47803,39.4388813,-87.3334428
+https://locations.tacobell.com/in/south-bend/231-e-ireland-road.html,in,south-bend,231-e-ireland-road,035404,"231 E Ireland Road, South Bend, IN 46614",46614,41.6294441,-86.2478028
+https://locations.tacobell.com/in/roseland/231-dixie-highway.html,in,roseland,231-dixie-highway,032109,"231 Dixie Highway, Roseland, IN 46637",46637,41.7181619,-86.25094419999999
+https://locations.tacobell.com/ks/fort-scott/2305-south-main.html,ks,fort-scott,2305-south-main,020463,"2305 South Main, Fort Scott, KS 66701",66701,37.8126732,-94.7049493
+https://locations.tacobell.com/ks/salina/2305-s-9th-st.html,ks,salina,2305-s-9th-st,029416,"2305 S 9th St, Salina, KS 67401",67401,38.800654,-97.6119344
+https://locations.tacobell.com/ks/ottawa/2304-princeton-st.html,ks,ottawa,2304-princeton-st,004773,"2304 Princeton St, Ottawa, KS 66067",66067,38.579061,-95.2678335
+https://locations.tacobell.com/ks/wichita/2230-north-rock-rd.html,ks,wichita,2230-north-rock-rd,003790,"2230 North Rock Rd, Wichita, KS 67226",67226,37.72407,-97.244115
+https://locations.tacobell.com/in/tell-city/222-hwy--66-east.html,in,tell-city,222-hwy--66-east,005069,"222 Hwy. 66 East, Tell City, IN 47586",47586,37.9361628,-86.756388
+https://locations.tacobell.com/in/kokomo/2212-west-sycamore.html,in,kokomo,2212-west-sycamore,023131,"2212 West Sycamore, Kokomo, IN 46901",46901,40.4880103,-86.1609033
+https://locations.tacobell.com/in/south-bend/221-w-lasalle-ave.html,in,south-bend,221-w-lasalle-ave,035396,"221 W Lasalle Ave, South Bend, IN 46601",46601,41.6792966,-86.2532158
+https://locations.tacobell.com/in/muncie/2201-s--madison-st-.html,in,muncie,2201-s--madison-st-,022859,"2201 S. Madison St., Muncie, IN 47302",47302,40.1750037,-85.3819926
+https://locations.tacobell.com/in/lafayette/2190-south-26th-street.html,in,lafayette,2190-south-26th-street,023141,"2190 South 26th Street, Lafayette, IN 47905",47905,40.3963557,-86.8672963
+https://locations.tacobell.com/in/new-castle/2175-south-memorial-drive.html,in,new-castle,2175-south-memorial-drive,028918,"2175 South Memorial Drive, New Castle, IN 47362",47362,39.909568,-85.3858734
+https://locations.tacobell.com/in/brazil/2170-e-national-ave.html,in,brazil,2170-e-national-ave,028876,"2170 E National Ave, Brazil, IN 47834",47834,39.5295403,-87.1006584
+https://locations.tacobell.com/in/connersville/2140-park-road.html,in,connersville,2140-park-road,028875,"2140 Park Road, Connersville, IN 47331",47331,39.6602635,-85.1288215
+https://locations.tacobell.com/in/north-vernon/2115-n-state-highway-7.html,in,north-vernon,2115-n-state-highway-7,016458,"2115 N State Highway 7, North Vernon, IN 47265",47265,39.0036894,-85.6267909
+https://locations.tacobell.com/ks/mcpherson/2115-east-kansas-avenue.html,ks,mcpherson,2115-east-kansas-avenue,019919,"2115 East Kansas Avenue, McPherson, KS 67460",67460,38.3704645,-97.6292756
+https://locations.tacobell.com/in/valparaiso/2110-morthland-dr.html,in,valparaiso,2110-morthland-dr,032491,"2110 Morthland Dr, Valparaiso, IN 46383",46383,41.4596542,-87.0346984
+https://locations.tacobell.com/in/new-whiteland/211-n-us-31.html,in,new-whiteland,211-n-us-31,031940,"211 N US 31, New Whiteland, IN 46184",46184,39.5619433,-86.0917191
+https://locations.tacobell.com/in/terre-haute/2105-lafayette-ave.html,in,terre-haute,2105-lafayette-ave,028881,"2105 Lafayette Ave, Terre Haute, IN 47805",47805,39.5089003,-87.3849096
+https://locations.tacobell.com/in/richmond/2105-chester-drive.html,in,richmond,2105-chester-drive,023186,"2105 Chester Drive, Richmond, IN 47374",47374,39.8923728,-84.8971026
+https://locations.tacobell.com/in/rochester/2080-main-street.html,in,rochester,2080-main-street,C119012,"2080 Main Street, Rochester, IN 46975",46975,41.0520135,-86.2189816
+https://locations.tacobell.com/in/indianapolis/2035-west-washington-street.html,in,indianapolis,2035-west-washington-street,028895,"2035 West Washington Street, Indianapolis, IN 46222",46222,39.7658954,-86.1966613
+https://locations.tacobell.com/in/fort-wayne/2020-n--coliseum-blvd-.html,in,fort-wayne,2020-n--coliseum-blvd-,035401,"2020 N. Coliseum Blvd., Fort Wayne, IN 46805",46805,41.0956471,-85.0875983
+https://locations.tacobell.com/in/la-porte/202-pine-lake-ave.html,in,la-porte,202-pine-lake-ave,026734,"202 Pine Lake Ave, La Porte, IN 46350",46350,41.6162126,-86.7325875
+https://locations.tacobell.com/ks/topeka/2013-nw-topeka-blvd.html,ks,topeka,2013-nw-topeka-blvd,002329,"2013 NW Topeka Blvd, Topeka, KS 66608",66608,39.0859887,-95.6654894
+https://locations.tacobell.com/ks/winfield/2011-main-street.html,ks,winfield,2011-main-street,022158,"2011 Main Street, Winfield, KS 67156",67156,37.2288453,-96.9974528
+https://locations.tacobell.com/ks/paola/201-south-angela-street.html,ks,paola,201-south-angela-street,G135255,"201 South Angela Street, Paola, KS 66071",66071,38.571874,-94.8593631
+https://locations.tacobell.com/ks/goddard/20075-west-kellogg-drive.html,ks,goddard,20075-west-kellogg-drive,N/A,"20075 West Kellogg Drive, Goddard, KS 67052",20075,37.6642474,-97.5667503
+https://locations.tacobell.com/ks/pratt/2007-e-1st-st.html,ks,pratt,2007-e-1st-st,024463,"2007 E 1st St, Pratt, KS 67124",67124,37.6450085,-98.7122124
+https://locations.tacobell.com/in/nappanee/1956-east-market-street.html,in,nappanee,1956-east-market-street,037823,"1956 East Market Street, Nappanee, IN 46550",46550,41.4429942,-85.9788924
+https://locations.tacobell.com/ks/wichita/1919-w-21st-st-n.html,ks,wichita,1919-w-21st-st-n,003777,"1919 W 21st St N, Wichita, KS 67203",67203,37.7223569,-97.3619345
+https://locations.tacobell.com/in/greensburg/1915-n-lincoln-st.html,in,greensburg,1915-n-lincoln-st,028872,"1915 N Lincoln St, Greensburg, IN 47240",47240,39.3552732,-85.480273
+https://locations.tacobell.com/in/hartford-city/1906-north-walnut-street.html,in,hartford-city,1906-north-walnut-street,023138,"1906 North Walnut Street, Hartford City, IN 47348",47348,40.4784769,-85.3701088
+https://locations.tacobell.com/in/plymouth/1827-michigan-ave.html,in,plymouth,1827-michigan-ave,032489,"1827 Michigan Ave, Plymouth, IN 46563",46563,41.3568153,-86.3122107
+https://locations.tacobell.com/in/valparaiso/1808-calumet.html,in,valparaiso,1808-calumet,032488,"1808 Calumet, Valparaiso, IN 46383",46383,41.4846023,-87.0512768
+https://locations.tacobell.com/ks/arkansas-city/1745-north-summit-street.html,ks,arkansas-city,1745-north-summit-street,020033,"1745 North Summit Street, Arkansas City, KS 67005",67005,37.083089,-97.0405896
+https://locations.tacobell.com/ks/hays/1730-vine-street.html,ks,hays,1730-vine-street,019507,"1730 Vine Street, Hays, KS 67601",67601,38.8740696,-99.3172921
+https://locations.tacobell.com/in/muncie/1725-w--mcgalliard-rd-.html,in,muncie,1725-w--mcgalliard-rd-,024322,"1725 W. McGalliard Rd., Muncie, IN 47304",47304,40.2185612,-85.4069934
+https://locations.tacobell.com/ks/liberal/1720-north-kansas-ave.html,ks,liberal,1720-north-kansas-ave,020464,"1720 North Kansas Ave, Liberal, KS 67901",67901,37.0568072,-100.9228283
+https://locations.tacobell.com/in/rushville/1709-n--main-st-.html,in,rushville,1709-n--main-st-,030632,"1709 N. Main St., Rushville, IN 46173",46173,39.6276308,-85.4453992
+https://locations.tacobell.com/ks/salina/1700-w-crawford.html,ks,salina,1700-w-crawford,023231,"1700 W Crawford, Salina, KS 67401",67401,38.8275378,-97.6333468
+https://locations.tacobell.com/ks/wichita/1695-s-webb-rd.html,ks,wichita,1695-s-webb-rd,032053,"1695 S Webb Rd, Wichita, KS 67207",67207,37.6626971,-97.2266911
+https://locations.tacobell.com/in/noblesville/16676-clover-road.html,in,noblesville,16676-clover-road,023135,"16676 Clover Road, Noblesville, IN 46060",16676,40.0309629,-85.9959616
+https://locations.tacobell.com/in/crawfordsville/1631-s-us-highway-231.html,in,crawfordsville,1631-s-us-highway-231,023126,"1631 S US Highway 231, Crawfordsville, IN 47933",47933,40.0164496,-86.9043088
+https://locations.tacobell.com/in/shelbyville/1621-e-state-road-44.html,in,shelbyville,1621-e-state-road-44,N/A,"1621 E State Road 44, Shelbyville, IN 46176",46176,39.5195955,-85.7523446
+https://locations.tacobell.com/ks/coffeyville/1616-west-11th-street.html,ks,coffeyville,1616-west-11th-street,016743,"1616 West 11th Street, Coffeyville, KS 67337",67337,37.033344,-95.641524
+https://locations.tacobell.com/ks/lenexa/16130-w-87th-street.html,ks,lenexa,16130-w-87th-street,034392,"16130 W 87th Street, Lenexa, KS 66219",16130,38.9716021,-94.7738331
+https://locations.tacobell.com/in/elkhart/1606-s-nappanee-st.html,in,elkhart,1606-s-nappanee-st,035392,"1606 S Nappanee St, Elkhart, IN 46516",46516,41.6724078,-86.0031367
+https://locations.tacobell.com/ks/iola/1602-north-state-street.html,ks,iola,1602-north-state-street,017457,"1602 North State Street, Iola, KS 66749",66749,37.9369748,-95.4096785
+https://locations.tacobell.com/in/evansville/1580-vann-avenue.html,in,evansville,1580-vann-avenue,028898,"1580 Vann Avenue, Evansville, IN 47714",47714,37.9553032,-87.5107416
+https://locations.tacobell.com/in/franklin/1579-morton-st.html,in,franklin,1579-morton-st,002679,"1579 Morton St, Franklin, IN 46131",46131,39.4942278,-86.0642535
+https://locations.tacobell.com/ks/topeka/1560-s-w--wanamaker-rd.html,ks,topeka,1560-s-w--wanamaker-rd,004120,"1560 S.W. Wanamaker Rd, Topeka, KS 66604",66604,39.03839019999999,-95.7612843
+https://locations.tacobell.com/in/greenfield/1552-north-state-st.html,in,greenfield,1552-north-state-st,003384,"1552 North State St, Greenfield, IN 46140",46140,39.8059477,-85.7703512
+https://locations.tacobell.com/in/indianapolis/1551-w-thompson-rd.html,in,indianapolis,1551-w-thompson-rd,028902,"1551 W Thompson Rd, Indianapolis, IN 46217",46217,39.6921208,-86.1883511
+https://locations.tacobell.com/in/greenwood/153-north-state-road-135.html,in,greenwood,153-north-state-road-135,015468,"153 North State Road 135, Greenwood, IN 46142",46142,39.6183687,-86.15798629999999
+https://locations.tacobell.com/in/elwood/1518-s--state-rd--37.html,in,elwood,1518-s--state-rd--37,028886,"1518 S. State Rd. 37, Elwood, IN 46036",46036,40.2630826,-85.81874409999999
+https://locations.tacobell.com/in/washington/1515-e-national-hwy.html,in,washington,1515-e-national-hwy,028892,"1515 E National Hwy, Washington, IN 47501",47501,38.6526661,-87.1556283
+https://locations.tacobell.com/ks/olathe/15109-w--151st-st-.html,ks,olathe,15109-w--151st-st-,034416,"15109 W. 151st St., Olathe, KS 66062",15109,38.8543686,-94.7618349
+https://locations.tacobell.com/in/seymour/1509-e-tipton-street.html,in,seymour,1509-e-tipton-street,003877,"1509 E Tipton Street, Seymour, IN 47274",47274,38.9581862,-85.8669646
+https://locations.tacobell.com/in/portland/1501-north-meridian-street.html,in,portland,1501-north-meridian-street,023128,"1501 North Meridian Street, Portland, IN 47371",47371,40.446848,-84.97808
+https://locations.tacobell.com/in/evansville/1500-n-willow-rd.html,in,evansville,1500-n-willow-rd,028907,"1500 N Willow Rd, Evansville, IN 47711",47711,37.991071,-87.538457
+https://locations.tacobell.com/ks/olathe/14880-south-harrison.html,ks,olathe,14880-south-harrison,034386,"14880 South Harrison, Olathe, KS 66061",14880,38.8585451,-94.8166819
+https://locations.tacobell.com/in/jeffersonville/1487-east-10th-street.html,in,jeffersonville,1487-east-10th-street,033943,"1487 East 10th Street, Jeffersonville, IN 47130",47130,38.2893124,-85.7290602
+https://locations.tacobell.com/in/crown-point/1483-n-main-st.html,in,crown-point,1483-n-main-st,032493,"1483 N Main St, Crown Point, IN 46307",46307,41.4333245,-87.364801
+https://locations.tacobell.com/in/linton/1459-north-east-a-street.html,in,linton,1459-north-east-a-street,028899,"1459 North East A Street, Linton, IN 47441",47441,39.0374142,-87.1478518
+https://locations.tacobell.com/in/indianapolis/1439-e-86th-st.html,in,indianapolis,1439-e-86th-st,028923,"1439 E 86th St, Indianapolis, IN 46240",46240,39.9121288,-86.1352797
+https://locations.tacobell.com/in/richmond/1428-national-road-west.html,in,richmond,1428-national-road-west,F315002,"1428 National Road West, Richmond, IN 47374",47374,39.8255539,-84.9229063
+https://locations.tacobell.com/in/anderson/1422-raible-street.html,in,anderson,1422-raible-street,028903,"1422 Raible Street, Anderson, IN 46011",46011,40.1012547,-85.7105406
+https://locations.tacobell.com/in/angola/1415-n-wayne-st.html,in,angola,1415-n-wayne-st,042655,"1415 N Wayne St, Angola, IN 46703",46703,41.6529696,-85.0000355
+https://locations.tacobell.com/ks/lawrence/1408-w-23rd-st.html,ks,lawrence,1408-w-23rd-st,024464,"1408 W 23rd St, Lawrence, KS 66046",66046,38.9430644,-95.2511594
+https://locations.tacobell.com/ks/emporia/1407-w-sixth-avenue.html,ks,emporia,1407-w-sixth-avenue,024465,"1407 W Sixth Avenue, Emporia, KS 66801",66801,38.40464120000001,-96.1977495
+https://locations.tacobell.com/ks/newton/1403-north-main.html,ks,newton,1403-north-main,015958,"1403 North Main, Newton, KS 67114",67114,38.058399,-97.345269
+https://locations.tacobell.com/ks/bonner-springs/14-north-130th.html,ks,bonner-springs,14-north-130th,G135023,"14 North 130th, Bonner Springs, KS 66012",66012,39.0978729,-94.8826526
+https://locations.tacobell.com/in/fishers/13428-bent-grass-lane.html,in,fishers,13428-bent-grass-lane,030987,"13428 Bent Grass Lane, Fishers, IN 46038",13428,39.9837006,-86.002999
+https://locations.tacobell.com/in/knox/1328-south-heaton.html,in,knox,1328-south-heaton,032096,"1328 South Heaton, Knox, IN 46534",46534,41.2785718,-86.6206664
+https://locations.tacobell.com/in/clarksville/1325-veterans-pkwy-.html,in,clarksville,1325-veterans-pkwy-,033944,"1325 Veterans Pkwy., Clarksville, IN 47129",47129,38.32971,-85.7573427
+https://locations.tacobell.com/in/salem/1319-east-hackberry-street.html,in,salem,1319-east-hackberry-street,032298,"1319 East Hackberry Street, Salem, IN 47167",47167,38.6103769,-86.0928703
+https://locations.tacobell.com/in/kokomo/1310-north-reed-road.html,in,kokomo,1310-north-reed-road,023136,"1310 North Reed Road, Kokomo, IN 46902",46902,40.499801,-86.1088451
+https://locations.tacobell.com/ks/mulvane/1255-n--rock-road.html,ks,mulvane,1255-n--rock-road,026915,"1255 N. Rock Road, Mulvane, KS 67110",67110,37.4885031,-97.2451709
+https://locations.tacobell.com/ks/lenexa/12291-w-87th-st.html,ks,lenexa,12291-w-87th-st,034396,"12291 W 87th St, Lenexa, KS 66215",12291,38.9709686,-94.7281366
+https://locations.tacobell.com/in/new-haven/12244-mackenzie-drive.html,in,new-haven,12244-mackenzie-drive,042638,"12244 Mackenzie Drive Suite C, New Haven, IN 46774",12244,41.0623788,-84.98145509999999
+https://locations.tacobell.com/ks/overland-park/12208-college-blvd.html,ks,overland-park,12208-college-blvd,034398,"12208 College Blvd, Overland Park, KS 66210",12208,38.9279632,-94.7288246
+https://locations.tacobell.com/ks/lawrence/1220-w-6th-st.html,ks,lawrence,1220-w-6th-st,024466,"1220 W 6th St, Lawrence, KS 66044",66044,38.9734907,-95.2497301
+https://locations.tacobell.com/in/fort-wayne/1209-reckeweg-road.html,in,fort-wayne,1209-reckeweg-road,035413,"1209 Reckeweg Road, Fort Wayne, IN 46804",46804,41.0741253,-85.2049341
+https://locations.tacobell.com/ks/olathe/12075-s--blackbob-rd-.html,ks,olathe,12075-s--blackbob-rd-,034401,"12075 S. Blackbob Rd., Olathe, KS 66062",12075,38.9099773,-94.76035809999999
+https://locations.tacobell.com/ks/hutchinson/1203-e-30th-st.html,ks,hutchinson,1203-e-30th-st,005282,"1203 E 30th St, Hutchinson, KS 67502",67502,38.086104,-97.9071215
+https://locations.tacobell.com/ks/shawnee-mission/12014-shawnee-mission-pkwy-.html,ks,shawnee-mission,12014-shawnee-mission-pkwy-,034400,"12014 Shawnee Mission Pkwy., Shawnee Mission, KS 66216",12014,39.0153158,-94.7257217
+https://locations.tacobell.com/ks/wichita/11877-e-kellogg.html,ks,wichita,11877-e-kellogg,021307,"11877 E Kellogg, Wichita, KS 67207",11877,37.6785715,-97.199703
+https://locations.tacobell.com/in/indianapolis/11805-pendleton-pike.html,in,indianapolis,11805-pendleton-pike,016969,"11805 Pendleton Pike, Indianapolis, IN 46236",11805,39.8331019,-86.0341295
+https://locations.tacobell.com/in/edinburgh/11740-n-us-31.html,in,edinburgh,11740-n-us-31,028910,"11740 N US 31, Edinburgh, IN 46124",11740,39.3095577,-85.9654619
+https://locations.tacobell.com/ks/manhattan/1155-westport-road.html,ks,manhattan,1155-westport-road,002518,"1155 Westport Road, Manhattan, KS 66502",66502,39.1925649,-96.6067253
+https://locations.tacobell.com/in/scottsburg/1153-west-mcclain-ave-.html,in,scottsburg,1153-west-mcclain-ave-,026927,"1153 West McClain Ave., Scottsburg, IN 47170",47170,38.6851802,-85.7837103
+https://locations.tacobell.com/in/greencastle/1152-indianapolis-rd.html,in,greencastle,1152-indianapolis-rd,028877,"1152 Indianapolis Rd, Greencastle, IN 46135",46135,39.6459969,-86.8322605
+https://locations.tacobell.com/in/fishers/11425-allisonville-road.html,in,fishers,11425-allisonville-road,028893,"11425 Allisonville Road, Fishers, IN 46038",11425,39.9539287,-86.0406842
+https://locations.tacobell.com/in/greenwood/1129-e-main-street.html,in,greenwood,1129-e-main-street,028884,"1129 E Main Street, Greenwood, IN 46143",46143,39.614428,-86.0806861
+https://locations.tacobell.com/in/auburn/1126-w--7th-st-.html,in,auburn,1126-w--7th-st-,035399,"1126 W. 7th St., Auburn, IN 46706",46706,41.3672253,-85.078491
+https://locations.tacobell.com/ks/olathe/1117-e--santa-fe-st-.html,ks,olathe,1117-e--santa-fe-st-,034402,"1117 E. Santa Fe St., Olathe, KS 66061",66061,38.883558,-94.800288
+https://locations.tacobell.com/ks/pittsburg/1115-s-broadway-st.html,ks,pittsburg,1115-s-broadway-st,004177,"1115 S Broadway St, Pittsburg, KS 66762",66762,37.3976633,-94.7048184
+https://locations.tacobell.com/in/columbus/1105-25th-st.html,in,columbus,1105-25th-st,028858,"1105 25th St, Columbus, IN 47201",47201,39.2226663,-85.9124195
+https://locations.tacobell.com/in/corydon/110-pacer-drive-nw.html,in,corydon,110-pacer-drive-nw,018094,"110 Pacer Drive NW, Corydon, IN 47112",47112,38.2360593,-86.1280939
+https://locations.tacobell.com/in/camby/10850-windfall-place.html,in,camby,10850-windfall-place,024357,"10850 Windfall Place, Camby, IN 46113",10850,39.6455088,-86.3295903
+https://locations.tacobell.com/ks/kansas-city/10540-parallel-parkway.html,ks,kansas-city,10540-parallel-parkway,034394,"10540 Parallel Parkway, Kansas City, KS 66109",10540,39.1290451,-94.8233103
+https://locations.tacobell.com/ks/holton/105-us-highway-75.html,ks,holton,105-us-highway-75,020719,"105 US Highway 75, Holton, KS 66436",66436,39.4572735,-95.748645
+https://locations.tacobell.com/in/griffith/105-e-ridge-rd.html,in,griffith,105-e-ridge-rd,002076,"105 E Ridge Rd, Griffith, IN 46319",46319,41.5503978,-87.4260699
+https://locations.tacobell.com/ks/salina/1040-e-iron-ave.html,ks,salina,1040-e-iron-ave,023230,"1040 E Iron Ave, Salina, KS 67401",67401,38.8400891,-97.5943876
+https://locations.tacobell.com/in/aurora/1020-green-blvd.html,in,aurora,1020-green-blvd,033647,"1020 Green Blvd, Aurora, IN 47001",47001,39.080452,-84.885139
+https://locations.tacobell.com/in/madison/102-franks-dr.html,in,madison,102-franks-dr,004100,"102 Franks Dr, Madison, IN 47250",47250,38.776259,-85.3885957
+https://locations.tacobell.com/ks/larned/102-e-14th-st.html,ks,larned,102-e-14th-st,031068,"102 E 14th St, Larned, KS 67550",67550,38.1877759,-99.0979106
+https://locations.tacobell.com/in/greenfield/1017-w--main-street.html,in,greenfield,1017-w--main-street,030522,"1017 W. Main Street, Greenfield, IN 46140",46140,39.7844223,-85.7843151
+https://locations.tacobell.com/in/west-lafayette/1016-west-sagamore.html,in,west-lafayette,1016-west-sagamore,023137,"1016 West Sagamore, West Lafayette, IN 47906",47906,40.4538118,-86.9170971
+https://locations.tacobell.com/in/highland/10130-indianapolis-blvd.html,in,highland,10130-indianapolis-blvd,031070,"10130 Indianapolis Blvd, Highland, IN 46322",10130,41.5290514,-87.4716761
+https://locations.tacobell.com/in/fort-wayne/10117-lima-road.html,in,fort-wayne,10117-lima-road,035403,"10117 Lima Road, Fort Wayne, IN 46818",10117,41.1757059,-85.1665524
+https://locations.tacobell.com/ks/overland-park/10107-w--75th-street.html,ks,overland-park,10107-w--75th-street,034390,"10107 W. 75th Street, Overland Park, KS 66204",10107,38.9926478,-94.7031373
+https://locations.tacobell.com/ks/topeka/101-se-29th-street.html,ks,topeka,101-se-29th-street,002274,"101 SE 29th Street, Topeka, KS 66605",66605,39.0148006,-95.6812863
+https://locations.tacobell.com/in/monticello/1009-north-main-street.html,in,monticello,1009-north-main-street,023132,"1009 North Main Street, Monticello, IN 47960",47960,40.762724,-86.768737
+https://locations.tacobell.com/ks/manhattan/1009-limey-pointe.html,ks,manhattan,1009-limey-pointe,024102,"1009 Limey Pointe, Manhattan, KS 66502",66502,39.1899068,-96.5586165
+https://locations.tacobell.com/in/cloverdale/1007-n-main-st-.html,in,cloverdale,1007-n-main-st-,028889,"1007 N Main St., Cloverdale, IN 46120",46120,39.5276468,-86.8012382
+https://locations.tacobell.com/in/evansville/1001-n--green-river-rd-.html,in,evansville,1001-n--green-river-rd-,028908,"1001 N. Green River Rd., Evansville, IN 47715",47715,37.9860226,-87.4921798
+https://locations.tacobell.com/in/new-palestine/4045-s--600-west.html,in,new-palestine,4045-s--600-west,040821,"4045 S. 600 West, New Palestine, IN 46163",46163,39.7264677,-85.913264
+https://locations.tacobell.com/in/trafalgar/10-trafalgar-square.html,in,trafalgar,10-trafalgar-square,040441,"10 Trafalgar Square, Trafalgar, IN 46181",46181,39.411414,-86.158873
+https://locations.tacobell.com/ks/de-soto/34070-commerce-drive.html,ks,de-soto,34070-commerce-drive,040118,"34070 Commerce Drive, De Soto, KS 66018",34070,38.9679303,-94.976884
+https://locations.tacobell.com/in/mishawaka/5501-grape-rd-.html,in,mishawaka,5501-grape-rd-,040438,"5501 Grape Rd., Mishawaka, IN 46545",46545,41.7105048,-86.1881633
+https://locations.tacobell.com/in/west-baden-springs/8324-w-state-road-56.html,in,west-baden-springs,8324-w-state-road-56,040296,"8324 W State Road 56, West Baden Springs, IN 47469",47469,38.5623949,-86.6145372
+https://locations.tacobell.com/in/goshen/1822-lincolnway-east.html,in,goshen,1822-lincolnway-east,040389,"1822 Lincolnway East, Goshen, IN 46526",46526,41.5636418,-85.7988139
+https://locations.tacobell.com/in/mooresville/429-s-indiana-st.html,in,mooresville,429-s-indiana-st,002962,"429 S Indiana St, Mooresville, IN 46158",46158,39.607341,-86.374807
+https://locations.tacobell.com/in/winfield/7734-e--109th-ave.html,in,winfield,7734-e--109th-ave,032711,"7734 E. 109th Ave, Winfield, IN 46307",46307,41.4206872,-87.2423692
+https://locations.tacobell.com/in/indianapolis/3902-south-post-road.html,in,indianapolis,3902-south-post-road,031539,"3902 South Post Road, Indianapolis, IN 46239",46239,39.7124862,-86.0086788
+https://locations.tacobell.com/in/fishers/13778-olivia-way.html,in,fishers,13778-olivia-way,028911,"13778 Olivia Way, Fishers, IN 46038",13778,39.9897481,-85.9212007
+https://locations.tacobell.com/ks/overland-park/15881-metcalf-avenue.html,ks,overland-park,15881-metcalf-avenue,040327,"15881 Metcalf Avenue, Overland Park, KS 66223",15881,38.8409249,-94.6676115
+https://locations.tacobell.com/ks/parsons/301-n--16th-street.html,ks,parsons,301-n--16th-street,033582,"301 N. 16th Street, Parsons, KS 67357",67357,37.3422583,-95.2587157
+https://locations.tacobell.com/ks/atchison/937-main-st-.html,ks,atchison,937-main-st-,034028,"937 Main St., Atchison, KS 66002",66002,39.5611502,-95.1270978
+https://locations.tacobell.com/in/greenfield/5964-w-john-l-modglin-dr.html,in,greenfield,5964-w-john-l-modglin-dr,039683,"5964 W John L Modglin Dr, Greenfield, IN 46140",46140,39.815892,-85.91421299999999
+https://locations.tacobell.com/ks/wellington/1180-e--16th-street.html,ks,wellington,1180-e--16th-street,034822,"1180 E. 16th Street, Wellington, KS 67152",67152,37.2754383,-97.3842672

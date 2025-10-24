@@ -1,0 +1,304 @@
+url,state,city,address_slug,store_id,full_address,zip_code
+https://locations.tacobell.com/il/belvidere/2056-gateway-center-dr.html,il,belvidere,2056-gateway-center-dr,041270,"2056 Gateway Center Dr, Belvidere, IL 61008",61008
+https://locations.tacobell.com/il/lansing/17943-torrence-avenue.html,il,lansing,17943-torrence-avenue,040018,"17943 Torrence Avenue, Lansing, IL 60438",17943
+https://locations.tacobell.com/il/vernon-hills/700-n--milwaukee-ave-.html,il,vernon-hills,700-n--milwaukee-ave-,041115,"700 N. Milwaukee Ave. Suite 148, Vernon Hills, IL 60061",60061
+https://locations.tacobell.com/il/champaign/2003-w--springfield.html,il,champaign,2003-w--springfield,041794,"2003 W. Springfield, Champaign, IL 61821",61821
+https://locations.tacobell.com/il/chicago/4656-s-cicero-ave.html,il,chicago,4656-s-cicero-ave,040318,"4656 S Cicero Ave, Chicago, IL 60638",60638
+https://locations.tacobell.com/il/hazel-crest/3300-w-183rd-st.html,il,hazel-crest,3300-w-183rd-st,041795,"3300 W 183rd St, Hazel Crest, IL 60429",60429
+https://locations.tacobell.com/il/romeoville/643-n-independence-blvd.html,il,romeoville,643-n-independence-blvd,040902,"643 N Independence Blvd, Romeoville, IL 60446",60446
+https://locations.tacobell.com/il/genoa/720-e-main-st.html,il,genoa,720-e-main-st,040908,"720 E Main St, Genoa, IL 60135",60135
+https://locations.tacobell.com/il/chicago/5245-n--clark-st.html,il,chicago,5245-n--clark-st,040904,"5245 N. Clark St, Chicago, IL 60640",60640
+https://locations.tacobell.com/il/oak-forest/5301-w-159th-st.html,il,oak-forest,5301-w-159th-st,041843,"5301 W 159th St, Oak Forest, IL 60452",60452
+https://locations.tacobell.com/il/chicago/2410-s-western-ave.html,il,chicago,2410-s-western-ave,034775,"2410 S Western Ave, Chicago, IL 60608",60608
+https://locations.tacobell.com/il/chicago/6631-south-cicero.html,il,chicago,6631-south-cicero,036218,"6631 South Cicero, Chicago, IL 60638",60638
+https://locations.tacobell.com/il/chicago/4437-n-broadway-st.html,il,chicago,4437-n-broadway-st,041137,"4437 N Broadway St, Chicago, IL 60640",60640
+https://locations.tacobell.com/il/plainfield/12441-s-route-59.html,il,plainfield,12441-s-route-59,041497,"12441 S Route 59, Plainfield, IL 60585",12441
+https://locations.tacobell.com/il/waterloo/773-north-pointe-drive.html,il,waterloo,773-north-pointe-drive,041855,"773 North Pointe Drive, Waterloo, IL 62298",62298
+https://locations.tacobell.com/il/evanston/1737-sherman-ave.html,il,evanston,1737-sherman-ave,041664,"1737 Sherman Ave, Evanston, IL 60201",60201
+https://locations.tacobell.com/il/collinsville/379-north-bluff-rd-.html,il,collinsville,379-north-bluff-rd-,042117,"379 North Bluff Rd., Collinsville, IL 62234",62234
+https://locations.tacobell.com/il/chicago/57-n--western-ave-.html,il,chicago,57-n--western-ave-,040952,"57 N. Western Ave., Chicago, IL 60612",60612
+https://locations.tacobell.com/il/chicago/4523-w-north-ave-.html,il,chicago,4523-w-north-ave-,042042,"4523 W North Ave., Chicago, IL 60639",60639
+https://locations.tacobell.com/il/chicago/2407-n--clark-street.html,il,chicago,2407-n--clark-street,041823,"2407 N. Clark Street, Chicago, IL 60614",60614
+https://locations.tacobell.com/il/chicago/920-w-belmont-ave.html,il,chicago,920-w-belmont-ave,035174,"920 W Belmont Ave, Chicago, IL 60657",60657
+https://locations.tacobell.com/il/crete/23210-volbrecht-rd.html,il,crete,23210-volbrecht-rd,034908,"23210 Volbrecht Rd, Crete, IL 60417",23210
+https://locations.tacobell.com/il/chicago/7906-s--western-avenue.html,il,chicago,7906-s--western-avenue,036247,"7906 S. Western Avenue, Chicago, IL 60620",60620
+https://locations.tacobell.com/il/homer-glen/14348-s--bell-road.html,il,homer-glen,14348-s--bell-road,036292,"14348 S. Bell Road, Homer Glen, IL 60491",14348
+https://locations.tacobell.com/il/chicago/4614-s-damen-ave.html,il,chicago,4614-s-damen-ave,035389,"4614 S Damen Ave, Chicago, IL 60609",60609
+https://locations.tacobell.com/il/chicago/5350-s-pulaski.html,il,chicago,5350-s-pulaski,036248,"5350 S Pulaski, Chicago, IL 60632",60632
+https://locations.tacobell.com/il/mattoon/105-swords-drive.html,il,mattoon,105-swords-drive,036262,"105 Swords Drive, Mattoon, IL 61938",61938
+https://locations.tacobell.com/il/peoria/4115-w--partridge-way.html,il,peoria,4115-w--partridge-way,035099,"4115 W. Partridge Way, Peoria, IL 61615",61615
+https://locations.tacobell.com/il/elburn/1075-n-main-street.html,il,elburn,1075-n-main-street,035323,"1075 N Main Street, Elburn, IL 60119",60119
+https://locations.tacobell.com/il/mount-vernon/1610-s--10th-st-.html,il,mount-vernon,1610-s--10th-st-,036435,"1610 S. 10th St., Mount Vernon, IL 62864",62864
+https://locations.tacobell.com/il/chicago/3001-n--broadway.html,il,chicago,3001-n--broadway,036417,"3001 N. Broadway, Chicago, IL 60657",60657
+https://locations.tacobell.com/il/champaign/512-e--green-street.html,il,champaign,512-e--green-street,036321,"512 E. Green Street, Champaign, IL 61820",61820
+https://locations.tacobell.com/il/bartlett/960-s-state-route-59.html,il,bartlett,960-s-state-route-59,J625084,"960 S State Route 59, Bartlett, IL 60103",60103
+https://locations.tacobell.com/il/east-saint-louis/699-state-route-203.html,il,east-saint-louis,699-state-route-203,022954,"699 State Route 203, East Saint Louis, IL 62201",62201
+https://locations.tacobell.com/il/marshall/107-w-trefz.html,il,marshall,107-w-trefz,036228,"107 W Trefz, Marshall, IL 62441",62441
+https://locations.tacobell.com/il/lake-forest/13783-west-oasis-service-road.html,il,lake-forest,13783-west-oasis-service-road,I571001,"13783 West Oasis Service Road, Lake Forest, IL 60045",13783
+https://locations.tacobell.com/il/vernon-hills/906-hawthorn-center.html,il,vernon-hills,906-hawthorn-center,029724,"906 Hawthorn Center, Vernon Hills, IL 60061",60061
+https://locations.tacobell.com/il/rockford/7200-harrison-ave.html,il,rockford,7200-harrison-ave,029358,"7200 Harrison Ave, Rockford, IL 61112",61112
+https://locations.tacobell.com/il/joliet/3340-mall-loop-dr.html,il,joliet,3340-mall-loop-dr,026719,"3340 Mall Loop Dr, Joliet, IL 60431",60431
+https://locations.tacobell.com/il/hinsdale/i-294-milepost-25.html,il,hinsdale,i-294-milepost-25,I571003,"I 294 Milepost 25, Hinsdale, IL 60521",60521
+https://locations.tacobell.com/il/chicago/1363-east-53rd-street.html,il,chicago,1363-east-53rd-street,037116,"1363 East 53rd Street, Chicago, IL 60615",60615
+https://locations.tacobell.com/il/naperville/1019-east-ogden.html,il,naperville,1019-east-ogden,041555,"1019 East Ogden, Naperville, IL 60563",60563
+https://locations.tacobell.com/il/chicago/1429-w-taylor-st.html,il,chicago,1429-w-taylor-st,042110,"1429 W Taylor St, Chicago, IL 60607",60607
+https://locations.tacobell.com/il/chicago/5224-n-northwest-hwy.html,il,chicago,5224-n-northwest-hwy,041885,"5224 N Northwest Hwy, Chicago, IL 60630",60630
+https://locations.tacobell.com/il/ofallon/1141-central-park-dr-.html,il,ofallon,1141-central-park-dr-,037065,"1141 Central Park Dr., O'Fallon, IL 62269",62269
+https://locations.tacobell.com/il/rantoul/629-champaign-avenue.html,il,rantoul,629-champaign-avenue,037143,"629 Champaign Avenue, Rantoul, IL 61866",61866
+https://locations.tacobell.com/il/great-lakes/540-cluverius-avenue.html,il,great-lakes,540-cluverius-avenue,036176,"540 Cluverius Avenue - Bldg 400, Great Lakes, IL 60088",60088
+https://locations.tacobell.com/il/north-riverside/7501-w-cermak-road.html,il,north-riverside,7501-w-cermak-road,027614,"7501 W Cermak Road, North Riverside, IL 60546",60546
+https://locations.tacobell.com/il/chicago-ridge/444-chicago-ridge-mall.html,il,chicago-ridge,444-chicago-ridge-mall,026028,"444 Chicago Ridge Mall, Chicago Ridge, IL 60415",60415
+https://locations.tacobell.com/il/orland-park/364-orland-square-drive.html,il,orland-park,364-orland-square-drive,029431,"364 Orland Square Drive, Orland Park, IL 60462",60462
+https://locations.tacobell.com/il/chicago/255-w-garfield-blvd.html,il,chicago,255-w-garfield-blvd,036389,"255 W Garfield Blvd, Chicago, IL 60621",60621
+https://locations.tacobell.com/il/chicago/948-w-armitage.html,il,chicago,948-w-armitage,041824,"948 W Armitage, Chicago, IL 60614",60614
+https://locations.tacobell.com/il/chicago/941-w-randolph-st.html,il,chicago,941-w-randolph-st,037205,"941 W Randolph St, Chicago, IL 60607",60607
+https://locations.tacobell.com/il/chicago/1107-w--addison.html,il,chicago,1107-w--addison,037329,"1107 W. Addison, Chicago, IL 60613",60613
+https://locations.tacobell.com/il/chicago/5312-w-belmont-ave.html,il,chicago,5312-w-belmont-ave,037337,"5312 W Belmont Ave, Chicago, IL 60641",60641
+https://locations.tacobell.com/il/forest-park/161-s-harlem-ave.html,il,forest-park,161-s-harlem-ave,037524,"161 S Harlem Ave, Forest Park, IL 60130",60130
+https://locations.tacobell.com/il/marion/928-w--main-street.html,il,marion,928-w--main-street,039139,"928 W. Main Street, Marion, IL 62959",62959
+https://locations.tacobell.com/il/morton-grove/8840-waukegan-rd.html,il,morton-grove,8840-waukegan-rd,037330,"8840 Waukegan Rd, Morton Grove, IL 60053",60053
+https://locations.tacobell.com/il/chicago/1160-n--clark.html,il,chicago,1160-n--clark,036430,"1160 N. Clark, Chicago, IL 60610",60610
+https://locations.tacobell.com/il/aurora/1504-mesa-lane.html,il,aurora,1504-mesa-lane,037826,"1504 Mesa Lane, Aurora, IL 60502",60502
+https://locations.tacobell.com/il/harwood-heights/5050-n--harlem-ave.html,il,harwood-heights,5050-n--harlem-ave,037353,"5050 N. Harlem Ave, Harwood Heights, IL 60706",60706
+https://locations.tacobell.com/il/shorewood/996-brook-forest-avenue.html,il,shorewood,996-brook-forest-avenue,026756,"996 Brook Forest Avenue, Shorewood, IL 60431",60431
+https://locations.tacobell.com/il/des-plaines/9870-n-milwaukee.html,il,des-plaines,9870-n-milwaukee,036200,"9870 N Milwaukee, Des Plaines, IL 60016",60016
+https://locations.tacobell.com/il/schaumburg/951-s-roselle-rd.html,il,schaumburg,951-s-roselle-rd,002682,"951 S Roselle Rd, Schaumburg, IL 60193",60193
+https://locations.tacobell.com/il/rosemont/9467-w-higgins-rd.html,il,rosemont,9467-w-higgins-rd,036210,"9467 W Higgins Rd, Rosemont, IL 60018",60018
+https://locations.tacobell.com/il/des-plaines/945-elmhurst-rd.html,il,des-plaines,945-elmhurst-rd,002907,"945 Elmhurst Rd, Des Plaines, IL 60016",60016
+https://locations.tacobell.com/il/orland-hills/9281-159th-st.html,il,orland-hills,9281-159th-st,026743,"9281 159th St, Orland Hills, IL 60487",60487
+https://locations.tacobell.com/il/troy/908-edwardsville-road.html,il,troy,908-edwardsville-road,018366,"908 Edwardsville Road, Troy, IL 62294",62294
+https://locations.tacobell.com/il/olney/908-east-main-street.html,il,olney,908-east-main-street,028900,"908 East Main Street, Olney, IL 62450",62450
+https://locations.tacobell.com/il/mundelein/900-n--route-83.html,il,mundelein,900-n--route-83,032104,"900 N. Route 83, Mundelein, IL 60060",60060
+https://locations.tacobell.com/il/hickory-hills/8760-w-95th-street.html,il,hickory-hills,8760-w-95th-street,002872,"8760 W 95th Street, Hickory Hills, IL 60457",60457
+https://locations.tacobell.com/il/peoria/8711-n-knoxville.html,il,peoria,8711-n-knoxville,004066,"8711 N Knoxville, Peoria, IL 61615",61615
+https://locations.tacobell.com/il/galesburg/850-n-henderson-st.html,il,galesburg,850-n-henderson-st,036359,"850 N Henderson St, Galesburg, IL 61401",61401
+https://locations.tacobell.com/il/jacksonville/837-w-morton.html,il,jacksonville,837-w-morton,004982,"837 W Morton, Jacksonville, IL 62650",62650
+https://locations.tacobell.com/il/skokie/8329-skokie-blvd.html,il,skokie,8329-skokie-blvd,036190,"8329 Skokie Blvd, Skokie, IL 60076",60076
+https://locations.tacobell.com/il/west-frankfort/832-factory-outlet-dr-.html,il,west-frankfort,832-factory-outlet-dr-,033294,"832 Factory Outlet Dr., West Frankfort, IL 62896",62896
+https://locations.tacobell.com/il/quincy/826-broadway.html,il,quincy,826-broadway,036534,"826 Broadway, Quincy, IL 62301",62301
+https://locations.tacobell.com/il/melrose-park/825-w-north-ave.html,il,melrose-park,825-w-north-ave,036178,"825 W North Ave, Melrose Park, IL 60160",60160
+https://locations.tacobell.com/il/winnebago/805-cannell-puri-court.html,il,winnebago,805-cannell-puri-court,032113,"805 Cannell-Puri Court, Winnebago, IL 61088",61088
+https://locations.tacobell.com/il/lake-zurich/801-w-main-st.html,il,lake-zurich,801-w-main-st,036184,"801 W Main St, Lake Zurich, IL 60047",60047
+https://locations.tacobell.com/il/chicago/7856-s--stoney-island-ave.html,il,chicago,7856-s--stoney-island-ave,030407,"7856 S. Stoney Island Ave, Chicago, IL 60649",60649
+https://locations.tacobell.com/il/hanover-park/7660-barrington-road.html,il,hanover-park,7660-barrington-road,026744,"7660 Barrington Road, Hanover Park, IL 60133",60133
+https://locations.tacobell.com/il/palos-hills/7601-w-111th-st.html,il,palos-hills,7601-w-111th-st,002747,"7601 W 111th St, Palos Hills, IL 60465",60465
+https://locations.tacobell.com/il/belleville/760-carlyle-ave.html,il,belleville,760-carlyle-ave,029678,"760 Carlyle Ave, Belleville, IL 62221",62221
+https://locations.tacobell.com/il/romeoville/76-s--weber-rd-.html,il,romeoville,76-s--weber-rd-,026752,"76 S. Weber Rd., Romeoville, IL 60446",60446
+https://locations.tacobell.com/il/niles/7535-n-harlem-ave.html,il,niles,7535-n-harlem-ave,036182,"7535 N Harlem Ave, Niles, IL 60714",60714
+https://locations.tacobell.com/il/decatur/753-pershing-road.html,il,decatur,753-pershing-road,020134,"753 Pershing Road, Decatur, IL 62526",62526
+https://locations.tacobell.com/il/forest-park/7510-roosevelt-rd.html,il,forest-park,7510-roosevelt-rd,002750,"7510 Roosevelt Rd, Forest Park, IL 60130",60130
+https://locations.tacobell.com/il/downers-grove/7451-lemont-rd.html,il,downers-grove,7451-lemont-rd,026740,"7451 Lemont Rd, Downers Grove, IL 60516",60516
+https://locations.tacobell.com/il/darien/7419-s-cass-ave.html,il,darien,7419-s-cass-ave,002873,"7419 S Cass Ave, Darien, IL 60561",60561
+https://locations.tacobell.com/il/bloomingdale/74-stratford-dr-.html,il,bloomingdale,74-stratford-dr-,002998,"74 Stratford Dr., Bloomingdale, IL 60108",60108
+https://locations.tacobell.com/il/springfield/731-adlai-stevenson-dr-.html,il,springfield,731-adlai-stevenson-dr-,022189,"731 Adlai Stevenson Dr., Springfield, IL 62704",62704
+https://locations.tacobell.com/il/tinley-park/7224-w--191st-st-.html,il,tinley-park,7224-w--191st-st-,026757,"7224 W. 191st St., Tinley Park, IL 60477",60477
+https://locations.tacobell.com/il/harrisburg/712-s--commercial-st-.html,il,harrisburg,712-s--commercial-st-,028501,"712 S. Commercial St., Harrisburg, IL 62946",62946
+https://locations.tacobell.com/il/wauconda/705-w-liberty-st.html,il,wauconda,705-w-liberty-st,032106,"705 W Liberty St, Wauconda, IL 60084",60084
+https://locations.tacobell.com/il/alton/70-homer-adams-pkwy.html,il,alton,70-homer-adams-pkwy,029677,"70 Homer Adams Pkwy, Alton, IL 62002",62002
+https://locations.tacobell.com/il/berwyn/6956-ogden-ave.html,il,berwyn,6956-ogden-ave,002433,"6956 Ogden Ave, Berwyn, IL 60402",60402
+https://locations.tacobell.com/il/chicago/6944-archer.html,il,chicago,6944-archer,002513,"6944 Archer, Chicago, IL 60638",60638
+https://locations.tacobell.com/il/streamwood/665-s--sutton-rd-.html,il,streamwood,665-s--sutton-rd-,026754,"665 S. Sutton Rd., Streamwood, IL 60107",60107
+https://locations.tacobell.com/il/chicago/6622-w--fullerton-ave-.html,il,chicago,6622-w--fullerton-ave-,036191,"6622 W. Fullerton Ave., Chicago, IL 60639",60639
+https://locations.tacobell.com/il/cary/660-northwest-highway.html,il,cary,660-northwest-highway,030402,"660 Northwest Highway, Cary, IL 60013",60013
+https://locations.tacobell.com/il/fairview-heights/6599-n-illinois-st-.html,il,fairview-heights,6599-n-illinois-st-,029683,"6599 N Illinois St., Fairview Heights, IL 62208",62208
+https://locations.tacobell.com/il/chicago/6460-n-sheridan-road.html,il,chicago,6460-n-sheridan-road,031780,"6460 N Sheridan Road, Chicago, IL 60626",60626
+https://locations.tacobell.com/il/gurnee/6360-grand-ave.html,il,gurnee,6360-grand-ave,036197,"6360 Grand Ave, Gurnee, IL 60031",60031
+https://locations.tacobell.com/il/benton/634-west-main-street.html,il,benton,634-west-main-street,L518171,"634 West Main Street, Benton, IL 62812",62812
+https://locations.tacobell.com/il/kewanee/623-tenney-st.html,il,kewanee,623-tenney-st,036358,"623 Tenney St, Kewanee, IL 61443",61443
+https://locations.tacobell.com/il/alton/620-e--landmarks-blvd-.html,il,alton,620-e--landmarks-blvd-,037048,"620 E. Landmarks Blvd., Alton, IL 62002",62002
+https://locations.tacobell.com/il/rockford/6161-e-state-st.html,il,rockford,6161-e-state-st,031967,"6161 E State St, Rockford, IL 61108",61108
+https://locations.tacobell.com/il/taylorville/610-n-webster-st.html,il,taylorville,610-n-webster-st,004655,"610 N Webster St, Taylorville, IL 62568",62568
+https://locations.tacobell.com/il/oak-lawn/6049-west-95th-street.html,il,oak-lawn,6049-west-95th-street,016508,"6049 West 95th Street, Oak Lawn, IL 60453",60453
+https://locations.tacobell.com/il/chillicothe/604-n--4th-street.html,il,chillicothe,604-n--4th-street,021068,"604 N. 4th Street, Chillicothe, IL 61523",61523
+https://locations.tacobell.com/il/elk-grove-village/601-meacham-rd.html,il,elk-grove-village,601-meacham-rd,003156,"601 Meacham Rd, Elk Grove Village, IL 60007",60007
+https://locations.tacobell.com/il/bourbonnais/582-main-nw.html,il,bourbonnais,582-main-nw,036198,"582 Main NW, Bourbonnais, IL 60914",60914
+https://locations.tacobell.com/il/monee/5737-w--monee-manhattan-road.html,il,monee,5737-w--monee-manhattan-road,C318001,"5737 W. Monee Manhattan Road, Monee, IL 60449",60449
+https://locations.tacobell.com/il/countryside/5611-s-la-grange-rd.html,il,countryside,5611-s-la-grange-rd,002156,"5611 S La Grange Rd, Countryside, IL 60525",60525
+https://locations.tacobell.com/il/fox-lake/54-s-us-highway-12.html,il,fox-lake,54-s-us-highway-12,032086,"54 S US Highway 12, Fox Lake, IL 60020",60020
+https://locations.tacobell.com/il/paris/528-e--jasper-st-.html,il,paris,528-e--jasper-st-,030681,"528 E. Jasper St., Paris, IL 61944",61944
+https://locations.tacobell.com/il/peru/5257-trompeter-road.html,il,peru,5257-trompeter-road,027898,"5257 Trompeter Road, Peru, IL 61354",61354
+https://locations.tacobell.com/il/murphysboro/515-walnut.html,il,murphysboro,515-walnut,L518004,"515 Walnut, Murphysboro, IL 62966",62966
+https://locations.tacobell.com/il/saint-charles/510-dunham-road.html,il,saint-charles,510-dunham-road,016605,"510 Dunham Road, Saint Charles, IL 60174",60174
+https://locations.tacobell.com/il/northlake/51-w--north-avenue.html,il,northlake,51-w--north-avenue,036192,"51 W. North Avenue, Northlake, IL 60164",60164
+https://locations.tacobell.com/il/danville/501-south-gilbert.html,il,danville,501-south-gilbert,017293,"501 South Gilbert, Danville, IL 61832",61832
+https://locations.tacobell.com/il/minooka/501-bob-blair-road.html,il,minooka,501-bob-blair-road,027903,"501 Bob Blair Road, Minooka, IL 60447",60447
+https://locations.tacobell.com/il/chicago/500-w--madison-ave.html,il,chicago,500-w--madison-ave,030404,"500 W. Madison Ave, Chicago, IL 60661",60661
+https://locations.tacobell.com/il/buffalo-grove/50-w-dundee-road.html,il,buffalo-grove,50-w-dundee-road,032088,"50 W Dundee Road, Buffalo Grove, IL 60089",60089
+https://locations.tacobell.com/il/belleville/5-south-belt-west.html,il,belleville,5-south-belt-west,029632,"5 South Belt West, Belleville, IL 62220",62220
+https://locations.tacobell.com/il/south-elgin/490-randall-road.html,il,south-elgin,490-randall-road,026753,"490 Randall Road, South Elgin, IL 60177",60177
+https://locations.tacobell.com/il/roscoe/4638-e--rockton-road.html,il,roscoe,4638-e--rockton-road,032115,"4638 E. Rockton Road, Roscoe, IL 61073",61073
+https://locations.tacobell.com/il/bolingbrook/444-n-bolingbrook-dr.html,il,bolingbrook,444-n-bolingbrook-dr,002693,"444 N Bolingbrook Dr, Bolingbrook, IL 60440",60440
+https://locations.tacobell.com/il/mount-vernon/4205-broadway.html,il,mount-vernon,4205-broadway,028484,"4205 Broadway, Mount Vernon, IL 62864",62864
+https://locations.tacobell.com/il/macomb/420-west-jackson.html,il,macomb,420-west-jackson,036532,"420 West Jackson, Macomb, IL 61455",61455
+https://locations.tacobell.com/il/new-lenox/420-w-maple-st-.html,il,new-lenox,420-w-maple-st-,026742,"420 W Maple St., New Lenox, IL 60451",60451
+https://locations.tacobell.com/il/crystal-lake/420-virginia-st.html,il,crystal-lake,420-virginia-st,036195,"420 Virginia St, Crystal Lake, IL 60014",60014
+https://locations.tacobell.com/il/park-forest/413-sauk-trail.html,il,park-forest,413-sauk-trail,027902,"413 Sauk Trail, Park Forest, IL 60466",60466
+https://locations.tacobell.com/il/mchenry/4112-w-elm-st.html,il,mchenry,4112-w-elm-st,032084,"4112 W Elm St, McHenry, IL 60050",60050
+https://locations.tacobell.com/il/ottawa/4109-columbus-st.html,il,ottawa,4109-columbus-st,027896,"4109 Columbus St, Ottawa, IL 61350",61350
+https://locations.tacobell.com/il/sterling/405-locust-street.html,il,sterling,405-locust-street,036204,"405 Locust Street, Sterling, IL 61081",61081
+https://locations.tacobell.com/il/loves-park/4001-mcfarland-road.html,il,loves-park,4001-mcfarland-road,031973,"4001 McFarland Road, Loves Park, IL 61111",61111
+https://locations.tacobell.com/il/woodstock/400-s-eastwood-dr.html,il,woodstock,400-s-eastwood-dr,030401,"400 S Eastwood Dr, Woodstock, IL 60098",60098
+https://locations.tacobell.com/il/quincy/3828-broadway.html,il,quincy,3828-broadway,036531,"3828 Broadway, Quincy, IL 62301",62301
+https://locations.tacobell.com/il/glen-ellyn/370-roosevelt-road.html,il,glen-ellyn,370-roosevelt-road,041816,"370 Roosevelt Road, Glen Ellyn, IL 60137",60137
+https://locations.tacobell.com/il/chicago/3511-devon-avenue.html,il,chicago,3511-devon-avenue,036185,"3511 Devon Avenue, Chicago, IL 60659",60659
+https://locations.tacobell.com/il/chicago/3509-n-harlem.html,il,chicago,3509-n-harlem,036177,"3509 N Harlem, Chicago, IL 60634",60634
+https://locations.tacobell.com/il/wheaton/345-rice-lake-square.html,il,wheaton,345-rice-lake-square,004191,"345 Rice Lake Square, Wheaton, IL 60187",60187
+https://locations.tacobell.com/il/oswego/3423-orchard-rd.html,il,oswego,3423-orchard-rd,030651,"3423 Orchard Rd, Oswego, IL 60543",60543
+https://locations.tacobell.com/il/chicago/3350-w--roosevelt-rd.html,il,chicago,3350-w--roosevelt-rd,036211,"3350 W. Roosevelt Rd, Chicago, IL 60624",60624
+https://locations.tacobell.com/il/west-chicago/335-neltnor-blvd-.html,il,west-chicago,335-neltnor-blvd-,G135561,"335 Neltnor Blvd., West Chicago, IL 60185",60185
+https://locations.tacobell.com/il/harvard/325-s-division-st.html,il,harvard,325-s-division-st,036189,"325 S Division St, Harvard, IL 60033",60033
+https://locations.tacobell.com/il/antioch/322-w-state-route-173.html,il,antioch,322-w-state-route-173,036183,"322 W State Route 173, Antioch, IL 60002",60002
+https://locations.tacobell.com/il/wood-dale/322-w-irving-park-rd.html,il,wood-dale,322-w-irving-park-rd,020283,"322 W Irving Park Rd, Wood Dale, IL 60191",60191
+https://locations.tacobell.com/il/waukegan/3200-n-lewis-ave.html,il,waukegan,3200-n-lewis-ave,032098,"3200 N Lewis Ave, Waukegan, IL 60085",60085
+https://locations.tacobell.com/il/palatine/320-n-northwest-hwy.html,il,palatine,320-n-northwest-hwy,002131,"320 N Northwest Hwy, Palatine, IL 60067",60067
+https://locations.tacobell.com/il/chicago/3143-n-milwaukee-ave.html,il,chicago,3143-n-milwaukee-ave,036179,"3143 N Milwaukee Ave, Chicago, IL 60618",60618
+https://locations.tacobell.com/il/rockford/3114-11th-street.html,il,rockford,3114-11th-street,031970,"3114 11th Street, Rockford, IL 61109",61109
+https://locations.tacobell.com/il/peoria/3101-n-sterling-ave.html,il,peoria,3101-n-sterling-ave,021328,"3101 N Sterling Ave, Peoria, IL 61604",61604
+https://locations.tacobell.com/il/westchester/3063-s-wolf-rd.html,il,westchester,3063-s-wolf-rd,004442,"3063 S Wolf Rd, Westchester, IL 60154",60154
+https://locations.tacobell.com/il/round-lake-beach/306-w-rollins-rd.html,il,round-lake-beach,306-w-rollins-rd,032083,"306 W Rollins Rd, Round Lake Beach, IL 60073",60073
+https://locations.tacobell.com/il/elgin/304-south-mclean-blvd.html,il,elgin,304-south-mclean-blvd,026749,"304 South McLean Blvd, Elgin, IL 60120",60120
+https://locations.tacobell.com/il/springfield/3025-w-white-oaks-dr.html,il,springfield,3025-w-white-oaks-dr,024614,"3025 W White Oaks Dr, Springfield, IL 62704",62704
+https://locations.tacobell.com/il/markham/2945-west-159th-street.html,il,markham,2945-west-159th-street,015773,"2945 West 159th Street, Markham, IL 60426",60426
+https://locations.tacobell.com/il/kankakee/2942-riverstone-court.html,il,kankakee,2942-riverstone-court,036199,"2942 Riverstone Court, Kankakee, IL 60901",60901
+https://locations.tacobell.com/il/joliet/2924-plainfield-rd.html,il,joliet,2924-plainfield-rd,026745,"2924 Plainfield Rd, Joliet, IL 60435",60435
+https://locations.tacobell.com/il/chicago/2807-w-irving-park-rd.html,il,chicago,2807-w-irving-park-rd,G135560,"2807 W Irving Park Rd, Chicago, IL 60618",60618
+https://locations.tacobell.com/il/diamond/2780-division-street.html,il,diamond,2780-division-street,D191003,"2780 Division Street, Diamond, IL 60416",60416
+https://locations.tacobell.com/il/waukegan/2780-belvidere-rd.html,il,waukegan,2780-belvidere-rd,032108,"2780 Belvidere Rd, Waukegan, IL 60085",60085
+https://locations.tacobell.com/il/naperville/2775-aurora-ave.html,il,naperville,2775-aurora-ave,026746,"2775 Aurora Ave, Naperville, IL 60540",60540
+https://locations.tacobell.com/il/schaumburg/275-w--golf-road.html,il,schaumburg,275-w--golf-road,015195,"275 W. Golf Road, Schaumburg, IL 60195",60195
+https://locations.tacobell.com/il/vandalia/2737-veterans-avenue.html,il,vandalia,2737-veterans-avenue,G135784,"2737 Veterans Avenue, Vandalia, IL 62471",62471
+https://locations.tacobell.com/il/franklin-park/2721-rose-street.html,il,franklin-park,2721-rose-street,036193,"2721 Rose Street, Franklin Park, IL 60131",60131
+https://locations.tacobell.com/il/danville/2714-n-vermillion-st.html,il,danville,2714-n-vermillion-st,021538,"2714 N Vermillion St, Danville, IL 61832",61832
+https://locations.tacobell.com/il/marion/2712-walton-way.html,il,marion,2712-walton-way,028486,"2712 Walton Way, Marion, IL 62959",62959
+https://locations.tacobell.com/il/glendale-heights/270-e-army-trail-rd.html,il,glendale-heights,270-e-army-trail-rd,002360,"270 E Army Trail Rd, Glendale Heights, IL 60139",60139
+https://locations.tacobell.com/il/rockford/2602-auburn-st.html,il,rockford,2602-auburn-st,032097,"2602 Auburn St, Rockford, IL 61101",61101
+https://locations.tacobell.com/il/chicago/2575-north-clybourn.html,il,chicago,2575-north-clybourn,030409,"2575 North Clybourn, Chicago, IL 60614",60614
+https://locations.tacobell.com/il/highland-park/2566-skokie-valley-rd.html,il,highland-park,2566-skokie-valley-rd,036201,"2566 Skokie Valley Rd, Highland Park, IL 60035",60035
+https://locations.tacobell.com/il/caseyville/2413-n-89th-st.html,il,caseyville,2413-n-89th-st,029682,"2413 N 89th St, Caseyville, IL 62232",62232
+https://locations.tacobell.com/il/arlington-heights/2410-e-rand-rd.html,il,arlington-heights,2410-e-rand-rd,001423,"2410 E Rand Rd, Arlington Heights, IL 60004",60004
+https://locations.tacobell.com/il/lake-in-the-hills/231-n-randall-rd.html,il,lake-in-the-hills,231-n-randall-rd,032100,"231 N Randall Rd, Lake In The Hills, IL 60156",60156
+https://locations.tacobell.com/il/springfield/2300-n--dirkson-parkway-.html,il,springfield,2300-n--dirkson-parkway-,023000,"2300 N. Dirkson Parkway., Springfield, IL 62702",62702
+https://locations.tacobell.com/il/cicero/2225-s-cicero-avenue.html,il,cicero,2225-s-cicero-avenue,036181,"2225 S Cicero Avenue, Cicero, IL 60804",60804
+https://locations.tacobell.com/il/north-chicago/2222-green-bay-rd.html,il,north-chicago,2222-green-bay-rd,036180,"2222 Green Bay Rd, North Chicago, IL 60064",60064
+https://locations.tacobell.com/il/yorkville/221-w--veterans-parkway.html,il,yorkville,221-w--veterans-parkway,042745,"221 W. Veterans Parkway, Yorkville, IL 60560",60560
+https://locations.tacobell.com/il/rockford/2182-s-perryville-rd.html,il,rockford,2182-s-perryville-rd,031971,"2182 S Perryville Rd, Rockford, IL 61112",61112
+https://locations.tacobell.com/il/granite-city/2167-madison-ave.html,il,granite-city,2167-madison-ave,029634,"2167 Madison Ave, Granite City, IL 62040",62040
+https://locations.tacobell.com/il/aurora/2140-west-galena-blvd.html,il,aurora,2140-west-galena-blvd,019629,"2140 West Galena Blvd, Aurora, IL 60506",60506
+https://locations.tacobell.com/il/galesburg/2118-e-main-st.html,il,galesburg,2118-e-main-st,036354,"2118 E Main St, Galesburg, IL 61401",61401
+https://locations.tacobell.com/il/lindenhurst/2081-east-grand-avenue.html,il,lindenhurst,2081-east-grand-avenue,032102,"2081 East Grand Avenue, Lindenhurst, IL 60046",60046
+https://locations.tacobell.com/il/bourbonnais/2036-state-route-50-north.html,il,bourbonnais,2036-state-route-50-north,036208,"2036 State Route 50 North, Bourbonnais, IL 60914",60914
+https://locations.tacobell.com/il/frankfort/20160-lagrange-rd-.html,il,frankfort,20160-lagrange-rd-,026755,"20160 LaGrange Rd., Frankfort, IL 60423",20160
+https://locations.tacobell.com/il/mundelein/2015-s-lake-st.html,il,mundelein,2015-s-lake-st,032082,"2015 S Lake St, Mundelein, IL 60060",60060
+https://locations.tacobell.com/il/chicago-heights/201-s-halstead-st-.html,il,chicago-heights,201-s-halstead-st-,032168,"201 S Halstead St., Chicago Heights, IL 60411",60411
+https://locations.tacobell.com/il/monmouth/201-maple-city-drive.html,il,monmouth,201-maple-city-drive,036360,"201 Maple City Drive, Monmouth, IL 61462",61462
+https://locations.tacobell.com/il/streator/2008-n-bloomington-st.html,il,streator,2008-n-bloomington-st,030539,"2008 N Bloomington St, Streator, IL 61364",61364
+https://locations.tacobell.com/il/columbia/200-columbia-center.html,il,columbia,200-columbia-center,018367,"200 Columbia Center, Columbia, IL 62236",62236
+https://locations.tacobell.com/il/decatur/1991-mt-zion-rd.html,il,decatur,1991-mt-zion-rd,004685,"1991 Mt Zion Rd, Decatur, IL 62521",62521
+https://locations.tacobell.com/il/montgomery/1950-douglas-road.html,il,montgomery,1950-douglas-road,026738,"1950 Douglas Road, Montgomery, IL 60538",60538
+https://locations.tacobell.com/il/saint-charles/1950-bricher-rd.html,il,saint-charles,1950-bricher-rd,036207,"1950 Bricher Rd, Saint Charles, IL 60174",60174
+https://locations.tacobell.com/il/manteno/195-south-creek-drive.html,il,manteno,195-south-creek-drive,027897,"195 South Creek Drive, Manteno, IL 60950",60950
+https://locations.tacobell.com/il/pekin/1920-court-street.html,il,pekin,1920-court-street,021532,"1920 Court Street, Pekin, IL 61554",61554
+https://locations.tacobell.com/il/zion/1913-sheridan-rd.html,il,zion,1913-sheridan-rd,032111,"1913 Sheridan Rd, Zion, IL 60099",60099
+https://locations.tacobell.com/il/washington/1896-washington-rd-.html,il,washington,1896-washington-rd-,031277,"1896 Washington Rd., Washington, IL 61571",61571
+https://locations.tacobell.com/il/hanover-park/1890-army-trail-rd-.html,il,hanover-park,1890-army-trail-rd-,005514,"1890 Army Trail Rd., Hanover Park, IL 60103",60103
+https://locations.tacobell.com/il/freeport/1882-s-west-avenue.html,il,freeport,1882-s-west-avenue,032089,"1882 S West Avenue, Freeport, IL 61032",61032
+https://locations.tacobell.com/il/wood-river/1850-memorial-lane.html,il,wood-river,1850-memorial-lane,029646,"1850 Memorial Lane, Wood River, IL 62095",62095
+https://locations.tacobell.com/il/morris/1820-n-division-st.html,il,morris,1820-n-division-st,027890,"1820 N Division St, Morris, IL 60450",60450
+https://locations.tacobell.com/il/peoria/1811-n-knoxville-ave.html,il,peoria,1811-n-knoxville-ave,003799,"1811 N Knoxville Ave, Peoria, IL 61604",61604
+https://locations.tacobell.com/il/glenview/1757-waukegan.html,il,glenview,1757-waukegan,036186,"1757 Waukegan, Glenview, IL 60025",60025
+https://locations.tacobell.com/il/edwardsville/1710-troy-rd.html,il,edwardsville,1710-troy-rd,029679,"1710 Troy Rd, Edwardsville, IL 62025",62025
+https://locations.tacobell.com/il/bethalto/171-e--mcarthur-dr-.html,il,bethalto,171-e--mcarthur-dr-,029676,"171 E. McArthur Dr., Bethalto, IL 62010",62010
+https://locations.tacobell.com/il/herrin/1709-s-park-ave.html,il,herrin,1709-s-park-ave,028503,"1709 S Park Ave, Herrin, IL 62948",62948
+https://locations.tacobell.com/il/champaign/1707-s--neil-street.html,il,champaign,1707-s--neil-street,021530,"1707 S. Neil Street, Champaign, IL 61820",61820
+https://locations.tacobell.com/il/bloomington/1702-w--market-st.html,il,bloomington,1702-w--market-st,004301,"1702 W. Market St, Bloomington, IL 61701",61701
+https://locations.tacobell.com/il/lockport/16616-w--159th-street.html,il,lockport,16616-w--159th-street,042743,"16616 W. 159th Street, Lockport, IL 60441",16616
+https://locations.tacobell.com/il/chicago/1644-w-95th-st.html,il,chicago,1644-w-95th-st,027900,"1644 W 95th St, Chicago, IL 60643",60643
+https://locations.tacobell.com/il/cahokia/1616-camp-jackson-road.html,il,cahokia,1616-camp-jackson-road,031606,"1616 Camp Jackson Road, Cahokia, IL 62206",62206
+https://locations.tacobell.com/il/greenville/1607-south-route-127.html,il,greenville,1607-south-route-127,G135786,"1607 South Route 127, Greenville, IL 62246",62246
+https://locations.tacobell.com/il/pontiac/1600-w-reynolds-st.html,il,pontiac,1600-w-reynolds-st,027894,"1600 W Reynolds St, Pontiac, IL 61764",61764
+https://locations.tacobell.com/il/belvidere/1580-n-state-st.html,il,belvidere,1580-n-state-st,030982,"1580 N State St, Belvidere, IL 61008",61008
+https://locations.tacobell.com/il/lemont/15663-127th-street.html,il,lemont,15663-127th-street,042747,"15663 127th Street, Lemont, IL 60439",15663
+https://locations.tacobell.com/il/arlington-heights/1530-w-algonquin-rd.html,il,arlington-heights,1530-w-algonquin-rd,002189,"1530 W Algonquin Rd, Arlington Heights, IL 60005",60005
+https://locations.tacobell.com/il/watseka/1530-e-walnut-st.html,il,watseka,1530-e-walnut-st,042462,"1530 E Walnut St, Watseka, IL 60970",60970
+https://locations.tacobell.com/il/normal/1527-e-college-ave.html,il,normal,1527-e-college-ave,002821,"1527 E College Ave, Normal, IL 61761",61761
+https://locations.tacobell.com/il/loves-park/1525-e-riverside-blvd.html,il,loves-park,1525-e-riverside-blvd,031969,"1525 E Riverside Blvd, Loves Park, IL 61111",61111
+https://locations.tacobell.com/il/wheeling/150-e--dundee-road.html,il,wheeling,150-e--dundee-road,C119014,"150 E. Dundee Road, Wheeling, IL 60090",60090
+https://locations.tacobell.com/il/belleville/15-s-59th-st.html,il,belleville,15-s-59th-st,028497,"15 S 59th St, Belleville, IL 62223",62223
+https://locations.tacobell.com/il/glendale-heights/145-north-avenue.html,il,glendale-heights,145-north-avenue,003832,"145 North Avenue, Glendale Heights, IL 60137",60137
+https://locations.tacobell.com/il/chicago/1439-n-milwaukee-avenue.html,il,chicago,1439-n-milwaukee-avenue,036212,"1439 N Milwaukee Avenue, Chicago, IL 60622",60622
+https://locations.tacobell.com/il/salem/1431-west-main.html,il,salem,1431-west-main,019213,"1431 West Main, Salem, IL 62881",62881
+https://locations.tacobell.com/il/robinson/1414-east-main-street.html,il,robinson,1414-east-main-street,028887,"1414 East Main Street, Robinson, IL 62454",62454
+https://locations.tacobell.com/il/carbondale/1410-east-main-street.html,il,carbondale,1410-east-main-street,026662,"1410 East Main Street, Carbondale, IL 62901",62901
+https://locations.tacobell.com/il/ofallon/1403-w-us-highway-50.html,il,ofallon,1403-w-us-highway-50,029680,"1403 W US Highway 50, O'Fallon, IL 62269",62269
+https://locations.tacobell.com/il/jerseyville/1400-s--state-st-.html,il,jerseyville,1400-s--state-st-,032142,"1400 S. State St., Jerseyville, IL 62052",62052
+https://locations.tacobell.com/il/sparta/1400-north-market-street.html,il,sparta,1400-north-market-street,028493,"1400 North Market Street, Sparta, IL 62286",62286
+https://locations.tacobell.com/il/forsyth/1400-hickory-point-drive.html,il,forsyth,1400-hickory-point-drive,019998,"1400 Hickory Point Drive, Forsyth, IL 62535",62535
+https://locations.tacobell.com/il/elk-grove-village/1400-busse-rd.html,il,elk-grove-village,1400-busse-rd,003613,"1400 Busse Rd, Elk Grove Village, IL 60007",60007
+https://locations.tacobell.com/il/crestwood/13745-s-cicero.html,il,crestwood,13745-s-cicero,002051,"13745 S Cicero, Crestwood, IL 60445",13745
+https://locations.tacobell.com/il/carpentersville/137-s-western-ave.html,il,carpentersville,137-s-western-ave,036196,"137 S Western Ave, Carpentersville, IL 60110",60110
+https://locations.tacobell.com/il/batavia/134-south-randall-road.html,il,batavia,134-south-randall-road,036206,"134 South Randall Road, Batavia, IL 60510",60510
+https://locations.tacobell.com/il/huntley/13320-s-highway-47.html,il,huntley,13320-s-highway-47,036194,"13320 S Highway 47, Huntley, IL 60142",13320
+https://locations.tacobell.com/il/dolton/1323-sibley-boulevard.html,il,dolton,1323-sibley-boulevard,032357,"1323 Sibley Boulevard, Dolton, IL 60419",60419
+https://locations.tacobell.com/il/dixon/1312-north-galena-avenue.html,il,dixon,1312-north-galena-avenue,036205,"1312 North Galena Avenue, Dixon, IL 61021",61021
+https://locations.tacobell.com/il/libertyville/1308-n-milwaukee-ave.html,il,libertyville,1308-n-milwaukee-ave,032099,"1308 N Milwaukee Ave, Libertyville, IL 60048",60048
+https://locations.tacobell.com/il/highland/1305-mercantile-drive.html,il,highland,1305-mercantile-drive,G135785,"1305 Mercantile Drive, Highland, IL 62249",62249
+https://locations.tacobell.com/il/sycamore/1301-dekalb-avenue.html,il,sycamore,1301-dekalb-avenue,036203,"1301 Dekalb Avenue, Sycamore, IL 60178",60178
+https://locations.tacobell.com/il/sandwich/130-duvick-road.html,il,sandwich,130-duvick-road,042744,"130 Duvick Road, Sandwich, IL 60548",60548
+https://locations.tacobell.com/il/westmont/13-w-ogden-avenue.html,il,westmont,13-w-ogden-avenue,026735,"13 W Ogden Avenue, Westmont, IL 60559",60559
+https://locations.tacobell.com/il/machesney-park/1297-west-lane-rd-.html,il,machesney-park,1297-west-lane-rd-,031972,"1297 West Lane Rd., Machesney Park, IL 61115",61115
+https://locations.tacobell.com/il/springfield/1290-toronto-rd.html,il,springfield,1290-toronto-rd,030981,"1290 Toronto Rd, Springfield, IL 62712",62712
+https://locations.tacobell.com/il/canton/129-north-main-street.html,il,canton,129-north-main-street,020968,"129 North Main Street, Canton, IL 61520",61520
+https://locations.tacobell.com/il/naperville/1287-rickert-dr.html,il,naperville,1287-rickert-dr,026741,"1287 Rickert Dr, Naperville, IL 60540",60540
+https://locations.tacobell.com/il/granite-city/1261-engineer-rd.html,il,granite-city,1261-engineer-rd,029647,"1261 Engineer Rd, Granite City, IL 62040",62040
+https://locations.tacobell.com/il/joliet/125-s--larkin-ave-.html,il,joliet,125-s--larkin-ave-,026747,"125 S. Larkin Ave., Joliet, IL 60435",60435
+https://locations.tacobell.com/il/palatine/1224-e--dundee-rd-.html,il,palatine,1224-e--dundee-rd-,026750,"1224 E. Dundee Rd., Palatine, IL 60067",60067
+https://locations.tacobell.com/il/rochelle/1221-n-caron-rd.html,il,rochelle,1221-n-caron-rd,036209,"1221 N Caron Rd Unit 700, Rochelle, IL 61068",61068
+https://locations.tacobell.com/il/de-kalb/1209-w-lincoln-hwy.html,il,de-kalb,1209-w-lincoln-hwy,036202,"1209 W Lincoln Hwy, De Kalb, IL 60115",60115
+https://locations.tacobell.com/il/aurora/1204-n-lake-st.html,il,aurora,1204-n-lake-st,002459,"1204 N Lake St, Aurora, IL 60506",60506
+https://locations.tacobell.com/il/litchfield/1201-w-weir-st.html,il,litchfield,1201-w-weir-st,029628,"1201 W Weir St, Litchfield, IL 62056",62056
+https://locations.tacobell.com/il/effingham/1201-n-keller.html,il,effingham,1201-n-keller,004646,"1201 N Keller, Effingham, IL 62401",62401
+https://locations.tacobell.com/il/charleston/120-lincoln-ave.html,il,charleston,120-lincoln-ave,003831,"120 Lincoln Ave, Charleston, IL 61920",61920
+https://locations.tacobell.com/il/anna/1195-e--vienna-street.html,il,anna,1195-e--vienna-street,L518002,"1195 E. Vienna Street, Anna, IL 62906",62906
+https://locations.tacobell.com/il/alsip/11750-south-palaski-road.html,il,alsip,11750-south-palaski-road,032031,"11750 South Palaski Road, Alsip, IL 60803",11750
+https://locations.tacobell.com/il/des-plaines/1175-e--oakton.html,il,des-plaines,1175-e--oakton,004289,"1175 E. Oakton, Des Plaines, IL 60018",60018
+https://locations.tacobell.com/il/elgin/1160-n-mclean-blvd.html,il,elgin,1160-n-mclean-blvd,004752,"1160 N McLean Blvd, Elgin, IL 60123",60123
+https://locations.tacobell.com/il/grayslake/115-s--state-route-83.html,il,grayslake,115-s--state-route-83,036187,"115 S. State Route 83, Grayslake, IL 60030",60030
+https://locations.tacobell.com/il/bensenville/1140-s-york-rd.html,il,bensenville,1140-s-york-rd,026736,"1140 S York Rd, Bensenville, IL 60106",60106
+https://locations.tacobell.com/il/bloomington/1122-s--veterans-parkway.html,il,bloomington,1122-s--veterans-parkway,027537,"1122 S. Veterans Parkway, Bloomington, IL 61704",61704
+https://locations.tacobell.com/il/tuscola/1104-e--southline.html,il,tuscola,1104-e--southline,031465,"1104 E. Southline, Tuscola, IL 61953",61953
+https://locations.tacobell.com/il/east-peoria/108-w-camp-st.html,il,east-peoria,108-w-camp-st,023404,"108 W Camp St, East Peoria, IL 61611",61611
+https://locations.tacobell.com/il/centralia/1077-w-broadway.html,il,centralia,1077-w-broadway,029629,"1077 W Broadway, Centralia, IL 62801",62801
+https://locations.tacobell.com/il/richmond/10710-main-st.html,il,richmond,10710-main-st,036188,"10710 Main St, Richmond, IL 60071",10710
+https://locations.tacobell.com/il/lisle/1015-maple-avenue.html,il,lisle,1015-maple-avenue,G135279,"1015 Maple Avenue, Lisle, IL 60532",60532
+https://locations.tacobell.com/il/elgin/1010-summit-street.html,il,elgin,1010-summit-street,026748,"1010 Summit Street, Elgin, IL 60120",60120
+https://locations.tacobell.com/il/east-alton/101-niagara-st-.html,il,east-alton,101-niagara-st-,029681,"101 Niagara St., East Alton, IL 62024",62024
+https://locations.tacobell.com/il/mendota/1009-steve-bowne-drive.html,il,mendota,1009-steve-bowne-drive,D191002,"1009 Steve Bowne Drive, Mendota, IL 61342",61342
+https://locations.tacobell.com/il/urbana/1003-university.html,il,urbana,1003-university,016248,"1003 University, Urbana, IL 61801",61801
+https://locations.tacobell.com/il/collinsville/1001-belt-line-rd-.html,il,collinsville,1001-belt-line-rd-,029684,"1001 Belt Line Rd., Collinsville, IL 62234",62234
+https://locations.tacobell.com/il/shelbyville/1000-w--main-street.html,il,shelbyville,1000-w--main-street,032291,"1000 W. Main Street, Shelbyville, IL 62565",62565
+https://locations.tacobell.com/il/aurora/1000-n-farnsworth-ave.html,il,aurora,1000-n-farnsworth-ave,003157,"1000 N Farnsworth Ave, Aurora, IL 60506",60506
+https://locations.tacobell.com/il/carpentersville/1000-kennedy-dr.html,il,carpentersville,1000-kennedy-dr,030403,"1000 Kennedy Dr, Carpentersville, IL 60110",60110
+https://locations.tacobell.com/il/morton/100-west-ashland-st-.html,il,morton,100-west-ashland-st-,016486,"100 West Ashland St., Morton, IL 61550",61550
+https://locations.tacobell.com/il/champaign/10-east-anthony-drive.html,il,champaign,10-east-anthony-drive,002834,"10 East Anthony Drive, Champaign, IL 61820",61820
+https://locations.tacobell.com/il/north-aurora/2060-west-orchard-rd-.html,il,north-aurora,2060-west-orchard-rd-,037359,"2060 West Orchard Rd., North Aurora, IL 60542",60542
+https://locations.tacobell.com/il/lakemoor/27625-il-route-120.html,il,lakemoor,27625-il-route-120,040342,"27625 IL Route 120, Lakemoor, IL 60051",27625
+https://locations.tacobell.com/il/cicero/5601-w-cermak-rd.html,il,cicero,5601-w-cermak-rd,040147,"5601 W Cermak Rd, Cicero, IL 60804",60804
+https://locations.tacobell.com/il/oak-lawn/9540-s-cicero-avenue.html,il,oak-lawn,9540-s-cicero-avenue,040351,"9540 S Cicero Avenue, Oak Lawn, IL 60453",60453
+https://locations.tacobell.com/il/crest-hill/1818-plainfield-rd.html,il,crest-hill,1818-plainfield-rd,026739,"1818 Plainfield Rd, Crest Hill, IL 60403",60403
+https://locations.tacobell.com/il/rockford/3805-east-state-st-.html,il,rockford,3805-east-state-st-,031968,"3805 East State St., Rockford, IL 61108",61108
+https://locations.tacobell.com/il/villa-park/125-w-roosevelt-rd.html,il,villa-park,125-w-roosevelt-rd,026737,"125 W Roosevelt Rd, Villa Park, IL 60181",60181
+https://locations.tacobell.com/il/addison/555-w--lake-st-.html,il,addison,555-w--lake-st-,032135,"555 W. Lake St., Addison, IL 60101",60101
+https://locations.tacobell.com/il/du-quoin/31-southtowne-shopping-center.html,il,du-quoin,31-southtowne-shopping-center,032709,"31 Southtowne Shopping Center, Du Quoin, IL 62832",62832
+https://locations.tacobell.com/il/moline/4650-16th-street.html,il,moline,4650-16th-street,036350,"4650 16th Street, Moline, IL 61265",61265
+https://locations.tacobell.com/il/moline/4120-avenue-of-the-cities.html,il,moline,4120-avenue-of-the-cities,036355,"4120 Avenue of the Cities, Moline, IL 61265",61265
+https://locations.tacobell.com/il/chester/2235-state-st-.html,il,chester,2235-state-st-,033476,"2235 State St., Chester, IL 62233",62233
+https://locations.tacobell.com/il/rock-island/1533-38th-street.html,il,rock-island,1533-38th-street,036351,"1533-38th Street, Rock Island, IL 61201",61201
+https://locations.tacobell.com/il/flora/1442-worthey-street.html,il,flora,1442-worthey-street,033492,"1442 Worthey Street, Flora, IL 62839",62839
+https://locations.tacobell.com/il/naperville/3028-reflection-drive.html,il,naperville,3028-reflection-drive,042746,"3028 Reflection Drive, Naperville, IL 60564",60564
+https://locations.tacobell.com/il/marengo/19800-us-route-20.html,il,marengo,19800-us-route-20,036214,"19800 US Route 20, Marengo, IL 60152",19800
+https://locations.tacobell.com/il/chicago/178-north-wabash-ave.html,il,chicago,178-north-wabash-ave,037107,"178 North Wabash Ave, Chicago, IL 60601",60601
+https://locations.tacobell.com/il/chicago/205-e-ohio-street.html,il,chicago,205-e-ohio-street,033484,"205 E Ohio Street, Chicago, IL 60611",60611
+https://locations.tacobell.com/il/calumet-park/12716-ashland-ave-.html,il,calumet-park,12716-ashland-ave-,032134,"12716 Ashland Ave., Calumet Park, IL 60827",12716
+https://locations.tacobell.com/il/chicago/407-s--dearborn.html,il,chicago,407-s--dearborn,036215,"407 S. Dearborn, Chicago, IL 60605",60605
+https://locations.tacobell.com/il/chicago/3365-s-martin-luther-king-drive.html,il,chicago,3365-s-martin-luther-king-drive,036213,"3365 S Martin Luther King Drive, Chicago, IL 60653",60653
+https://locations.tacobell.com/il/chicago/2432-n-milwaukee-ave.html,il,chicago,2432-n-milwaukee-ave,036216,"2432 N Milwaukee Ave, Chicago, IL 60647",60647

@@ -1,0 +1,400 @@
+url,state,city,address_slug,store_id,full_address,zip_code
+https://locations.tacobell.com/ga/columbus/1445-veterans-parkway.html,ga,columbus,1445-veterans-parkway,041154,"1445 Veterans Parkway, Columbus, GA 31901",31901
+https://locations.tacobell.com/ga/atlanta/6000-n--terminal-pkwy-atl-airport-pre-security-atrium.html,ga,atlanta,6000-n--terminal-pkwy-atl-airport-pre-security-atrium,041488,"6000 N. Terminal Pkwy - ATL AIRPORT Pre-Security Atrium, Atlanta, GA 30320",30320
+https://locations.tacobell.com/id/kuna/985-n-meridian-road.html,id,kuna,985-n-meridian-road,034351,"985 N Meridian Road, Kuna, ID 83634",83634
+https://locations.tacobell.com/ga/dacula/821-auburn-rd-.html,ga,dacula,821-auburn-rd-,042582,"821 Auburn Rd., Dacula, GA 30019",30019
+https://locations.tacobell.com/ia/waverly/2801-4th-st-sw.html,ia,waverly,2801-4th-st-sw,040727,"2801 4th St SW, Waverly, IA 50677",50677
+https://locations.tacobell.com/ga/sandersville/734-s--harris-street.html,ga,sandersville,734-s--harris-street,041656,"734 S. Harris Street, Sandersville, GA 31082",31082
+https://locations.tacobell.com/ia/waterloo/2065-logan-ave.html,ia,waterloo,2065-logan-ave,041101,"2065 Logan Ave, Waterloo, IA 50703",50703
+https://locations.tacobell.com/ga/mcdonough/2244-jonesboro-rd.html,ga,mcdonough,2244-jonesboro-rd,042584,"2244 Jonesboro Rd, McDonough, GA 30253",30253
+https://locations.tacobell.com/ia/marshalltown/108-iowa-ave-w.html,ia,marshalltown,108-iowa-ave-w,041386,"108 Iowa Ave W, Marshalltown, IA 50158",50158
+https://locations.tacobell.com/id/idaho-falls/3242-south-fork-blvd-.html,id,idaho-falls,3242-south-fork-blvd-,040609,"3242 South Fork Blvd., Idaho Falls, ID 83402",83402
+https://locations.tacobell.com/ga/greensboro/1155-interstate-blvd.html,ga,greensboro,1155-interstate-blvd,040929,"1155 Interstate Blvd, Greensboro, GA 30642",30642
+https://locations.tacobell.com/ga/columbus/8142-veterans-parkway.html,ga,columbus,8142-veterans-parkway,041881,"8142 Veterans Parkway, Columbus, GA 31909",31909
+https://locations.tacobell.com/ga/jefferson/172-old-farm-road.html,ga,jefferson,172-old-farm-road,041105,"172 Old Farm Road, Jefferson, GA 30549",30549
+https://locations.tacobell.com/ga/snellville/3511-centerville-highway.html,ga,snellville,3511-centerville-highway,041222,"3511 Centerville Highway, Snellville, GA 30039",30039
+https://locations.tacobell.com/ga/dawsonville/295-marketplace-blvd-.html,ga,dawsonville,295-marketplace-blvd-,039941,"295 Marketplace Blvd., Dawsonville, GA 30534",30534
+https://locations.tacobell.com/id/post-falls/6463-w-pointe-pkwy.html,id,post-falls,6463-w-pointe-pkwy,040973,"6463 W Pointe Pkwy, Post Falls, ID 83854",83854
+https://locations.tacobell.com/ga/newnan/1101-lower-fayetteville-road.html,ga,newnan,1101-lower-fayetteville-road,039942,"1101 Lower Fayetteville Road, Newnan, GA 30265",30265
+https://locations.tacobell.com/ga/dawson/480-rountree-drive-southwest.html,ga,dawson,480-rountree-drive-southwest,040384,"480 Rountree Drive Southwest, Dawson, GA 39842",39842
+https://locations.tacobell.com/ga/covington/10161-carlin-drive.html,ga,covington,10161-carlin-drive,041088,"10161 Carlin Drive, Covington, GA 30014",10161
+https://locations.tacobell.com/ga/athens/5253-jefferson-rd.html,ga,athens,5253-jefferson-rd,041868,"5253 Jefferson Rd, Athens, GA 30606",30606
+https://locations.tacobell.com/ga/athens/620n-us-29-highway.html,ga,athens,620n-us-29-highway,041260,"620N US 29 Highway, Athens, GA 30601",30601
+https://locations.tacobell.com/ga/cartersville/220-lakepoint-parkway.html,ga,cartersville,220-lakepoint-parkway,042575,"220 Lakepoint Parkway, Cartersville, GA 30121",30121
+https://locations.tacobell.com/ga/hartwell/20-west-franklin-st-.html,ga,hartwell,20-west-franklin-st-,034784,"20 West Franklin St., Hartwell, GA 30643",30643
+https://locations.tacobell.com/ga/rincon/459-south-columbia-ave-.html,ga,rincon,459-south-columbia-ave-,034861,"459 South Columbia Ave., Rincon, GA 31326",31326
+https://locations.tacobell.com/ga/clarkesville/255-washington-st-.html,ga,clarkesville,255-washington-st-,042583,"255 Washington St., Clarkesville, GA 30523",30523
+https://locations.tacobell.com/ga/cartersville/5-charley-harper-drive.html,ga,cartersville,5-charley-harper-drive,032143,"5 Charley Harper Drive, Cartersville, GA 30120",30120
+https://locations.tacobell.com/ga/ellijay/158-highland-xing-south.html,ga,ellijay,158-highland-xing-south,039943,"158 Highland Xing South, Ellijay, GA 30540",30540
+https://locations.tacobell.com/ga/canton/8021-cumming-hwy.html,ga,canton,8021-cumming-hwy,042581,"8021 Cumming Hwy Ste. 100, Canton, GA 30115",30115
+https://locations.tacobell.com/ga/villa-rica/2478-mirror-lake-blvd.html,ga,villa-rica,2478-mirror-lake-blvd,033481,"2478 Mirror Lake Blvd, Villa Rica, GA 30180",30180
+https://locations.tacobell.com/ga/savannah/4331-ogeechee-rd.html,ga,savannah,4331-ogeechee-rd,035296,"4331 Ogeechee Rd, Savannah, GA 31405",31405
+https://locations.tacobell.com/id/moscow/1429-s-blaine-st.html,id,moscow,1429-s-blaine-st,036259,"1429 S Blaine St, Moscow, ID 83843",83843
+https://locations.tacobell.com/hi/waianae/89-102-farrington-hwy.html,hi,waianae,89-102-farrington-hwy,034825,"89-102 Farrington Hwy, Waianae, HI 96792",96792
+https://locations.tacobell.com/ga/tifton/1022-w-2nd-street.html,ga,tifton,1022-w-2nd-street,036409,"1022 W 2nd Street, Tifton, GA 31794",31794
+https://locations.tacobell.com/ia/council-bluffs/1114-woodbury-ave.html,ia,council-bluffs,1114-woodbury-ave,036385,"1114 Woodbury Ave, Council Bluffs, IA 51503",51503
+https://locations.tacobell.com/ga/dublin/2416-hwy-80-west.html,ga,dublin,2416-hwy-80-west,036515,"2416 Hwy 80 West, Dublin, GA 31021",31021
+https://locations.tacobell.com/ga/calhoun/2234-north-highway-41.html,ga,calhoun,2234-north-highway-41,036011,"2234 North Highway 41, Calhoun, GA 30701",30701
+https://locations.tacobell.com/id/boise/4115-broadway-ave.html,id,boise,4115-broadway-ave,019929,"4115 Broadway Ave, Boise, ID 83705",83705
+https://locations.tacobell.com/ga/tallapoosa/882-georgia-highway-100-s.html,ga,tallapoosa,882-georgia-highway-100-s,G004001,"882 Georgia Highway 100 S, Tallapoosa, GA 30176",30176
+https://locations.tacobell.com/ga/buford/3333-buford-drive.html,ga,buford,3333-buford-drive,032055,"3333 Buford Drive, Buford, GA 30519",30519
+https://locations.tacobell.com/id/emmett/1340-s--washington-avenue.html,id,emmett,1340-s--washington-avenue,031464,"1340 S. Washington Avenue, Emmett, ID 83617",83617
+https://locations.tacobell.com/ia/walcott/755-w--iowa-80-road.html,ia,walcott,755-w--iowa-80-road,034602,"755 W. Iowa 80 Road, Walcott, IA 52773",52773
+https://locations.tacobell.com/ga/cartersville/981-cassville-white-road.html,ga,cartersville,981-cassville-white-road,315122,"981 Cassville White Road, Cartersville, GA 30121",30121
+https://locations.tacobell.com/ga/perry/1500-sam-nunn-blvd.html,ga,perry,1500-sam-nunn-blvd,034555,"1500 Sam Nunn Blvd, Perry, GA 31069",31069
+https://locations.tacobell.com/ga/albany/1700-e-oglethorpe.html,ga,albany,1700-e-oglethorpe,037161,"1700 E Oglethorpe, Albany, GA 31705",31705
+https://locations.tacobell.com/ga/barnesville/323-college-drive.html,ga,barnesville,323-college-drive,041963,"323 College Drive, Barnesville, GA 30204",30204
+https://locations.tacobell.com/ga/rossville/16-w--crest-road.html,ga,rossville,16-w--crest-road,042273,"16 W. Crest Road, Rossville, GA 30741",30741
+https://locations.tacobell.com/ia/davenport/1736-west-kimberly-road.html,ia,davenport,1736-west-kimberly-road,042419,"1736 West Kimberly Road, Davenport, IA 52806",52806
+https://locations.tacobell.com/ga/carrollton/1127-n-park-st.html,ga,carrollton,1127-n-park-st,041930,"1127 N Park St, Carrollton, GA 30117",30117
+https://locations.tacobell.com/ga/dalton/3945-cleveland-hwy-.html,ga,dalton,3945-cleveland-hwy-,042511,"3945 Cleveland Hwy., Dalton, GA 30721",30721
+https://locations.tacobell.com/ga/cumming/567-atlanta-road.html,ga,cumming,567-atlanta-road,042107,"567 Atlanta Road, Cumming, GA 30040",30040
+https://locations.tacobell.com/hi/honolulu/2500-campus-rd.html,hi,honolulu,2500-campus-rd,ERROR,ERROR,ERROR
+https://locations.tacobell.com/ga/ellenwood/3032-anvil-block-road.html,ga,ellenwood,3032-anvil-block-road,041226,"3032 Anvil Block Road, Ellenwood, GA 30294",30294
+https://locations.tacobell.com/ga/douglasville/4848-ridge-rd-.html,ga,douglasville,4848-ridge-rd-,042580,"4848 Ridge Rd., Douglasville, GA 30134",30134
+https://locations.tacobell.com/id/mountain-home-a-f-b/625-gunfighter-avenue.html,id,mountain-home-a-f-b,625-gunfighter-avenue,022670,"625 Gunfighter Avenue, Mountain Home A F B, ID 83648",83648
+https://locations.tacobell.com/ga/douglasville/6700-douglas-blvd.html,ga,douglasville,6700-douglas-blvd,032598,"6700 Douglas Blvd, Douglasville, GA 30135",30135
+https://locations.tacobell.com/ga/lawrenceville/5900-sugarloaf-pkwy.html,ga,lawrenceville,5900-sugarloaf-pkwy,026342,"5900 Sugarloaf Pkwy, Lawrenceville, GA 30043",30043
+https://locations.tacobell.com/ga/fort-gordon/3rd-ave-&-10th-st-.html,ga,fort-gordon,3rd-ave-&-10th-st-,030868,"3rd Ave & 10th St., Fort Gordon, GA 30905",30905
+https://locations.tacobell.com/ga/conyers/427-sigman-rd--nw.html,ga,conyers,427-sigman-rd--nw,036290,"427 Sigman Rd. NW, Conyers, GA 30012",30012
+https://locations.tacobell.com/ga/columbus/2932-macon-road.html,ga,columbus,2932-macon-road,037127,"2932 Macon Road, Columbus, GA 31907",31907
+https://locations.tacobell.com/ga/vidalia/1707-e-1st-street.html,ga,vidalia,1707-e-1st-street,037047,"1707 E 1st Street, Vidalia, GA 30474",30474
+https://locations.tacobell.com/ga/midland/7150-beaver-run-road.html,ga,midland,7150-beaver-run-road,037419,"7150 Beaver Run Road, Midland, GA 31820",31820
+https://locations.tacobell.com/ga/lagrange/1506-lafayette-parkway.html,ga,lagrange,1506-lafayette-parkway,039948,"1506 LaFayette Parkway, Lagrange, GA 30241",30241
+https://locations.tacobell.com/ga/atlanta/976-camp-fulton-way.html,ga,atlanta,976-camp-fulton-way,037332,"976 Camp Fulton Way, Atlanta, GA 30331",30331
+https://locations.tacobell.com/ga/buford/4104-hamilton-mill-road.html,ga,buford,4104-hamilton-mill-road,041261,"4104 Hamilton Mill Road, Buford, GA 30519",30519
+https://locations.tacobell.com/ga/kennesaw/400-ernest-w-barrett-pkwy-kennesaw-mall.html,ga,kennesaw,400-ernest-w-barrett-pkwy-kennesaw-mall,037728,"400 Ernest W Barrett Pkwy - Kennesaw Mall, Kennesaw, GA 30144",30144
+https://locations.tacobell.com/hi/kapolei/91-5431-kapolei-pkwy.html,hi,kapolei,91-5431-kapolei-pkwy,037068,"91-5431 Kapolei Pkwy, Kapolei, HI 96707",96707
+https://locations.tacobell.com/hi/kaneohe/45-1130-kamehameha-hwy.html,hi,kaneohe,45-1130-kamehameha-hwy,036239,"45-1130 Kamehameha Hwy Unit A, Kaneohe, HI 96744",96744
+https://locations.tacobell.com/ga/macon/5571-thomaston-rd.html,ga,macon,5571-thomaston-rd,037835,"5571 Thomaston Rd, Macon, GA 31220",31220
+https://locations.tacobell.com/ga/waycross/1909-memorial-drive.html,ga,waycross,1909-memorial-drive,037351,"1909 Memorial Drive, Waycross, GA 31501",31501
+https://locations.tacobell.com/ga/richmond-hill/40-oleander-street.html,ga,richmond-hill,40-oleander-street,038821,"40 Oleander Street, Richmond Hill, GA 31324",31324
+https://locations.tacobell.com/hi/kahului/1070-hookele-st-.html,hi,kahului,1070-hookele-st-,036776,"1070 Hookele St. Bldg. 3, Kahului, HI 96732",96732
+https://locations.tacobell.com/ga/chatsworth/1073-n-3rd-st.html,ga,chatsworth,1073-n-3rd-st,005033,"1073 N 3rd St, Chatsworth, GA 30705",30705
+https://locations.tacobell.com/ga/summerville/11317-highway-27.html,ga,summerville,11317-highway-27,039938,"11317 Highway 27, Summerville, GA 30747",11317
+https://locations.tacobell.com/ga/dalton/1242-cleveland-hwy.html,ga,dalton,1242-cleveland-hwy,029027,"1242 Cleveland Hwy, Dalton, GA 30721",30721
+https://locations.tacobell.com/ga/chickamauga/15-major-james-clark-gordon-dr.html,ga,chickamauga,15-major-james-clark-gordon-dr,029064,"15 Major James Clark Gordon Dr, Chickamauga, GA 30707",30707
+https://locations.tacobell.com/ga/dalton/1509-w-walnut-ave.html,ga,dalton,1509-w-walnut-ave,029008,"1509 W Walnut Ave, Dalton, GA 30721",30721
+https://locations.tacobell.com/ga/trenton/190-pace-drive.html,ga,trenton,190-pace-drive,017019,"190 Pace Drive, Trenton, GA 30752",30752
+https://locations.tacobell.com/ga/dalton/2914-e--walnut-avenue.html,ga,dalton,2914-e--walnut-avenue,029063,"2914 E. Walnut Avenue, Dalton, GA 30721",30721
+https://locations.tacobell.com/ga/fort-oglethorpe/3022-battlefield-parkway.html,ga,fort-oglethorpe,3022-battlefield-parkway,029045,"3022 Battlefield Parkway, Fort Oglethorpe, GA 30742",30742
+https://locations.tacobell.com/ga/ringgold/5422-alabama-hwy.html,ga,ringgold,5422-alabama-hwy,029030,"5422 Alabama Hwy, Ringgold, GA 30736",30736
+https://locations.tacobell.com/ga/la-fayette/902-n-main-st.html,ga,la-fayette,902-n-main-st,004142,"902 N Main St, La Fayette, GA 30728",30728
+https://locations.tacobell.com/ga/roswell/915-holcomb-brg-rd.html,ga,roswell,915-holcomb-brg-rd,041246,"915 Holcomb Brg Rd Ste A, Roswell, GA 30076",30076
+https://locations.tacobell.com/ga/gray/217-w-clinton-st.html,ga,gray,217-w-clinton-st,040430,"217 W Clinton St, Gray, GA 31032",31032
+https://locations.tacobell.com/hi/hilo/326-kilauea-ave-.html,hi,hilo,326-kilauea-ave-,037067,"326 Kilauea Ave., Hilo, HI 96720",96720
+https://locations.tacobell.com/ga/dallas/2700-charles-hardy-parkway.html,ga,dallas,2700-charles-hardy-parkway,042577,"2700 Charles Hardy Parkway, Dallas, GA 30157",30157
+https://locations.tacobell.com/ga/byron/319-north-hwy-49.html,ga,byron,319-north-hwy-49,040431,"319 North Hwy 49, Byron, GA 31008",31008
+https://locations.tacobell.com/hi/waipahu/94-790-ukee-st.html,hi,waipahu,94-790-ukee-st,009537,"94-790 Ukee St, Waipahu, HI 96797",96797
+https://locations.tacobell.com/ga/lithia-springs/987-thornton-rd.html,ga,lithia-springs,987-thornton-rd,003824,"987 Thornton Rd, Lithia Springs, GA 30122",30122
+https://locations.tacobell.com/hi/pearl-city/376-kamehameha-hwy.html,hi,pearl-city,376-kamehameha-hwy,002491,"376 Kamehameha Hwy, Pearl City, HI 96782",96782
+https://locations.tacobell.com/hi/mililani/95-1249-meheula-pkwy.html,hi,mililani,95-1249-meheula-pkwy,004454,"95-1249 Meheula Pkwy Ste 103, Mililani, HI 96789",96789
+https://locations.tacobell.com/ia/waukee/95-e--hickman.html,ia,waukee,95-e--hickman,032398,"95 E. Hickman, Waukee, IA 50263",50263
+https://locations.tacobell.com/ga/baxley/948-w--parker-street.html,ga,baxley,948-w--parker-street,024755,"948 W. Parker Street, Baxley, GA 31513",31513
+https://locations.tacobell.com/ga/macon/945-gray-hwy.html,ga,macon,945-gray-hwy,029083,"945 Gray Hwy, Macon, GA 31211",31211
+https://locations.tacobell.com/id/pocatello/941-yellowstone.html,id,pocatello,941-yellowstone,029848,"941 Yellowstone, Pocatello, ID 83201",83201
+https://locations.tacobell.com/hi/waipahu/94-050-farrington-hwy.html,hi,waipahu,94-050-farrington-hwy,004071,"94-050 Farrington Hwy, Waipahu, HI 96797",96797
+https://locations.tacobell.com/hi/honolulu/934-valkenburgh-st.html,hi,honolulu,934-valkenburgh-st,001530,"934 Valkenburgh St, Honolulu, HI 96818",96818
+https://locations.tacobell.com/ga/atlanta/930-spring-street.html,ga,atlanta,930-spring-street,042578,"930 Spring Street Suite 4, Atlanta, GA 30309",30309
+https://locations.tacobell.com/ga/lawrenceville/928-buford-drive.html,ga,lawrenceville,928-buford-drive,041320,"928 Buford Drive, Lawrenceville, GA 30043",30043
+https://locations.tacobell.com/ia/ottumwa/923-north-quincy-ave.html,ia,ottumwa,923-north-quincy-ave,030414,"923 North Quincy Ave, Ottumwa, IA 52501",52501
+https://locations.tacobell.com/hi/ewa-beach/91-763-papipi-rd.html,hi,ewa-beach,91-763-papipi-rd,004455,"91-763 Papipi Rd, Ewa Beach, HI 96706",96706
+https://locations.tacobell.com/id/nampa/906-12th-avenue-road.html,id,nampa,906-12th-avenue-road,030445,"906 12th Avenue Road, Nampa, ID 83686",83686
+https://locations.tacobell.com/ia/atlantic/905-w--seventh-street.html,ia,atlantic,905-w--seventh-street,C029049,"905 W. Seventh Street, Atlantic, IA 50022",50022
+https://locations.tacobell.com/ia/iowa-city/901-highway-6-e.html,ia,iowa-city,901-highway-6-e,037057,"901 Highway 6 E, Iowa City, IA 52240",52240
+https://locations.tacobell.com/ga/dallas/8876-dallas-acworth-hwy.html,ga,dallas,8876-dallas-acworth-hwy,042585,"8876 Dallas Acworth Hwy, Dallas, GA 30132",30132
+https://locations.tacobell.com/hi/waianae/85-752-farrington-hwy.html,hi,waianae,85-752-farrington-hwy,003496,"85-752 Farrington Hwy, Waianae, HI 96792",96792
+https://locations.tacobell.com/ga/mcdonough/830-hwy-81-e.html,ga,mcdonough,830-hwy-81-e,039939,"830 Hwy 81 E, McDonough, GA 30252",30252
+https://locations.tacobell.com/ga/warner-robins/829-russell-pkwy.html,ga,warner-robins,829-russell-pkwy,029098,"829 Russell Pkwy, Warner Robins, GA 31088",31088
+https://locations.tacobell.com/ga/jonesboro/8127-tara-blvd.html,ga,jonesboro,8127-tara-blvd,041227,"8127 Tara Blvd, Jonesboro, GA 30236",30236
+https://locations.tacobell.com/id/garden-city/8109-chinden-blvd.html,id,garden-city,8109-chinden-blvd,015345,"8109 Chinden Blvd, Garden City, ID 83714",83714
+https://locations.tacobell.com/ga/fitzgerald/809-south-grant-street.html,ga,fitzgerald,809-south-grant-street,L940004,"809 South Grant Street, Fitzgerald, GA 31750",31750
+https://locations.tacobell.com/ga/lithonia/8056-mall-parkway.html,ga,lithonia,8056-mall-parkway,041225,"8056 Mall Parkway, Lithonia, GA 30038",30038
+https://locations.tacobell.com/ia/mason-city/795-4th-st-sw.html,ia,mason-city,795-4th-st-sw,037060,"795 4th St SW, Mason City, IA 50401",50401
+https://locations.tacobell.com/ga/fairburn/7910-senoia-road.html,ga,fairburn,7910-senoia-road,042572,"7910 Senoia Road, Fairburn, GA 30213",30213
+https://locations.tacobell.com/ga/adairsville/7867-adairsville-hwy.html,ga,adairsville,7867-adairsville-hwy,018678,"7867 Adairsville Hwy, Adairsville, GA 30103",30103
+https://locations.tacobell.com/ia/marion/750-marion-blvd.html,ia,marion,750-marion-blvd,037053,"750 Marion Blvd, Marion, IA 52302",52302
+https://locations.tacobell.com/hi/kailua-kona/74-5620-palani-rd.html,hi,kailua-kona,74-5620-palani-rd,003975,"74-5620 Palani Rd, Kailua Kona, HI 96740",96740
+https://locations.tacobell.com/ga/columbus/7330-veterans-parkway.html,ga,columbus,7330-veterans-parkway,029097,"7330 Veterans Parkway, Columbus, GA 31906",31906
+https://locations.tacobell.com/ga/griffin/731-w--taylor-st-.html,ga,griffin,731-w--taylor-st-,039945,"731 W. Taylor St., Griffin, GA 30223",30223
+https://locations.tacobell.com/ga/statesboro/729-northside-dr-e.html,ga,statesboro,729-northside-dr-e,039923,"729 Northside Dr E, Statesboro, GA 30458",30458
+https://locations.tacobell.com/ga/americus/723-east-forsyth-street.html,ga,americus,723-east-forsyth-street,029105,"723 East Forsyth Street, Americus, GA 31709",31709
+https://locations.tacobell.com/ga/port-wentworth/7205-highway-21.html,ga,port-wentworth,7205-highway-21,032078,"7205 Highway 21, Port Wentworth, GA 31407",31407
+https://locations.tacobell.com/hi/honolulu/7192-kalanianaole-hwy.html,hi,honolulu,7192-kalanianaole-hwy,004072,"7192 Kalanianaole Hwy, Honolulu, HI 96825",96825
+https://locations.tacobell.com/hi/honolulu/717-kapahulu-ave.html,hi,honolulu,717-kapahulu-ave,001281,"717 Kapahulu Ave, Honolulu, HI 96816",96816
+https://locations.tacobell.com/ga/warner-robins/715-lake-joy-rd.html,ga,warner-robins,715-lake-joy-rd,029291,"715 Lake Joy Rd, Warner Robins, GA 31088",31088
+https://locations.tacobell.com/ga/toccoa/713-big-a-rd.html,ga,toccoa,713-big-a-rd,027341,"713 Big A Rd, Toccoa, GA 30577",30577
+https://locations.tacobell.com/ga/camilla/71-u-s--highway-19-north.html,ga,camilla,71-u-s--highway-19-north,041838,"71 U.S. Highway 19 North, Camilla, GA 31730",31730
+https://locations.tacobell.com/id/boise/7070-overland-road.html,id,boise,7070-overland-road,017387,"7070 Overland Road, Boise, ID 83709",83709
+https://locations.tacobell.com/ia/oskaloosa/702-a-ave--west.html,ia,oskaloosa,702-a-ave--west,031069,"702 A Ave. West, Oskaloosa, IA 52577",52577
+https://locations.tacobell.com/ia/mount-pleasant/701-wohlleber-drive.html,ia,mount-pleasant,701-wohlleber-drive,G160005,"701 Wohlleber Drive, Mount Pleasant, IA 52641",52641
+https://locations.tacobell.com/ga/riverdale/6865-hwy-85.html,ga,riverdale,6865-hwy-85,041211,"6865 Hwy 85, Riverdale, GA 30274",30274
+https://locations.tacobell.com/ga/lawrenceville/685-duluth-hwy.html,ga,lawrenceville,685-duluth-hwy,041249,"685 Duluth Hwy, Lawrenceville, GA 30045",30045
+https://locations.tacobell.com/ga/acworth/6760-highway-92.html,ga,acworth,6760-highway-92,G135092,"6760 Highway 92, Acworth, GA 30102",30102
+https://locations.tacobell.com/ga/sandy-springs/6560-roswell-rd.html,ga,sandy-springs,6560-roswell-rd,002994,"6560 Roswell Rd, Sandy Springs, GA 30328",30328
+https://locations.tacobell.com/id/eagle/6560-n--linder-road.html,id,eagle,6560-n--linder-road,030443,"6560 N. Linder Road, Eagle, ID 83616",83616
+https://locations.tacobell.com/id/boise/6521-fairview-ave.html,id,boise,6521-fairview-ave,003701,"6521 Fairview Ave, Boise, ID 83704",83704
+https://locations.tacobell.com/id/meridian/645-s-main-st.html,id,meridian,645-s-main-st,016796,"645 S Main St, Meridian, ID 83642",83642
+https://locations.tacobell.com/ia/des-moines/640-southwest-9th-st.html,ia,des-moines,640-southwest-9th-st,030417,"640 Southwest 9th St, Des Moines, IA 50309",50309
+https://locations.tacobell.com/id/burley/632-overland-ave.html,id,burley,632-overland-ave,031418,"632 Overland Ave, Burley, ID 83318",83318
+https://locations.tacobell.com/ga/morrow/6259-jonesboro-rd.html,ga,morrow,6259-jonesboro-rd,041219,"6259 Jonesboro Rd, Morrow, GA 30260",30260
+https://locations.tacobell.com/ia/cedar-rapids/624-1st-ave-ne.html,ia,cedar-rapids,624-1st-ave-ne,037052,"624 1st Ave NE, Cedar Rapids, IA 52401",52401
+https://locations.tacobell.com/ga/macon/6215-zebulon-road.html,ga,macon,6215-zebulon-road,029094,"6215 Zebulon Road, Macon, GA 31210",31210
+https://locations.tacobell.com/ga/covington/6151-hwy-278-nw.html,ga,covington,6151-hwy-278-nw,003717,"6151 Hwy 278 NW, Covington, GA 30014",30014
+https://locations.tacobell.com/hi/honolulu/615-waiakamilo-ave.html,hi,honolulu,615-waiakamilo-ave,001370,"615 Waiakamilo Ave, Honolulu, HI 96817",96817
+https://locations.tacobell.com/ga/canton/6113-hickory-flat-highway.html,ga,canton,6113-hickory-flat-highway,041319,"6113 Hickory Flat Highway, Canton, GA 30115",30115
+https://locations.tacobell.com/ia/cedar-falls/6023-university-avenue.html,ia,cedar-falls,6023-university-avenue,030398,"6023 University Avenue, Cedar Falls, IA 50613",50613
+https://locations.tacobell.com/ga/waynesboro/600-hopkins-corner-drive.html,ga,waynesboro,600-hopkins-corner-drive,E960038,"600 Hopkins Corner Drive, Waynesboro, GA 30830",30830
+https://locations.tacobell.com/ga/cleveland/60-parkway-plaza.html,ga,cleveland,60-parkway-plaza,041259,"60 Parkway Plaza, Cleveland, GA 30528",30528
+https://locations.tacobell.com/ga/cumming/5945-bethelview-road.html,ga,cumming,5945-bethelview-road,041256,"5945 Bethelview Road, Cumming, GA 30040",30040
+https://locations.tacobell.com/ga/elberton/593-elbert-st.html,ga,elberton,593-elbert-st,027312,"593 Elbert St, Elberton, GA 30635",30635
+https://locations.tacobell.com/hi/kapolei/590-farrington-hwy.html,hi,kapolei,590-farrington-hwy,005670,"590 Farrington Hwy, Kapolei, HI 96707",96707
+https://locations.tacobell.com/ga/douglasville/5845-stewart-parkway.html,ga,douglasville,5845-stewart-parkway,041248,"5845 Stewart Parkway, Douglasville, GA 30135",30135
+https://locations.tacobell.com/ga/douglasville/5753-fairburn-road.html,ga,douglasville,5753-fairburn-road,026073,"5753 Fairburn Road, Douglasville, GA 30134",30134
+https://locations.tacobell.com/ga/carrollton/565-bankhead-hwy.html,ga,carrollton,565-bankhead-hwy,003859,"565 Bankhead Hwy, Carrollton, GA 30117",30117
+https://locations.tacobell.com/ga/jackson/561-e-third-street.html,ga,jackson,561-e-third-street,041798,"561 E Third Street, Jackson, GA 30233",30233
+https://locations.tacobell.com/hi/laie/55-510-kamehameha-hwy.html,hi,laie,55-510-kamehameha-hwy,031267,"55-510 Kamehameha Hwy Ste 7, Laie, HI 96762",96762
+https://locations.tacobell.com/ia/cedar-rapids/555-sw-33rd-avenue.html,ia,cedar-rapids,555-sw-33rd-avenue,037056,"555 SW 33rd Avenue, Cedar Rapids, IA 52404",52404
+https://locations.tacobell.com/ga/dacula/555-dacula-road.html,ga,dacula,555-dacula-road,041322,"555 Dacula Road, Dacula, GA 30019",30019
+https://locations.tacobell.com/ga/norcross/5518-jimmy-carter-blvd.html,ga,norcross,5518-jimmy-carter-blvd,041224,"5518 Jimmy Carter Blvd, Norcross, GA 30093",30093
+https://locations.tacobell.com/ga/blue-ridge/5475-appalachian-hwy.html,ga,blue-ridge,5475-appalachian-hwy,027308,"5475 Appalachian Hwy, Blue Ridge, GA 30513",30513
+https://locations.tacobell.com/ga/peachtree-corners/5460-peachtree-parkway.html,ga,peachtree-corners,5460-peachtree-parkway,041258,"5460 Peachtree Parkway, Peachtree Corners, GA 30092",30092
+https://locations.tacobell.com/ga/atlanta/545-lee-st-sw.html,ga,atlanta,545-lee-st-sw,001846,"545 Lee St SW, Atlanta, GA 30310",30310
+https://locations.tacobell.com/ga/lithonia/5385-fairington-rd-.html,ga,lithonia,5385-fairington-rd-,041228,"5385 Fairington Rd., Lithonia, GA 30038",30038
+https://locations.tacobell.com/ga/stone-mountain/5201-memorial-drive.html,ga,stone-mountain,5201-memorial-drive,041209,"5201 Memorial Drive, Stone Mountain, GA 30083",30083
+https://locations.tacobell.com/ga/smyrna/5161-s--cobb-dr-.html,ga,smyrna,5161-s--cobb-dr-,004740,"5161 S. Cobb Dr., Smyrna, GA 30080",30080
+https://locations.tacobell.com/ga/stone-mountain/5160-hwy-78.html,ga,stone-mountain,5160-hwy-78,041213,"5160 Hwy 78, Stone Mountain, GA 30087",30087
+https://locations.tacobell.com/ga/college-park/5119-old-national-highway.html,ga,college-park,5119-old-national-highway,016289,"5119 Old National Highway, College Park, GA 30349",30349
+https://locations.tacobell.com/ga/acworth/5080-cherokee-st.html,ga,acworth,5080-cherokee-st,041242,"5080 Cherokee St, Acworth, GA 30101",30101
+https://locations.tacobell.com/ga/sylvester/501-east-franklin-street.html,ga,sylvester,501-east-franklin-street,L940008,"501 East Franklin Street, Sylvester, GA 31791",31791
+https://locations.tacobell.com/ga/suwanee/50-celebration-drive.html,ga,suwanee,50-celebration-drive,041232,"50 Celebration Drive, Suwanee, GA 30024",30024
+https://locations.tacobell.com/ga/moultrie/496-veterans-parkway-n.html,ga,moultrie,496-veterans-parkway-n,029108,"496 Veterans Parkway N, Moultrie, GA 31788",31788
+https://locations.tacobell.com/ga/brunswick/4930-new-jesup-hwy.html,ga,brunswick,4930-new-jesup-hwy,023702,"4930 New Jesup Hwy, Brunswick, GA 31520",31520
+https://locations.tacobell.com/hi/kapaa/4-927-kuhio-hwy.html,hi,kapaa,4-927-kuhio-hwy,004865,"4-927 Kuhio Hwy, Kapaa, HI 96746",96746
+https://locations.tacobell.com/ga/lawrenceville/4880-sugarloaf-parkway.html,ga,lawrenceville,4880-sugarloaf-parkway,041251,"4880 Sugarloaf Parkway, Lawrenceville, GA 30044",30044
+https://locations.tacobell.com/ga/marietta/4880-lower-roswell-rd.html,ga,marietta,4880-lower-roswell-rd,003889,"4880 Lower Roswell Rd, Marietta, GA 30068",30068
+https://locations.tacobell.com/ia/des-moines/4875-merle-hay-ln.html,ia,des-moines,4875-merle-hay-ln,030970,"4875 Merle Hay Ln, Des Moines, IA 50310",50310
+https://locations.tacobell.com/ga/jefferson/4821-us-hwy-129-north.html,ga,jefferson,4821-us-hwy-129-north,E960052,"4821 US Hwy 129 North, Jefferson, GA 30549",30549
+https://locations.tacobell.com/ga/calhoun/481-highway-53-e.html,ga,calhoun,481-highway-53-e,003841,"481 Highway 53 E, Calhoun, GA 30701",30701
+https://locations.tacobell.com/ga/holly-springs/4808-holly-springs-parkway.html,ga,holly-springs,4808-holly-springs-parkway,032577,"4808 Holly Springs Parkway, Holly Springs, GA 30115",30115
+https://locations.tacobell.com/id/ponderay/476930-hwy-95-n.html,id,ponderay,476930-hwy-95-n,020088,"476930 Hwy 95 N, Ponderay, ID 83852",47693
+https://locations.tacobell.com/ga/roswell/4720-alabama-rd--ne.html,ga,roswell,4720-alabama-rd--ne,041800,"4720 Alabama Rd. NE, Roswell, GA 30075",30075
+https://locations.tacobell.com/ga/union-city/4661-jonesboro-rd.html,ga,union-city,4661-jonesboro-rd,005323,"4661 Jonesboro Rd, Union City, GA 30291",30291
+https://locations.tacobell.com/ga/suwanee/455-peachtree-industrial-blvd.html,ga,suwanee,455-peachtree-industrial-blvd,041237,"455 Peachtree Industrial Blvd, Suwanee, GA 30024",30024
+https://locations.tacobell.com/hi/honolulu/4510-salt-lake-blvd.html,hi,honolulu,4510-salt-lake-blvd,003641,"4510 Salt Lake Blvd, Honolulu, HI 96818",96818
+https://locations.tacobell.com/ga/dallas/451-nathan-dean-blvd.html,ga,dallas,451-nathan-dean-blvd,042574,"451 Nathan Dean Blvd, Dallas, GA 30132",30132
+https://locations.tacobell.com/ga/hiram/4495-jimmy-lee-smith-parkway.html,ga,hiram,4495-jimmy-lee-smith-parkway,018166,"4495 Jimmy Lee Smith Parkway, Hiram, GA 30141",30141
+https://locations.tacobell.com/ga/forest-park/4465-jonesboro.html,ga,forest-park,4465-jonesboro,041215,"4465 Jonesboro, Forest Park, GA 30297",30297
+https://locations.tacobell.com/hi/lihue/4422-kukui-grove-st.html,hi,lihue,4422-kukui-grove-st,003488,"4422 Kukui Grove St, Lihue, HI 96766",96766
+https://locations.tacobell.com/ga/kennesaw/4370-wade-green-road.html,ga,kennesaw,4370-wade-green-road,016821,"4370 Wade Green Road, Kennesaw, GA 30144",30144
+https://locations.tacobell.com/ga/columbus/4348-buena-vista-rd.html,ga,columbus,4348-buena-vista-rd,029102,"4348 Buena Vista Rd, Columbus, GA 31906",31906
+https://locations.tacobell.com/ga/loganville/4335-atlanta-hwy.html,ga,loganville,4335-atlanta-hwy,041253,"4335 Atlanta Hwy, Loganville, GA 30052",30052
+https://locations.tacobell.com/ga/tucker/4295-lawrenceville-highway.html,ga,tucker,4295-lawrenceville-highway,G135082,"4295 Lawrenceville Highway, Tucker, GA 30084",30084
+https://locations.tacobell.com/ga/evans/4292-washington-rd.html,ga,evans,4292-washington-rd,023716,"4292 Washington Rd, Evans, GA 30809",30809
+https://locations.tacobell.com/ga/buford/4291-hwy-20.html,ga,buford,4291-hwy-20,041233,"4291 Hwy 20, Buford, GA 30518",30518
+https://locations.tacobell.com/ga/atlanta/429-ponce-de-leon-ave.html,ga,atlanta,429-ponce-de-leon-ave,003668,"429 Ponce De Leon Ave, Atlanta, GA 30308",30308
+https://locations.tacobell.com/ia/sioux-city/4220-s-lewis-blvd.html,ia,sioux-city,4220-s-lewis-blvd,037481,"4220 S Lewis Blvd, Sioux City, IA 51106",51106
+https://locations.tacobell.com/id/nampa/4226-garrity-blvd.html,id,nampa,4226-garrity-blvd,030720,"4226 Garrity Blvd, Nampa, ID 83687",83687
+https://locations.tacobell.com/hi/honolulu/4211-waialae-ave.html,hi,honolulu,4211-waialae-ave,009243,"4211 Waialae Ave, Honolulu, HI 96816",96816
+https://locations.tacobell.com/ia/ames/421-s-duff-avenue.html,ia,ames,421-s-duff-avenue,030421,"421 S Duff Avenue, Ames, IA 50010",50010
+https://locations.tacobell.com/ga/warner-robins/419-n-davis-dr.html,ga,warner-robins,419-n-davis-dr,029086,"419 N Davis Dr, Warner Robins, GA 31093",31093
+https://locations.tacobell.com/ga/martinez/415-s-belair-road.html,ga,martinez,415-s-belair-road,024675,"415 S Belair Road, Martinez, GA 30907",30907
+https://locations.tacobell.com/ga/swainsboro/412-south-main-street.html,ga,swainsboro,412-south-main-street,031086,"412 South Main Street, Swainsboro, GA 30401",30401
+https://locations.tacobell.com/ga/powder-springs/4042-powder-springs-rd.html,ga,powder-springs,4042-powder-springs-rd,041229,"4042 Powder Springs Rd, Powder Springs, GA 30127",30127
+https://locations.tacobell.com/ga/macon/4040-bloomfield-rd.html,ga,macon,4040-bloomfield-rd,029085,"4040 Bloomfield Rd, Macon, GA 31206",31206
+https://locations.tacobell.com/ga/cartersville/403-e-main-street.html,ga,cartersville,403-e-main-street,003779,"403 E Main Street, Cartersville, GA 30121",30121
+https://locations.tacobell.com/ga/norcross/4025-holcomb-bridge-rd.html,ga,norcross,4025-holcomb-bridge-rd,G135066,"4025 Holcomb Bridge Rd, Norcross, GA 30092",30092
+https://locations.tacobell.com/ia/red-oak/400-senate-avenue.html,ia,red-oak,400-senate-avenue,C029048,"400 Senate Avenue, Red Oak, IA 51566",51566
+https://locations.tacobell.com/ga/valdosta/3946-bemiss-road.html,ga,valdosta,3946-bemiss-road,029104,"3946 Bemiss Road, Valdosta, GA 31605",31605
+https://locations.tacobell.com/ga/stockbridge/3887-highway-138-se.html,ga,stockbridge,3887-highway-138-se,003648,"3887 Highway 138 SE, Stockbridge, GA 30281",30281
+https://locations.tacobell.com/ga/bethlehem/384-exchange-blvd.html,ga,bethlehem,384-exchange-blvd,041240,"384 Exchange Blvd, Bethlehem, GA 30620",30620
+https://locations.tacobell.com/id/boise/3680-n-eagle-rd.html,id,boise,3680-n-eagle-rd,027610,"3680 N Eagle Rd, Boise, ID 83713",83713
+https://locations.tacobell.com/ga/decatur/3644-flat-shoals-road.html,ga,decatur,3644-flat-shoals-road,041214,"3644 Flat Shoals Road, Decatur, GA 30034",30034
+https://locations.tacobell.com/ga/oakwood/3615-mundy-mill-rd.html,ga,oakwood,3615-mundy-mill-rd,041247,"3615 Mundy Mill Rd, Oakwood, GA 30566",30566
+https://locations.tacobell.com/ga/atlanta/3604-bakers-ferry-rd-sw.html,ga,atlanta,3604-bakers-ferry-rd-sw,G135107,"3604 Bakers Ferry Rd SW, Atlanta, GA 30331",30331
+https://locations.tacobell.com/ga/suwanee/3579-peachtree-pkwy.html,ga,suwanee,3579-peachtree-pkwy,041235,"3579 Peachtree Pkwy, Suwanee, GA 30024",30024
+https://locations.tacobell.com/ga/east-point/3517-camp-creek-parkway.html,ga,east-point,3517-camp-creek-parkway,024364,"3517 Camp Creek Parkway, East Point, GA 30344",30344
+https://locations.tacobell.com/ga/marietta/3480-ernest-w-barrett-pkwy-sw.html,ga,marietta,3480-ernest-w-barrett-pkwy-sw,041801,"3480 Ernest W Barrett Pkwy SW, Marietta, GA 30064",30064
+https://locations.tacobell.com/ga/columbus/3456-victory-drive.html,ga,columbus,3456-victory-drive,029103,"3456 Victory Drive, Columbus, GA 31903",31903
+https://locations.tacobell.com/ga/sharpsburg/3410-highway-34-e.html,ga,sharpsburg,3410-highway-34-e,039935,"3410 Highway 34 E, Sharpsburg, GA 30277",30277
+https://locations.tacobell.com/ga/acworth/3390-cobb-parkway-n-w-.html,ga,acworth,3390-cobb-parkway-n-w-,041255,"3390 Cobb Parkway N.W., Acworth, GA 30101",30101
+https://locations.tacobell.com/ga/atlanta/3385-buford-hwy.html,ga,atlanta,3385-buford-hwy,041250,"3385 Buford Hwy, Atlanta, GA 30329",30329
+https://locations.tacobell.com/id/boise/3377-west-state.html,id,boise,3377-west-state,003798,"3377 West State, Boise, ID 83703",83703
+https://locations.tacobell.com/ia/keokuk/3356-main-street.html,ia,keokuk,3356-main-street,036533,"3356 Main Street, Keokuk, IA 52632",52632
+https://locations.tacobell.com/ia/dubuque/3300-hillcrest-road.html,ia,dubuque,3300-hillcrest-road,037054,"3300 Hillcrest Road, Dubuque, IA 52002",52002
+https://locations.tacobell.com/ga/cairo/329-us-hwy-84-e.html,ga,cairo,329-us-hwy-84-e,041835,"329 US Hwy 84 E, Cairo, GA 39828",39828
+https://locations.tacobell.com/ga/doraville/3283-northcrest-rd.html,ga,doraville,3283-northcrest-rd,041799,"3283 Northcrest Rd, Doraville, GA 30340",30340
+https://locations.tacobell.com/ga/kennesaw/3240-barrett-lakes-blvd-nw.html,ga,kennesaw,3240-barrett-lakes-blvd-nw,027711,"3240 Barrett Lakes Blvd NW, Kennesaw, GA 30144",30144
+https://locations.tacobell.com/ga/augusta/3222-wrightsboro-rd.html,ga,augusta,3222-wrightsboro-rd,023715,"3222 Wrightsboro Rd, Augusta, GA 30909",30909
+https://locations.tacobell.com/ia/spencer/320-11th-st-sw-plaza.html,ia,spencer,320-11th-st-sw-plaza,037478,"320 11th St SW Plaza, Spencer, IA 51301",51301
+https://locations.tacobell.com/ga/athens/3196-atlanta-highway.html,ga,athens,3196-atlanta-highway,041802,"3196 Atlanta Highway, Athens, GA 30606",30606
+https://locations.tacobell.com/ia/council-bluffs/318-e-broadway.html,ia,council-bluffs,318-e-broadway,035265,"318 E Broadway, Council Bluffs, IA 51503",51503
+https://locations.tacobell.com/ia/council-bluffs/3150-dial-drive.html,ia,council-bluffs,3150-dial-drive,035266,"3150 Dial Drive, Council Bluffs, IA 51501",51501
+https://locations.tacobell.com/ga/la-grange/314-new-franklin-rd.html,ga,la-grange,314-new-franklin-rd,039933,"314 New Franklin Rd, La Grange, GA 30240",30240
+https://locations.tacobell.com/ga/locust-grove/313-tanger-blvd-.html,ga,locust-grove,313-tanger-blvd-,031389,"313 Tanger Blvd., Locust Grove, GA 30248",30248
+https://locations.tacobell.com/ia/sioux-city/3115-gordon-drive.html,ia,sioux-city,3115-gordon-drive,037477,"3115 Gordon Drive, Sioux City, IA 51106",51106
+https://locations.tacobell.com/ga/augusta/3104-peach-orchard-rd.html,ga,augusta,3104-peach-orchard-rd,023705,"3104 Peach Orchard Rd, Augusta, GA 30906",30906
+https://locations.tacobell.com/ga/winder/31-east-may-street.html,ga,winder,31-east-may-street,041234,"31 East May Street, Winder, GA 30680",30680
+https://locations.tacobell.com/ga/commerce/30842-highway-441-south.html,ga,commerce,30842-highway-441-south,004531,"30842 Highway 441 South, Commerce, GA 30529",30842
+https://locations.tacobell.com/ia/centerville/306-east-maple.html,ia,centerville,306-east-maple,K055004,"306 East Maple, Centerville, IA 52544",52544
+https://locations.tacobell.com/ia/fort-dodge/3057-first-avenue-s-.html,ia,fort-dodge,3057-first-avenue-s-,C029066,"3057 First Avenue S., Fort Dodge, IA 50501",50501
+https://locations.tacobell.com/ia/cedar-rapids/3045-williams-blvd-sw.html,ia,cedar-rapids,3045-williams-blvd-sw,037058,"3045 Williams Blvd SW, Cedar Rapids, IA 52404",52404
+https://locations.tacobell.com/ga/clayton/303-highway-441-n.html,ga,clayton,303-highway-441-n,039947,"303 Highway 441 N, Clayton, GA 30525",30525
+https://locations.tacobell.com/ga/valdosta/3022-n-ashley-st-.html,ga,valdosta,3022-n-ashley-st-,029106,"3022 N Ashley St., Valdosta, GA 31602",31602
+https://locations.tacobell.com/ga/wrens/302-north-main-street.html,ga,wrens,302-north-main-street,G135691,"302 North Main Street, Wrens, GA 30833",30833
+https://locations.tacobell.com/ga/savannah/302-mall-blvd.html,ga,savannah,302-mall-blvd,039918,"302 Mall Blvd, Savannah, GA 31406",31406
+https://locations.tacobell.com/ga/woodstock/3010-eagle-drive.html,ga,woodstock,3010-eagle-drive,041254,"3010 Eagle Drive, Woodstock, GA 30189",30189
+https://locations.tacobell.com/ga/hinesville/301-w--general-screven-way.html,ga,hinesville,301-w--general-screven-way,039924,"301 W. General Screven Way, Hinesville, GA 31313",31313
+https://locations.tacobell.com/ia/muscatine/300-cleveland.html,ia,muscatine,300-cleveland,036349,"300 Cleveland, Muscatine, IA 52761",52761
+https://locations.tacobell.com/ga/marietta/2971-shallowford-rd.html,ga,marietta,2971-shallowford-rd,005623,"2971 Shallowford Rd, Marietta, GA 30066",30066
+https://locations.tacobell.com/ga/east-point/2951-legion-way.html,ga,east-point,2951-legion-way,039934,"2951 Legion Way, East Point, GA 30344",30344
+https://locations.tacobell.com/ga/marietta/2943-canton-rd.html,ga,marietta,2943-canton-rd,041243,"2943 Canton Rd, Marietta, GA 30066",30066
+https://locations.tacobell.com/ga/lawrenceville/2929-fiveforks-trickum-rd.html,ga,lawrenceville,2929-fiveforks-trickum-rd,041210,"2929 Fiveforks Trickum Rd, Lawrenceville, GA 30044",30044
+https://locations.tacobell.com/ga/hiawassee/29-longview-drive.html,ga,hiawassee,29-longview-drive,039936,"29 Longview Drive, Hiawassee, GA 30546",30546
+https://locations.tacobell.com/ga/augusta/2850-washington-rd.html,ga,augusta,2850-washington-rd,023707,"2850 Washington Rd, Augusta, GA 30909",30909
+https://locations.tacobell.com/id/jerome/2811-s-lincoln-ave.html,id,jerome,2811-s-lincoln-ave,032148,"2811 S Lincoln Ave, Jerome, ID 83338",83338
+https://locations.tacobell.com/id/caldwell/2807-east-cleveland-blvd.html,id,caldwell,2807-east-cleveland-blvd,018676,"2807 East Cleveland Blvd, Caldwell, ID 83605",83605
+https://locations.tacobell.com/ga/rome/2837-martha-berry-highway-nw.html,ga,rome,2837-martha-berry-highway-nw,030467,"2837 Martha Berry Highway NW, Rome, GA 30165",30165
+https://locations.tacobell.com/ia/burlington/2761-mt-pleasant-street.html,ia,burlington,2761-mt-pleasant-street,036352,"2761 Mt Pleasant Street, Burlington, IA 52601",52601
+https://locations.tacobell.com/ia/council-bluffs/2759-west-broadway.html,ia,council-bluffs,2759-west-broadway,035267,"2759 West Broadway, Council Bluffs, IA 51501",51501
+https://locations.tacobell.com/id/idaho-falls/2740-south-hitt-road.html,id,idaho-falls,2740-south-hitt-road,029853,"2740 South Hitt Road, Idaho Falls, ID 83404",83404
+https://locations.tacobell.com/ga/douglasville/2720-highway-92.html,ga,douglasville,2720-highway-92,031633,"2720 Highway 92, Douglasville, GA 30135",30135
+https://locations.tacobell.com/ga/warner-robins/2719-watson-blvd-.html,ga,warner-robins,2719-watson-blvd-,029101,"2719 Watson Blvd., Warner Robins, GA 31093",31093
+https://locations.tacobell.com/id/coeur-d-alene/268-w-hanley-ave.html,id,coeur-d-alene,268-w-hanley-ave,023490,"268 W Hanley Ave, Coeur D Alene, ID 83815",83815
+https://locations.tacobell.com/ga/cumming/2660-freedom-parkway.html,ga,cumming,2660-freedom-parkway,024596,"2660 Freedom Parkway, Cumming, GA 30041",30041
+https://locations.tacobell.com/ia/altoona/2639-adventureland-dr.html,ia,altoona,2639-adventureland-dr,G160018,"2639 Adventureland Dr, Altoona, IA 50009",50009
+https://locations.tacobell.com/ga/savannah/2631-skidaway-rd.html,ga,savannah,2631-skidaway-rd,039919,"2631 Skidaway Rd, Savannah, GA 31404",31404
+https://locations.tacobell.com/ga/smyrna/2624-cobb-pkwy-se.html,ga,smyrna,2624-cobb-pkwy-se,002995,"2624 Cobb Pkwy SE, Smyrna, GA 30080",30080
+https://locations.tacobell.com/ia/cedar-rapids/2621-blairs-ferry-rd-ne.html,ia,cedar-rapids,2621-blairs-ferry-rd-ne,037055,"2621 Blairs Ferry Rd NE, Cedar Rapids, IA 52402",52402
+https://locations.tacobell.com/ga/buford/2583-hamilton-mill-road.html,ga,buford,2583-hamilton-mill-road,027858,"2583 Hamilton Mill Road, Buford, GA 30519",30519
+https://locations.tacobell.com/ga/marietta/2540-delk-rd-se.html,ga,marietta,2540-delk-rd-se,G135091,"2540 Delk Rd SE, Marietta, GA 30067",30067
+https://locations.tacobell.com/ga/hephzibah/2517-tobacco-rd.html,ga,hephzibah,2517-tobacco-rd,023717,"2517 Tobacco Rd, Hephzibah, GA 30815",30815
+https://locations.tacobell.com/ga/milledgeville/2495-n-columbia-st.html,ga,milledgeville,2495-n-columbia-st,029084,"2495 N Columbia St, Milledgeville, GA 31061",31061
+https://locations.tacobell.com/ga/fayetteville/246-banks-crossing.html,ga,fayetteville,246-banks-crossing,041220,"246 Banks Crossing, Fayetteville, GA 30214",30214
+https://locations.tacobell.com/ga/columbus/2450-airport-thruway.html,ga,columbus,2450-airport-thruway,029070,"2450 Airport Thruway, Columbus, GA 31903",31903
+https://locations.tacobell.com/ga/dahlonega/245-morrison-moore-pkwy-e-.html,ga,dahlonega,245-morrison-moore-pkwy-e-,041244,"245 Morrison Moore Pkwy E., Dahlonega, GA 30533",30533
+https://locations.tacobell.com/ga/decatur/2436-wesley-chapel-rd.html,ga,decatur,2436-wesley-chapel-rd,041216,"2436 Wesley Chapel Rd, Decatur, GA 30035",30035
+https://locations.tacobell.com/ga/buford/2422-hancock-drive.html,ga,buford,2422-hancock-drive,042576,"2422 Hancock Drive, Buford, GA 30519",30519
+https://locations.tacobell.com/ga/atlanta/2420-n-druid-hills-rd-ne.html,ga,atlanta,2420-n-druid-hills-rd-ne,003652,"2420 N Druid Hills Rd NE, Atlanta, GA 30329",30329
+https://locations.tacobell.com/ga/conyers/2415-salem-rd-.html,ga,conyers,2415-salem-rd-,023238,"2415 Salem Rd., Conyers, GA 30013",30013
+https://locations.tacobell.com/ia/dubuque/240-south-locust-street.html,ia,dubuque,240-south-locust-street,037059,"240 South Locust Street, Dubuque, IA 52001",52001
+https://locations.tacobell.com/ga/ellenwood/232-fairview-road.html,ga,ellenwood,232-fairview-road,041223,"232 Fairview Road, Ellenwood, GA 30294",30294
+https://locations.tacobell.com/ga/newnan/226-bullsboro-dr.html,ga,newnan,226-bullsboro-dr,039931,"226 Bullsboro Dr, Newnan, GA 30263",30263
+https://locations.tacobell.com/ga/cedartown/225-n-main-st.html,ga,cedartown,225-n-main-st,027307,"225 N Main St, Cedartown, GA 30125",30125
+https://locations.tacobell.com/ga/rome/2220-shorter-ave--nw.html,ga,rome,2220-shorter-ave--nw,026676,"2220 Shorter Ave. NW, Rome, GA 30165",30165
+https://locations.tacobell.com/ga/smyrna/2204-s-cobb-dr-se.html,ga,smyrna,2204-s-cobb-dr-se,041236,"2204 S Cobb Dr SE, Smyrna, GA 30080",30080
+https://locations.tacobell.com/id/rexburg/22-west-main-street.html,id,rexburg,22-west-main-street,029852,"22 West Main Street, Rexburg, ID 83440",83440
+https://locations.tacobell.com/ga/athens/2197-w-broad-st.html,ga,athens,2197-w-broad-st,041231,"2197 W Broad St, Athens, GA 30606",30606
+https://locations.tacobell.com/id/coeur-d-alene/217-w-appleway-ave.html,id,coeur-d-alene,217-w-appleway-ave,023488,"217 W Appleway Ave, Coeur D Alene, ID 83814",83814
+https://locations.tacobell.com/ga/marietta/2169-roswell-rd.html,ga,marietta,2169-roswell-rd,003404,"2169 Roswell Rd, Marietta, GA 30062",30062
+https://locations.tacobell.com/ga/dublin/2163-us-highway-441-s.html,ga,dublin,2163-us-highway-441-s,029093,"2163 US Highway 441 S, Dublin, GA 31021",31021
+https://locations.tacobell.com/ga/duluth/2121-pleasant-hill-road.html,ga,duluth,2121-pleasant-hill-road,002425,"2121 Pleasant Hill Road, Duluth, GA 30096",30096
+https://locations.tacobell.com/hi/hilo/2100-kanoelehua-ave.html,hi,hilo,2100-kanoelehua-ave,004267,"2100 Kanoelehua Ave, Hilo, HI 96720",96720
+https://locations.tacobell.com/ga/chamblee/2081-savoy-drive.html,ga,chamblee,2081-savoy-drive,003408,"2081 Savoy Drive, Chamblee, GA 30341",30341
+https://locations.tacobell.com/ga/athens/2075-barnett-shoals-road.html,ga,athens,2075-barnett-shoals-road,041238,"2075 Barnett Shoals Road, Athens, GA 30605",30605
+https://locations.tacobell.com/ga/snellville/2019-scenic-hwy-n.html,ga,snellville,2019-scenic-hwy-n,041221,"2019 Scenic Hwy N, Snellville, GA 30078",30078
+https://locations.tacobell.com/ga/gainesville/1957-jesse-jewell-pkwy.html,ga,gainesville,1957-jesse-jewell-pkwy,042573,"1957 Jesse Jewell Pkwy, Gainesville, GA 30501",30501
+https://locations.tacobell.com/id/twin-falls/1920-blue-lakes-blvd-north.html,id,twin-falls,1920-blue-lakes-blvd-north,017742,"1920 Blue Lakes Blvd North, Twin Falls, ID 83301",83301
+https://locations.tacobell.com/ga/kennesaw/1906-north-cobb-pkwy.html,ga,kennesaw,1906-north-cobb-pkwy,004026,"1906 North Cobb Pkwy, Kennesaw, GA 30152",30152
+https://locations.tacobell.com/ga/morrow/1877-mt-zion-rd.html,ga,morrow,1877-mt-zion-rd,041217,"1877 Mt Zion Rd, Morrow, GA 30260",30260
+https://locations.tacobell.com/ga/canton/1859-marietta-highway.html,ga,canton,1859-marietta-highway,004091,"1859 Marietta Highway, Canton, GA 30114",30114
+https://locations.tacobell.com/ga/grayson/1855-grayson-highway.html,ga,grayson,1855-grayson-highway,041321,"1855 Grayson Highway, Grayson, GA 30017",30017
+https://locations.tacobell.com/ia/ankeny/1850-ankeny-blvd.html,ia,ankeny,1850-ankeny-blvd,031268,"1850 Ankeny Blvd, Ankeny, IA 50021",50021
+https://locations.tacobell.com/ia/waterloo/1819-la-porte.html,ia,waterloo,1819-la-porte,030405,"1819 La Porte, Waterloo, IA 50702",50702
+https://locations.tacobell.com/ia/carroll/1819-kitty-hawk-ave.html,ia,carroll,1819-kitty-hawk-ave,030840,"1819 Kitty Hawk Ave, Carroll, IA 51401",51401
+https://locations.tacobell.com/ga/thomson/1805-washington-road.html,ga,thomson,1805-washington-road,023710,"1805 Washington Road, Thomson, GA 30824",30824
+https://locations.tacobell.com/ga/rome/1802-turner-mccall-blvd.html,ga,rome,1802-turner-mccall-blvd,004371,"1802 Turner McCall Blvd, Rome, GA 30161",30161
+https://locations.tacobell.com/ia/sioux-city/1800-hamilton-blvd.html,ia,sioux-city,1800-hamilton-blvd,037470,"1800 Hamilton Blvd, Sioux City, IA 51103",51103
+https://locations.tacobell.com/id/post-falls/1785-e-seltice-way-.html,id,post-falls,1785-e-seltice-way-,019676,"1785 E Seltice Way., Post Falls, ID 83854",83854
+https://locations.tacobell.com/ga/madison/1783-eatonton-rd.html,ga,madison,1783-eatonton-rd,027599,"1783 Eatonton Rd, Madison, GA 30650",30650
+https://locations.tacobell.com/ga/atlanta/1761-howell-mill-rd-nw.html,ga,atlanta,1761-howell-mill-rd-nw,002167,"1761 Howell Mill Rd NW, Atlanta, GA 30318",30318
+https://locations.tacobell.com/ga/norcross/1720-indian-trail-rd.html,ga,norcross,1720-indian-trail-rd,041218,"1720 Indian Trail Rd, Norcross, GA 30093",30093
+https://locations.tacobell.com/id/lewiston/1717-21st-street.html,id,lewiston,1717-21st-street,018733,"1717 21st Street, Lewiston, ID 83501",83501
+https://locations.tacobell.com/ga/macon/170-tom-hill-sr--blvd.html,ga,macon,170-tom-hill-sr--blvd,037173,"170 Tom Hill Sr. Blvd, Macon, GA 31210",31210
+https://locations.tacobell.com/ga/jasper/170-bill-wigington-pkwy.html,ga,jasper,170-bill-wigington-pkwy,039937,"170 Bill Wigington Pkwy, Jasper, GA 30143",30143
+https://locations.tacobell.com/ga/carrollton/1690-hwy-27-s-.html,ga,carrollton,1690-hwy-27-s-,023742,"1690 Hwy 27 S., Carrollton, GA 30117",30117
+https://locations.tacobell.com/ga/marietta/165-cobb-pkwy-s.html,ga,marietta,165-cobb-pkwy-s,041239,"165 Cobb Pkwy S, Marietta, GA 30060",30060
+https://locations.tacobell.com/ga/austell/1642-mulkey-rd.html,ga,austell,1642-mulkey-rd,041245,"1642 Mulkey Rd, Austell, GA 30106",30106
+https://locations.tacobell.com/ga/griffin/1633-north-expressway.html,ga,griffin,1633-north-expressway,039944,"1633 North Expressway, Griffin, GA 30223",30223
+https://locations.tacobell.com/ia/pella/1620-washington-st.html,ia,pella,1620-washington-st,030949,"1620 Washington St, Pella, IA 50219",50219
+https://locations.tacobell.com/ga/cumming/1615-buford-highway.html,ga,cumming,1615-buford-highway,041257,"1615 Buford Highway, Cumming, GA 30041",30041
+https://locations.tacobell.com/ga/tifton/1611-us-hwy-82-w.html,ga,tifton,1611-us-hwy-82-w,032755,"1611 US Hwy 82 W, Tifton, GA 31793",31793
+https://locations.tacobell.com/ga/stockbridge/1610-hudson-bridge-road.html,ga,stockbridge,1610-hudson-bridge-road,042571,"1610 Hudson Bridge Road, Stockbridge, GA 30281",30281
+https://locations.tacobell.com/ga/cordele/1609-16th-ave-e.html,ga,cordele,1609-16th-ave-e,032029,"1609 16th Ave E, Cordele, GA 31015",31015
+https://locations.tacobell.com/ga/macon/1604-bass-road.html,ga,macon,1604-bass-road,030881,"1604 Bass Road, Macon, GA 31210",31210
+https://locations.tacobell.com/ia/west-des-moines/1570-22nd-street.html,ia,west-des-moines,1570-22nd-street,030422,"1570 22nd Street, West Des Moines, IA 50266",50266
+https://locations.tacobell.com/id/rathdrum/15545-n-vernon-st.html,id,rathdrum,15545-n-vernon-st,024825,"15545 N Vernon St, Rathdrum, ID 83858",15545
+https://locations.tacobell.com/ga/bremen/155-u-s--highway-27-bypass.html,ga,bremen,155-u-s--highway-27-bypass,J064001,"155 U.S. Highway 27 Bypass, Bremen, GA 30110",30110
+https://locations.tacobell.com/ga/conyers/1537-highway-138-se.html,ga,conyers,1537-highway-138-se,004109,"1537 Highway 138 SE, Conyers, GA 30013",30013
+https://locations.tacobell.com/id/meridian/1523-s-eagle-rd.html,id,meridian,1523-s-eagle-rd,023454,"1523 S Eagle Rd, Meridian, ID 83642",83642
+https://locations.tacobell.com/ga/forsyth/152-north-lee-street.html,ga,forsyth,152-north-lee-street,039940,"152 North Lee Street, Forsyth, GA 31029",31029
+https://locations.tacobell.com/ga/albany/1505-n--slappey-blvd.html,ga,albany,1505-n--slappey-blvd,029099,"1505 N. Slappey Blvd, Albany, GA 31707",31707
+https://locations.tacobell.com/ga/thomasville/15049-us-highway-19-s.html,ga,thomasville,15049-us-highway-19-s,041837,"15049 US Highway 19 S #502, Thomasville, GA 31792",15049
+https://locations.tacobell.com/id/blackfoot/1475-south-parkway-drive.html,id,blackfoot,1475-south-parkway-drive,029851,"1475 South Parkway Drive, Blackfoot, ID 83221",83221
+https://locations.tacobell.com/hi/wahiawa/146-s-kamehameha-hwy.html,hi,wahiawa,146-s-kamehameha-hwy,001413,"146 S Kamehameha Hwy, Wahiawa, HI 96786",96786
+https://locations.tacobell.com/ga/gainesville/1452-thompson-bridge-rd.html,ga,gainesville,1452-thompson-bridge-rd,027506,"1452 Thompson Bridge Rd, Gainesville, GA 30501",30501
+https://locations.tacobell.com/ga/pooler/145-pooler-parkway.html,ga,pooler,145-pooler-parkway,031704,"145 Pooler Parkway, Pooler, GA 31322",31322
+https://locations.tacobell.com/ia/fort-madison/1421-avenue-h.html,ia,fort-madison,1421-avenue-h,C029056,"1421 Avenue H, Fort Madison, IA 52627",52627
+https://locations.tacobell.com/id/boise/1420-broadway.html,id,boise,1420-broadway,004398,"1420 Broadway, Boise, ID 83706",83706
+https://locations.tacobell.com/id/nampa/1415-caldwell-blvd.html,id,nampa,1415-caldwell-blvd,016756,"1415 Caldwell Blvd, Nampa, ID 83651",83651
+https://locations.tacobell.com/ga/gainesville/1409-browns-bridge-rd.html,ga,gainesville,1409-browns-bridge-rd,004317,"1409 Browns Bridge Rd, Gainesville, GA 30501",30501
+https://locations.tacobell.com/ga/adel/1404-west-4th-street.html,ga,adel,1404-west-4th-street,029091,"1404 West 4th Street, Adel, GA 31620",31620
+https://locations.tacobell.com/ga/bainbridge/1402-e-shotwell-st.html,ga,bainbridge,1402-e-shotwell-st,029074,"1402 E Shotwell St, Bainbridge, GA 39819",39819
+https://locations.tacobell.com/ga/savannah/14005-abercorn-st.html,ga,savannah,14005-abercorn-st,039920,"14005 Abercorn St, Savannah, GA 31419",14005
+https://locations.tacobell.com/ga/kingsland/1373-ga-highway-40-e.html,ga,kingsland,1373-ga-highway-40-e,023718,"1373 GA Highway 40 E, Kingsland, GA 31548",31548
+https://locations.tacobell.com/ga/lavonia/13721-jones-st.html,ga,lavonia,13721-jones-st,027313,"13721 Jones St, Lavonia, GA 30553",13721
+https://locations.tacobell.com/ga/darien/13039-ga-highway-251.html,ga,darien,13039-ga-highway-251,E960022,"13039 GA Highway 251, Darien, GA 31305",13039
+https://locations.tacobell.com/ia/indianola/1303-n-jefferson-way.html,ia,indianola,1303-n-jefferson-way,032167,"1303 N Jefferson Way, Indianola, IA 50125",50125
+https://locations.tacobell.com/ga/monroe/1301-west-spring-street.html,ga,monroe,1301-west-spring-street,039946,"1301 West Spring Street, Monroe, GA 30655",30655
+https://locations.tacobell.com/ia/newton/1300-west-18th-street-south.html,ia,newton,1300-west-18th-street-south,C029057,"1300 West 18th Street South, Newton, IA 50208",50208
+https://locations.tacobell.com/ga/rockmart/130-felton-drive.html,ga,rockmart,130-felton-drive,J466007,"130 Felton Drive, Rockmart, GA 30153",30153
+https://locations.tacobell.com/ga/covington/12910-brown-bridge-road.html,ga,covington,12910-brown-bridge-road,031473,"12910 Brown Bridge Road, Covington, GA 30016",12910
+https://locations.tacobell.com/hi/kihei/1819-south-kihei-rd.html,hi,kihei,1819-south-kihei-rd,037669,"1819 South Kihei Rd Building C (Mall), Kihei, HI 96753",96753
+https://locations.tacobell.com/hi/lahaina/127-a-hinau-st.html,hi,lahaina,127-a-hinau-st,021257,"127 A Hinau St, Lahaina, HI 96761",96761
+https://locations.tacobell.com/ga/villa-rica/126-highway-61.html,ga,villa-rica,126-highway-61,G135087,"126 Highway 61, Villa Rica, GA 30180",30180
+https://locations.tacobell.com/ga/lake-park/1258-lakes-blvd.html,ga,lake-park,1258-lakes-blvd,029087,"1258 Lakes Blvd, Lake Park, GA 31636",31636
+https://locations.tacobell.com/ia/le-mars/1255-silent-prairie-rd.html,ia,le-mars,1255-silent-prairie-rd,037480,"1255 Silent Prairie Rd, Le Mars, IA 51031",51031
+https://locations.tacobell.com/hi/honolulu/1215-s--beretania-st.html,hi,honolulu,1215-s--beretania-st,009633,"1215 S. Beretania St, Honolulu, HI 96814",96814
+https://locations.tacobell.com/hi/kailua/121-oneawa-st.html,hi,kailua,121-oneawa-st,001701,"121 Oneawa St, Kailua, HI 96734",96734
+https://locations.tacobell.com/ga/cornelia/121-furniture-plaza.html,ga,cornelia,121-furniture-plaza,027554,"121 Furniture Plaza, Cornelia, GA 30531",30531
+https://locations.tacobell.com/ga/douglas/1200-s-peterson.html,ga,douglas,1200-s-peterson,029076,"1200 S Peterson, Douglas, GA 31533",31533
+https://locations.tacobell.com/ga/valdosta/1199-st-augustine-road.html,ga,valdosta,1199-st-augustine-road,029089,"1199 St Augustine Road, Valdosta, GA 31601",31601
+https://locations.tacobell.com/ga/marietta/1180-powder-springs-st.html,ga,marietta,1180-powder-springs-st,004431,"1180 Powder Springs St, Marietta, GA 30064",30064
+https://locations.tacobell.com/ga/decatur/1170-columbia-drive.html,ga,decatur,1170-columbia-drive,041212,"1170 Columbia Drive, Decatur, GA 30032",30032
+https://locations.tacobell.com/ga/peachtree-city/1140-crosstown-ct.html,ga,peachtree-city,1140-crosstown-ct,005482,"1140 Crosstown Ct, Peachtree City, GA 30269",30269
+https://locations.tacobell.com/ga/metter/1135-south-lewis-street.html,ga,metter,1135-south-lewis-street,E960020,"1135 South Lewis Street, Metter, GA 30439",30439
+https://locations.tacobell.com/id/pocatello/1133-south-5th.html,id,pocatello,1133-south-5th,029850,"1133 South 5th, Pocatello, ID 83201",83201
+https://locations.tacobell.com/ga/hampton/11325-tara-blvd.html,ga,hampton,11325-tara-blvd,G135114,"11325 Tara Blvd, Hampton, GA 30228",11325
+https://locations.tacobell.com/ga/covington/11140-highway-142.html,ga,covington,11140-highway-142,027509,"11140 Highway 142, Covington, GA 30014",11140
+https://locations.tacobell.com/ga/jesup/1110-n-1st-st.html,ga,jesup,1110-n-1st-st,023719,"1110 N 1st St, Jesup, GA 31545",31545
+https://locations.tacobell.com/ia/clinton/1102-north-2nd-street.html,ia,clinton,1102-north-2nd-street,036353,"1102 North 2nd Street, Clinton, IA 52732",52732
+https://locations.tacobell.com/ga/alpharetta/10960-state-bridge-road.html,ga,alpharetta,10960-state-bridge-road,041318,"10960 State Bridge Road, Alpharetta, GA 30022",10960
+https://locations.tacobell.com/ga/alpharetta/10850-haynes-bridge-road.html,ga,alpharetta,10850-haynes-bridge-road,041252,"10850 Haynes Bridge Road, Alpharetta, GA 30022",10850
+https://locations.tacobell.com/ia/osceola/107-ariel-circle.html,ia,osceola,107-ariel-circle,030424,"107 Ariel Circle, Osceola, IA 50213",50213
+https://locations.tacobell.com/ga/alpharetta/106-s--main.html,ga,alpharetta,106-s--main,041230,"106 S. Main, Alpharetta, GA 30004",30004
+https://locations.tacobell.com/ga/mcdonough/1025-hampton-rd.html,ga,mcdonough,1025-hampton-rd,039932,"1025 Hampton Rd, McDonough, GA 30253",30253
+https://locations.tacobell.com/ga/eastman/1020-indian-drive.html,ga,eastman,1020-indian-drive,L940014,"1020 Indian Drive, Eastman, GA 31023",31023
+https://locations.tacobell.com/ga/woodstock/10050-highway-92.html,ga,woodstock,10050-highway-92,003734,"10050 Highway 92, Woodstock, GA 30188",10050
+https://locations.tacobell.com/ga/pooler/1004-e--highway-80.html,ga,pooler,1004-e--highway-80,039921,"1004 E. Highway 80, Pooler, GA 31322",31322
+https://locations.tacobell.com/id/idaho-falls/982-e--17th-street.html,id,idaho-falls,982-e--17th-street,029849,"982 E. 17th Street, Idaho Falls, ID 83404",83404
+https://locations.tacobell.com/hi/kahului/100-kamehameha-ave.html,hi,kahului,100-kamehameha-ave,003714,"100 Kamehameha Ave, Kahului, HI 96732",96732
+https://locations.tacobell.com/ia/north-liberty/1000-liberty-way.html,ia,north-liberty,1000-liberty-way,040378,"1000 Liberty Way, North Liberty, IA 52317",52317
+https://locations.tacobell.com/ga/bonaire/502-ga-247.html,ga,bonaire,502-ga-247,040706,"502 GA-247, Bonaire, GA 31005",31005
+https://locations.tacobell.com/id/mountain-home/190-city-view-dr-.html,id,mountain-home,190-city-view-dr-,038751,"190 City View Dr., Mountain Home, ID 83647",83647
+https://locations.tacobell.com/ga/mcdonough/5941-east-lake-pkwy.html,ga,mcdonough,5941-east-lake-pkwy,024747,"5941 East Lake Pkwy, McDonough, GA 30253",30253
+https://locations.tacobell.com/ga/athens/2036-oconee-connector.html,ga,athens,2036-oconee-connector,041241,"2036 Oconee Connector, Athens, GA 30606",30606
+https://locations.tacobell.com/ga/albany/2414-dawson-rd.html,ga,albany,2414-dawson-rd,033348,"2414 Dawson Rd, Albany, GA 31707",31707
+https://locations.tacobell.com/ga/carrollton/125-maple-crossing.html,ga,carrollton,125-maple-crossing,039701,"125 Maple Crossing, Carrollton, GA 30117",30117
+https://locations.tacobell.com/ia/ankeny/715-s--e--oralabor-rd.html,ia,ankeny,715-s--e--oralabor-rd,031560,"715 S. E. Oralabor Rd, Ankeny, IA 50021",50021
+https://locations.tacobell.com/ia/davenport/4820-elmore-ave.html,ia,davenport,4820-elmore-ave,036357,"4820 Elmore Ave, Davenport, IA 52807",52807
+https://locations.tacobell.com/ia/bettendorf/3566-middle-road.html,ia,bettendorf,3566-middle-road,036356,"3566 Middle Road, Bettendorf, IA 52722",52722
+https://locations.tacobell.com/ia/davenport/1443-w-locust-street.html,ia,davenport,1443-w-locust-street,036348,"1443 W Locust Street, Davenport, IA 52804",52804
+https://locations.tacobell.com/ga/cartersville/898-joe-frank-harris-blvd.html,ga,cartersville,898-joe-frank-harris-blvd,039623,"898 Joe Frank Harris Blvd, Cartersville, GA 30121",30121
+https://locations.tacobell.com/ia/des-moines/5959-se-14th-st.html,ia,des-moines,5959-se-14th-st,033338,"5959 SE 14th St, Des Moines, IA 50320",50320
+https://locations.tacobell.com/ga/braselton/6011-highway-53.html,ga,braselton,6011-highway-53,042579,"6011 Highway 53, Braselton, GA 30517",30517
+https://locations.tacobell.com/hi/kailua/6109-mokapu-rd.html,hi,kailua,6109-mokapu-rd,015522,"6109 Mokapu Rd Bldg 6109 MCBH, Kailua, HI 96734",96734
+https://locations.tacobell.com/ga/grovetown/935-husk-box-way.html,ga,grovetown,935-husk-box-way,040645,"935 Husk Box Way, Grovetown, GA 30813",30813
+https://locations.tacobell.com/ia/coralville/2771-heartland-drive.html,ia,coralville,2771-heartland-drive,037061,"2771 Heartland Drive, Coralville, IA 52241",52241
+https://locations.tacobell.com/ia/grimes/2227-e-1st-street.html,ia,grimes,2227-e-1st-street,040728,"2227 E 1st Street, Grimes, IA 50111",50111
+https://locations.tacobell.com/ga/fort-valley/201-n-camellia-blvd.html,ga,fort-valley,201-n-camellia-blvd,033933,"201 N Camellia Blvd, Fort Valley, GA 31030",31030
+https://locations.tacobell.com/ga/claxton/7897-us-highway-301.html,ga,claxton,7897-us-highway-301,039925,"7897 US Highway 301, Claxton, GA 30417",30417
