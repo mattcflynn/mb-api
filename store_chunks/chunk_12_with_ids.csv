@@ -1,0 +1,477 @@
+url,state,city,address_slug,store_id,full_address,zip_code
+https://locations.tacobell.com/nj/north-brunswick/2720-us-route-130.html,nj,north-brunswick,2720-us-route-130,040482,"2720 US Route 130, North Brunswick, NJ 08902",08902
+https://locations.tacobell.com/nc/goldsboro/2821-us-70-e.html,nc,goldsboro,2821-us-70-e,040791,"2821 US-70 E, Goldsboro, NC 27530",27530
+https://locations.tacobell.com/nj/haskell/164-greenwood-ave.html,nj,haskell,164-greenwood-ave,039146,"164 Greenwood Ave, Haskell, NJ 07420",07420
+https://locations.tacobell.com/nc/shelby/2005-east-dixon-blvd.html,nc,shelby,2005-east-dixon-blvd,040640,"2005 East Dixon Blvd, Shelby, NC 28152",28152
+https://locations.tacobell.com/ne/scottsbluff/806-w-27th-st.html,ne,scottsbluff,806-w-27th-st,041697,"806 W 27th St, Scottsbluff, NE 69361",69361
+https://locations.tacobell.com/nc/salisbury/2070-statesville-blvd-.html,nc,salisbury,2070-statesville-blvd-,040582,"2070 Statesville Blvd., Salisbury, NC 28147",28147
+https://locations.tacobell.com/nc/sherrills-ford/7932-bradley-long-drive.html,nc,sherrills-ford,7932-bradley-long-drive,041515,"7932 Bradley Long Drive, Sherrills Ford, NC 28673",28673
+https://locations.tacobell.com/nc/weaverville/11-bett-stroud-blvd.html,nc,weaverville,11-bett-stroud-blvd,041410,"11 Bett Stroud Blvd, Weaverville, NC 28787",28787
+https://locations.tacobell.com/nc/mount-airy/1076-n-andy-griffith.html,nc,mount-airy,1076-n-andy-griffith,041202,"1076 N Andy Griffith, Mount Airy, NC 27030",27030
+https://locations.tacobell.com/nc/elizabeth-city/1239-n-road-st.html,nc,elizabeth-city,1239-n-road-st,041140,"1239 N Road St, Elizabeth City, NC 27909",27909
+https://locations.tacobell.com/nc/mooresville/349-east-plaza-drive.html,nc,mooresville,349-east-plaza-drive,040518,"349 East Plaza Drive, Mooresville, NC 28115",28115
+https://locations.tacobell.com/nh/manchester/525-hooksett-road.html,nh,manchester,525-hooksett-road,040316,"525 Hooksett Road, Manchester, NH 03104",03104
+https://locations.tacobell.com/nj/bridgeton/101-s--laurel-street.html,nj,bridgeton,101-s--laurel-street,040620,"101 S. Laurel Street, Bridgeton, NJ 08302",08302
+https://locations.tacobell.com/nj/manville/100-north-main-street.html,nj,manville,100-north-main-street,040306,"100 North Main Street, Manville, NJ 08835",08835
+https://locations.tacobell.com/nj/parsippany/285-route-46.html,nj,parsippany,285-route-46,040317,"285 Route 46, Parsippany, NJ 07054",07054
+https://locations.tacobell.com/nc/greenville/1635-e-fire-tower-rd.html,nc,greenville,1635-e-fire-tower-rd,041695,"1635 E Fire Tower Rd, Greenville, NC 27858",27858
+https://locations.tacobell.com/nj/edison/2710-woodbridge-ave.html,nj,edison,2710-woodbridge-ave,041160,"2710 Woodbridge Ave, Edison, NJ 08837",08837
+https://locations.tacobell.com/nj/paterson/443-broadway.html,nj,paterson,443-broadway,039644,"443 Broadway, Paterson, NJ 07501",07501
+https://locations.tacobell.com/nj/newark/350-broad-st-.html,nj,newark,350-broad-st-,039108,"350 Broad St., Newark, NJ 07104",07104
+https://locations.tacobell.com/nj/stirling/1031-valley-rd.html,nj,stirling,1031-valley-rd,040439,"1031 Valley Rd, Stirling, NJ 07980",07980
+https://locations.tacobell.com/nc/burlington/1338-tiki-lane.html,nc,burlington,1338-tiki-lane,040951,"1338 Tiki Lane, Burlington, NC 27215",27215
+https://locations.tacobell.com/ne/elkhorn/6601-s--205th-street.html,ne,elkhorn,6601-s--205th-street,042093,"6601 S. 205th Street, Elkhorn, NE 68022",68022
+https://locations.tacobell.com/ne/lincoln/2760-n-83rd-st.html,ne,lincoln,2760-n-83rd-st,041672,"2760 N 83rd St, Lincoln, NE 68507",68507
+https://locations.tacobell.com/nc/raleigh/9221-fairbanks-dr.html,nc,raleigh,9221-fairbanks-dr,042086,"9221 Fairbanks Dr, Raleigh, NC 27613",27613
+https://locations.tacobell.com/nj/jersey-city/3-path-plaza.html,nj,jersey-city,3-path-plaza,041966,"3 Path Plaza, Jersey City, NJ 07306",07306
+https://locations.tacobell.com/nc/warsaw/2694-w-nc-24-hwy.html,nc,warsaw,2694-w-nc-24-hwy,033446,"2694 W NC 24 Hwy, Warsaw, NC 28398",28398
+https://locations.tacobell.com/nc/morganton/401-carbon-city-road.html,nc,morganton,401-carbon-city-road,035256,"401 Carbon City Road, Morganton, NC 28655",28655
+https://locations.tacobell.com/nj/manasquan/2407-route-35.html,nj,manasquan,2407-route-35,034013,"2407 Route 35, Manasquan, NJ 08736",08736
+https://locations.tacobell.com/nc/stoneville/6650-nc-highway-135.html,nc,stoneville,6650-nc-highway-135,034927,"6650 NC Highway 135, Stoneville, NC 27048",27048
+https://locations.tacobell.com/nc/mocksville/1260-yadkinville-rd.html,nc,mocksville,1260-yadkinville-rd,036258,"1260 Yadkinville Rd, Mocksville, NC 27028",27028
+https://locations.tacobell.com/nj/wharton/321-route-15.html,nj,wharton,321-route-15,035255,"321 Route 15, Wharton, NJ 07885",07885
+https://locations.tacobell.com/nc/charlotte/3923-corning-place.html,nc,charlotte,3923-corning-place,032049,"3923 Corning Place, Charlotte, NC 28216",28216
+https://locations.tacobell.com/nc/raleigh/4004-capital-blvd.html,nc,raleigh,4004-capital-blvd,034556,"4004 Capital Blvd, Raleigh, NC 27604",27604
+https://locations.tacobell.com/nj/bergenfield/415-s--washington-ave.html,nj,bergenfield,415-s--washington-ave,039112,"415 S. Washington Ave, Bergenfield, NJ 07621",07621
+https://locations.tacobell.com/nj/bayonne/21-33-east-53rd-street.html,nj,bayonne,21-33-east-53rd-street,034804,"21-33 East 53rd Street, Bayonne, NJ 07002",07002
+https://locations.tacobell.com/nc/beaufort/1798-live-oak-street.html,nc,beaufort,1798-live-oak-street,036263,"1798 Live Oak Street, Beaufort, NC 28516",28516
+https://locations.tacobell.com/nj/monmouth-junction/4041-us-route-1-south.html,nj,monmouth-junction,4041-us-route-1-south,034806,"4041 US Route 1 South, Monmouth Junction, NJ 08852",08852
+https://locations.tacobell.com/nj/edison/412-416-highway-1.html,nj,edison,412-416-highway-1,039113,"412-416 Highway 1, Edison, NJ 08817",08817
+https://locations.tacobell.com/nj/hackensack/65-hackensack-ave-.html,nj,hackensack,65-hackensack-ave-,039110,"65 Hackensack Ave., Hackensack, NJ 07601",07601
+https://locations.tacobell.com/nc/siler-city/349-walmart-supercenter-dr-.html,nc,siler-city,349-walmart-supercenter-dr-,036002,"349 Walmart Supercenter Dr., Siler City, NC 27344",27344
+https://locations.tacobell.com/nc/edenton/232-virginia-rd.html,nc,edenton,232-virginia-rd,039779,"232 Virginia Rd, Edenton, NC 27932",27932
+https://locations.tacobell.com/nc/greensboro/3810-n--church-st-.html,nc,greensboro,3810-n--church-st-,039752,"3810 N. Church St., Greensboro, NC 27455",27455
+https://locations.tacobell.com/ne/omaha/4810-south-72nd-st-.html,ne,omaha,4810-south-72nd-st-,036454,"4810 South 72nd St., Omaha, NE 68127",68127
+https://locations.tacobell.com/nj/oakland/347-ramapo-valley-road.html,nj,oakland,347-ramapo-valley-road,K250013,"347 Ramapo Valley Road, Oakland, NJ 07436",07436
+https://locations.tacobell.com/nj/columbia/2-simpson-road.html,nj,columbia,2-simpson-road,019301,"2 Simpson Road, Columbia, NJ 07832",07832
+https://locations.tacobell.com/nc/kenly/923-johnston-pkwy.html,nc,kenly,923-johnston-pkwy,031604,"923 Johnston Pkwy, Kenly, NC 27542",27542
+https://locations.tacobell.com/nc/southern-shores/5415-n-croatan-hwy.html,nc,southern-shores,5415-n-croatan-hwy,039782,"5415 N Croatan Hwy, Southern Shores, NC 27949",27949
+https://locations.tacobell.com/ne/gretna/16116-stevens-pointe-circle.html,ne,gretna,16116-stevens-pointe-circle,037066,"16116 Stevens Pointe Circle, Gretna, NE 68028",16116
+https://locations.tacobell.com/nj/hoboken/38-hudson-place.html,nj,hoboken,38-hudson-place,036935,"38 Hudson Place, Hoboken, NJ 07030",07030
+https://locations.tacobell.com/nj/pennsauken/7377-n-crescent-blvd-.html,nj,pennsauken,7377-n-crescent-blvd-,041376,"7377 N Crescent Blvd. Unit 1, Pennsauken, NJ 08110",08110
+https://locations.tacobell.com/nj/jersey-city/231-12th-street-i-78.html,nj,jersey-city,231-12th-street-i-78,040323,"231 12th Street I-78, Jersey City, NJ 07310",07310
+https://locations.tacobell.com/nc/wesley-chapel/112-waxhaw-indian-trail-road-s.html,nc,wesley-chapel,112-waxhaw-indian-trail-road-s,041591,"112 Waxhaw Indian Trail Road S, Wesley Chapel, NC 28104",28104
+https://locations.tacobell.com/nc/hudson/3086-hickory-blvd.html,nc,hudson,3086-hickory-blvd,042054,"3086 Hickory Blvd, Hudson, NC 28638",28638
+https://locations.tacobell.com/nd/williston/3016-3rd-ave-west.html,nd,williston,3016-3rd-ave-west,041883,"3016 3rd Ave West, Williston, ND 58801",58801
+https://locations.tacobell.com/nj/watchung/1701-route-22.html,nj,watchung,1701-route-22,042067,"1701 Route 22, Watchung, NJ 07069",07069
+https://locations.tacobell.com/nc/asheville/1320-tunnel-rd-.html,nc,asheville,1320-tunnel-rd-,042087,"1320 Tunnel Rd., Asheville, NC 28805",28805
+https://locations.tacobell.com/nc/cherry-point/bldg-4472-woodside-drive.html,nc,cherry-point,bldg-4472-woodside-drive,036936,"BLDG 4472 Woodside Drive, Cherry Point, NC 28532",28532
+https://locations.tacobell.com/nc/greenville/116-w--10th-st-.html,nc,greenville,116-w--10th-st-,037152,"116 W. 10th St., Greenville, NC 27834",27834
+https://locations.tacobell.com/nj/barnegat/770-light-house-drive-pad-b.html,nj,barnegat,770-light-house-drive-pad-b,037087,"770 Light house Drive Pad B, Barnegat, NJ 08005",08005
+https://locations.tacobell.com/nj/freehold/3710-route-9-freehold-raceway-mall.html,nj,freehold,3710-route-9-freehold-raceway-mall,028783,"3710 Route 9 Freehold Raceway Mall Suite 2221, Freehold, NJ 07728",07728
+https://locations.tacobell.com/nj/wayne/3109-willowbrook-mall.html,nj,wayne,3109-willowbrook-mall,028785,"3109 Willowbrook Mall, Wayne, NJ 07470",07470
+https://locations.tacobell.com/nc/durham/6910-fayetteville-rd.html,nc,durham,6910-fayetteville-rd,028626,"6910 Fayetteville Rd, Durham, NC 27713",27713
+https://locations.tacobell.com/nj/east-rutherford/1-american-dream-way.html,nj,east-rutherford,1-american-dream-way,036268,"1 American Dream Way Fc #305, East Rutherford, NJ 07073",07073
+https://locations.tacobell.com/nc/fort-bragg/ardennes-street.html,nc,fort-bragg,ardennes-street,031134,"Ardennes Street Bldg C 5934, Fort Bragg, NC 28310",28310
+https://locations.tacobell.com/nj/newark/150-bleeker-street.html,nj,newark,150-bleeker-street,024305,"150 Bleeker Street, Newark, NJ 07103",07103
+https://locations.tacobell.com/ne/elkhorn/700-north-204th-ave--circle.html,ne,elkhorn,700-north-204th-ave--circle,037203,"700 North 204th Ave. Circle, Elkhorn, NE 68022",68022
+https://locations.tacobell.com/nj/gibbstown/361-harmony-rd.html,nj,gibbstown,361-harmony-rd,037084,"361 Harmony Rd, Gibbstown, NJ 08027",08027
+https://locations.tacobell.com/nc/winston-salem/12199-n--nc-highway-150.html,nc,winston-salem,12199-n--nc-highway-150,039781,"12199 N. NC Highway 150, Winston-Salem, NC 27127",12199
+https://locations.tacobell.com/nj/pennsville/460-n--broadway.html,nj,pennsville,460-n--broadway,037162,"460 N. Broadway, Pennsville, NJ 08070",08070
+https://locations.tacobell.com/nj/linden/1010-w-edgar-rd.html,nj,linden,1010-w-edgar-rd,039114,"1010 W Edgar Rd, Linden, NJ 07036",07036
+https://locations.tacobell.com/nj/somers-point/331-new-road.html,nj,somers-point,331-new-road,036791,"331 New Road, Somers Point, NJ 08244",08244
+https://locations.tacobell.com/nc/cherryville/1105-east-church-street.html,nc,cherryville,1105-east-church-street,037671,"1105 East Church Street, Cherryville, NC 28021",28021
+https://locations.tacobell.com/nc/indian-trail/3021-wesley-chapel-stouts-rd-.html,nc,indian-trail,3021-wesley-chapel-stouts-rd-,037004,"3021 Wesley Chapel Stouts Rd., Indian Trail, NC 28079",28079
+https://locations.tacobell.com/nj/mount-laurel/3220-route-38.html,nj,mount-laurel,3220-route-38,037086,"3220 Route 38, Mount Laurel, NJ 08054",08054
+https://locations.tacobell.com/nc/elizabeth-city/3865-conlon-way.html,nc,elizabeth-city,3865-conlon-way,039777,"3865 Conlon Way, Elizabeth City, NC 27909",27909
+https://locations.tacobell.com/ne/lincoln/7355-willowbrook-lane.html,ne,lincoln,7355-willowbrook-lane,037493,"7355 Willowbrook Lane, Lincoln, NE 68516",68516
+https://locations.tacobell.com/nj/cherry-hill/2005-route-70-east.html,nj,cherry-hill,2005-route-70-east,037078,"2005 Route 70 East, Cherry Hill, NJ 08003",08003
+https://locations.tacobell.com/nc/raleigh/6300-battle-bridge-rd-.html,nc,raleigh,6300-battle-bridge-rd-,032554,"6300 Battle Bridge Rd., Raleigh, NC 27610",27610
+https://locations.tacobell.com/nc/columbus/202-west-mill-street.html,nc,columbus,202-west-mill-street,038866,"202 West Mill Street, Columbus, NC 28722",28722
+https://locations.tacobell.com/nj/jackson/515-monmouth-road.html,nj,jackson,515-monmouth-road,037083,"515 Monmouth Road Building #120, Jackson, NJ 08527",08527
+https://locations.tacobell.com/nj/freehold/3321-route-9.html,nj,freehold,3321-route-9,039651,"3321 Route 9, Freehold, NJ 07728",07728
+https://locations.tacobell.com/nj/washington/41-w-washington-ave.html,nj,washington,41-w-washington-ave,034967,"41 W Washington Ave, Washington, NJ 07882",07882
+https://locations.tacobell.com/nc/wake-forest/951-gateway-commons-circle.html,nc,wake-forest,951-gateway-commons-circle,037529,"951 Gateway Commons Circle, Wake Forest, NC 27587",27587
+https://locations.tacobell.com/nc/fuquay-varina/8255-fayetteville-rd-.html,nc,fuquay-varina,8255-fayetteville-rd-,037833,"8255 Fayetteville Rd., Fuquay Varina, NC 27526",27526
+https://locations.tacobell.com/nc/wilkesboro/110-two-rivers-drive.html,nc,wilkesboro,110-two-rivers-drive,037528,"110 Two Rivers Drive, Wilkesboro, NC 28697",28697
+https://locations.tacobell.com/nj/passaic/15-prospect-st.html,nj,passaic,15-prospect-st,039652,"15 Prospect St, Passaic, NJ 07055",07055
+https://locations.tacobell.com/nc/mooresville/101-norman-station-blvd.html,nc,mooresville,101-norman-station-blvd,009585,"101 Norman Station Blvd, Mooresville, NC 28117",28117
+https://locations.tacobell.com/nc/statesville/102-signal-hill-dr.html,nc,statesville,102-signal-hill-dr,027635,"102 Signal Hill Dr, Statesville, NC 28625",28625
+https://locations.tacobell.com/nc/huntersville/14300-statesville-rd.html,nc,huntersville,14300-statesville-rd,027667,"14300 Statesville Rd, Huntersville, NC 28078",14300
+https://locations.tacobell.com/nc/pineville/10917-carolina-place-pkwy.html,nc,pineville,10917-carolina-place-pkwy,004795,"10917 Carolina Place Pkwy, Pineville, NC 28134",10917
+https://locations.tacobell.com/nc/boone/1093-blowing-rock-rd.html,nc,boone,1093-blowing-rock-rd,029011,"1093 Blowing Rock Rd, Boone, NC 28607",28607
+https://locations.tacobell.com/nc/concord/1094-concord-parkway-n-.html,nc,concord,1094-concord-parkway-n-,032752,"1094 Concord Parkway N., Concord, NC 28027",28027
+https://locations.tacobell.com/nc/gastonia/1110-e--hudson-blvd-.html,nc,gastonia,1110-e--hudson-blvd-,021282,"1110 E. Hudson Blvd., Gastonia, NC 28054",28054
+https://locations.tacobell.com/nc/kannapolis/1112-s-cannon-blvd.html,nc,kannapolis,1112-s-cannon-blvd,023183,"1112 S Cannon Blvd, Kannapolis, NC 28083",28083
+https://locations.tacobell.com/nc/shelby/115-e--dixon-blvd.html,nc,shelby,115-e--dixon-blvd,028249,"115 E. Dixon Blvd, Shelby, NC 28150",28150
+https://locations.tacobell.com/nc/hickory/1210-hwy-321-nw.html,nc,hickory,1210-hwy-321-nw,020959,"1210 Hwy 321 NW, Hickory, NC 28601",28601
+https://locations.tacobell.com/nc/rockingham/1221-e-broad-st.html,nc,rockingham,1221-e-broad-st,036153,"1221 E Broad St, Rockingham, NC 28379",28379
+https://locations.tacobell.com/nc/morganton/1225-burkemont-ave.html,nc,morganton,1225-burkemont-ave,004791,"1225 Burkemont Ave, Morganton, NC 28655",28655
+https://locations.tacobell.com/nc/charlotte/13121-south-tryon-st-.html,nc,charlotte,13121-south-tryon-st-,029867,"13121 South Tryon St., Charlotte, NC 28278",13121
+https://locations.tacobell.com/nc/gastonia/1329-e--franklin-blvd-.html,nc,gastonia,1329-e--franklin-blvd-,041094,"1329 E. Franklin Blvd., Gastonia, NC 28054",28054
+https://locations.tacobell.com/nc/indian-trail/13710-independence-blvd.html,nc,indian-trail,13710-independence-blvd,025505,"13710 Independence Blvd, Indian Trail, NC 28079",13710
+https://locations.tacobell.com/nc/lincolnton/1446-east-main-street.html,nc,lincolnton,1446-east-main-street,018280,"1446 East Main Street, Lincolnton, NC 28092",28092
+https://locations.tacobell.com/nc/lenoir/160-blowing-rock-blvd.html,nc,lenoir,160-blowing-rock-blvd,026708,"160 Blowing Rock Blvd, Lenoir, NC 28645",28645
+https://locations.tacobell.com/nc/locust/1714-west-main-street.html,nc,locust,1714-west-main-street,032750,"1714 West Main Street, Locust, NC 28097",28097
+https://locations.tacobell.com/nc/statesville/172-turnersburg-hwy.html,nc,statesville,172-turnersburg-hwy,004863,"172 Turnersburg Hwy, Statesville, NC 28625",28625
+https://locations.tacobell.com/nc/charlotte/1800-e-woodlawn-rd.html,nc,charlotte,1800-e-woodlawn-rd,002863,"1800 E Woodlawn Rd, Charlotte, NC 28209",28209
+https://locations.tacobell.com/nc/denver/181-highway-16-s.html,nc,denver,181-highway-16-s,041484,"181 Highway 16 S, Denver, NC 28037",28037
+https://locations.tacobell.com/nc/gastonia/1840-w--franklin-blvd.html,nc,gastonia,1840-w--franklin-blvd,029528,"1840 W. Franklin Blvd, Gastonia, NC 28052",28052
+https://locations.tacobell.com/nc/charlotte/1910-sardis-road-n.html,nc,charlotte,1910-sardis-road-n,005500,"1910 Sardis Road N, Charlotte, NC 28270",28270
+https://locations.tacobell.com/nc/wadesboro/201-walton-drive.html,nc,wadesboro,201-walton-drive,029524,"201 Walton Drive, Wadesboro, NC 28170",28170
+https://locations.tacobell.com/nc/cornelius/20329-w-catawba-ave.html,nc,cornelius,20329-w-catawba-ave,005349,"20329 W Catawba Ave, Cornelius, NC 28031",20329
+https://locations.tacobell.com/nc/murphy/2042-us-19.html,nc,murphy,2042-us-19,040957,"2042 US 19, Murphy, NC 28906",28906
+https://locations.tacobell.com/nc/monroe/2104-w--roosevelt-blvd-.html,nc,monroe,2104-w--roosevelt-blvd-,002426,"2104 W. Roosevelt Blvd., Monroe, NC 28110",28110
+https://locations.tacobell.com/nc/gastonia/2125-n--chester-street.html,nc,gastonia,2125-n--chester-street,032754,"2125 N. Chester Street, Gastonia, NC 28052",28052
+https://locations.tacobell.com/nc/boiling-springs/219-south-main-st-.html,nc,boiling-springs,219-south-main-st-,G135964,"219 South Main St., Boiling Springs, NC 28017",28017
+https://locations.tacobell.com/nc/kannapolis/2281-spider-dr-.html,nc,kannapolis,2281-spider-dr-,032748,"2281 Spider Dr., Kannapolis, NC 28083",28083
+https://locations.tacobell.com/nc/taylorsville/24-liledoun-road.html,nc,taylorsville,24-liledoun-road,C570007,"24 Liledoun Road, Taylorsville, NC 28681",28681
+https://locations.tacobell.com/nc/charlotte/2405-south-blvd.html,nc,charlotte,2405-south-blvd,005671,"2405 South Blvd, Charlotte, NC 28203",28203
+https://locations.tacobell.com/nc/hickory/2451-springs-rd-ne.html,nc,hickory,2451-springs-rd-ne,031111,"2451 Springs Rd NE, Hickory, NC 28601",28601
+https://locations.tacobell.com/nc/hickory/2505-us-highway-70-se.html,nc,hickory,2505-us-highway-70-se,004939,"2505 US Highway 70 SE, Hickory, NC 28602",28602
+https://locations.tacobell.com/nc/waxhaw/2517-cuthbertson-road.html,nc,waxhaw,2517-cuthbertson-road,030701,"2517 Cuthbertson Road, Waxhaw, NC 28173",28173
+https://locations.tacobell.com/nc/concord/258-concord-parkway-so-.html,nc,concord,258-concord-parkway-so-,J718171,"258 Concord Parkway So., Concord, NC 28027",28027
+https://locations.tacobell.com/nc/newton/2717-northwest-blvd.html,nc,newton,2717-northwest-blvd,016804,"2717 Northwest Blvd, Newton, NC 28658",28658
+https://locations.tacobell.com/nc/charlotte/2834-boyer-street.html,nc,charlotte,2834-boyer-street,042145,"2834 Boyer Street, Charlotte, NC 28208",28208
+https://locations.tacobell.com/nc/charlotte/3117-freedom-drive.html,nc,charlotte,3117-freedom-drive,009556,"3117 Freedom Drive, Charlotte, NC 28208",28208
+https://locations.tacobell.com/nc/connelly-spg/3456-miller-bridge-road.html,nc,connelly-spg,3456-miller-bridge-road,031767,"3456 Miller Bridge Road, Connelly Spg, NC 28612",28612
+https://locations.tacobell.com/nc/charlotte/3612-n-sharon-amity-rd-.html,nc,charlotte,3612-n-sharon-amity-rd-,032747,"3612 N Sharon Amity Rd., Charlotte, NC 28205",28205
+https://locations.tacobell.com/nc/concord/3815-concord-parkway-s-.html,nc,concord,3815-concord-parkway-s-,032753,"3815 Concord Parkway S., Concord, NC 28027",28027
+https://locations.tacobell.com/nc/harrisburg/4000-highway-49.html,nc,harrisburg,4000-highway-49,022926,"4000 Highway 49, Harrisburg, NC 28075",28075
+https://locations.tacobell.com/nc/monroe/401-w--roosevelt-blvd-.html,nc,monroe,401-w--roosevelt-blvd-,021466,"401 W. Roosevelt Blvd., Monroe, NC 28110",28110
+https://locations.tacobell.com/nc/richfield/422-w--church-street.html,nc,richfield,422-w--church-street,041483,"422 W. Church Street, Richfield, NC 28137",28137
+https://locations.tacobell.com/nc/charlotte/4601-n-tryon-st.html,nc,charlotte,4601-n-tryon-st,037814,"4601 N Tryon St, Charlotte, NC 28213",28213
+https://locations.tacobell.com/nc/west-jefferson/51-beaver-creek-school-rd.html,nc,west-jefferson,51-beaver-creek-school-rd,E320007,"51 Beaver Creek School Rd, West Jefferson, NC 28694",28694
+https://locations.tacobell.com/nc/salisbury/510-jake-alexander-blvd-.html,nc,salisbury,510-jake-alexander-blvd-,026049,"510 Jake Alexander Blvd., Salisbury, NC 28147",28147
+https://locations.tacobell.com/nc/charlotte/5110-sunset-rd.html,nc,charlotte,5110-sunset-rd,004457,"5110 Sunset Rd, Charlotte, NC 28269",28269
+https://locations.tacobell.com/nc/charlotte/5540-university-pointe-blvd.html,nc,charlotte,5540-university-pointe-blvd,E320066,"5540 University Pointe Blvd, Charlotte, NC 28262",28262
+https://locations.tacobell.com/nc/salisbury/602-e-innes-st.html,nc,salisbury,602-e-innes-st,019324,"602 E Innes St, Salisbury, NC 28144",28144
+https://locations.tacobell.com/nc/denver/6159-hwy-16-south.html,nc,denver,6159-hwy-16-south,E320033,"6159 Hwy 16 South, Denver, NC 28037",28037
+https://locations.tacobell.com/nc/belmont/6805-w-wilkinson-blvd.html,nc,belmont,6805-w-wilkinson-blvd,002804,"6805 W Wilkinson Blvd, Belmont, NC 28012",28012
+https://locations.tacobell.com/nc/kings-mountain/705-york-road.html,nc,kings-mountain,705-york-road,020568,"705 York Road, Kings Mountain, NC 28086",28086
+https://locations.tacobell.com/nc/concord/7751-gateway-lane.html,nc,concord,7751-gateway-lane,J718235,"7751 Gateway Lane, Concord, NC 28027",28027
+https://locations.tacobell.com/nc/charlotte/8000-providence-rd-.html,nc,charlotte,8000-providence-rd-,005457,"8000 Providence Rd., Charlotte, NC 28277",28277
+https://locations.tacobell.com/nc/charlotte/8425-davis-lake-pkwy-.html,nc,charlotte,8425-davis-lake-pkwy-,022835,"8425 Davis Lake Pkwy., Charlotte, NC 28269",28269
+https://locations.tacobell.com/nc/charlotte/8661-j-w--clay-blvd.html,nc,charlotte,8661-j-w--clay-blvd,041092,"8661 J.W. Clay Blvd, Charlotte, NC 28262",28262
+https://locations.tacobell.com/nc/charlotte/8812-albemarle-rd-.html,nc,charlotte,8812-albemarle-rd-,041093,"8812 Albemarle Rd., Charlotte, NC 28227",28227
+https://locations.tacobell.com/nc/charlotte/9015-s-tryon-st.html,nc,charlotte,9015-s-tryon-st,027434,"9015 S Tryon St, Charlotte, NC 28273",28273
+https://locations.tacobell.com/nc/greensboro/3912-sedgebrook-st.html,nc,greensboro,3912-sedgebrook-st,039606,"3912 Sedgebrook St, Greensboro, NC 27409",27409
+https://locations.tacobell.com/nj/jersey-city/75-montgomery-street.html,nj,jersey-city,75-montgomery-street,038857,"75 Montgomery Street, Jersey City, NJ 07302",07302
+https://locations.tacobell.com/nj/north-bergen/2099-74th-street.html,nj,north-bergen,2099-74th-street,038822,"2099 74th Street, North Bergen, NJ 07047",07047
+https://locations.tacobell.com/nc/asheville/985-patton-ave.html,nc,asheville,985-patton-ave,040961,"985 Patton Ave, Asheville, NC 28806",28806
+https://locations.tacobell.com/nj/south-amboy/981-us-highway-9.html,nj,south-amboy,981-us-highway-9,039046,"981 US Highway 9, South Amboy, NJ 08879",08879
+https://locations.tacobell.com/nc/randleman/977-high-point-st-.html,nc,randleman,977-high-point-st-,029547,"977 High Point St., Randleman, NC 27317",27317
+https://locations.tacobell.com/nc/new-bern/971-e-us-70-hwy-.html,nc,new-bern,971-e-us-70-hwy-,023261,"971 E US 70 Hwy., New Bern, NC 28560",28560
+https://locations.tacobell.com/nc/holly-ridge/97-village-dr.html,nc,holly-ridge,97-village-dr,030572,"97 Village Dr, Holly Ridge, NC 28445",28445
+https://locations.tacobell.com/nc/pembroke/942-e-3rd-st.html,nc,pembroke,942-e-3rd-st,030566,"942 E 3rd St, Pembroke, NC 28372",28372
+https://locations.tacobell.com/ne/kearney/925-2nd-avenue-east.html,ne,kearney,925-2nd-avenue-east,016516,"925 2nd Avenue East, Kearney, NE 68847",68847
+https://locations.tacobell.com/nj/toms-river/908-highway-37-w.html,nj,toms-river,908-highway-37-w,039078,"908 Highway 37 W, Toms River, NJ 08755",08755
+https://locations.tacobell.com/nj/woodbridge/901-st-georges-ave.html,nj,woodbridge,901-st-georges-ave,039109,"901 St Georges Ave, Woodbridge, NJ 07095",07095
+https://locations.tacobell.com/nc/wilson/901-highway-301.html,nc,wilson,901-highway-301,C748036,"901 Highway 301, Wilson, NC 27893",27893
+https://locations.tacobell.com/nh/somersworth/9-commercial-drive.html,nh,somersworth,9-commercial-drive,G445005,"9 Commercial Drive, Somersworth, NH 03878",03878
+https://locations.tacobell.com/nc/raleigh/8801-six-forks-road.html,nc,raleigh,8801-six-forks-road,005776,"8801 Six Forks Road, Raleigh, NC 27615",27615
+https://locations.tacobell.com/nc/asheville/872-brevard-rd.html,nc,asheville,872-brevard-rd,040964,"872 Brevard Rd, Asheville, NC 28806",28806
+https://locations.tacobell.com/nc/plymouth/860-highway-64-east.html,nc,plymouth,860-highway-64-east,H667003,"860 Highway 64 East, Plymouth, NC 27962",27962
+https://locations.tacobell.com/nc/cameron/855-nc-highway-24-87.html,nc,cameron,855-nc-highway-24-87,030568,"855 NC Highway 24 87, Cameron, NC 28326",28326
+https://locations.tacobell.com/nh/keene/85-key-rd.html,nh,keene,85-key-rd,J089026,"85 Key Rd, Keene, NH 03431",03431
+https://locations.tacobell.com/nj/wrightstown/85-fort-dix-st.html,nj,wrightstown,85-fort-dix-st,002398,"85 Fort Dix St, Wrightstown, NJ 08562",08562
+https://locations.tacobell.com/nc/raleigh/8470-louisburg-rd.html,nc,raleigh,8470-louisburg-rd,032555,"8470 Louisburg Rd, Raleigh, NC 27616",27616
+https://locations.tacobell.com/nc/lexington/846-winston-road.html,nc,lexington,846-winston-road,029866,"846 Winston Road, Lexington, NC 27295",27295
+https://locations.tacobell.com/nd/west-fargo/815-23rd-ave-east.html,nd,west-fargo,815-23rd-ave-east,037589,"815 23rd Ave East, West Fargo, ND 58078",58078
+https://locations.tacobell.com/ne/south-sioux-city/810-dakota-ave.html,ne,south-sioux-city,810-dakota-ave,037471,"810 Dakota Ave, South Sioux City, NE 68776",68776
+https://locations.tacobell.com/ne/la-vista/8013-south-84th-street.html,ne,la-vista,8013-south-84th-street,035275,"8013 South 84th Street, La Vista, NE 68128",68128
+https://locations.tacobell.com/nc/burgaw/801-nc-highway-53-east.html,nc,burgaw,801-nc-highway-53-east,031711,"801 NC Highway 53 East, Burgaw, NC 28425",28425
+https://locations.tacobell.com/nd/bismarck/800-south-washington.html,nd,bismarck,800-south-washington,037584,"800 South Washington, Bismarck, ND 58504",58504
+https://locations.tacobell.com/nj/neptune/8-highway-35-n.html,nj,neptune,8-highway-35-n,039070,"8 Highway 35 N, Neptune, NJ 07753",07753
+https://locations.tacobell.com/ne/papillion/7710-olson-drive.html,ne,papillion,7710-olson-drive,035286,"7710 Olson Drive, Papillion, NE 68046",68046
+https://locations.tacobell.com/nc/fayetteville/7647-s-raeford-rd.html,nc,fayetteville,7647-s-raeford-rd,030565,"7647 S Raeford Rd, Fayetteville, NC 28304",28304
+https://locations.tacobell.com/ne/omaha/7516-n-30th-street.html,ne,omaha,7516-n-30th-street,035273,"7516 N 30th Street, Omaha, NE 68112",68112
+https://locations.tacobell.com/nc/nags-head/7320-s--virginia-dare-trail.html,nc,nags-head,7320-s--virginia-dare-trail,039755,"7320 S. Virginia Dare Trail, Nags Head, NC 27959",27959
+https://locations.tacobell.com/nc/eden/726-s-van-buren-rd.html,nc,eden,726-s-van-buren-rd,027701,"726 S Van Buren Rd, Eden, NC 27288",27288
+https://locations.tacobell.com/nc/dunn/723-e-cumberland-st.html,nc,dunn,723-e-cumberland-st,018907,"723 E Cumberland St, Dunn, NC 28334",28334
+https://locations.tacobell.com/nc/yadkinville/713-south-state-street.html,nc,yadkinville,713-south-state-street,017524,"713 South State Street, Yadkinville, NC 27055",27055
+https://locations.tacobell.com/nj/pleasantville/712-black-horse-pike.html,nj,pleasantville,712-black-horse-pike,034760,"712 Black Horse Pike, Pleasantville, NJ 08232",08232
+https://locations.tacobell.com/nc/holly-springs/7108-g--b--alford-highway.html,nc,holly-springs,7108-g--b--alford-highway,029354,"7108 G. B. Alford Highway, Holly Springs, NC 27540",27540
+https://locations.tacobell.com/nj/mount-ephraim/710-n-black-horse-pike.html,nj,mount-ephraim,710-n-black-horse-pike,029463,"710 N Black Horse Pike, Mount Ephraim, NJ 08059",08059
+https://locations.tacobell.com/nc/havelock/707-east-main-street.html,nc,havelock,707-east-main-street,021383,"707 East Main Street, Havelock, NC 28532",28532
+https://locations.tacobell.com/ne/omaha/7051-dodge-street.html,ne,omaha,7051-dodge-street,035269,"7051 Dodge Street, Omaha, NE 68132",68132
+https://locations.tacobell.com/nc/knightdale/7036-knightdale-blvd.html,nc,knightdale,7036-knightdale-blvd,015954,"7036 Knightdale Blvd, Knightdale, NC 27545",27545
+https://locations.tacobell.com/nj/jersey-city/701-new-jersey-440.html,nj,jersey-city,701-new-jersey-440,039095,"701 New Jersey 440, Jersey City, NJ 07306",07306
+https://locations.tacobell.com/nc/kinston/700-us-70-west.html,nc,kinston,700-us-70-west,032553,"700 US 70 West, Kinston, NC 28504",28504
+https://locations.tacobell.com/nc/pisgah-forest/700-forest-gate-center.html,nc,pisgah-forest,700-forest-gate-center,040968,"700 Forest Gate Center, Pisgah Forest, NC 28768",28768
+https://locations.tacobell.com/nc/fayetteville/6894-cliffdale-road.html,nc,fayetteville,6894-cliffdale-road,030557,"6894 Cliffdale Road, Fayetteville, NC 28314",28314
+https://locations.tacobell.com/nh/londonderry/68-nashua-road.html,nh,londonderry,68-nashua-road,J089023,"68 Nashua Road, Londonderry, NH 03053",03053
+https://locations.tacobell.com/nj/manahawkin/674-route-72-e.html,nj,manahawkin,674-route-72-e,039088,"674 Route 72 E, Manahawkin, NJ 08050",08050
+https://locations.tacobell.com/ne/lincoln/6700-s-27th-st.html,ne,lincoln,6700-s-27th-st,020394,"6700 S 27th St, Lincoln, NE 68512",68512
+https://locations.tacobell.com/nc/asheville/67-tunnel-road.html,nc,asheville,67-tunnel-road,040960,"67 Tunnel Road, Asheville, NC 28805",28805
+https://locations.tacobell.com/nc/canton/660-champion-drive.html,nc,canton,660-champion-drive,040969,"660 Champion Drive, Canton, NC 28716",28716
+https://locations.tacobell.com/nc/swansboro/652-w-corbett-ave.html,nc,swansboro,652-w-corbett-ave,029329,"652 W Corbett Ave, Swansboro, NC 28584",28584
+https://locations.tacobell.com/nc/raleigh/6405-falls-of-neuse-rd-.html,nc,raleigh,6405-falls-of-neuse-rd-,029409,"6405 Falls Of Neuse Rd., Raleigh, NC 27615",27615
+https://locations.tacobell.com/nc/raleigh/6404-glenwood-ave.html,nc,raleigh,6404-glenwood-ave,001872,"6404 Glenwood Ave, Raleigh, NC 27612",27612
+https://locations.tacobell.com/nc/whitsett/6405-w-interstate-ct.html,nc,whitsett,6405-w-interstate-ct,039740,"6405 W Interstate Ct, Whitsett, NC 27377",27377
+https://locations.tacobell.com/nc/wilmington/630-s-college-rd.html,nc,wilmington,630-s-college-rd,030559,"630 S College Rd, Wilmington, NC 28403",28403
+https://locations.tacobell.com/nc/pittsboro/63-lowes-drive.html,nc,pittsboro,63-lowes-drive,029482,"63 Lowes Drive, Pittsboro, NC 27312",27312
+https://locations.tacobell.com/nc/asheboro/625-w-dixie-dr.html,nc,asheboro,625-w-dixie-dr,029546,"625 W Dixie Dr, Asheboro, NC 27205",27205
+https://locations.tacobell.com/nj/elmwood-park/622-market-street.html,nj,elmwood-park,622-market-street,039050,"622 Market Street, Elmwood Park, NJ 07407",07407
+https://locations.tacobell.com/nc/whittier/622-casino-trail.html,nc,whittier,622-casino-trail,040958,"622 Casino Trail, Whittier, NC 28789",28789
+https://locations.tacobell.com/ne/omaha/6110-n-72nd-st.html,ne,omaha,6110-n-72nd-st,035288,"6110 N 72nd St, Omaha, NE 68134",68134
+https://locations.tacobell.com/nj/west-new-york/6035-bergenline-avenue.html,nj,west-new-york,6035-bergenline-avenue,035836,"6035 Bergenline Avenue, West New York, NJ 07093",07093
+https://locations.tacobell.com/nc/benson/602-e--main-st.html,nc,benson,602-e--main-st,030257,"602 E. Main St, Benson, NC 27504",27504
+https://locations.tacobell.com/nj/mount-holly/601-high-street.html,nj,mount-holly,601-high-street,002363,"601 High Street, Mount Holly, NJ 08060",08060
+https://locations.tacobell.com/nc/franklin/6-hyatt-rd.html,nc,franklin,6-hyatt-rd,040962,"6 Hyatt Rd, Franklin, NC 28734",28734
+https://locations.tacobell.com/nc/wilmington/5972-carolina-beach-rd.html,nc,wilmington,5972-carolina-beach-rd,030574,"5972 Carolina Beach Rd, Wilmington, NC 28412",28412
+https://locations.tacobell.com/nc/fayetteville/5915-yadkin-road.html,nc,fayetteville,5915-yadkin-road,030562,"5915 Yadkin Road, Fayetteville, NC 28303",28303
+https://locations.tacobell.com/nj/trenton/590-s-broad-street.html,nj,trenton,590-s-broad-street,024485,"590 S Broad Street, Trenton, NJ 08611",08611
+https://locations.tacobell.com/nj/east-brunswick/572-route-18.html,nj,east-brunswick,572-route-18,031281,"572 Route 18, East Brunswick, NJ 08816",08816
+https://locations.tacobell.com/nc/wallace/5710-s-nc-41-hwy.html,nc,wallace,5710-s-nc-41-hwy,031432,"5710 S NC 41 Hwy, Wallace, NC 28466",28466
+https://locations.tacobell.com/ne/kearney/5620-1st-avenue.html,ne,kearney,5620-1st-avenue,029775,"5620 1st Avenue, Kearney, NE 68847",68847
+https://locations.tacobell.com/nj/brick/560-brick-blvd.html,nj,brick,560-brick-blvd,039096,"560 Brick Blvd, Brick, NJ 08723",08723
+https://locations.tacobell.com/nc/garner/5530-north-carolina-highway-42.html,nc,garner,5530-north-carolina-highway-42,029404,"5530 North Carolina Highway 42, Garner, NC 27529",27529
+https://locations.tacobell.com/nc/elkin/551-cc-camp-road.html,nc,elkin,551-cc-camp-road,039741,"551 CC Camp Road, Elkin, NC 28621",28621
+https://locations.tacobell.com/nj/orange/540-main-street.html,nj,orange,540-main-street,031508,"540 Main Street, Orange, NJ 07050",07050
+https://locations.tacobell.com/ne/omaha/5310-south-108th-street.html,ne,omaha,5310-south-108th-street,035280,"5310 South 108th Street, Omaha, NE 68137",68137
+https://locations.tacobell.com/nc/black-mountain/530-nc-highway-9.html,nc,black-mountain,530-nc-highway-9,040963,"530 NC Highway 9, Black Mountain, NC 28711",28711
+https://locations.tacobell.com/nc/oxford/527-east-industry-drive.html,nc,oxford,527-east-industry-drive,041398,"527 East Industry Drive, Oxford, NC 27565",27565
+https://locations.tacobell.com/nj/newark/52-jones-st-.html,nj,newark,52-jones-st-,039100,"52 Jones St., Newark, NJ 07103",07103
+https://locations.tacobell.com/ne/omaha/5139-north-90th-street.html,ne,omaha,5139-north-90th-street,035274,"5139 North 90th Street, Omaha, NE 68134",68134
+https://locations.tacobell.com/nj/cherry-hill/512-haddonfield-road.html,nj,cherry-hill,512-haddonfield-road,024352,"512 Haddonfield Road, Cherry Hill, NJ 08002",08002
+https://locations.tacobell.com/nj/belleville/508-washington-avenue.html,nj,belleville,508-washington-avenue,039077,"508 Washington Avenue, Belleville, NJ 07109",07109
+https://locations.tacobell.com/nc/graham/507-south-main-street.html,nc,graham,507-south-main-street,039727,"507 South Main Street, Graham, NC 27253",27253
+https://locations.tacobell.com/nj/hackensack/500-s-river-st.html,nj,hackensack,500-s-river-st,039094,"500 S River St, Hackensack, NJ 07601",07601
+https://locations.tacobell.com/nc/wilson/4925-us-hwy-264.html,nc,wilson,4925-us-hwy-264,032515,"4925 US Hwy 264, Wilson, NC 27893",27893
+https://locations.tacobell.com/nc/southport/4921-long-beach-road.html,nc,southport,4921-long-beach-road,042296,"4921 Long Beach Road, Southport, NC 28461",28461
+https://locations.tacobell.com/nc/greensboro/4809-w-market-st.html,nc,greensboro,4809-w-market-st,039712,"4809 W Market St, Greensboro, NC 27407",27407
+https://locations.tacobell.com/nj/south-plainfield/4807-stelton-rd.html,nj,south-plainfield,4807-stelton-rd,039035,"4807 Stelton Rd, South Plainfield, NJ 07080",07080
+https://locations.tacobell.com/ne/omaha/4801-l-st.html,ne,omaha,4801-l-st,035281,"4801 L St, Omaha, NE 68117",68117
+https://locations.tacobell.com/nc/nashville/475-w-washington-st.html,nc,nashville,475-w-washington-st,024229,"475 W Washington St, Nashville, NC 27856",27856
+https://locations.tacobell.com/nc/fayetteville/4705-ramsey-st.html,nc,fayetteville,4705-ramsey-st,030554,"4705 Ramsey St, Fayetteville, NC 28311",28311
+https://locations.tacobell.com/nc/greensboro/4620-w-gate-city-blvd.html,nc,greensboro,4620-w-gate-city-blvd,039719,"4620 W Gate City Blvd, Greensboro, NC 27407",27407
+https://locations.tacobell.com/ne/lincoln/4502-o-street.html,ne,lincoln,4502-o-street,000404,"4502 O Street, Lincoln, NE 68510",68510
+https://locations.tacobell.com/nc/shallotte/4461-main-street.html,nc,shallotte,4461-main-street,030571,"4461 Main Street, Shallotte, NC 28470",28470
+https://locations.tacobell.com/nc/wilmington/4422-s-17th-st.html,nc,wilmington,4422-s-17th-st,030573,"4422 S 17th St, Wilmington, NC 28412",28412
+https://locations.tacobell.com/nj/hillside/425-route-22.html,nj,hillside,425-route-22,039069,"425 Route 22, Hillside, NJ 07205",07205
+https://locations.tacobell.com/nd/fargo/4135-13th-ave-south.html,nd,fargo,4135-13th-ave-south,037577,"4135 13th Ave South, Fargo, ND 58103",58103
+https://locations.tacobell.com/ne/bellevue/4105-twin-creek-dr-.html,ne,bellevue,4105-twin-creek-dr-,035278,"4105 Twin Creek Dr., Bellevue, NE 68123",68123
+https://locations.tacobell.com/nc/wilmington/4101-market-st.html,nc,wilmington,4101-market-st,030561,"4101 Market St, Wilmington, NC 28405",28405
+https://locations.tacobell.com/nj/hillsborough/409-us-highway-206.html,nj,hillsborough,409-us-highway-206,039092,"409 US Highway 206, Hillsborough, NJ 08844",08844
+https://locations.tacobell.com/nc/morehead-city/4039-arendell-st.html,nc,morehead-city,4039-arendell-st,004302,"4039 Arendell St, Morehead City, NC 28557",28557
+https://locations.tacobell.com/nc/jacksonville/403-s-marine-blvd.html,nc,jacksonville,403-s-marine-blvd,030563,"403 S Marine Blvd, Jacksonville, NC 28540",28540
+https://locations.tacobell.com/nj/magnolia/401-s--whitehorse-pike.html,nj,magnolia,401-s--whitehorse-pike,029784,"401 S. Whitehorse Pike, Magnolia, NJ 08049",08049
+https://locations.tacobell.com/nj/delran/4006-route-130.html,nj,delran,4006-route-130,001975,"4006 Route 130, Delran, NJ 08075",08075
+https://locations.tacobell.com/nh/hooksett/4-chambers-drive.html,nh,hooksett,4-chambers-drive,J089024,"4 Chambers Drive, Hooksett, NH 03106",03106
+https://locations.tacobell.com/nj/vineland/3920-s-delsea-dr.html,nj,vineland,3920-s-delsea-dr,002497,"3920 S Delsea Dr, Vineland, NJ 08360",08360
+https://locations.tacobell.com/ne/omaha/3917-s-42nd-st.html,ne,omaha,3917-s-42nd-st,035272,"3917 S 42nd St, Omaha, NE 68107",68107
+https://locations.tacobell.com/nc/winterville/3906-s-memorial-drive.html,nc,winterville,3906-s-memorial-drive,024227,"3906 S Memorial Drive, Winterville, NC 28590",28590
+https://locations.tacobell.com/ne/omaha/3855-dodge-street.html,ne,omaha,3855-dodge-street,035284,"3855 Dodge Street, Omaha, NE 68131",68131
+https://locations.tacobell.com/nc/raleigh/3821-western-blvd.html,nc,raleigh,3821-western-blvd,003279,"3821 Western Blvd, Raleigh, NC 27606",27606
+https://locations.tacobell.com/nc/durham/3821-north-duke-street.html,nc,durham,3821-north-duke-street,015846,"3821 North Duke Street, Durham, NC 27702",27702
+https://locations.tacobell.com/nj/howell/3810-rt-9-s.html,nj,howell,3810-rt-9-s,039048,"3810 Rt 9 S, Howell, NJ 07731",07731
+https://locations.tacobell.com/ne/york/3803-s--lincoln-avenue.html,ne,york,3803-s--lincoln-avenue,C029051,"3803 S. Lincoln Avenue, York, NE 68467",68467
+https://locations.tacobell.com/nc/sylva/375-e-main-st.html,nc,sylva,375-e-main-st,040967,"375 E Main St, Sylva, NC 28779",28779
+https://locations.tacobell.com/nc/greensboro/3740-battleground-ave.html,nc,greensboro,3740-battleground-ave,039722,"3740 Battleground Ave, Greensboro, NC 27410",27410
+https://locations.tacobell.com/nc/wilson/3720-nash-st-n.html,nc,wilson,3720-nash-st-n,028363,"3720 Nash St N, Wilson, NC 27896",27896
+https://locations.tacobell.com/ne/hastings/3706-cimarron-ave-.html,ne,hastings,3706-cimarron-ave-,024210,"3706 Cimarron Ave., Hastings, NE 68901",68901
+https://locations.tacobell.com/nj/perth-amboy/366-convery-blvd.html,nj,perth-amboy,366-convery-blvd,039047,"366 Convery Blvd, Perth Amboy, NJ 08861",08861
+https://locations.tacobell.com/nc/winston-salem/3644-reynolda-road.html,nc,winston-salem,3644-reynolda-road,039729,"3644 Reynolda Road, Winston Salem, NC 27106",27106
+https://locations.tacobell.com/nc/durham/3570-hillsborough-rd.html,nc,durham,3570-hillsborough-rd,029406,"3570 Hillsborough Rd, Durham, NC 27705",27705
+https://locations.tacobell.com/nc/hillsborough/353-s--churton-street.html,nc,hillsborough,353-s--churton-street,029400,"353 S. Churton Street, Hillsborough, NC 27278",27278
+https://locations.tacobell.com/nc/durham/3509-westgate-dr.html,nc,durham,3509-westgate-dr,029364,"3509 Westgate Dr, Durham, NC 27707",27707
+https://locations.tacobell.com/nj/union-city/3509-john-f-kennedy.html,nj,union-city,3509-john-f-kennedy,039099,"3509 John F Kennedy, Union City, NJ 07087",07087
+https://locations.tacobell.com/nc/winston-salem/349-akron-drive.html,nc,winston-salem,349-akron-drive,039736,"349 Akron Drive, Winston Salem, NC 27105",27105
+https://locations.tacobell.com/nc/walkertown/3409-pearlview-drive.html,nc,walkertown,3409-pearlview-drive,039743,"3409 Pearlview Drive, Walkertown, NC 27051",27051
+https://locations.tacobell.com/ne/columbus/3408-23rd-street.html,ne,columbus,3408-23rd-street,016801,"3408 23rd Street, Columbus, NE 68601",68601
+https://locations.tacobell.com/nd/bismarck/3310-state-street.html,nd,bismarck,3310-state-street,037586,"3310 State Street, Bismarck, ND 58501",58501
+https://locations.tacobell.com/ne/lincoln/3310-n-27th-st.html,ne,lincoln,3310-n-27th-st,015443,"3310 N 27th St, Lincoln, NE 68521",68521
+https://locations.tacobell.com/nc/greenville/330-east-arlington-blvd.html,nc,greenville,330-east-arlington-blvd,024223,"330 East Arlington Blvd, Greenville, NC 27858",27858
+https://locations.tacobell.com/nc/raleigh/3224-s-wilmington-st.html,nc,raleigh,3224-s-wilmington-st,002836,"3224 S Wilmington St, Raleigh, NC 27603",27603
+https://locations.tacobell.com/nh/salem/322-s--broadway.html,nh,salem,322-s--broadway,029273,"322 S. Broadway, Salem, NH 03079",03079
+https://locations.tacobell.com/ne/omaha/3211-n-108th-st.html,ne,omaha,3211-n-108th-st,035271,"3211 N 108th St, Omaha, NE 68164",68164
+https://locations.tacobell.com/nc/elizabethtown/321-s--poplar-st.html,nc,elizabethtown,321-s--poplar-st,029728,"321 S. Poplar St, Elizabethtown, NC 28337",28337
+https://locations.tacobell.com/nh/concord/321-loudon-rd.html,nh,concord,321-loudon-rd,029272,"321 Loudon Rd, Concord, NH 03301",03301
+https://locations.tacobell.com/nj/hamilton/3200-south-broad-st.html,nj,hamilton,3200-south-broad-st,020834,"3200 South Broad St, Hamilton, NJ 08610",08610
+https://locations.tacobell.com/nc/burlington/309-huffman-mill-road.html,nc,burlington,309-huffman-mill-road,039745,"309 Huffman Mill Road, Burlington, NC 27215",27215
+https://locations.tacobell.com/nh/seabrook/306-lafayette-road.html,nh,seabrook,306-lafayette-road,G135981,"306 Lafayette Road, Seabrook, NH 03874",03874
+https://locations.tacobell.com/nj/west-long-branch/306-nj-36.html,nj,west-long-branch,306-nj-36,039059,"306 NJ-36, West Long Branch, NJ 07764",07764
+https://locations.tacobell.com/nc/hope-mills/3014-n-main-st.html,nc,hope-mills,3014-n-main-st,030550,"3014 N Main St, Hope Mills, NC 28348",28348
+https://locations.tacobell.com/nc/elizabeth-city/301-w-ehringhaus-street.html,nc,elizabeth-city,301-w-ehringhaus-street,039754,"301 W Ehringhaus Street, Elizabeth City, NC 27909",27909
+https://locations.tacobell.com/nh/nashua/300-main-street.html,nh,nashua,300-main-street,029274,"300 Main Street, Nashua, NH 03060",03060
+https://locations.tacobell.com/nc/north-wilkesboro/3-sparta-rd.html,nc,north-wilkesboro,3-sparta-rd,036721,"3 Sparta Rd, North Wilkesboro, NC 28659",28659
+https://locations.tacobell.com/nc/fayetteville/2966-owen-dr.html,nc,fayetteville,2966-owen-dr,030555,"2966 Owen Dr, Fayetteville, NC 28306",28306
+https://locations.tacobell.com/nj/maple-shade/2821-route-73-south.html,nj,maple-shade,2821-route-73-south,J130035,"2821 Route 73 South, Maple Shade, NJ 08052",08052
+https://locations.tacobell.com/nc/fayetteville/2819-raeford-road.html,nc,fayetteville,2819-raeford-road,030549,"2819 Raeford Road, Fayetteville, NC 28303",28303
+https://locations.tacobell.com/ne/omaha/2812-south-84th-street.html,ne,omaha,2812-south-84th-street,035277,"2812 South 84th Street, Omaha, NE 68124",68124
+https://locations.tacobell.com/nj/flemington/280a-route-202-31.html,nj,flemington,280a-route-202-31,039053,"280A Route 202 31, Flemington, NJ 08822",08822
+https://locations.tacobell.com/nj/robbinsville/28-main-st-.html,nj,robbinsville,28-main-st-,029459,"28 Main St., Robbinsville, NJ 08691",08691
+https://locations.tacobell.com/nc/raleigh/2748-capital-blvd-.html,nc,raleigh,2748-capital-blvd-,005568,"2748 Capital Blvd., Raleigh, NC 27604",27604
+https://locations.tacobell.com/nj/union/2704-us-highway-22-e.html,nj,union,2704-us-highway-22-e,039044,"2704 US Highway 22 E, Union, NJ 07083",07083
+https://locations.tacobell.com/nc/high-point/2701-s-main-st.html,nc,high-point,2701-s-main-st,039737,"2701 S Main St, High Point, NC 27263",27263
+https://locations.tacobell.com/nj/montvale/27-s-kinderkamack-rd.html,nj,montvale,27-s-kinderkamack-rd,036378,"27 S Kinderkamack Rd, Montvale, NJ 07645",07645
+https://locations.tacobell.com/nj/succasunna/268-route-10.html,nj,succasunna,268-route-10,039036,"268 Route 10, Succasunna, NJ 07876",07876
+https://locations.tacobell.com/nc/rocky-mount/2644-sunset-ave.html,nc,rocky-mount,2644-sunset-ave,024218,"2644 Sunset Ave, Rocky Mount, NC 27801",27801
+https://locations.tacobell.com/nd/bismarck/2616-rock-island-place.html,nd,bismarck,2616-rock-island-place,037588,"2616 Rock Island Place, Bismarck, ND 58504",58504
+https://locations.tacobell.com/nc/greensboro/2610-battleground-ave.html,nc,greensboro,2610-battleground-ave,039710,"2610 Battleground Ave, Greensboro, NC 27408",27408
+https://locations.tacobell.com/nc/wilmington/2600-n-college-rd.html,nc,wilmington,2600-n-college-rd,029719,"2600 N College Rd, Wilmington, NC 28405",28405
+https://locations.tacobell.com/nj/franklin/256-state-route-23.html,nj,franklin,256-state-route-23,039546,"256 State Route 23, Franklin, NJ 07416",07416
+https://locations.tacobell.com/nc/winston-salem/255-summit-point-ln-.html,nc,winston-salem,255-summit-point-ln-,039724,"255 Summit Point Ln., Winston Salem, NC 27105",27105
+https://locations.tacobell.com/nc/greensboro/2515-w-gate-city-blvd.html,nc,greensboro,2515-w-gate-city-blvd,039721,"2515 W Gate City Blvd, Greensboro, NC 27403",27403
+https://locations.tacobell.com/nc/goldsboro/2507-e-ash-street.html,nc,goldsboro,2507-e-ash-street,024233,"2507 E Ash Street, Goldsboro, NC 27534",27534
+https://locations.tacobell.com/nh/rochester/288-n--main-street.html,nh,rochester,288-n--main-street,029561,"288 N. Main Street, Rochester, NH 03867",03867
+https://locations.tacobell.com/nj/east-windsor/25-princeton-hightstown-road.html,nj,east-windsor,25-princeton-hightstown-road,019829,"25 Princeton-Hightstown Road, East Windsor, NJ 08520",08520
+https://locations.tacobell.com/nc/clemmons/2437-lewisville-clemmons-rd.html,nc,clemmons,2437-lewisville-clemmons-rd,039717,"2437 Lewisville Clemmons Rd, Clemmons, NC 27012",27012
+https://locations.tacobell.com/ne/plattsmouth/2412-w--8th-avenue.html,ne,plattsmouth,2412-w--8th-avenue,C029050,"2412 W. 8th Avenue, Plattsmouth, NE 68048",68048
+https://locations.tacobell.com/nc/wilmington/2355-south-17th-street.html,nc,wilmington,2355-south-17th-street,030560,"2355 South 17th Street, Wilmington, NC 28401",28401
+https://locations.tacobell.com/nj/mantua/235-bridgeton-pike.html,nj,mantua,235-bridgeton-pike,022267,"235 Bridgeton Pike, Mantua, NJ 08051",08051
+https://locations.tacobell.com/nh/portsmouth/2319-lafayette-rd.html,nh,portsmouth,2319-lafayette-rd,031694,"2319 LaFayette Rd, Portsmouth, NH 03801",03801
+https://locations.tacobell.com/nj/mays-landing/2300-wrangleboro-rd.html,nj,mays-landing,2300-wrangleboro-rd,034761,"2300 Wrangleboro Rd Unit #400, Mays Landing, NJ 08330",08330
+https://locations.tacobell.com/nj/green-brook/225-227-us-highway-22.html,nj,green-brook,225-227-us-highway-22,039083,"225-227 US Highway 22, Green Brook, NJ 08812",08812
+https://locations.tacobell.com/nc/greensboro/2239-martin-luther-king-jr-blvd.html,nc,greensboro,2239-martin-luther-king-jr-blvd,039739,"2239 Martin Luther King Jr Blvd, Greensboro, NC 27406",27406
+https://locations.tacobell.com/ne/grand-island/2211-s-locust-st.html,ne,grand-island,2211-s-locust-st,030299,"2211 S Locust St, Grand Island, NE 68801",68801
+https://locations.tacobell.com/nc/wake-forest/2207-s--main-street.html,nc,wake-forest,2207-s--main-street,022798,"2207 S. Main Street, Wake Forest, NC 27587",27587
+https://locations.tacobell.com/nc/raeford/220-laurinburg-rd.html,nc,raeford,220-laurinburg-rd,030730,"220 Laurinburg Rd, Raeford, NC 28376",28376
+https://locations.tacobell.com/nj/kearny/220-harrison-ave-.html,nj,kearny,220-harrison-ave-,039101,"220 Harrison Ave., Kearny, NJ 07032",07032
+https://locations.tacobell.com/nc/roxboro/2180-durham-road.html,nc,roxboro,2180-durham-road,G135936,"2180 Durham Road, Roxboro, NC 27573",27573
+https://locations.tacobell.com/nj/fort-lee/2170-fletcher-ave.html,nj,fort-lee,2170-fletcher-ave,G135322,"2170 Fletcher Ave, Fort Lee, NJ 07024",07024
+https://locations.tacobell.com/nc/mount-airy/2152-rockford-st.html,nc,mount-airy,2152-rockford-st,036152,"2152 Rockford St, Mount Airy, NC 27030",27030
+https://locations.tacobell.com/nc/fayetteville/2130-cedar-creek-road.html,nc,fayetteville,2130-cedar-creek-road,030556,"2130 Cedar Creek Road, Fayetteville, NC 28312",28312
+https://locations.tacobell.com/nd/fargo/2121-university-dr-s.html,nd,fargo,2121-university-dr-s,037587,"2121 University Dr S, Fargo, ND 58103",58103
+https://locations.tacobell.com/ne/nebraska-city/2110-south-11th-street.html,ne,nebraska-city,2110-south-11th-street,036521,"2110 South 11th Street, Nebraska City, NE 68410",68410
+https://locations.tacobell.com/nc/cary/2101-walnut-st.html,nc,cary,2101-walnut-st,020165,"2101 Walnut St, Cary, NC 27511",27511
+https://locations.tacobell.com/nc/durham/2101-e-nc-highway-54.html,nc,durham,2101-e-nc-highway-54,004257,"2101 E NC Highway 54, Durham, NC 27713",27713
+https://locations.tacobell.com/nc/lumberton/2100-n-roberts-ave.html,nc,lumberton,2100-n-roberts-ave,030558,"2100 N Roberts Ave, Lumberton, NC 28358",28358
+https://locations.tacobell.com/nc/jacksonville/2095-n-marine-blvd.html,nc,jacksonville,2095-n-marine-blvd,030553,"2095 N Marine Blvd, Jacksonville, NC 28546",28546
+https://locations.tacobell.com/nc/waynesville/2087-s--main-st-.html,nc,waynesville,2087-s--main-st-,040970,"2087 S. Main St., Waynesville, NC 28786",28786
+https://locations.tacobell.com/nc/louisburg/207-s--bickett-boulevard.html,nc,louisburg,207-s--bickett-boulevard,041399,"207 S. Bickett Boulevard, Louisburg, NC 27549",27549
+https://locations.tacobell.com/nc/jacksonville/2055-gum-branch-rd.html,nc,jacksonville,2055-gum-branch-rd,030576,"2055 Gum Branch Rd, Jacksonville, NC 28540",28540
+https://locations.tacobell.com/nc/high-point/205-eastchester-dr.html,nc,high-point,205-eastchester-dr,039711,"205 Eastchester Dr, High Point, NC 27262",27262
+https://locations.tacobell.com/nj/willingboro/4402-a-rt--130.html,nj,willingboro,4402-a-rt--130,016185,"4402 A Rt. 130, Willingboro, NJ 08046",08046
+https://locations.tacobell.com/nj/north-bergen/2020-tonnelle-avenue.html,nj,north-bergen,2020-tonnelle-avenue,039081,"2020 Tonnelle Avenue, North Bergen, NJ 07047",07047
+https://locations.tacobell.com/nj/milltown/200-ryders-ln.html,nj,milltown,200-ryders-ln,030685,"200 Ryders Ln, Milltown, NJ 08850",08850
+https://locations.tacobell.com/nc/greenville/1991-stantonsburg-rd.html,nc,greenville,1991-stantonsburg-rd,026333,"1991 Stantonsburg Rd, Greenville, NC 27834",27834
+https://locations.tacobell.com/nj/west-berlin/198-n-route-73.html,nj,west-berlin,198-n-route-73,003753,"198 N Route 73, West Berlin, NJ 08091",08091
+https://locations.tacobell.com/nh/west-lebanon/197-south-main-street.html,nh,west-lebanon,197-south-main-street,J089025,"197 South Main Street, West Lebanon, NH 03784",03784
+https://locations.tacobell.com/nj/hackettstown/1925-state-route-57.html,nj,hackettstown,1925-state-route-57,029472,"1925 State Route 57, Hackettstown, NJ 07840",07840
+https://locations.tacobell.com/nc/fayetteville/1925-skibo-rd.html,nc,fayetteville,1925-skibo-rd,030551,"1925 Skibo Rd, Fayetteville, NC 28314",28314
+https://locations.tacobell.com/ne/grand-island/1911-north-diers-ave.html,ne,grand-island,1911-north-diers-ave,016957,"1911 North Diers Ave, Grand Island, NE 68803",68803
+https://locations.tacobell.com/nc/sanford/1910-south-horner-blvd.html,nc,sanford,1910-south-horner-blvd,036149,"1910 South Horner Blvd, Sanford, NC 27330",27330
+https://locations.tacobell.com/nc/asheville/1885-hendersonville-rd.html,nc,asheville,1885-hendersonville-rd,040965,"1885 Hendersonville Rd, Asheville, NC 28803",28803
+https://locations.tacobell.com/nc/forest-city/1856-us-hwy-74a-bypass.html,nc,forest-city,1856-us-hwy-74a-bypass,040971,"1856 US Hwy 74A Bypass, Forest City, NC 28043",28043
+https://locations.tacobell.com/nc/midway-park/185-freedom-way.html,nc,midway-park,185-freedom-way,030552,"185 Freedom Way, Midway Park, NC 28544",28544
+https://locations.tacobell.com/nc/wilson/1840-tarboro-st-w.html,nc,wilson,1840-tarboro-st-w,024772,"1840 Tarboro St W, Wilson, NC 27893",27893
+https://locations.tacobell.com/ne/omaha/18370-wright-st.html,ne,omaha,18370-wright-st,035282,"18370 Wright St, Omaha, NE 68130",18370
+https://locations.tacobell.com/nc/marion/182-us-70-w.html,nc,marion,182-us-70-w,040966,"182 US 70 W, Marion, NC 28752",28752
+https://locations.tacobell.com/nc/hendersonville/1819-four-seasons.html,nc,hendersonville,1819-four-seasons,040959,"1819 Four Seasons, Hendersonville, NC 28792",28792
+https://locations.tacobell.com/nc/new-bern/1815-neuse-blvd.html,nc,new-bern,1815-neuse-blvd,003164,"1815 Neuse Blvd, New Bern, NC 28560",28560
+https://locations.tacobell.com/nc/burlington/1812-n--church-st.html,nc,burlington,1812-n--church-st,039713,"1812 N. Church St, Burlington, NC 27217",27217
+https://locations.tacobell.com/nc/kinston/1806-w-vernon-avenue.html,nc,kinston,1806-w-vernon-avenue,031431,"1806 W Vernon Avenue, Kinston, NC 28501",28501
+https://locations.tacobell.com/nc/roanoke-rapids/1801-julian-r-allsbrook-hwy.html,nc,roanoke-rapids,1801-julian-r-allsbrook-hwy,024231,"1801 Julian R Allsbrook Hwy, Roanoke Rapids, NC 27870",27870
+https://locations.tacobell.com/nj/ewing/1760-north-olden-avenue.html,nj,ewing,1760-north-olden-avenue,015838,"1760 North Olden Avenue, Ewing, NJ 08638",08638
+https://locations.tacobell.com/nc/henderson/1737-dabney-drive.html,nc,henderson,1737-dabney-drive,020260,"1737 Dabney Drive, Henderson, NC 27536",27536
+https://locations.tacobell.com/nc/hampstead/17200-us-highway-17.html,nc,hampstead,17200-us-highway-17,030575,"17200 US Highway 17, Hampstead, NC 28443",17200
+https://locations.tacobell.com/ne/omaha/17130-evans-plz.html,ne,omaha,17130-evans-plz,035285,"17130 Evans Plz, Omaha, NE 68116",17130
+https://locations.tacobell.com/nc/whiteville/1712-s--jk-powell-blvd-.html,nc,whiteville,1712-s--jk-powell-blvd-,030570,"1712 S. JK Powell Blvd., Whiteville, NC 28472",28472
+https://locations.tacobell.com/nj/hasbrouck-heights/171-state-rt-17.html,nj,hasbrouck-heights,171-state-rt-17,039071,"171 State Rt 17, Hasbrouck Heights, NJ 07604",07604
+https://locations.tacobell.com/nj/east-hanover/170-state-route-10.html,nj,east-hanover,170-state-route-10,039067,"170 State Route 10, East Hanover, NJ 07936",07936
+https://locations.tacobell.com/nc/winston-salem/1695-westbrook-plaza-drive.html,nc,winston-salem,1695-westbrook-plaza-drive,039733,"1695 Westbrook Plaza Drive, Winston Salem, NC 27103",27103
+https://locations.tacobell.com/ne/omaha/16845-polk-plaza.html,ne,omaha,16845-polk-plaza,035287,"16845 Polk Plaza, Omaha, NE 68135",16845
+https://locations.tacobell.com/nh/north-conway/1672-white-mountain-hwy.html,nh,north-conway,1672-white-mountain-hwy,032062,"1672 White Mountain Hwy, North Conway, NH 03860",03860
+https://locations.tacobell.com/nc/reidsville/1636-freeway-dr-.html,nc,reidsville,1636-freeway-dr-,005704,"1636 Freeway Dr., Reidsville, NC 27320",27320
+https://locations.tacobell.com/nd/minot/1630-south-broadway.html,nd,minot,1630-south-broadway,037580,"1630 South Broadway, Minot, ND 58701",58701
+https://locations.tacobell.com/nc/zebulon/161-wakelon-drive.html,nc,zebulon,161-wakelon-drive,029481,"161 Wakelon Drive, Zebulon, NC 27597",27597
+https://locations.tacobell.com/nj/garwood/160-south-avenue.html,nj,garwood,160-south-avenue,039084,"160 South Avenue, Garwood, NJ 07027",07027
+https://locations.tacobell.com/nd/fargo/1599-19th-avenue-north.html,nd,fargo,1599-19th-avenue-north,037581,"1599 19th Avenue North, Fargo, ND 58102",58102
+https://locations.tacobell.com/nj/parsippany/1560-route-46.html,nj,parsippany,1560-route-46,039037,"1560 Route 46, Parsippany, NJ 07054",07054
+https://locations.tacobell.com/nd/dickinson/1560-3rd-avenue-west.html,nd,dickinson,1560-3rd-avenue-west,037582,"1560 3rd Avenue West, Dickinson, ND 58601",58601
+https://locations.tacobell.com/nc/creedmoor/1544-highway-56.html,nc,creedmoor,1544-highway-56,029402,"1544 Highway 56, Creedmoor, NC 27522",27522
+https://locations.tacobell.com/ne/fremont/1540-e-23rd-st-.html,ne,fremont,1540-e-23rd-st-,037479,"1540 E 23rd St., Fremont, NE 68025",68025
+https://locations.tacobell.com/nj/blackwood/1515-blackwood-clementon-rd.html,nj,blackwood,1515-blackwood-clementon-rd,030905,"1515 Blackwood Clementon Rd, Blackwood, NJ 08012",08012
+https://locations.tacobell.com/ne/bellevue/1506-galvin-rd-s.html,ne,bellevue,1506-galvin-rd-s,035268,"1506 Galvin Rd S, Bellevue, NE 68005",68005
+https://locations.tacobell.com/nc/ahoskie/1500-10-e--memorial-drive.html,nc,ahoskie,1500-10-e--memorial-drive,G135208,"1500-10 E. Memorial Drive, Ahoskie, NC 27910",27910
+https://locations.tacobell.com/nc/lexington/150-enterprise-road.html,nc,lexington,150-enterprise-road,032551,"150 Enterprise Road, Lexington, NC 27295",27295
+https://locations.tacobell.com/nj/north-arlington/15-schuyler-ave.html,nj,north-arlington,15-schuyler-ave,028096,"15 Schuyler Ave, North Arlington, NJ 07031",07031
+https://locations.tacobell.com/nc/williamston/1471-washington-street.html,nc,williamston,1471-washington-street,C748052,"1471 Washington Street, Williamston, NC 27892",27892
+https://locations.tacobell.com/nh/tilton/155-laconia-road.html,nh,tilton,155-laconia-road,031661,"155 Laconia Road, Tilton, NH 03276",03276
+https://locations.tacobell.com/ne/omaha/14606-w-maple-rd.html,ne,omaha,14606-w-maple-rd,035283,"14606 W Maple Rd, Omaha, NE 68116",14606
+https://locations.tacobell.com/ne/omaha/14554-w--center-rd-.html,ne,omaha,14554-w--center-rd-,035270,"14554 W. Center Rd., Omaha, NE 68144",14554
+https://locations.tacobell.com/nc/rocky-mount/1451-benvenue-road.html,nc,rocky-mount,1451-benvenue-road,024228,"1451 Benvenue Road, Rocky Mount, NC 27804",27804
+https://locations.tacobell.com/ne/lincoln/1440-west-o-street.html,ne,lincoln,1440-west-o-street,020877,"1440 West O Street, Lincoln, NE 68528",68528
+https://locations.tacobell.com/nc/clemmons/1435-river-ridge-dr.html,nc,clemmons,1435-river-ridge-dr,039742,"1435 River Ridge Dr, Clemmons, NC 27012",27012
+https://locations.tacobell.com/nc/lexington/1430-cottongrove-rd.html,nc,lexington,1430-cottongrove-rd,004436,"1430 Cottongrove Rd, Lexington, NC 27292",27292
+https://locations.tacobell.com/nc/clinton/1410-sunset-avenue.html,nc,clinton,1410-sunset-avenue,031433,"1410 Sunset Avenue, Clinton, NC 28328",28328
+https://locations.tacobell.com/ne/norfolk/1402-omaha-avenue.html,ne,norfolk,1402-omaha-avenue,037473,"1402 Omaha Avenue, Norfolk, NE 68701",68701
+https://locations.tacobell.com/nj/toms-river/1402-highway-37-e.html,nj,toms-river,1402-highway-37-e,039043,"1402 Highway 37 E, Toms River, NJ 08753",08753
+https://locations.tacobell.com/nj/wayne/1400-route-23-north.html,nj,wayne,1400-route-23-north,039076,"1400 Route 23 North, Wayne, NJ 07470",07470
+https://locations.tacobell.com/nc/fuquay-varina/1384-north-main-street.html,nc,fuquay-varina,1384-north-main-street,015340,"1384 North Main Street, Fuquay Varina, NC 27526",27526
+https://locations.tacobell.com/ne/omaha/13725-q--street.html,ne,omaha,13725-q--street,035279,"13725 Q. Street, Omaha, NE 68137",13725
+https://locations.tacobell.com/nj/roselle/133-saint-georges-ave.html,nj,roselle,133-saint-georges-ave,039045,"133 Saint Georges Ave, Roselle, NJ 07203",07203
+https://locations.tacobell.com/nh/laconia/1315-union-avenue.html,nh,laconia,1315-union-avenue,030951,"1315 Union Avenue, Laconia, NH 03246",03246
+https://locations.tacobell.com/nc/mebane/1312-mebane-oaks-road.html,nc,mebane,1312-mebane-oaks-road,039746,"1312 Mebane Oaks Road, Mebane, NC 27302",27302
+https://locations.tacobell.com/nc/laurinburg/1306-scotland-crossing.html,nc,laurinburg,1306-scotland-crossing,036151,"1306 Scotland Crossing, Laurinburg, NC 28352",28352
+https://locations.tacobell.com/nc/washington/1306-carolina-ave.html,nc,washington,1306-carolina-ave,020826,"1306 Carolina Ave, Washington, NC 27889",27889
+https://locations.tacobell.com/nc/tarboro/1304-western-blvd.html,nc,tarboro,1304-western-blvd,024232,"1304 Western Blvd, Tarboro, NC 27886",27886
+https://locations.tacobell.com/nd/grand-forks/1301-s-washington-st.html,nd,grand-forks,1301-s-washington-st,037578,"1301 S Washington St, Grand Forks, ND 58201",58201
+https://locations.tacobell.com/nc/greensboro/1301-bridford-pkwy.html,nc,greensboro,1301-bridford-pkwy,039728,"1301 Bridford Pkwy, Greensboro, NC 27407",27407
+https://locations.tacobell.com/nc/winston-salem/1299-silas-creek-pkwy-.html,nc,winston-salem,1299-silas-creek-pkwy-,039738,"1299 Silas Creek Pkwy., Winston Salem, NC 27127",27127
+https://locations.tacobell.com/nj/vineland/1294-west-landis-ave.html,nj,vineland,1294-west-landis-ave,029722,"1294 West Landis Ave, Vineland, NJ 08360",08360
+https://locations.tacobell.com/nc/richlands/126-ervintown-rd.html,nc,richlands,126-ervintown-rd,031598,"126 Ervintown Rd, Richlands, NC 28574",28574
+https://locations.tacobell.com/nj/aberdeen-township/1073-nj-34.html,nj,aberdeen-township,1073-nj-34,039089,"1073 NJ 34, Aberdeen Township, NJ 07747",07747
+https://locations.tacobell.com/nh/amherst/125-route-101a.html,nh,amherst,125-route-101a,J089022,"125 Route 101A Ste B, Amherst, NH 03031",03031
+https://locations.tacobell.com/nj/ramsey/1246-route-17.html,nj,ramsey,1246-route-17,K250010,"1246 Route 17, Ramsey, NJ 07446",07446
+https://locations.tacobell.com/nc/spruce-pine/12358-highway-226-south.html,nc,spruce-pine,12358-highway-226-south,E320014,"12358 Highway 226 South, Spruce Pine, NC 28777",12358
+https://locations.tacobell.com/nc/camp-lejeune/1232-birch-street-extension.html,nc,camp-lejeune,1232-birch-street-extension,030944,"1232 Birch Street Extension, Camp Lejeune, NC 28547",28547
+https://locations.tacobell.com/nc/benson/12340-state-highway-210.html,nc,benson,12340-state-highway-210,029411,"12340 State Highway 210, Benson, NC 27504",12340
+https://locations.tacobell.com/nc/smithfield/1217-n-bright-leaf-blvd.html,nc,smithfield,1217-n-bright-leaf-blvd,004779,"1217 N Bright Leaf Blvd, Smithfield, NC 27577",27577
+https://locations.tacobell.com/ne/omaha/12075-w--center-rd-.html,ne,omaha,12075-w--center-rd-,035276,"12075 W. Center Rd., Omaha, NE 68144",12075
+https://locations.tacobell.com/nc/apex/1205-laura-village-drive.html,nc,apex,1205-laura-village-drive,019917,"1205 Laura Village Drive, Apex, NC 27523",27523
+https://locations.tacobell.com/nj/phillipsburg/1200-us-highway-22.html,nj,phillipsburg,1200-us-highway-22,039066,"1200 US Highway 22, Phillipsburg, NJ 08865",08865
+https://locations.tacobell.com/nj/hazlet/1185-highway-36.html,nj,hazlet,1185-highway-36,039082,"1185 Highway 36, Hazlet, NJ 07730",07730
+https://locations.tacobell.com/nj/little-falls/1173-route-46.html,nj,little-falls,1173-route-46,039087,"1173 Route 46, Little Falls, NJ 07424",07424
+https://locations.tacobell.com/nc/jacksonville/117-western-blvd.html,nc,jacksonville,117-western-blvd,030548,"117 Western Blvd, Jacksonville, NC 28546",28546
+https://locations.tacobell.com/nj/hammonton/117-s--white-horse-pike.html,nj,hammonton,117-s--white-horse-pike,029783,"117 S. White Horse Pike, Hammonton, NJ 08037",08037
+https://locations.tacobell.com/nc/clayton/11657-us-70.html,nc,clayton,11657-us-70,029403,"11657 US-70, Clayton, NC 27520",11657
+https://locations.tacobell.com/nc/spring-lake/116-n-4th-st.html,nc,spring-lake,116-n-4th-st,030569,"116 N 4th St, Spring Lake, NC 28390",28390
+https://locations.tacobell.com/nc/wilmington/116-hays-lane.html,nc,wilmington,116-hays-lane,031821,"116 Hays Lane, Wilmington, NC 28411",28411
+https://locations.tacobell.com/nj/somerset/1135-easton-ave.html,nj,somerset,1135-easton-ave,039063,"1135 Easton Ave, Somerset, NJ 08873",08873
+https://locations.tacobell.com/nj/edison/1131-inman-avenue.html,nj,edison,1131-inman-avenue,039085,"1131 Inman Avenue, Edison, NJ 08820",08820
+https://locations.tacobell.com/nc/garner/1125-us-highway-70.html,nc,garner,1125-us-highway-70,030930,"1125 US Highway 70, Garner, NC 27529",27529
+https://locations.tacobell.com/nc/thomasville/1124-randolph-st.html,nc,thomasville,1124-randolph-st,004665,"1124 Randolph St, Thomasville, NC 27360",27360
+https://locations.tacobell.com/nj/new-brunswick/1120-somerset-street.html,nj,new-brunswick,1120-somerset-street,039080,"1120 Somerset Street, New Brunswick, NJ 08901",08901
+https://locations.tacobell.com/nc/cary/1120-kildaire-farm-rd.html,nc,cary,1120-kildaire-farm-rd,003421,"1120 Kildaire Farm Rd, Cary, NC 27511",27511
+https://locations.tacobell.com/nc/greensboro/1115-summit-ave.html,nc,greensboro,1115-summit-ave,039714,"1115 Summit Ave, Greensboro, NC 27405",27405
+https://locations.tacobell.com/nc/aberdeen/11145-us-highway-15-501.html,nc,aberdeen,11145-us-highway-15-501,002808,"11145 US Highway 15 501, Aberdeen, NC 28315",11145
+https://locations.tacobell.com/nc/durham/1110-w--nc-54.html,nc,durham,1110-w--nc-54,029412,"1110 W. NC 54, Durham, NC 27707",27707
+https://locations.tacobell.com/nj/deptford/1110-hurffville-rd.html,nj,deptford,1110-hurffville-rd,002473,"1110 Hurffville Rd, Deptford, NJ 08096",08096
+https://locations.tacobell.com/nc/morrisville/1108-morrisville-carpenter-rd.html,nc,morrisville,1108-morrisville-carpenter-rd,029283,"1108 Morrisville-Carpenter Rd, Morrisville, NC 27560",27560
+https://locations.tacobell.com/nc/goldsboro/1106-11th-st.html,nc,goldsboro,1106-11th-st,024225,"1106 11th St, Goldsboro, NC 27534",27534
+https://locations.tacobell.com/nj/ocean/1102-highway-35.html,nj,ocean,1102-highway-35,039105,"1102 Highway 35, Ocean, NJ 07712",07712
+https://locations.tacobell.com/nj/glassboro/1101-n--delsea-drive.html,nj,glassboro,1101-n--delsea-drive,026094,"1101 N. Delsea Drive, Glassboro, NJ 08028",08028
+https://locations.tacobell.com/nj/williamstown/110-n-black-horse-pike.html,nj,williamstown,110-n-black-horse-pike,038862,"110 N Black Horse Pike, Williamstown, NJ 08094",08094
+https://locations.tacobell.com/nc/king/109-ingram-drive.html,nc,king,109-ingram-drive,032475,"109 Ingram Drive, King, NC 27021",27021
+https://locations.tacobell.com/nh/epping/109-calef-hwy.html,nh,epping,109-calef-hwy,031774,"109 Calef Hwy, Epping, NH 03042",03042
+https://locations.tacobell.com/nc/saint-pauls/1058-w--broad-street.html,nc,saint-pauls,1058-w--broad-street,030567,"1058 W. Broad Street, Saint Pauls, NC 28384",28384
+https://locations.tacobell.com/nc/youngsville/1050-us-hwy-1.html,nc,youngsville,1050-us-hwy-1,032485,"1050 US Hwy 1, Youngsville, NC 27596",27596
+https://locations.tacobell.com/nh/manchester/1050-second-st-.html,nh,manchester,1050-second-st-,029276,"1050 Second St., Manchester, NH 03102",03102
+https://locations.tacobell.com/ne/blair/105-south-19th-street.html,ne,blair,105-south-19th-street,036520,"105 South 19th Street, Blair, NE 68008",68008
+https://locations.tacobell.com/nd/jamestown/105-business-loop-west.html,nd,jamestown,105-business-loop-west,037583,"105 Business Loop West, Jamestown, ND 58401",58401
+https://locations.tacobell.com/nh/manchester/1045-s-willow-street.html,nh,manchester,1045-s-willow-street,029271,"1045 S Willow Street, Manchester, NH 03103",03103
+https://locations.tacobell.com/nc/fayetteville/1042-bragg-blvd.html,nc,fayetteville,1042-bragg-blvd,030547,"1042 Bragg Blvd, Fayetteville, NC 28301",28301
+https://locations.tacobell.com/nc/lillington/104-w--cornelius-harnett-blvd.html,nc,lillington,104-w--cornelius-harnett-blvd,030258,"104 W. Cornelius Harnett Blvd, Lillington, NC 27546",27546
+https://locations.tacobell.com/nc/mount-olive/110-highway-55-west.html,nc,mount-olive,110-highway-55-west,041589,"110 Highway 55 West, Mount Olive, NC 28365",28365
+https://locations.tacobell.com/ne/bellevue/10110-south-15th-st.html,ne,bellevue,10110-south-15th-st,035289,"10110 South 15th St, Bellevue, NE 68123",10110
+https://locations.tacobell.com/nc/cary/1011-n-harrison-ave.html,nc,cary,1011-n-harrison-ave,029483,"1011 N Harrison Ave, Cary, NC 27513",27513
+https://locations.tacobell.com/nc/leland/101-thomas-garst-lane.html,nc,leland,101-thomas-garst-lane,030564,"101 Thomas Garst Lane, Leland, NC 28451",28451
+https://locations.tacobell.com/nc/kernersville/1003-south-main-street.html,nc,kernersville,1003-south-main-street,039734,"1003 South Main Street, Kernersville, NC 27284",27284
+https://locations.tacobell.com/nj/wayne/140-hamburg-tpke.html,nj,wayne,140-hamburg-tpke,039649,"140 Hamburg Tpke, Wayne, NJ 07470",07470
+https://locations.tacobell.com/nc/kernersville/1760-pecan-ln.html,nc,kernersville,1760-pecan-ln,040015,"1760 Pecan Ln, Kernersville, NC 27284",27284
+https://locations.tacobell.com/nc/burnsville/671-west-main-street.html,nc,burnsville,671-west-main-street,037685,"671 West Main Street, Burnsville, NC 28714",28714
+https://locations.tacobell.com/nc/clayton/25-s--merchant-ave.html,nc,clayton,25-s--merchant-ave,040340,"25 S. Merchant Ave, Clayton, NC 27527",27527
+https://locations.tacobell.com/nc/asheboro/1408-e--dixie-dr-.html,nc,asheboro,1408-e--dixie-dr-,040165,"1408 E. Dixie Dr., Asheboro, NC 27203",27203
+https://locations.tacobell.com/nc/fayetteville/2863-town-center-dr.html,nc,fayetteville,2863-town-center-dr,040714,"2863 Town Center Dr, Fayetteville, NC 28306",28306
+https://locations.tacobell.com/nc/mint-hill/10800-woodland-beaver-road.html,nc,mint-hill,10800-woodland-beaver-road,039118,"10800 Woodland Beaver Road, Mint Hill, NC 28227",10800
+https://locations.tacobell.com/nc/fayetteville/5116-nc-hwy-87-s.html,nc,fayetteville,5116-nc-hwy-87-s,040618,"5116 NC Hwy 87 S, Fayetteville, NC 28306",28306
+https://locations.tacobell.com/nj/rio-grande/1403-south-delsea-dr.html,nj,rio-grande,1403-south-delsea-dr,033181,"1403 South Delsea Dr, Rio Grande, NJ 08242",08242
+https://locations.tacobell.com/nj/east-orange/412-central-avenue.html,nj,east-orange,412-central-avenue,040167,"412 Central Avenue, East Orange, NJ 07018",07018
+https://locations.tacobell.com/nc/mt-holly/109-tuckaseege-road.html,nc,mt-holly,109-tuckaseege-road,039117,"109 Tuckaseege Road, Mt Holly, NC 28120",28120
+https://locations.tacobell.com/nj/elizabeth/512-broad-st.html,nj,elizabeth,512-broad-st,039106,"512 Broad St, Elizabeth, NJ 07208",07208
+https://locations.tacobell.com/nj/vernon/297-route-94.html,nj,vernon,297-route-94,039545,"297 Route 94, Vernon, NJ 07462",07462
+https://locations.tacobell.com/nc/greensboro/103-e-elmsley-drive.html,nc,greensboro,103-e-elmsley-drive,039748,"103 E Elmsley Drive, Greensboro, NC 27406",27406
+https://locations.tacobell.com/nc/archdale/10102-s-main-st.html,nc,archdale,10102-s-main-st,039750,"10102 S Main St, Archdale, NC 27263",10102
+https://locations.tacobell.com/nj/morristown/191-e--hanover-ave-.html,nj,morristown,191-e--hanover-ave-,037092,"191 E. Hanover Ave., Morristown, NJ 07960",07960
+https://locations.tacobell.com/nj/somerville/956-us-22-east.html,nj,somerville,956-us-22-east,032387,"956 US 22 East, Somerville, NJ 08876",08876
+https://locations.tacobell.com/nj/sicklerville/845-williamstown-erial-road.html,nj,sicklerville,845-williamstown-erial-road,032762,"845 Williamstown Erial Road, Sicklerville, NJ 08081",08081
+https://locations.tacobell.com/nc/chapel-hill/48-knox-way.html,nc,chapel-hill,48-knox-way,033468,"48 Knox Way, Chapel Hill, NC 27516",27516
+https://locations.tacobell.com/nc/bermuda-run/126-nc-hwy-801-n.html,nc,bermuda-run,126-nc-hwy-801-n,039753,"126 NC Hwy 801 N, Bermuda Run, NC 27006",27006
+https://locations.tacobell.com/nc/troutman/1047-charlotte-highway.html,nc,troutman,1047-charlotte-highway,032180,"1047 Charlotte Highway, Troutman, NC 28166",28166
+https://locations.tacobell.com/nj/paterson/156-market-st.html,nj,paterson,156-market-st,032296,"156 Market St, Paterson, NJ 07505",07505
+https://locations.tacobell.com/nj/irvington/1111-springfield-avenue.html,nj,irvington,1111-springfield-avenue,032662,"1111 Springfield Avenue, Irvington, NJ 07111",07111
+https://locations.tacobell.com/nj/carlstadt/675-paterson-ave-.html,nj,carlstadt,675-paterson-ave-,040887,"675 Paterson Ave. Unit #8, Carlstadt, NJ 07072",07072
+https://locations.tacobell.com/nj/forked-river/238-n-main-street.html,nj,forked-river,238-n-main-street,033366,"238 N Main Street, Forked River, NJ 08731",08731

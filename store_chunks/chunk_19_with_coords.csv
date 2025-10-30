@@ -1,0 +1,239 @@
+url,state,city,address_slug,store_id,full_address,zip_code,latitude,longitude
+https://locations.tacobell.com/wi/elkhorn/848-n-wisconsin-st.html,wi,elkhorn,848-n-wisconsin-st,040523,"848 N Wisconsin St, Elkhorn, WI 53121",53121,42.6887397,-88.5417071
+https://locations.tacobell.com/wi/berlin/275-broadway-st-.html,wi,berlin,275-broadway-st-,041133,"275 Broadway St., Berlin, WI 54923",54923,43.9684307,-88.954707
+https://locations.tacobell.com/wv/keyser/41-plaza-drive.html,wv,keyser,41-plaza-drive,040619,"41 Plaza Drive, Keyser, WV 26726",26726,39.3981,-79.0114
+https://locations.tacobell.com/wi/de-pere/1610-lawrence-drive.html,wi,de-pere,1610-lawrence-drive,041180,"1610 Lawrence Drive, De Pere, WI 54115",54115,44.4337148,-88.1064204
+https://locations.tacobell.com/wi/greenville/w6291-greenville-dr-.html,wi,greenville,w6291-greenville-dr-,041373,"W6291 Greenville Dr., Greenville, WI 54942",54942,44.2860931,-88.50562509999999
+https://locations.tacobell.com/wi/bellevue/2248-costco-way.html,wi,bellevue,2248-costco-way,041813,"2248 Costco Way, Bellevue, WI 54311",54311,44.4605701,-87.987062
+https://locations.tacobell.com/wi/chippewa-falls/1083-chippewa-crossing-blvd.html,wi,chippewa-falls,1083-chippewa-crossing-blvd,040822,"1083 Chippewa Crossing Blvd, Chippewa Falls, WI 54729",54729,44.92160000000001,-91.3722
+https://locations.tacobell.com/wv/chapmanville/811-main-street.html,wv,chapmanville,811-main-street,041854,"811 Main Street, Chapmanville, WV 25508",25508,37.9763271,-82.0170632
+https://locations.tacobell.com/wi/saint-croix-falls/2184-e-highway-8.html,wi,saint-croix-falls,2184-e-highway-8,041832,"2184 E Highway 8, Saint Croix Falls, WI 54024",54024,45.3961906,-92.52158349999999
+https://locations.tacobell.com/wv/point-pleasant/2302-jackson-ave.html,wv,point-pleasant,2302-jackson-ave,041903,"2302 Jackson Ave, Point Pleasant, WV 25550",25550,38.865457,-82.1263476
+https://locations.tacobell.com/wi/prairie-du-chien/37496-u-s--18.html,wi,prairie-du-chien,37496-u-s--18,041744,"37496 U.S. 18, Prairie du Chien, WI 53821",37496,43.0249317,-91.1222335
+https://locations.tacobell.com/wv/wellsburg/138-22nd-st.html,wv,wellsburg,138-22nd-st,041829,"138 22nd St, Wellsburg, WV 26070",26070,40.284565,-80.6058627
+https://locations.tacobell.com/wv/winfield/13974-winfield-rd.html,wv,winfield,13974-winfield-rd,042070,"13974 Winfield Rd, Winfield, WV 25213",13974,38.5280095,-81.9029483
+https://locations.tacobell.com/wv/kingwood/253-walmart-dr-.html,wv,kingwood,253-walmart-dr-,041976,"253 Walmart Dr., Kingwood, WV 26537",26537,39.485068,-79.733975
+https://locations.tacobell.com/wv/inwood/4854-gerrardstown-rd.html,wv,inwood,4854-gerrardstown-rd,033109,"4854 Gerrardstown Rd, Inwood, WV 25428",25428,39.3619717,-78.0435493
+https://locations.tacobell.com/wv/sophia/901-robert-c-byrd-dr-.html,wv,sophia,901-robert-c-byrd-dr-,033182,"901 Robert C Byrd Dr., Sophia, WV 25921",25921,37.729112,-81.2421381
+https://locations.tacobell.com/wi/oconomowoc/1750-summit-ave.html,wi,oconomowoc,1750-summit-ave,034238,"1750 Summit Ave, Oconomowoc, WI 53066",53066,43.091605,-88.4767987
+https://locations.tacobell.com/wv/saint-marys/1002-2nd-street.html,wv,saint-marys,1002-2nd-street,035251,"1002 2nd Street, Saint Marys, WV 26170",26170,39.3963398,-81.2006983
+https://locations.tacobell.com/wv/triadelphia/35-mccormick-way.html,wv,triadelphia,35-mccormick-way,035252,"35 McCormick Way, Triadelphia, WV 26059",26059,40.0557602,-80.6021616
+https://locations.tacobell.com/wi/green-bay/2491-babcock-road.html,wi,green-bay,2491-babcock-road,038965,"2491 Babcock Road, Green Bay, WI 54313",54313,44.4925822,-88.0969163
+https://locations.tacobell.com/wv/weston/100-market-place-mall.html,wv,weston,100-market-place-mall,040078,"100 Market Place Mall, Weston, WV 26452",26452,39.0171663,-80.4200692
+https://locations.tacobell.com/wv/danville/1962-smoot-ave.html,wv,danville,1962-smoot-ave,036347,"1962 Smoot Ave, Danville, WV 25053",25053,38.0874178,-81.8386115
+https://locations.tacobell.com/wi/brookfield/12405-w--lisbon-rd-.html,wi,brookfield,12405-w--lisbon-rd-,036031,"12405 W. Lisbon Rd., Brookfield, WI 53005",12405,43.10461,-88.1067446
+https://locations.tacobell.com/wv/huntington/100-kinetic-drive.html,wv,huntington,100-kinetic-drive,034957,"100 Kinetic Drive, Huntington, WV 25701",25701,38.3944235,-82.4132965
+https://locations.tacobell.com/wv/elkview/103-crossings-mall-road.html,wv,elkview,103-crossings-mall-road,036327,"103 Crossings Mall Road, Elkview, WV 25071",25071,38.4567276,-81.49956619999999
+https://locations.tacobell.com/wv/chester/449-carolina-avenue.html,wv,chester,449-carolina-avenue,036410,"449 Carolina Avenue, Chester, WV 26034",26034,40.6105153,-80.5802082
+https://locations.tacobell.com/wi/waukesha/2707-n--grandview.html,wi,waukesha,2707-n--grandview,036432,"2707 N. Grandview, Waukesha, WI 53188",53188,43.0409057,-88.2554196
+https://locations.tacobell.com/wi/kenosha/12120-75th-st.html,wi,kenosha,12120-75th-st,036174,"12120 75th St, Kenosha, WI 53142",12120,42.5680736,-87.9540368
+https://locations.tacobell.com/wy/burns/4000-i-80-service-rd-exit-377.html,wy,burns,4000-i-80-service-rd-exit-377,019533,"4000 I-80 Service Rd Exit 377, Burns, WY 82053",82053,41.16006549999999,-104.5214015
+https://locations.tacobell.com/wi/beloit/3001-milwaukee-road.html,wi,beloit,3001-milwaukee-road,020215,"3001 Milwaukee Road, Beloit, WI 53511",53511,42.5269664,-88.9795558
+https://locations.tacobell.com/wy/fort-bridger/i-80-at-bigelow-rd.html,wy,fort-bridger,i-80-at-bigelow-rd,021184,"I-80 At Bigelow Rd, Fort Bridger, WY 82933",82933,40.7269343,-98.6697482
+https://locations.tacobell.com/wv/charleston/1625-washington-st-east.html,wv,charleston,1625-washington-st-east,036910,"1625 Washington St East, Charleston, WV 25311",25311,38.3394279,-81.6151286
+https://locations.tacobell.com/wv/beaver/855-ritter-drive.html,wv,beaver,855-ritter-drive,037106,"855 Ritter Drive, Beaver, WV 25813",25813,37.7493663,-81.1358875
+https://locations.tacobell.com/wi/rice-lake/11-e--burton-street.html,wi,rice-lake,11-e--burton-street,037062,"11 E. Burton Street, Rice Lake, WI 54868",54868,45.4773081,-91.7357299
+https://locations.tacobell.com/wi/milwaukee/230-east-capitol-drive.html,wi,milwaukee,230-east-capitol-drive,037200,"230 East Capitol Drive, Milwaukee, WI 53212",53212,43.0896291,-87.9087525
+https://locations.tacobell.com/wv/welch/658-stewart-st-.html,wv,welch,658-stewart-st-,042195,"658 Stewart St., Welch, WV 24801",24801,37.4418399,-81.5708649
+https://locations.tacobell.com/wi/kaukauna/1800-crooks-avenue.html,wi,kaukauna,1800-crooks-avenue,042205,"1800 Crooks Avenue, Kaukauna, WI 54130",54130,44.2643127,-88.2732386
+https://locations.tacobell.com/wi/west-bend/2356-w-washington.html,wi,west-bend,2356-w-washington,037160,"2356 W Washington, West Bend, WI 53095",53095,43.4273069,-88.211818
+https://locations.tacobell.com/wi/milwaukee/2200-e--kenwood-blvd-.html,wi,milwaukee,2200-e--kenwood-blvd-,018530,"2200 E. Kenwood Blvd., Milwaukee, WI 53211",53211,43.077639,-87.8819425
+https://locations.tacobell.com/wi/paddock-lake/25020-75th-street.html,wi,paddock-lake,25020-75th-street,036428,"25020 75th Street, Paddock Lake, WI 53168",25020,42.5683683,-88.1124742
+https://locations.tacobell.com/wv/dunbar/919-dunbar-ave.html,wv,dunbar,919-dunbar-ave,037069,"919 Dunbar Ave, Dunbar, WV 25064",25064,38.3632366,-81.7509847
+https://locations.tacobell.com/wi/columbus/109-dix-street.html,wi,columbus,109-dix-street,037378,"109 Dix Street, Columbus, WI 53925",53925,43.34393,-89.0286415
+https://locations.tacobell.com/wi/sturtevant/717-s--sylvania-ave.html,wi,sturtevant,717-s--sylvania-ave,037744,"717 S. Sylvania Ave, Sturtevant, WI 53177",53177,42.7252664,-87.9557007
+https://locations.tacobell.com/wv/parkersburg/1921-7th-street.html,wv,parkersburg,1921-7th-street,037342,"1921 7th Street, Parkersburg, WV 26101",26101,39.2675236,-81.526589
+https://locations.tacobell.com/wv/nitro/2207-1st-ave.html,wv,nitro,2207-1st-ave,037368,"2207 1st Ave, Nitro, WV 25143",25143,38.4236033,-81.8413289
+https://locations.tacobell.com/wi/kenosha/3667-market-lanesomers.html,wi,kenosha,3667-market-lanesomers,038745,"3667 Market LaneSomers, Kenosha, WI 53144",53144,42.6292743,-87.8746146
+https://locations.tacobell.com/wv/kenova/1111-rt-75.html,wv,kenova,1111-rt-75,026818,"1111 Rt 75, Kenova, WV 25530",25530,38.3917072,-82.5759796
+https://locations.tacobell.com/wv/charleston/1664-3rd-ave.html,wv,charleston,1664-3rd-ave,034564,"1664 3rd Ave, Charleston, WV 25312",25312,38.3691306,-81.666306
+https://locations.tacobell.com/wv/milton/21-perry-morris-square.html,wv,milton,21-perry-morris-square,034575,"21 Perry Morris Square, Milton, WV 25541",25541,38.4348517,-82.1311774
+https://locations.tacobell.com/wv/logan/159-enterprise-drive.html,wv,logan,159-enterprise-drive,004601,"159 Enterprise Drive, Logan, WV 25601",25601,37.8481357,-82.0001024
+https://locations.tacobell.com/wv/belle/2340-e-dupont-ave.html,wv,belle,2340-e-dupont-ave,030493,"2340 E Dupont Ave, Belle, WV 25015",25015,38.2190229,-81.5213078
+https://locations.tacobell.com/wv/huntington/238-washington-avenue.html,wv,huntington,238-washington-avenue,034571,"238 Washington Avenue, Huntington, WV 25701",25701,38.4174784,-82.4602503
+https://locations.tacobell.com/wv/huntington/2515-5th-ave.html,wv,huntington,2515-5th-ave,034557,"2515 5th Ave, Huntington, WV 25703",25703,38.4247345,-82.4109251
+https://locations.tacobell.com/wv/south-charleston/2525-mountaineer-blvd.html,wv,south-charleston,2525-mountaineer-blvd,034569,"2525 Mountaineer Blvd, South Charleston, WV 25309",25309,38.3212456,-81.7161814
+https://locations.tacobell.com/wv/saint-albans/301-maccorkle-ave.html,wv,saint-albans,301-maccorkle-ave,034559,"301 MacCorkle Ave, Saint Albans, WV 25177",25177,38.3891281,-81.8334524
+https://locations.tacobell.com/wv/cross-lanes/322-goff-mountain-rd.html,wv,cross-lanes,322-goff-mountain-rd,034566,"322 Goff Mountain Rd, Cross Lanes, WV 25313",25313,38.4149215,-81.7953347
+https://locations.tacobell.com/wv/huntington/3335-us-route-60.html,wv,huntington,3335-us-route-60,034576,"3335 US Route 60, Huntington, WV 25705",25705,38.4102865,-82.3757069
+https://locations.tacobell.com/wv/charleston/3500-maccorkle-ave.html,wv,charleston,3500-maccorkle-ave,034568,"3500 MacCorkle Ave, Charleston, WV 25304",25304,38.3286078,-81.5983102
+https://locations.tacobell.com/wv/barboursville/3560-us-route-60-east.html,wv,barboursville,3560-us-route-60-east,034572,"3560 US Route 60 East, Barboursville, WV 25504",25504,38.4174806,-82.2548691
+https://locations.tacobell.com/wv/huntington/3899-route-75.html,wv,huntington,3899-route-75,020404,"3899 Route 75, Huntington, WV 25704",25704,38.3353688,-82.4552263
+https://locations.tacobell.com/wv/hurricane/4152-state-rt-34.html,wv,hurricane,4152-state-rt-34,034563,"4152 State Rt 34, Hurricane, WV 25526",25526,38.4528653,-81.93828610000001
+https://locations.tacobell.com/wv/charleston/4200-maccorkle-ave-sw.html,wv,charleston,4200-maccorkle-ave-sw,034561,"4200 MacCorkle Ave SW, Charleston, WV 25309",25309,38.3574296,-81.7222886
+https://locations.tacobell.com/wv/ravenswood/500-washington-st-.html,wv,ravenswood,500-washington-st-,022938,"500 Washington St., Ravenswood, WV 26164",26164,38.953356,-81.765078
+https://locations.tacobell.com/wv/huntington/5181-us-route-60-e.html,wv,huntington,5181-us-route-60-e,034562,"5181 US Route 60 E, Huntington, WV 25705",25705,38.414035,-82.3043824
+https://locations.tacobell.com/wv/hurricane/52-arbys-way.html,wv,hurricane,52-arbys-way,034574,"52 Arbys Way, Hurricane, WV 25526",25526,38.4421722,-82.0199942
+https://locations.tacobell.com/wv/charleston/5709-maccorkle-ave-se.html,wv,charleston,5709-maccorkle-ave-se,034560,"5709 MacCorkle Ave SE, Charleston, WV 25304",25304,38.3125292,-81.5668835
+https://locations.tacobell.com/wv/ripley/631-west-main-street.html,wv,ripley,631-west-main-street,038806,"631 West Main Street, Ripley, WV 25271",25271,38.8217085,-81.7224359
+https://locations.tacobell.com/wv/summersville/902-industrial-drive.html,wv,summersville,902-industrial-drive,040033,"902 Industrial Drive, Summersville, WV 26651",26651,38.3060401,-80.8326161
+https://locations.tacobell.com/wi/superior/3541-tower-ave.html,wi,superior,3541-tower-ave,040160,"3541 Tower Ave, Superior, WI 54880",54880,46.6968936,-92.1053528
+https://locations.tacobell.com/wi/eagle-river/205-w--pine-street.html,wi,eagle-river,205-w--pine-street,040334,"205 W. Pine Street, Eagle River, WI 54521",54521,45.9143428,-89.2542303
+https://locations.tacobell.com/wv/beckley/1937-harper-road.html,wv,beckley,1937-harper-road,040298,"1937 Harper Road, Beckley, WV 25801",25801,37.7911122,-81.2131785
+https://locations.tacobell.com/wi/platteville/95-e--business-highway-151.html,wi,platteville,95-e--business-highway-151,C029059,"95 E. Business Highway 151, Platteville, WI 53818",53818,42.72643,-90.4779453
+https://locations.tacobell.com/wi/mukwonago/920-greenwald-court.html,wi,mukwonago,920-greenwald-court,031989,"920 Greenwald Court, Mukwonago, WI 53149",53149,42.8525892,-88.3240307
+https://locations.tacobell.com/wi/fond-du-lac/892-east-johnson-street.html,wi,fond-du-lac,892-east-johnson-street,016462,"892 East Johnson Street, Fond Du Lac, WI 54935",54935,43.7832374,-88.4123464
+https://locations.tacobell.com/wi/medford/860-north-8th-street.html,wi,medford,860-north-8th-street,K092002,"860 North 8th Street, Medford, WI 54451",54451,45.1505742,-90.3338059
+https://locations.tacobell.com/wy/casper/86-se-wyoming-blvd.html,wy,casper,86-se-wyoming-blvd,023077,"86 SE Wyoming Blvd, Casper, WY 82609",82609,42.8508947,-106.2716266
+https://locations.tacobell.com/wi/oak-creek/8261-s--howell-ave-.html,wi,oak-creek,8261-s--howell-ave-,031992,"8261 S. Howell Ave., Oak Creek, WI 53154",53154,42.8943146,-87.9126412
+https://locations.tacobell.com/wi/kenosha/8040-sheridan-rd.html,wi,kenosha,8040-sheridan-rd,031996,"8040 Sheridan Rd, Kenosha, WI 53143",53143,42.5577177,-87.8254715
+https://locations.tacobell.com/wi/milwaukee/8030-w-brown-deer-road.html,wi,milwaukee,8030-w-brown-deer-road,030420,"8030 W Brown Deer Road, Milwaukee, WI 53223",53223,43.1796903,-88.0097785
+https://locations.tacobell.com/wi/sparta/802-west-wisconsin.html,wi,sparta,802-west-wisconsin,037474,"802 West Wisconsin, Sparta, WI 54656",54656,43.9395303,-90.821082
+https://locations.tacobell.com/wv/wheeling/770-national-road.html,wv,wheeling,770-national-road,032362,"770 National Road, Wheeling, WV 26003",26003,40.0759,-80.6981233
+https://locations.tacobell.com/wy/evanston/737-overthrust.html,wy,evanston,737-overthrust,E720517,"737 Overthrust, Evanston, WY 82930",82930,41.2577067,-110.9856409
+https://locations.tacobell.com/wv/buckhannon/72-west-main-street.html,wv,buckhannon,72-west-main-street,040072,"72 West Main Street, Buckhannon, WV 26201",26201,38.9932168,-80.232745
+https://locations.tacobell.com/wi/franklin/7141-south-76th-street.html,wi,franklin,7141-south-76th-street,030410,"7141 South 76th Street, Franklin, WI 53132",53132,42.9142432,-88.0097551
+https://locations.tacobell.com/wi/schofield/704-grand-avenue.html,wi,schofield,704-grand-avenue,031834,"704 Grand Avenue, Schofield, WI 54476",54476,44.9226517,-89.6136383
+https://locations.tacobell.com/wi/kenosha/7020-green-bay-road.html,wi,kenosha,7020-green-bay-road,031988,"7020 Green Bay Road, Kenosha, WI 53142",53142,42.5715741,-87.887006
+https://locations.tacobell.com/wy/gillette/701-e-boxelder-rd.html,wy,gillette,701-e-boxelder-rd,023076,"701 E Boxelder Rd, Gillette, WY 82716",82716,44.2767343,-105.4946865
+https://locations.tacobell.com/wv/westover/7-commerce-dr.html,wv,westover,7-commerce-dr,040058,"7 Commerce Dr, Westover, WV 26501",26501,39.6299235,-79.9849556
+https://locations.tacobell.com/wi/madison/698-s--whitney-way.html,wi,madison,698-s--whitney-way,031964,"698 S. Whitney Way, Madison, WI 53719",53719,43.0528605,-89.4733942
+https://locations.tacobell.com/wi/verona/671-hometown-circle.html,wi,verona,671-hometown-circle,031966,"671 Hometown Circle, Verona, WI 53593",53593,42.9942155,-89.5195416
+https://locations.tacobell.com/wi/lomira/663-east-ave.html,wi,lomira,663-east-ave,041420,"663 East Ave, Lomira, WI 53048",53048,43.5899046,-88.4343947
+https://locations.tacobell.com/wv/charles-town/64-flowing-springs-rd.html,wv,charles-town,64-flowing-springs-rd,019010,"64 Flowing Springs Rd, Charles Town, WV 25414",25414,39.2957633,-77.8433774
+https://locations.tacobell.com/wi/fitchburg/6275-mckee-road.html,wi,fitchburg,6275-mckee-road,031962,"6275 McKee Road, Fitchburg, WI 53719",53719,43.015267,-89.4794311
+https://locations.tacobell.com/wi/milwaukee/6268-s--27th-street.html,wi,milwaukee,6268-s--27th-street,031507,"6268 S. 27th Street, Milwaukee, WI 53221",53221,42.9312777,-87.9486813
+https://locations.tacobell.com/wi/west-baraboo/619-w-pine-st.html,wi,west-baraboo,619-w-pine-st,032093,"619 W Pine St, West Baraboo, WI 53913",53913,43.4761391,-89.7693189
+https://locations.tacobell.com/wi/oconomowoc/616-east-wisconsin-ave.html,wi,oconomowoc,616-east-wisconsin-ave,023271,"616 East Wisconsin Ave, Oconomowoc, WI 53066",53066,43.1085164,-88.4913196
+https://locations.tacobell.com/wi/monroe/606-w--8th-street.html,wi,monroe,606-w--8th-street,032094,"606 W. 8th Street, Monroe, WI 53566",53566,42.603153,-89.6645674
+https://locations.tacobell.com/wv/vienna/600-grand-central-ave.html,wv,vienna,600-grand-central-ave,031439,"600 Grand Central Ave, Vienna, WV 26105",26105,39.3045338,-81.5490453
+https://locations.tacobell.com/wi/milwaukee/5751-west-fon-du-lac.html,wi,milwaukee,5751-west-fon-du-lac,031501,"5751 West Fon Du Lac, Milwaukee, WI 53216",53216,43.0967778,-87.98566799999999
+https://locations.tacobell.com/wi/milwaukee/5630-w-north-ave.html,wi,milwaukee,5630-w-north-ave,031487,"5630 W North Ave, Milwaukee, WI 53208",53208,43.0607698,-87.9834659
+https://locations.tacobell.com/wi/racine/5620-washington-ave.html,wi,racine,5620-washington-ave,030399,"5620 Washington Ave, Racine, WI 53406",53406,42.7194002,-87.8480661
+https://locations.tacobell.com/wv/martinsburg/5610-hammonds-mill-road.html,wv,martinsburg,5610-hammonds-mill-road,031547,"5610 Hammonds Mill Road, Martinsburg, WV 25404",25404,39.5446508,-77.9093334
+https://locations.tacobell.com/wi/glendale/5560-port-washington-rd-n.html,wi,glendale,5560-port-washington-rd-n,031493,"5560 Port Washington Rd N, Glendale, WI 53217",53217,43.1180971,-87.9162262
+https://locations.tacobell.com/wi/milwaukee/5441-n-lovers-lane-rd.html,wi,milwaukee,5441-n-lovers-lane-rd,023265,"5441 N Lovers Lane Rd, Milwaukee, WI 53225",53225,43.1164131,-88.056263
+https://locations.tacobell.com/wi/hales-corners/5420-south-108th-street.html,wi,hales-corners,5420-south-108th-street,031506,"5420 South 108th Street, Hales Corners, WI 53130",53130,42.945923,-88.0475171
+https://locations.tacobell.com/wi/stevens-point/5400-highway-10-east.html,wi,stevens-point,5400-highway-10-east,036271,"5400 Highway 10 East, Stevens Point, WI 54481",54481,44.5239096,-89.5194959
+https://locations.tacobell.com/wi/wauwatosa/510-n-mayfair-rd.html,wi,wauwatosa,510-n-mayfair-rd,031488,"510 N Mayfair Rd, Wauwatosa, WI 53226",53226,43.036713,-88.0466487
+https://locations.tacobell.com/wv/spencer/450-ripley-rd.html,wv,spencer,450-ripley-rd,032640,"450 Ripley Rd, Spencer, WV 25276",25276,38.8041954,-81.3649063
+https://locations.tacobell.com/wv/charmco/4891-midland-trail-west.html,wv,charmco,4891-midland-trail-west,020839,"4891 Midland Trail West, Charmco, WV 25958",25958,38.0049765,-80.7410895
+https://locations.tacobell.com/wi/de-forest/4866-county-highway-v.html,wi,de-forest,4866-county-highway-v,031965,"4866 County Highway V, De Forest, WI 53532",53532,43.2507063,-89.370514
+https://locations.tacobell.com/wi/menasha/450-3rd-st.html,wi,menasha,450-3rd-st,031496,"450 3rd St, Menasha, WI 54952",54952,44.2050944,-88.4464364
+https://locations.tacobell.com/wi/stevens-point/433-division-st.html,wi,stevens-point,433-division-st,036270,"433 Division St, Stevens Point, WI 54481",54481,44.5307353,-89.5743903
+https://locations.tacobell.com/wi/fond-du-lac/427-w-johnson-ave.html,wi,fond-du-lac,427-w-johnson-ave,001037,"427 W Johnson Ave, Fond Du Lac, WI 54935",54935,43.7846907,-88.463318
+https://locations.tacobell.com/wi/johnson-creek/425-wright-rd.html,wi,johnson-creek,425-wright-rd,041418,"425 Wright Rd, Johnson Creek, WI 53038",53038,43.0820982,-88.7626955
+https://locations.tacobell.com/wi/madison/421-commerce-drive.html,wi,madison,421-commerce-drive,031959,"421 Commerce Drive, Madison, WI 53719",53719,43.0599947,-89.524366
+https://locations.tacobell.com/wi/milwaukee/4143-north-76th-street.html,wi,milwaukee,4143-north-76th-street,031497,"4143 North 76th Street, Milwaukee, WI 53222",53222,43.0928727,-88.0076666
+https://locations.tacobell.com/wi/la-crosse/4141-mormon-coulee-ct.html,wi,la-crosse,4141-mormon-coulee-ct,031498,"4141 Mormon Coulee Ct, La Crosse, WI 54601",54601,43.7725798,-91.2179958
+https://locations.tacobell.com/wi/manitowoc/4133-harbor-town-lane.html,wi,manitowoc,4133-harbor-town-lane,031505,"4133 Harbor Town Lane, Manitowoc, WI 54220",54220,44.0760239,-87.7008758
+https://locations.tacobell.com/wi/madison/4120-e-washington-ave.html,wi,madison,4120-e-washington-ave,032117,"4120 E Washington Ave, Madison, WI 53704",53704,43.1193454,-89.3206413
+https://locations.tacobell.com/wi/waukesha/405-w-sunset-dr.html,wi,waukesha,405-w-sunset-dr,031986,"405 W Sunset Dr, Waukesha, WI 53189",53189,42.9878964,-88.2351755
+https://locations.tacobell.com/wi/kenosha/4002-52nd-street.html,wi,kenosha,4002-52nd-street,031990,"4002 52nd Street, Kenosha, WI 53144",53144,42.588804,-87.857787
+https://locations.tacobell.com/wi/new-berlin/3530-s-moorland-road.html,wi,new-berlin,3530-s-moorland-road,030400,"3530 S Moorland Road, New Berlin, WI 53151",53151,42.979926,-88.1075869
+https://locations.tacobell.com/wv/morgantown/347-patteson-dr.html,wv,morgantown,347-patteson-dr,040031,"347 Patteson Dr, Morgantown, WV 26505",26505,39.6512623,-79.9698997
+https://locations.tacobell.com/wi/racine/3358-douglas-avenue.html,wi,racine,3358-douglas-avenue,031987,"3358 Douglas Avenue, Racine, WI 53402",53402,42.7607095,-87.8019953
+https://locations.tacobell.com/wy/casper/3340-c-y-ave.html,wy,casper,3340-c-y-ave,023072,"3340 C-Y Ave, Casper, WY 82604",82604,42.8267157,-106.3614872
+https://locations.tacobell.com/wi/milwaukee/3334-s--27th-st-.html,wi,milwaukee,3334-s--27th-st-,031994,"3334 S. 27th St., Milwaukee, WI 53215",53215,42.9845112,-87.9478702
+https://locations.tacobell.com/wi/appleton/3221-east-express-court.html,wi,appleton,3221-east-express-court,031500,"3221 East Express Court, Appleton, WI 54915",54915,44.2588637,-88.35947829999999
+https://locations.tacobell.com/wi/wisconsin-dells/321-highway-13.html,wi,wisconsin-dells,321-highway-13,032095,"321 Highway 13, Wisconsin Dells, WI 53965",53965,43.6350518,-89.7616649
+https://locations.tacobell.com/wi/sheboygan/3205-erie-ave.html,wi,sheboygan,3205-erie-ave,023270,"3205 Erie Ave, Sheboygan, WI 53081",53081,43.7519145,-87.7502086
+https://locations.tacobell.com/wi/milwaukee/3191-s--76th-street.html,wi,milwaukee,3191-s--76th-street,031485,"3191 S. 76th Street, Milwaukee, WI 53219",53219,42.9861461,-88.0081927
+https://locations.tacobell.com/wi/eau-claire/3150-n--clairemont-avenue.html,wi,eau-claire,3150-n--clairemont-avenue,032395,"3150 N. Clairemont Avenue, Eau Claire, WI 54703",54703,44.8299016,-91.5451561
+https://locations.tacobell.com/wi/la-crosse/315-west-avenue-north.html,wi,la-crosse,315-west-avenue-north,031502,"315 West Avenue North, La Crosse, WI 54601",54601,43.8141593,-91.2388518
+https://locations.tacobell.com/wi/plymouth/3062-kiley-way.html,wi,plymouth,3062-kiley-way,028453,"3062 Kiley Way, Plymouth, WI 53073",53073,43.7528226,-87.9420768
+https://locations.tacobell.com/wv/lewisburg/303-gateway-blvd-.html,wv,lewisburg,303-gateway-blvd-,040941,"303 Gateway Blvd., Lewisburg, WV 24901",24901,37.810598,-80.4340309
+https://locations.tacobell.com/wi/sheboygan/3026-s--business-drive.html,wi,sheboygan,3026-s--business-drive,024298,"3026 S. Business Drive, Sheboygan, WI 53081",53081,43.7223701,-87.7369094
+https://locations.tacobell.com/wv/morgantown/302-cheat-road.html,wv,morgantown,302-cheat-road,040056,"302 Cheat Road, Morgantown, WV 26508",26508,39.6478128,-79.9013508
+https://locations.tacobell.com/wi/madison/3002-e-washington-ave.html,wi,madison,3002-e-washington-ave,031954,"3002 E Washington Ave, Madison, WI 53704",53704,43.1046476,-89.341814
+https://locations.tacobell.com/wv/parkersburg/300-gihon-village.html,wv,parkersburg,300-gihon-village,030912,"300 Gihon Village, Parkersburg, WV 26101",26101,39.2314713,-81.5416848
+https://locations.tacobell.com/wi/portage/2940-new-pinery-rd.html,wi,portage,2940-new-pinery-rd,032092,"2940 New Pinery Rd, Portage, WI 53901",53901,43.5707642,-89.4705526
+https://locations.tacobell.com/wi/appleton/2840-west-college-avenue.html,wi,appleton,2840-west-college-avenue,031491,"2840 West College Avenue, Appleton, WI 54914",54914,44.2623566,-88.450573
+https://locations.tacobell.com/wi/racine/2825-s-green-bay-rd.html,wi,racine,2825-s-green-bay-rd,031985,"2825 S Green Bay Rd, Racine, WI 53406",53406,42.7007957,-87.8530731
+https://locations.tacobell.com/wi/appleton/2810-n-richmond.html,wi,appleton,2810-n-richmond,031492,"2810 N Richmond, Appleton, WI 54911",54911,44.2876263,-88.4153708
+https://locations.tacobell.com/wi/lake-geneva/280-edwards-blvd.html,wi,lake-geneva,280-edwards-blvd,030406,"280 Edwards Blvd, Lake Geneva, WI 53147",53147,42.5925754,-88.4146268
+https://locations.tacobell.com/wi/kenosha/2707-18th-street.html,wi,kenosha,2707-18th-street,030411,"2707 18th Street, Kenosha, WI 53140",53140,42.6240686,-87.841698
+https://locations.tacobell.com/wi/janesville/2626-humes-rd-.html,wi,janesville,2626-humes-rd-,031956,"2626 Humes Rd., Janesville, WI 53545",53545,42.7187248,-88.9906002
+https://locations.tacobell.com/wi/janesville/2525-w-court-st.html,wi,janesville,2525-w-court-st,031958,"2525 W Court St, Janesville, WI 53548",53548,42.6788214,-89.0513101
+https://locations.tacobell.com/wi/eau-claire/2512-craig-rd.html,wi,eau-claire,2512-craig-rd,031495,"2512 Craig Rd, Eau Claire, WI 54701",54701,44.7924596,-91.5196198
+https://locations.tacobell.com/wy/cheyenne/2500-e-lincoln-way.html,wy,cheyenne,2500-e-lincoln-way,023074,"2500 E Lincoln Way, Cheyenne, WY 82001",82001,41.138804,-104.7872371
+https://locations.tacobell.com/wi/saukville/250-s--foster-dr-.html,wi,saukville,250-s--foster-dr-,030419,"250 S. Foster Dr., Saukville, WI 53080",53080,43.3796976,-87.9305868
+https://locations.tacobell.com/wy/rawlins/2421-plaza-street.html,wy,rawlins,2421-plaza-street,023086,"2421 Plaza Street, Rawlins, WY 82301",82301,41.79310479999999,-107.2098838
+https://locations.tacobell.com/wi/ashwaubenon/2404-s-oneida-street.html,wi,ashwaubenon,2404-s-oneida-street,031486,"2404 S Oneida Street, Ashwaubenon, WI 54304",54304,44.4859932,-88.0679544
+https://locations.tacobell.com/wi/hudson/2323-crestview-dr.html,wi,hudson,2323-crestview-dr,004900,"2323 Crestview Dr, Hudson, WI 54016",54016,44.9612782,-92.7239201
+https://locations.tacobell.com/wi/milwaukee/230-w-layton-ave-.html,wi,milwaukee,230-w-layton-ave-,031984,"230 W Layton Ave., Milwaukee, WI 53207",53207,42.9596059,-87.9143921
+https://locations.tacobell.com/wv/weirton/224-three-springs-drive.html,wv,weirton,224-three-springs-drive,032353,"224 Three Springs Drive, Weirton, WV 26062",26062,40.3992197,-80.5500718
+https://locations.tacobell.com/wi/green-bay/2230-university-ave.html,wi,green-bay,2230-university-ave,031499,"2230 University Ave, Green Bay, WI 54302",54302,44.5124751,-87.9665551
+https://locations.tacobell.com/wi/green-bay/2220-main-street.html,wi,green-bay,2220-main-street,031503,"2220 Main Street, Green Bay, WI 54302",54302,44.485542,-87.9717893
+https://locations.tacobell.com/wi/milwaukee/2210-w-wisconsin-ave.html,wi,milwaukee,2210-w-wisconsin-ave,031490,"2210 W Wisconsin Ave, Milwaukee, WI 53233",53233,43.0389526,-87.9408125
+https://locations.tacobell.com/wi/middleton/2169-deming-way.html,wi,middleton,2169-deming-way,031963,"2169 Deming Way Suite 100, Middleton, WI 53562",53562,43.0974189,-89.5221512
+https://locations.tacobell.com/wi/little-chute/2130-freedom-road.html,wi,little-chute,2130-freedom-road,031751,"2130 Freedom Road, Little Chute, WI 54140",54140,44.2955755,-88.3121929
+https://locations.tacobell.com/wy/laramie/2121-grand-ave.html,wy,laramie,2121-grand-ave,023073,"2121 Grand Ave, Laramie, WY 82070",82070,41.3097566,-105.5666213
+https://locations.tacobell.com/wi/waukesha/21195-highway-18.html,wi,waukesha,21195-highway-18,031982,"21195 Highway 18, Waukesha, WI 53186",21195,43.0107404,-88.3883417
+https://locations.tacobell.com/wv/new-martinsville/210-north-state-route-2.html,wv,new-martinsville,210-north-state-route-2,J089011,"210 North State Route 2, New Martinsville, WV 26155",26155,39.6721159,-80.8578018
+https://locations.tacobell.com/wv/benwood/207-marshall-st-.html,wv,benwood,207-marshall-st-,J089009,"207 Marshall St., Benwood, WV 26031",26031,40.0285998,-80.728935
+https://locations.tacobell.com/wi/eau-claire/2056-s-hastings.html,wi,eau-claire,2056-s-hastings,031489,"2056 S Hastings, Eau Claire, WI 54701",54701,44.7976567,-91.4655192
+https://locations.tacobell.com/wi/burlington/2056-milwaukee-ave-.html,wi,burlington,2056-milwaukee-ave-,031993,"2056 Milwaukee Ave., Burlington, WI 53105",53105,42.704071,-88.2470659
+https://locations.tacobell.com/wi/tomah/205-wittig-road.html,wi,tomah,205-wittig-road,037476,"205 Wittig Road, Tomah, WI 54660",54660,44.0173432,-90.5027842
+https://locations.tacobell.com/wi/sun-prairie/2005-mccoy-rd.html,wi,sun-prairie,2005-mccoy-rd,031957,"2005 McCoy Rd, Sun Prairie, WI 53590",53590,43.1754188,-89.2471907
+https://locations.tacobell.com/wi/rhinelander/200-s-eisenhower-pkwy.html,wi,rhinelander,200-s-eisenhower-pkwy,031837,"200 S Eisenhower Pkwy, Rhinelander, WI 54501",54501,45.6354451,-89.3798995
+https://locations.tacobell.com/wv/sutton/1994-sutton-lane.html,wv,sutton,1994-sutton-lane,G135759,"1994 Sutton Lane, Sutton, WV 26601",26601,38.7003316,-80.6635243
+https://locations.tacobell.com/wi/richland-center/1950-us-highway-14-east.html,wi,richland-center,1950-us-highway-14-east,042082,"1950 US Highway 14 East, Richland Center, WI 53581",53581,43.3185204,-90.36103
+https://locations.tacobell.com/wi/green-bay/1897-velp-avenue.html,wi,green-bay,1897-velp-avenue,038959,"1897 Velp Avenue, Green Bay, WI 54303",54303,44.5560637,-88.0588649
+https://locations.tacobell.com/wi/beloit/1841-riverside-dr-.html,wi,beloit,1841-riverside-dr-,031955,"1841 Riverside Dr., Beloit, WI 53511",53511,42.5236654,-89.0343715
+https://locations.tacobell.com/wy/riverton/1812-north-federal-blvd.html,wy,riverton,1812-north-federal-blvd,023080,"1812 North Federal Blvd, Riverton, WY 82501",82501,43.0425802,-108.3811722
+https://locations.tacobell.com/wi/oshkosh/1800-w-jackson-st-.html,wi,oshkosh,1800-w-jackson-st-,005309,"1800 W Jackson St., Oshkosh, WI 54901",54901,44.08762,-88.5434047
+https://locations.tacobell.com/wi/wisconsin-rapids/1750-8th-street-south.html,wi,wisconsin-rapids,1750-8th-street-south,K071162,"1750 8th Street South, Wisconsin Rapids, WI 54494",54494,44.3787973,-89.8178084
+https://locations.tacobell.com/wi/beaver-dam/1739-north-spring-street.html,wi,beaver-dam,1739-north-spring-street,041416,"1739 North Spring Street, Beaver Dam, WI 53916",53916,43.4815384,-88.8197204
+https://locations.tacobell.com/wi/wausau/1730-us-highway-51-n.html,wi,wausau,1730-us-highway-51-n,031835,"1730 US Highway 51 N, Wausau, WI 54401",54401,44.9864589,-89.65330089999999
+https://locations.tacobell.com/wi/watertown/1729-s-church-st.html,wi,watertown,1729-s-church-st,041417,"1729 S Church St, Watertown, WI 53094",53094,43.1707518,-88.7318326
+https://locations.tacobell.com/wy/cheyenne/1729-dell-range-blvd.html,wy,cheyenne,1729-dell-range-blvd,023079,"1729 Dell Range Blvd, Cheyenne, WY 82009",82009,41.1598817,-104.799046
+https://locations.tacobell.com/wi/new-richmond/1705-dorset-lane.html,wi,new-richmond,1705-dorset-lane,032290,"1705 Dorset Lane, New Richmond, WI 54017",54017,45.1004464,-92.5363443
+https://locations.tacobell.com/wi/antigo/1700-neva-road.html,wi,antigo,1700-neva-road,K092003,"1700 Neva Road, Antigo, WI 54409",54409,45.1555556,-89.1478253
+https://locations.tacobell.com/wy/sheridan/1655-coffeen-ave.html,wy,sheridan,1655-coffeen-ave,023075,"1655 Coffeen Ave, Sheridan, WY 82801",82801,44.7800824,-106.9421046
+https://locations.tacobell.com/wi/janesville/1619-milton-ave.html,wi,janesville,1619-milton-ave,031961,"1619 Milton Ave, Janesville, WI 53545",53545,42.7040217,-89.0074648
+https://locations.tacobell.com/wi/fort-atkinson/1601-madison-avenue.html,wi,fort-atkinson,1601-madison-avenue,036275,"1601 Madison Avenue, Fort Atkinson, WI 53538",53538,42.9405006,-88.859554
+https://locations.tacobell.com/wi/plover/1550-plover-road.html,wi,plover,1550-plover-road,036274,"1550 Plover Road, Plover, WI 54467",54467,44.4537513,-89.5204191
+https://locations.tacobell.com/wv/fayetteville/154-whitewater-avenue.html,wv,fayetteville,154-whitewater-avenue,026438,"154 Whitewater Avenue, Fayetteville, WV 25840",25840,38.0322719,-81.1245905
+https://locations.tacobell.com/wi/whitewater/1535-w--main-street.html,wi,whitewater,1535-w--main-street,041419,"1535 W. Main Street, Whitewater, WI 53190",53190,42.8360044,-88.7645306
+https://locations.tacobell.com/wi/green-bay/1529-w-mason-st.html,wi,green-bay,1529-w-mason-st,031494,"1529 W Mason St, Green Bay, WI 54303",54303,44.5226762,-88.062185
+https://locations.tacobell.com/wi/hartford/1516-e-sumner-st.html,wi,hartford,1516-e-sumner-st,023272,"1516 E Sumner St, Hartford, WI 53027",53027,43.3180108,-88.3519689
+https://locations.tacobell.com/wv/elkins/1509-harrison-ave.html,wv,elkins,1509-harrison-ave,040037,"1509 Harrison Ave, Elkins, WV 26241",26241,38.9318677,-79.8675542
+https://locations.tacobell.com/wi/de-pere/1501-main-avenue.html,wi,de-pere,1501-main-avenue,038962,"1501 Main Avenue, De Pere, WI 54115",54115,44.4523012,-88.0915867
+https://locations.tacobell.com/wi/milwaukee/150-w-holt-ave.html,wi,milwaukee,150-w-holt-ave,031027,"150 W Holt Ave, Milwaukee, WI 53207",53207,42.983734,-87.9139138
+https://locations.tacobell.com/wi/delavan/1462-east-geneva-street.html,wi,delavan,1462-east-geneva-street,030413,"1462 East Geneva Street, Delavan, WI 53115",53115,42.6271511,-88.6218654
+https://locations.tacobell.com/wi/marshfield/1410-north-central-avenue.html,wi,marshfield,1410-north-central-avenue,031836,"1410 North Central Avenue, Marshfield, WI 54449",54449,44.6803785,-90.1646667
+https://locations.tacobell.com/wi/menomonie/1401-n-broadway.html,wi,menomonie,1401-n-broadway,005290,"1401 N Broadway, Menomonie, WI 54751",54751,44.8987432,-91.9324737
+https://locations.tacobell.com/wi/marinette/w-1388-old-peshtigo-rd.html,wi,marinette,w-1388-old-peshtigo-rd,033433,"W 1388 Old Peshtigo Rd, Marinette, WI 54143",54143,45.079544,-87.66458949999999
+https://locations.tacobell.com/wi/west-allis/1361-s--60th-st-.html,wi,west-allis,1361-s--60th-st-,031983,"1361 S. 60th St., West Allis, WI 53214",53214,43.017057,-87.9877665
+https://locations.tacobell.com/wv/martinsburg/1359-edwin-miller-blvd.html,wv,martinsburg,1359-edwin-miller-blvd,029623,"1359 Edwin Miller Blvd, Martinsburg, WV 25404",25404,39.4802589,-77.9578243
+https://locations.tacobell.com/wi/pewaukee/1355-capital-drive.html,wi,pewaukee,1355-capital-drive,031995,"1355 Capital Drive, Pewaukee, WI 53072",53072,43.0838985,-88.2314135
+https://locations.tacobell.com/wi/sturgeon-bay/1331-green-bay-road.html,wi,sturgeon-bay,1331-green-bay-road,038963,"1331 Green Bay Road, Sturgeon Bay, WI 54235",54235,44.8202808,-87.4092594
+https://locations.tacobell.com/wi/west-bend/1307-s-main-street.html,wi,west-bend,1307-s-main-street,023267,"1307 S Main Street, West Bend, WI 53095",53095,43.4038121,-88.1806982
+https://locations.tacobell.com/wi/new-london/1280-shawano-avenue.html,wi,new-london,1280-shawano-avenue,036272,"1280 Shawano Avenue, New London, WI 54961",54961,44.40565280000001,-88.74067939999999
+https://locations.tacobell.com/wi/shawano/1266-east-green-bay-street.html,wi,shawano,1266-east-green-bay-street,038964,"1266 East Green Bay Street, Shawano, WI 54166",54166,44.7813725,-88.5784634
+https://locations.tacobell.com/wi/onalaska/1243-crossing-meadows-rd.html,wi,onalaska,1243-crossing-meadows-rd,037472,"1243 Crossing Meadows Rd, Onalaska, WI 54650",54650,43.8701401,-91.2104118
+https://locations.tacobell.com/wi/lake-delton/1240-great-wolf-road.html,wi,lake-delton,1240-great-wolf-road,032116,"1240 Great Wolf Road, Lake Delton, WI 53940",53940,43.5743338,-89.7793374
+https://locations.tacobell.com/wv/princeton/1225-stafford-dr.html,wv,princeton,1225-stafford-dr,031440,"1225 Stafford Dr, Princeton, WV 24740",24740,37.36177,-81.0968759
+https://locations.tacobell.com/wv/princeton/121-lyle-way.html,wv,princeton,121-lyle-way,032061,"121 Lyle Way, Princeton, WV 24740",24740,37.364869,-81.05900100000001
+https://locations.tacobell.com/wi/ripon/1180-west-fond-du-lac.html,wi,ripon,1180-west-fond-du-lac,G135779,"1180 West Fond Du Lac, Ripon, WI 54971",54971,43.8551903,-88.86219
+https://locations.tacobell.com/wi/neenah/1171-westowne-dr.html,wi,neenah,1171-westowne-dr,031504,"1171 Westowne Dr, Neenah, WI 54956",54956,44.1742447,-88.4935136
+https://locations.tacobell.com/wi/dodgeville/1140-n--johns-street.html,wi,dodgeville,1140-n--johns-street,032119,"1140 N. Johns Street, Dodgeville, WI 53533",53533,42.9741198,-90.126908
+https://locations.tacobell.com/wi/oshkosh/1140-koeller.html,wi,oshkosh,1140-koeller,003159,"1140 Koeller, Oshkosh, WI 54902",54902,44.0087837,-88.5810423
+https://locations.tacobell.com/wi/waupun/114-shaler.html,wi,waupun,114-shaler,041415,"114 Shaler, Waupun, WI 53963",53963,43.631686,-88.7170383
+https://locations.tacobell.com/wi/south-milwaukee/112-n-chicago-ave.html,wi,south-milwaukee,112-n-chicago-ave,030418,"112 N Chicago Ave, South Milwaukee, WI 53172",53172,42.9292964,-87.8611927
+https://locations.tacobell.com/wv/beckley/1104-n--eisenhower-dr-.html,wv,beckley,1104-n--eisenhower-dr-,031441,"1104 N. Eisenhower Dr., Beckley, WV 25801",25801,37.8007979,-81.1791383
+https://locations.tacobell.com/wi/west-allis/11011-w-national-avenue.html,wi,west-allis,11011-w-national-avenue,031991,"11011 W National Avenue, West Allis, WI 53227",11011,42.9921733,-88.0488045
+https://locations.tacobell.com/wv/fairmont/11-southland-drive.html,wv,fairmont,11-southland-drive,040053,"11 Southland Drive, Fairmont, WV 26554",26554,39.4312918,-80.1862014
+https://locations.tacobell.com/wi/waupaca/1092-w--fulton-street.html,wi,waupaca,1092-w--fulton-street,036273,"1092 W. Fulton Street, Waupaca, WI 54981",54981,44.3574368,-89.1131257
+https://locations.tacobell.com/wy/rock-springs/108-westland-way.html,wy,rock-springs,108-westland-way,030830,"108 Westland Way, Rock Springs, WY 82901",82901,41.5778125,-109.2515053
+https://locations.tacobell.com/wv/clarksburg/105-emily-dr.html,wv,clarksburg,105-emily-dr,040043,"105 Emily Dr, Clarksburg, WV 26301",26301,39.2801886,-80.2801183
+https://locations.tacobell.com/wv/moundsville/103-lafayette-ave.html,wv,moundsville,103-lafayette-ave,030307,"103 LaFayette Ave, Moundsville, WV 26041",26041,39.931746,-80.7522515
+https://locations.tacobell.com/wv/martinsburg/1020-foxcroft-avenue.html,wv,martinsburg,1020-foxcroft-avenue,005183,"1020 Foxcroft Avenue, Martinsburg, WV 25401",25401,39.4561003,-77.988577
+https://locations.tacobell.com/wi/de-pere/1010-s-broadway.html,wi,de-pere,1010-s-broadway,038960,"1010 S Broadway, De Pere, WI 54115",54115,44.4399659,-88.0601136
+https://locations.tacobell.com/wi/monona/100-e-broadway.html,wi,monona,100-e-broadway,031960,"100 E Broadway, Monona, WI 53716",53716,43.047655,-89.324538
+https://locations.tacobell.com/wi/minocqua/8660-highway-51.html,wi,minocqua,8660-highway-51,040421,"8660 Highway 51, Minocqua, WI 54548",54548,45.8508945,-89.7075464
+https://locations.tacobell.com/wi/west-milwaukee/2201-miller-park-way.html,wi,west-milwaukee,2201-miller-park-way,038991,"2201 Miller Park Way, West Milwaukee, WI 53219",53219,43.0051225,-87.9698951
+https://locations.tacobell.com/wi/wausau/225521-lilac-ave-.html,wi,wausau,225521-lilac-ave-,040356,"225521 Lilac Ave., Wausau, WI 54401",22552,44.9145309,-89.6456079
+https://locations.tacobell.com/wi/merrill/n1667-county-road-w.html,wi,merrill,n1667-county-road-w,K092001,"N1667 County Road W, Merrill, WI 54452",54452,45.1762853,-89.6422827
+https://locations.tacobell.com/wi/sussex/w--249-n--6498-hwy-164.html,wi,sussex,w--249-n--6498-hwy-164,032041,"W. 249 N. 6498 Hwy 164, Sussex, WI 53089",53089,43.1120779,-88.2423947
+https://locations.tacobell.com/wi/muskego/s69w15615-janesville-rd.html,wi,muskego,s69w15615-janesville-rd,030866,"S69W15615 Janesville Rd, Muskego, WI 53150",15615,42.9182062,-88.1093475
+https://locations.tacobell.com/wi/germantown/n96w17802-county-line-rd.html,wi,germantown,n96w17802-county-line-rd,023269,"N96W17802 County Line Rd, Germantown, WI 53022",17802,43.1921389,-88.1302085
+https://locations.tacobell.com/wv/mineral-wells/128-elizabeth-pike.html,wv,mineral-wells,128-elizabeth-pike,030686,"128 Elizabeth Pike, Mineral Wells, WV 26150",26150,39.1869602,-81.52703079999999
+https://locations.tacobell.com/wv/oceana/state-route-971.html,wv,oceana,state-route-971,021087,"State Route 971, Oceana, WV 24870",24870,37.6952551,-81.6502411
+https://locations.tacobell.com/wv/bradley/5459-robert-c-byrd-drive.html,wv,bradley,5459-robert-c-byrd-drive,037294,"5459 Robert C Byrd Drive, Bradley, WV 25818",25818,37.8614353,-81.1965334
+https://locations.tacobell.com/wv/smithers/route-60.html,wv,smithers,route-60,023886,"Route 60, Smithers, WV 25186",25186,38.1691238,-81.3028846
+https://locations.tacobell.com/wi/madison/534-state-st.html,wi,madison,534-state-st,034354,"534 State St, Madison, WI 53703",53703,43.0750916,-89.3943214
+https://locations.tacobell.com/wi/holmen/129-hale-drive.html,wi,holmen,129-hale-drive,037482,"129 Hale Drive Endcap w-DT, Holmen, WI 54636",54636,43.9526835,-91.25597979999999
+https://locations.tacobell.com/wy/green-river/82-uinta-drive.html,wy,green-river,82-uinta-drive,032388,"82 Uinta Drive, Green River, WY 82935",82935,41.520321,-109.465238
+https://locations.tacobell.com/wi/suamico/2326-lineville-rd.html,wi,suamico,2326-lineville-rd,040607,"2326 Lineville Rd, Suamico, WI 54313",54313,44.5910703,-88.0750256

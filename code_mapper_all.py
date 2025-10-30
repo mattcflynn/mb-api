@@ -77,6 +77,7 @@ def parse_store_id_from_url(u: str) -> str | None:
 
 ALPHA_PREFIX = re.compile(r"^[A-Za-z](\d{5,7})$")  # G135807 -> 135807
 DIGITS = re.compile(r"^\d{4,7}$")
+STORE_ID_PATTERN = re.compile(r"^[A-Za-z]?\d{4,7}$")
 
 
 def sanitize_store_id(raw_id: str | None) -> str | None:
@@ -143,11 +144,12 @@ def extract_store_id_from_html(url: str) -> str | None:
 def build_id_candidates(url: str, csv_sid: str | None) -> List[str]:
     """
     Build a prioritized list of candidate IDs to try for a store:
-      1) sanitized CSV store_id (preferred)
-      2) sanitized ID parsed from URL
-      3) digits-only for alpha-prefixed
-      4) zero-stripped variant ONLY if base starts with '0' (e.g., 019301 -> 19301)
-      5) HTML-extracted storeNumber
+      1) raw CSV store_id (keeps alpha prefix)
+      2) sanitized CSV store_id (digits only)
+      3) sanitized ID parsed from URL
+      4) digits-only for alpha-prefixed
+      5) zero-stripped variant ONLY if base starts with '0' (e.g., 019301 -> 19301)
+      6) HTML-extracted storeNumber
     All unique, digits only, in priority order.
     """
     cands: List[str] = []
@@ -156,31 +158,35 @@ def build_id_candidates(url: str, csv_sid: str | None) -> List[str]:
         if x and x not in cands:
             cands.append(x)
 
-    # 1) CSV
+    raw_csv = (csv_sid or "").strip() if csv_sid else ""
+    if raw_csv and STORE_ID_PATTERN.fullmatch(raw_csv):
+        add(raw_csv)
+
+    # 2) CSV sanitized
     primary = sanitize_store_id(csv_sid)
     add(primary)
 
-    # 2) URL
+    # 3) URL
     from_url = sanitize_store_id(parse_store_id_from_url(url))
     add(from_url)
 
-    # 3) alpha-prefixed in CSV -> digits tail
+    # 4) alpha-prefixed in CSV -> digits tail
     if csv_sid:
         m = ALPHA_PREFIX.match(csv_sid.strip())
         if m:
             add(m.group(1))
 
-    # 4) zero-stripped variant only if leading zero present
+    # 5) zero-stripped variant only if leading zero present
     for base in (primary, from_url):
         if base and base.startswith("0"):
             add(base.lstrip("0"))
 
-    # 5) store page HTML
+    # 6) store page HTML
     html_id = sanitize_store_id(extract_store_id_from_html(url))
     add(html_id)
 
-    # Only digits in final candidates
-    cands = [c for c in cands if c and DIGITS.fullmatch(c)]
+    # Allow digits or leading alpha
+    cands = [c for c in cands if c and STORE_ID_PATTERN.fullmatch(c)]
     return cands
 
 

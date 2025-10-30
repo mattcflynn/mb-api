@@ -1,0 +1,421 @@
+url,state,city,address_slug,store_id,full_address,zip_code,latitude,longitude
+https://locations.tacobell.com/ny/staten-island/245-page-age.html,ny,staten-island,245-page-age,040567,"245 Page Age, Staten Island, NY 10312",10312,40.555548,-74.1827119
+https://locations.tacobell.com/ny/bronx/5625-broadway.html,ny,bronx,5625-broadway,040658,"5625 Broadway, Bronx, NY 10463",10463,40.8799239,-73.9043107
+https://locations.tacobell.com/ny/mohegan-lake/3571-mohegan-avenue.html,ny,mohegan-lake,3571-mohegan-avenue,037289,"3571 Mohegan Avenue, Mohegan Lake, NY 10547",10547,41.3220419,-73.8538527
+https://locations.tacobell.com/ny/bronx/72-westchester-square.html,ny,bronx,72-westchester-square,040572,"72 Westchester Square, Bronx, NY 10461",10461,40.8403018,-73.8434368
+https://locations.tacobell.com/ny/east-rochester/341-west-commercial-street.html,ny,east-rochester,341-west-commercial-street,040717,"341 West Commercial Street, East Rochester, NY 14445",14445,43.1150136,-77.4917799
+https://locations.tacobell.com/ny/brentwood/500-suffolk-ave.html,ny,brentwood,500-suffolk-ave,033377,"500 Suffolk Ave, Brentwood, NY 11717",11717,40.7787537,-73.2547522
+https://locations.tacobell.com/ny/albion/122-west-ave.html,ny,albion,122-west-ave,040901,"122 West Ave, Albion, NY 14411",14411,43.2408543,-78.1973224
+https://locations.tacobell.com/ny/floral-park/90-jericho-turnpike.html,ny,floral-park,90-jericho-turnpike,034014,"90 Jericho Turnpike, Floral Park, NY 11001",11001,40.7274384,-73.708302
+https://locations.tacobell.com/ny/hamburg/4923-southwestern-blvd.html,ny,hamburg,4923-southwestern-blvd,040833,"4923 Southwestern Blvd, Hamburg, NY 14075",14075,42.7528321,-78.8478466
+https://locations.tacobell.com/ny/cheektowaga/1689-walden-ave.html,ny,cheektowaga,1689-walden-ave,040566,"1689 Walden Ave, Cheektowaga, NY 14225",14225,42.9078796,-78.7746363
+https://locations.tacobell.com/ny/queensbury/355-dix-ave.html,ny,queensbury,355-dix-ave,041159,"355 Dix Ave, Queensbury, NY 12804",12804,43.3153894,-73.6064441
+https://locations.tacobell.com/ny/rochester/1737-mount-hope-avenue.html,ny,rochester,1737-mount-hope-avenue,040312,"1737 Mount Hope Avenue, Rochester, NY 14620",14620,43.1163271,-77.6219945
+https://locations.tacobell.com/ny/catskill/170-w-bridge-street.html,ny,catskill,170-w-bridge-street,039145,"170 W Bridge Street, Catskill, NY 12414",12414,42.2155278,-73.8781094
+https://locations.tacobell.com/ny/watertown/514-540-state-street.html,ny,watertown,514-540-state-street,041326,"514 - 540 State Street, Watertown, NY 13601",13601,43.9700761,-75.8916547
+https://locations.tacobell.com/ny/briarcliff-manor/233-south-highland-ave-.html,ny,briarcliff-manor,233-south-highland-ave-,037350,"233 South Highland Ave., Briarcliff Manor, NY 10510",10510,41.1357327,-73.8607595
+https://locations.tacobell.com/ny/schenectady/2035-state-street.html,ny,schenectady,2035-state-street,042073,"2035 State Street, Schenectady, NY 12303",12303,42.7749497,-73.8973559
+https://locations.tacobell.com/ny/montgomery/2095-route-208.html,ny,montgomery,2095-route-208,041274,"2095 Route 208, Montgomery, NY 12549",12549,41.5152481,-74.2084072
+https://locations.tacobell.com/nv/las-vegas/6345-n-lamb-blvd.html,nv,las-vegas,6345-n-lamb-blvd,041489,"6345 N Lamb Blvd Ste #100, Las Vegas, NV 89115",89115,36.1888684,-115.0799767
+https://locations.tacobell.com/ny/cortland/860-state-route-13.html,ny,cortland,860-state-route-13,041684,"860 State Route 13, Cortland, NY 13045",13045,42.6154895,-76.1623849
+https://locations.tacobell.com/ny/cobleskill/764-e--main-st-.html,ny,cobleskill,764-e--main-st-,042051,"764 E. Main St., Cobleskill, NY 12043",12043,42.6793778,-74.4749532
+https://locations.tacobell.com/ny/tonawanda/810-young-st.html,ny,tonawanda,810-young-st,041047,"810 Young St, Tonawanda, NY 14150",14150,43.0046227,-78.8590079
+https://locations.tacobell.com/nv/las-vegas/6898-n--hualapai-way.html,nv,las-vegas,6898-n--hualapai-way,034019,"6898 N. Hualapai Way, Las Vegas, NV 89149",89149,36.2862612,-115.3145704
+https://locations.tacobell.com/ny/grand-island/1754-grand-island-blvd.html,ny,grand-island,1754-grand-island-blvd,040765,"1754 Grand Island Blvd, Grand Island, NY 14072",14072,43.009204,-78.9517939
+https://locations.tacobell.com/ny/glenville/128-freemans-bridge-road.html,ny,glenville,128-freemans-bridge-road,041962,"128 Freemans Bridge Road, Glenville, NY 12302",12302,42.8428676,-73.9402488
+https://locations.tacobell.com/ny/yonkers/720-mclean-ave.html,ny,yonkers,720-mclean-ave,038980,"720 Mclean Ave, Yonkers, NY 10704",10704,40.9086912,-73.8771227
+https://locations.tacobell.com/nv/n-las-vegas/7950-n-decatur.html,nv,n-las-vegas,7950-n-decatur,041645,"7950 N Decatur, N Las Vegas, NV 89084",89084,36.2834886,-115.2064807
+https://locations.tacobell.com/ny/lackawanna/1361-abbott-rd.html,ny,lackawanna,1361-abbott-rd,041430,"1361 Abbott Rd, Lackawanna, NY 14218",14218,42.8278914,-78.8048454
+https://locations.tacobell.com/ny/newark/110-mason-street.html,ny,newark,110-mason-street,041652,"110 Mason Street, Newark, NY 14513",14513,43.0460486,-77.0976311
+https://locations.tacobell.com/ny/yonkers/1217-nepperhan-avenue.html,ny,yonkers,1217-nepperhan-avenue,037380,"1217 Nepperhan Avenue, Yonkers, NY 10703",10703,40.9657237,-73.8731002
+https://locations.tacobell.com/ny/new-york/1843-1st-ave.html,ny,new-york,1843-1st-ave,041852,"1843 1st Ave, New York, NY 10128",10128,40.7828399,-73.9453449
+https://locations.tacobell.com/nv/reno/1664-north-virginia-street.html,nv,reno,1664-north-virginia-street,042250,"1664 North Virginia Street, Reno, NV 89557",89557,39.5376039,-119.8142728
+https://locations.tacobell.com/ny/ballston-spa/16-kendall-way.html,ny,ballston-spa,16-kendall-way,042193,"16 Kendall Way, Ballston Spa, NY 12020",12020,42.9736,-73.79299999999999
+https://locations.tacobell.com/nv/las-vegas/333-w-st-louis-ave.html,nv,las-vegas,333-w-st-louis-ave,042286,"333 W St Louis Ave, Las Vegas, NV 89102",89102,36.1482636,-115.1605295
+https://locations.tacobell.com/ny/bronx/54-e-170th-st.html,ny,bronx,54-e-170th-st,041158,"54 E 170th St, Bronx, NY 10452",10452,40.8396626,-73.91656
+https://locations.tacobell.com/ny/wellsville/142-south-main-street.html,ny,wellsville,142-south-main-street,040903,"142 South Main Street, Wellsville, NY 14895",14895,42.1166954,-77.9397632
+https://locations.tacobell.com/ny/long-island/40-09-21st-street.html,ny,long-island,40-09-21st-street,042033,"40-09 21st Street Unit E, Long Island, NY 11101",11101,40.7479385,-73.9474188
+https://locations.tacobell.com/ny/jamaica/17551-hillside-ave.html,ny,jamaica,17551-hillside-ave,041498,"17551 Hillside Ave, Jamaica, NY 11432",17551,40.7109992,-73.7922507
+https://locations.tacobell.com/ny/lyons/9-forgham-st.html,ny,lyons,9-forgham-st,042189,"9 Forgham St, Lyons, NY 14489",14489,43.0596963,-76.9929148
+https://locations.tacobell.com/ny/jamaica/132-77-metropolitan-ave.html,ny,jamaica,132-77-metropolitan-ave,040319,"132-77 Metropolitan Ave, Jamaica, NY 11418",11418,40.7028865,-73.8176143
+https://locations.tacobell.com/ny/ithaca/2301-n--triphammer-rd-.html,ny,ithaca,2301-n--triphammer-rd-,042056,"2301 N. Triphammer Rd., Ithaca, NY 14850",14850,42.4820736,-76.483657
+https://locations.tacobell.com/nv/las-vegas/103-s-rainbow-blvd.html,nv,las-vegas,103-s-rainbow-blvd,034350,"103 S Rainbow Blvd, Las Vegas, NV 89145",89145,36.1657738,-115.2441528
+https://locations.tacobell.com/ny/brooklyn/1359-broadway.html,ny,brooklyn,1359-broadway,034349,"1359 Broadway, Brooklyn, NY 11221",11221,40.6898009,-73.9222896
+https://locations.tacobell.com/ny/brooklyn/1034-flatbush-ave.html,ny,brooklyn,1034-flatbush-ave,034150,"1034 Flatbush Ave, Brooklyn, NY 11226",11226,40.645804,-73.9584134
+https://locations.tacobell.com/ny/hornell/39-main-street.html,ny,hornell,39-main-street,034376,"39 Main Street, Hornell, NY 14843",14843,42.3282675,-77.6631287
+https://locations.tacobell.com/nm/tucumcari/2428-1st-st.html,nm,tucumcari,2428-1st-st,034247,"2428 1st st, Tucumcari, NM 88401",88401,35.1559876,-103.7250663
+https://locations.tacobell.com/ny/new-york/840-8th-ave.html,ny,new-york,840-8th-ave,034273,"840 8th Ave, New York, NY 10019",10019,40.7625975,-73.98566
+https://locations.tacobell.com/ny/new-york/224-7th-ave.html,ny,new-york,224-7th-ave,034646,"224 7th Ave, New York, NY 10011",10011,40.74432,-73.9957159
+https://locations.tacobell.com/ny/new-york/500-8th-avenue.html,ny,new-york,500-8th-avenue,034922,"500 8th Avenue, New York, NY 10018",10018,40.7530904,-73.9924263
+https://locations.tacobell.com/ny/farmington/1295-ny-332.html,ny,farmington,1295-ny-332,034610,"1295 NY-332, Farmington, NY 14425",14425,42.972662,-77.3541641
+https://locations.tacobell.com/ny/fulton/505-s--second-street.html,ny,fulton,505-s--second-street,035185,"505 S. Second Street, Fulton, NY 13069",13069,43.0481785,-74.3626542
+https://locations.tacobell.com/nv/las-vegas/warm-springs-and-gabriel.html,nv,las-vegas,warm-springs-and-gabriel,034080,"Warm Springs and Gabriel, Las Vegas, NV 89119",89119,36.0569563,-115.1746053
+https://locations.tacobell.com/ny/flushing/31-22-farrington-street.html,ny,flushing,31-22-farrington-street,035334,"31-22 Farrington Street, Flushing, NY 11354",11354,40.7686625,-73.8337044
+https://locations.tacobell.com/ny/bronx/2165a-white-plains-road.html,ny,bronx,2165a-white-plains-road,035325,"2165A White Plains Road, Bronx, NY 10462",10462,40.8552808,-73.8678761
+https://locations.tacobell.com/ny/brooklyn/208-mcguinness-boulevard.html,ny,brooklyn,208-mcguinness-boulevard,K273002,"208 McGuinness Boulevard, Brooklyn, NY 11222",11222,40.7298845,-73.9506953
+https://locations.tacobell.com/ny/bronx/2036-jerome-avenue.html,ny,bronx,2036-jerome-avenue,035069,"2036 Jerome Avenue, Bronx, NY 10453",10453,40.8534531,-73.9074199
+https://locations.tacobell.com/ny/new-york/1614-2nd-avenue.html,ny,new-york,1614-2nd-avenue,035896,"1614 2nd Avenue, New York, NY 10028",10028,40.7762451,-73.9524595
+https://locations.tacobell.com/ny/new-york/175-dyckman-street.html,ny,new-york,175-dyckman-street,035416,"175 Dyckman Street, New York, NY 10034",10034,40.8641851,-73.9260058
+https://locations.tacobell.com/ny/bronx/8-w-fordham-rd.html,ny,bronx,8-w-fordham-rd,034818,"8 W Fordham Rd, Bronx, NY 10468",10468,40.8627206,-73.9015819
+https://locations.tacobell.com/ny/far-rockaway/13-5-beach-channel-drive.html,ny,far-rockaway,13-5-beach-channel-drive,035457,"13-5 Beach Channel Drive, Far Rockaway, NY 11691",11691,40.6038837,-73.7560512
+https://locations.tacobell.com/ny/new-york/58a-fulton-street.html,ny,new-york,58a-fulton-street,035336,"58A Fulton Street, New York, NY 10038",10038,40.7067175,-74.0035601
+https://locations.tacobell.com/ny/fairport/6687-pittsford-palmyra-road.html,ny,fairport,6687-pittsford-palmyra-road,035227,"6687 Pittsford Palmyra Road, Fairport, NY 14450",14450,43.0699025,-77.4429707
+https://locations.tacobell.com/ny/oswego/147-george-street.html,ny,oswego,147-george-street,034826,"147 George Street, Oswego, NY 13126",13126,43.461338,-76.4848148
+https://locations.tacobell.com/ny/new-york/246-e-23rd-st.html,ny,new-york,246-e-23rd-st,036026,"246 E 23rd St, New York, NY 10010",10010,40.7378336,-73.9815159
+https://locations.tacobell.com/ny/astoria/22-24-31st-street.html,ny,astoria,22-24-31st-street,036027,"22-24 31st Street, Astoria, NY 11105",11105,40.7757059,-73.9115149
+https://locations.tacobell.com/ny/new-york/545-6th-ave.html,ny,new-york,545-6th-ave,040461,"545 6th Ave, New York, NY 10011",10011,40.7379767,-73.9967888
+https://locations.tacobell.com/nv/henderson/3581-st-rose-parkway.html,nv,henderson,3581-st-rose-parkway,036171,"3581 St Rose Parkway, Henderson, NV 89052",89052,36.0043976,-115.1184099
+https://locations.tacobell.com/ny/new-york/230-varick-street.html,ny,new-york,230-varick-street,035828,"230 Varick Street, New York, NY 10014",10014,40.729263,-74.0050056
+https://locations.tacobell.com/nm/santa-fe/64-cities-of-gold-road.html,nm,santa-fe,64-cities-of-gold-road,039930,"64 Cities of Gold Road, Santa Fe, NM 87506",87506,35.8838964,-106.0145571
+https://locations.tacobell.com/nv/las-vegas/825-north-rancho-dr-.html,nv,las-vegas,825-north-rancho-dr-,036523,"825 North Rancho Dr., Las Vegas, NV 89106",89106,36.1796389,-115.178154
+https://locations.tacobell.com/ny/lakewood/310-e-fairmount-ave.html,ny,lakewood,310-e-fairmount-ave,036328,"310 E Fairmount Ave, Lakewood, NY 14750",14750,42.0982665,-79.3039883
+https://locations.tacobell.com/ny/jamaica/16001-jamaica-avenue.html,ny,jamaica,16001-jamaica-avenue,033349,"16001 Jamaica Avenue, Jamaica, NY 11432",16001,40.7066283,-73.7916855
+https://locations.tacobell.com/ny/new-york/976-6th-ave.html,ny,new-york,976-6th-ave,036012,"976 6th Ave, New York, NY 10018",10018,40.7508937,-73.9867321
+https://locations.tacobell.com/ny/rego-park/9506-63rd-drive.html,ny,rego-park,9506-63rd-drive,036317,"9506 63rd Drive, Rego Park, NY 11374",11374,40.7284197,-73.8634143
+https://locations.tacobell.com/ny/troy/720-hoosick-road.html,ny,troy,720-hoosick-road,035833,"720 Hoosick Road, Troy, NY 12180",12180,42.743219,-73.6452977
+https://locations.tacobell.com/ny/rochester/1436-west-ridge-road.html,ny,rochester,1436-west-ridge-road,036411,"1436 West Ridge Road, Rochester, NY 14615",14615,43.2052897,-77.6650281
+https://locations.tacobell.com/ny/macedon/337-pittsford-palmyra-rd-.html,ny,macedon,337-pittsford-palmyra-rd-,035141,"337 Pittsford-Palmyra Rd., Macedon, NY 14502",14502,43.0647643,-77.3606338
+https://locations.tacobell.com/ny/bronx/361-e--fordham-road.html,ny,bronx,361-e--fordham-road,035827,"361 E. Fordham Road, Bronx, NY 10458",10458,40.8619852,-73.892529
+https://locations.tacobell.com/ny/long-beach/555-long-beach-boulevard.html,ny,long-beach,555-long-beach-boulevard,C160021,"555 Long Beach Boulevard, Long Beach, NY 11561",11561,40.591342,-73.6580207
+https://locations.tacobell.com/ny/greenvale/56-glen-cove-road.html,ny,greenvale,56-glen-cove-road,C160009,"56 Glen Cove Road, Greenvale, NY 11548",11548,40.8130519,-73.6270721
+https://locations.tacobell.com/ny/brooklyn/1665-pitkin-avenue.html,ny,brooklyn,1665-pitkin-avenue,036455,"1665 Pitkin Avenue, Brooklyn, NY 11212",11212,40.6697366,-73.9119451
+https://locations.tacobell.com/ny/freeport/215-w-merrick-rd.html,ny,freeport,215-w-merrick-rd,034816,"215 W Merrick Rd, Freeport, NY 11520",11520,40.6523531,-73.5892188
+https://locations.tacobell.com/ny/jackson-heights/8301-37th-ave.html,ny,jackson-heights,8301-37th-ave,019851,"8301 37th Ave, Jackson Heights, NY 11372",11372,40.7499528,-73.8824526
+https://locations.tacobell.com/ny/new-york/173-e--116th-street.html,ny,new-york,173-e--116th-street,020816,"173 E. 116th Street, New York, NY 10029",10029,40.7984651,-73.9405293
+https://locations.tacobell.com/ny/yorktown-heights/359-downing-drive.html,ny,yorktown-heights,359-downing-drive,021096,"359 Downing Drive, Yorktown Heights, NY 10598",10598,41.2734,-73.7829073
+https://locations.tacobell.com/ny/new-york/390-8th-avenue.html,ny,new-york,390-8th-avenue,027767,"390 8th Avenue, New York, NY 10001",10001,40.7492967,-73.9953475
+https://locations.tacobell.com/nv/imlay/6000-east-frontage-road.html,nv,imlay,6000-east-frontage-road,019547,"6000 East Frontage Road, Imlay, NV 89418",89418,40.6595348,-118.1345109
+https://locations.tacobell.com/nm/las-cruces/202-n--motel-blvd.html,nm,las-cruces,202-n--motel-blvd,021060,"202 N. Motel Blvd, Las Cruces, NM 88005",88005,32.2989454,-106.8136923
+https://locations.tacobell.com/ny/brooklyn/785-flushing-avenue.html,ny,brooklyn,785-flushing-avenue,022960,"785 Flushing Avenue, Brooklyn, NY 11206",11206,40.7010901,-73.9412728
+https://locations.tacobell.com/ny/new-york/18-e--14th-street.html,ny,new-york,18-e--14th-street,026014,"18 E. 14th Street, New York, NY 10003",10003,40.7353029,-73.9928382
+https://locations.tacobell.com/ny/brooklyn/1047-surf-ave.html,ny,brooklyn,1047-surf-ave,036795,"1047 Surf Ave, Brooklyn, NY 11224",11224,40.5757232,-73.9794942
+https://locations.tacobell.com/ny/new-york/707-lexington-ave.html,ny,new-york,707-lexington-ave,036708,"707 Lexington Ave, New York, NY 10022",10022,40.7610742,-73.9687364
+https://locations.tacobell.com/ny/brooklyn/1902-ralph-avenue.html,ny,brooklyn,1902-ralph-avenue,037037,"1902 Ralph Avenue, Brooklyn, NY 11234",11234,40.6306001,-73.9185491
+https://locations.tacobell.com/ny/east-elmhurst/83-10-astoria-blvd.html,ny,east-elmhurst,83-10-astoria-blvd,036429,"83-10 Astoria Blvd, East Elmhurst, NY 11370",11370,40.764369,-73.8852736
+https://locations.tacobell.com/ny/rochester/3234-chili-ave.html,ny,rochester,3234-chili-ave,037045,"3234 Chili Ave, Rochester, NY 14624",14624,43.1404022,-77.6654953
+https://locations.tacobell.com/ny/albany/581-central-ave.html,ny,albany,581-central-ave,042142,"581 Central Ave, Albany, NY 12206",12206,42.6721424,-73.7800078
+https://locations.tacobell.com/ny/carmel/1081-stoneleigh-avenue.html,ny,carmel,1081-stoneleigh-avenue,036767,"1081 Stoneleigh Avenue, Carmel, NY 10512",10512,41.4125128,-73.6683978
+https://locations.tacobell.com/ny/new-york/1868-3rd-ave.html,ny,new-york,1868-3rd-ave,042237,"1868 3rd Ave, New York, NY 10029",10029,40.7898221,-73.946176
+https://locations.tacobell.com/ny/binghamton/1243-upper-front-st.html,ny,binghamton,1243-upper-front-st,042018,"1243 Upper Front St, Binghamton, NY 13901",13901,42.1561622,-75.8969584
+https://locations.tacobell.com/ny/brooklyn/5118-5th-avenue.html,ny,brooklyn,5118-5th-avenue,037051,"5118 5th Avenue, Brooklyn, NY 11220",11220,40.644334,-74.0114899
+https://locations.tacobell.com/ny/syracuse/6463-thompson-road.html,ny,syracuse,6463-thompson-road,037316,"6463 Thompson Road, Syracuse, NY 13206",13206,43.0852233,-76.090224
+https://locations.tacobell.com/ny/new-york/1266-1st-ave.html,ny,new-york,1266-1st-ave,036773,"1266 1st Ave, New York, NY 10065",10065,40.7652725,-73.9575747
+https://locations.tacobell.com/ny/new-york/1501-broadway.html,ny,new-york,1501-broadway,036757,"1501 Broadway, New York, NY 10036",10036,40.7572684,-73.9866623
+https://locations.tacobell.com/ny/syracuse/9090-carousel-center-drive.html,ny,syracuse,9090-carousel-center-drive,017483,"9090 Carousel Center Drive #231, Syracuse, NY 13290",13290,43.06971799999999,-76.17326310000001
+https://locations.tacobell.com/ny/poughkeepsie/2001-south-road-f103.html,ny,poughkeepsie,2001-south-road-f103,026331,"2001 South Road F103, Poughkeepsie, NY 12601",12601,41.6251798,-73.92076639999999
+https://locations.tacobell.com/nm/holloman-afb/new-mexico-&-4th-street.html,nm,holloman-afb,new-mexico-&-4th-street,030722,"New Mexico & 4th Street, Holloman Afb, NM 88330",88330,32.8403794,-106.0818521
+https://locations.tacobell.com/ny/west-nyack/1000-palisades-center-drive.html,ny,west-nyack,1000-palisades-center-drive,026091,"1000 Palisades Center Drive, West Nyack, NY 10994",10994,41.0966089,-73.955597
+https://locations.tacobell.com/ny/albany/1-crossgates-mall-rd.html,ny,albany,1-crossgates-mall-rd,035189,"1 Crossgates Mall Rd, Albany, NY 12260",12260,42.6883769,-73.8481164
+https://locations.tacobell.com/ny/elmsford/350-saw-mill-river-road.html,ny,elmsford,350-saw-mill-river-road,K273008,"350 Saw Mill River Road, Elmsford, NY 10523",10523,41.0663452,-73.8146095
+https://locations.tacobell.com/ny/staten-island/1281-forest-ave.html,ny,staten-island,1281-forest-ave,036304,"1281 Forest Ave, Staten Island, NY 10302",10302,40.6267345,-74.1323554
+https://locations.tacobell.com/ny/jamaica/119-16-liberty-ave.html,ny,jamaica,119-16-liberty-ave,037095,"119-16 liberty Ave, Jamaica, NY 11419",11419,40.6863573,-73.8234973
+https://locations.tacobell.com/nm/carlsbad/713-s-canal-street.html,nm,carlsbad,713-s-canal-street,037186,"713 S Canal Street, Carlsbad, NM 88220",88220,32.4134558,-104.2288812
+https://locations.tacobell.com/ny/staten-island/2655-richmond-ave.html,ny,staten-island,2655-richmond-ave,035261,"2655 Richmond Ave Staten Island Mall Foodcourt #40, Staten Island, NY 10314",10314,40.5818451,-74.1658599
+https://locations.tacobell.com/nm/albuquerque/8651-golf-course-road-northwest.html,nm,albuquerque,8651-golf-course-road-northwest,037523,"8651 Golf Course Road Northwest, Albuquerque, NM 87114",87114,35.1823593,-106.6877833
+https://locations.tacobell.com/ny/brooklyn/1977-86th-street.html,ny,brooklyn,1977-86th-street,037389,"1977 86th Street, Brooklyn, NY 11214",11214,40.6049654,-73.9983128
+https://locations.tacobell.com/ny/new-windsor/376-windsor-highway.html,ny,new-windsor,376-windsor-highway,037085,"376 Windsor Highway, New Windsor, NY 12553",12553,41.4588443,-74.0551808
+https://locations.tacobell.com/ny/ridgewood/57-17-myrtle-ave.html,ny,ridgewood,57-17-myrtle-ave,039957,"57-17 Myrtle Ave, Ridgewood, NY 11385",11385,40.7007091,-73.9030085
+https://locations.tacobell.com/ny/brooklyn/809-grand-street.html,ny,brooklyn,809-grand-street,035419,"809 Grand Street, Brooklyn, NY 11211",11211,40.7120514,-73.9409256
+https://locations.tacobell.com/ny/coram/348-middle-country-road.html,ny,coram,348-middle-country-road,039954,"348 Middle Country Road, Coram, NY 11727",11727,40.8783721,-72.9629727
+https://locations.tacobell.com/nv/reno/11775-veterans-parkway.html,nv,reno,11775-veterans-parkway,037679,"11775 Veterans Parkway, Reno, NV 89521",11775,39.403303,-119.7401826
+https://locations.tacobell.com/ny/bronx/450-east-149-st-.html,ny,bronx,450-east-149-st-,037683,"450 East 149 St., Bronx, NY 10451",10451,40.8149558,-73.91556369999999
+https://locations.tacobell.com/ny/staten-island/2475-hylan-blvd.html,ny,staten-island,2475-hylan-blvd,039541,"2475 Hylan Blvd, Staten Island, NY 10306",10306,40.57094,-74.1094224
+https://locations.tacobell.com/ny/staten-island/2259-richmond-avenue.html,ny,staten-island,2259-richmond-avenue,039542,"2259 Richmond Avenue, Staten Island, NY 10314",10314,40.5917683,-74.1641954
+https://locations.tacobell.com/ny/rochester/1008-lehigh-station-road.html,ny,rochester,1008-lehigh-station-road,037682,"1008 Lehigh Station Road, Rochester, NY 14623",14623,43.059238,-77.643869
+https://locations.tacobell.com/ny/middle-village/61-22h-fresh-pond-road.html,ny,middle-village,61-22h-fresh-pond-road,037525,"61-22H Fresh Pond Road, Middle Village, NY 11379",11379,40.7136832,-73.9014097
+https://locations.tacobell.com/ny/new-york/161-east-125th-st.html,ny,new-york,161-east-125th-st,036927,"161 East 125th ST, New York, NY 10035",10035,40.8042603,-73.9366585
+https://locations.tacobell.com/ny/bronx/1058-southern-blvd.html,ny,bronx,1058-southern-blvd,037467,"1058 Southern Blvd, Bronx, NY 10459",10459,40.8245352,-73.8917177
+https://locations.tacobell.com/ny/buffalo/1893-elmwood-ave.html,ny,buffalo,1893-elmwood-ave,040009,"1893 Elmwood Ave, Buffalo, NY 14207",14207,42.9474203,-78.8781156
+https://locations.tacobell.com/ny/howard-beach/135-25-79-th-street.html,ny,howard-beach,135-25-79-th-street,038804,"135-25 79 th Street, Howard Beach, NY 11414",11414,40.6712718,-73.8559655
+https://locations.tacobell.com/ny/baldwinsville/2220-downer-street-road.html,ny,baldwinsville,2220-downer-street-road,037384,"2220 Downer Street Road, Baldwinsville, NY 13027",13027,43.1503714,-76.35775079999999
+https://locations.tacobell.com/ny/new-hartford/8561-seneca-turnpike.html,ny,new-hartford,8561-seneca-turnpike,037831,"8561 Seneca Turnpike, New Hartford, NY 13413",13413,43.0793415,-75.3152791
+https://locations.tacobell.com/ny/fultonville/128-riverside-drive.html,ny,fultonville,128-riverside-drive,038766,"128 Riverside Drive, Fultonville, NY 12072",12072,42.948279,-74.3574734
+https://locations.tacobell.com/ny/new-york/240-west-40th-st.html,ny,new-york,240-west-40th-st,040499,"240 West 40th St, New York, NY 10018",10018,40.7551968,-73.9895783
+https://locations.tacobell.com/ny/ogdensburg/2979-ford-street-extension.html,ny,ogdensburg,2979-ford-street-extension,039153,"2979 Ford Street Extension, Ogdensburg, NY 13669",13669,44.7054253,-75.4588962
+https://locations.tacobell.com/nv/sparks/460-usa-parkway.html,nv,sparks,460-usa-parkway,038736,"460 USA Parkway, Sparks, NV 89434",89434,39.5573366,-119.4905239
+https://locations.tacobell.com/ny/poughkeepsie/2277-south-rd-(route-9).html,ny,poughkeepsie,2277-south-rd-(route-9),039532,"2277 South Rd (Route 9), Poughkeepsie, NY 12601",12601,41.6445866,-73.92326659999999
+https://locations.tacobell.com/ny/brooklyn/283-broadway.html,ny,brooklyn,283-broadway,037832,"283 Broadway, Brooklyn, NY 11211",11211,40.7087163,-73.9584288
+https://locations.tacobell.com/ny/new-york/104-3rd-ave.html,ny,new-york,104-3rd-ave,039621,"104 3rd Ave, New York, NY 10003",10003,40.7325687,-73.9879342
+https://locations.tacobell.com/ny/bronx/4176-white-plains-rd.html,ny,bronx,4176-white-plains-rd,037094,"4176 White Plains Rd, Bronx, NY 10466",10466,40.8928193,-73.8574813
+https://locations.tacobell.com/ny/new-york/3924-broadway.html,ny,new-york,3924-broadway,038758,"3924 Broadway, New York, NY 10032",10032,40.8386229,-73.9410895
+https://locations.tacobell.com/nv/north-las-vegas/2288-e--craig-rd-.html,nv,north-las-vegas,2288-e--craig-rd-,037135,"2288 E. Craig Rd., North Las Vegas, NV 89030",89030,36.2399285,-115.119053
+https://locations.tacobell.com/ny/staten-island/429-tompkins-ave-.html,ny,staten-island,429-tompkins-ave-,039533,"429 Tompkins Ave., Staten Island, NY 10305",10305,40.615781,-74.0716393
+https://locations.tacobell.com/ny/new-york/24-east-23rd-street.html,ny,new-york,24-east-23rd-street,040168,"24 East 23rd Street, New York, NY 10010",10010,40.7407221,-73.9880906
+https://locations.tacobell.com/nv/las-vegas/9720-west-sky-canyon-park-drive.html,nv,las-vegas,9720-west-sky-canyon-park-drive,040343,"9720 West Sky Canyon Park Drive, Las Vegas, NV 89166",89166,36.3146567,-115.3085899
+https://locations.tacobell.com/ny/franklin-square/996-hempstead-turnpike.html,ny,franklin-square,996-hempstead-turnpike,003177,"996 Hempstead Turnpike, Franklin Square, NY 11010",11010,40.7078226,-73.6770748
+https://locations.tacobell.com/ny/glen-cove/98-forest-ave-.html,ny,glen-cove,98-forest-ave-,039950,"98 Forest Ave., Glen Cove, NY 11542",11542,40.8728306,-73.6218714
+https://locations.tacobell.com/nv/sparks/9725-pyramid-way.html,nv,sparks,9725-pyramid-way,036245,"9725 Pyramid Way Bldg. 2, Sparks, NV 89441",89441,39.6398374,-119.7118355
+https://locations.tacobell.com/ny/woodhaven/9701-atlantic-ave.html,ny,woodhaven,9701-atlantic-ave,039952,"9701 Atlantic Ave, Woodhaven, NY 11421",11421,40.6893237,-73.8457841
+https://locations.tacobell.com/ny/bronx/961-e-174th-street.html,ny,bronx,961-e-174th-street,039956,"961 E 174th Street, Bronx, NY 10460",10460,40.8377737,-73.8845894
+https://locations.tacobell.com/nm/albuquerque/9600-montgomery-blvd-ne.html,nm,albuquerque,9600-montgomery-blvd-ne,001968,"9600 Montgomery Blvd NE, Albuquerque, NM 87111",87111,35.1302941,-106.5336604
+https://locations.tacobell.com/ny/rochester/950-jefferson-rd.html,ny,rochester,950-jefferson-rd,005677,"950 Jefferson Rd, Rochester, NY 14623",14623,43.0877322,-77.6110174
+https://locations.tacobell.com/nv/las-vegas/9480-w--lake-mead-blvd-.html,nv,las-vegas,9480-w--lake-mead-blvd-,031876,"9480 W. Lake Mead Blvd., Las Vegas, NV 89134",89134,36.2043533,-115.2901313
+https://locations.tacobell.com/ny/watertown/945-arsenal-st.html,ny,watertown,945-arsenal-st,004025,"945 Arsenal St, Watertown, NY 13601",13601,43.9763967,-75.9324694
+https://locations.tacobell.com/nm/albuquerque/9395-coors-rd-nw.html,nm,albuquerque,9395-coors-rd-nw,004472,"9395 Coors Rd NW, Albuquerque, NM 87114",87114,35.1790232,-106.6690797
+https://locations.tacobell.com/ny/webster/925-hard-road.html,ny,webster,925-hard-road,031754,"925 Hard Road, Webster, NY 14580",14580,43.2121054,-77.4619467
+https://locations.tacobell.com/nm/gallup/914-east-66th-avenue.html,nm,gallup,914-east-66th-avenue,041193,"914 East 66th Avenue, Gallup, NM 87301",87301,35.5298829,-108.7300029
+https://locations.tacobell.com/ny/olean/913-w--state-street.html,ny,olean,913-w--state-street,G135890,"913 W. State Street, Olean, NY 14760",14760,42.0771438,-78.4406453
+https://locations.tacobell.com/ny/rochester/910-elmridge-center-dr.html,ny,rochester,910-elmridge-center-dr,004730,"910 Elmridge Center Dr, Rochester, NY 14626",14626,43.2139786,-77.72594149999999
+https://locations.tacobell.com/ny/cortland/9-river-street.html,ny,cortland,9-river-street,017490,"9 River Street, Cortland, NY 13045",13045,42.6064631,-76.1656959
+https://locations.tacobell.com/ny/elmira/865-country-road-64.html,ny,elmira,865-country-road-64,039065,"865 Country Road 64, Elmira, NY 14903",14903,42.155074,-76.8797754
+https://locations.tacobell.com/ny/brooklyn/8625-4th-ave-.html,ny,brooklyn,8625-4th-ave-,030731,"8625 4th Ave., Brooklyn, NY 11209",11209,40.6220246,-74.0284607
+https://locations.tacobell.com/nv/las-vegas/8520-w--warm-springs-road.html,nv,las-vegas,8520-w--warm-springs-road,031907,"8520 W. Warm Springs Road, Las Vegas, NV 89113",89113,36.055913,-115.2779295
+https://locations.tacobell.com/ny/lindenhurst/85-e--sunrise-hwy.html,ny,lindenhurst,85-e--sunrise-hwy,020679,"85 E. Sunrise Hwy, Lindenhurst, NY 11757",11757,40.6987371,-73.3824591
+https://locations.tacobell.com/ny/chester/85-brookside-dr-.html,ny,chester,85-brookside-dr-,036376,"85 Brookside Dr., Chester, NY 10918",10918,43.75518,-73.875274
+https://locations.tacobell.com/nm/gallup/838-n-highway-491.html,nm,gallup,838-n-highway-491,041192,"838 N Highway 491, Gallup, NM 87301",87301,35.5341922,-108.7583383
+https://locations.tacobell.com/nv/las-vegas/8150-blue-diamond-rd.html,nv,las-vegas,8150-blue-diamond-rd,031912,"8150 Blue Diamond Rd, Las Vegas, NV 89178",89178,36.0207444,-115.2690439
+https://locations.tacobell.com/ny/clifton-park/811-route-146.html,ny,clifton-park,811-route-146,026351,"811 Route 146, Clifton Park, NY 12065",12065,42.8633221,-73.78031779999999
+https://locations.tacobell.com/ny/geneva/810-canandaigua-road.html,ny,geneva,810-canandaigua-road,G135421,"810 Canandaigua Road, Geneva, NY 14456",14456,42.8569809,-77.0135538
+https://locations.tacobell.com/ny/amityville/810-broadway.html,ny,amityville,810-broadway,002615,"810 Broadway, Amityville, NY 11701",11701,40.7020805,-73.4275025
+https://locations.tacobell.com/ny/liverpool/8095-oswego-rd.html,ny,liverpool,8095-oswego-rd,004699,"8095 Oswego Rd, Liverpool, NY 13090",13090,43.1630573,-76.2356399
+https://locations.tacobell.com/nv/las-vegas/8043-north-durango.html,nv,las-vegas,8043-north-durango,031913,"8043 North Durango, Las Vegas, NV 89131",89131,36.3063061,-115.2786183
+https://locations.tacobell.com/ny/smithtown/773-smithtown-bypass.html,ny,smithtown,773-smithtown-bypass,005469,"773 Smithtown Bypass, Smithtown, NY 11787",11787,40.8510469,-73.1597869
+https://locations.tacobell.com/nv/las-vegas/7715-w--sahara-ave-.html,nv,las-vegas,7715-w--sahara-ave-,031904,"7715 W. Sahara Ave., Las Vegas, NV 89117",89117,36.1431805,-115.2593844
+https://locations.tacobell.com/nm/las-cruces/770-walnut-street.html,nm,las-cruces,770-walnut-street,017401,"770 Walnut Street, Las Cruces, NM 88001",88001,32.3103554,-106.7537629
+https://locations.tacobell.com/ny/poughkeepsie/755-main-street.html,ny,poughkeepsie,755-main-street,039079,"755 Main Street, Poughkeepsie, NY 12603",12603,41.696709,-73.904518
+https://locations.tacobell.com/ny/victor/7457-ny-state-route-96.html,ny,victor,7457-ny-state-route-96,028367,"7457 NY State Route 96, Victor, NY 14564",14564,43.0065592,-77.4440764
+https://locations.tacobell.com/ny/queensbury/741-upper-glen-st-.html,ny,queensbury,741-upper-glen-st-,026355,"741 Upper Glen St., Queensbury, NY 12804",12804,43.3284412,-73.6703374
+https://locations.tacobell.com/nv/reno/736-s-meadows-parkway.html,nv,reno,736-s-meadows-parkway,031903,"736 S Meadows Parkway, Reno, NV 89521",89521,39.4366996,-119.7579788
+https://locations.tacobell.com/ny/oneonta/732-state-highway-28.html,ny,oneonta,732-state-highway-28,026365,"732 State Highway 28, Oneonta, NY 13820",13820,42.4462932,-75.0541459
+https://locations.tacobell.com/ny/niagara-falls/7300-niagara-falls-blvd.html,ny,niagara-falls,7300-niagara-falls-blvd,039997,"7300 Niagara Falls Blvd, Niagara Falls, NY 14304",14304,43.0883228,-78.9806739
+https://locations.tacobell.com/nv/henderson/730-east-horizon-drive.html,nv,henderson,730-east-horizon-drive,031897,"730 East Horizon Drive, Henderson, NV 89015",89015,36.0127581,-114.9605771
+https://locations.tacobell.com/nv/las-vegas/7060-s--jones-blvd-.html,nv,las-vegas,7060-s--jones-blvd-,031914,"7060 S. Jones Blvd., Las Vegas, NV 89118",89118,36.0609349,-115.2243103
+https://locations.tacobell.com/nm/albuquerque/6810-central-ave--sw.html,nm,albuquerque,6810-central-ave--sw,024051,"6810 Central Ave. SW, Albuquerque, NM 87121",87121,35.0790123,-106.7123756
+https://locations.tacobell.com/ny/latham/676-new-loudon-rd.html,ny,latham,676-new-loudon-rd,026349,"676 New Loudon Rd, Latham, NY 12110",12110,42.7374411,-73.7627984
+https://locations.tacobell.com/nm/albuquerque/6551-paradise-nw.html,nm,albuquerque,6551-paradise-nw,023838,"6551 Paradise NW, Albuquerque, NM 87114",87114,35.1927267,-106.7264551
+https://locations.tacobell.com/nv/las-vegas/6540-e-lake-mead-blvd.html,nv,las-vegas,6540-e-lake-mead-blvd,031917,"6540 E Lake Mead Blvd Ste 205, Las Vegas, NV 89156",89156,36.1960743,-115.0302736
+https://locations.tacobell.com/nv/las-vegas/6520-n-buffalo.html,nv,las-vegas,6520-n-buffalo,031893,"6520 N Buffalo, Las Vegas, NV 89131",89131,36.2808259,-115.2663468
+https://locations.tacobell.com/nv/las-vegas/6461-boulder-hwy.html,nv,las-vegas,6461-boulder-hwy,031892,"6461 Boulder Hwy, Las Vegas, NV 89122",89122,36.0844125,-115.0315077
+https://locations.tacobell.com/nv/reno/6401-s-virginia.html,nv,reno,6401-s-virginia,031861,"6401 S Virginia, Reno, NV 89511",89511,39.4676005,-119.7851654
+https://locations.tacobell.com/ny/hicksville/638-s-oyster-bay-rd.html,ny,hicksville,638-s-oyster-bay-rd,001498,"638 S Oyster Bay Rd, Hicksville, NY 11801",11801,40.7694422,-73.5012818
+https://locations.tacobell.com/nv/las-vegas/6200-west-lake-mead.html,nv,las-vegas,6200-west-lake-mead,031865,"6200 West Lake Mead, Las Vegas, NV 89108",89108,36.1961812,-115.2268951
+https://locations.tacobell.com/nm/deming/606-west-pine-street.html,nm,deming,606-west-pine-street,032725,"606 West Pine Street, Deming, NM 88030",88030,32.2675184,-107.7652015
+https://locations.tacobell.com/ny/woodside/60-12-northern-blvd.html,ny,woodside,60-12-northern-blvd,039960,"60-12 Northern Blvd, Woodside, NY 11377",11377,40.7535732,-73.9017795
+https://locations.tacobell.com/nv/las-vegas/6010-w--tropicana.html,nv,las-vegas,6010-w--tropicana,031882,"6010 W. Tropicana, Las Vegas, NV 89103",89103,36.1004444,-115.2230436
+https://locations.tacobell.com/nv/reno/601-e-moana-lane.html,nv,reno,601-e-moana-lane,031858,"601 E Moana Lane, Reno, NV 89502",89502,39.4933017,-119.7885551
+https://locations.tacobell.com/ny/troy/60-vandenburgh-ave-.html,ny,troy,60-vandenburgh-ave-,026350,"60 Vandenburgh Ave., Troy, NY 12180",12180,42.7000561,-73.688562
+https://locations.tacobell.com/ny/lockport/5802-s-transit-rd.html,ny,lockport,5802-s-transit-rd,039998,"5802 S Transit Rd, Lockport, NY 14094",14094,43.1429914,-78.6976943
+https://locations.tacobell.com/nm/albuquerque/5801-wyoming-blvd-ne.html,nm,albuquerque,5801-wyoming-blvd-ne,019309,"5801 Wyoming Blvd NE, Albuquerque, NM 87109",87109,35.1463071,-106.5543165
+https://locations.tacobell.com/nv/pahrump/571-s-highway-160.html,nv,pahrump,571-s-highway-160,031870,"571 S Highway 160, Pahrump, NV 89048",89048,36.2135059,-115.9914596
+https://locations.tacobell.com/ny/rockville-centre/570-sunrise-highway.html,ny,rockville-centre,570-sunrise-highway,003176,"570 Sunrise Highway, Rockville Centre, NY 11570",11570,40.6568423,-73.6313127
+https://locations.tacobell.com/nv/las-vegas/5645-s-rainbow-blvd.html,nv,las-vegas,5645-s-rainbow-blvd,031874,"5645 S Rainbow Blvd, Las Vegas, NV 89113",89113,36.086124,-115.243302
+https://locations.tacobell.com/ny/rensselaer/563-north-greenbush-road.html,ny,rensselaer,563-north-greenbush-road,031566,"563 North Greenbush Road, Rensselaer, NY 12144",12144,42.6495817,-73.696448
+https://locations.tacobell.com/ny/albany/56-wolf-road.html,ny,albany,56-wolf-road,026362,"56 Wolf Road, Albany, NY 12205",12205,42.7141151,-73.8146839
+https://locations.tacobell.com/ny/shirley/551-william-floyd-parkway.html,ny,shirley,551-william-floyd-parkway,004006,"551 William Floyd Parkway, Shirley, NY 11967",11967,40.8002175,-72.8661392
+https://locations.tacobell.com/ny/lynbrook/547-merrick-road.html,ny,lynbrook,547-merrick-road,001648,"547 Merrick Road, Lynbrook, NY 11563",11563,40.6603784,-73.68207
+https://locations.tacobell.com/ny/norwich/5412-ny-state-route-12.html,ny,norwich,5412-ny-state-route-12,K273009,"5412 NY State Route 12, Norwich, NY 13815",13815,42.4989122,-75.52759739999999
+https://locations.tacobell.com/nv/las-vegas/535-east-windmill.html,nv,las-vegas,535-east-windmill,031875,"535 East Windmill, Las Vegas, NV 89123",89123,36.0420358,-115.1510549
+https://locations.tacobell.com/nm/albuquerque/5303-san-mateo-blvd-ne.html,nm,albuquerque,5303-san-mateo-blvd-ne,003692,"5303 San Mateo Blvd NE, Albuquerque, NM 87109",87109,35.1423645,-106.5868852
+https://locations.tacobell.com/nv/henderson/524-e-lake-mead-pkwy.html,nv,henderson,524-e-lake-mead-pkwy,031898,"524 E Lake Mead Pkwy, Henderson, NV 89015",89015,36.0440681,-114.9749348
+https://locations.tacobell.com/nm/albuquerque/5215-lomas-ne.html,nm,albuquerque,5215-lomas-ne,003897,"5215 Lomas NE, Albuquerque, NM 87110",87110,35.0877736,-106.5867513
+https://locations.tacobell.com/nv/reno/5165-mae-anne-avenue.html,nv,reno,5165-mae-anne-avenue,031862,"5165 Mae Anne Avenue, Reno, NV 89523",89523,39.5340064,-119.8669029
+https://locations.tacobell.com/ny/westbury/511-old-country-rd.html,ny,westbury,511-old-country-rd,027366,"511 Old Country Rd, Westbury, NY 11590",11590,40.7471376,-73.594438
+https://locations.tacobell.com/nm/santa-fe/5040-promenade-blvd.html,nm,santa-fe,5040-promenade-blvd,039929,"5040 Promenade Blvd, Santa Fe, NM 87507",87507,35.6179748,-106.0295699
+https://locations.tacobell.com/nv/sun-valley/4978-sun-valley-blvd.html,nv,sun-valley,4978-sun-valley-blvd,031879,"4978 Sun Valley Blvd, Sun Valley, NV 89433",89433,39.5753059,-119.7804159
+https://locations.tacobell.com/ny/depew/4940-transit-rd.html,ny,depew,4940-transit-rd,G135889,"4940 Transit Rd, Depew, NY 14043",14043,42.8798016,-78.6974936
+https://locations.tacobell.com/ny/middletown/492-route-211-east.html,ny,middletown,492-route-211-east,039107,"492 Route 211 East, Middletown, NY 10940",10940,41.4565615,-74.3795179
+https://locations.tacobell.com/nm/albuquerque/4901-gibson-blvd-s-e-.html,nm,albuquerque,4901-gibson-blvd-s-e-,002926,"4901 Gibson Blvd S.E., Albuquerque, NM 87108",87108,35.058512,-106.5883253
+https://locations.tacobell.com/ny/hempstead/490-peninsula-blvd.html,ny,hempstead,490-peninsula-blvd,021247,"490 Peninsula Blvd, Hempstead, NY 11550",11550,40.7004241,-73.6283165
+https://locations.tacobell.com/ny/bay-shore/490-e-main-street.html,ny,bay-shore,490-e-main-street,002697,"490 E Main Street, Bay Shore, NY 11706",11706,40.7169725,-73.2557687
+https://locations.tacobell.com/nv/las-vegas/4880-w--frias-avenue.html,nv,las-vegas,4880-w--frias-avenue,031915,"4880 W. Frias Avenue, Las Vegas, NV 89141",89141,36.0027488,-115.2071291
+https://locations.tacobell.com/nv/las-vegas/4870-w-flamingo.html,nv,las-vegas,4870-w-flamingo,031860,"4870 W Flamingo, Las Vegas, NV 89103",89103,36.1158204,-115.2072588
+https://locations.tacobell.com/nv/las-vegas/4835-s--ft--apache.html,nv,las-vegas,4835-s--ft--apache,031899,"4835 S. Ft. Apache, Las Vegas, NV 89147",89147,36.1013943,-115.297851
+https://locations.tacobell.com/ny/port-jefferson-station/4833-nesconset-hwy.html,ny,port-jefferson-station,4833-nesconset-hwy,002698,"4833 Nesconset Hwy, Port Jefferson Station, NY 11776",11776,40.9186832,-73.0525048
+https://locations.tacobell.com/nm/albuquerque/4815-4th-st--nw.html,nm,albuquerque,4815-4th-st--nw,031822,"4815 4th St. NW, Albuquerque, NM 87107",87107,35.1312489,-106.6427816
+https://locations.tacobell.com/nm/belen/48-i-25-bypass.html,nm,belen,48-i-25-bypass,020512,"48 I 25 Bypass, Belen, NM 87002",87002,34.6971361,-106.7738879
+https://locations.tacobell.com/ny/syracuse/4743-onondaga-blvd.html,ny,syracuse,4743-onondaga-blvd,032586,"4743 Onondaga Blvd, Syracuse, NY 13219",13219,43.0337401,-76.1891168
+https://locations.tacobell.com/ny/brockport/4721-lake-rd.html,ny,brockport,4721-lake-rd,005008,"4721 Lake Rd, Brockport, NY 14420",14420,43.1995668,-77.9438045
+https://locations.tacobell.com/nv/carson-city/4539-n--carson-street.html,nv,carson-city,4539-n--carson-street,036246,"4539 N. Carson Street, Carson City, NV 89706",89706,39.2000184,-119.7783262
+https://locations.tacobell.com/nv/mesquite/450-n-sandhill-blvd.html,nv,mesquite,450-n-sandhill-blvd,028424,"450 N Sandhill Blvd, Mesquite, NV 89027",89027,36.8062659,-114.0647628
+https://locations.tacobell.com/nv/las-vegas/4441-north-rancho.html,nv,las-vegas,4441-north-rancho,031864,"4441 North Rancho, Las Vegas, NV 89130",89130,36.2409916,-115.234129
+https://locations.tacobell.com/ny/monticello/4370-ny-42.html,ny,monticello,4370-ny-42,036375,"4370 NY 42, Monticello, NY 12701",12701,41.6679037,-74.6748119
+https://locations.tacobell.com/nv/las-vegas/4310-e-craig-road.html,nv,las-vegas,4310-e-craig-road,031911,"4310 E Craig Road, Las Vegas, NV 89115",89115,36.2403147,-115.0838692
+https://locations.tacobell.com/ny/binghamton/429-court-st.html,ny,binghamton,429-court-st,039093,"429 Court St, Binghamton, NY 13904",13904,42.1047357,-75.8810622
+https://locations.tacobell.com/ny/amherst/4258-maple-road.html,ny,amherst,4258-maple-road,039995,"4258 Maple Road, Amherst, NY 14226",14226,42.9913807,-78.8049496
+https://locations.tacobell.com/ny/geneseo/4200-lakeville-road.html,ny,geneseo,4200-lakeville-road,G135423,"4200 Lakeville Road, Geneseo, NY 14454",14454,42.795768,-77.7916807
+https://locations.tacobell.com/ny/batavia/413-west-main-street.html,ny,batavia,413-west-main-street,017313,"413 West Main Street, Batavia, NY 14020",14020,43.0049126,-78.2043123
+https://locations.tacobell.com/nv/carson-city/4050-s-carson-st-.html,nv,carson-city,4050-s-carson-st-,031884,"4050 S Carson St., Carson City, NV 89701",89701,39.1295418,-119.771065
+https://locations.tacobell.com/nv/las-vegas/401-s-decatur-blvd-.html,nv,las-vegas,401-s-decatur-blvd-,031918,"401 S Decatur Blvd., Las Vegas, NV 89107",89107,36.1599435,-115.2057665
+https://locations.tacobell.com/nv/las-vegas/401-n-nellis-blvd.html,nv,las-vegas,401-n-nellis-blvd,031889,"401 N Nellis Blvd, Las Vegas, NV 89110",89110,36.17038,-115.0627
+https://locations.tacobell.com/ny/yorkville/400-oriskany-blvd.html,ny,yorkville,400-oriskany-blvd,004549,"400 Oriskany Blvd, Yorkville, NY 13495",13495,43.1142277,-75.2763427
+https://locations.tacobell.com/ny/seaford/3950-sunrise-hwy.html,ny,seaford,3950-sunrise-hwy,003203,"3950 Sunrise Hwy, Seaford, NY 11783",11783,40.6745094,-73.4865574
+https://locations.tacobell.com/ny/levittown/3946-hempstead-turnpike.html,ny,levittown,3946-hempstead-turnpike,003726,"3946 Hempstead Turnpike, Levittown, NY 11756",11756,40.7249854,-73.4901949
+https://locations.tacobell.com/ny/rochester/3900-dewey-avenue.html,ny,rochester,3900-dewey-avenue,029386,"3900 Dewey Avenue, Rochester, NY 14616",14616,43.2412612,-77.6465469
+https://locations.tacobell.com/ny/buffalo/3730-union-road.html,ny,buffalo,3730-union-road,039996,"3730 Union Road, Buffalo, NY 14225",14225,42.9154841,-78.7547625
+https://locations.tacobell.com/nv/las-vegas/3717-south-las-vegas-blvd.html,nv,las-vegas,3717-south-las-vegas-blvd,032366,"3717 South Las Vegas Blvd Suite 140-A, Las Vegas, NV 89109",89109,36.1085908,-115.1722652
+https://locations.tacobell.com/ny/north-syracuse/3716-brewerton-road.html,ny,north-syracuse,3716-brewerton-road,004801,"3716 Brewerton Road, North Syracuse, NY 13212",13212,43.1224635,-76.1420613
+https://locations.tacobell.com/ny/bath/368-w--morris-st.html,ny,bath,368-w--morris-st,029461,"368 W. Morris St, Bath, NY 14810",14810,42.3402988,-77.3347416
+https://locations.tacobell.com/ny/plattsburgh/367-cornelia-street.html,ny,plattsburgh,367-cornelia-street,027030,"367 Cornelia Street, Plattsburgh, NY 12901",12901,44.6971445,-73.4805859
+https://locations.tacobell.com/nv/las-vegas/3661-e--bonanza-road.html,nv,las-vegas,3661-e--bonanza-road,031880,"3661 E. Bonanza Road, Las Vegas, NV 89110",89110,36.1731325,-115.095802
+https://locations.tacobell.com/ny/ronkonkoma/360-portion-road.html,ny,ronkonkoma,360-portion-road,017554,"360 Portion Road, Ronkonkoma, NY 11779",11779,40.8281993,-73.0982827
+https://locations.tacobell.com/nv/las-vegas/3595-s-durango-dr.html,nv,las-vegas,3595-s-durango-dr,031878,"3595 S Durango Dr, Las Vegas, NV 89147",89147,36.1295573,-115.2790606
+https://locations.tacobell.com/nm/albuquerque/3555-isleta-blvd-sw.html,nm,albuquerque,3555-isleta-blvd-sw,004173,"3555 Isleta Blvd SW, Albuquerque, NM 87105",87105,35.0246596,-106.6814377
+https://locations.tacobell.com/nv/north-las-vegas/355-w--centennial-parkway.html,nv,north-las-vegas,355-w--centennial-parkway,031909,"355 W. Centennial Parkway, North Las Vegas, NV 89031",89031,36.2760835,-115.1453291
+https://locations.tacobell.com/ny/syracuse/3500-w-genesee-st.html,ny,syracuse,3500-w-genesee-st,004541,"3500 W Genesee St, Syracuse, NY 13219",13219,43.0486847,-76.2311581
+https://locations.tacobell.com/ny/hudson/350-fairview-ave-.html,ny,hudson,350-fairview-ave-,026366,"350 Fairview Ave., Hudson, NY 12534",12534,42.270238,-73.7605172
+https://locations.tacobell.com/nv/winnemucca/3475-construction-way.html,nv,winnemucca,3475-construction-way,029348,"3475 Construction Way, Winnemucca, NV 89445",89445,40.9547476,-117.7487923
+https://locations.tacobell.com/nv/las-vegas/3415-e--russell-road.html,nv,las-vegas,3415-e--russell-road,031902,"3415 E. Russell Road, Las Vegas, NV 89120",89120,36.0859729,-115.1006389
+https://locations.tacobell.com/ny/malone/3414-state-route-11.html,ny,malone,3414-state-route-11,J580060,"3414 State Route 11, Malone, NY 12953",12953,44.8477254,-74.3102006
+https://locations.tacobell.com/ny/bronx/3351-conners-street.html,ny,bronx,3351-conners-street,039955,"3351 Conners Street, Bronx, NY 10475",10475,40.8828913,-73.824793
+https://locations.tacobell.com/nm/las-cruces/3350-rinconada-blvd-.html,nm,las-cruces,3350-rinconada-blvd-,029952,"3350 Rinconada Blvd., Las Cruces, NM 88004",88004,32.3633709,-106.7490927
+https://locations.tacobell.com/nm/alamogordo/3323-n--white-sands-blvd-.html,nm,alamogordo,3323-n--white-sands-blvd-,032720,"3323 N. White Sands Blvd., Alamogordo, NM 88310",88310,32.9343622,-105.9645587
+https://locations.tacobell.com/ny/monroe/330-larkin-drive.html,ny,monroe,330-larkin-drive,C501001,"330 Larkin Drive, Monroe, NY 10950",10950,41.3204539,-74.1498151
+https://locations.tacobell.com/ny/new-rochelle/329-main-st.html,ny,new-rochelle,329-main-st,039961,"329 Main St, New Rochelle, NY 10801",10801,40.91285,-73.7757074
+https://locations.tacobell.com/nv/las-vegas/3264-s--nellis-blvd.html,nv,las-vegas,3264-s--nellis-blvd,031908,"3264 S. Nellis Blvd, Las Vegas, NV 89122",89122,36.1305157,-115.0647305
+https://locations.tacobell.com/nv/las-vegas/3260-n-durango-rd.html,nv,las-vegas,3260-n-durango-rd,031900,"3260 N Durango Rd, Las Vegas, NV 89129",89129,36.2205774,-115.2783233
+https://locations.tacobell.com/ny/lawrence/325-rockaway-turnpike.html,ny,lawrence,325-rockaway-turnpike,003178,"325 Rockaway Turnpike, Lawrence, NY 11559",11559,40.6259774,-73.7367066
+https://locations.tacobell.com/nv/las-vegas/3221-north-rancho-drive.html,nv,las-vegas,3221-north-rancho-drive,031873,"3221 North Rancho Drive, Las Vegas, NV 89108",89108,36.2176997,-115.2128638
+https://locations.tacobell.com/nm/albuquerque/320-eubank-blvd-ne.html,nm,albuquerque,320-eubank-blvd-ne,016602,"320 Eubank Blvd NE, Albuquerque, NM 87123",87123,35.0774591,-106.5319552
+https://locations.tacobell.com/ny/syracuse/3179-erie-blvd-east.html,ny,syracuse,3179-erie-blvd-east,004190,"3179 Erie Blvd East, Syracuse, NY 13214",13214,43.0555024,-76.0736937
+https://locations.tacobell.com/ny/orchard-park/3175-orchard-park.html,ny,orchard-park,3175-orchard-park,039999,"3175 Orchard Park, Orchard Park, NY 14127",14127,42.7670376,-78.7435517
+https://locations.tacobell.com/ny/painted-post/3135-silverback-lane.html,ny,painted-post,3135-silverback-lane,029470,"3135 Silverback Lane Ste 101, Painted Post, NY 14870",14870,42.1538045,-77.10421430000001
+https://locations.tacobell.com/nv/carson-city/3117-highway-50-east.html,nv,carson-city,3117-highway-50-east,031866,"3117 Highway 50 East, Carson City, NV 89701",89701,39.1712574,-119.7538965
+https://locations.tacobell.com/ny/lindenhurst/311-montauk-hwy.html,ny,lindenhurst,311-montauk-hwy,002617,"311 Montauk Hwy, Lindenhurst, NY 11757",11757,40.6833703,-73.3529303
+https://locations.tacobell.com/nm/gallup/3095-west-historical-hwy-66.html,nm,gallup,3095-west-historical-hwy-66,041196,"3095 West Historical Hwy 66, Gallup, NM 87301",87301,35.5074309,-108.817906
+https://locations.tacobell.com/ny/oceanside/3076-long-beach-road.html,ny,oceanside,3076-long-beach-road,001746,"3076 Long Beach Road, Oceanside, NY 11572",11572,40.6361794,-73.6404545
+https://locations.tacobell.com/ny/east-northport/3048-jericho-tpke.html,ny,east-northport,3048-jericho-tpke,028508,"3048 Jericho Tpke, East Northport, NY 11731",11731,40.8389274,-73.3221123
+https://locations.tacobell.com/ny/port-chester/303-boston-post-rd.html,ny,port-chester,303-boston-post-rd,030544,"303 Boston Post Rd, Port Chester, NY 10573",10573,40.9957871,-73.6713648
+https://locations.tacobell.com/nm/santa-fe/3029-cerrillos-road.html,nm,santa-fe,3029-cerrillos-road,039926,"3029 Cerrillos Road, Santa Fe, NM 87507",87507,35.6538234,-105.9950065
+https://locations.tacobell.com/ny/central-square/3016-east-avenue.html,ny,central-square,3016-east-avenue,031565,"3016 East Avenue, Central Square, NY 13036",13036,43.2874222,-76.1288602
+https://locations.tacobell.com/ny/saratoga-springs/3012-route-50.html,ny,saratoga-springs,3012-route-50,026360,"3012 Route 50, Saratoga Springs, NY 12866",12866,43.0996238,-73.7490728
+https://locations.tacobell.com/nm/roswell/3007-north-main-st-.html,nm,roswell,3007-north-main-st-,032718,"3007 North Main St., Roswell, NM 88201",88201,33.4331419,-104.5224504
+https://locations.tacobell.com/ny/fishkill/3-elm-street.html,ny,fishkill,3-elm-street,039074,"3 Elm Street, Fishkill, NY 12524",12524,41.5342355,-73.8965711
+https://locations.tacobell.com/ny/springville/297-south-cascade-drive.html,ny,springville,297-south-cascade-drive,G135887,"297 South Cascade Drive, Springville, NY 14141",14141,42.5010817,-78.6903348
+https://locations.tacobell.com/nm/albuquerque/2901-monte-vista-blvd-ne.html,nm,albuquerque,2901-monte-vista-blvd-ne,003218,"2901 Monte Vista Blvd NE, Albuquerque, NM 87106",87106,35.0814099,-106.6129771
+https://locations.tacobell.com/ny/nanuet/286-west-route-59.html,ny,nanuet,286-west-route-59,K250018,"286 West Route 59, Nanuet, NY 10954",10954,41.109339,-74.0510201
+https://locations.tacobell.com/nm/clovis/2829-north-prince-street.html,nm,clovis,2829-north-prince-street,032700,"2829 North Prince Street, Clovis, NM 88101",88101,34.4259999,-103.1961097
+https://locations.tacobell.com/nv/north-las-vegas/2760-w-ann-rd.html,nv,north-las-vegas,2760-w-ann-rd,031901,"2760 W Ann Rd, North Las Vegas, NV 89031",89031,36.2617125,-115.178484
+https://locations.tacobell.com/nv/las-vegas/2670-s-maryland.html,nv,las-vegas,2670-s-maryland,031920,"2670 S Maryland, Las Vegas, NV 89169",89169,36.14169,-115.1364515
+https://locations.tacobell.com/ny/hicksville/263-s--broadway.html,ny,hicksville,263-s--broadway,023385,"263 S. Broadway, Hicksville, NY 11801",11801,40.7628789,-73.5171985
+https://locations.tacobell.com/nm/albuquerque/2615-san-mateo-ne.html,nm,albuquerque,2615-san-mateo-ne,000273,"2615 San Mateo NE, Albuquerque, NM 87110",87110,35.1099282,-106.5867168
+https://locations.tacobell.com/nm/las-cruces/2583-n--main-st-.html,nm,las-cruces,2583-n--main-st-,016928,"2583 N. Main St., Las Cruces, NM 88001",88001,32.3344136,-106.7812012
+https://locations.tacobell.com/ny/evans-mills/26462-herrick-dr-.html,ny,evans-mills,26462-herrick-dr-,024149,"26462 Herrick Dr., Evans Mills, NY 13637",26462,44.0407125,-75.84095
+https://locations.tacobell.com/nv/las-vegas/2565-e-tropicana-ave.html,nv,las-vegas,2565-e-tropicana-ave,031887,"2565 E Tropicana Ave, Las Vegas, NV 89121",89121,36.0996075,-115.1149833
+https://locations.tacobell.com/nv/las-vegas/2512-e-sunset-rd.html,nv,las-vegas,2512-e-sunset-rd,031871,"2512 E Sunset Rd, Las Vegas, NV 89120",89120,36.0719073,-115.1161913
+https://locations.tacobell.com/nm/los-lunas/2501-main-st-se.html,nm,los-lunas,2501-main-st-se,009515,"2501 Main St SE, Los Lunas, NM 87031",87031,34.8063158,-106.7028941
+https://locations.tacobell.com/ny/bronx/249-east-149th-st-.html,ny,bronx,249-east-149th-st-,032879,"249 East 149th St., Bronx, NY 10451",10451,40.8176621,-73.9231896
+https://locations.tacobell.com/ny/waterloo/2430-route-414.html,ny,waterloo,2430-route-414,G135346,"2430 Route 414, Waterloo, NY 13165",13165,42.9074737,-76.8373766
+https://locations.tacobell.com/ny/farmingville/2425-n--ocean-ave-.html,ny,farmingville,2425-n--ocean-ave-,005083,"2425 N. Ocean Ave., Farmingville, NY 11738",11738,40.8287171,-73.0211827
+https://locations.tacobell.com/nm/bernalillo/241-e--hwy-550.html,nm,bernalillo,241-e--hwy-550,005262,"241 E. Hwy 550, Bernalillo, NM 87004",87004,35.3172419,-106.5417376
+https://locations.tacobell.com/nv/north-las-vegas/2409-e--lake-mead-blvd-.html,nv,north-las-vegas,2409-e--lake-mead-blvd-,031896,"2409 E. Lake Mead Blvd., North Las Vegas, NV 89030",89030,36.1954678,-115.1167238
+https://locations.tacobell.com/ny/glenmont/237-route-9w.html,ny,glenmont,237-route-9w,030368,"237 Route 9W, Glenmont, NY 12077",12077,42.6125146,-73.7875061
+https://locations.tacobell.com/nv/las-vegas/2351-ft--apache.html,nv,las-vegas,2351-ft--apache,031872,"2351 Ft. Apache, Las Vegas, NV 89117",89117,36.1463544,-115.2981869
+https://locations.tacobell.com/ny/rochester/2317-lyell-avenue.html,ny,rochester,2317-lyell-avenue,024797,"2317 Lyell Avenue, Rochester, NY 14606",14606,43.1644433,-77.6906393
+https://locations.tacobell.com/nm/farmington/2226-e-main-street.html,nm,farmington,2226-e-main-street,001394,"2226 E Main Street, Farmington, NM 87401",87401,36.7391425,-108.1779809
+https://locations.tacobell.com/ny/ithaca/222-elmira-road.html,ny,ithaca,222-elmira-road,009587,"222 Elmira Road, Ithaca, NY 14851",14851,42.4302258,-76.5074233
+https://locations.tacobell.com/ny/middletown/221-dolson-ave.html,ny,middletown,221-dolson-ave,004069,"221 Dolson Ave, Middletown, NY 10940",10940,41.4272145,-74.4272268
+https://locations.tacobell.com/ny/johnson-city/220-reynolds-road.html,ny,johnson-city,220-reynolds-road,039068,"220 Reynolds Road, Johnson City, NY 13790",13790,42.1266748,-75.9694162
+https://locations.tacobell.com/ny/commack/2186-jericho-turnpike.html,ny,commack,2186-jericho-turnpike,002695,"2186 Jericho Turnpike, Commack, NY 11725",11725,40.8389444,-73.3244837
+https://locations.tacobell.com/nv/north-las-vegas/2175-e-cheyenne-ave.html,nv,north-las-vegas,2175-e-cheyenne-ave,031919,"2175 E Cheyenne Ave, North Las Vegas, NV 89030",89030,36.2175698,-115.1188795
+https://locations.tacobell.com/ny/fairport/2157-fairport-nine-mile-point-rd.html,ny,fairport,2157-fairport-nine-mile-point-rd,005332,"2157 Fairport Nine Mile Point Rd, Fairport, NY 14450",14450,43.12993,-77.44195
+https://locations.tacobell.com/ny/penn-yan/212-lake-st.html,ny,penn-yan,212-lake-st,030543,"212 Lake St, Penn Yan, NY 14527",14527,42.6556286,-77.0562616
+https://locations.tacobell.com/nv/north-las-vegas/2118-w-craig-rd.html,nv,north-las-vegas,2118-w-craig-rd,031877,"2118 W Craig Rd, North Las Vegas, NV 89032",89032,36.2398992,-115.1730508
+https://locations.tacobell.com/nm/farmington/2100-west-main-st.html,nm,farmington,2100-west-main-st,030535,"2100 West Main St, Farmington, NM 87401",87401,36.7323782,-108.2360407
+https://locations.tacobell.com/ny/johnstown/207-n-comrie-ave.html,ny,johnstown,207-n-comrie-ave,030369,"207 N Comrie Ave, Johnstown, NY 12095",12095,43.0148495,-74.3615655
+https://locations.tacobell.com/ny/brooklyn/2026-coney-island-ave.html,ny,brooklyn,2026-coney-island-ave,F569039,"2026 Coney Island Ave, Brooklyn, NY 11223",11223,40.6076574,-73.9622348
+https://locations.tacobell.com/nv/las-vegas/2025-buffalo-drive.html,nv,las-vegas,2025-buffalo-drive,031868,"2025 Buffalo Drive, Las Vegas, NV 89128",89128,36.1971193,-115.2608768
+https://locations.tacobell.com/nm/alamogordo/201-panorama-blvd.html,nm,alamogordo,201-panorama-blvd,032716,"201 Panorama Blvd, Alamogordo, NM 88310",88310,32.8761815,-105.9605327
+https://locations.tacobell.com/ny/herkimer/200-s-caroline-street.html,ny,herkimer,200-s-caroline-street,G135350,"200 S Caroline Street, Herkimer, NY 13350",13350,43.022083,-74.9932155
+https://locations.tacobell.com/nv/sparks/200-east-prater-way.html,nv,sparks,200-east-prater-way,036242,"200 East Prater Way, Sparks, NV 89431",89431,39.5423505,-119.7393169
+https://locations.tacobell.com/nv/dayton/2-pine-cone-rd-.html,nv,dayton,2-pine-cone-rd-,031905,"2 Pine Cone Rd., Dayton, NV 89403",89403,39.2619273,-119.5827943
+https://locations.tacobell.com/nv/henderson/199-north-pecos.html,nv,henderson,199-north-pecos,031863,"199 North Pecos, Henderson, NV 89014",89014,36.0605185,-115.1003979
+https://locations.tacobell.com/ny/queensbury/199-corinth-road.html,ny,queensbury,199-corinth-road,028290,"199 Corinth Road, Queensbury, NY 12804",12804,43.2968573,-73.6810438
+https://locations.tacobell.com/ny/farmingdale/1981-broadhollow-rd.html,ny,farmingdale,1981-broadhollow-rd,039953,"1981 Broadhollow Rd, Farmingdale, NY 11735",11735,40.7464699,-73.4217833
+https://locations.tacobell.com/ny/east-meadow/1939-hempstead-turnpike.html,ny,east-meadow,1939-hempstead-turnpike,029496,"1939 Hempstead Turnpike, East Meadow, NY 11554",11554,40.724589,-73.5645792
+https://locations.tacobell.com/ny/deer-park/1937-deer-park-avenue.html,ny,deer-park,1937-deer-park-avenue,001613,"1937 Deer Park Avenue, Deer Park, NY 11729",11729,40.7635113,-73.3295487
+https://locations.tacobell.com/ny/yonkers/1920-central-park-ave.html,ny,yonkers,1920-central-park-ave,039958,"1920 Central Park Ave, Yonkers, NY 10710",10710,40.962485,-73.8401107
+https://locations.tacobell.com/nv/spanish-springs/191-disc-dr.html,nv,spanish-springs,191-disc-dr,036243,"191 Disc Dr, Spanish Springs, NV 89436",89436,39.5757668,-119.7393294
+https://locations.tacobell.com/ny/huntington-station/1898-new-york-avenue.html,ny,huntington-station,1898-new-york-avenue,001667,"1898 New York Avenue, Huntington Station, NY 11746",11746,40.836809,-73.4113328
+https://locations.tacobell.com/ny/bronx/1889-bruckner-blvd.html,ny,bronx,1889-bruckner-blvd,039959,"1889 Bruckner Blvd, Bronx, NY 10472",10472,40.8263726,-73.8606637
+https://locations.tacobell.com/nv/las-vegas/1810-e--serene-avenue.html,nv,las-vegas,1810-e--serene-avenue,031895,"1810 E. Serene Avenue, Las Vegas, NV 89123",89123,36.0210122,-115.1272501
+https://locations.tacobell.com/nv/elko/1750-mountain-city-highway.html,nv,elko,1750-mountain-city-highway,031885,"1750 Mountain City Highway, Elko, NV 89801",89801,40.8348292,-115.7868244
+https://locations.tacobell.com/ny/ridge/1750-middle-country-rd.html,ny,ridge,1750-middle-country-rd,039951,"1750 Middle Country Rd, Ridge, NY 11961",11961,40.8918426,-72.8997618
+https://locations.tacobell.com/ny/patchogue/174-medford-avenue.html,ny,patchogue,174-medford-avenue,020863,"174 Medford Avenue, Patchogue, NY 11772",11772,40.7726399,-73.0080567
+https://locations.tacobell.com/ny/bronx/1731-webster-avenue.html,ny,bronx,1731-webster-avenue,G135339,"1731 Webster Avenue, Bronx, NY 10457",10457,40.8438611,-73.90343
+https://locations.tacobell.com/nm/hobbs/1725-north-turner.html,nm,hobbs,1725-north-turner,032715,"1725 North Turner, Hobbs, NM 88240",88240,32.7181002,-103.1411555
+https://locations.tacobell.com/ny/flushing/172-12-northern-blvd-.html,ny,flushing,172-12-northern-blvd-,003200,"172-12 Northern Blvd., Flushing, NY 11358",11358,40.7574194,-73.7935467
+https://locations.tacobell.com/ny/merrick/1709-merrick-rd.html,ny,merrick,1709-merrick-rd,003179,"1709 Merrick Rd, Merrick, NY 11566",11566,40.653896,-73.558791
+https://locations.tacobell.com/nv/fernley/170-us-highway-95a-s.html,nv,fernley,170-us-highway-95a-s,031906,"170 US Highway 95A S, Fernley, NV 89408",89408,39.5611354,-119.2390887
+https://locations.tacobell.com/ny/buffalo/170-abbott-road.html,ny,buffalo,170-abbott-road,G135416,"170 Abbott Road, Buffalo, NY 14220",14220,42.856138,-78.8227411
+https://locations.tacobell.com/ny/auburn/168-grant-ave.html,ny,auburn,168-grant-ave,035017,"168 Grant Ave, Auburn, NY 13021",13021,42.9452234,-76.5494989
+https://locations.tacobell.com/ny/new-hyde-park/1650-jericho-turnpike.html,ny,new-hyde-park,1650-jericho-turnpike,003180,"1650 Jericho Turnpike, New Hyde Park, NY 11040",11040,40.7337489,-73.6786616
+https://locations.tacobell.com/ny/elmont/1625-hempstead-turnpike.html,ny,elmont,1625-hempstead-turnpike,021382,"1625 Hempstead Turnpike, Elmont, NY 11003",11003,40.7071162,-73.7006488
+https://locations.tacobell.com/nm/hobbs/1622-w--joe-harvey-blvd.html,nm,hobbs,1622-w--joe-harvey-blvd,032719,"1622 W. Joe Harvey Blvd, Hobbs, NM 88240",88240,32.74036,-103.1534833
+https://locations.tacobell.com/nm/moriarty/1611-west-old-route-66.html,nm,moriarty,1611-west-old-route-66,017415,"1611 West Old Route 66, Moriarty, NM 87035",87035,35.0116718,-106.0687784
+https://locations.tacobell.com/ny/rochester/1605-e--ridge-road.html,ny,rochester,1605-e--ridge-road,005781,"1605 E. Ridge Road, Rochester, NY 14621",14621,43.1993547,-77.5745086
+https://locations.tacobell.com/ny/massena/1602-state-highway-37.html,ny,massena,1602-state-highway-37,015717,"1602 State Highway 37, Massena, NY 13662",13662,44.9502692,-74.844362
+https://locations.tacobell.com/nv/boulder-city/1600-nevada-hwy.html,nv,boulder-city,1600-nevada-hwy,031883,"1600 Nevada Hwy, Boulder City, NV 89005",89005,35.9697311,-114.8556514
+https://locations.tacobell.com/nm/espanola/1600-n--riverside-dr-.html,nm,espanola,1600-n--riverside-dr-,039927,"1600 N. Riverside Dr., Espanola, NM 87532",87532,36.0277442,-106.064079
+https://locations.tacobell.com/ny/central-islip/16-w-suffolk-ave.html,ny,central-islip,16-w-suffolk-ave,026388,"16 W Suffolk Ave, Central Islip, NY 11722",11722,40.7898577,-73.2047567
+https://locations.tacobell.com/nm/las-cruces/1558-el-paseo-rd-.html,nm,las-cruces,1558-el-paseo-rd-,016755,"1558 El Paseo Rd., Las Cruces, NM 88001",88001,32.2947935,-106.7690673
+https://locations.tacobell.com/ny/manhattan/1503-lexington-ave.html,ny,manhattan,1503-lexington-ave,029968,"1503 Lexington Ave, Manhattan, NY 10029",10029,40.7865921,-73.950228
+https://locations.tacobell.com/nv/henderson/1491-w-horizon-ridge-pkwy.html,nv,henderson,1491-w-horizon-ridge-pkwy,031916,"1491 W Horizon Ridge Pkwy, Henderson, NV 89012",89012,36.019576,-115.0509355
+https://locations.tacobell.com/nm/albuquerque/1470-coors-rd-nw.html,nm,albuquerque,1470-coors-rd-nw,003548,"1470 Coors Rd NW, Albuquerque, NM 87121",87121,35.1137604,-106.7021793
+https://locations.tacobell.com/ny/schenectady/1417-altamont-ave.html,ny,schenectady,1417-altamont-ave,026352,"1417 Altamont Ave, Schenectady, NY 12303",12303,42.785185,-73.9449515
+https://locations.tacobell.com/nm/las-vegas/1415-7th-st.html,nm,las-vegas,1415-7th-st,024685,"1415 7th St, Las Vegas, NM 87701",87701,35.6048675,-105.223344
+https://locations.tacobell.com/nm/artesia/1412-west-main-street.html,nm,artesia,1412-west-main-street,C750080,"1412 West Main Street, Artesia, NM 88210",88210,32.8422581,-104.4142109
+https://locations.tacobell.com/ny/newburgh/1412-route-300.html,ny,newburgh,1412-route-300,039098,"1412 Route 300, Newburgh, NY 12550",12550,41.5212304,-74.0700063
+https://locations.tacobell.com/nv/sparks/1395-big-fish-drive.html,nv,sparks,1395-big-fish-drive,036244,"1395 Big Fish Drive, Sparks, NV 89431",89431,39.5310512,-119.715899
+https://locations.tacobell.com/ny/utica/136-north-genesee-street.html,ny,utica,136-north-genesee-street,016245,"136 North Genesee Street, Utica, NY 13502",13502,43.108135,-75.2196957
+https://locations.tacobell.com/ny/new-york/1351-st--nicholas-ave-.html,ny,new-york,1351-st--nicholas-ave-,032185,"1351 St. Nicholas Ave., New York, NY 10033",10033,40.8471545,-73.9355353
+https://locations.tacobell.com/ny/dansville/135-franklin-st.html,ny,dansville,135-franklin-st,030540,"135 Franklin St, Dansville, NY 14437",14437,42.5648406,-77.712791
+https://locations.tacobell.com/nv/gardnerville/1343-highway-395-n.html,nv,gardnerville,1343-highway-395-n,031869,"1343 Highway 395 N, Gardnerville, NV 89410",89410,38.9362916,-119.7393012
+https://locations.tacobell.com/ny/selden/1314-middle-country-rd.html,ny,selden,1314-middle-country-rd,039949,"1314 Middle Country Rd, Selden, NY 11784",11784,40.8616721,-73.0588406
+https://locations.tacobell.com/ny/west-haverstraw/131-s-route-9w.html,ny,west-haverstraw,131-s-route-9w,039054,"131 S Route 9W, West Haverstraw, NY 10993",10993,41.2004248,-73.98380929999999
+https://locations.tacobell.com/ny/kingston/1305-ulster-ave.html,ny,kingston,1305-ulster-ave,039097,"1305 Ulster Ave, Kingston, NY 12401",12401,41.9701706,-73.9895461
+https://locations.tacobell.com/ny/amsterdam/130-sanford-farms-shopping-ctr.html,ny,amsterdam,130-sanford-farms-shopping-ctr,026353,"130 Sanford Farms Shopping Ctr, Amsterdam, NY 12010",12010,42.9614951,-74.1840235
+https://locations.tacobell.com/nm/albuquerque/12930-central-southeast.html,nm,albuquerque,12930-central-southeast,003428,"12930 Central Southeast, Albuquerque, NM 87123",12930,35.068536,-106.5036502
+https://locations.tacobell.com/nv/henderson/1284-w-warm-springs-rd.html,nv,henderson,1284-w-warm-springs-rd,031890,"1284 W Warm Springs Rd, Henderson, NV 89014",89014,36.0567145,-115.0411708
+https://locations.tacobell.com/nv/fallon/1280-w-williams-ave.html,nv,fallon,1280-w-williams-ave,031867,"1280 W Williams Ave, Fallon, NV 89406",89406,39.4752889,-118.7917651
+https://locations.tacobell.com/nv/las-vegas/1275-south-lamb-blvd.html,nv,las-vegas,1275-south-lamb-blvd,031886,"1275 South Lamb Blvd, Las Vegas, NV 89104",89104,36.1575645,-115.080848
+https://locations.tacobell.com/ny/wantagh/1260-wantagh-avenue.html,ny,wantagh,1260-wantagh-avenue,029529,"1260 Wantagh Avenue, Wantagh, NY 11793",11793,40.6917717,-73.5085109
+https://locations.tacobell.com/ny/north-babylon/1245-deer-park-ave.html,ny,north-babylon,1245-deer-park-ave,002616,"1245 Deer Park Ave, North Babylon, NY 11703",11703,40.7382372,-73.319991
+https://locations.tacobell.com/nm/carlsbad/1220-west-pierce-st-.html,nm,carlsbad,1220-west-pierce-st-,032717,"1220 West Pierce St., Carlsbad, NM 88220",88220,32.4362348,-104.2428268
+https://locations.tacobell.com/ny/riverhead/1220-old-country-rd.html,ny,riverhead,1220-old-country-rd,009509,"1220 Old Country Rd, Riverhead, NY 11901",11901,40.9300682,-72.6818199
+https://locations.tacobell.com/nm/santa-fe/1201-cerrillos-road.html,nm,santa-fe,1201-cerrillos-road,039928,"1201 Cerrillos Road, Santa Fe, NM 87505",87505,35.6724242,-105.9614177
+https://locations.tacobell.com/nm/taos/117-paseo-del-canyon.html,nm,taos,117-paseo-del-canyon,027420,"117 Paseo Del Canyon, Taos, NM 87571",87571,36.37942779999999,-105.5879605
+https://locations.tacobell.com/ny/rome/1164-erie-blvd-west.html,ny,rome,1164-erie-blvd-west,016099,"1164 Erie Blvd West, Rome, NY 13440",13440,43.2254225,-75.4861158
+https://locations.tacobell.com/ny/elmira/1149-broadway-street.html,ny,elmira,1149-broadway-street,G135420,"1149 Broadway Street, Elmira, NY 14904",14904,42.0566415,-76.8188455
+https://locations.tacobell.com/nv/reno/1110-n-hills-blvd.html,nv,reno,1110-n-hills-blvd,027362,"1110 N Hills Blvd, Reno, NV 89506",89506,39.6059013,-119.8425382
+https://locations.tacobell.com/nv/las-vegas/1109-e--twain.html,nv,las-vegas,1109-e--twain,031894,"1109 E. Twain, Las Vegas, NV 89109",89109,36.12186,-115.1394051
+https://locations.tacobell.com/nv/henderson/11051-so--eastern.html,nv,henderson,11051-so--eastern,031881,"11051 So. Eastern, Henderson, NV 89012",11051,35.9913768,-115.1016484
+https://locations.tacobell.com/nm/lovington/1100-west-avenue-d.html,nm,lovington,1100-west-avenue-d,032721,"1100 West Avenue D, Lovington, NM 88260",88260,32.94402,-103.36203
+https://locations.tacobell.com/nm/roswell/110-west-hobbs.html,nm,roswell,110-west-hobbs,C750078,"110 West Hobbs, Roswell, NM 88203",88203,33.372208,-104.5240828
+https://locations.tacobell.com/nm/rio-rancho/1099-rio-rancho-dr.html,nm,rio-rancho,1099-rio-rancho-dr,002867,"1099 Rio Rancho Dr, Rio Rancho, NM 87124",87124,35.2642376,-106.6290814
+https://locations.tacobell.com/ny/brooklyn/108-30-flatlands-ave.html,ny,brooklyn,108-30-flatlands-ave,F569037,"108-30 Flatlands Ave, Brooklyn, NY 11236",11236,40.641377,-73.9042005
+https://locations.tacobell.com/nv/reno/1075-w-4th-st.html,nv,reno,1075-w-4th-st,031888,"1075 W 4th St, Reno, NV 89503",89503,39.5265311,-119.8281962
+https://locations.tacobell.com/ny/liverpool/1055-7th-north-street.html,ny,liverpool,1055-7th-north-street,G135344,"1055 7th North Street, Liverpool, NY 13088",13088,43.1005268,-76.18620349999999
+https://locations.tacobell.com/ny/dunkirk/10517-bennett-rd.html,ny,dunkirk,10517-bennett-rd,G135422,"10517 Bennett Rd, Dunkirk, NY 14048",10517,42.4571905,-79.3122835
+https://locations.tacobell.com/ny/oneida/1038-glenwood-ave-.html,ny,oneida,1038-glenwood-ave-,026364,"1038 Glenwood Ave., Oneida, NY 13421",13421,43.0779079,-75.6420214
+https://locations.tacobell.com/nv/las-vegas/10287-w-charleston-blvd.html,nv,las-vegas,10287-w-charleston-blvd,031891,"10287 W Charleston Blvd, Las Vegas, NV 89135",10287,36.1590342,-115.3197229
+https://locations.tacobell.com/nm/portales/1001-w--1st.html,nm,portales,1001-w--1st,032702,"1001 W. 1st, Portales, NM 88130",88130,34.1815487,-103.3438669
+https://locations.tacobell.com/nm/albuquerque/1001-juan-tabo-blvd-ne.html,nm,albuquerque,1001-juan-tabo-blvd-ne,004149,"1001 Juan Tabo Blvd NE, Albuquerque, NM 87112",87112,35.087158,-106.515496
+https://locations.tacobell.com/ny/canandaigua/10-raymour-and-flanigan-plz.html,ny,canandaigua,10-raymour-and-flanigan-plz,005687,"10 Raymour And Flanigan Plz, Canandaigua, NY 14424",14424,42.8775266,-77.24792479999999
+https://locations.tacobell.com/ny/north-tonawanda/856-niagara-falls-blvd.html,ny,north-tonawanda,856-niagara-falls-blvd,040328,"856 Niagara Falls Blvd, North Tonawanda, NY 14120",14120,43.0640431,-78.843917
+https://locations.tacobell.com/nm/farmington/1400-w-main-st.html,nm,farmington,1400-w-main-st,040475,"1400 W Main St, Farmington, NM 87401",87401,36.7320075,-108.2261019
+https://locations.tacobell.com/ny/west-seneca/1175-union-rd.html,ny,west-seneca,1175-union-rd,040600,"1175 Union Rd, West Seneca, NY 14224",14224,42.8323,-78.753226
+https://locations.tacobell.com/ny/cortlandt-manor/3605-crompond-road.html,ny,cortlandt-manor,3605-crompond-road,037075,"3605 Crompond Road, Cortlandt Manor, NY 10567",10567,41.2890565,-73.8408431
+https://locations.tacobell.com/ny/jamaica/92-23-168th-street.html,ny,jamaica,92-23-168th-street,038757,"92-23 168th Street, Jamaica, NY 11433",11433,40.7057319,-73.7919259
+https://locations.tacobell.com/ny/new-york/3427-broadway.html,ny,new-york,3427-broadway,040381,"3427 Broadway, New York, NY 10031",10031,40.8230956,-73.9532119
+https://locations.tacobell.com/ny/rochester/358-lake-avenue.html,ny,rochester,358-lake-avenue,040388,"358 Lake Avenue, Rochester, NY 14608",14608,43.1713256,-77.6271873
+https://locations.tacobell.com/ny/melville/540-walt-whitman-rd.html,ny,melville,540-walt-whitman-rd,037156,"540 Walt Whitman Rd, Melville, NY 11747",11747,40.8104417,-73.4090566
+https://locations.tacobell.com/nv/las-vegas/1370-w--lake-mead-blvd-.html,nv,las-vegas,1370-w--lake-mead-blvd-,032295,"1370 W. Lake Mead Blvd., Las Vegas, NV 89106",89106,36.1961635,-115.1599504
+https://locations.tacobell.com/ny/vestal/2507-vestal-pkwy-east.html,ny,vestal,2507-vestal-pkwy-east,039055,"2507 Vestal Pkwy East, Vestal, NY 13850",13850,42.0952904,-76.0087809
+https://locations.tacobell.com/nm/grants/1518-e-santa-fe-ave.html,nm,grants,1518-e-santa-fe-ave,033694,"1518 E Santa Fe Ave, Grants, NM 87020",87020,35.1284225,-107.8269381
+https://locations.tacobell.com/nm/albuquerque/10600-unser-boulevard-nw.html,nm,albuquerque,10600-unser-boulevard-nw,032393,"10600 Unser Boulevard NW, Albuquerque, NM 87114",10600,35.2115478,-106.6985427
+https://locations.tacobell.com/ny/cicero/7881-brewerton-rd.html,ny,cicero,7881-brewerton-rd,004976,"7881 Brewerton Rd, Cicero, NY 13039",13039,43.1515242,-76.1249103
+https://locations.tacobell.com/ny/webster/1820-empire-blvd.html,ny,webster,1820-empire-blvd,040480,"1820 Empire Blvd, Webster, NY 14580",14580,43.1999369,-77.4985956
+https://locations.tacobell.com/nv/reno/10635-stead-blvd.html,nv,reno,10635-stead-blvd,031760,"10635 Stead Blvd, Reno, NV 89506",10635,39.6264548,-119.88257
+https://locations.tacobell.com/ny/potsdam/153-market-street.html,ny,potsdam,153-market-street,033619,"153 Market Street, Potsdam, NY 13676",13676,44.681161,-74.9873308
+https://locations.tacobell.com/nm/shiprock/hwy-491.html,nm,shiprock,hwy-491,041191,"Hwy 491, Shiprock, NM 87420",87420,36.6878147,-108.7080824
+https://locations.tacobell.com/ny/corona/38-1-junction-blvd.html,ny,corona,38-1-junction-blvd,033459,"38-1 Junction Blvd, Corona, NY 11368",11368,40.7459561,-73.868186
+https://locations.tacobell.com/ny/baldwin/1180-grand-avenue.html,ny,baldwin,1180-grand-avenue,030926,"1180 Grand Avenue, Baldwin, NY 11510",11510,40.6592905,-73.6082335
+https://locations.tacobell.com/nv/las-vegas/2033-e--charleston-blvd.html,nv,las-vegas,2033-e--charleston-blvd,032897,"2033 E. Charleston Blvd, Las Vegas, NV 89104",89104,36.159266,-115.1200358
+https://locations.tacobell.com/nm/albuquerque/1740-unser-blvd--nw.html,nm,albuquerque,1740-unser-blvd--nw,032386,"1740 Unser Blvd. NW, Albuquerque, NM 87120",87120,35.1024429,-106.7294916
+https://locations.tacobell.com/ny/bronx/3490-jerome-ave.html,ny,bronx,3490-jerome-ave,040703,"3490 Jerome Ave, Bronx, NY 10467",10467,40.882328,-73.8814074
+https://locations.tacobell.com/ny/syracuse/962-e--brighton-ave.html,ny,syracuse,962-e--brighton-ave,040313,"962 E. Brighton Ave, Syracuse, NY 13205",13205,43.0024937,-76.1307405
+https://locations.tacobell.com/ny/new-york/321-1st-avenue.html,ny,new-york,321-1st-avenue,034298,"321 1st Avenue, New York, NY 10003",10003,40.7341787,-73.9805676
+https://locations.tacobell.com/nm/ruidoso/26128-us-hwy-70-e.html,nm,ruidoso,26128-us-hwy-70-e,033932,"26128 US Hwy 70 E, Ruidoso, NM 88345",26128,33.3243964,-105.6249185
+https://locations.tacobell.com/ny/brooklyn/491-nostrand-ave.html,ny,brooklyn,491-nostrand-ave,033947,"491 Nostrand Ave, Brooklyn, NY 11216",11216,40.6806796,-73.9494964
+https://locations.tacobell.com/ny/bronx/880-river-avenue.html,ny,bronx,880-river-avenue,034607,"880 River Avenue, Bronx, NY 10452",10452,40.8283851,-73.9254282
+https://locations.tacobell.com/ny/ellenville/41-n-main-street.html,ny,ellenville,41-n-main-street,039547,"41 N Main Street, Ellenville, NY 12428",12428,41.7217975,-74.3925789

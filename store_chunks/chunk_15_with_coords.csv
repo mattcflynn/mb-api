@@ -1,0 +1,497 @@
+url,state,city,address_slug,store_id,full_address,zip_code,latitude,longitude
+https://locations.tacobell.com/ok/stigler/1305-east-main-street.html,ok,stigler,1305-east-main-street,041134,"1305 East Main Street, Stigler, OK 74462",74462,35.2516765,-95.1165396
+https://locations.tacobell.com/pa/monroeville/3971-william-penn-hwy.html,pa,monroeville,3971-william-penn-hwy,040979,"3971 William Penn Hwy, Monroeville, PA 15146",15146,40.4386218,-79.7708773
+https://locations.tacobell.com/pa/butler/125-pittsburgh-rd-.html,pa,butler,125-pittsburgh-rd-,037080,"125 Pittsburgh Rd., Butler, PA 16001",16001,40.8460804,-79.9147728
+https://locations.tacobell.com/ok/edmond/4555-e--waterloo-rd.html,ok,edmond,4555-e--waterloo-rd,040653,"4555 E. Waterloo Rd, Edmond, OK 73034",73034,35.7254168,-97.4849112
+https://locations.tacobell.com/pa/tamaqua/60-plaza-drive.html,pa,tamaqua,60-plaza-drive,040435,"60 Plaza Drive, Tamaqua, PA 18252",18252,40.8342763,-75.9884251
+https://locations.tacobell.com/pa/bridgeville/177-millers-run-rd.html,pa,bridgeville,177-millers-run-rd,040376,"177 Millers Run Rd, Bridgeville, PA 15017",15017,40.3561514,-80.1198613
+https://locations.tacobell.com/pa/bentleyville/190-wilson-road.html,pa,bentleyville,190-wilson-road,040432,"190 Wilson Road, Bentleyville, PA 15314",15314,40.1295905,-80.0014901
+https://locations.tacobell.com/ok/bristow/704-north-main-street.html,ok,bristow,704-north-main-street,041480,"704 North Main Street, Bristow, OK 74010",74010,35.8389391,-96.3911203
+https://locations.tacobell.com/ok/stilwell/43-clevenger-st-.html,ok,stilwell,43-clevenger-st-,041674,"43 Clevenger St., Stilwell, OK 74960",74960,35.822786,-94.6260169
+https://locations.tacobell.com/ok/jay/1441-south-main-street.html,ok,jay,1441-south-main-street,041675,"1441 South Main Street, Jay, OK 74346",74346,36.4158476,-94.8102629
+https://locations.tacobell.com/pa/camp-hill/3506-capital-city-mall-drive.html,pa,camp-hill,3506-capital-city-mall-drive,041429,"3506 Capital City Mall Drive Unit FC 004, Camp Hill, PA 17011",17011,40.223222,-76.9322565
+https://locations.tacobell.com/pa/new-castle/2621-w-state-street.html,pa,new-castle,2621-w-state-street,040955,"2621 W State Street, New Castle, PA 16101",16101,41.0033392,-80.361345
+https://locations.tacobell.com/or/baker-city/1375-campbell-st-.html,or,baker-city,1375-campbell-st-,041378,"1375 Campbell St., Baker City, OR 97814",97814,44.7815975,-117.822123
+https://locations.tacobell.com/or/woodburn/1520-n--pacific-hwy.html,or,woodburn,1520-n--pacific-hwy,038753,"1520 N. Pacific Hwy, Woodburn, OR 97071",97071,45.1503076,-122.8302832
+https://locations.tacobell.com/pa/new-stanton/105-highland-ave.html,pa,new-stanton,105-highland-ave,041186,"105 Highland Ave, New Stanton, PA 15672",15672,40.2203136,-79.6102365
+https://locations.tacobell.com/ok/tulsa/4716-east-21st-street-south.html,ok,tulsa,4716-east-21st-street-south,041646,"4716 East 21st Street South, Tulsa, OK 74114",74114,36.1330576,-95.9245243
+https://locations.tacobell.com/or/corvallis/4825-sw-research-way.html,or,corvallis,4825-sw-research-way,037042,"4825 SW Research Way, Corvallis, OR 97333",97333,44.5515961,-123.3058168
+https://locations.tacobell.com/ok/yukon/11300-sw-29th-street.html,ok,yukon,11300-sw-29th-street,041874,"11300 SW 29th Street, Yukon, OK 73099",11300,35.435038,-97.72228899999999
+https://locations.tacobell.com/pa/hazle-township/1072-state-route-940.html,pa,hazle-township,1072-state-route-940,041121,"1072 State Route 940, Hazle Township, PA 18202",18202,40.9759312,-75.9775769
+https://locations.tacobell.com/pa/scranton/733-davis-st.html,pa,scranton,733-davis-st,040579,"733 Davis St, Scranton, PA 18505",18505,41.3762878,-75.6903473
+https://locations.tacobell.com/or/creswell/255-melton-rd-.html,or,creswell,255-melton-rd-,040425,"255 Melton Rd., Creswell, OR 97426",97426,43.918638,-123.0113856
+https://locations.tacobell.com/pa/connellsville/1410-morrell-ave.html,pa,connellsville,1410-morrell-ave,040561,"1410 Morrell Ave, Connellsville, PA 15425",15425,40.0041339,-79.6029238
+https://locations.tacobell.com/pa/aliquippa/2624-brodhead-road.html,pa,aliquippa,2624-brodhead-road,041864,"2624 Brodhead Road, Aliquippa, PA 15001",15001,40.6056414,-80.281604
+https://locations.tacobell.com/ok/broken-arrow/1811-w--norfolk-drive.html,ok,broken-arrow,1811-w--norfolk-drive,041873,"1811 W. Norfolk Drive, Broken Arrow, OK 74011",74011,35.9949872,-95.8135184
+https://locations.tacobell.com/pa/stroudsburg/121-plaza-611-lane.html,pa,stroudsburg,121-plaza-611-lane,032540,"121 Plaza 611 Lane, Stroudsburg, PA 18360",18360,40.9991479,-75.2606222
+https://locations.tacobell.com/pa/mechanicsburg/151-gettysburg-pike.html,pa,mechanicsburg,151-gettysburg-pike,041619,"151 Gettysburg Pike Unit 2, Mechanicsburg, PA 17055",17055,40.18040209999999,-76.9888495
+https://locations.tacobell.com/ok/chandler/1910-e--1st-street.html,ok,chandler,1910-e--1st-street,042118,"1910 E. 1st Street, Chandler, OK 74834",74834,35.7098474,-96.8607762
+https://locations.tacobell.com/pa/mountain-top/28-n--mountain-blvd.html,pa,mountain-top,28-n--mountain-blvd,041999,"28 N. Mountain Blvd, Mountain Top, PA 18707",18707,41.164132,-75.88467399999999
+https://locations.tacobell.com/pa/berwick/2090-west-front-street.html,pa,berwick,2090-west-front-street,041658,"2090 West Front Street, Berwick, PA 18603",18603,41.0468235,-76.2728648
+https://locations.tacobell.com/ok/sallisaw/520-south-kerr-blvd.html,ok,sallisaw,520-south-kerr-blvd,042091,"520 South Kerr Blvd, Sallisaw, OK 74955",74955,35.4572004,-94.8071898
+https://locations.tacobell.com/pa/meadville/16494-conneaut-lake-road.html,pa,meadville,16494-conneaut-lake-road,041898,"16494 Conneaut Lake Road, Meadville, PA 16335",16494,41.622437,-80.20618379999999
+https://locations.tacobell.com/pa/parkesburg/830-octorara-trail.html,pa,parkesburg,830-octorara-trail,041177,"830 Octorara Trail, Parkesburg, PA 19365",19365,39.9852009,-75.9322978
+https://locations.tacobell.com/pa/harmony/244-perry-highway.html,pa,harmony,244-perry-highway,041643,"244 Perry Highway, Harmony, PA 16037",16037,40.8127033,-80.1261062
+https://locations.tacobell.com/pa/mansfield/1289-south-main-street.html,pa,mansfield,1289-south-main-street,041494,"1289 South Main Street, Mansfield, PA 16933",16933,41.8055348,-77.0774635
+https://locations.tacobell.com/pa/lock-haven/559-high-street.html,pa,lock-haven,559-high-street,041901,"559 High Street, Lock Haven, PA 17745",17745,41.1295834,-77.4667015
+https://locations.tacobell.com/ok/cushing/1438-e--main-street.html,ok,cushing,1438-e--main-street,034943,"1438 E. Main Street, Cushing, OK 74023",74023,35.9851032,-96.7489326
+https://locations.tacobell.com/pa/ebensburg/4482-admiral-peary-hwy.html,pa,ebensburg,4482-admiral-peary-hwy,040075,"4482 Admiral Peary Hwy, Ebensburg, PA 15931",15931,40.4703722,-78.7540676
+https://locations.tacobell.com/ok/idabel/1804-se-washington-street.html,ok,idabel,1804-se-washington-street,033936,"1804 SE Washington Street, Idabel, OK 74745",74745,33.8954752,-94.7959524
+https://locations.tacobell.com/or/portland/11699-se-82nd-avenue.html,or,portland,11699-se-82nd-avenue,033462,"11699 SE 82nd Avenue, Portland, OR 97086",11699,45.4613401,-122.5790544
+https://locations.tacobell.com/pa/philipsburg/1129-philipsburg-bigler-highway.html,pa,philipsburg,1129-philipsburg-bigler-highway,034756,"1129 Philipsburg Bigler Highway, Philipsburg, PA 16866",16866,40.9041967,-78.2341424
+https://locations.tacobell.com/pa/carbondale/155-brooklyn-street.html,pa,carbondale,155-brooklyn-street,039550,"155 Brooklyn Street, Carbondale, PA 18407",18407,41.5667862,-75.5151119
+https://locations.tacobell.com/pa/scranton/2-olive-st.html,pa,scranton,2-olive-st,039111,"2 Olive St, Scranton, PA 18508",18508,41.415576,-75.663204
+https://locations.tacobell.com/pa/state-college/397-benner-pike.html,pa,state-college,397-benner-pike,034618,"397 Benner Pike, State College, PA 16801",16801,40.8321859,-77.8045293
+https://locations.tacobell.com/ok/midwest-city/150-brett-dr-.html,ok,midwest-city,150-brett-dr-,035341,"150 Brett Dr., Midwest City, OK 73110",73110,35.4364587,-97.4047296
+https://locations.tacobell.com/pa/danville/179-northumberland-st.html,pa,danville,179-northumberland-st,035417,"179 Northumberland St, Danville, PA 17821",17821,40.9652062,-76.6186881
+https://locations.tacobell.com/pa/duquesne/301-hoffman-blvd.html,pa,duquesne,301-hoffman-blvd,035068,"301 Hoffman Blvd, Duquesne, PA 15110",15110,40.3837218,-79.8642679
+https://locations.tacobell.com/pa/pittsburgh/121-costco-drive.html,pa,pittsburgh,121-costco-drive,035418,"121 Costco Drive, Pittsburgh, PA 15205",15205,40.4577747,-80.1679556
+https://locations.tacobell.com/pa/philadelphia/7500-bustleton-avenue.html,pa,philadelphia,7500-bustleton-avenue,033471,"7500 Bustleton Avenue, Philadelphia, PA 19152",19152,40.051755,-75.056574
+https://locations.tacobell.com/or/klamath-falls/3118-washburn-way.html,or,klamath-falls,3118-washburn-way,034924,"3118 Washburn Way, Klamath Falls, OR 97603",97603,42.1982721,-121.7577788
+https://locations.tacobell.com/pa/wexford/10955-perry-highway.html,pa,wexford,10955-perry-highway,035249,"10955 Perry Highway, Wexford, PA 15090",10955,40.6174966,-80.0561332
+https://locations.tacobell.com/pa/elverson/905-heritage-drive.html,pa,elverson,905-heritage-drive,036024,"905 Heritage Drive, Elverson, PA 19520",19520,40.1560242,-75.8609508
+https://locations.tacobell.com/ok/blanchard/1223-ne-10th-street.html,ok,blanchard,1223-ne-10th-street,035180,"1223 NE 10th Street, Blanchard, OK 73010",73010,35.1462976,-97.643248
+https://locations.tacobell.com/pa/pittsburgh/212-rodi-road.html,pa,pittsburgh,212-rodi-road,040076,"212 Rodi Road, Pittsburgh, PA 15235",15235,40.4636899,-79.8252374
+https://locations.tacobell.com/ok/tulsa/1722-w--51st--street.html,ok,tulsa,1722-w--51st--street,036306,"1722 W. 51st. Street, Tulsa, OK 74107",74107,36.0898456,-96.0148284
+https://locations.tacobell.com/ok/weatherford/1237-east-main-street.html,ok,weatherford,1237-east-main-street,036340,"1237 East Main Street, Weatherford, OK 73096",73096,35.5259698,-98.6964221
+https://locations.tacobell.com/pa/gettysburg/1350-york-road.html,pa,gettysburg,1350-york-road,034757,"1350 York Road, Gettysburg, PA 17325",17325,39.8455067,-77.1991065
+https://locations.tacobell.com/ok/tulsa/11108-east-41st-street.html,ok,tulsa,11108-east-41st-street,036004,"11108 East 41st Street, Tulsa, OK 74146",11108,36.1040302,-95.8520258
+https://locations.tacobell.com/pa/philadelphia/4001-n-5th-st.html,pa,philadelphia,4001-n-5th-st,K071069,"4001 N 5th St, Philadelphia, PA 19140",19140,40.0122671,-75.135508
+https://locations.tacobell.com/pa/girard/1017-e-main-street.html,pa,girard,1017-e-main-street,036254,"1017 E Main Street, Girard, PA 16417",16417,42.0080255,-80.304511
+https://locations.tacobell.com/ri/pawtucket/675-beverage-hill-ave.html,ri,pawtucket,675-beverage-hill-ave,040882,"675 Beverage Hill Ave Ste 100, Pawtucket, RI 02861",02861,41.8605619,-71.3540639
+https://locations.tacobell.com/or/junction-city/94588-hwy-99e.html,or,junction-city,94588-hwy-99e,036335,"94588 Hwy 99E, Junction City, OR 97448",94588,44.2313527,-123.2031923
+https://locations.tacobell.com/pa/kittanning/24-franklin-village-mall.html,pa,kittanning,24-franklin-village-mall,036460,"24 Franklin Village Mall, Kittanning, PA 16201",16201,40.8128795,-79.544122
+https://locations.tacobell.com/ok/edmond/2317-n--kelly-ave.html,ok,edmond,2317-n--kelly-ave,036367,"2317 N. Kelly Ave, Edmond, OK 73003",73003,35.6781048,-97.4962014
+https://locations.tacobell.com/pa/slippery-rock/219-grove-city-road.html,pa,slippery-rock,219-grove-city-road,036284,"219 Grove City Road, Slippery Rock, PA 16057",16057,41.0701553,-80.0523139
+https://locations.tacobell.com/pa/avondale/764-gap-newport-pike.html,pa,avondale,764-gap-newport-pike,036255,"764 Gap Newport Pike, Avondale, PA 19311",19311,39.8352507,-75.7943596
+https://locations.tacobell.com/pa/douglassville/1136-benjamin-franklin-highway.html,pa,douglassville,1136-benjamin-franklin-highway,036257,"1136 Benjamin Franklin Highway, Douglassville, PA 19518",19518,40.2618243,-75.7324045
+https://locations.tacobell.com/pa/philadelphia/2809-s--front-st.html,pa,philadelphia,2809-s--front-st,035831,"2809 S. Front St, Philadelphia, PA 19148",19148,39.9115649,-75.1501306
+https://locations.tacobell.com/pa/dallas/2186-memorial-highway.html,pa,dallas,2186-memorial-highway,035843,"2186 Memorial Highway, Dallas, PA 18612",18612,41.3297749,-75.9489201
+https://locations.tacobell.com/pa/york/2899-whiteford-road.html,pa,york,2899-whiteford-road,031742,"2899 Whiteford Road, York, PA 17402",17402,39.989058,-76.6757423
+https://locations.tacobell.com/ok/tonkawa/16600-w-south-ave.html,ok,tonkawa,16600-w-south-ave,030453,"16600 W South Ave, Tonkawa, OK 74653",16600,36.6961881,-97.3492586
+https://locations.tacobell.com/pa/philadelphia/1500-jfk-boulevard.html,pa,philadelphia,1500-jfk-boulevard,030500,"1500 JFK Boulevard, Philadelphia, PA 19102",19102,39.9534235,-75.1657163
+https://locations.tacobell.com/pa/philadelphia/2951-market-street.html,pa,philadelphia,2951-market-street,030657,"2951 Market Street, Philadelphia, PA 19104",19104,39.9548373,-75.1827264
+https://locations.tacobell.com/ok/oklahoma-city/1901-nw-expressway-street.html,ok,oklahoma-city,1901-nw-expressway-street,025855,"1901 NW Expressway Street, Oklahoma City, OK 73118",73118,35.5252155,-97.5450343
+https://locations.tacobell.com/ok/tulsa/6105-s--mingo-road.html,ok,tulsa,6105-s--mingo-road,019312,"6105 S. Mingo Road Suite C, Tulsa, OK 74133",74133,36.0750654,-95.8679367
+https://locations.tacobell.com/pa/cresco/6172-paradise-valley-road.html,pa,cresco,6172-paradise-valley-road,020500,"6172 Paradise Valley Road, Cresco, PA 18326",18326,41.127382,-75.3070971
+https://locations.tacobell.com/or/salem/4220-brooklake-rd-ne.html,or,salem,4220-brooklake-rd-ne,018096,"4220 Brooklake Rd NE, Salem, OR 97303",97303,45.0487289,-122.9751134
+https://locations.tacobell.com/or/central-point/1600-e-pine-st.html,or,central-point,1600-e-pine-st,018285,"1600 E Pine St, Central Point, OR 97502",97502,42.3780172,-122.8992518
+https://locations.tacobell.com/pa/brookville/245-allegheny-blvd.html,pa,brookville,245-allegheny-blvd,016923,"245 Allegheny Blvd, Brookville, PA 15825",15825,41.1726702,-79.0991643
+https://locations.tacobell.com/ok/sayre/11603-n-1900-rd.html,ok,sayre,11603-n-1900-rd,21243,"11603 N 1900 Rd Exit 26 Cemetary Road, Sayre, OK 73662",11603,35.3350658,-99.5944758
+https://locations.tacobell.com/pa/allentown/5374-hamilton-blvd.html,pa,allentown,5374-hamilton-blvd,037006,"5374 Hamilton Blvd, Allentown, PA 18106",18106,40.5623678,-75.5618074
+https://locations.tacobell.com/pa/aston/5012-pennell-road.html,pa,aston,5012-pennell-road,037074,"5012 Pennell Road, Aston, PA 19014",19014,39.8659716,-75.4275996
+https://locations.tacobell.com/pa/sewickley/25-ohio-river-blvd.html,pa,sewickley,25-ohio-river-blvd,040079,"25 Ohio River Blvd, Sewickley, PA 15143",15143,40.5331491,-80.1773533
+https://locations.tacobell.com/pa/state-college/1909-north-atherton-street.html,pa,state-college,1909-north-atherton-street,034377,"1909 North Atherton Street, State College, PA 16803",16803,40.80945,-77.9049315
+https://locations.tacobell.com/ri/warwick/510-quaker-lane.html,ri,warwick,510-quaker-lane,041891,"510 Quaker Lane, Warwick, RI 02886",02886,41.682637,-71.4970984
+https://locations.tacobell.com/pa/coal-township/9343-pa-61.html,pa,coal-township,9343-pa-61,042158,"9343 PA-61, Coal Township, PA 17866",17866,40.7905896,-76.5054843
+https://locations.tacobell.com/ri/warwick/1717-post-rd.html,ri,warwick,1717-post-rd,042138,"1717 Post Rd, Warwick, RI 02888",02888,41.7337949,-71.4360991
+https://locations.tacobell.com/pa/bethlehem/1620-east-fourth-street.html,pa,bethlehem,1620-east-fourth-street,041102,"1620 East Fourth Street, Bethlehem, PA 18020",18020,40.611414,-75.34862199999999
+https://locations.tacobell.com/pa/philadelphia/1614-chestnut-st.html,pa,philadelphia,1614-chestnut-st,042173,"1614 Chestnut St, Philadelphia, PA 19103",19103,39.9512263,-75.1675504
+https://locations.tacobell.com/or/wasco/91444-biggs-rufus-hwy.html,or,wasco,91444-biggs-rufus-hwy,037348,"91444 Biggs-Rufus Hwy, Wasco, OR 97065",91444,45.6679049,-120.8359367
+https://locations.tacobell.com/pa/king-of-prussia/253-henderson-rd.html,pa,king-of-prussia,253-henderson-rd,037133,"253 Henderson Rd, King Of Prussia, PA 19406",19406,40.1136427,-75.3776876
+https://locations.tacobell.com/pa/mckees-rocks/230-langer-way.html,pa,mckees-rocks,230-langer-way,037079,"230 Langer Way, McKees Rocks, PA 15136",15136,40.4690792,-80.0965797
+https://locations.tacobell.com/pa/downingtown/50-rock-raymond-rd.html,pa,downingtown,50-rock-raymond-rd,036282,"50 Rock Raymond Rd, Downingtown, PA 19335",19335,40.0007163,-75.7188533
+https://locations.tacobell.com/pa/philadelphia/177-w-allegheny-ave.html,pa,philadelphia,177-w-allegheny-ave,K071070,"177 W Allegheny Ave, Philadelphia, PA 19133",19133,39.9990387,-75.1324841
+https://locations.tacobell.com/pa/west-chester/519-e-market-st.html,pa,west-chester,519-e-market-st,K071082,"519 E Market St, West Chester, PA 19382",19382,39.9635101,-75.5966254
+https://locations.tacobell.com/ok/fort-sill/macomb-road-&-craig-road.html,ok,fort-sill,macomb-road-&-craig-road,029346,"Macomb Road & Craig Road, Fort Sill, OK 73503",73503,34.6715779,-98.40843980000001
+https://locations.tacobell.com/pa/harrisburg/11-n--3rd-street.html,pa,harrisburg,11-n--3rd-street,027514,"11 N. 3rd Street, Harrisburg, PA 17101",17101,40.2617606,-76.8813852
+https://locations.tacobell.com/pa/royersford/947-s--township-line-road.html,pa,royersford,947-s--township-line-road,K071090,"947 S. Township Line Road, Royersford, PA 19468",19468,40.1940492,-75.528125
+https://locations.tacobell.com/ok/tinker-afb/3360-n-avenue.html,ok,tinker-afb,3360-n-avenue,031029,"3360 N Avenue, Tinker Afb, OK 73145",73145,35.4195067,-97.4048492
+https://locations.tacobell.com/pa/philadelphia/6417-harbison-ave-.html,pa,philadelphia,6417-harbison-ave-,K071076,"6417 Harbison Ave., Philadelphia, PA 19149",19149,40.0337622,-75.063631
+https://locations.tacobell.com/pa/wind-gap/6695-sullivan-trail.html,pa,wind-gap,6695-sullivan-trail,036318,"6695 Sullivan Trail, Wind Gap, PA 18091",18091,40.8338982,-75.2976303
+https://locations.tacobell.com/ok/sulphur/1711-west-broadway.html,ok,sulphur,1711-west-broadway,037731,"1711 West Broadway, Sulphur, OK 73086",73086,34.5063165,-96.9894387
+https://locations.tacobell.com/pa/beaver-falls/900-chippewa-town-center.html,pa,beaver-falls,900-chippewa-town-center,037093,"900 Chippewa Town Center, Beaver Falls, PA 15010",15010,40.7775351,-80.3823132
+https://locations.tacobell.com/ok/pauls-valley/100-ballard-rd.html,ok,pauls-valley,100-ballard-rd,037708,"100 Ballard Rd, Pauls Valley, OK 73075",73075,34.7393859,-97.2605157
+https://locations.tacobell.com/ok/vinita/260-south-7th-street.html,ok,vinita,260-south-7th-street,037680,"260 South 7th Street, Vinita, OK 74301",74301,36.6317324,-95.1435146
+https://locations.tacobell.com/pa/lititz/2-trolley-run-rd-.html,pa,lititz,2-trolley-run-rd-,037837,"2 Trolley Run Rd., Lititz, PA 17543",17543,40.1382873,-76.3037043
+https://locations.tacobell.com/ok/ardmore/806-holiday-drive.html,ok,ardmore,806-holiday-drive,038819,"806 Holiday Drive, Ardmore, OK 73401",73401,34.1872392,-97.1638789
+https://locations.tacobell.com/or/stayton/1855-shaff-rd.html,or,stayton,1855-shaff-rd,035183,"1855 Shaff Rd, Stayton, OR 97383",97383,44.809846,-122.8138314
+https://locations.tacobell.com/or/eugene/4550-w-11th.html,or,eugene,4550-w-11th,038737,"4550 W 11th, Eugene, OR 97402",97402,44.0459169,-123.1694192
+https://locations.tacobell.com/pa/mount-pocono/3196-route-940.html,pa,mount-pocono,3196-route-940,037836,"3196 Route 940, Mount Pocono, PA 18344",18344,41.1209089,-75.3752319
+https://locations.tacobell.com/pa/somerset/1530-north-center-ave.html,pa,somerset,1530-north-center-ave,037096,"1530 North Center Ave, Somerset, PA 15501",15501,40.0337059,-79.0751593
+https://locations.tacobell.com/pa/harleysville/211-main-street.html,pa,harleysville,211-main-street,036434,"211 Main Street, Harleysville, PA 19438",19438,40.2651649,-75.3712441
+https://locations.tacobell.com/or/milton-freewater/125-s--columbia-street.html,or,milton-freewater,125-s--columbia-street,038775,"125 S. Columbia Street, Milton Freewater, OR 97862",97862,45.9331467,-118.3878102
+https://locations.tacobell.com/pa/erie/2007-e-38th-street.html,pa,erie,2007-e-38th-street,037367,"2007 E 38th Street, Erie, PA 16510",16510,42.1177945,-80.0234996
+https://locations.tacobell.com/ok/anadarko/1133-w-petree-road.html,ok,anadarko,1133-w-petree-road,039138,"1133 W Petree Road, Anadarko, OK 73005",73005,35.0578371,-98.2478276
+https://locations.tacobell.com/ok/glenpool/15045-south-dogwood-street.html,ok,glenpool,15045-south-dogwood-street,039628,"15045 South Dogwood Street, Glenpool, OK 74033",15045,35.9621758,-96.0050146
+https://locations.tacobell.com/pa/leechburg/502-hyde-park-road.html,pa,leechburg,502-hyde-park-road,038840,"502 Hyde Park Road, Leechburg, PA 15656",15656,40.6064154,-79.6029583
+https://locations.tacobell.com/or/troutdale/1480-nw-frontage-road.html,or,troutdale,1480-nw-frontage-road,037177,"1480 NW Frontage Road, Troutdale, OR 97060",97060,45.5434123,-122.4012636
+https://locations.tacobell.com/pa/wilkes-barre/652-carey-ave-hanover-township.html,pa,wilkes-barre,652-carey-ave-hanover-township,039650,"652 Carey Ave Hanover Township, Wilkes Barre, PA 18706",18706,41.2344052,-75.9179775
+https://locations.tacobell.com/pa/mount-joy/1580-strickler-rd.html,pa,mount-joy,1580-strickler-rd,036256,"1580 Strickler Rd, Mount Joy, PA 17552",17552,40.1127425,-76.4518629
+https://locations.tacobell.com/ok/tecumseh/1001-n--broadway.html,ok,tecumseh,1001-n--broadway,040330,"1001 N. Broadway, Tecumseh, OK 74873",74873,35.2565945,-96.9366587
+https://locations.tacobell.com/pa/elizabethville/4634-state-route-209.html,pa,elizabethville,4634-state-route-209,038841,"4634 State Route 209, Elizabethville, PA 17023",17023,40.5481473,-76.8173636
+https://locations.tacobell.com/pa/lewistown/10406-us-hwy-522-south.html,pa,lewistown,10406-us-hwy-522-south,038858,"10406 US HWY 522 South, Lewistown, PA 17044",10406,40.5743214,-77.6311388
+https://locations.tacobell.com/ok/oklahoma-city/14000-north-rockwell-ave.html,ok,oklahoma-city,14000-north-rockwell-ave,039577,"14000 North Rockwell Ave, Oklahoma City, OK 73142",14000,35.6128194,-97.6384423
+https://locations.tacobell.com/or/monmouth/1537-monmouth-independence-highway.html,or,monmouth,1537-monmouth-independence-highway,039641,"1537 Monmouth Independence Highway, Monmouth, OR 97361",97361,44.8508449,-123.2171088
+https://locations.tacobell.com/pa/elizabethtown/825-south-market-st.html,pa,elizabethtown,825-south-market-st,037202,"825 South Market St, Elizabethtown, PA 17022",17022,40.1440299,-76.5973504
+https://locations.tacobell.com/ok/lawton/3720-sw-lee-blvd.html,ok,lawton,3720-sw-lee-blvd,038837,"3720 SW Lee Blvd, Lawton, OK 73505",73505,34.594529,-98.4391612
+https://locations.tacobell.com/pa/philadelphia/9990-roosevelt-blvd.html,pa,philadelphia,9990-roosevelt-blvd,005569,"9990 Roosevelt Blvd, Philadelphia, PA 19114",19114,40.0941162,-75.0163845
+https://locations.tacobell.com/or/woodburn/985-lawson-way.html,or,woodburn,985-lawson-way,003536,"985 Lawson Way, Woodburn, OR 97071",97071,45.1437473,-122.8380737
+https://locations.tacobell.com/ok/mustang/980-e--state-highway-152.html,ok,mustang,980-e--state-highway-152,030397,"980 E. State Highway 152, Mustang, OK 73064",73064,35.3912379,-97.704781
+https://locations.tacobell.com/pa/pittsburgh/85-blazier-drive.html,pa,pittsburgh,85-blazier-drive,J089008,"85 Blazier Drive, Pittsburgh, PA 15237",15237,40.5849337,-80.0371433
+https://locations.tacobell.com/or/hillsboro/977-sw-oak-st.html,or,hillsboro,977-sw-oak-st,002403,"977 SW Oak St, Hillsboro, OR 97123",97123,45.5189852,-123.0005465
+https://locations.tacobell.com/ok/yukon/975-s-cornwell-dr.html,ok,yukon,975-s-cornwell-dr,030384,"975 S Cornwell Dr, Yukon, OK 73099",73099,35.4974048,-97.7424277
+https://locations.tacobell.com/pa/huntingdon/9578-william-penn-hwy.html,pa,huntingdon,9578-william-penn-hwy,031753,"9578 William Penn Hwy, Huntingdon, PA 16652",16652,40.4799747,-78.0157526
+https://locations.tacobell.com/ok/oklahoma-city/936-w-sheridan.html,ok,oklahoma-city,936-w-sheridan,030386,"936 W Sheridan, Oklahoma City, OK 73106",73106,35.4662091,-97.5287453
+https://locations.tacobell.com/or/portland/9350-se-stark-street.html,or,portland,9350-se-stark-street,032936,"9350 SE Stark Street, Portland, OR 97216",97216,45.5187623,-122.5663789
+https://locations.tacobell.com/pa/north-wales/931-n-wales-rd.html,pa,north-wales,931-n-wales-rd,026921,"931 N Wales Rd, North Wales, PA 19454",19454,40.2425411,-75.2419978
+https://locations.tacobell.com/or/mcminnville/915-ne-highway-99w.html,or,mcminnville,915-ne-highway-99w,001531,"915 NE Highway 99W, McMinnville, OR 97128",97128,45.2305393,-123.1648362
+https://locations.tacobell.com/pa/saint-marys/911-south-saint-marys-street.html,pa,saint-marys,911-south-saint-marys-street,031739,"911 South Saint Mary's Street, Saint Marys, PA 15857",15857,41.4076901,-78.5601813
+https://locations.tacobell.com/ok/newcastle/909-nw-32nd-street.html,ok,newcastle,909-nw-32nd-street,G135472,"909 NW 32nd Street, Newcastle, OK 73065",73065,35.2915365,-97.6106015
+https://locations.tacobell.com/pa/richboro/909-2nd-street-pike.html,pa,richboro,909-2nd-street-pike,026064,"909 2nd Street Pike, Richboro, PA 18954",18954,40.2119014,-75.0103682
+https://locations.tacobell.com/ok/madill/901-south-1st-street.html,ok,madill,901-south-1st-street,034600,"901 South 1st Street, Madill, OK 73446",73446,34.082798,-96.767343
+https://locations.tacobell.com/ok/miami/901-n--main.html,ok,miami,901-n--main,022391,"901 N. Main, Miami, OK 74354",74354,36.8855526,-94.8773759
+https://locations.tacobell.com/pa/chambersburg/901-lincoln-wy-e.html,pa,chambersburg,901-lincoln-wy-e,040032,"901 Lincoln Wy E, Chambersburg, PA 17201",17201,39.9322301,-77.6445741
+https://locations.tacobell.com/ok/oklahoma-city/9000-ne-23rd-st.html,ok,oklahoma-city,9000-ne-23rd-st,030380,"9000 NE 23rd St, Oklahoma City, OK 73141",73141,35.492974,-97.370673
+https://locations.tacobell.com/pa/mercer/9-campbell-blvd.html,pa,mercer,9-campbell-blvd,030678,"9 Campbell Blvd, Mercer, PA 16137",16137,41.1426859,-80.1638991
+https://locations.tacobell.com/pa/ephrata/880-east-main-street.html,pa,ephrata,880-east-main-street,031408,"880 East Main Street, Ephrata, PA 17522",17522,40.1647963,-76.1555252
+https://locations.tacobell.com/pa/irwin/8775-norwin-ave-.html,pa,irwin,8775-norwin-ave-,040048,"8775 Norwin Ave., Irwin, PA 15642",15642,40.3198174,-79.6918569
+https://locations.tacobell.com/ri/warwick/877-bald-hill-rd.html,ri,warwick,877-bald-hill-rd,040858,"877 Bald Hill Rd, Warwick, RI 02886",02886,41.716209,-71.4871158
+https://locations.tacobell.com/or/beaverton/8715-sw-hall-blvd-.html,or,beaverton,8715-sw-hall-blvd-,032945,"8715 SW Hall Blvd., Beaverton, OR 97008",97008,45.4570087,-122.7830446
+https://locations.tacobell.com/ok/owasso/8551-n-owasso-expy.html,ok,owasso,8551-n-owasso-expy,017156,"8551 N Owasso Expy, Owasso, OK 74055",74055,36.2776603,-95.8471372
+https://locations.tacobell.com/or/canby/845-sw-1st-avenue.html,or,canby,845-sw-1st-avenue,018095,"845 SW 1st Avenue, Canby, OR 97013",97013,45.2578377,-122.7004544
+https://locations.tacobell.com/ok/oklahoma-city/8390-nw-expressway-st.html,ok,oklahoma-city,8390-nw-expressway-st,030383,"8390 NW Expressway St, Oklahoma City, OK 73162",73162,35.5681394,-97.6627613
+https://locations.tacobell.com/pa/clarion/83-perkins-rd.html,pa,clarion,83-perkins-rd,030672,"83 Perkins Rd, Clarion, PA 16214",16214,41.1896725,-79.3951959
+https://locations.tacobell.com/or/wilsonville/8251-sw-wilsonville-rd.html,or,wilsonville,8251-sw-wilsonville-rd,004958,"8251 SW Wilsonville Rd, Wilsonville, OR 97070",97070,45.3031906,-122.76305
+https://locations.tacobell.com/pa/pittsburgh/825-freeport-rd-.html,pa,pittsburgh,825-freeport-rd-,031620,"825 Freeport Rd., Pittsburgh, PA 15238",15238,40.4877875,-79.8969742
+https://locations.tacobell.com/pa/middletown/825-eisenhower-blvd.html,pa,middletown,825-eisenhower-blvd,040066,"825 Eisenhower Blvd, Middletown, PA 17057",17057,40.2185631,-76.7913558
+https://locations.tacobell.com/pa/dickson-city/823-commerce-blvd.html,pa,dickson-city,823-commerce-blvd,039104,"823 Commerce Blvd, Dickson City, PA 18519",18519,41.461494,-75.6486933
+https://locations.tacobell.com/ok/stillwater/821-n-perkins.html,ok,stillwater,821-n-perkins,026022,"821 N Perkins, Stillwater, OK 74075",74075,36.1314753,-97.0510072
+https://locations.tacobell.com/or/portland/8181-johnson-creek-blvd-se.html,or,portland,8181-johnson-creek-blvd-se,032942,"8181 Johnson Creek Blvd SE, Portland, OR 97206",97206,45.4573909,-122.5794712
+https://locations.tacobell.com/ok/tulsa/8109-e-74th-pl-.html,ok,tulsa,8109-e-74th-pl-,004134,"8109 E 74Th Pl., Tulsa, OK 74133",74133,36.0571329,-95.8855832
+https://locations.tacobell.com/pa/west-view/807-west-view-drive.html,pa,west-view,807-west-view-drive,032287,"807 West View Drive, West View, PA 15229",15229,40.5170282,-80.0322747
+https://locations.tacobell.com/pa/erie/8056-perry-highway.html,pa,erie,8056-perry-highway,031601,"8056 Perry Highway, Erie, PA 16509",16509,42.068028,-80.039063
+https://locations.tacobell.com/ok/bixby/7980-south-111th-street-south.html,ok,bixby,7980-south-111th-street-south,029715,"7980 South 111th Street South, Bixby, OK 74008",74008,36.0024212,-95.8881729
+https://locations.tacobell.com/pa/philadelphia/7855-oxford-ave.html,pa,philadelphia,7855-oxford-ave,031805,"7855 Oxford Ave, Philadelphia, PA 19111",19111,40.0732923,-75.084285
+https://locations.tacobell.com/ri/coventry/784-tiogue-ave.html,ri,coventry,784-tiogue-ave,040866,"784 Tiogue Ave, Coventry, RI 02816",02816,41.6815611,-71.5635296
+https://locations.tacobell.com/ok/tulsa/7804-e-admiral-place.html,ok,tulsa,7804-e-admiral-place,003233,"7804 E Admiral Place, Tulsa, OK 74115",74115,36.1607486,-95.929441
+https://locations.tacobell.com/or/portland/7710-sw-barbur-blvd.html,or,portland,7710-sw-barbur-blvd,031832,"7710 SW Barbur Blvd, Portland, OR 97219",97219,45.4687112,-122.6922087
+https://locations.tacobell.com/or/white-city/7511-crater-lake-hwy.html,or,white-city,7511-crater-lake-hwy,021401,"7511 Crater Lake Hwy, White City, OR 97503",97503,42.4257163,-122.8510013
+https://locations.tacobell.com/pa/upper-darby/7500-westchester-pike.html,pa,upper-darby,7500-westchester-pike,028555,"7500 Westchester Pike, Upper Darby, PA 19082",19082,39.9637774,-75.27092259999999
+https://locations.tacobell.com/or/portland/7415-ne-martin-luther-king-blvd.html,or,portland,7415-ne-martin-luther-king-blvd,003286,"7415 NE Martin Luther King Blvd, Portland, OR 97211",97211,45.576685,-122.6616752
+https://locations.tacobell.com/or/portland/725-ne-weidler-st-.html,or,portland,725-ne-weidler-st-,032937,"725 NE Weidler St., Portland, OR 97232",97232,45.5346146,-122.6579818
+https://locations.tacobell.com/ok/sapulpa/725-east-taft-avenue.html,ok,sapulpa,725-east-taft-avenue,016942,"725 East Taft Avenue, Sapulpa, OK 74066",74066,35.9884718,-96.1042856
+https://locations.tacobell.com/or/hillsboro/7235-ne-imbrie-drive.html,or,hillsboro,7235-ne-imbrie-drive,021416,"7235 NE Imbrie Drive, Hillsboro, OR 97124",97124,45.5500694,-122.9066078
+https://locations.tacobell.com/ok/oklahoma-city/7101-s-may.html,ok,oklahoma-city,7101-s-may,030378,"7101 S May, Oklahoma City, OK 73159",73159,35.394732,-97.566033
+https://locations.tacobell.com/pa/pittsburgh/705-allegheny-avenue.html,pa,pittsburgh,705-allegheny-avenue,040070,"705 Allegheny Avenue, Pittsburgh, PA 15233",15233,40.4512511,-80.0189213
+https://locations.tacobell.com/pa/cranberry/7047-us-322.html,pa,cranberry,7047-us-322,030979,"7047 US 322, Cranberry, PA 16319",16319,41.350918,-79.715437
+https://locations.tacobell.com/ok/oklahoma-city/7024-sw-3rd-st.html,ok,oklahoma-city,7024-sw-3rd-st,030395,"7024 SW 3rd St, Oklahoma City, OK 73128",73128,35.4625164,-97.6359197
+https://locations.tacobell.com/ok/broken-arrow/700-north-aspen.html,ok,broken-arrow,700-north-aspen,023193,"700 North Aspen, Broken Arrow, OK 74012",74012,36.057092,-95.8159008
+https://locations.tacobell.com/pa/erie/6935-peach-street.html,pa,erie,6935-peach-street,026120,"6935 Peach Street, Erie, PA 16509",16509,42.0557154,-80.0876172
+https://locations.tacobell.com/ok/oklahoma-city/6801-n-may-ave-.html,ok,oklahoma-city,6801-n-may-ave-,031461,"6801 N May Ave., Oklahoma City, OK 73116",73116,35.5402979,-97.5660888
+https://locations.tacobell.com/ok/lawton/6704-nw-cache-road.html,ok,lawton,6704-nw-cache-road,033274,"6704 NW Cache Road, Lawton, OK 73505",73505,34.6230172,-98.4754524
+https://locations.tacobell.com/or/eugene/669-west-7th-ave.html,or,eugene,669-west-7th-ave,000274,"669 West 7th Ave, Eugene, OR 97402",97402,44.0523436,-123.1031249
+https://locations.tacobell.com/pa/phoenixville/660-nutt-road.html,pa,phoenixville,660-nutt-road,032979,"660 Nutt Road, Phoenixville, PA 19460",19460,40.1315946,-75.5344032
+https://locations.tacobell.com/or/portland/6560-sw-beaverton.html,or,portland,6560-sw-beaverton,002622,"6560 SW Beaverton, Portland, OR 97225",97225,45.4733251,-122.7440842
+https://locations.tacobell.com/pa/lemoyne/655-n-12th-street.html,pa,lemoyne,655-n-12th-street,024415,"655 N 12th Street, Lemoyne, PA 17043",17043,40.2420834,-76.9084191
+https://locations.tacobell.com/pa/delmont/6549-state-route-22.html,pa,delmont,6549-state-route-22,030706,"6549 State Route 22, Delmont, PA 15626",15626,40.3988092,-79.5782243
+https://locations.tacobell.com/pa/mechanicsburg/6520-carlisle-pike.html,pa,mechanicsburg,6520-carlisle-pike,024412,"6520 Carlisle Pike, Mechanicsburg, PA 17055",17055,40.2468425,-77.025198
+https://locations.tacobell.com/pa/hamburg/65-industrial-drive.html,pa,hamburg,65-industrial-drive,023691,"65 Industrial Drive, Hamburg, PA 19526",19526,40.5613822,-76.0022782
+https://locations.tacobell.com/ri/middletown/641-w-main-rd.html,ri,middletown,641-w-main-rd,040867,"641 W Main Rd, Middletown, RI 02842",02842,41.5200693,-71.2990868
+https://locations.tacobell.com/or/hillsboro/6255-se-tuallatin-valley.html,or,hillsboro,6255-se-tuallatin-valley,032950,"6255 SE Tuallatin Valley, Hillsboro, OR 97123",97123,45.5000877,-122.9177263
+https://locations.tacobell.com/pa/greensburg/6217-route-30.html,pa,greensburg,6217-route-30,040046,"6217 Route 30, Greensburg, PA 15601",15601,40.30590249999999,-79.5921996
+https://locations.tacobell.com/ok/skiatook/620-w--rogers-blvd.html,ok,skiatook,620-w--rogers-blvd,030488,"620 W. Rogers Blvd, Skiatook, OK 74070",74070,36.368578,-96.0188974
+https://locations.tacobell.com/pa/mckees-rocks/6190-steubenville-pike.html,pa,mckees-rocks,6190-steubenville-pike,J089007,"6190 Steubenville Pike, McKees Rocks, PA 15136",15136,40.4455258,-80.1501632
+https://locations.tacobell.com/or/silverton/605-west-c-street.html,or,silverton,605-west-c-street,D947010,"605 West C Street, Silverton, OR 97381",97381,45.0070647,-122.790289
+https://locations.tacobell.com/or/seaside/601-south-roosevelt.html,or,seaside,601-south-roosevelt,042485,"601 South Roosevelt, Seaside, OR 97138",97138,45.9894218,-123.9215209
+https://locations.tacobell.com/ok/pryor/601-south-mill.html,ok,pryor,601-south-mill,016633,"601 South Mill, Pryor, OK 74361",74361,36.2919782,-95.3248002
+https://locations.tacobell.com/ok/moore/600-nw-12th-st.html,ok,moore,600-nw-12th-st,033288,"600 NW 12th St, Moore, OK 73160",73160,35.3485317,-97.4967044
+https://locations.tacobell.com/or/saint-helens/58761-s-columbia-river-hwy.html,or,saint-helens,58761-s-columbia-river-hwy,015521,"58761 S Columbia River Hwy, Saint Helens, OR 97051",58761,45.84820999999999,-122.8329745
+https://locations.tacobell.com/pa/philadelphia/5840-old-york-rd.html,pa,philadelphia,5840-old-york-rd,K071062,"5840 Old York Rd, Philadelphia, PA 19141",19141,40.0426762,-75.1446694
+https://locations.tacobell.com/pa/reading/5800-perkiomen-avenue.html,pa,reading,5800-perkiomen-avenue,042146,"5800 Perkiomen Avenue, Reading, PA 19606",19606,40.296232,-75.8405141
+https://locations.tacobell.com/or/salem/5795-commercial-st-se.html,or,salem,5795-commercial-st-se,023450,"5795 Commercial St SE, Salem, OR 97306",97306,44.8695565,-123.0230012
+https://locations.tacobell.com/ok/warr-acres/5704-nw-expressway.html,ok,warr-acres,5704-nw-expressway,031462,"5704 NW Expressway, Warr Acres, OK 73132",73132,35.5466515,-97.6136832
+https://locations.tacobell.com/pa/hummelstown/570-walton-avenue.html,pa,hummelstown,570-walton-avenue,040064,"570 Walton Avenue, Hummelstown, PA 17036",17036,40.2676692,-76.693367
+https://locations.tacobell.com/pa/hazleton/565-susquehanna-blvd.html,pa,hazleton,565-susquehanna-blvd,039057,"565 Susquehanna Blvd, Hazleton, PA 18202",18202,40.9811765,-76.0172714
+https://locations.tacobell.com/or/salem/565-lancaster-dr-se.html,or,salem,565-lancaster-dr-se,020674,"565 Lancaster Dr SE, Salem, OR 97301",97301,44.922275,-122.9831366
+https://locations.tacobell.com/pa/du-bois/5574-shaffer-rd-.html,pa,du-bois,5574-shaffer-rd-,032218,"5574 Shaffer Rd. Suite K, Du Bois, PA 15801",15801,41.1215787,-78.72907959999999
+https://locations.tacobell.com/ok/jenks/555-west-main-st.html,ok,jenks,555-west-main-st,020532,"555 West Main St, Jenks, OK 74037",74037,36.0228927,-95.975579
+https://locations.tacobell.com/or/bend/533-ne-bellevue-dr.html,or,bend,533-ne-bellevue-dr,019340,"533 NE Bellevue Dr, Bend, OR 97701",97701,44.0551887,-121.2627971
+https://locations.tacobell.com/or/klamath-falls/5327-south-6th-st.html,or,klamath-falls,5327-south-6th-st,026830,"5327 South 6th St, Klamath Falls, OR 97603",97603,42.2158913,-121.7661236
+https://locations.tacobell.com/pa/clifton-heights/5311-w--baltimore-avenue.html,pa,clifton-heights,5311-w--baltimore-avenue,K071095,"5311 W. Baltimore Avenue, Clifton Heights, PA 19018",19018,39.9268632,-75.3041445
+https://locations.tacobell.com/pa/altoona/516-w-plank-rd.html,pa,altoona,516-w-plank-rd,032214,"516 W Plank Rd Suite 1, Altoona, PA 16602",16602,40.473216,-78.40648829999999
+https://locations.tacobell.com/pa/east-stroudsburg/5124-milford-rd.html,pa,east-stroudsburg,5124-milford-rd,039548,"5124 Milford Rd, East Stroudsburg, PA 18302",18302,41.0548105,-75.0924658
+https://locations.tacobell.com/ok/mcalester/508-s-george-nigh-expy.html,ok,mcalester,508-s-george-nigh-expy,004461,"508 S George Nigh Expy, McAlester, OK 74501",74501,34.9170522,-95.7443913
+https://locations.tacobell.com/ok/henryetta/505-e-main.html,ok,henryetta,505-e-main,029450,"505 E Main, Henryetta, OK 74437",74437,35.4398798,-95.9696432
+https://locations.tacobell.com/ok/ada/500-n-mississippi.html,ok,ada,500-n-mississippi,004462,"500 N Mississippi, Ada, OK 74820",74820,34.7618989,-96.6699914
+https://locations.tacobell.com/pa/fairless-hills/500-commerce-blvd.html,pa,fairless-hills,500-commerce-blvd,019266,"500 Commerce Blvd, Fairless Hills, PA 19030",19030,40.1870562,-74.8598933
+https://locations.tacobell.com/pa/bala-cynwyd/5-w--city-avenue.html,pa,bala-cynwyd,5-w--city-avenue,027771,"5 W. City Avenue, Bala Cynwyd, PA 19004",19004,40.0010658,-75.2269423
+https://locations.tacobell.com/pa/philadelphia/499-franklin-mills-circle.html,pa,philadelphia,499-franklin-mills-circle,004092,"499 Franklin Mills Circle, Philadelphia, PA 19154",19154,40.0876283,-74.9652711
+https://locations.tacobell.com/or/portland/4933-se-powell-blvd.html,or,portland,4933-se-powell-blvd,032944,"4933 SE Powell Blvd, Portland, OR 97206",97206,45.4978872,-122.6116527
+https://locations.tacobell.com/or/portland/4909-n-lombard-st-.html,or,portland,4909-n-lombard-st-,032934,"4909 N Lombard St., Portland, OR 97203",97203,45.5810388,-122.719218
+https://locations.tacobell.com/pa/etters/49-robin-hood-drive.html,pa,etters,49-robin-hood-drive,D131001,"49 Robin Hood Drive, Etters, PA 17319",17319,40.1542273,-76.82087349999999
+https://locations.tacobell.com/or/portland/4852-nw-bethany-blvd.html,or,portland,4852-nw-bethany-blvd,031829,"4852 NW Bethany Blvd, Portland, OR 97229",97229,45.5555939,-122.835377
+https://locations.tacobell.com/ok/oklahoma-city/4839-nw-39th-street.html,ok,oklahoma-city,4839-nw-39th-street,031460,"4839 NW 39th Street, Oklahoma City, OK 73122",73122,35.5116056,-97.5790827
+https://locations.tacobell.com/ok/shawnee/4837-n--kickapoo.html,ok,shawnee,4837-n--kickapoo,030390,"4837 N. Kickapoo, Shawnee, OK 74804",74804,35.3811751,-96.929271
+https://locations.tacobell.com/pa/pittsburgh/4801-mcknight-road.html,pa,pittsburgh,4801-mcknight-road,026114,"4801 Mcknight Road, Pittsburgh, PA 15237",15237,40.5226822,-80.006533
+https://locations.tacobell.com/ok/tulsa/4710-s-peoria-ave.html,ok,tulsa,4710-s-peoria-ave,004945,"4710 S Peoria Ave, Tulsa, OK 74105",74105,36.095826,-95.9762136
+https://locations.tacobell.com/ok/tulsa/4703-e-51st-st.html,ok,tulsa,4703-e-51st-st,004132,"4703 E 51st St, Tulsa, OK 74135",74135,36.090286,-95.9246101
+https://locations.tacobell.com/ok/del-city/4700-se-29th-st-.html,ok,del-city,4700-se-29th-st-,033285,"4700 SE 29th St., Del City, OK 73115",73115,35.435155,-97.432296
+https://locations.tacobell.com/or/keizer/4690-river-road-n.html,or,keizer,4690-river-road-n,004897,"4690 River Road N, Keizer, OR 97303",97303,44.9917811,-123.0260648
+https://locations.tacobell.com/pa/harrisburg/4640-jonestown-road.html,pa,harrisburg,4640-jonestown-road,024413,"4640 Jonestown Road, Harrisburg, PA 17109",17109,40.3027311,-76.8125321
+https://locations.tacobell.com/pa/sayre/462-n--keystone-avenue.html,pa,sayre,462-n--keystone-avenue,J137001,"462 N. Keystone Avenue, Sayre, PA 18840",18840,41.99492,-76.5294226
+https://locations.tacobell.com/or/portland/4616-n-interstate-ave.html,or,portland,4616-n-interstate-ave,020020,"4616 N Interstate Ave, Portland, OR 97217",97217,45.5564846,-122.68182
+https://locations.tacobell.com/pa/washington/460-washington-road.html,pa,washington,460-washington-road,032042,"460 Washington Road, Washington, PA 15301",15301,40.1876378,-80.2172516
+https://locations.tacobell.com/or/salem/450-wallace-rd-nw.html,or,salem,450-wallace-rd-nw,009507,"450 Wallace Rd NW, Salem, OR 97304",97304,44.946203,-123.049243
+https://locations.tacobell.com/pa/shrewsbury/450-shrewsbury-commons.html,pa,shrewsbury,450-shrewsbury-commons,040077,"450 Shrewsbury Commons, Shrewsbury, PA 17361",17361,39.7704693,-76.6720356
+https://locations.tacobell.com/or/medford/448-e-jackson-st-.html,or,medford,448-e-jackson-st-,028001,"448 E Jackson St., Medford, OR 97501",97501,42.3307408,-122.8717572
+https://locations.tacobell.com/or/forest-grove/4455-pacific-avenue.html,or,forest-grove,4455-pacific-avenue,024308,"4455 Pacific Avenue, Forest Grove, OR 97116",97116,45.5204078,-123.070987
+https://locations.tacobell.com/pa/philadelphia/4430-north-broad-st.html,pa,philadelphia,4430-north-broad-st,032374,"4430 North Broad St, Philadelphia, PA 19144",19144,40.0210923,-75.1485493
+https://locations.tacobell.com/or/madras/44-sw-5th-st.html,or,madras,44-sw-5th-st,038828,"44 SW 5th St, Madras, OR 97741",97741,44.6345226,-121.1295751
+https://locations.tacobell.com/pa/erie/4305-peach-street.html,pa,erie,4305-peach-street,026109,"4305 Peach Street, Erie, PA 16509",16509,42.0898172,-80.0852368
+https://locations.tacobell.com/pa/warminster/430-york-rd-.html,pa,warminster,430-york-rd-,032064,"430 York Rd., Warminster, PA 18974",18974,40.2025067,-75.1014079
+https://locations.tacobell.com/pa/hermitage/430-s-hermitage-rd.html,pa,hermitage,430-s-hermitage-rd,035365,"430 S Hermitage Rd, Hermitage, PA 16148",16148,41.2277565,-80.4513985
+https://locations.tacobell.com/pa/johnstown/430-galleria-drive.html,pa,johnstown,430-galleria-drive,032216,"430 Galleria Drive, Johnstown, PA 15904",15904,40.2944975,-78.8371473
+https://locations.tacobell.com/or/eugene/4295-barger-dr.html,or,eugene,4295-barger-dr,021241,"4295 Barger Dr, Eugene, OR 97402",97402,44.0848953,-123.1699373
+https://locations.tacobell.com/or/gresham/4265-se-182nd-ave.html,or,gresham,4265-se-182nd-ave,015317,"4265 SE 182nd Ave, Gresham, OR 97030",97030,45.4915891,-122.4756834
+https://locations.tacobell.com/pa/wilkes-barre/426-kidder-street.html,pa,wilkes-barre,426-kidder-street,039062,"426 Kidder Street, Wilkes Barre, PA 18702",18702,41.2506953,-75.8546092
+https://locations.tacobell.com/pa/erie/4225-buffalo-road.html,pa,erie,4225-buffalo-road,026122,"4225 Buffalo Road, Erie, PA 16510",16510,42.1444745,-80.0053956
+https://locations.tacobell.com/ri/greenville/421-putnam-pike.html,ri,greenville,421-putnam-pike,E685061,"421 Putnam Pike, Greenville, RI 02828",02828,41.8706252,-71.5273339
+https://locations.tacobell.com/or/springfield/4198-main-st.html,or,springfield,4198-main-st,032564,"4198 Main St, Springfield, OR 97478",97478,44.0460435,-122.9637777
+https://locations.tacobell.com/ok/enid/402-south-van-buren.html,ok,enid,402-south-van-buren,028019,"402 South Van Buren, Enid, OK 73701",73701,36.3932648,-97.890228
+https://locations.tacobell.com/pa/reading/402-madison-ave-.html,pa,reading,402-madison-ave-,029785,"402 Madison Ave., Reading, PA 19605",19605,40.3741385,-75.9273885
+https://locations.tacobell.com/pa/carlisle/401-east-high-street.html,pa,carlisle,401-east-high-street,024420,"401 East High Street, Carlisle, PA 17013",17013,40.2011095,-77.180491
+https://locations.tacobell.com/pa/saint-clair/400-terry-rich-blvd.html,pa,saint-clair,400-terry-rich-blvd,030494,"400 Terry Rich Blvd, Saint Clair, PA 17970",17970,40.7284774,-76.1933668
+https://locations.tacobell.com/pa/blairsville/40-corporate-campus-dr.html,pa,blairsville,40-corporate-campus-dr,040073,"40 Corporate Campus Dr, Blairsville, PA 15717",15717,40.4443671,-79.2290548
+https://locations.tacobell.com/pa/monaca/3948-brodhead-rd.html,pa,monaca,3948-brodhead-rd,031617,"3948 Brodhead Rd, Monaca, PA 15061",15061,40.6803484,-80.3024369
+https://locations.tacobell.com/pa/uniontown/394-mcclellandtown-rd-.html,pa,uniontown,394-mcclellandtown-rd-,040042,"394 McClellandtown Rd., Uniontown, PA 15401",15401,39.9027178,-79.7573909
+https://locations.tacobell.com/or/lincoln-city/3820-ne-highway-101.html,or,lincoln-city,3820-ne-highway-101,029729,"3820 NE Highway 101, Lincoln City, OR 97367",97367,44.9782721,-124.0109156
+https://locations.tacobell.com/or/portland/3908-se-82nd-ave.html,or,portland,3908-se-82nd-ave,032941,"3908 SE 82nd Ave, Portland, OR 97266",97266,45.493697,-122.5783474
+https://locations.tacobell.com/pa/mcmurray/3887-washington-road.html,pa,mcmurray,3887-washington-road,031622,"3887 Washington Road, McMurray, PA 15317",15317,40.295818,-80.0990841
+https://locations.tacobell.com/ok/bartlesville/3875-se-green-country-rd.html,ok,bartlesville,3875-se-green-country-rd,026911,"3875 SE Green Country Rd, Bartlesville, OK 74006",74006,36.7397909,-95.9344922
+https://locations.tacobell.com/or/ontario/382-e-idaho-ave.html,or,ontario,382-e-idaho-ave,004402,"382 E Idaho Ave, Ontario, OR 97914",97914,44.0251907,-116.9566387
+https://locations.tacobell.com/or/sandy/37317-highway-26.html,or,sandy,37317-highway-26,002769,"37317 Highway 26, Sandy, OR 97055",37317,45.4009146,-122.2792936
+https://locations.tacobell.com/pa/philadelphia/3619-aramingo-avenue.html,pa,philadelphia,3619-aramingo-avenue,024243,"3619 Aramingo Avenue, Philadelphia, PA 19134",19134,39.9935957,-75.095738
+https://locations.tacobell.com/pa/east-freedom/310-travelers-road.html,pa,east-freedom,310-travelers-road,033404,"310 Travelers Road, East Freedom, PA 16637",16637,40.3672862,-78.4303333
+https://locations.tacobell.com/or/brookings/350-5th-street.html,or,brookings,350-5th-street,F122001,"350 5th Street, Brookings, OR 97415",97415,42.0538754,-124.2880556
+https://locations.tacobell.com/or/salem/3455-commercial-st-se.html,or,salem,3455-commercial-st-se,004036,"3455 Commercial St SE, Salem, OR 97302",97302,44.9055439,-123.0430165
+https://locations.tacobell.com/or/beaverton/3420-sw-cedar-hills-blvd.html,or,beaverton,3420-sw-cedar-hills-blvd,002253,"3420 SW Cedar Hills Blvd, Beaverton, OR 97005",97005,45.4949264,-122.8092227
+https://locations.tacobell.com/or/newberg/3420-portland-road.html,or,newberg,3420-portland-road,015653,"3420 Portland Road, Newberg, OR 97132",97132,45.3073358,-122.9427085
+https://locations.tacobell.com/pa/allentown/3380-lehigh-street.html,pa,allentown,3380-lehigh-street,003728,"3380 Lehigh Street, Allentown, PA 18103",18103,40.5622574,-75.4859579
+https://locations.tacobell.com/pa/lewisburg/33-north-derr-drive.html,pa,lewisburg,33-north-derr-drive,G050001,"33 North Derr Drive, Lewisburg, PA 17837",17837,40.9708258,-76.8925255
+https://locations.tacobell.com/or/springfield/3220-gateway-st.html,or,springfield,3220-gateway-st,004300,"3220 Gateway St, Springfield, OR 97477",97477,44.0801338,-123.0422224
+https://locations.tacobell.com/ok/broken-arrow/3202-s-juniper-ave.html,ok,broken-arrow,3202-s-juniper-ave,020864,"3202 S Juniper Ave, Broken Arrow, OK 74012",74012,36.0178299,-95.8023994
+https://locations.tacobell.com/pa/corry/322-w--columbus-ave.html,pa,corry,322-w--columbus-ave,029905,"322 W. Columbus Ave, Corry, PA 16407",16407,41.9348874,-79.6561878
+https://locations.tacobell.com/pa/pittston/320-highway-315.html,pa,pittston,320-highway-315,039103,"320 Highway 315, Pittston, PA 18640",18640,41.3136565,-75.7573823
+https://locations.tacobell.com/ok/tulsa/3118-e-11th-street.html,ok,tulsa,3118-e-11th-street,000864,"3118 E 11th Street, Tulsa, OK 74104",74104,36.147552,-95.9441725
+https://locations.tacobell.com/ok/sand-springs/305-w--2nd-street-.html,ok,sand-springs,305-w--2nd-street-,022168,"305 W. 2nd Street., Sand Springs, OK 74063",74063,36.1387357,-96.1150734
+https://locations.tacobell.com/ok/norman/3020-s--classen-blvd-.html,ok,norman,3020-s--classen-blvd-,033292,"3020 S. Classen Blvd., Norman, OK 73071",73071,35.2055305,-97.4328664
+https://locations.tacobell.com/or/grants-pass/301-ne-terry-ln.html,or,grants-pass,301-ne-terry-ln,028002,"301 NE Terry Ln, Grants Pass, OR 97526",97526,42.4391364,-123.3027434
+https://locations.tacobell.com/ok/midwest-city/300-s-air-depot-ave-.html,ok,midwest-city,300-s-air-depot-ave-,033279,"300 S Air Depot Ave., Midwest City, OK 73110",73110,35.4618232,-97.40583180000002
+https://locations.tacobell.com/pa/shippensburg/3-airport-road.html,pa,shippensburg,3-airport-road,H730250,"3 Airport Road, Shippensburg, PA 17257",17257,40.0585838,-77.4971506
+https://locations.tacobell.com/ok/midwest-city/2913-so-douglas-blvd.html,ok,midwest-city,2913-so-douglas-blvd,033283,"2913 So Douglas Blvd, Midwest City, OK 73130",73130,35.4364848,-97.3712492
+https://locations.tacobell.com/pa/erie/2909-w-12th-street.html,pa,erie,2909-w-12th-street,026110,"2909 W 12th Street, Erie, PA 16505",16505,42.0993092,-80.1457512
+https://locations.tacobell.com/or/eugene/2890-west-11th-ave.html,or,eugene,2890-west-11th-ave,005775,"2890 West 11th Ave, Eugene, OR 97402",97402,44.0475752,-123.1349773
+https://locations.tacobell.com/ok/oklahoma-city/2850-nw-23rd-street.html,ok,oklahoma-city,2850-nw-23rd-street,030391,"2850 NW 23rd Street, Oklahoma City, OK 73107",73107,35.4928485,-97.5649298
+https://locations.tacobell.com/or/eugene/2805-chad-dr.html,or,eugene,2805-chad-dr,017560,"2805 Chad Dr, Eugene, OR 97408",97408,44.0903841,-123.0673454
+https://locations.tacobell.com/pa/mckeesport/2802-jacks-run-rd.html,pa,mckeesport,2802-jacks-run-rd,040050,"2802 Jacks Run Rd, McKeesport, PA 15131",15131,40.3376778,-79.8070344
+https://locations.tacobell.com/pa/warren/2735-market-street.html,pa,warren,2735-market-street,029986,"2735 Market Street, Warren, PA 16365",16365,41.8796367,-79.1521646
+https://locations.tacobell.com/pa/norristown/2722-de-kalb-pike.html,pa,norristown,2722-de-kalb-pike,004225,"2722 De Kalb Pike, Norristown, PA 19401",19401,40.1397352,-75.3138529
+https://locations.tacobell.com/or/cottage-grove/2710-row-river-rd.html,or,cottage-grove,2710-row-river-rd,019307,"2710 Row River Rd, Cottage Grove, OR 97424",97424,43.7992524,-123.0382735
+https://locations.tacobell.com/pa/feasterville/265-east-street-road.html,pa,feasterville,265-east-street-road,036719,"265 East Street Road, Feasterville, PA 19053",19053,40.1468716,-74.996705
+https://locations.tacobell.com/or/hood-river/2649-cascade-avenue.html,or,hood-river,2649-cascade-avenue,017510,"2649 Cascade Avenue, Hood River, OR 97031",97031,45.710174,-121.5381767
+https://locations.tacobell.com/or/keizer/2635-jorie-lane-ne.html,or,keizer,2635-jorie-lane-ne,030306,"2635 Jorie Lane NE, Keizer, OR 97303",97303,45.006761,-122.9998179
+https://locations.tacobell.com/pa/new-castle/2613-ellwood-road.html,pa,new-castle,2613-ellwood-road,031618,"2613 Ellwood Road, New Castle, PA 16101",16101,40.9702965,-80.313427
+https://locations.tacobell.com/ok/oklahoma-city/2608-s-i-35-service-rd.html,ok,oklahoma-city,2608-s-i-35-service-rd,030381,"2608 S I-35 Service Rd, Oklahoma City, OK 73129",73129,35.4388197,-97.4867466
+https://locations.tacobell.com/ok/edmond/26-east-33rd-street.html,ok,edmond,26-east-33rd-street,033286,"26 East 33rd Street, Edmond, OK 73013",73013,35.6231399,-97.483778
+https://locations.tacobell.com/pa/bethlehem/2585-easton-avenue.html,pa,bethlehem,2585-easton-avenue,032207,"2585 Easton Avenue ROF #024421, Bethlehem, PA 18017",02442,40.6447211,-75.34653109999999
+https://locations.tacobell.com/ri/warwick/2574-west-shore-road.html,ri,warwick,2574-west-shore-road,040877,"2574 West Shore Road, Warwick, RI 02889",02889,41.7050017,-71.4146197
+https://locations.tacobell.com/or/troutdale/25123-se-stark-st-.html,or,troutdale,25123-se-stark-st-,022498,"25123 SE Stark St., Troutdale, OR 97060",25123,45.5193252,-122.4042418
+https://locations.tacobell.com/pa/greenville/25-williamson-rd.html,pa,greenville,25-williamson-rd,029475,"25 Williamson Rd, Greenville, PA 16125",16125,41.4101337,-80.356906
+https://locations.tacobell.com/or/medford/2490-crater-lake-highway.html,or,medford,2490-crater-lake-highway,028004,"2490 Crater Lake Highway, Medford, OR 97504",97504,42.3536037,-122.8702923
+https://locations.tacobell.com/pa/breinigsville/248-north-pa-route-100.html,pa,breinigsville,248-north-pa-route-100,024422,"248 North PA Route 100, Breinigsville, PA 18031",18031,40.5763966,-75.6221975
+https://locations.tacobell.com/or/florence/2460-highway-101.html,or,florence,2460-highway-101,016803,"2460 Highway 101, Florence, OR 97439",97439,43.9882513,-124.1009636
+https://locations.tacobell.com/pa/bloomsburg/2445-columbia-blvd.html,pa,bloomsburg,2445-columbia-blvd,039073,"2445 Columbia Blvd, Bloomsburg, PA 17815",17815,41.0118391,-76.4126075
+https://locations.tacobell.com/pa/new-kensington/2435-freeport-rd.html,pa,new-kensington,2435-freeport-rd,031619,"2435 Freeport Rd, New Kensington, PA 15068",15068,40.5860666,-79.7549289
+https://locations.tacobell.com/ok/purcell/2425-state-hwy-74.html,ok,purcell,2425-state-hwy-74,027719,"2425 State Hwy 74, Purcell, OK 73080",73080,34.9818635,-97.3747851
+https://locations.tacobell.com/ok/lawton/2425-nw-cache-rd.html,ok,lawton,2425-nw-cache-rd,033273,"2425 NW Cache Rd, Lawton, OK 73505",73505,34.6237981,-98.4291297
+https://locations.tacobell.com/pa/philadelphia/2422-w-passyunk-avenue.html,pa,philadelphia,2422-w-passyunk-avenue,042187,"2422 W Passyunk Avenue, Philadelphia, PA 19145",19145,39.9220944,-75.1876981
+https://locations.tacobell.com/pa/easton/2420-northampton-st.html,pa,easton,2420-northampton-st,024417,"2420 Northampton St, Easton, PA 18042",18042,40.6871583,-75.249459
+https://locations.tacobell.com/ok/el-reno/2417-s--country-club-drive.html,ok,el-reno,2417-s--country-club-drive,030388,"2417 S. Country Club Drive, El Reno, OK 73036",73036,35.5116596,-97.9723142
+https://locations.tacobell.com/or/newport/2415-n--coast-highway.html,or,newport,2415-n--coast-highway,021357,"2415 N. Coast Highway, Newport, OR 97365",97365,44.6542178,-124.0534367
+https://locations.tacobell.com/ok/woodward/2411-oklahoma-ave.html,ok,woodward,2411-oklahoma-ave,K025002,"2411 Oklahoma Ave, Woodward, OK 73801",73801,36.433259,-99.4111057
+https://locations.tacobell.com/pa/york/2411-e-market-st.html,pa,york,2411-e-market-st,024414,"2411 E Market St, York, PA 17402",17402,39.9741881,-76.6797376
+https://locations.tacobell.com/pa/new-castle/2407-wilmington-road.html,pa,new-castle,2407-wilmington-road,J089014,"2407 Wilmington Road, New Castle, PA 16105",16105,41.0256938,-80.354272
+https://locations.tacobell.com/ok/muskogee/2402-e-shawnee.html,ok,muskogee,2402-e-shawnee,026912,"2402 E Shawnee, Muskogee, OK 74403",74403,35.7719963,-95.3400994
+https://locations.tacobell.com/pa/pittsburgh/2343-noblestown-rd-.html,pa,pittsburgh,2343-noblestown-rd-,026116,"2343 Noblestown Rd., Pittsburgh, PA 15205",15205,40.4271674,-80.0550248
+https://locations.tacobell.com/or/medford/2323-w--main-street.html,or,medford,2323-w--main-street,028005,"2323 W. Main Street, Medford, OR 97501",97501,42.3234096,-122.9005013
+https://locations.tacobell.com/pa/forest-hills/2300-ardmore-blvd.html,pa,forest-hills,2300-ardmore-blvd,040045,"2300 Ardmore Blvd, Forest Hills, PA 15221",15221,40.417175,-79.848591
+https://locations.tacobell.com/or/ashland/2290-ashland-street.html,or,ashland,2290-ashland-street,001683,"2290 Ashland Street, Ashland, OR 97520",97520,42.1852799,-122.6718693
+https://locations.tacobell.com/or/portland/2247-ne-82nd-ave.html,or,portland,2247-ne-82nd-ave,025988,"2247 NE 82nd Ave, Portland, OR 97220",97220,45.5385715,-122.5792124
+https://locations.tacobell.com/or/corvallis/2235-nw-9th-street.html,or,corvallis,2235-nw-9th-street,003622,"2235 NW 9th Street, Corvallis, OR 97330",97330,44.590746,-123.2532405
+https://locations.tacobell.com/ok/seminole/2225-n-milt-phillips-ave.html,ok,seminole,2225-n-milt-phillips-ave,033499,"2225 N Milt Phillips Ave, Seminole, OK 74868",74868,35.2432665,-96.6712896
+https://locations.tacobell.com/ok/edmond/2200-west-edmond-road.html,ok,edmond,2200-west-edmond-road,033282,"2200 West Edmond Road, Edmond, OK 73003",73003,35.6526035,-97.5126543
+https://locations.tacobell.com/pa/belle-vernon/220-tri-county-lane.html,pa,belle-vernon,220-tri-county-lane,028777,"220 Tri County Lane, Belle Vernon, PA 15012",15012,40.1367901,-79.8420603
+https://locations.tacobell.com/ok/oklahoma-city/220-nw-23rd-st.html,ok,oklahoma-city,220-nw-23rd-st,030377,"220 NW 23rd St, Oklahoma City, OK 73103",73103,35.4929834,-97.5166259
+https://locations.tacobell.com/pa/york/2189-white-st.html,pa,york,2189-white-st,024409,"2189 White St, York, PA 17404",17404,39.9634898,-76.7693002
+https://locations.tacobell.com/or/eugene/215-division-avenue.html,or,eugene,215-division-avenue,016302,"215 Division Avenue, Eugene, OR 97404",97404,44.0986774,-123.1238814
+https://locations.tacobell.com/ok/norman/2125-w-lindsey-st-.html,ok,norman,2125-w-lindsey-st-,033281,"2125 W Lindsey St., Norman, OK 73069",73069,35.2043483,-97.4736774
+https://locations.tacobell.com/ok/oklahoma-city/2116-sw-59th.html,ok,oklahoma-city,2116-sw-59th,030382,"2116 SW 59th, Oklahoma City, OK 73119",73119,35.40613,-97.5485473
+https://locations.tacobell.com/pa/whitehall/2113-mac-arthur-road.html,pa,whitehall,2113-mac-arthur-road,015885,"2113 Mac Arthur Road, Whitehall, PA 18052",18052,40.6357073,-75.4871081
+https://locations.tacobell.com/ok/roland/211-west-rayfine-blvd-.html,ok,roland,211-west-rayfine-blvd-,025721,"211 West Rayfine Blvd., Roland, OK 74954",74954,35.40567410000001,-94.51762280000001
+https://locations.tacobell.com/pa/lebanon/2100-cumberland-street.html,pa,lebanon,2100-cumberland-street,040067,"2100 Cumberland Street, Lebanon, PA 17042",17042,40.3385558,-76.4484572
+https://locations.tacobell.com/or/salem/2093-lancaster-dr-ne.html,or,salem,2093-lancaster-dr-ne,009409,"2093 Lancaster Dr NE, Salem, OR 97305",97305,44.9548087,-122.9841389
+https://locations.tacobell.com/pa/edinboro/208-plum-street.html,pa,edinboro,208-plum-street,026119,"208 Plum Street, Edinboro, PA 16412",16412,41.8762723,-80.133806
+https://locations.tacobell.com/or/portland/2079-w-burnside-street.html,or,portland,2079-w-burnside-street,019886,"2079 W Burnside Street, Portland, OR 97209",97209,45.5234186,-122.6940584
+https://locations.tacobell.com/ok/durant/206-westside-dr.html,ok,durant,206-westside-dr,004377,"206 Westside Dr, Durant, OK 74701",74701,33.9996154,-96.4058962
+https://locations.tacobell.com/pa/york/2054-s-queen-st.html,pa,york,2054-s-queen-st,024416,"2054 S Queen St, York, PA 17403",17403,39.9379131,-76.6941615
+https://locations.tacobell.com/pa/west-mifflin/2050-lebanon-church-rd.html,pa,west-mifflin,2050-lebanon-church-rd,026113,"2050 Lebanon Church Rd, West Mifflin, PA 15122",15122,40.3479408,-79.947797
+https://locations.tacobell.com/or/gresham/205-ne-burnside-rd.html,or,gresham,205-ne-burnside-rd,032933,"205 NE Burnside Rd, Gresham, OR 97030",97030,45.5086476,-122.4289081
+https://locations.tacobell.com/or/prineville/2042-ne-3rd-st.html,or,prineville,2042-ne-3rd-st,038829,"2042 NE 3rd St, Prineville, OR 97754",97754,44.3024945,-120.8215971
+https://locations.tacobell.com/pa/lancaster/2040-lincoln-hwy-east.html,pa,lancaster,2040-lincoln-hwy-east,040065,"2040 Lincoln Hwy East, Lancaster, PA 17602",17602,40.0320668,-76.242005
+https://locations.tacobell.com/ok/okmulgee/2006-south-wood-drive.html,ok,okmulgee,2006-south-wood-drive,018232,"2006 South Wood Drive, Okmulgee, OK 74447",74447,35.6070542,-95.961925
+https://locations.tacobell.com/or/pendleton/2001-sw-court-place.html,or,pendleton,2001-sw-court-place,019531,"2001 SW Court Place, Pendleton, OR 97801",97801,45.6670158,-118.8067706
+https://locations.tacobell.com/or/dallas/200-w--ellendale-ave-.html,or,dallas,200-w--ellendale-ave-,027542,"200 W. Ellendale Ave., Dallas, OR 97338",97338,44.9293419,-123.315767
+https://locations.tacobell.com/or/albany/200-airport-rd-se.html,or,albany,200-airport-rd-se,032587,"200 Airport Rd SE, Albany, OR 97322",97322,44.6411803,-123.0655434
+https://locations.tacobell.com/ok/lawton/2-sw-sheridan-rd.html,ok,lawton,2-sw-sheridan-rd,033272,"2 SW Sheridan Rd, Lawton, OK 73505",73505,34.6084615,-98.4217665
+https://locations.tacobell.com/ri/north-smithfield/2-dowling-village-blvd-.html,ri,north-smithfield,2-dowling-village-blvd-,040874,"2 Dowling Village Blvd., North Smithfield, RI 02896",02896,41.9743576,-71.5096715
+https://locations.tacobell.com/pa/hermitage/1990-east-state-st.html,pa,hermitage,1990-east-state-st,035360,"1990 East State St, Hermitage, PA 16148",16148,41.2329534,-80.4727565
+https://locations.tacobell.com/or/gladstone/19795-mcloughlin-blvd.html,or,gladstone,19795-mcloughlin-blvd,032951,"19795 McLoughlin Blvd, Gladstone, OR 97027",19795,45.3774898,-122.6030395
+https://locations.tacobell.com/or/portland/1946-ne-122nd-ave.html,or,portland,1946-ne-122nd-ave,032949,"1946 NE 122nd Ave, Portland, OR 97230",97230,45.536909,-122.5372498
+https://locations.tacobell.com/or/tualatin/19305-s-w--martinazzi-ave-.html,or,tualatin,19305-s-w--martinazzi-ave-,003163,"19305 S.W. Martinazzi Ave., Tualatin, OR 97062",19305,45.380879,-122.7596756
+https://locations.tacobell.com/or/aloha/19275-sw-tualatin-valley-hwy.html,or,aloha,19275-sw-tualatin-valley-hwy,032940,"19275 SW Tualatin Valley Hwy, Aloha, OR 97006",19275,45.4950794,-122.8755177
+https://locations.tacobell.com/ok/guthrie/1916-s--division.html,ok,guthrie,1916-s--division,033500,"1916 S. Division, Guthrie, OK 73044",73044,35.8585977,-97.4248472
+https://locations.tacobell.com/ok/poteau/1905-north-broadway-street.html,ok,poteau,1905-north-broadway-street,030887,"1905 North Broadway Street, Poteau, OK 74953",74953,35.0622723,-94.6203687
+https://locations.tacobell.com/or/oregon-city/19005-s-bevercreek-rd.html,or,oregon-city,19005-s-bevercreek-rd,032939,"19005 S Bevercreek Rd, Oregon City, OR 97045",19005,45.331768,-122.5744283
+https://locations.tacobell.com/or/grants-pass/1881-ne-6th-street.html,or,grants-pass,1881-ne-6th-street,019978,"1881 NE 6th Street, Grants Pass, OR 97526",97526,42.4601287,-123.3222498
+https://locations.tacobell.com/or/portland/18510-se-stark-st-.html,or,portland,18510-se-stark-st-,032932,"18510 SE Stark St., Portland, OR 97233",18510,45.5188945,-122.4723276
+https://locations.tacobell.com/pa/levittown/185-levittown-parkway-.html,pa,levittown,185-levittown-parkway-,022273,"185 Levittown Parkway., Levittown, PA 19055",19055,40.1437612,-74.8207179
+https://locations.tacobell.com/pa/williamsport/1837-east-third-street.html,pa,williamsport,1837-east-third-street,039086,"1837 East Third Street, Williamsport, PA 17701",17701,41.2495628,-76.9663546
+https://locations.tacobell.com/or/albany/1835-pacific-blvd-sw.html,or,albany,1835-pacific-blvd-sw,032565,"1835 Pacific Blvd SW, Albany, OR 97321",97321,44.6226859,-123.1097259
+https://locations.tacobell.com/ok/tulsa/1810-s-garnett-rd.html,ok,tulsa,1810-s-garnett-rd,017975,"1810 S Garnett Rd, Tulsa, OK 74128",74128,36.1358601,-95.8516379
+https://locations.tacobell.com/or/roseburg/180-ne-garden-valley-blvd.html,or,roseburg,180-ne-garden-valley-blvd,030293,"180 NE Garden Valley Blvd, Roseburg, OR 97470",97470,43.2269604,-123.3534995
+https://locations.tacobell.com/or/tigard/17873-sw-mcewan-road.html,or,tigard,17873-sw-mcewan-road,003187,"17873 SW McEwan Road, Tigard, OR 97224",17873,45.3960189,-122.7442373
+https://locations.tacobell.com/ok/chickasha/1782-s-4th-st.html,ok,chickasha,1782-s-4th-st,030387,"1782 S 4th St, Chickasha, OK 73018",73018,35.0321409,-97.9353961
+https://locations.tacobell.com/ok/moore/1735-s-broadway.html,ok,moore,1735-s-broadway,030379,"1735 S Broadway, Moore, OK 73160",73160,35.3235893,-97.4867173
+https://locations.tacobell.com/ok/edmond/1709-e--2nd-st-.html,ok,edmond,1709-e--2nd-st-,033280,"1709 E. 2nd St., Edmond, OK 73034",73034,35.6531303,-97.4576275
+https://locations.tacobell.com/ok/altus/1701-n--main-st-.html,ok,altus,1701-n--main-st-,031459,"1701 N. Main St., Altus, OK 73521",73521,34.6560071,-99.3345655
+https://locations.tacobell.com/pa/lansdale/1700-n--broad-st-.html,pa,lansdale,1700-n--broad-st-,002060,"1700 N. Broad St., Lansdale, PA 19446",19446,40.2482614,-75.277101
+https://locations.tacobell.com/pa/brodheadsville/1693-rt-209.html,pa,brodheadsville,1693-rt-209,J137003,"1693 Rt 209, Brodheadsville, PA 18322",18322,40.92253530000001,-75.4008976
+https://locations.tacobell.com/pa/pittsburgh/1690-cochran-rd.html,pa,pittsburgh,1690-cochran-rd,026115,"1690 Cochran Rd, Pittsburgh, PA 15220",15220,40.3930649,-80.0628292
+https://locations.tacobell.com/or/hermiston/1677-n-1st-street.html,or,hermiston,1677-n-1st-street,019722,"1677 N 1st Street, Hermiston, OR 97838",97838,45.8450475,-119.2902166
+https://locations.tacobell.com/or/grants-pass/1670-allen-creek-rd.html,or,grants-pass,1670-allen-creek-rd,031662,"1670 Allen Creek Rd, Grants Pass, OR 97527",97527,42.4202772,-123.351888
+https://locations.tacobell.com/or/la-pine/16490-1st-st.html,or,la-pine,16490-1st-st,038827,"16490 1st St, La Pine, OR 97739",16490,43.6745494,-121.5045642
+https://locations.tacobell.com/or/milwaukie/16300-se-mcloughlin-blvd-.html,or,milwaukie,16300-se-mcloughlin-blvd-,032948,"16300 SE McLoughlin Blvd., Milwaukie, OR 97267",16300,45.4329598,-122.6352712
+https://locations.tacobell.com/or/sherwood/16240-s-w--langer-drive.html,or,sherwood,16240-s-w--langer-drive,024103,"16240 S.W. Langer Drive, Sherwood, OR 97140",16240,45.3675264,-122.8455839
+https://locations.tacobell.com/ok/grove/1621-south-main-street.html,ok,grove,1621-south-main-street,030899,"1621 South Main Street, Grove, OK 74344",74344,36.5797654,-94.7689857
+https://locations.tacobell.com/or/happy-valley/16050-se-sunnyside-rd.html,or,happy-valley,16050-se-sunnyside-rd,027516,"16050 SE Sunnyside Rd, Happy Valley, OR 97015",16050,45.4265627,-122.4990291
+https://locations.tacobell.com/or/clackamas/16040-se-82nd-dr.html,or,clackamas,16040-se-82nd-dr,002442,"16040 SE 82nd Dr, Clackamas, OR 97015",16040,45.4065245,-122.5685658
+https://locations.tacobell.com/pa/pittsburgh/1603-s-braddock-ave.html,pa,pittsburgh,1603-s-braddock-ave,031614,"1603 S Braddock Ave, Pittsburgh, PA 15218",15218,40.4266722,-79.8886925
+https://locations.tacobell.com/ok/sallisaw/1601-e--cherokee-street.html,ok,sallisaw,1601-e--cherokee-street,030886,"1601 E. Cherokee Street, Sallisaw, OK 74955",74955,35.4591254,-94.7699842
+https://locations.tacobell.com/pa/baden/1600-west-state-street.html,pa,baden,1600-west-state-street,032625,"1600 West State Street, Baden, PA 15005",15005,40.6578928,-80.2366472
+https://locations.tacobell.com/pa/grove-city/1560-w--main-street.html,pa,grove-city,1560-w--main-street,032147,"1560 W. Main Street, Grove City, PA 16127",16127,41.1689447,-80.1131735
+https://locations.tacobell.com/ok/tulsa/1535-e-71st-st.html,ok,tulsa,1535-e-71st-st,004681,"1535 E 71st St, Tulsa, OK 74136",74136,36.0608972,-95.7721325
+https://locations.tacobell.com/ok/tulsa/1533-n--peoria.html,ok,tulsa,1533-n--peoria,029977,"1533 N. Peoria, Tulsa, OK 74106",74106,36.1787316,-95.9755571
+https://locations.tacobell.com/or/warrenton/1530-se-discovery-lane.html,or,warrenton,1530-se-discovery-lane,027707,"1530 SE Discovery Lane, Warrenton, OR 97146",97146,46.1475635,-123.9163731
+https://locations.tacobell.com/ok/atoka/1510-s-mississippi-st.html,ok,atoka,1510-s-mississippi-st,029375,"1510 S Mississippi St, Atoka, OK 74525",74525,34.3713622,-96.1366072
+https://locations.tacobell.com/or/springfield/1505-mohawk-blvd.html,or,springfield,1505-mohawk-blvd,032563,"1505 Mohawk Blvd, Springfield, OR 97477",97477,44.058635,-123.0000177
+https://locations.tacobell.com/or/the-dalles/1501-w-6th-st.html,or,the-dalles,1501-w-6th-st,001704,"1501 W 6th St, The Dalles, OR 97058",97058,45.6088515,-121.2029301
+https://locations.tacobell.com/or/north-bend/1501-virginia-avenue.html,or,north-bend,1501-virginia-avenue,019918,"1501 Virginia Avenue, North Bend, OR 97459",97459,43.4063369,-124.2327115
+https://locations.tacobell.com/ri/woonsocket/1500-diamond-hill-rd.html,ri,woonsocket,1500-diamond-hill-rd,040862,"1500 Diamond Hill Rd, Woonsocket, RI 02895",02895,42.0160735,-71.480152
+https://locations.tacobell.com/ri/north-providence/1479-mineral-springs-ave-.html,ri,north-providence,1479-mineral-springs-ave-,040856,"1479 Mineral Springs Ave., North Providence, RI 02904",02904,41.8658278,-71.4441524
+https://locations.tacobell.com/ok/choctaw/14337-northeast-23rd-st-.html,ok,choctaw,14337-northeast-23rd-st-,031699,"14337 Northeast 23rd St., Choctaw, OK 73020",14337,35.493223,-97.2767046
+https://locations.tacobell.com/ok/shawnee/1416-n-harrison-st.html,ok,shawnee,1416-n-harrison-st,030393,"1416 N Harrison St, Shawnee, OK 74801",74801,35.3450717,-96.9121719
+https://locations.tacobell.com/ok/wagoner/1401-w-highway-51.html,ok,wagoner,1401-w-highway-51,030889,"1401 W Highway 51, Wagoner, OK 74467",74467,35.9596941,-95.3953253
+https://locations.tacobell.com/ok/oklahoma-city/13920-n--may-ave-.html,ok,oklahoma-city,13920-n--may-ave-,033291,"13920 N. May Ave., Oklahoma City, OK 73134",13920,35.6138654,-97.5670608
+https://locations.tacobell.com/ri/wakefield/139-old-tower-hill-road.html,ri,wakefield,139-old-tower-hill-road,E685005,"139 Old Tower Hill Road, Wakefield, RI 02879",02879,41.4419777,-71.4831021
+https://locations.tacobell.com/ri/johnston/1379-atwood-ave.html,ri,johnston,1379-atwood-ave,040870,"1379 Atwood Ave, Johnston, RI 02919",02919,41.814917,-71.49539
+https://locations.tacobell.com/ok/broken-arrow/1361-e--kenosha-street.html,ok,broken-arrow,1361-e--kenosha-street,022230,"1361 E. Kenosha Street, Broken Arrow, OK 74012",74012,36.0608254,-95.7907793
+https://locations.tacobell.com/or/portland/13480-nw-science-park-drive.html,or,portland,13480-nw-science-park-drive,032947,"13480 NW Science Park Drive, Portland, OR 97229",13480,45.5247088,-122.8155809
+https://locations.tacobell.com/pa/washington/1340-west-chestnut-street.html,pa,washington,1340-west-chestnut-street,026118,"1340 West Chestnut Street, Washington, PA 15301",15301,40.1652155,-80.2714398
+https://locations.tacobell.com/pa/lancaster/1340-columbia-ave.html,pa,lancaster,1340-columbia-ave,040062,"1340 Columbia Ave, Lancaster, PA 17603",17603,40.0379682,-76.3398555
+https://locations.tacobell.com/ok/owasso/13315-e--116th-street-north.html,ok,owasso,13315-e--116th-street-north,030726,"13315 E. 116th Street North, Owasso, OK 74055",13315,36.3225755,-95.8250687
+https://locations.tacobell.com/or/tigard/13305-sw-pacific-highway.html,or,tigard,13305-sw-pacific-highway,015347,"13305 SW Pacific Highway, Tigard, OR 97223",13305,45.4234769,-122.7830875
+https://locations.tacobell.com/ok/tahlequah/1319-s-muskogee-avenue.html,ok,tahlequah,1319-s-muskogee-avenue,004359,"1319 S Muskogee Avenue, Tahlequah, OK 74464",74464,35.899224,-94.9749989
+https://locations.tacobell.com/or/medford/1311-center-drive.html,or,medford,1311-center-drive,028003,"1311 Center Drive, Medford, OR 97501",97501,42.312901,-122.8566866
+https://locations.tacobell.com/pa/altoona/1304-1st-street.html,pa,altoona,1304-1st-street,032220,"1304 1st Street, Altoona, PA 16601",16601,40.5260046,-78.3921233
+https://locations.tacobell.com/pa/bristol/1298-veterans-hwy.html,pa,bristol,1298-veterans-hwy,029934,"1298 Veterans Hwy, Bristol, PA 19007",19007,40.1097141,-74.8781762
+https://locations.tacobell.com/or/portland/12605-se-division-st-.html,or,portland,12605-se-division-st-,032935,"12605 SE Division St., Portland, OR 97236",12605,45.5044499,-122.5340298
+https://locations.tacobell.com/pa/waynesburg/276-e--roy-furman-highway.html,pa,waynesburg,276-e--roy-furman-highway,030351,"276 E. Roy Furman Highway, Waynesburg, PA 15370",15370,39.8991074,-80.146323
+https://locations.tacobell.com/ok/oklahoma-city/12323-n--pennsylvania-ave-.html,ok,oklahoma-city,12323-n--pennsylvania-ave-,033287,"12323 N. Pennsylvania Ave., Oklahoma City, OK 73120",12323,35.595014,-97.5494807
+https://locations.tacobell.com/pa/meadville/1228-park-ave.html,pa,meadville,1228-park-ave,026112,"1228 Park Ave, Meadville, PA 16335",16335,41.6302618,-80.1561172
+https://locations.tacobell.com/or/portland/12237-n-jantzen-dr.html,or,portland,12237-n-jantzen-dr,016521,"12237 N Jantzen Dr, Portland, OR 97217",12237,45.6116469,-122.6768777
+https://locations.tacobell.com/or/redmond/1214-s-highway-97.html,or,redmond,1214-s-highway-97,038826,"1214 S Highway 97, Redmond, OR 97756",97756,44.2654478,-121.1748755
+https://locations.tacobell.com/pa/glenolden/121-n--mcdade-blvd-.html,pa,glenolden,121-n--mcdade-blvd-,002674,"121 N. Mcdade Blvd., Glenolden, PA 19036",19036,39.9165342,-75.2671385
+https://locations.tacobell.com/pa/lehighton/1209-blakeslee-blvd-drive-east.html,pa,lehighton,1209-blakeslee-blvd-drive-east,030732,"1209 Blakeslee Blvd Drive East, Lehighton, PA 18235",18235,40.8161051,-75.7310316
+https://locations.tacobell.com/ok/ponca-city/1202-e-prospect-ave.html,ok,ponca-city,1202-e-prospect-ave,030392,"1202 E Prospect Ave, Ponca City, OK 74601",74601,36.7381889,-97.0698776
+https://locations.tacobell.com/or/portland/12017-ne-glisan-st.html,or,portland,12017-ne-glisan-st,018619,"12017 NE Glisan St, Portland, OR 97220",12017,45.5263693,-122.5393542
+https://locations.tacobell.com/ok/claremore/1201-w-will-rogers-blvd.html,ok,claremore,1201-w-will-rogers-blvd,003985,"1201 W Will Rogers Blvd, Claremore, OK 74017",74017,36.3127174,-95.6164208
+https://locations.tacobell.com/ok/norman/1201-e--lindsey.html,ok,norman,1201-e--lindsey,033290,"1201 E. Lindsey, Norman, OK 73071",73071,35.2041706,-97.4231817
+https://locations.tacobell.com/or/lebanon/12-e-airport-road.html,or,lebanon,12-e-airport-road,032566,"12 E Airport Road, Lebanon, OR 97355",97355,44.5265276,-122.9068179
+https://locations.tacobell.com/pa/wyomissing/1199-berkshire-blvd.html,pa,wyomissing,1199-berkshire-blvd,028527,"1199 Berkshire Blvd #A, Wyomissing, PA 19610",19610,40.3407529,-75.9795602
+https://locations.tacobell.com/pa/erie/118-e-12th-st.html,pa,erie,118-e-12th-st,028251,"118 E 12th St, Erie, PA 16501",16501,42.1245704,-80.079571
+https://locations.tacobell.com/or/beaverton/1170-nw-185th-ave.html,or,beaverton,1170-nw-185th-ave,032943,"1170 NW 185th Ave, Beaverton, OR 97006",97006,45.5281789,-122.8669393
+https://locations.tacobell.com/pa/audubon/1165-south-trooper-road.html,pa,audubon,1165-south-trooper-road,031585,"1165 South Trooper Road, Audubon, PA 19403",19403,40.1148331,-75.4185967
+https://locations.tacobell.com/or/tigard/11635-sw-pacific-hwy.html,or,tigard,11635-sw-pacific-hwy,032946,"11635 SW Pacific Hwy, Tigard, OR 97223",11635,45.4388407,-122.7542199
+https://locations.tacobell.com/or/island-city/11625-island-ave.html,or,island-city,11625-island-ave,019673,"11625 Island Ave, Island City, OR 97850",11625,45.3365737,-118.0606051
+https://locations.tacobell.com/ok/yukon/11303-westmark-drive.html,ok,yukon,11303-westmark-drive,030396,"11303 Westmark Drive, Yukon, OK 73099",11303,35.4661589,-97.7236181
+https://locations.tacobell.com/ok/duncan/1125-n--highway-81.html,ok,duncan,1125-n--highway-81,033275,"1125 N. Highway 81, Duncan, OK 73533",73533,34.4649329,-97.9650294
+https://locations.tacobell.com/or/sutherlin/112-clover-leap-loop.html,or,sutherlin,112-clover-leap-loop,032195,"112 Clover Leap Loop, Sutherlin, OR 97479",97479,43.3867963,-123.342036
+https://locations.tacobell.com/ok/elk-city/1113-w--3rd-st-.html,ok,elk-city,1113-w--3rd-st-,028361,"1113 W. 3rd St., Elk City, OK 73644",73644,35.4119945,-99.4179428
+https://locations.tacobell.com/pa/indiana/1105-oakland-avenue.html,pa,indiana,1105-oakland-avenue,040068,"1105 Oakland Avenue, Indiana, PA 15701",15701,40.617546,-79.1622844
+https://locations.tacobell.com/or/bend/1104-ne-3rd-st.html,or,bend,1104-ne-3rd-st,001435,"1104 NE 3rd St, Bend, OR 97701",97701,44.0612646,-121.301959
+https://locations.tacobell.com/pa/allentown/1102-1122-airport-rd.html,pa,allentown,1102-1122-airport-rd,029462,"1102-1122 Airport Rd, Allentown, PA 18109",18109,40.627039,-75.4429206
+https://locations.tacobell.com/ri/cranston/1102-cranston-st.html,ri,cranston,1102-cranston-st,040873,"1102 Cranston St, Cranston, RI 02920",02920,41.7961373,-71.448753
+https://locations.tacobell.com/pa/gilbertsville/1101-e--philadelphia-avenue.html,pa,gilbertsville,1101-e--philadelphia-avenue,023375,"1101 E. Philadelphia Avenue, Gilbertsville, PA 19525",19525,40.3237809,-75.6170852
+https://locations.tacobell.com/ok/norman/1101-12th-ave-ne.html,ok,norman,1101-12th-ave-ne,033289,"1101 12th Ave NE, Norman, OK 73071",73071,35.2316649,-97.4230152
+https://locations.tacobell.com/or/milwaukie/11000-se-oak-st.html,or,milwaukie,11000-se-oak-st,032938,"11000 SE Oak St, Milwaukie, OR 97222",11000,45.4430707,-122.6281829
+https://locations.tacobell.com/ok/catoosa/1100-n-193rd-east-ave.html,ok,catoosa,1100-n-193rd-east-ave,030895,"1100 N 193rd East Ave, Catoosa, OK 74015",74015,36.1698774,-95.7620998
+https://locations.tacobell.com/pa/kingston/110-south-wyoming-avenue.html,pa,kingston,110-south-wyoming-avenue,039061,"110 South Wyoming Avenue, Kingston, PA 18704",18704,41.2598837,-75.8999343
+https://locations.tacobell.com/pa/mount-pleasant/110-crossroads-plaza.html,pa,mount-pleasant,110-crossroads-plaza,040069,"110 Crossroads Plaza, Mount Pleasant, PA 15666",15666,40.1250908,-79.5522254
+https://locations.tacobell.com/pa/hanover/1090-carlisle-st.html,pa,hanover,1090-carlisle-st,040063,"1090 Carlisle St, Hanover, PA 17331",17331,39.8193175,-76.9957597
+https://locations.tacobell.com/pa/canonsburg/109-cavasina-drive.html,pa,canonsburg,109-cavasina-drive,J089006,"109 Cavasina Drive, Canonsburg, PA 15317",15317,40.2628816,-80.1745774
+https://locations.tacobell.com/ok/oklahoma-city/10830-n-rockwell-ave.html,ok,oklahoma-city,10830-n-rockwell-ave,033284,"10830 N Rockwell Ave, Oklahoma City, OK 73162",10830,35.5797417,-97.6379968
+https://locations.tacobell.com/pa/greencastle/10820-john-wayne-dr.html,pa,greencastle,10820-john-wayne-dr,029553,"10820 John Wayne Dr, Greencastle, PA 17225",10820,39.785777,-77.7114738
+https://locations.tacobell.com/ok/guymon/108-e--hwy-54.html,ok,guymon,108-e--hwy-54,032981,"108 E. Hwy 54, Guymon, OK 73942",73942,36.7091865,-101.4374618
+https://locations.tacobell.com/ri/cranston/1076-reservoir-ave.html,ri,cranston,1076-reservoir-ave,040855,"1076 Reservoir Ave, Cranston, RI 02910",02910,41.7718599,-71.4522332
+https://locations.tacobell.com/pa/quakertown/1070-s-west-end-blvd.html,pa,quakertown,1070-s-west-end-blvd,024629,"1070 S West End Blvd, Quakertown, PA 18951",18951,40.4181808,-75.3449884
+https://locations.tacobell.com/ok/oklahoma-city/10417-south-western-ave.html,ok,oklahoma-city,10417-south-western-ave,030389,"10417 South Western Ave, Oklahoma City, OK 73139",10417,35.3641528,-97.5301206
+https://locations.tacobell.com/pa/philadelphia/1037-chestnut-st.html,pa,philadelphia,1037-chestnut-st,029331,"1037 Chestnut St, Philadelphia, PA 19107",19107,39.9503189,-75.158386
+https://locations.tacobell.com/ok/oklahoma-city/10350-south-i-44-hwy.html,ok,oklahoma-city,10350-south-i-44-hwy,032156,"10350 South I-44 Hwy, Oklahoma City, OK 73159",10350,35.3650156,-97.57872019999999
+https://locations.tacobell.com/ok/norman/1024-24th-st-nw.html,ok,norman,1024-24th-st-nw,030385,"1024 24th St NW, Norman, OK 73069",73069,35.2055543,-97.47665289999999
+https://locations.tacobell.com/pa/latrobe/1022-mountain-laurel-plaza.html,pa,latrobe,1022-mountain-laurel-plaza,040034,"1022 Mountain Laurel Plaza, Latrobe, PA 15650",15650,40.284306,-79.3914708
+https://locations.tacobell.com/pa/butler/102-moraine-pointe-plaza.html,pa,butler,102-moraine-pointe-plaza,031616,"102 Moraine Pointe Plaza, Butler, PA 16001",16001,40.8773444,-79.9504312
+https://locations.tacobell.com/ok/kingfisher/1015-south-main.html,ok,kingfisher,1015-south-main,K071174,"1015 South Main, Kingfisher, OK 73750",73750,35.8513504,-97.932733
+https://locations.tacobell.com/or/coos-bay/1015-1st-st.html,or,coos-bay,1015-1st-st,020901,"1015 1st St, Coos Bay, OR 97420",97420,43.3577301,-124.2124839
+https://locations.tacobell.com/pa/milford/101-davita-dr-.html,pa,milford,101-davita-dr-,039549,"101 Davita Dr., Milford, PA 18337",18337,41.3520466,-74.7322152
+https://locations.tacobell.com/ok/oklahoma-city/1009-south-meridian.html,ok,oklahoma-city,1009-south-meridian,030394,"1009 South Meridian, Oklahoma City, OK 73128",73128,35.4558482,-97.6012042
+https://locations.tacobell.com/ok/ardmore/1007-n-commerce-street.html,ok,ardmore,1007-n-commerce-street,002609,"1007 N Commerce Street, Ardmore, OK 73401",73401,34.1858429,-97.1438171
+https://locations.tacobell.com/pa/bradford/1001-east-main-street.html,pa,bradford,1001-east-main-street,031686,"1001 East Main Street, Bradford, PA 16701",16701,41.9782374,-78.6191544
+https://locations.tacobell.com/pa/clarks-summit/100-sumner-ave.html,pa,clarks-summit,100-sumner-ave,039060,"100 Sumner Ave, Clarks Summit, PA 18411",18411,41.4860993,-75.6938177
+https://locations.tacobell.com/pa/state-college/100-rolling-ridge-drive.html,pa,state-college,100-rolling-ridge-drive,032215,"100 Rolling Ridge Drive, State College, PA 16801",16801,40.7849127,-77.8289662
+https://locations.tacobell.com/pa/gibsonia/100-north-town-square.html,pa,gibsonia,100-north-town-square,031615,"100 North Town Square, Gibsonia, PA 15044",15044,40.6374068,-79.93961159999999
+https://locations.tacobell.com/pa/york/1517-n--george-street.html,pa,york,1517-n--george-street,037076,"1517 N. George Street, York, PA 17404",17404,39.9830446,-76.7342261
+https://locations.tacobell.com/or/coos-bay/1590-newmark-ave.html,or,coos-bay,1590-newmark-ave,037879,"1590 Newmark Ave, Coos Bay, OR 97420",97420,43.3915985,-124.2493309
+https://locations.tacobell.com/or/north-plains/30810-nw-pacific-st-.html,or,north-plains,30810-nw-pacific-st-,037718,"30810 NW Pacific St., North Plains, OR 97133",30810,45.594119,-122.9957148
+https://locations.tacobell.com/ok/edmond/2921-nw-178-st-.html,ok,edmond,2921-nw-178-st-,038782,"2921 NW 178 St., Edmond, OK 73012",73012,35.6535004,-97.56867869999999
+https://locations.tacobell.com/or/sweet-home/1502-main-street.html,or,sweet-home,1502-main-street,037738,"1502 Main Street, Sweet Home, OR 97386",97386,44.3983658,-122.7265664
+https://locations.tacobell.com/ok/tahlequah/1287-e--downing-street.html,ok,tahlequah,1287-e--downing-street,040888,"1287 E. Downing Street, Tahlequah, OK 74464",74464,35.9152802,-94.9523784
+https://locations.tacobell.com/pa/allentown/301-cooper-st.html,pa,allentown,301-cooper-st,036329,"301 Cooper St, Allentown, PA 18103",18103,40.5796406,-75.4548293
+https://locations.tacobell.com/pa/willow-street/2600-n--willow-st-pike.html,pa,willow-street,2600-n--willow-st-pike,024410,"2600 N. Willow St Pike, Willow Street, PA 17584",17584,39.9838292,-76.2810911
+https://locations.tacobell.com/pa/selinsgrove/1101-n-susquehanna-trl.html,pa,selinsgrove,1101-n-susquehanna-trl,039058,"1101 N Susquehanna Trl, Selinsgrove, PA 17870",17870,40.8265071,-76.8450134
+https://locations.tacobell.com/or/roseburg/200-grant-smith-road.html,or,roseburg,200-grant-smith-road,032569,"200 Grant Smith Road, Roseburg, OR 97471",97471,43.1495171,-123.3712759
+https://locations.tacobell.com/ri/providence/150-douglas-ave.html,ri,providence,150-douglas-ave,040878,"150 Douglas Ave, Providence, RI 02908",02908,41.8368309,-71.4217116
+https://locations.tacobell.com/pa/bedford/4468-u-s--220-business.html,pa,bedford,4468-u-s--220-business,032208,"4468 U.S. 220 Business, Bedford, PA 15522",15522,40.0561471,-78.5107865
+https://locations.tacobell.com/pa/woodlyn/1252-macdade-blvd-.html,pa,woodlyn,1252-macdade-blvd-,032685,"1252 Macdade Blvd., Woodlyn, PA 19094",19094,39.8783199,-75.3440219
+https://locations.tacobell.com/ok/edmond/1049-west-i-35-frontage-rd-.html,ok,edmond,1049-west-i-35-frontage-rd-,033581,"1049 West I-35 Frontage Rd., Edmond, OK 73034",73034,35.642904,-97.4260901
+https://locations.tacobell.com/pa/johnstown/1125-scalp-avenue.html,pa,johnstown,1125-scalp-avenue,033090,"1125 Scalp Avenue, Johnstown, PA 15904",15904,40.2807282,-78.8622578
+https://locations.tacobell.com/ok/muskogee/3200-west-okmulgee-ave.html,ok,muskogee,3200-west-okmulgee-ave,033493,"3200 West Okmulgee Ave, Muskogee, OK 74401",74401,35.7552788,-95.4030021
+https://locations.tacobell.com/pa/natrona-heights/4009-freeport-road.html,pa,natrona-heights,4009-freeport-road,033524,"4009 Freeport Road, Natrona Heights, PA 15065",15065,40.6446662,-79.71002
+https://locations.tacobell.com/pa/pittsburgh/880-butler-st.html,pa,pittsburgh,880-butler-st,033089,"880 Butler St, Pittsburgh, PA 15223",15223,40.51171,-79.9442681
+https://locations.tacobell.com/ok/hugo/2011-east-jackson-st.html,ok,hugo,2011-east-jackson-st,033639,"2011 East Jackson St, Hugo, OK 74743",74743,34.005809,-95.4883186
+https://locations.tacobell.com/ri/providence/1304-broad-street.html,ri,providence,1304-broad-street,040879,"1304 Broad Street, Providence, RI 02905",02905,41.7913307,-71.4057464
+https://locations.tacobell.com/or/beaverton/14300-sw-allen-blvd.html,or,beaverton,14300-sw-allen-blvd,015503,"14300 SW Allen Blvd, Beaverton, OR 97005",14300,45.475544,-122.8238512
+https://locations.tacobell.com/ok/broken-arrow/11081-so--oklahoma-state-highway-51.html,ok,broken-arrow,11081-so--oklahoma-state-highway-51,033437,"11081 So. Oklahoma State Highway 51, Broken Arrow, OK 74014",11081,36.0043932,-95.6813
+https://locations.tacobell.com/pa/punxsutawney/21874-route-119.html,pa,punxsutawney,21874-route-119,033439,"21874 Route 119, Punxsutawney, PA 15767",21874,40.9285969,-78.982503
+https://locations.tacobell.com/or/portland/8163-ne-air-cargo-rd.html,or,portland,8163-ne-air-cargo-rd,033926,"8163 NE Air Cargo Rd, Portland, OR 97218",97218,45.5800338,-122.5757066
+https://locations.tacobell.com/pa/muncy/155-muncy-creek-boulevard.html,pa,muncy,155-muncy-creek-boulevard,033750,"155 Muncy Creek Boulevard, Muncy, PA 17756",17756,41.2125177,-76.761961
+https://locations.tacobell.com/pa/walnutport/506-old-main-street.html,pa,walnutport,506-old-main-street,034152,"506 Old Main Street, Walnutport, PA 18088",18088,40.7578912,-75.5933026
+https://locations.tacobell.com/pa/pittsburgh/2603-freeport-road.html,pa,pittsburgh,2603-freeport-road,033753,"2603 Freeport Road, Pittsburgh, PA 15238",15238,40.5371277,-79.8404302
+https://locations.tacobell.com/pa/enola/4300-market-place-way.html,pa,enola,4300-market-place-way,033472,"4300 Market Place Way, Enola, PA 17025",17025,40.2905873,-76.974588
+https://locations.tacobell.com/pa/springfield/835-west-sproul-rd.html,pa,springfield,835-west-sproul-rd,K071077,"835 West Sproul Rd, Springfield, PA 19064",19064,39.9446746,-75.3487026
+https://locations.tacobell.com/pa/brookhaven/3515-edgmont-ave-.html,pa,brookhaven,3515-edgmont-ave-,K071092,"3515 Edgmont Ave., Brookhaven, PA 19015",19015,39.8709925,-75.3847156
+https://locations.tacobell.com/or/molalla/highway-213-and-highway-211.html,or,molalla,highway-213-and-highway-211,033806,"Highway 213 and Highway 211, Molalla, OR 97038",97038,45.1500279,-122.5744184
+https://locations.tacobell.com/ok/checotah/1105-w-gentry-road.html,ok,checotah,1105-w-gentry-road,034225,"1105 W Gentry Road, Checotah, OK 74426",74426,35.4732086,-95.5325501
+https://locations.tacobell.com/pa/titusville/219-e--central-avenue.html,pa,titusville,219-e--central-avenue,040705,"219 E. Central Avenue, Titusville, PA 16354",16354,41.6269229,-79.6701877
+https://locations.tacobell.com/pa/exton/104-n--pottstown-pike.html,pa,exton,104-n--pottstown-pike,K071089,"104 N. Pottstown Pike, Exton, PA 19341",19341,40.0279723,-75.6280165
+https://locations.tacobell.com/pa/philadelphia/3032-north-broad-st-.html,pa,philadelphia,3032-north-broad-st-,K071072,"3032 North Broad St., Philadelphia, PA 19132",19132,39.9997704,-75.153742

@@ -1,5 +1,17 @@
 url,csv_store_id,reason
-https://locations.tacobell.com/or/salem/4220-brooklake-rd-ne.html,018096,error:404 Client Error: Not Found for url: https://www.tacobell.com/tacobellwebservices/v4/tacobell/products/menu/18096
-https://locations.tacobell.com/or/central-point/1600-e-pine-st.html,018285,error:404 Client Error: Not Found for url: https://www.tacobell.com/tacobellwebservices/v4/tacobell/products/menu/18285
-https://locations.tacobell.com/or/silverton/605-west-c-street.html,D947010,error:404 Client Error: Not Found for url: https://www.tacobell.com/tacobellwebservices/v4/tacobell/products/menu/947010
-https://locations.tacobell.com/or/brookings/350-5th-street.html,F122001,error:404 Client Error: Not Found for url: https://www.tacobell.com/tacobellwebservices/v4/tacobell/products/menu/122001
+https://locations.tacobell.com/al/cottondale/3501-buttermilk-road.html,031580,error:404 Client Error: Not Found for url: https://www.tacobell.com/tacobellwebservices/v4/tacobell/products/menu/31580
+https://locations.tacobell.com/ar/berryville/1000-w-trimble-avenue.html,019024,error:404 Client Error: Not Found for url: https://www.tacobell.com/tacobellwebservices/v4/tacobell/products/menu/19024
+https://locations.tacobell.com/ar/prescott/1806-us-highway-371-w.html,023068,error:404 Client Error: Not Found for url: https://www.tacobell.com/tacobellwebservices/v4/tacobell/products/menu/23068
+https://locations.tacobell.com/ar/west-memphis/900-martin-luther-king-dr-.html,L518012,error:404 Client Error: Not Found for url: https://www.tacobell.com/tacobellwebservices/v4/tacobell/products/menu/518012
+https://locations.tacobell.com/ar/booneville/711-e--main.html,G135604,error:404 Client Error: Not Found for url: https://www.tacobell.com/tacobellwebservices/v4/tacobell/products/menu/135604
+https://locations.tacobell.com/al/gadsden/579-e--meighan-boulevard.html,J466006,error:404 Client Error: Not Found for url: https://www.tacobell.com/tacobellwebservices/v4/tacobell/products/menu/466006
+https://locations.tacobell.com/al/hokes-bluff/5692-highway-278-east.html,J466003,error:404 Client Error: Not Found for url: https://www.tacobell.com/tacobellwebservices/v4/tacobell/products/menu/466003
+https://locations.tacobell.com/ar/trumann/504-hwy--63.html,L518084,error:404 Client Error: Not Found for url: https://www.tacobell.com/tacobellwebservices/v4/tacobell/products/menu/518084
+https://locations.tacobell.com/ar/mena/403-highway-71-n.html,L518050,error:404 Client Error: Not Found for url: https://www.tacobell.com/tacobellwebservices/v4/tacobell/products/menu/518050
+https://locations.tacobell.com/ar/highland/2291-highway-62-412.html,L518007,error:404 Client Error: Not Found for url: https://www.tacobell.com/tacobellwebservices/v4/tacobell/products/menu/518007
+https://locations.tacobell.com/al/piedmont/206-highway-278-bypass-east.html,J466004,error:404 Client Error: Not Found for url: https://www.tacobell.com/tacobellwebservices/v4/tacobell/products/menu/466004
+https://locations.tacobell.com/ar/jonesboro/2003-west-parker-road.html,L518053,error:404 Client Error: Not Found for url: https://www.tacobell.com/tacobellwebservices/v4/tacobell/products/menu/518053
+https://locations.tacobell.com/ar/wynne/1913-n--falls.html,L518087,error:404 Client Error: Not Found for url: https://www.tacobell.com/tacobellwebservices/v4/tacobell/products/menu/518087
+https://locations.tacobell.com/ar/jonesboro/133-southwest-drive.html,L518001,error:404 Client Error: Not Found for url: https://www.tacobell.com/tacobellwebservices/v4/tacobell/products/menu/518001
+https://locations.tacobell.com/al/meridianville/12276-u-s--highway-231.html,G135455,error:404 Client Error: Not Found for url: https://www.tacobell.com/tacobellwebservices/v4/tacobell/products/menu/135455
+https://locations.tacobell.com/ar/osceola/1001-w--keiser.html,L518083,error:404 Client Error: Not Found for url: https://www.tacobell.com/tacobellwebservices/v4/tacobell/products/menu/518083

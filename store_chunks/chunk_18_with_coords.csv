@@ -1,0 +1,456 @@
+url,state,city,address_slug,store_id,full_address,zip_code,latitude,longitude
+https://locations.tacobell.com/va/wise/203-woodland-drive-sw.html,va,wise,203-woodland-drive-sw,041172,"203 Woodland Drive SW, Wise, VA 24293",24293,36.9685164,-82.5933632
+https://locations.tacobell.com/va/strasburg/33586-old-valley-pike.html,va,strasburg,33586-old-valley-pike,040309,"33586 Old Valley Pike, Strasburg, VA 22657",33586,39.0023008,-78.3426003
+https://locations.tacobell.com/va/portsmouth/800-london-boulevard.html,va,portsmouth,800-london-boulevard,040297,"800 London Boulevard, Portsmouth, VA 23704",23704,36.8369548,-76.3077806
+https://locations.tacobell.com/ut/west-valley-city/1826-west-4100-south.html,ut,west-valley-city,1826-west-4100-south,040483,"1826 West 4100 South, West Valley City, UT 84119",84119,40.6822043,-111.9413277
+https://locations.tacobell.com/ut/eagle-mountain/4265-n--pony-express-parkway.html,ut,eagle-mountain,4265-n--pony-express-parkway,040368,"4265 N. Pony Express Parkway, Eagle Mountain, UT 84005",84005,40.3441873,-112.0051246
+https://locations.tacobell.com/ut/nephi/1542-s--main-st.html,ut,nephi,1542-s--main-st,041057,"1542 S. Main St, Nephi, UT 84648",84648,39.68812200000001,-111.835555
+https://locations.tacobell.com/wa/lynden/8169-guide-meridian-rd-.html,wa,lynden,8169-guide-meridian-rd-,040918,"8169 Guide Meridian Rd., Lynden, WA 98264",98264,48.9380083,-122.485528
+https://locations.tacobell.com/va/stafford/1941-richmond-hwy.html,va,stafford,1941-richmond-hwy,037320,"1941 Richmond Hwy, Stafford, VA 22554",22554,38.4119902,-77.4124675
+https://locations.tacobell.com/ut/roy/2746-w-4000-s.html,ut,roy,2746-w-4000-s,040295,"2746 W 4000 S, Roy, UT 84067",84067,41.1907137,-112.0319509
+https://locations.tacobell.com/va/haymarket/6635-watts-rd-.html,va,haymarket,6635-watts-rd-,036799,"6635 Watts Rd., Haymarket, VA 20169",20169,38.8136669,-77.6384094
+https://locations.tacobell.com/va/gate-city/247-kane-street.html,va,gate-city,247-kane-street,034790,"247 Kane Street, Gate City, VA 24251",24251,36.6382319,-82.5692403
+https://locations.tacobell.com/va/suffolk/1523-holland-rd.html,va,suffolk,1523-holland-rd,040559,"1523 Holland Rd, Suffolk, VA 23434",23434,36.7241649,-76.6356253
+https://locations.tacobell.com/va/big-stone-gap/504-maxfield-rd-.html,va,big-stone-gap,504-maxfield-rd-,041969,"504 Maxfield Rd., Big Stone Gap, VA 24219",24219,36.8623,-82.7596915
+https://locations.tacobell.com/va/south-boston/101-pine-lane.html,va,south-boston,101-pine-lane,041884,"101 Pine Lane, South Boston, VA 24592",24592,36.739561,-78.921558
+https://locations.tacobell.com/wa/federal-way/31533-pacific-hwy-s.html,wa,federal-way,31533-pacific-hwy-s,038732,"31533 Pacific Hwy S, Federal Way, WA 98003",31533,47.3190356,-122.313771
+https://locations.tacobell.com/va/midlothian/12751-stone-village-way.html,va,midlothian,12751-stone-village-way,034782,"12751 Stone Village Way, Midlothian, VA 23236",12751,37.5025735,-77.628317
+https://locations.tacobell.com/va/spotsylvania/10491-hilltop-plaza-way.html,va,spotsylvania,10491-hilltop-plaza-way,032538,"10491 Hilltop Plaza Way, Spotsylvania, VA 22553",10491,38.2453848,-77.5269339
+https://locations.tacobell.com/va/richmond/8991-staples-mill-rd.html,va,richmond,8991-staples-mill-rd,034779,"8991 Staples Mill Rd, Richmond, VA 23228",23228,37.6400677,-77.5140509
+https://locations.tacobell.com/wa/spokane/6404-n--ash-st--.html,wa,spokane,6404-n--ash-st--,038952,"6404 N. Ash St.., Spokane, WA 99208",99208,47.7165399,-117.4357894
+https://locations.tacobell.com/wa/bremerton/7150-state-route-303.html,wa,bremerton,7150-state-route-303,042280,"7150 State Route 303, Bremerton, WA 98310",98310,47.6275748,-122.6281854
+https://locations.tacobell.com/va/woodbridge/12400-cap-cod-ct.html,va,woodbridge,12400-cap-cod-ct,031105,"12400 Cap Cod ct, Woodbridge, VA 22192",12400,38.6844686,-77.31613159999999
+https://locations.tacobell.com/va/alexandria/417-king-st.html,va,alexandria,417-king-st,034274,"417 King St, Alexandria, VA 22314",22314,38.8048999,-77.044094
+https://locations.tacobell.com/wa/ferndale/5720-barrett-rd.html,wa,ferndale,5720-barrett-rd,034930,"5720 Barrett Rd, Ferndale, WA 98248",98248,48.8492354,-122.5732212
+https://locations.tacobell.com/va/richmond/11240-patterson-ave.html,va,richmond,11240-patterson-ave,035065,"11240 Patterson Ave # 11250, Richmond, VA 23238",11240,37.5920084,-77.5331236
+https://locations.tacobell.com/va/clintwood/5204-dickenson-highway.html,va,clintwood,5204-dickenson-highway,035250,"5204 Dickenson Highway, Clintwood, VA 24228",24228,37.1491556,-82.4667202
+https://locations.tacobell.com/va/waynesboro/840-shenandoah-village-dr-.html,va,waynesboro,840-shenandoah-village-dr-,039749,"840 Shenandoah Village Dr., Waynesboro, VA 22980",22980,38.058734,-78.9436146
+https://locations.tacobell.com/va/lynchburg/3351-candlers-mntn-rd.html,va,lynchburg,3351-candlers-mntn-rd,039778,"3351 Candlers Mntn Rd, Lynchburg, VA 24502",24502,37.367576,-79.1764227
+https://locations.tacobell.com/va/orange/507-n-madison-rd.html,va,orange,507-n-madison-rd,039751,"507 N Madison Rd, Orange, VA 22960",22960,38.2553481,-78.1152522
+https://locations.tacobell.com/va/suffolk/2910-godwin-boulevard.html,va,suffolk,2910-godwin-boulevard,032960,"2910 Godwin Boulevard, Suffolk, VA 23434",23434,36.7767982,-76.5820791
+https://locations.tacobell.com/va/virginia-beach/2902-pacific-ave.html,va,virginia-beach,2902-pacific-ave,035254,"2902 Pacific Ave, Virginia Beach, VA 23451",23451,36.8574282,-75.9790181
+https://locations.tacobell.com/wa/enumclaw/727-roosevelt-avenue.html,wa,enumclaw,727-roosevelt-avenue,035632,"727 Roosevelt Avenue, Enumclaw, WA 98022",98022,47.1998111,-121.987248
+https://locations.tacobell.com/va/chesapeake/139-battlefield-blvd--s.html,va,chesapeake,139-battlefield-blvd--s,G135122,"139 Battlefield Blvd. S, Chesapeake, VA 23322",23322,36.7187981,-76.2392517
+https://locations.tacobell.com/ut/springville/1680-w-400-s.html,ut,springville,1680-w-400-s,032473,"1680 W 400 S, Springville, UT 84663",84663,40.1617033,-111.6412161
+https://locations.tacobell.com/va/front-royal/35-riverton-commons-dr.html,va,front-royal,35-riverton-commons-dr,035063,"35 Riverton Commons Dr, Front Royal, VA 22630",22630,38.9626781,-78.1901065
+https://locations.tacobell.com/va/sterling/45960-denizen-plaza-road.html,va,sterling,45960-denizen-plaza-road,K071149,"45960 Denizen Plaza Road, Sterling, VA 20165",45960,39.0361704,-77.40950939999999
+https://locations.tacobell.com/wa/ridgefield/50-s--48th-place.html,wa,ridgefield,50-s--48th-place,036344,"50 S. 48th Place, Ridgefield, WA 98642",98642,45.8153573,-122.6992848
+https://locations.tacobell.com/va/herndon/3019-centerville-rd-.html,va,herndon,3019-centerville-rd-,039991,"3019 Centerville Rd., Herndon, VA 20171",20171,38.9229359,-77.416586
+https://locations.tacobell.com/va/chesapeake/2212-s--military-hwy-.html,va,chesapeake,2212-s--military-hwy-,G135127,"2212 S. Military Hwy., Chesapeake, VA 23320",23320,36.777787,-76.2685005
+https://locations.tacobell.com/va/newport-news/12630-warwick-blvd-.html,va,newport-news,12630-warwick-blvd-,G135130,"12630 Warwick Blvd., Newport News, VA 23606",12630,37.085276,-76.4983292
+https://locations.tacobell.com/ut/cedar-hills/9826-n--4800-west.html,ut,cedar-hills,9826-n--4800-west,036492,"9826 N. 4800 West, Cedar Hills, UT 84062",84062,40.412621,-111.77207
+https://locations.tacobell.com/va/colonial-heights/425-charles-h-dimmock-pwky.html,va,colonial-heights,425-charles-h-dimmock-pwky,036330,"425 Charles H Dimmock Pwky, Colonial Heights, VA 23834",23834,37.2515523,-77.3825919
+https://locations.tacobell.com/va/hampton/2136-w-mercury-blvd.html,va,hampton,2136-w-mercury-blvd,036283,"2136 W Mercury Blvd, Hampton, VA 23666",23666,37.0388719,-76.4007873
+https://locations.tacobell.com/wa/puyallup/724-shaw-rd--east.html,wa,puyallup,724-shaw-rd--east,036426,"724 Shaw Rd. East, Puyallup, WA 98372",98372,47.1853852,-122.2575399
+https://locations.tacobell.com/va/tappahannock/1658-tappahannock-blvd.html,va,tappahannock,1658-tappahannock-blvd,G135138,"1658 Tappahannock Blvd, Tappahannock, VA 22560",22560,37.9047843,-76.8651071
+https://locations.tacobell.com/va/fairfax/11750-lee-jackson-memorial-highway.html,va,fairfax,11750-lee-jackson-memorial-highway,021380,"11750 Lee Jackson Memorial Highway, Fairfax, VA 22033",11750,38.8624663,-77.3577301
+https://locations.tacobell.com/ut/ogden/1670-w-12th-st.html,ut,ogden,1670-w-12th-st,009433,"1670 W 12th St Pilot Travel Center #294, Ogden, UT 84404",84404,41.2451569,-112.0195054
+https://locations.tacobell.com/va/richlands/3121-cedar-valley-dr.html,va,richlands,3121-cedar-valley-dr,024579,"3121 Cedar Valley Dr, Richlands, VA 24641",24641,37.0922277,-81.7798868
+https://locations.tacobell.com/ut/parowan/1130-north-100.html,ut,parowan,1130-north-100,019824,"1130 North 100, Parowan, UT 84761",84761,37.8607174,-112.8291111
+https://locations.tacobell.com/va/arlington/1100-s-hayes-street.html,va,arlington,1100-s-hayes-street,021441,"1100 S Hayes Street, Arlington, VA 22202",22202,38.8632091,-77.0608992
+https://locations.tacobell.com/va/wytheville/1025-peppers-ferry-rd.html,va,wytheville,1025-peppers-ferry-rd,16550,"1025 Peppers Ferry Rd, Wytheville, VA 24382",24382,36.9651215,-81.0676915
+https://locations.tacobell.com/ut/tooele/8836-highway-40.html,ut,tooele,8836-highway-40,020291,"8836 Highway 40, Tooele, UT 84074",84074,40.56088,-112.3019662
+https://locations.tacobell.com/va/manassas/11017-nokesville-road.html,va,manassas,11017-nokesville-road,031534,"11017 Nokesville Road, Manassas, VA 20110",11017,38.7378525,-77.5296804
+https://locations.tacobell.com/va/locust-grove/4332-germanna-highway.html,va,locust-grove,4332-germanna-highway,036265,"4332 Germanna Highway, Locust Grove, VA 22508",22508,38.3438645,-77.7441935
+https://locations.tacobell.com/va/dublin/4692-cleburne-blvd.html,va,dublin,4692-cleburne-blvd,039780,"4692 Cleburne Blvd, Dublin, VA 24084",24084,37.0858345,-80.688895
+https://locations.tacobell.com/va/kilmarnock/466-n--main-street.html,va,kilmarnock,466-n--main-street,041175,"466 N. Main Street, Kilmarnock, VA 22482",22482,37.7208497,-76.3854793
+https://locations.tacobell.com/ut/west-jordan/5786-w-7800-s.html,ut,west-jordan,5786-w-7800-s,040986,"5786 W 7800 S, West Jordan, UT 84081",84081,40.6099622,-112.0287217
+https://locations.tacobell.com/va/virginia-beach/5273-princess-anne-road.html,va,virginia-beach,5273-princess-anne-road,040930,"5273 Princess Anne Road, Virginia Beach, VA 23462",23462,36.828109,-76.167257
+https://locations.tacobell.com/va/saint-paul/16417-wise-street.html,va,saint-paul,16417-wise-street,037132,"16417 Wise Street, Saint Paul, VA 24283",16417,36.9065126,-82.3169511
+https://locations.tacobell.com/wa/lacey/8306-quinault-drive-ne.html,wa,lacey,8306-quinault-drive-ne,036792,"8306 Quinault Drive NE, Lacey, WA 98516",98516,47.0624909,-122.7632348
+https://locations.tacobell.com/va/hampton/1101-w--pembroke-ave-.html,va,hampton,1101-w--pembroke-ave-,G135126,"1101 W. Pembroke Ave., Hampton, VA 23661",23661,37.0257719,-76.3646068
+https://locations.tacobell.com/va/dulles/21100-dulles-town-circle.html,va,dulles,21100-dulles-town-circle,024041,"21100 Dulles Town Circle, Dulles, VA 20166",21100,39.0322264,-77.4236305
+https://locations.tacobell.com/ut/cedar-city/1330-s--providence-center-drive-walmart.html,ut,cedar-city,1330-s--providence-center-drive-walmart,037730,"1330 S. Providence Center Drive-Walmart, Cedar City, UT 84720",84720,37.6545876,-113.0882998
+https://locations.tacobell.com/ut/orem/800-west-university-parkway.html,ut,orem,800-west-university-parkway,029596,"800 West University Parkway Utah Valley University - PE Building, Orem, UT 84058",84058,40.2787626,-111.7153739
+https://locations.tacobell.com/wa/rochester/19704-old-hwy-99-sw.html,wa,rochester,19704-old-hwy-99-sw,037010,"19704 Old HWY 99 SW, Rochester, WA 98579",19704,46.8020133,-123.0113799
+https://locations.tacobell.com/va/vinton/1918-washington-avenue.html,va,vinton,1918-washington-avenue,039783,"1918 Washington Avenue, Vinton, VA 24179",24179,37.2796728,-79.8669958
+https://locations.tacobell.com/wa/walla-walla/622-w-alder.html,wa,walla-walla,622-w-alder,037180,"622 W Alder, Walla Walla, WA 99362",99362,46.0626492,-118.3468393
+https://locations.tacobell.com/wa/poulsbo/21289-olhava-way.html,wa,poulsbo,21289-olhava-way,042279,"21289 Olhava Way, Poulsbo, WA 98370",21289,47.7554259,-122.6623271
+https://locations.tacobell.com/va/toms-brook/1014-mt--olive-road.html,va,toms-brook,1014-mt--olive-road,037821,"1014 Mt. Olive Road, Toms Brook, VA 22660",22660,38.9667317,-78.4383896
+https://locations.tacobell.com/wa/vancouver/11606-ne-119th-street.html,wa,vancouver,11606-ne-119th-street,037387,"11606 NE 119th Street, Vancouver, WA 98662",11606,45.708878,-122.5532845
+https://locations.tacobell.com/va/chantilly/43311-defender-drive.html,va,chantilly,43311-defender-drive,040002,"43311 Defender Drive, Chantilly, VA 20152",43311,38.9212911,-77.5052497
+https://locations.tacobell.com/wa/olympia/2725-93rd-ave--sw.html,wa,olympia,2725-93rd-ave--sw,037678,"2725 93rd Ave. SW, Olympia, WA 98512",98512,46.9518544,-122.9405223
+https://locations.tacobell.com/wa/spanaway/20527-mountain-highway-e.html,wa,spanaway,20527-mountain-highway-e,037113,"20527 Mountain Highway E, Spanaway, WA 98387",20527,47.0706022,-122.4166927
+https://locations.tacobell.com/ut/saint-george/2156-e--riverside-drive.html,ut,saint-george,2156-e--riverside-drive,037684,"2156 E. Riverside Drive, Saint George, UT 84770",84770,37.1004435,-113.5354769
+https://locations.tacobell.com/va/harrisonburg/2168-rock-port-rd-.html,va,harrisonburg,2168-rock-port-rd-,035834,"2168 Rock Port Rd., Harrisonburg, VA 22801",22801,38.4050417,-78.8681416
+https://locations.tacobell.com/ut/herriman/5161-w--anthem-park-boulevard.html,ut,herriman,5161-w--anthem-park-boulevard,034810,"5161 W. Anthem Park Boulevard, Herriman, UT 84096",84096,40.5343599,-112.0152792
+https://locations.tacobell.com/va/chesapeake/1440-mt--pleasant-rd.html,va,chesapeake,1440-mt--pleasant-rd,037466,"1440 Mt. Pleasant Rd, Chesapeake, VA 23322",23322,36.7148184,-76.1887278
+https://locations.tacobell.com/va/richmond/1330-n-laburnum-ave.html,va,richmond,1330-n-laburnum-ave,037336,"1330 N Laburnum Ave, Richmond, VA 23223",23223,37.5630931,-77.3771407
+https://locations.tacobell.com/ut/murray/6001-state-street.html,ut,murray,6001-state-street,037722,"6001 State Street, Murray, UT 84107",84107,40.6405819,-111.8886255
+https://locations.tacobell.com/wa/bothell/18001-bothell-everett-hwy.html,wa,bothell,18001-bothell-everett-hwy,034919,"18001 Bothell-Everett Hwy Bldg E, Bothell, WA 98012",18001,47.8343504,-122.2097904
+https://locations.tacobell.com/vt/saint-johnsbury/985-memorial-drive.html,vt,saint-johnsbury,985-memorial-drive,C029044,"985 Memorial Drive, Saint Johnsbury, VT 05819",05819,44.4463255,-72.01624
+https://locations.tacobell.com/va/leesburg/982-edwards-ferry-rd-ne.html,va,leesburg,982-edwards-ferry-rd-ne,036545,"982 Edwards Ferry Rd NE, Leesburg, VA 20176",20176,39.1144229,-77.5388461
+https://locations.tacobell.com/wa/spokane/9664-n-newport-hwy.html,wa,spokane,9664-n-newport-hwy,038937,"9664 N Newport Hwy, Spokane, WA 99218",99218,47.7476027,-117.4030132
+https://locations.tacobell.com/va/fredericksburg/9625-jefferson-davis-hwy.html,va,fredericksburg,9625-jefferson-davis-hwy,027587,"9625 Jefferson Davis Hwy, Fredericksburg, VA 22407",22407,38.3067468,-77.4797575
+https://locations.tacobell.com/wa/lakewood/9511-bridgeport-way-sw.html,wa,lakewood,9511-bridgeport-way-sw,031331,"9511 Bridgeport Way SW, Lakewood, WA 98499",98499,47.1710078,-122.516931
+https://locations.tacobell.com/ut/richfield/950-w--1250-south.html,ut,richfield,950-w--1250-south,020757,"950 W. 1250 South, Richfield, UT 84701",84701,38.7506666,-112.1016847
+https://locations.tacobell.com/va/richmond/9420-w-broad-st.html,va,richmond,9420-w-broad-st,005142,"9420 W Broad St, Richmond, VA 23294",23294,37.6389779,-77.5547792
+https://locations.tacobell.com/va/burke/9402-old-burke-lake-rd-.html,va,burke,9402-old-burke-lake-rd-,K071151,"9402 Old Burke Lake Rd., Burke, VA 22015",22015,38.7947089,-77.2708884
+https://locations.tacobell.com/wa/seattle/9401-rainier-ave--s.html,wa,seattle,9401-rainier-ave--s,E720399,"9401 Rainier Ave. S, Seattle, WA 98118",98118,47.5196071,-122.264687
+https://locations.tacobell.com/va/falls-church/935-west-broad-street.html,va,falls-church,935-west-broad-street,036546,"935 West Broad Street, Falls Church, VA 22046",22046,38.8904104,-77.1844914
+https://locations.tacobell.com/wa/moses-lake/934-n-stratford-rd.html,wa,moses-lake,934-n-stratford-rd,038939,"934 N Stratford Rd, Moses Lake, WA 98837",98837,47.1416282,-119.2787039
+https://locations.tacobell.com/ut/sandy/9308-south-700-east.html,ut,sandy,9308-south-700-east,033159,"9308 South 700 East, Sandy, UT 84070",84070,40.5822721,-111.8726829
+https://locations.tacobell.com/va/chesapeake/929-battlefield-blvd--n.html,va,chesapeake,929-battlefield-blvd--n,002749,"929 Battlefield Blvd. N, Chesapeake, VA 23320",23320,36.7534184,-76.2467765
+https://locations.tacobell.com/ut/spanish-fork/915-north-main-street.html,ut,spanish-fork,915-north-main-street,025393,"915 North Main Street, Spanish Fork, UT 84660",84660,40.1216189,-111.6552228
+https://locations.tacobell.com/wa/kennewick/901-north-columbia-center-boulevard.html,wa,kennewick,901-north-columbia-center-boulevard,E720384,"901 North Columbia Center Boulevard, Kennewick, WA 99336",99336,46.2204748,-119.2248161
+https://locations.tacobell.com/ut/provo/899-s-university-ave.html,ut,provo,899-s-university-ave,025387,"899 S University Ave, Provo, UT 84601",84601,40.2220838,-111.6582262
+https://locations.tacobell.com/ut/vernal/898-west-hwy-40.html,ut,vernal,898-west-hwy-40,030829,"898 West Hwy 40, Vernal, UT 84078",84078,40.4515033,-109.5488496
+https://locations.tacobell.com/ut/roosevelt/895-e-200-n.html,ut,roosevelt,895-e-200-n,031548,"895 E 200 N, Roosevelt, UT 84066",84066,40.3025196,-109.9780546
+https://locations.tacobell.com/va/manassas/8891-centreville-road.html,va,manassas,8891-centreville-road,020438,"8891 Centreville Road, Manassas, VA 20110",20110,38.7621555,-77.4599177
+https://locations.tacobell.com/ut/layton/885-n-main-st.html,ut,layton,885-n-main-st,033155,"885 N Main St, Layton, UT 84041",84041,41.0727532,-111.9794768
+https://locations.tacobell.com/ut/heber-city/884-south-main.html,ut,heber-city,884-south-main,020778,"884 South Main, Heber City, UT 84032",84032,40.4968383,-111.4140579
+https://locations.tacobell.com/va/ruckersville/8726-seminole-trail.html,va,ruckersville,8726-seminole-trail,039735,"8726 Seminole Trail, Ruckersville, VA 22968",22968,38.2306009,-78.3697632
+https://locations.tacobell.com/va/alexandria/8652-richmond-hwy.html,va,alexandria,8652-richmond-hwy,036542,"8652 Richmond Hwy, Alexandria, VA 22309",22309,38.723025,-77.121363
+https://locations.tacobell.com/va/staunton/854-statler-blvd.html,va,staunton,854-statler-blvd,039720,"854 Statler Blvd, Staunton, VA 24401",24401,38.1384746,-79.0668479
+https://locations.tacobell.com/va/vienna/8419-old-court-house-road.html,va,vienna,8419-old-court-house-road,039985,"8419 Old Court House Road, Vienna, VA 22182",22182,38.9155801,-77.2370121
+https://locations.tacobell.com/va/norfolk/8411-hampton-blvd.html,va,norfolk,8411-hampton-blvd,004108,"8411 Hampton Blvd, Norfolk, VA 23505",23505,36.9300308,-76.3183896
+https://locations.tacobell.com/wa/lakewood/8401-s--tacoma-way.html,wa,lakewood,8401-s--tacoma-way,031324,"8401 S. Tacoma Way, Lakewood, WA 98499",98499,47.1807899,-122.4833931
+https://locations.tacobell.com/wa/mukilteo/8401-mukilteo-speedway.html,wa,mukilteo,8401-mukilteo-speedway,022604,"8401 Mukilteo Speedway, Mukilteo, WA 98275",98275,47.9217652,-122.2996091
+https://locations.tacobell.com/ut/payson/837-turf-farm-rd-.html,ut,payson,837-turf-farm-rd-,027887,"837 Turf Farm Rd., Payson, UT 84651",84651,40.0309402,-111.7538076
+https://locations.tacobell.com/wa/vancouver/8300-ne-vancouver-plaza-dr.html,wa,vancouver,8300-ne-vancouver-plaza-dr,004715,"8300 NE Vancouver Plaza Dr, Vancouver, WA 98662",98662,45.6534699,-122.5880794
+https://locations.tacobell.com/wa/longview/830-ocean-beach-hwy.html,wa,longview,830-ocean-beach-hwy,020555,"830 Ocean Beach Hwy, Longview, WA 98632",98632,46.1467725,-122.9275493
+https://locations.tacobell.com/wa/spokane/825-w-3rd-ave.html,wa,spokane,825-w-3rd-ave,038936,"825 W 3rd Ave, Spokane, WA 99201",99201,47.6531608,-117.4246631
+https://locations.tacobell.com/va/williamsburg/823-east-rochambeau-drive.html,va,williamsburg,823-east-rochambeau-drive,030475,"823 East Rochambeau Drive, Williamsburg, VA 23188",23188,37.3423427,-76.73902679999999
+https://locations.tacobell.com/va/charlottesville/820-gardens-blvd.html,va,charlottesville,820-gardens-blvd,039718,"820 Gardens Blvd, Charlottesville, VA 22901",22901,38.0845538,-78.4715995
+https://locations.tacobell.com/va/lynchburg/8131-timberlake-road.html,va,lynchburg,8131-timberlake-road,039762,"8131 Timberlake Road, Lynchburg, VA 24502",24502,37.3480747,-79.2327638
+https://locations.tacobell.com/va/covington/812-e--madison-street.html,va,covington,812-e--madison-street,030371,"812 E. Madison Street, Covington, VA 24426",24426,37.77654,-79.9675851
+https://locations.tacobell.com/wa/deer-park/807-s-main-ave.html,wa,deer-park,807-s-main-ave,038951,"807 S Main Ave, Deer Park, WA 99006",99006,47.9622191,-117.4769692
+https://locations.tacobell.com/va/ashland/804-england-street.html,va,ashland,804-england-street,002326,"804 England Street, Ashland, VA 23005",23005,37.7587679,-77.4669401
+https://locations.tacobell.com/va/charlottesville/801-emmet-st--n-.html,va,charlottesville,801-emmet-st--n-,039732,"801 Emmet St. N., Charlottesville, VA 22903",22903,38.0473784,-78.504574
+https://locations.tacobell.com/va/marion/798-n--main-street.html,va,marion,798-n--main-street,J718244,"798 N. Main Street, Marion, VA 24354",24354,36.8395601,-81.5077396
+https://locations.tacobell.com/va/manassas/7791-sudley-rd.html,va,manassas,7791-sudley-rd,004496,"7791 Sudley Rd, Manassas, VA 20109",20109,38.7881856,-77.5134753
+https://locations.tacobell.com/ut/cedar-city/775-west-200-north.html,ut,cedar-city,775-west-200-north,025386,"775 West 200 North, Cedar City, UT 84720",84720,37.6850206,-113.1092873
+https://locations.tacobell.com/va/appomattox/7730-richmond-highway.html,va,appomattox,7730-richmond-highway,039774,"7730 Richmond Highway, Appomattox, VA 24522",24522,37.3633985,-78.8457897
+https://locations.tacobell.com/va/gainesville/7620-linton-hall-rd.html,va,gainesville,7620-linton-hall-rd,021151,"7620 Linton Hall Rd, Gainesville, VA 20155",20155,38.7924631,-77.6104211
+https://locations.tacobell.com/va/newport-news/746-j-clyde-morris-blvd-.html,va,newport-news,746-j-clyde-morris-blvd-,G135164,"746 J Clyde Morris Blvd., Newport News, VA 23601",23601,37.0782306,-76.4631118
+https://locations.tacobell.com/va/annandale/7450-little-river-turnpike.html,va,annandale,7450-little-river-turnpike,K071150,"7450 Little River Turnpike, Annandale, VA 22003",22003,38.8320072,-77.2030952
+https://locations.tacobell.com/wa/everett/7431-evergreen-way.html,wa,everett,7431-evergreen-way,031341,"7431 Evergreen Way, Everett, WA 98203",98203,47.9303267,-122.2202067
+https://locations.tacobell.com/va/mechanicsville/7415-bell-creek-road.html,va,mechanicsville,7415-bell-creek-road,016635,"7415 Bell Creek Road, Mechanicsville, VA 23111",23111,37.6090775,-77.3553313
+https://locations.tacobell.com/ut/tooele/737-n-main.html,ut,tooele,737-n-main,005610,"737 N Main, Tooele, UT 84074",84074,40.3506941,-112.4517654
+https://locations.tacobell.com/va/radford/7369-peppers-ferry-road.html,va,radford,7369-peppers-ferry-road,039766,"7369 Peppers Ferry Road, Radford, VA 24141",24141,37.1506465,-80.5824476
+https://locations.tacobell.com/va/falmouth/730-warrenton-rd.html,va,falmouth,730-warrenton-rd,015564,"730 Warrenton Rd, Falmouth, VA 22406",22406,38.3516752,-77.5054652
+https://locations.tacobell.com/va/alexandria/7230-richmond-hwy.html,va,alexandria,7230-richmond-hwy,036548,"7230 Richmond Hwy, Alexandria, VA 22306",22306,38.7597494,-77.0846113
+https://locations.tacobell.com/va/richmond/7210-w--broad-st-.html,va,richmond,7210-w--broad-st-,004615,"7210 W. Broad St., Richmond, VA 23294",23294,37.5818695,-77.4938597
+https://locations.tacobell.com/wa/selah/721-n-park-ctr.html,wa,selah,721-n-park-ctr,042766,"721 N Park Ctr, Selah, WA 98942",98942,46.6640426,-120.5216867
+https://locations.tacobell.com/wa/vancouver/7206-ne-highway-99.html,wa,vancouver,7206-ne-highway-99,030834,"7206 NE Highway 99, Vancouver, WA 98665",98665,45.6741101,-122.6638589
+https://locations.tacobell.com/wa/yakima/716-e-yakima-ave.html,wa,yakima,716-e-yakima-ave,042761,"716 E Yakima Ave, Yakima, WA 98901",98901,46.6043283,-120.4958737
+https://locations.tacobell.com/wa/auburn/710-auburn-way-s.html,wa,auburn,710-auburn-way-s,035310,"710 Auburn Way S, Auburn, WA 98002",98002,47.3006349,-122.2239379
+https://locations.tacobell.com/va/south-hill/703-e--atlantic.html,va,south-hill,703-e--atlantic,029401,"703 E. Atlantic, South Hill, VA 23970",23970,36.7210725,-78.1169842
+https://locations.tacobell.com/wa/puyallup/702-s-meridian.html,wa,puyallup,702-s-meridian,031339,"702 S Meridian, Puyallup, WA 98371",98371,47.1857391,-122.2939641
+https://locations.tacobell.com/va/gloucester/6973-george-washington-memorial-hwy.html,va,gloucester,6973-george-washington-memorial-hwy,031818,"6973 George Washington Memorial Hwy, Gloucester, VA 23061",23061,37.3906205,-76.5296566
+https://locations.tacobell.com/va/rocky-mount/68-market-place-drive.html,va,rocky-mount,68-market-place-drive,039772,"68 Market Place Drive, Rocky Mount, VA 24151",24151,37.0112325,-79.8684197
+https://locations.tacobell.com/wa/university-place/6729-s--19th-street.html,wa,university-place,6729-s--19th-street,031332,"6729 S. 19th Street, University Place, WA 98466",98466,47.2426784,-122.5456011
+https://locations.tacobell.com/va/richmond/6720-midlothian-turnpike.html,va,richmond,6720-midlothian-turnpike,002224,"6720 Midlothian Turnpike, Richmond, VA 23225",23225,37.5028867,-77.5199335
+https://locations.tacobell.com/wa/spokane/6614-n-division-st.html,wa,spokane,6614-n-division-st,038938,"6614 N Division St, Spokane, WA 99208",99208,47.7178632,-117.4114313
+https://locations.tacobell.com/va/virginia-beach/6544-indian-river-rd-.html,va,virginia-beach,6544-indian-river-rd-,G135121,"6544 Indian River Rd., Virginia Beach, VA 23464",23464,36.817931,-76.2170921
+https://locations.tacobell.com/va/chesterfield/6541-centralia-road.html,va,chesterfield,6541-centralia-road,015877,"6541 Centralia Road, Chesterfield, VA 23832",23832,37.3725886,-77.5008767
+https://locations.tacobell.com/ut/park-city/6542-n-landmark-dr.html,ut,park-city,6542-n-landmark-dr,033164,"6542 N Landmark Dr, Park City, UT 84098",84098,40.7247827,-111.5466302
+https://locations.tacobell.com/va/norfolk/649-newtown-rd.html,va,norfolk,649-newtown-rd,030924,"649 Newtown Rd, Norfolk, VA 23502",23502,36.8483406,-76.1814145
+https://locations.tacobell.com/ut/american-fork/633-s-500-e.html,ut,american-fork,633-s-500-e,025392,"633 S 500 E, American Fork, UT 84003",84003,40.3517594,-111.7855471
+https://locations.tacobell.com/ut/clearfield/632-n-main-st.html,ut,clearfield,632-n-main-st,033160,"632 N Main St, Clearfield, UT 84015",84015,41.1227563,-112.0255594
+https://locations.tacobell.com/va/chester/630-e--hundred-rd.html,va,chester,630-e--hundred-rd,029551,"630 E. Hundred Rd, Chester, VA 23836",23836,37.3469309,-77.343981
+https://locations.tacobell.com/va/colonial-heights/628-southpark-blvd.html,va,colonial-heights,628-southpark-blvd,016941,"628 Southpark Blvd, Colonial Heights, VA 23834",23834,37.2497076,-77.3901476
+https://locations.tacobell.com/va/chesapeake/628-grassfield-pkwy.html,va,chesapeake,628-grassfield-pkwy,029834,"628 Grassfield Pkwy, Chesapeake, VA 23322",23322,36.721373,-76.305878
+https://locations.tacobell.com/ut/salt-lake-city/621-east-400-south.html,ut,salt-lake-city,621-east-400-south,033169,"621 East 400 South, Salt Lake City, UT 84102",84102,40.7609738,-111.8730797
+https://locations.tacobell.com/va/suffolk/6200-college-drive.html,va,suffolk,6200-college-drive,031463,"6200 College Drive, Suffolk, VA 23435",23435,36.879137,-76.423869
+https://locations.tacobell.com/wa/omak/620-omache-drive.html,wa,omak,620-omache-drive,C150009,"620 Omache Drive, Omak, WA 98841",98841,48.4181319,-119.5077597
+https://locations.tacobell.com/va/front-royal/620-north-royal-avenue.html,va,front-royal,620-north-royal-avenue,016286,"620 North Royal Avenue, Front Royal, VA 22630",22630,38.9271055,-78.1943909
+https://locations.tacobell.com/wa/marysville/616-state-street.html,wa,marysville,616-state-street,031335,"616 State Street, Marysville, WA 98270",98270,48.0543138,-122.1765451
+https://locations.tacobell.com/ut/saint-george/610-east-st-george-blvd.html,ut,saint-george,610-east-st-george-blvd,025385,"610 East St George Blvd, Saint George, UT 84770",84770,37.1095632,-113.5701124
+https://locations.tacobell.com/va/blacksburg/608-n-main-st.html,va,blacksburg,608-n-main-st,039757,"608 N Main St, Blacksburg, VA 24060",24060,37.2337653,-80.4184459
+https://locations.tacobell.com/va/norton/604-trent-st.html,va,norton,604-trent-st,029032,"604 Trent St, Norton, VA 24273",24273,36.9397229,-82.6068599
+https://locations.tacobell.com/wa/seattle/5918-15th-avenue-nw.html,wa,seattle,5918-15th-avenue-nw,035315,"5918 15th Avenue NW, Seattle, WA 98107",98107,47.6718425,-122.37609
+https://locations.tacobell.com/va/alexandria/5890-kingstowne-center.html,va,alexandria,5890-kingstowne-center,K071152,"5890 Kingstowne Center #160, Alexandria, VA 22315",22315,38.7718262,-77.1364834
+https://locations.tacobell.com/va/virginia-beach/5845-northampton-blvd.html,va,virginia-beach,5845-northampton-blvd,031811,"5845 Northampton Blvd, Virginia Beach, VA 23471",23471,36.8802978,-76.1872905
+https://locations.tacobell.com/va/richmond/5811-w-broad-st.html,va,richmond,5811-w-broad-st,003733,"5811 W Broad St, Richmond, VA 23230",23230,37.5909161,-77.5053189
+https://locations.tacobell.com/ut/lindon/571-n--state-street.html,ut,lindon,571-n--state-street,030456,"571 N. State Street, Lindon, UT 84042",84042,40.348892,-111.7282505
+https://locations.tacobell.com/va/burke/5661-burke-centre-parkway.html,va,burke,5661-burke-centre-parkway,039090,"5661 Burke Centre Parkway, Burke, VA 22015",22015,38.8002272,-77.3232037
+https://locations.tacobell.com/wa/lacey/5650-martin-way.html,wa,lacey,5650-martin-way,035312,"5650 Martin Way, Lacey, WA 98516",98516,47.049777,-122.8068834
+https://locations.tacobell.com/ut/roy/5641-s-1900-w.html,ut,roy,5641-s-1900-w,033156,"5641 S 1900 W, Roy, UT 84067",84067,41.1607283,-112.0264684
+https://locations.tacobell.com/va/culpeper/559-james-madison-hwy.html,va,culpeper,559-james-madison-hwy,016062,"559 James Madison Hwy, Culpeper, VA 22701",22701,38.4805339,-77.9821282
+https://locations.tacobell.com/ut/kearns/5534-west-6200-south.html,ut,kearns,5534-west-6200-south,033176,"5534 West 6200 South, Kearns, UT 84118",84118,40.6390147,-112.0231262
+https://locations.tacobell.com/wa/lacey/5520-corporate-center-lane-se.html,wa,lacey,5520-corporate-center-lane-se,035321,"5520 Corporate Center Lane SE, Lacey, WA 98503",98503,46.99814869999999,-122.8241792
+https://locations.tacobell.com/va/fredericksburg/5511-plank-road.html,va,fredericksburg,5511-plank-road,033522,"5511 Plank Road, Fredericksburg, VA 22407",22407,38.291514,-77.5630934
+https://locations.tacobell.com/va/fredericksburg/543-emancipation-hwy.html,va,fredericksburg,543-emancipation-hwy,001879,"543 Emancipation Hwy, Fredericksburg, VA 22401",22401,38.2782543,-77.490196
+https://locations.tacobell.com/va/king-george/5400-james-madison-parkway.html,va,king-george,5400-james-madison-parkway,020974,"5400 James Madison Parkway, King George, VA 22485",22485,38.3389931,-77.0780402
+https://locations.tacobell.com/va/virginia-beach/540-1st-colonial-rd.html,va,virginia-beach,540-1st-colonial-rd,005481,"540 1st Colonial Rd, Virginia Beach, VA 23451",23451,36.8473887,-76.0206887
+https://locations.tacobell.com/va/prince-george/5322-oaklawn-blvd.html,va,prince-george,5322-oaklawn-blvd,003850,"5322 Oaklawn Blvd, Prince George, VA 23875",23875,37.2605306,-77.3257265
+https://locations.tacobell.com/va/williamsburg/5239-john-tyler-hwy.html,va,williamsburg,5239-john-tyler-hwy,015572,"5239 John Tyler Hwy, Williamsburg, VA 23185",23185,37.2588906,-76.7400816
+https://locations.tacobell.com/va/grafton/5230-george-washington-mem-hwy.html,va,grafton,5230-george-washington-mem-hwy,003827,"5230 George Washington Mem Hwy, Grafton, VA 23692",23692,37.1576379,-76.4620409
+https://locations.tacobell.com/va/woodford/5217-mudd-tavern-road.html,va,woodford,5217-mudd-tavern-road,028352,"5217 Mudd Tavern Road, Woodford, VA 22580",22580,38.1334652,-77.5149304
+https://locations.tacobell.com/va/virginia-beach/5195-shore-dr.html,va,virginia-beach,5195-shore-dr,027641,"5195 Shore Dr, Virginia Beach, VA 23455",23455,36.9059608,-76.1508574
+https://locations.tacobell.com/wa/fife/5152-pacific-highway-east.html,wa,fife,5152-pacific-highway-east,031327,"5152 Pacific Highway East, Fife, WA 98424",98424,47.2427543,-122.3600515
+https://locations.tacobell.com/wa/everett/515-sw-128th-street.html,wa,everett,515-sw-128th-street,031336,"515 SW 128th Street, Everett, WA 98204",98204,47.8822755,-122.2409094
+https://locations.tacobell.com/wa/pasco/5105-north-road-68.html,wa,pasco,5105-north-road-68,042765,"5105 North Road 68, Pasco, WA 99301",99301,46.2926899,-119.1918711
+https://locations.tacobell.com/ut/bountiful/509-west-500-south.html,ut,bountiful,509-west-500-south,004062,"509 West 500 South, Bountiful, UT 84010",84010,40.8838646,-111.8925423
+https://locations.tacobell.com/ut/herriman/5088-w-13400-south.html,ut,herriman,5088-w-13400-south,030426,"5088 W 13400 South, Herriman, UT 84096",13400,40.5083585,-112.0124432
+https://locations.tacobell.com/va/newport-news/5020-w-mercury-blvd.html,va,newport-news,5020-w-mercury-blvd,033515,"5020 W Mercury Blvd, Newport News, VA 23605",23605,37.0207539,-76.4431235
+https://locations.tacobell.com/wa/auburn/501-15th-st--n-e-.html,wa,auburn,501-15th-st--n-e-,035307,"501 15th St. N.E., Auburn, WA 98002",98002,47.3211204,-122.2236709
+https://locations.tacobell.com/wa/everett/5006-132nd-street-se.html,wa,everett,5006-132nd-street-se,031334,"5006 132nd Street SE, Everett, WA 98208",98208,47.87731,-122.1646582
+https://locations.tacobell.com/va/portsmouth/5004-george-washington-hwy-.html,va,portsmouth,5004-george-washington-hwy-,G135152,"5004 George Washington Hwy., Portsmouth, VA 23702",23702,36.7943884,-76.3282198
+https://locations.tacobell.com/va/martinsville/500-liberty-st.html,va,martinsville,500-liberty-st,039769,"500 Liberty St, Martinsville, VA 24112",24112,36.6969125,-79.8742355
+https://locations.tacobell.com/va/abingdon/495-cummings-st.html,va,abingdon,495-cummings-st,029021,"495 Cummings St, Abingdon, VA 24210",24210,36.7025891,-81.9749646
+https://locations.tacobell.com/va/arlington/4923-lee-hwy.html,va,arlington,4923-lee-hwy,036544,"4923 Lee Hwy, Arlington, VA 22207",22207,38.8965162,-77.1280136
+https://locations.tacobell.com/wa/lynnwood/4919-196th-street-s-w.html,wa,lynnwood,4919-196th-street-s-w,022607,"4919 196th Street S W, Lynnwood, WA 98036",98036,47.8214599,-122.3001065
+https://locations.tacobell.com/va/lexington/49-e--midland-trail.html,va,lexington,49-e--midland-trail,039726,"49 E. Midland Trail, Lexington, VA 24450",24450,37.7766058,-79.4327473
+https://locations.tacobell.com/va/zion-crossroads/485-market-street.html,va,zion-crossroads,485-market-street,039744,"485 Market Street, Zion Crossroads, VA 22942",22942,37.9811367,-78.2092016
+https://locations.tacobell.com/va/fredericksburg/4720-mine-road.html,va,fredericksburg,4720-mine-road,017977,"4720 Mine Road, Fredericksburg, VA 22408",22408,38.2493697,-77.4983448
+https://locations.tacobell.com/va/arlington/4681-king-st-.html,va,arlington,4681-king-st-,022917,"4681 King St., Arlington, VA 22206",22206,38.8427979,-77.1081721
+https://locations.tacobell.com/va/virginia-beach/4597-virginia-beach-blvd.html,va,virginia-beach,4597-virginia-beach-blvd,015909,"4597 Virginia Beach Blvd, Virginia Beach, VA 23462",23462,36.8431371,-76.1362219
+https://locations.tacobell.com/va/richmond/4504-jefferson-davis-hwy-.html,va,richmond,4504-jefferson-davis-hwy-,G135145,"4504 Jefferson Davis Hwy., Richmond, VA 23234",23234,37.5083611,-77.4475466
+https://locations.tacobell.com/vt/rutland/45-farrell-road.html,vt,rutland,45-farrell-road,026367,"45 Farrell Road, Rutland, VT 05701",05701,43.584172,-72.9685138
+https://locations.tacobell.com/va/ashburn/44855-lakeview-overlook-plaza.html,va,ashburn,44855-lakeview-overlook-plaza,036549,"44855 Lakeview Overlook Plaza, Ashburn, VA 20147",44855,39.0591851,-77.4496316
+https://locations.tacobell.com/va/chantilly/4418-chantilly-place.html,va,chantilly,4418-chantilly-place,039984,"4418 Chantilly Place, Chantilly, VA 20151",20151,38.8866478,-77.4444479
+https://locations.tacobell.com/va/richmond/4388-south-laburnum-avenue.html,va,richmond,4388-south-laburnum-avenue,018404,"4388 South Laburnum Avenue, Richmond, VA 23231",23231,37.5292201,-77.3589851
+https://locations.tacobell.com/ut/provo/433-n-900-e.html,ut,provo,433-n-900-e,025398,"433 N 900 E, Provo, UT 84606",84606,40.2432398,-111.6431545
+https://locations.tacobell.com/va/ashburn/43230-southern-walk-plaza.html,va,ashburn,43230-southern-walk-plaza,039986,"43230 Southern Walk Plaza, Ashburn, VA 20148",43230,39.0085624,-77.5063506
+https://locations.tacobell.com/ut/ogden/4312-harrison-blvd.html,ut,ogden,4312-harrison-blvd,033161,"4312 Harrison Blvd, Ogden, UT 84403",84403,41.1844111,-111.9486871
+https://locations.tacobell.com/wa/pullman/425-ne-stadium-way.html,wa,pullman,425-ne-stadium-way,029831,"425 NE Stadium Way, Pullman, WA 99163",99163,46.7387431,-117.1710553
+https://locations.tacobell.com/va/pennington-gap/42487-e--morgan-ave.html,va,pennington-gap,42487-e--morgan-ave,031530,"42487 E. Morgan Ave, Pennington Gap, VA 24277",42487,36.7619947,-83.0149484
+https://locations.tacobell.com/va/dale-city/4248-dale-blvd.html,va,dale-city,4248-dale-blvd,003487,"4248 Dale Blvd, Dale City, VA 22193",22193,38.640281,-77.3303153
+https://locations.tacobell.com/va/virginia-beach/4236-holland-rd.html,va,virginia-beach,4236-holland-rd,027760,"4236 Holland Rd, Virginia Beach, VA 23452",23452,36.8194098,-76.1193521
+https://locations.tacobell.com/va/roanoke/4220-franklin-rd-sw.html,va,roanoke,4220-franklin-rd-sw,039760,"4220 Franklin Rd SW, Roanoke, VA 24014",24014,37.2227254,-79.9676334
+https://locations.tacobell.com/wa/toppenish/415-south-elm-street.html,wa,toppenish,415-south-elm-street,E720194,"415 South Elm Street, Toppenish, WA 98948",98948,46.3743746,-120.3206733
+https://locations.tacobell.com/va/chesapeake/4103-portsmouth-blvd.html,va,chesapeake,4103-portsmouth-blvd,005154,"4103 Portsmouth Blvd, Chesapeake, VA 23321",23321,36.8237644,-76.4097202
+https://locations.tacobell.com/wa/spokane/4101-no-market-st.html,wa,spokane,4101-no-market-st,038946,"4101 No Market St, Spokane, WA 99207",99207,47.6957873,-117.365594
+https://locations.tacobell.com/wa/east-wenatchee/410-valley-mall-parkway.html,wa,east-wenatchee,410-valley-mall-parkway,C150002,"410 Valley Mall Parkway, East Wenatchee, WA 98802",98802,47.4097594,-120.2901136
+https://locations.tacobell.com/va/norfolk/4009-hampton-blvd-.html,va,norfolk,4009-hampton-blvd-,029833,"4009 Hampton Blvd., Norfolk, VA 23508",23508,36.8814,-76.3024019
+https://locations.tacobell.com/wa/yakima/4002-fruitvale-blvd.html,wa,yakima,4002-fruitvale-blvd,042760,"4002 Fruitvale Blvd, Yakima, WA 98908",98908,46.6208721,-120.5615509
+https://locations.tacobell.com/va/bluefield/3951-college-ave.html,va,bluefield,3951-college-ave,031445,"3951 College Ave, Bluefield, VA 24605",24605,37.2399006,-81.2542017
+https://locations.tacobell.com/wa/lacey/3815-pacific-avenue-s-e-.html,wa,lacey,3815-pacific-avenue-s-e-,031337,"3815 Pacific Avenue S.E., Lacey, WA 98503",98503,47.0397231,-122.8375543
+https://locations.tacobell.com/wa/marysville/3729-116th-st-ne.html,wa,marysville,3729-116th-st-ne,035318,"3729 116th St NE, Marysville, WA 98270",98270,48.100289,-122.181095
+https://locations.tacobell.com/ut/hurricane/379-w-state-street.html,ut,hurricane,379-w-state-street,025397,"379 W State Street, Hurricane, UT 84737",84737,37.1762206,-113.2952806
+https://locations.tacobell.com/va/virginia-beach/3708-virginia-beach-blvd.html,va,virginia-beach,3708-virginia-beach-blvd,004526,"3708 Virginia Beach Blvd, Virginia Beach, VA 23452",23452,36.8405391,-76.1002872
+https://locations.tacobell.com/wa/bellevue/3705-128th-ave-s-e.html,wa,bellevue,3705-128th-ave-s-e,022598,"3705-128th Ave S E, Bellevue, WA 98006",98006,47.57726359999999,-122.1698823
+https://locations.tacobell.com/va/norfolk/3690-sewells-point-road.html,va,norfolk,3690-sewells-point-road,G135159,"3690 Sewells Point Road, Norfolk, VA 23513",23513,36.8896515,-76.2380639
+https://locations.tacobell.com/ut/ogden/365-east-12th-street.html,ut,ogden,365-east-12th-street,033172,"365 East 12th Street, Ogden, UT 84404",84404,41.2440114,-111.9709798
+https://locations.tacobell.com/vt/saint-albans-town/363-swanton-road.html,vt,saint-albans-town,363-swanton-road,C029043,"363 Swanton Road, Saint Albans Town, VT 05478",05478,44.8395896,-73.0824703
+https://locations.tacobell.com/wa/kennewick/3623-plaza-way.html,wa,kennewick,3623-plaza-way,032196,"3623 Plaza Way, Kennewick, WA 99338",99338,46.1787578,-119.1888834
+https://locations.tacobell.com/va/fredericksburg/3551-plank-road.html,va,fredericksburg,3551-plank-road,033516,"3551 Plank Road, Fredericksburg, VA 22407",22407,38.2936196,-77.5214732
+https://locations.tacobell.com/ut/magna/3545-south-8400-west.html,ut,magna,3545-south-8400-west,033180,"3545 South 8400 West, Magna, UT 84044",84044,40.6954778,-112.0911742
+https://locations.tacobell.com/va/collinsville/3544-virginia-ave.html,va,collinsville,3544-virginia-ave,039770,"3544 Virginia Ave, Collinsville, VA 24078",24078,36.727954,-79.9176466
+https://locations.tacobell.com/ut/west-valley-city/3475-west-3500-south.html,ut,west-valley-city,3475-west-3500-south,033167,"3475 West 3500 South, West Valley City, UT 84119",84119,40.696541,-111.9742106
+https://locations.tacobell.com/wa/port-orchard/3458-se-mile-hill-dr.html,wa,port-orchard,3458-se-mile-hill-dr,037298,"3458 SE Mile Hill Dr, Port Orchard, WA 98366",98366,47.533587,-122.6075611
+https://locations.tacobell.com/ut/west-valley-city/3447-south-5600-west.html,ut,west-valley-city,3447-south-5600-west,033165,"3447 South 5600 West, West Valley City, UT 84120",84120,40.7250991,-112.0248847
+https://locations.tacobell.com/wa/camas/3405-ne-3rd-ave.html,wa,camas,3405-ne-3rd-ave,017226,"3405 NE 3rd Ave, Camas, WA 98607",98607,45.5847809,-122.3692775
+https://locations.tacobell.com/va/hampton/3375-commander-shepard-boulevard.html,va,hampton,3375-commander-shepard-boulevard,031130,"3375 Commander Shepard Boulevard, Hampton, VA 23666",23666,37.0929793,-76.3950962
+https://locations.tacobell.com/wa/bremerton/3320-kitsap-way.html,wa,bremerton,3320-kitsap-way,042282,"3320 Kitsap Way, Bremerton, WA 98312",98312,47.5717295,-122.6598136
+https://locations.tacobell.com/va/roanoke/3306-westmoreland-drive.html,va,roanoke,3306-westmoreland-drive,039764,"3306 Westmoreland Drive, Roanoke, VA 24018",24018,37.2330305,-80.0072775
+https://locations.tacobell.com/va/woodstock/330-west-reservoir-road.html,va,woodstock,330-west-reservoir-road,015530,"330 West Reservoir Road, Woodstock, VA 22664",22664,38.87091,-78.5243576
+https://locations.tacobell.com/va/petersburg/3294-s--crater-road.html,va,petersburg,3294-s--crater-road,025404,"3294 S. Crater Road, Petersburg, VA 23805",23805,37.1852235,-77.3687308
+https://locations.tacobell.com/wa/oak-harbor/32780-state-highway-20.html,wa,oak-harbor,32780-state-highway-20,031343,"32780 State Highway 20, Oak Harbor, WA 98277",32780,48.3044726,-122.6452578
+https://locations.tacobell.com/va/chesapeake/3236-western-branch-blvd.html,va,chesapeake,3236-western-branch-blvd,004762,"3236 Western Branch Blvd, Chesapeake, VA 23321",23321,36.8649044,-76.4072507
+https://locations.tacobell.com/wa/kent/322-washington-ave-south.html,wa,kent,322-washington-ave-south,031323,"322 Washington Ave South, Kent, WA 98032",98032,47.379015,-122.2470056
+https://locations.tacobell.com/va/virginia-beach/3209-holland-rd.html,va,virginia-beach,3209-holland-rd,030520,"3209 Holland Rd, Virginia Beach, VA 23453",23453,36.7932506,-76.081826
+https://locations.tacobell.com/wa/renton/320-rainier-avenue-south.html,wa,renton,320-rainier-avenue-south,031344,"320 Rainier Avenue South, Renton, WA 98055",98055,47.4790973,-122.2161154
+https://locations.tacobell.com/ut/salt-lake-city/3197-west-5400-south.html,ut,salt-lake-city,3197-west-5400-south,004303,"3197 West 5400 South, Salt Lake City, UT 84118",84118,40.6530804,-112.0351056
+https://locations.tacobell.com/va/bristol/190-dominion-place.html,va,bristol,190-dominion-place,029048,"190 Dominion Place, Bristol, VA 24202",24202,36.6335306,-82.1264142
+https://locations.tacobell.com/ut/centerville/311-north-frontage-road.html,ut,centerville,311-north-frontage-road,033173,"311 North Frontage Road, Centerville, UT 84014",84014,40.9196856,-111.8902248
+https://locations.tacobell.com/wa/silverdale/3051-nw-bucklin-hill-rd.html,wa,silverdale,3051-nw-bucklin-hill-rd,037297,"3051 NW Bucklin Hill Rd, Silverdale, WA 98383",98383,47.6502814,-122.6898508
+https://locations.tacobell.com/va/danville/3035-riverside-dr.html,va,danville,3035-riverside-dr,039758,"3035 Riverside Dr, Danville, VA 24541",24541,36.5875037,-79.4211879
+https://locations.tacobell.com/wa/lake-stevens/303-91st-ave-ne.html,wa,lake-stevens,303-91st-ave-ne,022605,"303 91st Ave NE, Lake Stevens, WA 98258",98258,47.9989413,-122.1069754
+https://locations.tacobell.com/wa/spokane/3010-east-29th-avenue.html,wa,spokane,3010-east-29th-avenue,038945,"3010 East 29th Avenue, Spokane, WA 99223",99223,47.628001,-117.3668938
+https://locations.tacobell.com/wa/tacoma/2945-s-38th-st.html,wa,tacoma,2945-s-38th-st,031312,"2945 S 38th St, Tacoma, WA 98409",98409,47.2228081,-122.4755441
+https://locations.tacobell.com/ut/salt-lake-city/2930-e-3300-s.html,ut,salt-lake-city,2930-e-3300-s,020929,"2930 E 3300 S, Salt Lake City, UT 84109",84109,40.6994523,-111.8097766
+https://locations.tacobell.com/wa/tacoma/2902-6th-avenue.html,wa,tacoma,2902-6th-avenue,031316,"2902 6th Avenue, Tacoma, WA 98406",98406,47.255053,-122.4739031
+https://locations.tacobell.com/va/waynesboro/2901-west-main-street.html,va,waynesboro,2901-west-main-street,039730,"2901 West Main Street, Waynesboro, VA 22980",22980,38.0822947,-78.930441
+https://locations.tacobell.com/ut/springville/287-north-main.html,ut,springville,287-north-main,025396,"287 North Main, Springville, UT 84663",84663,40.1559849,-111.6569764
+https://locations.tacobell.com/va/portsmouth/2804-airline-blvd.html,va,portsmouth,2804-airline-blvd,001764,"2804 Airline Blvd, Portsmouth, VA 23701",23701,36.810556,-76.3658957
+https://locations.tacobell.com/va/virginia-beach/2800-sabre-st-.html,va,virginia-beach,2800-sabre-st-,015775,"2800 Sabre St., Virginia Beach, VA 23452",23452,36.823551,-76.0676084
+https://locations.tacobell.com/wa/everett/2727-broadway-st.html,wa,everett,2727-broadway-st,022602,"2727 Broadway St, Everett, WA 98201",98201,47.9809243,-122.2011609
+https://locations.tacobell.com/wa/kennewick/2718-w-kennewick-ave.html,wa,kennewick,2718-w-kennewick-ave,022514,"2718 W Kennewick Ave, Kennewick, WA 99336",99336,46.2097972,-119.1584407
+https://locations.tacobell.com/wa/des-moines/27001-pacific-hwy-s.html,wa,des-moines,27001-pacific-hwy-s,031320,"27001 Pacific Hwy S, Des Moines, WA 98198",27001,47.3595107,-122.3090384
+https://locations.tacobell.com/va/troutville/2700-lee-highway-south.html,va,troutville,2700-lee-highway-south,039765,"2700 Lee Highway South, Troutville, VA 24175",24175,37.385204,-79.9025719
+https://locations.tacobell.com/ut/saratoga-springs/27-w--crossroads-blvd.html,ut,saratoga-springs,27-w--crossroads-blvd,029468,"27 W. Crossroads Blvd, Saratoga Springs, UT 84045",84045,40.3875114,-111.9064409
+https://locations.tacobell.com/wa/cheney/2626-first-street.html,wa,cheney,2626-first-street,038943,"2626 First Street, Cheney, WA 99004",99004,47.5041397,-117.5652914
+https://locations.tacobell.com/wa/tacoma/2615-north-pearl-street.html,wa,tacoma,2615-north-pearl-street,031318,"2615 North Pearl Street, Tacoma, WA 98406",98406,47.2719429,-122.5152359
+https://locations.tacobell.com/wa/vancouver/2600-north-general-anderson.html,wa,vancouver,2600-north-general-anderson,018767,"2600 North General Anderson, Vancouver, WA 98661",98661,45.6391203,-122.6203975
+https://locations.tacobell.com/va/manakin-sabot/26-broad-street-rd.html,va,manakin-sabot,26-broad-street-rd,030374,"26 Broad Street Rd, Manakin Sabot, VA 23103",23103,37.6699436,-77.6802515
+https://locations.tacobell.com/va/stafford/255-garrisonville-rd.html,va,stafford,255-garrisonville-rd,003921,"255 Garrisonville Rd, Stafford, VA 22554",22554,38.474217,-77.4171969
+https://locations.tacobell.com/va/north-dinwiddie/25318-ritchie-ave.html,va,north-dinwiddie,25318-ritchie-ave,032541,"25318 Ritchie Ave, North Dinwiddie, VA 23803",25318,37.1965733,-77.4675665
+https://locations.tacobell.com/va/christiansburg/2500-market-st.html,va,christiansburg,2500-market-st,039761,"2500 Market St, Christiansburg, VA 24073",24073,37.1642869,-80.4228141
+https://locations.tacobell.com/wa/richland/2485-queensgate-dr-.html,wa,richland,2485-queensgate-dr-,024328,"2485 Queensgate Dr., Richland, WA 99352",99352,46.2569479,-119.3063936
+https://locations.tacobell.com/va/norfolk/2469-e--little-creek-rd-.html,va,norfolk,2469-e--little-creek-rd-,027640,"2469 E. Little Creek Rd., Norfolk, VA 23518",23518,36.91492,-76.2128221
+https://locations.tacobell.com/ut/salt-lake-city/2450-s-redwood-rd.html,ut,salt-lake-city,2450-s-redwood-rd,018841,"2450 S Redwood Rd Harman #40, Salt Lake City, UT 84119",84119,40.71811719999999,-111.9394042
+https://locations.tacobell.com/wa/pasco/2404-west-court-street.html,wa,pasco,2404-west-court-street,022517,"2404 West Court Street, Pasco, WA 99301",99301,46.2412137,-119.1229164
+https://locations.tacobell.com/wa/moses-lake/2401-s-maiers-rd.html,wa,moses-lake,2401-s-maiers-rd,038948,"2401 S Maiers Rd, Moses Lake, WA 98837",98837,47.1032919,-119.2497821
+https://locations.tacobell.com/va/virginia-beach/2400-elson-green-avenue.html,va,virginia-beach,2400-elson-green-avenue,031631,"2400 Elson Green Avenue, Virginia Beach, VA 23456",23456,36.7564898,-76.0073307
+https://locations.tacobell.com/wa/kent/23920-104th-avenue-s-e-.html,wa,kent,23920-104th-avenue-s-e-,031346,"23920 104th Avenue S.E., Kent, WA 98031",23920,47.3872033,-122.2017688
+https://locations.tacobell.com/va/hayes/2391-george-washington.html,va,hayes,2391-george-washington,004451,"2391 George Washington, Hayes, VA 23072",23072,37.2758476,-76.4991057
+https://locations.tacobell.com/wa/belfair/23881-ne-hwy-3.html,wa,belfair,23881-ne-hwy-3,037299,"23881 NE Hwy 3, Belfair, WA 98528",23881,47.45280409999999,-122.8245522
+https://locations.tacobell.com/wa/maple-valley/23848-225th-st--s-e-.html,wa,maple-valley,23848-225th-st--s-e-,E720421,"23848 225th St. S.E., Maple Valley, WA 98038",23848,47.4001046,-122.023025
+https://locations.tacobell.com/va/warrenton/238-broadview-ave.html,va,warrenton,238-broadview-ave,029447,"238 Broadview Ave, Warrenton, VA 20186",20186,38.7234818,-77.8056558
+https://locations.tacobell.com/va/ruther-glen/23629-rogers-clark-boulevard.html,va,ruther-glen,23629-rogers-clark-boulevard,029942,"23629 Rogers Clark Boulevard, Ruther Glen, VA 22546",23629,37.9407492,-77.4608884
+https://locations.tacobell.com/wa/bothell/23201-bothell-everett-hwy.html,wa,bothell,23201-bothell-everett-hwy,022606,"23201 Bothell-Everett Hwy, Bothell, WA 98021",23201,47.7875667,-122.2186334
+https://locations.tacobell.com/va/alexandria/231-s-van-dorn-st.html,va,alexandria,231-s-van-dorn-st,028184,"231 S Van Dorn St, Alexandria, VA 22304",22304,38.8106928,-77.1318898
+https://locations.tacobell.com/wa/yakima/230-s-72nd-ave.html,wa,yakima,230-s-72nd-ave,042762,"230 S 72nd Ave, Yakima, WA 98908",98908,46.5947387,-120.604822
+https://locations.tacobell.com/va/harrisonburg/2281-s-main-st.html,va,harrisonburg,2281-s-main-st,039725,"2281 S Main St, Harrisonburg, VA 22801",22801,38.4207784,-78.8938363
+https://locations.tacobell.com/va/norfolk/227-e--little-creek-rd-.html,va,norfolk,227-e--little-creek-rd-,009492,"227 E. Little Creek Rd., Norfolk, VA 23505",23505,36.9157809,-76.2683858
+https://locations.tacobell.com/wa/liberty-lake/22312-e-apple-way.html,wa,liberty-lake,22312-e-apple-way,038944,"22312 E Apple Way, Liberty Lake, WA 99019",22312,47.6716114,-117.1046112
+https://locations.tacobell.com/va/sterling/22288-s-sterling-blvd.html,va,sterling,22288-s-sterling-blvd,039982,"22288 S Sterling Blvd, Sterling, VA 20164",22288,38.9993639,-77.4058876
+https://locations.tacobell.com/ut/salt-lake-city/2212-s-1300-e.html,ut,salt-lake-city,2212-s-1300-e,033171,"2212 S 1300 E, Salt Lake City, UT 84106",84106,40.7416393,-111.8567207
+https://locations.tacobell.com/wa/seattle/2201-4th-avenue-south.html,wa,seattle,2201-4th-avenue-south,E720450,"2201 4th Avenue South, Seattle, WA 98134",98134,47.583819,-122.3295008
+https://locations.tacobell.com/va/herndon/2170-centreville-rd.html,va,herndon,2170-centreville-rd,036543,"2170 Centreville Rd, Herndon, VA 20170",20170,38.95895,-77.4029397
+https://locations.tacobell.com/wa/mount-vernon/217-east-college-way.html,wa,mount-vernon,217-east-college-way,031342,"217 East College Way, Mount Vernon, WA 98273",98273,48.4361909,-122.3382133
+https://locations.tacobell.com/wa/yakima/2124-s-1st-street.html,wa,yakima,2124-s-1st-street,042764,"2124 S 1st Street, Yakima, WA 98903",98903,46.5706704,-120.488202
+https://locations.tacobell.com/wa/bonney-lake/21131-state-route-410-e.html,wa,bonney-lake,21131-state-route-410-e,035309,"21131 State Route 410 E, Bonney Lake, WA 98391",21131,47.1672201,-122.1468358
+https://locations.tacobell.com/wa/seattle/210-w--mercer-st-.html,wa,seattle,210-w--mercer-st-,D181003,"210 W. Mercer St., Seattle, WA 98119",98119,47.6242945,-122.359601
+https://locations.tacobell.com/ut/riverton/2056-w--12600-s--riverton.html,ut,riverton,2056-w--12600-s--riverton,032151,"2056 W. 12600 S. Riverton, Riverton, UT 84065",12600,40.5225631,-111.9454035
+https://locations.tacobell.com/wa/federal-way/2031-s-w--campus-drive.html,wa,federal-way,2031-s-w--campus-drive,031328,"2031 S.W. Campus Drive, Federal Way, WA 98023",98023,47.3004273,-122.3604969
+https://locations.tacobell.com/va/norfolk/2011-monticello-ave.html,va,norfolk,2011-monticello-ave,027639,"2011 Monticello Ave, Norfolk, VA 23517",23517,36.8668847,-76.2844954
+https://locations.tacobell.com/va/virginia-beach/2009-lynnhaven-pkwy.html,va,virginia-beach,2009-lynnhaven-pkwy,019350,"2009 Lynnhaven Pkwy, Virginia Beach, VA 23456",23456,36.7925965,-76.1201423
+https://locations.tacobell.com/wa/port-angeles/2001-east-first-street.html,wa,port-angeles,2001-east-first-street,E143010,"2001 East First Street, Port Angeles, WA 98362",98362,48.1066904,-123.399635
+https://locations.tacobell.com/va/pulaski/1991-memorial-drive.html,va,pulaski,1991-memorial-drive,G135929,"1991 Memorial Drive, Pulaski, VA 24301",24301,37.0530794,-80.7510136
+https://locations.tacobell.com/va/norfolk/199-w--ocean-view-ave-.html,va,norfolk,199-w--ocean-view-ave-,G135136,"199 W. Ocean View Ave., Norfolk, VA 23503",23503,36.9556614,-76.2534742
+https://locations.tacobell.com/ut/salt-lake-city/1962-fort-union-blvd.html,ut,salt-lake-city,1962-fort-union-blvd,033154,"1962 Fort Union Blvd, Salt Lake City, UT 84121",84121,40.6240528,-111.8352345
+https://locations.tacobell.com/wa/redmond/1960-148th-avenue-n-e-.html,wa,redmond,1960-148th-avenue-n-e-,031340,"1960 148th Avenue N.E., Redmond, WA 98052",98052,47.6274701,-122.1427434
+https://locations.tacobell.com/ut/orem/195-west-center-street.html,ut,orem,195-west-center-street,030725,"195 West Center Street, Orem, UT 84058",84058,40.2967187,-111.6999384
+https://locations.tacobell.com/va/woodbridge/1921-daniel-stuart-sq.html,va,woodbridge,1921-daniel-stuart-sq,039042,"1921 Daniel Stuart Sq, Woodbridge, VA 22191",22191,38.6307894,-77.2744576
+https://locations.tacobell.com/wa/monroe/19025-state-route-2.html,wa,monroe,19025-state-route-2,035313,"19025 State Route 2, Monroe, WA 98272",19025,47.8608437,-121.9756158
+https://locations.tacobell.com/wa/seatac/18812-international-blvd-.html,wa,seatac,18812-international-blvd-,035311,"18812 International Blvd., Seatac, WA 98188",18812,47.43422,-122.29506
+https://locations.tacobell.com/wa/richland/1825-george-washington-way.html,wa,richland,1825-george-washington-way,042758,"1825 George Washington Way, Richland, WA 99352",99352,46.2999589,-119.2746785
+https://locations.tacobell.com/wa/othello/1820-east-main-st-.html,wa,othello,1820-east-main-st-,038949,"1820 East Main St., Othello, WA 99344",99344,46.8259114,-119.1482938
+https://locations.tacobell.com/wa/tumwater/182-trosper-rd-sw.html,wa,tumwater,182-trosper-rd-sw,035316,"182 Trosper Rd SW, Tumwater, WA 98501",98501,47.0002678,-122.91005
+https://locations.tacobell.com/ut/farr-west/1797-w-2700-n.html,ut,farr-west,1797-w-2700-n,033178,"1797 W 2700 N, Farr West, UT 84404",84404,41.3061817,-112.0221762
+https://locations.tacobell.com/va/powhatan/1793a-southcreek-one.html,va,powhatan,1793a-southcreek-one,C324001,"1793A Southcreek One, Powhatan, VA 23139",23139,37.5155368,-77.7922294
+https://locations.tacobell.com/wa/renton/17809-108th-ave-s-e.html,wa,renton,17809-108th-ave-s-e,031313,"17809 108th Ave S E, Renton, WA 98055",17809,47.4427286,-122.1974043
+https://locations.tacobell.com/ut/salt-lake-city/1758-west-north-temple.html,ut,salt-lake-city,1758-west-north-temple,033168,"1758 West North Temple, Salt Lake City, UT 84116",84116,40.7719972,-111.941014
+https://locations.tacobell.com/wa/chehalis/1755-nw-louisiana-ave.html,wa,chehalis,1755-nw-louisiana-ave,032471,"1755 NW Louisiana Ave, Chehalis, WA 98532",98532,46.6834861,-122.9734777
+https://locations.tacobell.com/wa/puyallup/17514-meridian-east.html,wa,puyallup,17514-meridian-east,E720425,"17514 Meridian East, Puyallup, WA 98374",17514,47.0981175,-122.2950997
+https://locations.tacobell.com/wa/covington/17425-se-272nd-st-.html,wa,covington,17425-se-272nd-st-,E720429,"17425 SE 272nd St., Covington, WA 98042",17425,47.3578949,-122.109329
+https://locations.tacobell.com/va/salem/1732-w--main-st-.html,va,salem,1732-w--main-st-,039756,"1732 W. Main St., Salem, VA 24153",24153,37.288425,-80.086607
+https://locations.tacobell.com/va/chesapeake/1720-parkview-drive.html,va,chesapeake,1720-parkview-drive,003276,"1720 Parkview Drive, Chesapeake, VA 23320",23320,36.7916347,-76.2393749
+https://locations.tacobell.com/va/dumfries/172-dumfries-ave.html,va,dumfries,172-dumfries-ave,039039,"172 Dumfries Ave, Dumfries, VA 22026",22026,38.5767493,-77.3223139
+https://locations.tacobell.com/wa/marysville/17105-27th-avenue-ne.html,wa,marysville,17105-27th-avenue-ne,035317,"17105 27th Avenue NE, Marysville, WA 98271",17105,48.1517367,-122.193609
+https://locations.tacobell.com/va/farmville/1708-s--main-street.html,va,farmville,1708-s--main-street,039768,"1708 S. Main Street, Farmville, VA 23901",23901,37.278609,-78.3971458
+https://locations.tacobell.com/wa/battle-ground/1702-west-main-street.html,wa,battle-ground,1702-west-main-street,021046,"1702 West Main Street, Battle Ground, WA 98604",98604,45.7809022,-122.5550643
+https://locations.tacobell.com/ut/west-jordan/1685-west-7000-south.html,ut,west-jordan,1685-west-7000-south,033170,"1685 West 7000 South, West Jordan, UT 84084",84084,40.6236843,-111.938376
+https://locations.tacobell.com/va/harrisonburg/1680-e-market-st.html,va,harrisonburg,1680-e-market-st,039715,"1680 E Market St, Harrisonburg, VA 22801",22801,38.4342131,-78.8453085
+https://locations.tacobell.com/va/virginia-beach/1670-general-booth-blvd.html,va,virginia-beach,1670-general-booth-blvd,003590,"1670 General Booth Blvd, Virginia Beach, VA 23454",23454,36.7837053,-76.0008499
+https://locations.tacobell.com/ut/clinton/1667-north-2000-west.html,ut,clinton,1667-north-2000-west,033177,"1667 North 2000 West, Clinton, UT 84015",84015,41.1378794,-112.0649823
+https://locations.tacobell.com/va/winchester/1665-s-pleasant-valley-rd.html,va,winchester,1665-s-pleasant-valley-rd,004726,"1665 S Pleasant Valley Rd, Winchester, VA 22601",22601,39.1666831,-78.1648679
+https://locations.tacobell.com/va/altavista/165-clarion-road.html,va,altavista,165-clarion-road,030308,"165 Clarion Road, Altavista, VA 24517",24517,37.1428148,-79.2664805
+https://locations.tacobell.com/ut/west-jordan/1649-w-9000-south.html,ut,west-jordan,1649-w-9000-south,003988,"1649 W 9000 South, West Jordan, UT 84088",84088,40.587788,-111.9779238
+https://locations.tacobell.com/wa/tukwila/16350-w-valley-hwy.html,wa,tukwila,16350-w-valley-hwy,031325,"16350 W Valley Hwy, Tukwila, WA 98188",16350,47.4571074,-122.2434315
+https://locations.tacobell.com/va/hampton/1603-e--pembroke-ave-.html,va,hampton,1603-e--pembroke-ave-,G135124,"1603 E. Pembroke Ave., Hampton, VA 23663",23663,37.0381836,-76.3139743
+https://locations.tacobell.com/wa/yakima/1602-w-nob-hill-blvd.html,wa,yakima,1602-w-nob-hill-blvd,042763,"1602 W Nob Hill Blvd, Yakima, WA 98902",98902,46.5850161,-120.5307322
+https://locations.tacobell.com/wa/vancouver/15640-ne-fourth-plain-rd.html,wa,vancouver,15640-ne-fourth-plain-rd,026664,"15640 NE Fourth Plain Rd, Vancouver, WA 98682",15640,45.6727814,-122.512029
+https://locations.tacobell.com/wa/tacoma/15611-pacific-ave.html,wa,tacoma,15611-pacific-ave,031315,"15611 Pacific Ave, Tacoma, WA 98444",15611,47.210894,-122.4339921
+https://locations.tacobell.com/va/newport-news/15531-warwick-blvd.html,va,newport-news,15531-warwick-blvd,003727,"15531 Warwick Blvd, Newport News, VA 23608",15531,37.1585306,-76.557495
+https://locations.tacobell.com/va/chilhowie/153-highway-107.html,va,chilhowie,153-highway-107,030880,"153 Highway 107, Chilhowie, VA 24319",24319,36.7998836,-81.6836718
+https://locations.tacobell.com/wa/lakewood/15223-union-ave-sw.html,wa,lakewood,15223-union-ave-sw,031317,"15223 Union Ave SW, Lakewood, WA 98498",15223,47.1204939,-122.5553086
+https://locations.tacobell.com/wa/colville/1520-n--highway-395.html,wa,colville,1520-n--highway-395,C748053,"1520 N. Highway 395, Colville, WA 99114",99114,48.5575739,-117.923819
+https://locations.tacobell.com/wa/burien/15059-1st-ave-s.html,wa,burien,15059-1st-ave-s,031319,"15059 1st Ave S, Burien, WA 98148",15059,47.4671622,-122.334249
+https://locations.tacobell.com/wa/tukwila/15036-tukwila-international-blvd-.html,wa,tukwila,15036-tukwila-international-blvd-,E720401,"15036 Tukwila International Blvd., Tukwila, WA 98188",15036,47.4677679,-122.2870793
+https://locations.tacobell.com/va/portsmouth/1501-frederick-boulevard.html,va,portsmouth,1501-frederick-boulevard,031678,"1501 Frederick Boulevard, Portsmouth, VA 23707",23707,36.8269118,-76.3384634
+https://locations.tacobell.com/ut/logan/1500-n-main-st.html,ut,logan,1500-n-main-st,033157,"1500 N Main St, Logan, UT 84321",84321,41.76003730000001,-111.8338247
+https://locations.tacobell.com/va/wytheville/150-commonwealth-drive.html,va,wytheville,150-commonwealth-drive,J718258,"150 Commonwealth Drive, Wytheville, VA 24382",24382,36.9585815,-81.0967236
+https://locations.tacobell.com/va/forest/14867-forest-road.html,va,forest,14867-forest-road,039771,"14867 Forest Road, Forest, VA 24551",14867,37.3660658,-79.2959569
+https://locations.tacobell.com/wa/lynnwood/14827-hwy-99.html,wa,lynnwood,14827-hwy-99,022603,"14827 Hwy 99, Lynnwood, WA 98037",14827,47.8632772,-122.2822021
+https://locations.tacobell.com/wa/woodland/1478-dike-access-rd-.html,wa,woodland,1478-dike-access-rd-,032952,"1478 Dike Access Rd., Woodland, WA 98674",98674,45.926948,-122.759008
+https://locations.tacobell.com/va/suffolk/1465-n-main-st.html,va,suffolk,1465-n-main-st,003480,"1465 N Main St, Suffolk, VA 23434",23434,36.7492527,-76.5837272
+https://locations.tacobell.com/wa/seattle/14506-bothell-way-ne.html,wa,seattle,14506-bothell-way-ne,022599,"14506 Bothell Way NE, Seattle, WA 98155",14506,47.7340711,-122.2920901
+https://locations.tacobell.com/va/newport-news/14409-warwick-blvd.html,va,newport-news,14409-warwick-blvd,033517,"14409 Warwick Blvd, Newport News, VA 23608",14409,37.1293579,-76.5371622
+https://locations.tacobell.com/ut/saint-george/1418-west-sunset-blvd.html,ut,saint-george,1418-west-sunset-blvd,025391,"1418 West Sunset Blvd, Saint George, UT 84770",84770,37.1233398,-113.6142236
+https://locations.tacobell.com/wa/ellensburg/1406-s-canyon-rd.html,wa,ellensburg,1406-s-canyon-rd,022515,"1406 S Canyon Rd, Ellensburg, WA 98926",98926,46.9696922,-120.5378608
+https://locations.tacobell.com/va/roanoke/1406-hershberger-road-nw.html,va,roanoke,1406-hershberger-road-nw,039759,"1406 Hershberger Road NW, Roanoke, VA 24012",24012,37.3147704,-79.9579938
+https://locations.tacobell.com/wa/tacoma/1404-e--72nd-street.html,wa,tacoma,1404-e--72nd-street,031322,"1404 E. 72nd Street, Tacoma, WA 98404",98404,47.1914497,-122.4100485
+https://locations.tacobell.com/va/charlottesville/140-river-bend-dr.html,va,charlottesville,140-river-bend-dr,039716,"140 River Bend Dr, Charlottesville, VA 22901",22901,38.0326669,-78.4556597
+https://locations.tacobell.com/va/woodbridge/13880-shoppers-best-way.html,va,woodbridge,13880-shoppers-best-way,039091,"13880 Shoppers Best Way, Woodbridge, VA 22192",13880,38.6512164,-77.2995025
+https://locations.tacobell.com/va/chantilly/13800-metrotech-drive.html,va,chantilly,13800-metrotech-drive,039983,"13800 Metrotech Drive, Chantilly, VA 20151",13800,38.8927401,-77.4263024
+https://locations.tacobell.com/va/midlothian/13640-hull-street-road.html,va,midlothian,13640-hull-street-road,015857,"13640 Hull Street Road, Midlothian, VA 23112",13640,37.4097382,-77.6538371
+https://locations.tacobell.com/va/virginia-beach/1360-great-neck-road.html,va,virginia-beach,1360-great-neck-road,015359,"1360 Great Neck Road, Virginia Beach, VA 23454",23454,36.8778355,-76.041563
+https://locations.tacobell.com/va/virginia-beach/1360-fordham-dr.html,va,virginia-beach,1360-fordham-dr,002709,"1360 Fordham Dr, Virginia Beach, VA 23464",23464,36.7986363,-76.1761304
+https://locations.tacobell.com/va/chesapeake/1353-kempsville-rd.html,va,chesapeake,1353-kempsville-rd,030927,"1353 Kempsville Rd, Chesapeake, VA 23320",23320,36.7636966,-76.20447
+https://locations.tacobell.com/va/luray/1350-us-highway-211-w.html,va,luray,1350-us-highway-211-w,019520,"1350 US Highway 211 W, Luray, VA 22835",22835,38.665397,-78.4594522
+https://locations.tacobell.com/va/grundy/1346-riverview-street.html,va,grundy,1346-riverview-street,028538,"1346 Riverview Street, Grundy, VA 24614",24614,37.2797061,-82.1028442
+https://locations.tacobell.com/va/lebanon/1337-east-main-street.html,va,lebanon,1337-east-main-street,029552,"1337 East Main Street, Lebanon, VA 24266",24266,36.9047364,-82.0569267
+https://locations.tacobell.com/wa/federal-way/1330-s-348th-st.html,wa,federal-way,1330-s-348th-st,031329,"1330 S 348th St, Federal Way, WA 98003",98003,47.2898573,-122.3173782
+https://locations.tacobell.com/wa/spokane-valley/133-n-sullivan-rd.html,wa,spokane-valley,133-n-sullivan-rd,038942,"133 N Sullivan Rd, Spokane Valley, WA 99037",99037,47.6586485,-117.197064
+https://locations.tacobell.com/wa/vancouver/13204-n-e--hwy-99.html,wa,vancouver,13204-n-e--hwy-99,015292,"13204 N.E. Hwy 99, Vancouver, WA 98686",13204,45.71658,-122.6526143
+https://locations.tacobell.com/wa/yelm/1310-e--yelm-avenue.html,wa,yelm,1310-e--yelm-avenue,C748044,"1310 E. Yelm Avenue, Yelm, WA 98597",98597,46.9338908,-122.5910549
+https://locations.tacobell.com/wa/burlington/1308-burlington-blvd-.html,wa,burlington,1308-burlington-blvd-,031345,"1308 Burlington Blvd., Burlington, WA 98233",98233,48.460751,-122.3352796
+https://locations.tacobell.com/wa/ephrata/1305-basin-st.html,wa,ephrata,1305-basin-st,038950,"1305 Basin St, Ephrata, WA 98823",98823,47.3074808,-119.5613083
+https://locations.tacobell.com/wa/wenatchee/1300-north-miller-st.html,wa,wenatchee,1300-north-miller-st,022518,"1300 North Miller St, Wenatchee, WA 98801",98801,47.4390725,-120.3252477
+https://locations.tacobell.com/ut/lehi/1300-e--state-street.html,ut,lehi,1300-e--state-street,032051,"1300 E. State Street, Lehi, UT 84043",84043,40.3892287,-111.8286379
+https://locations.tacobell.com/wa/bellingham/1297-e--sunset-dr-.html,wa,bellingham,1297-e--sunset-dr-,041262,"1297 E. Sunset Dr., Bellingham, WA 98226",98226,48.7732251,-122.4583909
+https://locations.tacobell.com/va/smithfield/1294-benns-church-blvd.html,va,smithfield,1294-benns-church-blvd,029240,"1294 Benns Church Blvd, Smithfield, VA 23430",23430,36.9547782,-76.6019396
+https://locations.tacobell.com/va/franklin/1290-armory-drive.html,va,franklin,1290-armory-drive,L518158,"1290 Armory Drive, Franklin, VA 23851",23851,36.6704428,-76.9456586
+https://locations.tacobell.com/ut/draper/1287-east-draper-parkway.html,ut,draper,1287-east-draper-parkway,025389,"1287 East Draper Parkway, Draper, UT 84020",84020,40.5215159,-111.8814935
+https://locations.tacobell.com/va/pounding-mill/12822-governor-g-c-peery-hwy.html,va,pounding-mill,12822-governor-g-c-peery-hwy,030476,"12822 Governor G C Peery Hwy, Pounding Mill, VA 24637",12822,37.0652165,-81.7376799
+https://locations.tacobell.com/va/chester/12820-jefferson-davis-hwy.html,va,chester,12820-jefferson-davis-hwy,004775,"12820 Jefferson Davis Hwy, Chester, VA 23831",12820,38.188003,-77.5116098
+https://locations.tacobell.com/va/fairfax/12811-federal-systems-park-dr.html,va,fairfax,12811-federal-systems-park-dr,036547,"12811 Federal Systems Park Dr, Fairfax, VA 22033",12811,38.8615379,-77.3893897
+https://locations.tacobell.com/va/lake-ridge/12721-harbor-drive.html,va,lake-ridge,12721-harbor-drive,017007,"12721 Harbor Drive, Lake Ridge, VA 22192",12721,38.6786746,-77.278284
+https://locations.tacobell.com/va/winchester/125-welltown-road.html,va,winchester,125-welltown-road,016757,"125 Welltown Road, Winchester, VA 22603",22603,39.2164457,-78.142138
+https://locations.tacobell.com/ut/provo/1244-n-freedom-blvd.html,ut,provo,1244-n-freedom-blvd,025390,"1244 N Freedom Blvd, Provo, UT 84604",84604,40.2509544,-111.661743
+https://locations.tacobell.com/wa/puyallup/12223-meridian-st.html,wa,puyallup,12223-meridian-st,031314,"12223 Meridian St, Puyallup, WA 98373",12223,47.1451065,-122.2924617
+https://locations.tacobell.com/va/newport-news/12126-jefferson-ave.html,va,newport-news,12126-jefferson-ave,033520,"12126 Jefferson Ave, Newport News, VA 23602",12126,37.1074804,-76.4949621
+https://locations.tacobell.com/va/danville/1208-piney-forest-road.html,va,danville,1208-piney-forest-road,039763,"1208 Piney Forest Road, Danville, VA 24540",24540,36.6268359,-79.4008273
+https://locations.tacobell.com/va/richmond/1208-azalea-avenue.html,va,richmond,1208-azalea-avenue,018147,"1208 Azalea Avenue, Richmond, VA 23227",23227,37.6017771,-77.45373
+https://locations.tacobell.com/wa/spokane/1202-n-monroe-st.html,wa,spokane,1202-n-monroe-st,038940,"1202 N Monroe St, Spokane, WA 99201",99201,47.6683296,-117.4261181
+https://locations.tacobell.com/ut/price/120-n--carbonville-road.html,ut,price,120-n--carbonville-road,025394,"120 N. Carbonville Road, Price, UT 84501",84501,39.6013045,-110.8225545
+https://locations.tacobell.com/wa/vancouver/1195-se-163rd-place.html,wa,vancouver,1195-se-163rd-place,020147,"1195 SE 163rd Place, Vancouver, WA 98683",98683,45.6123286,-122.5046759
+https://locations.tacobell.com/ut/layton/1180-east-hwy-193.html,ut,layton,1180-east-hwy-193,033175,"1180 East Hwy 193, Layton, UT 84040",84040,41.1011743,-111.9441007
+https://locations.tacobell.com/wa/vancouver/11717-ne-65th-street.html,wa,vancouver,11717-ne-65th-street,019550,"11717 NE 65th Street, Vancouver, WA 98662",11717,45.6695823,-122.5521727
+https://locations.tacobell.com/wa/kirkland/11624-124th-ne.html,wa,kirkland,11624-124th-ne,035308,"11624 124th NE, Kirkland, WA 98034",11624,47.7047587,-122.1753529
+https://locations.tacobell.com/wa/vancouver/11620-se-mill-plain-blvd.html,wa,vancouver,11620-se-mill-plain-blvd,002252,"11620 SE Mill Plain Blvd, Vancouver, WA 98684",11620,45.621118,-122.5522772
+https://locations.tacobell.com/va/charlottesville/1158-5th-street-s-w-.html,va,charlottesville,1158-5th-street-s-w-,039731,"1158 5th Street S.W., Charlottesville, VA 22902",22902,38.0115275,-78.5026702
+https://locations.tacobell.com/ut/south-jordan/11456-s--district-drive.html,ut,south-jordan,11456-s--district-drive,029608,"11456 S. District Drive, South Jordan, UT 84095",11456,40.5430982,-111.9829198
+https://locations.tacobell.com/va/glen-allen/11450-west-broad-street.html,va,glen-allen,11450-west-broad-street,015854,"11450 West Broad Street, Glen Allen, VA 23060",11450,37.6515067,-77.6103364
+https://locations.tacobell.com/wa/puyallup/11304-canyon-road.html,wa,puyallup,11304-canyon-road,031330,"11304 Canyon Road, Puyallup, WA 98373",11304,47.1526789,-122.357676
+https://locations.tacobell.com/ut/orem/1130-west-800-north.html,ut,orem,1130-west-800-north,030457,"1130 West 800 North, Orem, UT 84057",84057,40.3119916,-111.7216101
+https://locations.tacobell.com/ut/logan/1130-south-100-west.html,ut,logan,1130-south-100-west,033179,"1130 South 100 West, Logan, UT 84321",84321,41.7124112,-111.8386255
+https://locations.tacobell.com/va/stephens-city/113-town-run-lane.html,va,stephens-city,113-town-run-lane,019680,"113 Town Run Lane, Stephens City, VA 22655",22655,39.0805212,-78.2141067
+https://locations.tacobell.com/va/reston/11257-roger-bacon-dr.html,va,reston,11257-roger-bacon-dr,038992,"11257 Roger Bacon Dr, Reston, VA 20190",11257,38.9510556,-77.3343681
+https://locations.tacobell.com/wa/aberdeen/1120-e-wishkah-st.html,wa,aberdeen,1120-e-wishkah-st,031333,"1120 E Wishkah St, Aberdeen, WA 98520",98520,46.9776101,-123.8036085
+https://locations.tacobell.com/wa/centralia/1120-belmont-ave.html,wa,centralia,1120-belmont-ave,031347,"1120 Belmont Ave, Centralia, WA 98531",98531,46.7293365,-122.9792098
+https://locations.tacobell.com/va/hampton/1118-big-bethel-road.html,va,hampton,1118-big-bethel-road,033519,"1118 Big Bethel Road, Hampton, VA 23666",23666,37.0583595,-76.4270994
+https://locations.tacobell.com/va/norfolk/1113-military-highway.html,va,norfolk,1113-military-highway,021309,"1113 Military Highway, Norfolk, VA 23502",23502,36.8604907,-76.2104546
+https://locations.tacobell.com/wa/seattle/1110-north-90th-street.html,wa,seattle,1110-north-90th-street,035314,"1110 North 90th Street, Seattle, WA 98103",98103,47.6943339,-122.3443337
+https://locations.tacobell.com/wa/olympia/1101-cooper-point-rd-sw.html,wa,olympia,1101-cooper-point-rd-sw,031338,"1101 Cooper Point Rd SW, Olympia, WA 98502",98502,47.0379609,-122.939816
+https://locations.tacobell.com/wa/snohomish/1100-avenue-d.html,wa,snohomish,1100-avenue-d,022608,"1100 Avenue D, Snohomish, WA 98290",98290,47.9246311,-122.0980028
+https://locations.tacobell.com/va/midlothian/110-schofield-drive.html,va,midlothian,110-schofield-drive,030903,"110 Schofield Drive, Midlothian, VA 23113",23113,37.5125143,-77.6957825
+https://locations.tacobell.com/wa/sequim/11-lee-chatfield-way.html,wa,sequim,11-lee-chatfield-way,042281,"11 Lee Chatfield Way, Sequim, WA 98382",98382,48.0771028,-123.0888647
+https://locations.tacobell.com/wa/prosser/109-merlot-drive.html,wa,prosser,109-merlot-drive,E720389,"109 Merlot Drive, Prosser, WA 99350",99350,46.22037,-119.7877117
+https://locations.tacobell.com/va/galax/1079-e-stuart-dr-.html,va,galax,1079-e-stuart-dr-,039723,"1079 E Stuart Dr., Galax, VA 24333",24333,36.6860649,-80.8866651
+https://locations.tacobell.com/va/newport-news/10736-jefferson-ave.html,va,newport-news,10736-jefferson-ave,033521,"10736 Jefferson Ave, Newport News, VA 23601",10736,37.0520227,-76.4609215
+https://locations.tacobell.com/wa/seattle/10711-16th-ave-sw.html,wa,seattle,10711-16th-ave-sw,031311,"10711 16th Ave SW, Seattle, WA 98146",10711,47.5067109,-122.3553895
+https://locations.tacobell.com/va/emporia/107-cloverleaf-drive.html,va,emporia,107-cloverleaf-drive,L518163,"107 Cloverleaf Drive, Emporia, VA 23847",23847,36.7037474,-77.5421175
+https://locations.tacobell.com/ut/sandy/10635-south-state-street.html,ut,sandy,10635-south-state-street,033174,"10635 South State Street, Sandy, UT 84070",10635,40.5443337,-111.8910592
+https://locations.tacobell.com/wa/spokane/10620-east-sprague-avenue.html,wa,spokane,10620-east-sprague-avenue,038941,"10620 East Sprague Avenue, Spokane, WA 99206",10620,47.6568118,-117.2618859
+https://locations.tacobell.com/wa/tacoma/10611-pacific-ave.html,wa,tacoma,10611-pacific-ave,031321,"10611 Pacific Ave, Tacoma, WA 98444",10611,47.210894,-122.4339921
+https://locations.tacobell.com/wa/spokane/10510-w-sr-2.html,wa,spokane,10510-w-sr-2,038947,"10510 W SR 2, Spokane, WA 99224",10510,47.6420409,-117.6696901
+https://locations.tacobell.com/va/hampton/1039-w-mercury-blvd.html,va,hampton,1039-w-mercury-blvd,033518,"1039 W Mercury Blvd, Hampton, VA 23666",23666,37.04327,-76.3819745
+https://locations.tacobell.com/va/ashland/10255-washington-highway.html,va,ashland,10255-washington-highway,030911,"10255 Washington Highway, Ashland, VA 23005",10255,37.6863987,-77.4628696
+https://locations.tacobell.com/va/richmond/10230-midlothian-turnpike.html,va,richmond,10230-midlothian-turnpike,003720,"10230 Midlothian Turnpike, Richmond, VA 23235",10230,37.5071653,-77.5860257
+https://locations.tacobell.com/va/midlothian/10221-hull-street-rd.html,va,midlothian,10221-hull-street-rd,004841,"10221 Hull Street Rd, Midlothian, VA 23112",10221,37.4416853,-77.5854728
+https://locations.tacobell.com/va/south-boston/1016-bill-tuck-hwy.html,va,south-boston,1016-bill-tuck-hwy,039773,"1016 Bill Tuck Hwy, South Boston, VA 24592",24592,36.687022,-78.8985507
+https://locations.tacobell.com/wa/edmonds/10119-edmonds-way.html,wa,edmonds,10119-edmonds-way,022609,"10119 Edmonds Way, Edmonds, WA 98020",10119,47.7922493,-122.3691794
+https://locations.tacobell.com/wa/kelso/1009-allen-st.html,wa,kelso,1009-allen-st,004946,"1009 Allen St, Kelso, WA 98626",98626,46.144149,-122.9008772
+https://locations.tacobell.com/vt/brattleboro/1007-putney-road.html,vt,brattleboro,1007-putney-road,E685078,"1007 Putney Road, Brattleboro, VT 05301",05301,42.8817407,-72.5579374
+https://locations.tacobell.com/va/manassas/10036-dumfries-rd.html,va,manassas,10036-dumfries-rd,K071142,"10036 Dumfries Rd, Manassas, VA 20110",10036,38.7393031,-77.4725284
+https://locations.tacobell.com/va/bedford/1001-independence-blvd.html,va,bedford,1001-independence-blvd,039767,"1001 Independence Blvd, Bedford, VA 24523",24523,37.3280093,-79.502601
+https://locations.tacobell.com/vt/bennington/100-northside-drive.html,vt,bennington,100-northside-drive,C029046,"100 Northside Drive, Bennington, VT 05201",05201,42.8941298,-73.2031033
+https://locations.tacobell.com/wa/bellingham/100-east-stuart-rd-.html,wa,bellingham,100-east-stuart-rd-,041263,"100 East Stuart Rd., Bellingham, WA 98226",98226,48.8004481,-122.4854015
+https://locations.tacobell.com/ut/salt-lake-city/10-e-3300-s.html,ut,salt-lake-city,10-e-3300-s,033163,"10 E 3300 S, Salt Lake City, UT 84115",84115,40.699965,-111.8548496
+https://locations.tacobell.com/wa/longview/3740-ocean-beach-hwy.html,wa,longview,3740-ocean-beach-hwy,040473,"3740 Ocean Beach Hwy, Longview, WA 98632",98632,46.1553598,-122.9819315
+https://locations.tacobell.com/wa/blaine/805-grant-ave-.html,wa,blaine,805-grant-ave-,040354,"805 Grant Ave., Blaine, WA 98230",98230,48.9932495,-122.7336529
+https://locations.tacobell.com/wa/sunnyside/2550-yakima-valley-hwy.html,wa,sunnyside,2550-yakima-valley-hwy,042759,"2550 Yakima Valley Hwy, Sunnyside, WA 98944",98944,46.3198349,-119.9872798
+https://locations.tacobell.com/wa/woodinville/13405-ne-175th-st.html,wa,woodinville,13405-ne-175th-st,026087,"13405 NE 175th St, Woodinville, WA 98072",13405,47.754077,-122.1603249
+https://locations.tacobell.com/wa/shelton/301-wallace-kneeland-blvd.html,wa,shelton,301-wallace-kneeland-blvd,031326,"301 Wallace Kneeland Blvd #155, Shelton, WA 98584",98584,47.231363,-123.1230772
+https://locations.tacobell.com/va/madison-heights/5014-s--amherst-hwy.html,va,madison-heights,5014-s--amherst-hwy,039775,"5014 S. Amherst Hwy, Madison Heights, VA 24572",24572,37.433972,-79.1229345
+https://locations.tacobell.com/va/hillsville/145-south-main-street.html,va,hillsville,145-south-main-street,039747,"145 South Main Street, Hillsville, VA 24343",24343,36.7620752,-80.7338501
+https://locations.tacobell.com/wa/tacoma/5308-176th-st--east.html,wa,tacoma,5308-176th-st--east,035320,"5308 176th St. East, Tacoma, WA 98446",98446,47.0958561,-122.3587385
+https://locations.tacobell.com/va/yorktown/5003-victory-blvd-.html,va,yorktown,5003-victory-blvd-,032171,"5003 Victory Blvd. C, Yorktown, VA 23693",23693,37.1158213,-76.4651489
+https://locations.tacobell.com/wa/napavine/1245-rush-rd-.html,wa,napavine,1245-rush-rd-,035319,"1245 Rush Rd., Napavine, WA 98532",98532,46.6041073,-122.9093551
+https://locations.tacobell.com/wa/milton/328-meridian-avenue-east.html,wa,milton,328-meridian-avenue-east,035322,"328 Meridian Avenue East, Milton, WA 98354",98354,47.2533652,-122.2942152
+https://locations.tacobell.com/va/quinton/7330-cumberland-station-road.html,va,quinton,7330-cumberland-station-road,033491,"7330 Cumberland Station Road, Quinton, VA 23141",23141,37.5083182,-77.1879236
+https://locations.tacobell.com/ut/lehi/2190-w--stockton-lane.html,ut,lehi,2190-w--stockton-lane,032472,"2190 W. Stockton Lane, Lehi, UT 84043",84043,40.4311,-111.8851242
+https://locations.tacobell.com/wa/clarkston/450-bridge-st.html,wa,clarkston,450-bridge-st,032590,"450 Bridge St, Clarkston, WA 99403",99403,46.4201486,-117.0434403
+https://locations.tacobell.com/va/chesapeake/115-hillcrest-parkway.html,va,chesapeake,115-hillcrest-parkway,032164,"115 Hillcrest Parkway, Chesapeake, VA 23322",23322,36.6577465,-76.2259718
+https://locations.tacobell.com/va/arlington/2039-wilson-boulevard.html,va,arlington,2039-wilson-boulevard,040515,"2039 Wilson Boulevard, Arlington, VA 22201",22201,38.8920783,-77.0837453
+https://locations.tacobell.com/ut/saint-george/2725-red-cliffs-dr.html,ut,saint-george,2725-red-cliffs-dr,032638,"2725 Red Cliffs Dr, Saint George, UT 84790",84790,37.1265232,-113.5277489
+https://locations.tacobell.com/va/ashburn/43951-farmwell-hunt-plaza.html,va,ashburn,43951-farmwell-hunt-plaza,K071148,"43951 Farmwell Hunt Plaza, Ashburn, VA 20147",43951,39.0229533,-77.4795931
+https://locations.tacobell.com/va/lynchburg/3270-old-forest-rd.html,va,lynchburg,3270-old-forest-rd,039776,"3270 Old Forest Rd, Lynchburg, VA 24501",24501,37.4112781,-79.2124784
+https://locations.tacobell.com/ut/kaysville/313-north-400-west.html,ut,kaysville,313-north-400-west,038835,"313 North 400 West, Kaysville, UT 84037",84037,41.0465092,-111.9463897
+https://locations.tacobell.com/wa/vancouver/8605-ne-andreson.html,wa,vancouver,8605-ne-andreson,034708,"8605 NE Andreson, Vancouver, WA 98665",98665,45.6846738,-122.601829

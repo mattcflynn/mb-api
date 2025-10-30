@@ -3,8 +3,6 @@ canonical_product_id,product_code,base_name,size_variant,category,subcategory,is
 895dd8604c8f8cf1,22130,decker taco,,member-exclusive,Member exclusive,0,0,1
 ccd4f120a6471f17,22706,decker taco supreme,,member-exclusive,Member exclusive,0,0,1
 d2fe7385656c7b73,22240,7 layer burrito,,member-exclusive,Member exclusive,0,0,1
-473d926567870cba,22142,cool ranch doritos locos tacos,,member-exclusive,Member exclusive,0,0,1
-2be8b93985556cca,22143,cool ranch doritos locos tacos supreme,,member-exclusive,Member exclusive,0,0,1
 ec22b927dbe1fce7,2065Main,strawberry vanilla cream soda freeze,,member-exclusive,Member exclusive,0,0,1
 c172479e9c06aba7,23551,build your own luxe cravings,,best-sellers,Best sellers,0,0,1
 d95deaea191d0d41,28183,nacho fries,,best-sellers,Best sellers,0,0,1
@@ -15,7 +13,6 @@ c611b6551e17e7f6,22100,crunchy taco,,best-sellers,Best sellers,0,0,1
 ac083a30eec7c29f,22850,chalupa supreme,,best-sellers,Best sellers,0,0,1
 3bde3fa8aa956905,22283,cheesy bean and rice burrito,,best-sellers,Best sellers,0,0,1
 05eb223cc7fc3dee,22321,chicken quesadilla,,best-sellers,Best sellers,0,0,1
-32e8c2cecbb43d07,22259,spicy potato soft taco,,best-sellers,Best sellers,0,0,1
 ee371cad3de90fa9,22362,crunchwrap supreme,,best-sellers,Best sellers,0,0,1
 56855ae500e12391,22167,beefy 5 layer burrito,,best-sellers,Best sellers,0,0,1
 82b546c98af8862e,22502,nachos bellgrande,,best-sellers,Best sellers,0,0,1
@@ -37,15 +34,10 @@ b4695c37f7d4112b,29015,avocado ranch crispy chicken soft taco,,new,New,0,0,1
 b6deb5016decf7e7,29089,frank s redhot diablo chicken nacho fries,,new,New,0,0,1
 31698700c728d932,29072,discovery luxe,,new,New,0,0,1
 9aa67802ea59a742,24966,crispy chicken strips 4pk,,new,New,0,0,1
-45f35424d1fa3ea7,3782Main,mountain dew baja midnight,,new,New,0,0,1
 7f7a81f10c3818b6,3717Main,strawberry passionfruit agua refresca,,new,New,0,0,1
 7f71ed3fa79f653c,3719Main,mango peach agua refresca,,new,New,0,0,1
-c8bdcda2dcf5eb55,3718Main,dragonfruit strawberry agua refresca,,new,New,0,0,1
-e3cc16fbd00c375a,3660Main,tropical punch rockstar energy refresca,,new,New,0,0,1
-c5df89886832bf19,3669Main,pineapple lime rockstar energy refresca,,new,New,0,0,1
 73f131802f007014,23218,meal for 2,,online-exclusives,Online exclusives,0,0,1
 12e3b2bd8af2e451,23220,meal for 4,,online-exclusives,Online exclusives,0,0,1
-56547fd70f7b3142,23219,veggie meal for 2,,online-exclusives,Online exclusives,0,0,1
 0f36a38e536bb638,21210,drinks,,online-exclusives,Online exclusives,0,0,1
 b54896048bc8f9fa,23378,steak grilled cheese burrito,,deals-and-combos,Combos,0,0,1
 6b0f15399c3c2179,22604,mexican pizza,,deals-and-combos,Combos,0,0,1
@@ -73,6 +65,7 @@ a481abf22207991d,21201,supreme soft taco,,party-packs,Groups,0,0,1
 a5202744f72ca227,23499,3 cheese chicken flatbread melt,,specialties,Specialties,0,0,1
 56afbfeb1668e154,22303,mexican pizza,,specialties,Specialties,0,0,1
 64a87c9ab67d526c,23326,veggie mexican pizza,,specialties,Specialties,0,0,1
+e5ef97ef94a5b2b4,26051,black bean crunchwrap supreme,,specialties,Specialties,0,0,1
 ed3de8370c57a70f,22152,cheesy roll up,,specialties,Specialties,0,0,1
 0c025ff16bc23758,26018,stacked taco,,tacos,Tacos,0,0,1
 7a9284bf841054ee,22111,soft taco supreme,,tacos,Tacos,0,0,1
@@ -84,7 +77,7 @@ e1f6b45de2c230d2,23153,black bean chalupa supreme,,tacos,Tacos,0,0,1
 5fa947f045747acb,23394,chicken enchilada burrito,,burritos,Burritos,0,0,1
 36235ef5aa8b788c,23226,cheesy beef burrito,,burritos,Burritos,0,0,1
 c9369165417cc783,22963,grilled cheese burrito,,burritos,Burritos,0,0,1
-8bdb3a617515bf62,23290,black bean grilled cheese burrito,,burritos,Burritos,0,0,1
+e48fd9639ae4eccf,23290,black bean grilled cheese burrito black beans,,burritos,Burritos,0,0,1
 1fcbe49c34eb4c1e,22200,bean burrito,,burritos,Burritos,0,0,1
 d73df6944e08ba84,22201,burrito supreme,,burritos,Burritos,0,0,1
 3de0e4035d0611da,22322,steak quesadilla,,quesadillas,Quesadillas,0,0,1
@@ -92,7 +85,6 @@ da73de010a93e9d7,22320,cheese quesadilla,,quesadillas,Quesadillas,0,0,1
 0c1d307b4f97b7ee,22159,loaded beef nachos,,nachos,Nachos,0,0,1
 3b3d26c9390348ab,23318,chips and guacamole,,nachos,Nachos,0,0,1
 9185b2b943b68f0a,22500,chips and nacho cheese sauce,,nachos,Nachos,0,0,1
-16cccc20ae6f956f,22530,cheesy fiesta potatoes,,cravings-value-menu,Cravings value menu,0,0,1
 96d5db5e50c3c85e,4605,frank s redhot diablo sauce,,sides-sweets,Sides & sweets,0,0,1
 918429dde0a45013,4382,flamin hot rice,,sides-sweets,Sides & sweets,0,0,1
 abea78f9518257d3,22394,black beans,,sides-sweets,Sides & sweets,0,0,1
@@ -119,18 +111,46 @@ c37f6ee84a2fd563,1491Main,mtn dew baja blast freeze,,drinks,Drinks,0,1,1
 5660125fb7dbf459,1002Main,pepsi,,drinks,Drinks,0,1,1
 d576bd4d642473a3,1007Main,diet pepsi,,drinks,Drinks,0,1,1
 d78839d9989bdd15,1107Main,pepsi zero sugar,,drinks,Drinks,0,1,1
-380011cb61c9d126,1072Main,cherry pepsi,,drinks,Drinks,0,1,1
 1dbc7241e0ba9a55,1012Main,mtn dew,,drinks,Drinks,0,1,1
-495f4d364594339e,1147Main,mtn dew zero,,drinks,Drinks,0,1,1
+4a80af33ad557eb4,1027Main,mtn dew baja blast,,drinks,Drinks,0,1,1
 cb2b30d8b3e8f6aa,1110Main,mtn dew baja blast zero sugar,,drinks,Drinks,0,1,1
+942f3962adad149f,1022Main,diet dr pepper,,drinks,Drinks,0,1,1
 09527abb0825102b,1062Main,mug root beer,,drinks,Drinks,0,1,1
 8bb559d7ac971f84,1153Main,starry,,drinks,Drinks,0,1,1
 fd03cf074a8d67fa,1099Main,g2 gatorade fruit punch,,drinks,Drinks,0,1,1
 5efa02c7c1c61d04,3077Main,tropicana original lemonade,,drinks,Drinks,0,1,1
 3970a657ff16a11e,1219Main,brisk mango fiesta,,drinks,Drinks,0,1,1
 f9da84a18c53c64a,1077Main,lipton unsweetened iced tea,,drinks,Drinks,0,1,1
-f6e16009814f8524,1202Main,lipton sweet tea,,drinks,Drinks,0,1,1
 91799b88b123d834,29132,veggie bowl,,bowls,Bowls,0,0,1
+473d926567870cba,22142,cool ranch doritos locos tacos,,member-exclusive,Member exclusive,0,0,1
+2be8b93985556cca,22143,cool ranch doritos locos tacos supreme,,member-exclusive,Member exclusive,0,0,1
+32e8c2cecbb43d07,22259,spicy potato soft taco,,best-sellers,Best sellers,0,0,1
+a2cb87e31453e4ee,1504Main,vanilla cream soda freeze,,new,New,0,0,1
+8f05ae3b5a23fbd6,1496Main,orange vanilla cream soda freeze,,new,New,0,0,1
+45f35424d1fa3ea7,3782Main,mountain dew baja midnight,,new,New,0,0,1
+c8bdcda2dcf5eb55,3718Main,dragonfruit strawberry agua refresca,,new,New,0,0,1
+e3cc16fbd00c375a,3660Main,tropical punch rockstar energy refresca,,new,New,0,0,1
+c5df89886832bf19,3669Main,pineapple lime rockstar energy refresca,,new,New,0,0,1
+56547fd70f7b3142,23219,veggie meal for 2,,online-exclusives,Online exclusives,0,0,1
+16cccc20ae6f956f,22530,cheesy fiesta potatoes,,cravings-value-menu,Cravings value menu,0,0,1
+495f4d364594339e,1147Main,mtn dew zero,,drinks,Drinks,0,1,1
+634b4d87fe6a28fa,1017Main,dr pepper,,drinks,Drinks,0,1,1
+f6e16009814f8524,1202Main,lipton sweet tea,,drinks,Drinks,0,1,1
+57747208213f266c,1966Main,aquafina bottled water,,drinks,Drinks,0,1,1
+0087c47d4000c19d,26136,cantina chicken crispy taco meal,,deals-and-combos,Combos,0,0,1
+944c2416942c6db2,26138,cantina chicken burrito meal,,deals-and-combos,Combos,0,0,1
+a44c71a3f9801df2,26137,cantina chicken quesadilla meal,,deals-and-combos,Combos,0,0,1
+4e0f114fa55b7ca0,26126,mexican pizza,,deals-and-combos,Combos,0,0,1
+bc3241ee35862e36,26125,chicken quesadilla,,deals-and-combos,Combos,0,0,1
+0b8d75036ae50a14,26124,2 chicken chalupas supreme,,deals-and-combos,Combos,0,0,1
+1e741633219bc816,26127,crunchwrap supreme,,deals-and-combos,Combos,0,0,1
+28c675d88658ea9d,26133,3 crunchy tacos,,deals-and-combos,Combos,0,0,1
+0fe60ca5ce6d6ac6,26131,3 crunchy tacos supreme,,deals-and-combos,Combos,0,0,1
+ff6a49bfc98aec1a,26139,3 doritos locos tacos,,deals-and-combos,Combos,0,0,1
+7011b1879b2c2cfb,26140,3 doritos locos tacos supreme,,deals-and-combos,Combos,0,0,1
+16e2d13717e163d5,26128,nachos bellgrande,,deals-and-combos,Combos,0,0,1
+21978c02d21f121c,26134,3 doritos locos tacos,,deals-and-combos,Combos,0,0,1
+cfd5f74c2ba60ebb,26130,3 doritos locos tacos supreme,,deals-and-combos,Combos,0,0,1
 3af7e6709cf45d6e,30179,cheesy toasted breakfast burrito bacon,,breakfast,Breakfast,1,0,1
 86d74f0d8528838a,30180,cheesy toasted breakfast burrito sausage,,breakfast,Breakfast,1,0,1
 ba6cb634f7dfdd37,30181,cheesy toasted breakfast burrito potato,,breakfast,Breakfast,1,0,1
@@ -152,15 +172,27 @@ e00726aed6c18455,1527Main,premium hot coffee,,breakfast,Breakfast,1,0,1
 ccc62281c25ffe34,1534Main,regular iced coffee,,breakfast,Breakfast,1,0,1
 e93aa9a108eb5058,1281Main,iced cinnabon delights coffee,,breakfast,Breakfast,1,0,1
 6c4d7bf0ab9fa55a,2633,breakfast salsa,,breakfast,Breakfast,1,0,1
-e5ef97ef94a5b2b4,26051,black bean crunchwrap supreme,,specialties,Specialties,0,0,1
-4a80af33ad557eb4,1027Main,mtn dew baja blast,,drinks,Drinks,0,1,1
-634b4d87fe6a28fa,1017Main,dr pepper,,drinks,Drinks,0,1,1
 ec3e04ac3652ae12,1440Main,tropicana orange juice,,drinks,Drinks,0,1,1
-a2cb87e31453e4ee,1504Main,vanilla cream soda freeze,,new,New,0,0,1
-8f05ae3b5a23fbd6,1496Main,orange vanilla cream soda freeze,,new,New,0,0,1
-7171d2246bf3b760,22738,green sauce,,sides-sweets,Sides & sweets,0,0,1
-09e7215154fbb06e,1450Main,milk,,drinks,Drinks,0,1,1
-57747208213f266c,1966Main,aquafina bottled water,,drinks,Drinks,0,1,1
-2543a4c59d32e455,1473Main,dragonfruit freeze no syrup,,new,New,0,0,1
-942f3962adad149f,1022Main,diet dr pepper,,drinks,Drinks,0,1,1
 df9059efc671f063,1665Main,dragonfruit freeze,,new,New,0,0,1
+2543a4c59d32e455,1473Main,dragonfruit freeze no syrup,,new,New,0,0,1
+7ac8637143c5b12c,22526,caramel apple empanada,,member-exclusive,Member exclusive,0,0,1
+380011cb61c9d126,1072Main,cherry pepsi,,drinks,Drinks,0,1,1
+7171d2246bf3b760,22738,green sauce,,sides-sweets,Sides & sweets,0,0,1
+ac7323d0a3ec58bc,27033,cantina chicken cheesy street chalupas,,cantina-chicken-menu,Cantina chicken menu,0,0,1
+55340b90cb85271e,27034,steak cheesy street chalupas,,new,New,0,0,1
+8a4bbff674ac3583,23575,cheesy melt grilled steak burrito,,new,New,0,0,1
+f12cf6c226f73fa0,23576,chipotle ranch grilled steak burrito,,new,New,0,0,1
+95c122367dcaecc9,30217,dulce de leche cinnabon delights 2pk,,new,New,0,0,1
+d66e53c134caf880,30218,dulce de leche cinnabon delights 12pk,,new,New,0,0,1
+60ee012fc262477a,24588,discovery luxe,,new,New,0,0,1
+bed34b3fc907f995,1507Main,mountain dew baja midnight freeze,,new,New,0,0,1
+5e08cf0e31eb3229,29011,crispy chicken strips 2pk,,new,New,0,0,1
+3b7b035b4d095085,27273,supreme luxe,,deals-and-combos,Combos,0,0,1
+e8a27a7597725b2c,28207,bbq chicken topped fries,,specialties,Specialties,0,0,1
+104fc0e814393209,29082,sweet chipotle bbq crispy chicken taco,,tacos,Tacos,0,0,1
+d73638bedd0df265,29083,sweet chipotle bbq crispy chicken burrito,,burritos,Burritos,0,0,1
+996a84891706d56f,5234,jalape o ranch sauce,,sides-sweets,Sides & sweets,0,0,1
+218c41759480bd34,5240,onion and cilantro blend,,sides-sweets,Sides & sweets,0,0,1
+e67624276ddc5ba4,8014,sweet chipotle bbq sauce,,sides-sweets,Sides & sweets,0,0,1
+09e7215154fbb06e,1450Main,milk,,drinks,Drinks,0,1,1
+c3c8c44ca7e05090,24585,cantina luxe,,new,New,0,0,1

@@ -1,0 +1,411 @@
+url,state,city,address_slug,store_id,full_address,zip_code,latitude,longitude
+https://locations.tacobell.com/sc/sumter/2036-mccrays-mill-rd.html,sc,sumter,2036-mccrays-mill-rd,040386,"2036 McCray's Mill Rd, Sumter, SC 29154",29154,33.9033468,-80.3820839
+https://locations.tacobell.com/sc/hardeeville/15976-whyte-hardee-blvd.html,sc,hardeeville,15976-whyte-hardee-blvd,040853,"15976 Whyte Hardee Blvd, Hardeeville, SC 29927",15976,32.2923296,-81.0769748
+https://locations.tacobell.com/tn/monteagle/360-dixie-lee-ave-.html,tn,monteagle,360-dixie-lee-ave-,037020,"360 Dixie Lee Ave., Monteagle, TN 37356",37356,35.2347387,-85.8263424
+https://locations.tacobell.com/tn/knoxville/6790-malone-creek-dr-.html,tn,knoxville,6790-malone-creek-dr-,041333,"6790 Malone Creek Dr., Knoxville, TN 37931",37931,35.9871079,-84.0475347
+https://locations.tacobell.com/tn/carthage/945-upper-ferry-road.html,tn,carthage,945-upper-ferry-road,040569,"945 Upper Ferry Road, Carthage, TN 37030",37030,36.2443794,-85.9425109
+https://locations.tacobell.com/tn/alcoa/1119-franck-street.html,tn,alcoa,1119-franck-street,038870,"1119 Franck Street, Alcoa, TN 37701",37701,35.7856462,-83.987166
+https://locations.tacobell.com/tn/talbott/6000-w--andrew-johnson-highway.html,tn,talbott,6000-w--andrew-johnson-highway,041332,"6000 W. Andrew Johnson Highway, Talbott, TN 37877",37877,36.1546102,-83.4264175
+https://locations.tacobell.com/tn/fayetteville/1300-huntsville-hwy.html,tn,fayetteville,1300-huntsville-hwy,034577,"1300 Huntsville Hwy, Fayetteville, TN 37334",37334,35.131585,-86.566369
+https://locations.tacobell.com/sc/longs/70-winners-lane.html,sc,longs,70-winners-lane,041696,"70 Winners Lane, Longs, SC 29568",29568,33.8914053,-78.6927181
+https://locations.tacobell.com/tn/joelton/7216-whites-creek-pike.html,tn,joelton,7216-whites-creek-pike,032624,"7216 Whites Creek Pike, Joelton, TN 37080",37080,36.3189948,-86.8666661
+https://locations.tacobell.com/sc/bennettsville/200-us-15.html,sc,bennettsville,200-us-15,034619,"200 US-15, Bennettsville, SC 29512",29512,34.6089216,-79.6779745
+https://locations.tacobell.com/sc/north-augusta/411-east-martintown-road.html,sc,north-augusta,411-east-martintown-road,034072,"411 East Martintown Road, North Augusta, SC 29841",29841,33.49669,-81.9588977
+https://locations.tacobell.com/tn/white-pine/3670-roy-messer-hwy.html,tn,white-pine,3670-roy-messer-hwy,034073,"3670 Roy Messer Hwy, White Pine, TN 37890",37890,36.1105129,-83.3380555
+https://locations.tacobell.com/tn/oak-ridge/101-bus-terminal-road.html,tn,oak-ridge,101-bus-terminal-road,034827,"101 bus terminal road, Oak Ridge, TN 37830",37830,36.0247104,-84.2407809
+https://locations.tacobell.com/tn/lafayette/561-highway-52-bypass-w.html,tn,lafayette,561-highway-52-bypass-w,034785,"561 Highway 52 Bypass W, Lafayette, TN 37083",37083,36.5179549,-86.0135325
+https://locations.tacobell.com/tn/hermitage/5765-old-hickory-boulevard.html,tn,hermitage,5765-old-hickory-boulevard,034911,"5765 Old Hickory Boulevard, Hermitage, TN 37076",37076,36.1728283,-86.6024258
+https://locations.tacobell.com/tn/knoxville/5322-millertown-pike.html,tn,knoxville,5322-millertown-pike,019292,"5322 Millertown Pike, Knoxville, TN 37924",37924,36.033404,-83.869572
+https://locations.tacobell.com/sc/mount-pleasant/3281-n--hwy-17.html,sc,mount-pleasant,3281-n--hwy-17,035095,"3281 N. Hwy 17, Mount Pleasant, SC 29466",29466,32.8381137,-79.8208342
+https://locations.tacobell.com/sc/beaufort/226-sea-island-pkwy.html,sc,beaufort,226-sea-island-pkwy,034710,"226 Sea Island Pkwy, Beaufort, SC 29907",29907,32.4063514,-80.6355513
+https://locations.tacobell.com/tn/smyrna/565-sam-ridley-pkwy-w.html,tn,smyrna,565-sam-ridley-pkwy-w,035126,"565 Sam Ridley Pkwy W, Smyrna, TN 37167",37167,35.9797635,-86.5589681
+https://locations.tacobell.com/tn/cordova/1205-n--houston-levee-rd-.html,tn,cordova,1205-n--houston-levee-rd-,035381,"1205 N. Houston Levee Rd., Cordova, TN 38018",38018,35.1582598,-89.72806159999999
+https://locations.tacobell.com/sc/goose-creek/787-st--james-avenue.html,sc,goose-creek,787-st--james-avenue,034777,"787 St. James Avenue, Goose Creek, SC 29445",29445,33.0383239,-80.0671205
+https://locations.tacobell.com/tn/mountain-city/465-s--shady-street.html,tn,mountain-city,465-s--shady-street,034858,"465 S. Shady Street, Mountain City, TN 37683",37683,36.4709433,-81.8070874
+https://locations.tacobell.com/tn/maryville/2013-east-lamar-alexander-parkway.html,tn,maryville,2013-east-lamar-alexander-parkway,035461,"2013 East Lamar Alexander Parkway, Maryville, TN 37804",37804,35.755974,-83.9423232
+https://locations.tacobell.com/sc/chapin/650-columbia-avenue.html,sc,chapin,650-columbia-avenue,026067,"650 Columbia Avenue, Chapin, SC 29036",29036,34.1678636,-81.3402227
+https://locations.tacobell.com/tn/seymour/11524-chapman-highway.html,tn,seymour,11524-chapman-highway,036404,"11524 Chapman Highway, Seymour, TN 37865",11524,35.8706808,-83.7580297
+https://locations.tacobell.com/tn/clinton/2315-n-charles-g-seivers-blvd.html,tn,clinton,2315-n-charles-g-seivers-blvd,036415,"2315 N Charles G Seivers Blvd, Clinton, TN 37716",37716,36.1659313,-84.0842318
+https://locations.tacobell.com/tn/monterey/450-east-stratton-ave.html,tn,monterey,450-east-stratton-ave,036436,"450 East Stratton Ave, Monterey, TN 38574",38574,36.1424803,-85.269399
+https://locations.tacobell.com/sc/fort-mill/7734-charlotte-hwy.html,sc,fort-mill,7734-charlotte-hwy,036233,"7734 Charlotte Hwy, Fort Mill, SC 29707",29707,34.9393696,-80.8367116
+https://locations.tacobell.com/tn/hendersonville/1004-glenbrook-way.html,tn,hendersonville,1004-glenbrook-way,036220,"1004 Glenbrook Way, Hendersonville, TN 37075",37075,36.333606,-86.6185772
+https://locations.tacobell.com/sc/rock-hill/1055-anderson-road-south.html,sc,rock-hill,1055-anderson-road-south,035460,"1055 Anderson Road South, Rock Hill, SC 29730",29730,34.9142418,-80.9857311
+https://locations.tacobell.com/sc/north-myrtle-beach/201-hwy-17-north.html,sc,north-myrtle-beach,201-hwy-17-north,036447,"201 HWY 17 North, North Myrtle Beach, SC 29582",29582,33.8303016,-78.6782296
+https://locations.tacobell.com/sc/aiken/2205-whiskey-road.html,sc,aiken,2205-whiskey-road,034776,"2205 Whiskey Road, Aiken, SC 29803",29803,33.5143589,-81.7150794
+https://locations.tacobell.com/tn/knoxville/421-n--cedar-bluff-road.html,tn,knoxville,421-n--cedar-bluff-road,015358,"421 N. Cedar Bluff Road Pilot Travel Center #334, Knoxville, TN 37923",37923,35.9233596,-84.0939428
+https://locations.tacobell.com/sc/florence/2015-w-lucas-st.html,sc,florence,2015-w-lucas-st,020287,"2015 W Lucas St, Florence, SC 29501",29501,34.2330576,-79.8017474
+https://locations.tacobell.com/sc/manning/3014-paxville-highway.html,sc,manning,3014-paxville-highway,021533,"3014 Paxville Highway, Manning, SC 29102",29102,33.7046892,-80.2422086
+https://locations.tacobell.com/sc/columbia/7400-wilson-blvd.html,sc,columbia,7400-wilson-blvd,031740,"7400 Wilson Blvd, Columbia, SC 29203",29203,34.073842,-80.99932
+https://locations.tacobell.com/tn/camden/138-highway-641-n.html,tn,camden,138-highway-641-n,034695,"138 Highway 641 N, Camden, TN 38320",38320,36.0602082,-88.1151618
+https://locations.tacobell.com/tn/ashland-city/154-monroe-place.html,tn,ashland-city,154-monroe-place,036250,"154 Monroe Place, Ashland City, TN 37015",37015,36.2501878,-87.0340159
+https://locations.tacobell.com/sc/north-charleston/6606-dorchester-road.html,sc,north-charleston,6606-dorchester-road,036701,"6606 Dorchester Road, North Charleston, SC 29418",29418,32.8816213,-80.0652324
+https://locations.tacobell.com/tn/wartburg/1114-knoxville-highway.html,tn,wartburg,1114-knoxville-highway,037050,"1114 Knoxville Highway, Wartburg, TN 37887",37887,36.1031949,-84.5845423
+https://locations.tacobell.com/tn/dunlap/15253-rankin-ave.html,tn,dunlap,15253-rankin-ave,037100,"15253 Rankin Ave, Dunlap, TN 37327",15253,35.3679302,-85.3917828
+https://locations.tacobell.com/tn/gallatin/2057-nashville-pike.html,tn,gallatin,2057-nashville-pike,036227,"2057 Nashville Pike, Gallatin, TN 37066",37066,36.3521698,-86.5089557
+https://locations.tacobell.com/tn/athens/690-s--white-street.html,tn,athens,690-s--white-street,037130,"690 S. White Street, Athens, TN 37303",37303,35.4315487,-84.5855076
+https://locations.tacobell.com/tn/murfreesboro/1634-joe-b-jackson.html,tn,murfreesboro,1634-joe-b-jackson,040611,"1634 Joe B Jackson, Murfreesboro, TN 37127",37127,35.781024,-86.3626718
+https://locations.tacobell.com/tn/murfreesboro/5257-veterans-parkway.html,tn,murfreesboro,5257-veterans-parkway,040708,"5257 Veterans Parkway, Murfreesboro, TN 37128",37128,35.795336,-86.4558687
+https://locations.tacobell.com/tn/newbern/101-east-highway-77.html,tn,newbern,101-east-highway-77,042240,"101 East Highway 77, Newbern, TN 38059",38059,36.1088042,-89.2794048
+https://locations.tacobell.com/tn/ooltewah/6013-mountain-view-rd-.html,tn,ooltewah,6013-mountain-view-rd-,042226,"6013 Mountain View Rd., Ooltewah, TN 37363",37363,35.088686,-85.0648866
+https://locations.tacobell.com/sc/union/447-n-duncan-bypass.html,sc,union,447-n-duncan-bypass,042003,"447 N Duncan Bypass, Union, SC 29379",29379,34.7235049,-81.6393583
+https://locations.tacobell.com/tn/mckenzie/15895-highland-drive.html,tn,mckenzie,15895-highland-drive,042246,"15895 Highland Drive, McKenzie, TN 38201",15895,36.1293561,-88.5092013
+https://locations.tacobell.com/sd/sioux-falls/8340-w-41st-street.html,sd,sioux-falls,8340-w-41st-street,042418,"8340 W 41st Street, Sioux Falls, SD 57106",57106,43.5148811,-96.8287608
+https://locations.tacobell.com/tn/selmer/628-mulberry-avenue.html,tn,selmer,628-mulberry-avenue,037201,"628 Mulberry Avenue, Selmer, TN 38375",38375,35.1506565,-88.5759748
+https://locations.tacobell.com/tn/cleveland/964-paul-huff-parkway-nw.html,tn,cleveland,964-paul-huff-parkway-nw,033295,"964 Paul Huff Parkway NW, Cleveland, TN 37312",37312,35.2142281,-84.8680816
+https://locations.tacobell.com/tn/lebanon/6705-eastgate-boulevard.html,tn,lebanon,6705-eastgate-boulevard,036396,"6705 Eastgate Boulevard, Lebanon, TN 37090",37090,36.1880328,-86.4118577
+https://locations.tacobell.com/tn/mount-juliet/10989-lebanon-road.html,tn,mount-juliet,10989-lebanon-road,036459,"10989 Lebanon Road, Mount Juliet, TN 37122",10989,36.2310683,-86.5096956
+https://locations.tacobell.com/tn/nashville/2200-childrens-way.html,tn,nashville,2200-childrens-way,022329,"2200 Children's Way, Nashville, TN 37232",37232,36.1395312,-86.80351689999999
+https://locations.tacobell.com/tn/knoxville/7600-kingston-pike.html,tn,knoxville,7600-kingston-pike,021079,"7600 Kingston Pike, Knoxville, TN 37919",37919,35.9236303,-84.0375629
+https://locations.tacobell.com/sc/johns-island/1828-bohicket-road.html,sc,johns-island,1828-bohicket-road,036431,"1828 Bohicket Road, Johns Island, SC 29455",29455,32.7200908,-80.0802266
+https://locations.tacobell.com/sc/hardeeville/55-brooks-willis-dr-.html,sc,hardeeville,55-brooks-willis-dr-,032542,"55 Brooks Willis Dr., Hardeeville, SC 29927",29927,32.3135773,-81.0564177
+https://locations.tacobell.com/tn/knoxville/1982-town-center-blvd.html,tn,knoxville,1982-town-center-blvd,036497,"1982 Town Center Blvd, Knoxville, TN 37922",37922,35.8618267,-84.0773097
+https://locations.tacobell.com/tn/bristol/2582-w-state-st.html,tn,bristol,2582-w-state-st,037194,"2582 W State St, Bristol, TN 37620",37620,36.5948564,-82.2116557
+https://locations.tacobell.com/tn/kingsport/4200-w-stone-drive.html,tn,kingsport,4200-w-stone-drive,037154,"4200 W Stone Drive, Kingsport, TN 37660",37660,36.5540406,-82.6184217
+https://locations.tacobell.com/tn/jamestown/461-n--main-st-.html,tn,jamestown,461-n--main-st-,037038,"461 N. Main St., Jamestown, TN 38556",38556,36.4359541,-84.9364052
+https://locations.tacobell.com/tn/nashville/131-2nd-avenue-north.html,tn,nashville,131-2nd-avenue-north,036466,"131 2nd Avenue North, Nashville, TN 37201",37201,36.165295,-86.7773262
+https://locations.tacobell.com/tn/huntingdon/210-veterans-drive.html,tn,huntingdon,210-veterans-drive,037464,"210 Veterans Drive, Huntingdon, TN 38344",38344,35.9968711,-88.4397275
+https://locations.tacobell.com/tn/arlington/5228-airline-road.html,tn,arlington,5228-airline-road,038820,"5228 Airline Road, Arlington, TN 38002",38002,35.2688996,-89.6662641
+https://locations.tacobell.com/tn/pikeville/1349-us-127-bypass.html,tn,pikeville,1349-us-127-bypass,037700,"1349 US 127 Bypass, Pikeville, TN 37367",37367,35.61435549999999,-85.189774
+https://locations.tacobell.com/tn/rockwood/1112-n--gateway-ave-.html,tn,rockwood,1112-n--gateway-ave-,037825,"1112 N. Gateway Ave., Rockwood, TN 37854",37854,35.8819892,-84.6591708
+https://locations.tacobell.com/sc/cheraw/1044-chesterfield-hwy.html,sc,cheraw,1044-chesterfield-hwy,031703,"1044 Chesterfield Hwy, Cheraw, SC 29520",29520,34.6997654,-79.9327707
+https://locations.tacobell.com/tn/madison/1117-gallatin-pike-s-.html,tn,madison,1117-gallatin-pike-s-,034430,"1117 Gallatin Pike S., Madison, TN 37115",37115,36.2483264,-86.7196505
+https://locations.tacobell.com/tn/paris/1120-mineral-wells-ave.html,tn,paris,1120-mineral-wells-ave,032317,"1120 Mineral Wells Ave, Paris, TN 38242",38242,36.283422,-88.307755
+https://locations.tacobell.com/tn/lawrenceburg/1135-n-locust-avenue.html,tn,lawrenceburg,1135-n-locust-avenue,005099,"1135 N Locust Avenue, Lawrenceburg, TN 38464",38464,35.2528187,-87.3262482
+https://locations.tacobell.com/tn/dickson/114-mathis-drive.html,tn,dickson,114-mathis-drive,034427,"114 Mathis Drive, Dickson, TN 37055",37055,36.0763036,-87.3747216
+https://locations.tacobell.com/tn/franklin/1208-murfreesboro-rd.html,tn,franklin,1208-murfreesboro-rd,004189,"1208 Murfreesboro Rd, Franklin, TN 37064",37064,35.9151445,-86.8309078
+https://locations.tacobell.com/tn/columbia/1237-trotwood-ave.html,tn,columbia,1237-trotwood-ave,002258,"1237 Trotwood Ave, Columbia, TN 38401",38401,35.6048666,-87.0663032
+https://locations.tacobell.com/tn/columbia/127-bear-creek-pike.html,tn,columbia,127-bear-creek-pike,034958,"127 Bear Creek Pike, Columbia, TN 38401",38401,35.6357776,-87.015003
+https://locations.tacobell.com/tn/murfreesboro/1301-nw-broad-st.html,tn,murfreesboro,1301-nw-broad-st,034359,"1301 NW Broad St, Murfreesboro, TN 37129",37129,35.8631048,-86.4094928
+https://locations.tacobell.com/tn/mcminnville/1405-smithville-highway.html,tn,mcminnville,1405-smithville-highway,003969,"1405 Smithville Highway, McMinnville, TN 37110",37110,35.7029163,-85.7815258
+https://locations.tacobell.com/tn/nashville/1410-brick-church-pike.html,tn,nashville,1410-brick-church-pike,003441,"1410 Brick Church Pike, Nashville, TN 37207",37207,36.2051472,-86.7784546
+https://locations.tacobell.com/tn/clarksville/1470-tiny-town-rd.html,tn,clarksville,1470-tiny-town-rd,034438,"1470 Tiny Town Rd, Clarksville, TN 37042",37042,36.6256983,-87.3706022
+https://locations.tacobell.com/tn/livingston/1475-w-main-st.html,tn,livingston,1475-w-main-st,020054,"1475 W Main St, Livingston, TN 38570",38570,36.3710792,-85.3404299
+https://locations.tacobell.com/tn/murfreesboro/155-cason-lane.html,tn,murfreesboro,155-cason-lane,020818,"155 Cason Lane, Murfreesboro, TN 37128",37128,35.8440506,-86.4400473
+https://locations.tacobell.com/tn/pulaski/1600-w-college-st.html,tn,pulaski,1600-w-college-st,005426,"1600 W College St, Pulaski, TN 38478",38478,35.2042841,-87.0603993
+https://locations.tacobell.com/tn/clarksville/1670-ft-campbell-blvd.html,tn,clarksville,1670-ft-campbell-blvd,034431,"1670 Ft Campbell Blvd, Clarksville, TN 37042",37042,36.5788799,-87.4099435
+https://locations.tacobell.com/tn/lebanon/1672-west-main-st-.html,tn,lebanon,1672-west-main-st-,023043,"1672 West Main St., Lebanon, TN 37087",37087,36.2208806,-86.3444408
+https://locations.tacobell.com/tn/murfreesboro/1702-memorial-blvd.html,tn,murfreesboro,1702-memorial-blvd,034361,"1702 Memorial Blvd, Murfreesboro, TN 37129",37129,35.8681375,-86.3865141
+https://locations.tacobell.com/tn/shelbyville/1704-n--main-street.html,tn,shelbyville,1704-n--main-street,024397,"1704 N. Main Street, Shelbyville, TN 37160",37160,35.5071226,-86.4562127
+https://locations.tacobell.com/tn/franklin/1715-galleria-blvd.html,tn,franklin,1715-galleria-blvd,004843,"1715 Galleria Blvd, Franklin, TN 37067",37067,35.9645275,-86.8115573
+https://locations.tacobell.com/sc/chester/1715-ja-cochran-bypass.html,sc,chester,1715-ja-cochran-bypass,032751,"1715 Ja Cochran Bypass, Chester, SC 29706",29706,34.7010104,-81.1912313
+https://locations.tacobell.com/sc/rock-hill/1771-heckle-blvd.html,sc,rock-hill,1771-heckle-blvd,016435,"1771 Heckle Blvd, Rock Hill, SC 29732",29732,34.9525839,-81.0633745
+https://locations.tacobell.com/sc/york/1790-devinney-road.html,sc,york,1790-devinney-road,029469,"1790 DeVinney Road, York, SC 29745",29745,34.9841805,-81.2187473
+https://locations.tacobell.com/tn/tullahoma/1804-n-jackson-street.html,tn,tullahoma,1804-n-jackson-street,003447,"1804 N Jackson Street, Tullahoma, TN 37388",37388,35.3824649,-86.2295203
+https://locations.tacobell.com/tn/decherd/1820-decherd-blvd.html,tn,decherd,1820-decherd-blvd,030273,"1820 Decherd Blvd, Decherd, TN 37324",37324,35.2041839,-86.093346
+https://locations.tacobell.com/tn/smyrna/1895-almaville-road.html,tn,smyrna,1895-almaville-road,034440,"1895 Almaville Road, Smyrna, TN 37167",37167,35.9311673,-86.5333615
+https://locations.tacobell.com/sc/pageland/204-van-lingle-mungo-blvd.html,sc,pageland,204-van-lingle-mungo-blvd,031714,"204 Van Lingle Mungo Blvd, Pageland, SC 29728",29728,34.7739747,-80.3827666
+https://locations.tacobell.com/tn/hendersonville/210-indian-lake-blvd-.html,tn,hendersonville,210-indian-lake-blvd-,034368,"210 Indian Lake Blvd., Hendersonville, TN 37075",37075,36.3242272,-86.5976896
+https://locations.tacobell.com/tn/madison/2100-gallatin-pike-n-.html,tn,madison,2100-gallatin-pike-n-,034366,"2100 Gallatin Pike N., Madison, TN 37115",37115,36.3037768,-86.6920111
+https://locations.tacobell.com/tn/nashville/2101-rosa-l--parks-blvd-.html,tn,nashville,2101-rosa-l--parks-blvd-,016292,"2101 Rosa L. Parks Blvd., Nashville, TN 37228",37228,36.1913088,-86.7997105
+https://locations.tacobell.com/tn/clarksville/2240-madison-street.html,tn,clarksville,2240-madison-street,036778,"2240 Madison Street, Clarksville, TN 37043",37043,36.5076269,-87.2685791
+https://locations.tacobell.com/tn/red-bank/2303-dayton-blvd.html,tn,red-bank,2303-dayton-blvd,029049,"2303 Dayton Blvd, Red Bank, TN 37415",37415,35.0948567,-85.3071826
+https://locations.tacobell.com/tn/dickson/2331-highway-46-s.html,tn,dickson,2331-highway-46-s,036777,"2331 Highway 46 S, Dickson, TN 37055",37055,36.0223787,-87.33872149999999
+https://locations.tacobell.com/tn/nashville/2384-lebanon-pike.html,tn,nashville,2384-lebanon-pike,004327,"2384 Lebanon Pike, Nashville, TN 37214",37214,36.1692983,-86.6831354
+https://locations.tacobell.com/tn/fairview/2389-fairview-blvd-.html,tn,fairview,2389-fairview-blvd-,029559,"2389 Fairview Blvd., Fairview, TN 37062",37062,35.9627203,-87.1346949
+https://locations.tacobell.com/sc/tega-cay/2453-hwy-160.html,sc,tega-cay,2453-hwy-160,032749,"2453 Hwy 160, Tega Cay, SC 29708",29708,35.0466267,-80.9903827
+https://locations.tacobell.com/tn/murfreesboro/2482-s--church-street.html,tn,murfreesboro,2482-s--church-street,020209,"2482 S. Church Street, Murfreesboro, TN 37127",37127,35.8069057,-86.3980395
+https://locations.tacobell.com/tn/cleveland/2491-keith-st-nw.html,tn,cleveland,2491-keith-st-nw,029009,"2491 Keith St NW, Cleveland, TN 37311",37311,35.1818016,-84.87406589999999
+https://locations.tacobell.com/sc/rock-hill/2526-cherry-rd.html,sc,rock-hill,2526-cherry-rd,002882,"2526 Cherry Rd, Rock Hill, SC 29732",29732,34.9705672,-80.9903731
+https://locations.tacobell.com/tn/nashville/2541-murfreesboro-rd.html,tn,nashville,2541-murfreesboro-rd,034429,"2541 Murfreesboro Rd, Nashville, TN 37217",37217,36.1009243,-86.6601004
+https://locations.tacobell.com/tn/nashville/2615-powell-ave.html,tn,nashville,2615-powell-ave,028380,"2615 Powell Ave, Nashville, TN 37204",37204,36.105553,-86.7641846
+https://locations.tacobell.com/tn/cleveland/2675-apd-40.html,tn,cleveland,2675-apd-40,029044,"2675 Apd 40, Cleveland, TN 37323",37323,35.1305575,-84.87645859999999
+https://locations.tacobell.com/tn/nashville/2904-gallatin-pike.html,tn,nashville,2904-gallatin-pike,034433,"2904 Gallatin Pike, Nashville, TN 37216",37216,36.2029784,-86.7383854
+https://locations.tacobell.com/tn/murfreesboro/2967-south-rutherford-rd-.html,tn,murfreesboro,2967-south-rutherford-rd-,022988,"2967 South Rutherford Rd., Murfreesboro, TN 37130",37130,35.8331811,-86.3515573
+https://locations.tacobell.com/tn/smyrna/305-n-lowry-st.html,tn,smyrna,305-n-lowry-st,034424,"305 N Lowry St, Smyrna, TN 37167",37167,35.9919898,-86.5264882
+https://locations.tacobell.com/tn/clarksville/3055-wilma-rudolph-blvd.html,tn,clarksville,3055-wilma-rudolph-blvd,034428,"3055 Wilma Rudolph Blvd, Clarksville, TN 37040",37040,36.5935868,-87.288795
+https://locations.tacobell.com/sc/richburg/3062-lancaster-highway.html,sc,richburg,3062-lancaster-highway,J870015,"3062 Lancaster Highway, Richburg, SC 29729",29729,34.7465711,-81.0405317
+https://locations.tacobell.com/tn/cookeville/310-big-mac-drive.html,tn,cookeville,310-big-mac-drive,024725,"310 Big Mac Drive, Cookeville, TN 38506",38506,36.1826133,-85.4606533
+https://locations.tacobell.com/sc/clover/311-vesla-lane.html,sc,clover,311-vesla-lane,030733,"311 Vesla Lane, Clover, SC 29710",29710,35.1171409,-81.0796371
+https://locations.tacobell.com/tn/nashville/3121-dickerson-pike.html,tn,nashville,3121-dickerson-pike,003168,"3121 Dickerson Pike, Nashville, TN 37207",37207,36.2316147,-86.7585349
+https://locations.tacobell.com/tn/chattanooga/3151-s-broad-st.html,tn,chattanooga,3151-s-broad-st,029010,"3151 S Broad St, Chattanooga, TN 37408",37408,35.0367587,-85.3116812
+https://locations.tacobell.com/tn/nashville/324-harding-place.html,tn,nashville,324-harding-place,005389,"324 Harding Place, Nashville, TN 37211",37211,36.0873019,-86.693892
+https://locations.tacobell.com/tn/white-house/330-hester-dr-.html,tn,white-house,330-hester-dr-,031815,"330 Hester Dr., White House, TN 37188",37188,36.4680335,-86.6775074
+https://locations.tacobell.com/tn/murfreesboro/3378-memorial-blvd.html,tn,murfreesboro,3378-memorial-blvd,028362,"3378 Memorial Blvd, Murfreesboro, TN 37130",37130,35.9097102,-86.3832675
+https://locations.tacobell.com/tn/springfield/3497-tom-austin-hwy-.html,tn,springfield,3497-tom-austin-hwy-,034367,"3497 Tom Austin Hwy., Springfield, TN 37172",37172,36.4881157,-86.8812505
+https://locations.tacobell.com/tn/cookeville/387-w--jackson-street.html,tn,cookeville,387-w--jackson-street,021287,"387 W. Jackson Street, Cookeville, TN 38501",38501,36.1556067,-85.5172707
+https://locations.tacobell.com/tn/kimball/400-kimball-crossing-dr.html,tn,kimball,400-kimball-crossing-dr,027306,"400 Kimball Crossing Dr, Kimball, TN 37347",37347,35.0396787,-85.6854886
+https://locations.tacobell.com/tn/nashville/4000-nolensville-road.html,tn,nashville,4000-nolensville-road,034423,"4000 Nolensville Road, Nashville, TN 37211",37211,36.005565,-86.6999791
+https://locations.tacobell.com/tn/mount-juliet/401-south-mount-juliet-rd.html,tn,mount-juliet,401-south-mount-juliet-rd,023232,"401 South Mount Juliet Rd #145, Mount Juliet, TN 37122",37122,36.1701232,-86.5084966
+https://locations.tacobell.com/tn/chattanooga/4115-hixson-pike.html,tn,chattanooga,4115-hixson-pike,029050,"4115 Hixson Pike, Chattanooga, TN 37415",37415,35.1151652,-85.2554266
+https://locations.tacobell.com/tn/chattanooga/4115-rossville-blvd.html,tn,chattanooga,4115-rossville-blvd,029042,"4115 Rossville Blvd, Chattanooga, TN 37407",37407,34.995468,-85.2913795
+https://locations.tacobell.com/tn/portland/418-highway-52-w.html,tn,portland,418-highway-52-w,029621,"418 Highway 52 W, Portland, TN 37148",37148,36.5794832,-86.41848189999999
+https://locations.tacobell.com/tn/lewisburg/440-n--ellington-pkwy.html,tn,lewisburg,440-n--ellington-pkwy,009441,"440 N. Ellington Pkwy, Lewisburg, TN 37091",37091,35.4543952,-86.7776283
+https://locations.tacobell.com/tn/hermitage/4442-lebanon-road.html,tn,hermitage,4442-lebanon-road,034363,"4442 Lebanon Road, Hermitage, TN 37076",37076,36.1907453,-86.6141189
+https://locations.tacobell.com/tn/hendersonville/447-w-main-st-.html,tn,hendersonville,447-w-main-st-,034365,"447 W Main St., Hendersonville, TN 37075",37075,36.3031801,-86.6280347
+https://locations.tacobell.com/tn/madisonville/4477-highway-411.html,tn,madisonville,4477-highway-411,029971,"4477 Highway 411, Madisonville, TN 37354",37354,35.5173373,-84.35801049999999
+https://locations.tacobell.com/tn/cleveland/4530-n-lee-hwy.html,tn,cleveland,4530-n-lee-hwy,029028,"4530 N Lee Hwy, Cleveland, TN 37312",37312,35.2016874,-84.8442142
+https://locations.tacobell.com/tn/chattanooga/4786-hwy-58.html,tn,chattanooga,4786-hwy-58,029007,"4786 Hwy 58, Chattanooga, TN 37416",37416,35.0891462,-85.1864774
+https://locations.tacobell.com/tn/spring-hill/4880-port-royal-rd.html,tn,spring-hill,4880-port-royal-rd,030711,"4880 Port Royal Rd, Spring Hill, TN 37174",37174,35.7395519,-86.8928846
+https://locations.tacobell.com/tn/manchester/49-scott-swinney-dr.html,tn,manchester,49-scott-swinney-dr,004254,"49 Scott Swinney Dr, Manchester, TN 37355",37355,35.4577705,-86.0546664
+https://locations.tacobell.com/tn/spring-hill/4936-columbia-pike.html,tn,spring-hill,4936-columbia-pike,022251,"4936 Columbia Pike, Spring Hill, TN 37174",37174,35.7737229,-86.9161029
+https://locations.tacobell.com/tn/brentwood/5002-maryland-way.html,tn,brentwood,5002-maryland-way,004386,"5002 Maryland Way, Brentwood, TN 37027",37027,36.0347313,-86.7920513
+https://locations.tacobell.com/tn/la-vergne/5143-murfreesboro-rd-.html,tn,la-vergne,5143-murfreesboro-rd-,034436,"5143 Murfreesboro Rd., La Vergne, TN 37086",37086,36.0190261,-86.5714606
+https://locations.tacobell.com/tn/nashville/529-donelson-pike.html,tn,nashville,529-donelson-pike,034425,"529 Donelson Pike, Nashville, TN 37214",37214,36.1473599,-86.6659544
+https://locations.tacobell.com/tn/antioch/5315-hickory-hollow-ln-.html,tn,antioch,5315-hickory-hollow-ln-,034435,"5315 Hickory Hollow Ln., Antioch, TN 37013",37013,36.0483878,-86.6528759
+https://locations.tacobell.com/sc/rock-hill/532-john-ross-parkway.html,sc,rock-hill,532-john-ross-parkway,021458,"532 John Ross Parkway, Rock Hill, SC 29730",29730,34.9415759,-80.9782571
+https://locations.tacobell.com/tn/hixson/5439-highway-153.html,tn,hixson,5439-highway-153,029034,"5439 Highway 153, Hixson, TN 37343",37343,35.1406643,-85.2490205
+https://locations.tacobell.com/tn/nashville/5510-nolensville-rd.html,tn,nashville,5510-nolensville-rd,034426,"5510 Nolensville Rd, Nashville, TN 37211",37211,36.005565,-86.6999791
+https://locations.tacobell.com/tn/hohenwald/551-b-east-main-st.html,tn,hohenwald,551-b-east-main-st,031701,"551-B East Main St, Hohenwald, TN 38462",38462,35.5539134,-87.537288
+https://locations.tacobell.com/tn/nashville/5709-edmondson-pike.html,tn,nashville,5709-edmondson-pike,020950,"5709 Edmondson Pike, Nashville, TN 37211",37211,36.0389957,-86.7439592
+https://locations.tacobell.com/tn/east-ridge/6200-ringgold-rd.html,tn,east-ridge,6200-ringgold-rd,029022,"6200 Ringgold Rd, East Ridge, TN 37412",37412,34.989469,-85.2128369
+https://locations.tacobell.com/tn/chattanooga/6210-lee-highway.html,tn,chattanooga,6210-lee-highway,029037,"6210 Lee Highway, Chattanooga, TN 37421",37421,35.0298774,-85.1853175
+https://locations.tacobell.com/tn/nashville/6540-charlotte-pike.html,tn,nashville,6540-charlotte-pike,020130,"6540 Charlotte Pike, Nashville, TN 37209",37209,36.1397478,-86.8798655
+https://locations.tacobell.com/tn/brentwood/6718-nolensville-pk.html,tn,brentwood,6718-nolensville-pk,029560,"6718 Nolensville Pk, Brentwood, TN 37027",37027,35.9978313,-86.6906519
+https://locations.tacobell.com/tn/chattanooga/7304-shallowford-rd.html,tn,chattanooga,7304-shallowford-rd,029024,"7304 Shallowford Rd, Chattanooga, TN 37421",37421,35.0412233,-85.1533921
+https://locations.tacobell.com/tn/bellevue/7659-hwy-70-s.html,tn,bellevue,7659-hwy-70-s,004591,"7659 Hwy 70 S, Bellevue, TN 37221",37221,36.0783273,-86.9515535
+https://locations.tacobell.com/sc/lancaster/767-hwy-9-bypass-w.html,sc,lancaster,767-hwy-9-bypass-w,020917,"767 Hwy 9 Bypass W, Lancaster, SC 29720",29720,34.7358669,-80.7836189
+https://locations.tacobell.com/tn/dayton/7761-rhea-county-highway.html,tn,dayton,7761-rhea-county-highway,016818,"7761 Rhea County Highway, Dayton, TN 37321",37321,35.5129729,-84.9991145
+https://locations.tacobell.com/tn/chattanooga/7796-e-brainerd-rd.html,tn,chattanooga,7796-e-brainerd-rd,029013,"7796 E Brainerd Rd, Chattanooga, TN 37421",37421,35.0093277,-85.153418
+https://locations.tacobell.com/tn/cookeville/787-south-jefferson-avenue.html,tn,cookeville,787-south-jefferson-avenue,034362,"787 South Jefferson Avenue, Cookeville, TN 38501",38501,36.1439288,-85.5014671
+https://locations.tacobell.com/tn/clarksville/788-riverside-drive.html,tn,clarksville,788-riverside-drive,034434,"788 Riverside Drive, Clarksville, TN 37040",37040,36.5401339,-87.3663243
+https://locations.tacobell.com/tn/gallatin/807-nashville-pike.html,tn,gallatin,807-nashville-pike,034364,"807 Nashville Pike, Gallatin, TN 37066",37066,36.3798731,-86.4644763
+https://locations.tacobell.com/tn/lebanon/823-s--cumberland-street.html,tn,lebanon,823-s--cumberland-street,034360,"823 S. Cumberland Street, Lebanon, TN 37087",37087,36.1840122,-86.2975381
+https://locations.tacobell.com/tn/smyrna/850-nissan-drive.html,tn,smyrna,850-nissan-drive,034437,"850 Nissan Drive, Smyrna, TN 37167",37167,35.9683538,-86.4951344
+https://locations.tacobell.com/tn/ooltewah/9210-lee-hwy.html,tn,ooltewah,9210-lee-hwy,029046,"9210 Lee Hwy, Ooltewah, TN 37363",37363,35.083791,-85.0627292
+https://locations.tacobell.com/tn/woodbury/930-west-main-st-.html,tn,woodbury,930-west-main-st-,030867,"930 West Main St., Woodbury, TN 37190",37190,35.826535,-86.0839603
+https://locations.tacobell.com/tn/soddy-daisy/9341-dayton-pike.html,tn,soddy-daisy,9341-dayton-pike,029066,"9341 Dayton Pike, Soddy Daisy, TN 37379",37379,35.2369427,-85.2004822
+https://locations.tacobell.com/sc/clover/958-bethel-street.html,sc,clover,958-bethel-street,J870017,"958 Bethel Street, Clover, SC 29710",29710,35.1061144,-81.2095446
+https://locations.tacobell.com/tn/nashville/990-murfreesboro-road.html,tn,nashville,990-murfreesboro-road,009435,"990 Murfreesboro Road, Nashville, TN 37217",37217,36.1009243,-86.6601004
+https://locations.tacobell.com/sc/fort-mill/9915-charlotte-hwy-.html,sc,fort-mill,9915-charlotte-hwy-,022180,"9915 Charlotte Hwy., Fort Mill, SC 29707",29707,35.0068259,-80.8549068
+https://locations.tacobell.com/sc/myrtle-beach/4306-river-oaks-drive.html,sc,myrtle-beach,4306-river-oaks-drive,039148,"4306 River Oaks Drive, Myrtle Beach, SC 29579",29579,33.7599885,-78.8593378
+https://locations.tacobell.com/tn/milan/5108-s-1st-st-.html,tn,milan,5108-s-1st-st-,039152,"5108 S 1st St., Milan, TN 38358",38358,35.9079421,-88.7520134
+https://locations.tacobell.com/tn/greenbrier/2191-us-41.html,tn,greenbrier,2191-us-41,039028,"2191 US 41, Greenbrier, TN 37073",37073,36.4128119,-86.7908421
+https://locations.tacobell.com/tn/mcdonald/127-pleasant-grove-road-sw.html,tn,mcdonald,127-pleasant-grove-road-sw,040162,"127 Pleasant Grove Road SW, McDonald, TN 37353",37353,35.1524452,-84.9503131
+https://locations.tacobell.com/tn/trenton/hwy-45-byp-s-2045.html,tn,trenton,hwy-45-byp-s-2045,040020,"Hwy 45 Byp S 2045, Trenton, TN 38382",38382,35.9673079,-88.9291441
+https://locations.tacobell.com/sc/florence/2111-dr-frank-lee-jr-.html,sc,florence,2111-dr-frank-lee-jr-,040166,"2111 Dr Frank Lee Jr., Florence, SC 29506",29506,34.27479599999999,-79.7031107
+https://locations.tacobell.com/tn/chattanooga/3009-silverdale-rd-.html,tn,chattanooga,3009-silverdale-rd-,040571,"3009 Silverdale Rd., Chattanooga, TN 37421",37421,35.0639537,-85.1371746
+https://locations.tacobell.com/tn/elizabethton/993-w-elk-avenue.html,tn,elizabethton,993-w-elk-avenue,029031,"993 W Elk Avenue, Elizabethton, TN 37643",37643,36.3486881,-82.2417937
+https://locations.tacobell.com/tn/lakeland/9821-us-hwy-64.html,tn,lakeland,9821-us-hwy-64,032329,"9821 US Hwy 64, Lakeland, TN 38002",38002,35.2048501,-89.7339327
+https://locations.tacobell.com/sc/summerville/981-bacons-bridge-rd.html,sc,summerville,981-bacons-bridge-rd,031437,"981 Bacons Bridge Rd, Summerville, SC 29485",29485,32.9967554,-80.1852757
+https://locations.tacobell.com/sc/columbia/9802-two-notch-rd.html,sc,columbia,9802-two-notch-rd,031782,"9802 Two Notch Rd, Columbia, SC 29223",29223,34.1068937,-80.9008224
+https://locations.tacobell.com/tn/covington/971-highway-51-north.html,tn,covington,971-highway-51-north,032315,"971 Highway 51 North, Covington, TN 38019",38019,35.7417173,-89.55628430000002
+https://locations.tacobell.com/sc/ladson/9637-highway-78.html,sc,ladson,9637-highway-78,004741,"9637 Highway 78, Ladson, SC 29456",29456,32.989094,-80.1004174
+https://locations.tacobell.com/sc/darlington/939-s-governor-williams-hwy.html,sc,darlington,939-s-governor-williams-hwy,030969,"939 S Governor Williams Hwy, Darlington, SC 29532",29532,34.283632,-79.8651795
+https://locations.tacobell.com/tn/sevierville/931-dolly-parton-prkwy.html,tn,sevierville,931-dolly-parton-prkwy,029036,"931 Dolly Parton Prkwy, Sevierville, TN 37864",37864,35.8636293,-83.5442783
+https://locations.tacobell.com/tn/sweetwater/927-highway-68.html,tn,sweetwater,927-highway-68,029038,"927 Highway 68, Sweetwater, TN 37874",37874,35.5984354,-84.4626208
+https://locations.tacobell.com/sd/brookings/926-25th-ave-.html,sd,brookings,926-25th-ave-,032302,"926 25th Ave., Brookings, SD 57006",57006,44.316524,-96.7620936
+https://locations.tacobell.com/sd/watertown/911-fifth-st-se.html,sd,watertown,911-fifth-st-se,037590,"911 Fifth St SE, Watertown, SD 57201",57201,44.8894487,-97.1101499
+https://locations.tacobell.com/tn/memphis/911-estate-dr.html,tn,memphis,911-estate-dr,032324,"911 Estate Dr, Memphis, TN 38119",38119,35.1068337,-89.8846077
+https://locations.tacobell.com/sc/santee/9075-old-hwy-6.html,sc,santee,9075-old-hwy-6,032065,"9075 Old Hwy 6, Santee, SC 29142",29142,33.4837885,-80.4668696
+https://locations.tacobell.com/sc/hartsville/907-s-5th-st.html,sc,hartsville,907-s-5th-st,027629,"907 S 5th St, Hartsville, SC 29550",29550,34.3610841,-80.067288
+https://locations.tacobell.com/sd/rapid-city/902-e--north-street.html,sd,rapid-city,902-e--north-street,027881,"902 E. North Street, Rapid City, SD 57701",57701,44.0878821,-103.1964182
+https://locations.tacobell.com/sc/lake-city/896-s-ron-mcnair-blvd.html,sc,lake-city,896-s-ron-mcnair-blvd,031810,"896 S Ron McNair Blvd, Lake City, SC 29560",29560,33.8474494,-79.7643133
+https://locations.tacobell.com/tn/collierville/880-w-poplar-ave.html,tn,collierville,880-w-poplar-ave,034697,"880 W Poplar Ave, Collierville, TN 38017",38017,35.0465218,-89.6915583
+https://locations.tacobell.com/tn/cordova/871-germantown-pkwy.html,tn,cordova,871-germantown-pkwy,035151,"871 Germantown Pkwy, Cordova, TN 38018",38018,35.1490591,-89.7951801
+https://locations.tacobell.com/tn/knoxville/8615-walbrook-dr.html,tn,knoxville,8615-walbrook-dr,029053,"8615 Walbrook Dr, Knoxville, TN 37923",37923,35.9245535,-84.0671128
+https://locations.tacobell.com/sc/charleston/858-folly-rd.html,sc,charleston,858-folly-rd,004452,"858 Folly Rd, Charleston, SC 29412",29412,32.7373746,-79.9665233
+https://locations.tacobell.com/tn/martin/849-university-st.html,tn,martin,849-university-st,027040,"849 University St, Martin, TN 38237",38237,36.3491886,-88.8749366
+https://locations.tacobell.com/tn/ripley/846-hwy-51-n.html,tn,ripley,846-hwy-51-n,034689,"846 Hwy 51 N, Ripley, TN 38063",38063,35.7416636,-89.55564179999999
+https://locations.tacobell.com/sc/north-charleston/8430-dorchester-road.html,sc,north-charleston,8430-dorchester-road,004186,"8430 Dorchester Road, North Charleston, SC 29420",29420,32.915852,-80.110133
+https://locations.tacobell.com/tn/maryville/836-foothills-mall-dr.html,tn,maryville,836-foothills-mall-dr,026044,"836 Foothills Mall Dr, Maryville, TN 37801",37801,35.7519358,-83.9964151
+https://locations.tacobell.com/tn/memphis/826-s-third.html,tn,memphis,826-s-third,032309,"826 S Third, Memphis, TN 38106",38106,35.1045762,-90.0554071
+https://locations.tacobell.com/tn/nashville/8211-highway-100.html,tn,nashville,8211-highway-100,031928,"8211 Highway 100, Nashville, TN 37221",37221,36.0391445,-86.9633115
+https://locations.tacobell.com/sc/mount-pleasant/821-coleman-blvd.html,sc,mount-pleasant,821-coleman-blvd,002838,"821 Coleman Blvd, Mount Pleasant, SC 29464",29464,32.7932817,-79.8650433
+https://locations.tacobell.com/sd/sioux-falls/812-s-minnesota-ave.html,sd,sioux-falls,812-s-minnesota-ave,031430,"812 S Minnesota Ave, Sioux Falls, SD 57104",57104,43.5382948,-96.7311741
+https://locations.tacobell.com/tn/newport/808-cosby-hwy.html,tn,newport,808-cosby-hwy,029041,"808 Cosby Hwy, Newport, TN 37821",37821,35.9512132,-83.2000074
+https://locations.tacobell.com/tn/memphis/8033-hwy-64.html,tn,memphis,8033-hwy-64,035157,"8033 Hwy 64, Memphis, TN 38133",38133,35.2042035,-89.79485389999999
+https://locations.tacobell.com/sc/spartanburg/800-n-pine-st.html,sc,spartanburg,800-n-pine-st,031434,"800 N Pine St, Spartanburg, SC 29303",29303,34.9649757,-81.930814
+https://locations.tacobell.com/tn/memphis/7964-windchester-road.html,tn,memphis,7964-windchester-road,032326,"7964 Windchester Road, Memphis, TN 38125",38125,35.0488786,-89.79713559999999
+https://locations.tacobell.com/tn/germantown/7858-wolf-river-blvd-.html,tn,germantown,7858-wolf-river-blvd-,034700,"7858 Wolf River Blvd., Germantown, TN 38138",38138,35.1133376,-89.8008034
+https://locations.tacobell.com/sc/spartanburg/7680-warren-h-abernathy-hwy.html,sc,spartanburg,7680-warren-h-abernathy-hwy,027345,"7680 Warren H Abernathy Hwy, Spartanburg, SC 29301",29301,34.9363948,-82.001443
+https://locations.tacobell.com/tn/bartlett/7571-us-highway-70.html,tn,bartlett,7571-us-highway-70,035159,"7571 US Highway 70, Bartlett, TN 38133",38133,35.2284906,-89.8102353
+https://locations.tacobell.com/sc/columbia/7526-garners-ferry-rd.html,sc,columbia,7526-garners-ferry-rd,031784,"7526 Garners Ferry Rd, Columbia, SC 29209",29209,33.9628278,-80.9409413
+https://locations.tacobell.com/tn/knoxville/7414-kingston-pike.html,tn,knoxville,7414-kingston-pike,009575,"7414 Kingston Pike, Knoxville, TN 37919",37919,35.9291037,-84.0331578
+https://locations.tacobell.com/sc/cayce/739-knox-abbott.html,sc,cayce,739-knox-abbott,031787,"739 Knox Abbott, Cayce, SC 29033",29033,33.982845,-81.0607582
+https://locations.tacobell.com/sc/north-charleston/7373-northwoods-blvd.html,sc,north-charleston,7373-northwoods-blvd,004814,"7373 Northwoods Blvd, North Charleston, SC 29406",29406,32.9357042,-80.0454901
+https://locations.tacobell.com/tn/knoxville/7211-strawberry-plains-pike.html,tn,knoxville,7211-strawberry-plains-pike,029057,"7211 Strawberry Plains Pike, Knoxville, TN 37914",37914,36.0004265,-83.7785998
+https://locations.tacobell.com/tn/lenoir-city/716-highway-321-north.html,tn,lenoir-city,716-highway-321-north,016335,"716 Highway 321 North, Lenoir City, TN 37771",37771,35.81094849999999,-84.26395
+https://locations.tacobell.com/tn/bolivar/715-w-market-st.html,tn,bolivar,715-w-market-st,034692,"715 W Market St, Bolivar, TN 38008",38008,35.2564711,-88.9972516
+https://locations.tacobell.com/sc/dillon/711-radford-blvd-.html,sc,dillon,711-radford-blvd-,030904,"711 Radford Blvd., Dillon, SC 29536",29536,34.4380106,-79.3712305
+https://locations.tacobell.com/sc/summerville/708-n-main.html,sc,summerville,708-n-main,031436,"708 N Main, Summerville, SC 29483",29483,33.0282906,-80.1693396
+https://locations.tacobell.com/sc/hampton/708-elm-street.html,sc,hampton,708-elm-street,E960028,"708 Elm Street, Hampton, SC 29924",29924,32.8596376,-81.0991691
+https://locations.tacobell.com/tn/jonesborough/705-e--jackson-blvd-.html,tn,jonesborough,705-e--jackson-blvd-,029061,"705 E. Jackson Blvd., Jonesborough, TN 37659",37659,36.3012966,-82.4618687
+https://locations.tacobell.com/tn/dandridge/702-highway-92-s.html,tn,dandridge,702-highway-92-s,027192,"702 Highway 92 S, Dandridge, TN 37725",37725,36.0347207,-83.4319866
+https://locations.tacobell.com/sc/orangeburg/695-john-c-calhoun-dr.html,sc,orangeburg,695-john-c-calhoun-dr,003743,"695 John C Calhoun Dr, Orangeburg, SC 29115",29115,33.4908444,-80.8546834
+https://locations.tacobell.com/tn/oakland/6880-highway-64.html,tn,oakland,6880-highway-64,L775093,"6880 Highway 64, Oakland, TN 38060",38060,35.2285101,-89.5223595
+https://locations.tacobell.com/tn/knoxville/6802-maynardville-hwy.html,tn,knoxville,6802-maynardville-hwy,029026,"6802 Maynardville Hwy, Knoxville, TN 37918",37918,36.2413021,-83.8169245
+https://locations.tacobell.com/tn/knoxville/6789-clinton-highway.html,tn,knoxville,6789-clinton-highway,004789,"6789 Clinton Highway, Knoxville, TN 37912",37912,36.0067371,-84.0276332
+https://locations.tacobell.com/tn/bartlett/6720-stage-rd.html,tn,bartlett,6720-stage-rd,035153,"6720 Stage Rd, Bartlett, TN 38134",38134,35.205268,-89.83935
+https://locations.tacobell.com/tn/piney-flats/6701-bristol-highway.html,tn,piney-flats,6701-bristol-highway,030435,"6701 Bristol Highway, Piney Flats, TN 37686",37686,36.4259428,-82.3176469
+https://locations.tacobell.com/sc/lugoff/662-highway-1-s.html,sc,lugoff,662-highway-1-s,024492,"662 Highway 1 S, Lugoff, SC 29078",29078,34.2228439,-80.6838795
+https://locations.tacobell.com/sc/anderson/655-hwy-28-bypass.html,sc,anderson,655-hwy-28-bypass,027318,"655 Hwy 28 Bypass, Anderson, SC 29624",29624,34.4910367,-82.6761554
+https://locations.tacobell.com/tn/knoxville/6504-chapman-hwy.html,tn,knoxville,6504-chapman-hwy,029068,"6504 Chapman Hwy, Knoxville, TN 37920",37920,35.921578,-83.8660926
+https://locations.tacobell.com/sc/travelers-rest/6500-state-park-rd.html,sc,travelers-rest,6500-state-park-rd,J718182,"6500 State Park Rd, Travelers Rest, SC 29690",29690,34.9659432,-82.4246806
+https://locations.tacobell.com/tn/memphis/6210-winchester-rd.html,tn,memphis,6210-winchester-rd,035148,"6210 Winchester Rd, Memphis, TN 38115",38115,35.0498251,-89.8564756
+https://locations.tacobell.com/sc/simpsonville/615-fairview-rd.html,sc,simpsonville,615-fairview-rd,027329,"615 Fairview Rd, Simpsonville, SC 29681",29681,34.7165727,-82.2553768
+https://locations.tacobell.com/sd/aberdeen/615-centennial-st-s.html,sd,aberdeen,615-centennial-st-s,037585,"615 Centennial St S, Aberdeen, SD 57401",57401,45.4586873,-98.4386139
+https://locations.tacobell.com/sc/saint-george/6131-west-jim-bilton-blvd-.html,sc,saint-george,6131-west-jim-bilton-blvd-,026018,"6131 West Jim Bilton Blvd., Saint George, SC 29477",29477,33.1944658,-80.6095741
+https://locations.tacobell.com/tn/powell/611-east-emory-rd.html,tn,powell,611-east-emory-rd,031540,"611 East Emory Rd, Powell, TN 37849",37849,36.0527048,-83.990952
+https://locations.tacobell.com/sc/north-charleston/5856-rivers-ave.html,sc,north-charleston,5856-rivers-ave,000597,"5856 Rivers Ave, North Charleston, SC 29406",29406,32.9012686,-80.0179946
+https://locations.tacobell.com/tn/lexington/565-west-church-street.html,tn,lexington,565-west-church-street,034686,"565 West Church Street, Lexington, TN 38351",38351,35.6568185,-88.4101412
+https://locations.tacobell.com/tn/memphis/5320-knight-arnold-rd.html,tn,memphis,5320-knight-arnold-rd,032328,"5320 Knight Arnold Rd, Memphis, TN 38118",38118,35.0620024,-89.8862645
+https://locations.tacobell.com/tn/westmoreland/5236-highway-31e.html,tn,westmoreland,5236-highway-31e,036783,"5236 Highway 31E, Westmoreland, TN 37186",37186,36.4887238,-86.3180947
+https://locations.tacobell.com/tn/gray/5201-bobby-hicks-highway-.html,tn,gray,5201-bobby-hicks-highway-,029060,"5201 Bobby Hicks Highway., Gray, TN 37615",37615,36.4129166,-82.4724853
+https://locations.tacobell.com/sc/easley/5197-calhoun-memorial-hwy.html,sc,easley,5197-calhoun-memorial-hwy,027331,"5197 Calhoun Memorial Hwy, Easley, SC 29640",29640,34.8241474,-82.5592852
+https://locations.tacobell.com/tn/kingston/514-n-kentucky-st.html,tn,kingston,514-n-kentucky-st,019694,"514 N Kentucky St, Kingston, TN 37763",37763,35.8762515,-84.5125839
+https://locations.tacobell.com/tn/erwin/506-jonesborough-road.html,tn,erwin,506-jonesborough-road,031419,"506 Jonesborough Road, Erwin, TN 37650",37650,36.1489823,-82.4166023
+https://locations.tacobell.com/tn/gordonsville/501-gordonsville-highway.html,tn,gordonsville,501-gordonsville-highway,J795010,"501 Gordonsville Highway, Gordonsville, TN 38563",38563,36.1775142,-85.947201
+https://locations.tacobell.com/tn/knoxville/4854-n--broadway-st-.html,tn,knoxville,4854-n--broadway-st-,016498,"4854 N. Broadway St., Knoxville, TN 37918",37918,36.0276144,-83.92739739999999
+https://locations.tacobell.com/tn/millington/4811-navy-rd.html,tn,millington,4811-navy-rd,035154,"4811 Navy Rd, Millington, TN 38053",38053,35.3412795,-89.9030498
+https://locations.tacobell.com/sc/myrtle-beach/4720-socastee-blvd.html,sc,myrtle-beach,4720-socastee-blvd,024230,"4720 Socastee Blvd, Myrtle Beach, SC 29588",29588,33.6837984,-78.9949317
+https://locations.tacobell.com/tn/memphis/4655-riverdale-road.html,tn,memphis,4655-riverdale-road,035152,"4655 Riverdale Road, Memphis, TN 38141",38141,35.02176,-89.8310713
+https://locations.tacobell.com/sd/rapid-city/449-e--stumer-road.html,sd,rapid-city,449-e--stumer-road,032358,"449 E. Stumer Road, Rapid City, SD 57701",57701,44.0326953,-103.2091511
+https://locations.tacobell.com/tn/henderson/447-e-main.html,tn,henderson,447-e-main,034688,"447 E Main, Henderson, TN 38340",38340,35.4416668,-88.6314332
+https://locations.tacobell.com/tn/knoxville/4413-western-ave.html,tn,knoxville,4413-western-ave,002302,"4413 Western Ave, Knoxville, TN 37921",37921,35.973151,-83.9845506
+https://locations.tacobell.com/tn/kingsport/4409-fort-henry-drive.html,tn,kingsport,4409-fort-henry-drive,032165,"4409 Fort Henry Drive, Kingsport, TN 37663",37663,36.4807316,-82.4954147
+https://locations.tacobell.com/tn/memphis/4370-summer-ave.html,tn,memphis,4370-summer-ave,035150,"4370 Summer Ave, Memphis, TN 38122",38122,35.148937,-89.914722
+https://locations.tacobell.com/tn/memphis/4330-elvis-presley-blvd.html,tn,memphis,4330-elvis-presley-blvd,035149,"4330 Elvis Presley Blvd, Memphis, TN 38116",38116,35.0303437,-90.0250727
+https://locations.tacobell.com/sc/lexington/4328-sunset-blvd.html,sc,lexington,4328-sunset-blvd,031785,"4328 Sunset Blvd, Lexington, SC 29072",29072,34.0144117,-81.1543201
+https://locations.tacobell.com/tn/knoxville/411-merchant-dr.html,tn,knoxville,411-merchant-dr,029292,"411 Merchant Dr, Knoxville, TN 37912",37912,36.0081373,-83.9766761
+https://locations.tacobell.com/sd/sioux-falls/4100-west-12th-street.html,sd,sioux-falls,4100-west-12th-street,031428,"4100 West 12th Street, Sioux Falls, SD 57105",57105,43.5444033,-96.7739725
+https://locations.tacobell.com/tn/rogersville/4018-highway-66.html,tn,rogersville,4018-highway-66,029055,"4018 Highway 66, Rogersville, TN 37857",37857,36.3954339,-83.0114565
+https://locations.tacobell.com/tn/knoxville/401-lovell-rd.html,tn,knoxville,401-lovell-rd,030252,"401 Lovell Rd, Knoxville, TN 37922",37922,35.9041202,-84.1430385
+https://locations.tacobell.com/tn/memphis/3995-s--3rd-st-.html,tn,memphis,3995-s--3rd-st-,L518022,"3995 S. 3rd St., Memphis, TN 38109",38109,35.1414834,-90.0515281
+https://locations.tacobell.com/sc/west-columbia/3983-platt-springs-rd.html,sc,west-columbia,3983-platt-springs-rd,031783,"3983 Platt Springs Rd, West Columbia, SC 29170",29170,33.9381414,-81.148355
+https://locations.tacobell.com/sc/walterboro/391-bells-hwy.html,sc,walterboro,391-bells-hwy,004753,"391 Bells Hwy, Walterboro, SC 29488",29488,32.9154806,-80.6734409
+https://locations.tacobell.com/tn/memphis/3745-e--shelby-drive.html,tn,memphis,3745-e--shelby-drive,L518031,"3745 E. Shelby Drive, Memphis, TN 38118",38118,35.0208007,-89.9385206
+https://locations.tacobell.com/sc/greenville/3709-pelham-road.html,sc,greenville,3709-pelham-road,032881,"3709 Pelham Road, Greenville, SC 29615",29615,34.8604415,-82.2681362
+https://locations.tacobell.com/tn/memphis/3569-democrat-rd.html,tn,memphis,3569-democrat-rd,032310,"3569 Democrat Rd, Memphis, TN 38118",38118,35.0685114,-89.9510455
+https://locations.tacobell.com/tn/memphis/3490-elvis-presley-blvd.html,tn,memphis,3490-elvis-presley-blvd,035155,"3490 Elvis Presley Blvd, Memphis, TN 38116",38116,35.0535118,-90.0246112
+https://locations.tacobell.com/sc/piedmont/3431-highway-153.html,sc,piedmont,3431-highway-153,027315,"3431 Highway 153, Piedmont, SC 29673",29673,34.78698869999999,-82.4802363
+https://locations.tacobell.com/sc/greenville/3409-w-blueridge-dr.html,sc,greenville,3409-w-blueridge-dr,027337,"3409 W Blueridge Dr, Greenville, SC 29611",29611,34.8521585,-82.4508288
+https://locations.tacobell.com/sd/sioux-falls/3400-s-louise-avenue.html,sd,sioux-falls,3400-s-louise-avenue,031424,"3400 S Louise Avenue, Sioux Falls, SD 57106",57106,43.5139017,-96.7706491
+https://locations.tacobell.com/tn/memphis/3378-poplar-ave.html,tn,memphis,3378-poplar-ave,035146,"3378 Poplar Ave, Memphis, TN 38111",38111,35.1293067,-89.9495292
+https://locations.tacobell.com/tn/pigeon-forge/3310-parkway.html,tn,pigeon-forge,3310-parkway,029015,"3310 Parkway, Pigeon Forge, TN 37863",37863,35.7893086,-83.557605
+https://locations.tacobell.com/sd/sioux-falls/3309-e-10th-st.html,sd,sioux-falls,3309-e-10th-st,031425,"3309 E 10th St, Sioux Falls, SD 57103",57103,43.5463688,-96.6842789
+https://locations.tacobell.com/sc/belton/326-s--main-street.html,sc,belton,326-s--main-street,L765024,"326 S. Main Street, Belton, SC 29627",29627,34.5173942,-82.489144
+https://locations.tacobell.com/sc/orangeburg/3259-st--matthews-road.html,sc,orangeburg,3259-st--matthews-road,032040,"3259 St. Matthews Road, Orangeburg, SC 29115",29115,33.5459906,-80.8305298
+https://locations.tacobell.com/tn/memphis/3233-thomas-st.html,tn,memphis,3233-thomas-st,032308,"3233 Thomas St, Memphis, TN 38127",38127,35.2138544,-90.0321988
+https://locations.tacobell.com/sc/greenville/3207-n-pleasantburg-dr.html,sc,greenville,3207-n-pleasantburg-dr,030348,"3207 N Pleasantburg Dr, Greenville, SC 29609",29609,34.8888843,-82.3997141
+https://locations.tacobell.com/tn/goodlettsville/320-long-hollow-pike.html,tn,goodlettsville,320-long-hollow-pike,034369,"320 Long Hollow Pike, Goodlettsville, TN 37072",37072,36.326284,-86.700408
+https://locations.tacobell.com/sc/anderson/3152-north-main.html,sc,anderson,3152-north-main,027327,"3152 North Main, Anderson, SC 29621",29621,34.5392519,-82.6675143
+https://locations.tacobell.com/tn/waverly/310-west-main-street.html,tn,waverly,310-west-main-street,F569105,"310 West Main Street, Waverly, TN 37185",37185,36.0835117,-87.7995574
+https://locations.tacobell.com/tn/greeneville/3050-e-andrew-johnson-hwy.html,tn,greeneville,3050-e-andrew-johnson-hwy,029067,"3050 E Andrew Johnson Hwy, Greeneville, TN 37745",37745,36.1822055,-82.770862
+https://locations.tacobell.com/tn/memphis/3045-covington-pike.html,tn,memphis,3045-covington-pike,035145,"3045 Covington Pike, Memphis, TN 38128",38128,35.2086724,-89.8951951
+https://locations.tacobell.com/tn/ardmore/30019-highway-110.html,tn,ardmore,30019-highway-110,G135458,"30019 Highway 110, Ardmore, TN 38449",30019,35.0203906,-86.7092803
+https://locations.tacobell.com/tn/alcoa/297-s-calderwood-st.html,tn,alcoa,297-s-calderwood-st,026837,"297 S Calderwood St, Alcoa, TN 37701",37701,35.7601222,-83.975479
+https://locations.tacobell.com/sc/newberry/2915-main-street.html,sc,newberry,2915-main-street,032301,"2915 Main Street, Newberry, SC 29108",29108,34.280375,-81.6061995
+https://locations.tacobell.com/tn/memphis/2785-lamar-ave-.html,tn,memphis,2785-lamar-ave-,L518014,"2785 Lamar Ave., Memphis, TN 38114",38114,35.0949102,-89.9699222
+https://locations.tacobell.com/sc/columbia/2758-decker-blvd.html,sc,columbia,2758-decker-blvd,031791,"2758 Decker Blvd, Columbia, SC 29206",29206,34.0635197,-80.9546911
+https://locations.tacobell.com/tn/murfreesboro/2732-saint-andrews-drive.html,tn,murfreesboro,2732-saint-andrews-drive,031779,"2732 Saint Andrews Drive, Murfreesboro, TN 37128",37128,35.8118042,-86.4600157
+https://locations.tacobell.com/tn/dyersburg/2730-lake-rd.html,tn,dyersburg,2730-lake-rd,027039,"2730 Lake Rd, Dyersburg, TN 38024",38024,36.0651757,-89.3958168
+https://locations.tacobell.com/tn/memphis/2702-s-perkins-rd.html,tn,memphis,2702-s-perkins-rd,034699,"2702 S Perkins Rd, Memphis, TN 38118",38118,35.0750362,-89.9058186
+https://locations.tacobell.com/sc/columbia/2701-clemson-rd.html,sc,columbia,2701-clemson-rd,031792,"2701 Clemson Rd, Columbia, SC 29229",29229,34.1392839,-80.9346054
+https://locations.tacobell.com/sd/rapid-city/2700-mt-rushmore-road.html,sd,rapid-city,2700-mt-rushmore-road,027882,"2700 Mt Rushmore Road, Rapid City, SD 57701",57701,44.058792,-103.231688
+https://locations.tacobell.com/sc/mullins/2677-e--hwy-76.html,sc,mullins,2677-e--hwy-76,031702,"2677 E. Hwy 76, Mullins, SC 29574",29574,34.1993412,-79.2388412
+https://locations.tacobell.com/sc/florence/2674-david-mcleod-blvd.html,sc,florence,2674-david-mcleod-blvd,032682,"2674 David McLeod Blvd, Florence, SC 29501",29501,34.1885199,-79.8290095
+https://locations.tacobell.com/sc/pickens/2619-gentry-memorial-highway.html,sc,pickens,2619-gentry-memorial-highway,032476,"2619 Gentry Memorial Highway, Pickens, SC 29671",29671,34.8697254,-82.6910275
+https://locations.tacobell.com/tn/alcoa/2612-alcoa-hwy.html,tn,alcoa,2612-alcoa-hwy,015360,"2612 Alcoa Hwy, Alcoa, TN 37701",37701,35.870726,-83.9593041
+https://locations.tacobell.com/tn/morristown/2519-e-morris-blvd.html,tn,morristown,2519-e-morris-blvd,029290,"2519 E Morris Blvd, Morristown, TN 37813",37813,36.222415,-83.2628065
+https://locations.tacobell.com/tn/jacksboro/2508-jacksboro-pike.html,tn,jacksboro,2508-jacksboro-pike,029029,"2508 Jacksboro Pike, Jacksboro, TN 37757",37757,36.340998,-84.1691976
+https://locations.tacobell.com/sd/yankton/2504-fox-run-parkway.html,sd,yankton,2504-fox-run-parkway,F275008,"2504 Fox Run Parkway, Yankton, SD 57078",57078,42.8994074,-97.398533
+https://locations.tacobell.com/sc/sumter/25-north-lafayette-drive.html,sc,sumter,25-north-lafayette-drive,031789,"25 North Lafayette Drive, Sumter, SC 29150",29150,33.920594,-80.3357974
+https://locations.tacobell.com/tn/humboldt/2479-n-central-avenue.html,tn,humboldt,2479-n-central-avenue,034684,"2479 N Central Avenue, Humboldt, TN 38343",38343,35.8335561,-88.9156181
+https://locations.tacobell.com/sc/georgetown/245-church-street.html,sc,georgetown,245-church-street,024224,"245 Church Street, Georgetown, SC 29440",29440,33.3668994,-79.2722033
+https://locations.tacobell.com/tn/maryville/2341-market-place-dr.html,tn,maryville,2341-market-place-dr,030359,"2341 Market Place Dr Portion of Lot E, Maryville, TN 37801",37801,35.7172544,-84.0125158
+https://locations.tacobell.com/tn/jackson/2330-north-highland.html,tn,jackson,2330-north-highland,034690,"2330 North Highland, Jackson, TN 38305",38305,35.6672539,-88.8293149
+https://locations.tacobell.com/sd/rapid-city/2323-w-main-st.html,sd,rapid-city,2323-w-main-st,027880,"2323 W Main St, Rapid City, SD 57702",57702,44.0815453,-103.2579971
+https://locations.tacobell.com/sc/conway/2300-church-st-.html,sc,conway,2300-church-st-,027628,"2300 Church St., Conway, SC 29526",29526,33.854272,-79.0782088
+https://locations.tacobell.com/tn/morristown/2235-w-andrew-johnson-hwy.html,tn,morristown,2235-w-andrew-johnson-hwy,029020,"2235 W Andrew Johnson Hwy, Morristown, TN 37814",37814,36.2053782,-83.3235863
+https://locations.tacobell.com/sc/charleston/220-spring-street.html,sc,charleston,220-spring-street,002649,"220 Spring Street, Charleston, SC 29403",29403,32.7874783,-79.9532611
+https://locations.tacobell.com/tn/memphis/2183-frayser-blvd-.html,tn,memphis,2183-frayser-blvd-,035143,"2183 Frayser Blvd., Memphis, TN 38127",38127,35.2168999,-89.9907237
+https://locations.tacobell.com/tn/johnson-city/2100-west-market-street.html,tn,johnson-city,2100-west-market-street,029016,"2100 West Market Street, Johnson City, TN 37604",37604,36.3120347,-82.3876473
+https://locations.tacobell.com/sc/beaufort/209-robert-smalls-pkwy.html,sc,beaufort,209-robert-smalls-pkwy,031583,"209 Robert Smalls Pkwy, Beaufort, SC 29902",29902,32.4295545,-80.7189544
+https://locations.tacobell.com/tn/knoxville/2085-n--broadway-st-.html,tn,knoxville,2085-n--broadway-st-,029069,"2085 N. Broadway St., Knoxville, TN 37917",37917,35.9920798,-83.9209518
+https://locations.tacobell.com/tn/pigeon-forge/206-wears-valley-road.html,tn,pigeon-forge,206-wears-valley-road,026432,"206 Wears Valley Road, Pigeon Forge, TN 37863",37863,35.8036817,-83.5804885
+https://locations.tacobell.com/sc/charleston/2040-savannah-hwy.html,sc,charleston,2040-savannah-hwy,005096,"2040 Savannah Hwy, Charleston, SC 29407",29407,32.7901833,-80.0300131
+https://locations.tacobell.com/sc/greenville/2031-wade-hampton-blvd.html,sc,greenville,2031-wade-hampton-blvd,027333,"2031 Wade Hampton Blvd, Greenville, SC 29615",29615,34.8841481,-82.3555934
+https://locations.tacobell.com/sd/mitchell/2000-s-burr-st.html,sd,mitchell,2000-s-burr-st,031429,"2000 S Burr St, Mitchell, SD 57301",57301,43.6900031,-98.0087517
+https://locations.tacobell.com/tn/johnson-city/2000-n-roan-st.html,tn,johnson-city,2000-n-roan-st,029019,"2000 N Roan St, Johnson City, TN 37601",37601,36.3389367,-82.3737073
+https://locations.tacobell.com/sc/greenville/2-mills-avenue.html,sc,greenville,2-mills-avenue,027339,"2 Mills Avenue, Greenville, SC 29605",29605,34.8323207,-82.40462
+https://locations.tacobell.com/tn/oneida/19891-alberta-street.html,tn,oneida,19891-alberta-street,029738,"19891 Alberta Street, Oneida, TN 37841",19891,36.5339315,-84.4865877
+https://locations.tacobell.com/tn/memphis/1983-whitten-road.html,tn,memphis,1983-whitten-road,035160,"1983 Whitten Road, Memphis, TN 38133",38133,35.1795263,-89.8367735
+https://locations.tacobell.com/tn/crossville/197-peavine-rd-.html,tn,crossville,197-peavine-rd-,023217,"197 Peavine Rd., Crossville, TN 38555",38555,35.9599508,-84.9851391
+https://locations.tacobell.com/sc/columbia/1928-broad-river-road.html,sc,columbia,1928-broad-river-road,031786,"1928 Broad River Road, Columbia, SC 29210",29210,34.0372867,-81.090291
+https://locations.tacobell.com/tn/jackson/1921-hwy-45-bypass.html,tn,jackson,1921-hwy-45-bypass,034691,"1921 Hwy 45 Bypass, Jackson, TN 38305",38305,35.6596676,-88.85422969999999
+https://locations.tacobell.com/tn/knoxville/1900-w-cumberland.html,tn,knoxville,1900-w-cumberland,029014,"1900 W Cumberland, Knoxville, TN 37916",37916,35.9548456,-83.9360366
+https://locations.tacobell.com/sc/spartanburg/1884-e--main-st-.html,sc,spartanburg,1884-e--main-st-,031438,"1884 E. Main St., Spartanburg, SC 29307",29307,34.968197,-81.8921224
+https://locations.tacobell.com/sc/lexington/1804-s-lake-drive.html,sc,lexington,1804-s-lake-drive,032166,"1804 S Lake Drive, Lexington, SC 29073",29073,33.912144,-81.2263609
+https://locations.tacobell.com/sc/spartanburg/1783-asheville-hwy.html,sc,spartanburg,1783-asheville-hwy,027335,"1783 Asheville Hwy, Spartanburg, SC 29303",29303,34.9821546,-81.9688781
+https://locations.tacobell.com/sc/greenville/1770-woodruff-road.html,sc,greenville,1770-woodruff-road,027348,"1770 Woodruff Road, Greenville, SC 29607",29607,34.8192016,-82.270538
+https://locations.tacobell.com/sc/leesville/175-east-church-street.html,sc,leesville,175-east-church-street,032576,"175 East Church Street, Leesville, SC 29070",29070,33.9155197,-81.5257943
+https://locations.tacobell.com/tn/memphis/1740-sycamore-view-road.html,tn,memphis,1740-sycamore-view-road,035147,"1740 Sycamore View Road, Memphis, TN 38134",38134,35.1728031,-89.8689859
+https://locations.tacobell.com/sd/spearfish/1705-north-avenue.html,sd,spearfish,1705-north-avenue,027883,"1705 North Avenue, Spearfish, SD 57783",57783,44.5003593,-103.8602853
+https://locations.tacobell.com/tn/memphis/1662-poplar-avenue.html,tn,memphis,1662-poplar-avenue,035142,"1662 Poplar Avenue, Memphis, TN 38104",38104,35.1432916,-90.004925
+https://locations.tacobell.com/tn/kingsport/1660-e-stone-dr.html,tn,kingsport,1660-e-stone-dr,029018,"1660 E Stone Dr, Kingsport, TN 37660",37660,36.54785,-82.5190687
+https://locations.tacobell.com/tn/jackson/1619-s-highland-ave.html,tn,jackson,1619-s-highland-ave,034696,"1619 S Highland Ave, Jackson, TN 38301",38301,35.5677474,-88.8154335
+https://locations.tacobell.com/sc/florence/1612-s-irby-street.html,sc,florence,1612-s-irby-street,027630,"1612 S Irby Street, Florence, SC 29505",29505,34.1626389,-79.7657115
+https://locations.tacobell.com/sd/sioux-falls/1611-west-41st-street.html,sd,sioux-falls,1611-west-41st-street,031426,"1611 West 41st Street, Sioux Falls, SD 57105",57105,43.5145244,-96.7455545
+https://locations.tacobell.com/sc/seneca/1610-sandifer-blvd.html,sc,seneca,1610-sandifer-blvd,027343,"1610 Sandifer Blvd, Seneca, SC 29678",29678,34.690514,-82.994019
+https://locations.tacobell.com/sc/gaffney/1608-w-floyd-baker-blvd.html,sc,gaffney,1608-w-floyd-baker-blvd,027350,"1608 W Floyd Baker Blvd, Gaffney, SC 29341",29341,35.0945557,-81.6655885
+https://locations.tacobell.com/sc/greenwood/1604-hwy-72-bypass.html,sc,greenwood,1604-hwy-72-bypass,027346,"1604 Hwy 72 Bypass, Greenwood, SC 29649",29649,34.2140623,-82.1523759
+https://locations.tacobell.com/tn/harriman/1603-s-roane-st.html,tn,harriman,1603-s-roane-st,003742,"1603 S Roane St, Harriman, TN 37748",37748,35.9128853,-84.5813694
+https://locations.tacobell.com/sc/aiken/1565-richland-ave.html,sc,aiken,1565-richland-ave,023695,"1565 Richland Ave, Aiken, SC 29801",29801,33.5650015,-81.7408267
+https://locations.tacobell.com/sc/duncan/1532-e-main-st.html,sc,duncan,1532-e-main-st,027316,"1532 E Main St, Duncan, SC 29334",29334,34.913095,-82.1066119
+https://locations.tacobell.com/tn/crossville/1501-north-main-st-.html,tn,crossville,1501-north-main-st-,024403,"1501 North Main St., Crossville, TN 38555",38555,35.9675519,-85.0381763
+https://locations.tacobell.com/tn/kodak/145-stadium-drive.html,tn,kodak,145-stadium-drive,031757,"145 Stadium Drive, Kodak, TN 37764",37764,35.9872146,-83.6058496
+https://locations.tacobell.com/tn/memphis/1447-union-ave.html,tn,memphis,1447-union-ave,032311,"1447 Union Ave, Memphis, TN 38104",38104,35.136421,-90.013301
+https://locations.tacobell.com/tn/jefferson-city/144-east-broadway-blvd.html,tn,jefferson-city,144-east-broadway-blvd,015968,"144 East Broadway Blvd, Jefferson City, TN 37760",37760,36.1163383,-83.4894099
+https://locations.tacobell.com/tn/tazewell/1424-n--broad-st-.html,tn,tazewell,1424-n--broad-st-,022742,"1424 N. Broad St., Tazewell, TN 37879",37879,36.4482975,-83.5764425
+https://locations.tacobell.com/tn/sevierville/1407-winfield-dunn-pkwy.html,tn,sevierville,1407-winfield-dunn-pkwy,029052,"1407 Winfield Dunn Pkwy, Sevierville, TN 37876",37876,35.9055914,-83.5806025
+https://locations.tacobell.com/tn/bulls-gap/14050-w-andrew-johnson-hwy.html,tn,bulls-gap,14050-w-andrew-johnson-hwy,029062,"14050 W Andrew Johnson Hwy, Bulls Gap, TN 37711",14050,36.2252842,-83.0461718
+https://locations.tacobell.com/tn/union-city/1400-rutledge-lane.html,tn,union-city,1400-rutledge-lane,027038,"1400 Rutledge Lane, Union City, TN 38261",38261,36.4118921,-89.0776786
+https://locations.tacobell.com/sc/myrtle-beach/1307-kings-hwy-north.html,sc,myrtle-beach,1307-kings-hwy-north,024222,"1307 Kings Hwy North, Myrtle Beach, SC 29577",29577,33.6974764,-78.8784222
+https://locations.tacobell.com/sc/greer/1301j-w-wade-hampton-blvd.html,sc,greer,1301j-w-wade-hampton-blvd,031435,"1301J W Wade Hampton Blvd, Greer, SC 29651",29651,34.9483984,-82.2287495
+https://locations.tacobell.com/tn/memphis/1279-ridgeway-rd-.html,tn,memphis,1279-ridgeway-rd-,034698,"1279 Ridgeway Rd., Memphis, TN 38119",38119,35.0966033,-89.8591576
+https://locations.tacobell.com/tn/loudon/12395-highway-72-north.html,tn,loudon,12395-highway-72-north,D231002,"12395 Highway 72 North, Loudon, TN 37774",12395,35.7305544,-84.3892338
+https://locations.tacobell.com/tn/kingsport/1221-north-eastman-road.html,tn,kingsport,1221-north-eastman-road,029039,"1221 North Eastman Road, Kingsport, TN 37664",37664,36.5315336,-82.529664
+https://locations.tacobell.com/sc/irmo/1192-lake-murray-blvd.html,sc,irmo,1192-lake-murray-blvd,031788,"1192 Lake Murray Blvd, Irmo, SC 29063",29063,34.0871452,-81.1816428
+https://locations.tacobell.com/tn/jackson/117-parkstone-place.html,tn,jackson,117-parkstone-place,034694,"117 Parkstone Place, Jackson, TN 38305",38305,35.675307,-88.7803382
+https://locations.tacobell.com/tn/rocky-top/117-colonial-lane.html,tn,rocky-top,117-colonial-lane,J718137,"117 Colonial Lane, Rocky Top, TN 37769",37769,36.2320743,-84.160812
+https://locations.tacobell.com/tn/knoxville/11217-kingston-pike.html,tn,knoxville,11217-kingston-pike,029017,"11217 Kingston Pike, Knoxville, TN 37922",11217,35.8838601,-84.1557856
+https://locations.tacobell.com/tn/atoka/11200-highway-51-south.html,tn,atoka,11200-highway-51-south,L518170,"11200 Highway 51 South, Atoka, TN 38004",11200,35.3952366,-89.8512301
+https://locations.tacobell.com/sc/moncks-corner/112-s-highway-52.html,sc,moncks-corner,112-s-highway-52,004238,"112 S Highway 52, Moncks Corner, SC 29461",29461,33.1843161,-80.0017046
+https://locations.tacobell.com/tn/clinton/1114-n-charles-g-seivers-blvd.html,tn,clinton,1114-n-charles-g-seivers-blvd,029033,"1114 N Charles G Seivers Blvd, Clinton, TN 37716",37716,36.118409,-84.1180875
+https://locations.tacobell.com/sc/sumter/1112-broad-st.html,sc,sumter,1112-broad-st,031781,"1112 Broad St, Sumter, SC 29150",29150,33.9528815,-80.3779714
+https://locations.tacobell.com/tn/bristol/1111-volunteer-parkway.html,tn,bristol,1111-volunteer-parkway,029025,"1111 Volunteer Parkway, Bristol, TN 37620",37620,36.5720043,-82.1931729
+https://locations.tacobell.com/tn/pleasant-view/111-ren-mar-drive.html,tn,pleasant-view,111-ren-mar-drive,J089005,"111 Ren Mar Drive, Pleasant View, TN 37146",37146,36.3971836,-87.030022
+https://locations.tacobell.com/sc/inman/11083-asheville-hwy.html,sc,inman,11083-asheville-hwy,027314,"11083 Asheville Hwy, Inman, SC 29349",11083,35.0373305,-82.0750255
+https://locations.tacobell.com/tn/savannah/155-wayne-road.html,tn,savannah,155-wayne-road,034685,"155 Wayne Road, Savannah, TN 38372",38372,35.2250925,-88.2437809
+https://locations.tacobell.com/sc/bluffton/11-gateway-village-road.html,sc,bluffton,11-gateway-village-road,039922,"11 Gateway Village Road, Bluffton, SC 29910",29910,32.255507,-80.84757719999999
+https://locations.tacobell.com/sc/mount-pleasant/1096-isle-of-palms-connector.html,sc,mount-pleasant,1096-isle-of-palms-connector,020425,"1096 Isle of Palms Connector, Mount Pleasant, SC 29464",29464,32.8325052,-79.8256248
+https://locations.tacobell.com/sc/myrtle-beach/108-loyola-drive.html,sc,myrtle-beach,108-loyola-drive,024769,"108 Loyola Drive, Myrtle Beach, SC 29588",29588,33.6410464,-78.9892847
+https://locations.tacobell.com/sc/clemson/1057-tiger-blvd.html,sc,clemson,1057-tiger-blvd,027340,"1057 Tiger Blvd, Clemson, SC 29631",29631,34.6919506,-82.8385617
+https://locations.tacobell.com/sc/myrtle-beach/1050-glenforest-rd.html,sc,myrtle-beach,1050-glenforest-rd,031569,"1050 Glenforest Rd, Myrtle Beach, SC 29579",29579,33.7536001,-78.9626502
+https://locations.tacobell.com/sc/abbeville/105-west-greenwood-st.html,sc,abbeville,105-west-greenwood-st,L765004,"105 West Greenwood St, Abbeville, SC 29620",29620,34.1733992,-82.3743349
+https://locations.tacobell.com/sc/clinton/105-w--carolina-avenue.html,sc,clinton,105-w--carolina-avenue,L765003,"105 W. Carolina Avenue, Clinton, SC 29325",29325,34.4722359,-81.8824034
+https://locations.tacobell.com/tn/smithville/105-e--broad-street.html,tn,smithville,105-e--broad-street,D257001,"105 E. Broad Street, Smithville, TN 37166",37166,35.9571858,-85.8132743
+https://locations.tacobell.com/sc/goose-creek/104-south-goose-creek-blvd.html,sc,goose-creek,104-south-goose-creek-blvd,002580,"104 South Goose Creek Blvd, Goose Creek, SC 29445",29445,32.9974753,-80.0387043
+https://locations.tacobell.com/sc/charleston/1024-st-andrews-blvd.html,sc,charleston,1024-st-andrews-blvd,022166,"1024 St Andrews Blvd, Charleston, SC 29407",29407,32.7945302,-79.9913216
+https://locations.tacobell.com/sd/rapid-city/1024-endeavour-blvd-.html,sd,rapid-city,1024-endeavour-blvd-,031112,"1024 Endeavour Blvd., Rapid City, SD 57703",57703,44.09523300000001,-103.1476163
+https://locations.tacobell.com/sc/pelzer/101-depot-road.html,sc,pelzer,101-depot-road,L765008,"101 Depot Road, Pelzer, SC 29669",29669,34.6427044,-82.4664853
+https://locations.tacobell.com/sc/lexington/1002-west-main-st.html,sc,lexington,1002-west-main-st,031790,"1002 West Main St, Lexington, SC 29072",29072,33.9843424,-81.2535227
+https://locations.tacobell.com/sc/shaw-afb/370-rhodes-ave.html,sc,shaw-afb,370-rhodes-ave,027714,"370 Rhodes Ave, Shaw Afb, SC 29152",29152,33.9772282,-80.4868485
+https://locations.tacobell.com/sc/lexington/1064-south-lake-drive.html,sc,lexington,1064-south-lake-drive,040434,"1064 South Lake Drive, Lexington, SC 29073",29073,33.9539256,-81.2335311
+https://locations.tacobell.com/tn/baxter/125-fast-lane.html,tn,baxter,125-fast-lane,037495,"125 Fast Lane, Baxter, TN 38544",38544,36.140018,-85.631626
+https://locations.tacobell.com/sc/columbia/145-harbison-rd-.html,sc,columbia,145-harbison-rd-,040784,"145 Harbison Rd., Columbia, SC 29212",29212,34.0686648,-81.1653827
+https://locations.tacobell.com/tn/brownsville/1476-e-main-street.html,tn,brownsville,1476-e-main-street,040481,"1476 E Main Street, Brownsville, TN 38012",38012,35.5931488,-89.2413565
+https://locations.tacobell.com/sc/blythewood/209-blythewood-rd.html,sc,blythewood,209-blythewood-rd,040380,"209 Blythewood Rd, Blythewood, SC 29016",29016,34.2141083,-80.9798035
+https://locations.tacobell.com/tn/blountville/1913-tn-394.html,tn,blountville,1913-tn-394,040444,"1913 TN-394, Blountville, TN 37617",37617,36.5251223,-82.316726
+https://locations.tacobell.com/sc/elgin/583-spears-creek-church-rd.html,sc,elgin,583-spears-creek-church-rd,040447,"583 Spears Creek Church Rd, Elgin, SC 29045",29045,34.1080429,-80.8320914
+https://locations.tacobell.com/sc/blacksburg/2768-e--cherokee-street.html,sc,blacksburg,2768-e--cherokee-street,040455,"2768 E. Cherokee Street, Blacksburg, SC 29702",29702,35.166121,-81.4514555
+https://locations.tacobell.com/tn/oak-ridge/353-south-illinois-avenue.html,tn,oak-ridge,353-south-illinois-avenue,029040,"353 South Illinois Avenue, Oak Ridge, TN 37830",37830,36.0072276,-84.2562799
+https://locations.tacobell.com/tn/johnson-city/1276-gilbreath-drive.html,tn,johnson-city,1276-gilbreath-drive,040624,"1276 Gilbreath Drive, Johnson City, TN 37614",37614,36.304547,-82.3721741
+https://locations.tacobell.com/sc/winnsboro/10959-state-highway-200.html,sc,winnsboro,10959-state-highway-200,040458,"10959 State Highway 200, Winnsboro, SC 29180",10959,34.3917793,-81.0953148
+https://locations.tacobell.com/sc/manning/2004-paxville-highway.html,sc,manning,2004-paxville-highway,032178,"2004 Paxville Highway, Manning, SC 29102",29102,33.6980854,-80.2269555
+https://locations.tacobell.com/tn/greeneville/109-asheville-hwy.html,tn,greeneville,109-asheville-hwy,032888,"109 Asheville Hwy, Greeneville, TN 37743",37743,36.153606,-82.848642
+https://locations.tacobell.com/sc/irmo/1172-dutch-fork-rd.html,sc,irmo,1172-dutch-fork-rd,032977,"1172 Dutch Fork Rd, Irmo, SC 29063",29063,34.126295,-81.2241822
+https://locations.tacobell.com/tn/franklin/1710-columbia-ave.html,tn,franklin,1710-columbia-ave,032898,"1710 Columbia Ave, Franklin, TN 37064",37064,35.9046219,-86.8760189
+https://locations.tacobell.com/tn/clarksville/1720-tiny-town-road.html,tn,clarksville,1720-tiny-town-road,034441,"1720 Tiny Town Road, Clarksville, TN 37042",37042,36.6243626,-87.3190597
+https://locations.tacobell.com/sc/laurens/904-east-main.html,sc,laurens,904-east-main,033032,"904 East Main, Laurens, SC 29360",29360,34.4929154,-81.9838156
+https://locations.tacobell.com/tn/knoxville/3003-maynardville-hwy.html,tn,knoxville,3003-maynardville-hwy,033470,"3003 Maynardville Hwy, Knoxville, TN 37918",37918,36.2333765,-83.8340333
+https://locations.tacobell.com/sc/west-columbia/2353-augusta-road.html,sc,west-columbia,2353-augusta-road,032976,"2353 Augusta Road, West Columbia, SC 29169",29169,33.9828587,-81.0972834
+https://locations.tacobell.com/tn/hixson/8522-hixson-pike.html,tn,hixson,8522-hixson-pike,033643,"8522 Hixson Pike, Hixson, TN 37343",37343,35.1994359,-85.1602843
+https://locations.tacobell.com/tn/athens/2535-decatur-pike.html,tn,athens,2535-decatur-pike,033994,"2535 Decatur Pike, Athens, TN 37303",37303,35.4615412,-84.6421258
+https://locations.tacobell.com/sc/summerville/10115-dorchester-road.html,sc,summerville,10115-dorchester-road,034023,"10115 Dorchester Road, Summerville, SC 29485",10115,32.9527406,-80.1667143
+https://locations.tacobell.com/tn/blaine/128-eastland-park-dr-.html,tn,blaine,128-eastland-park-dr-,040900,"128 Eastland Park Dr., Blaine, TN 37709",37709,36.1360827,-83.7150596
+https://locations.tacobell.com/tn/old-hickory/1510-robinson-rd.html,tn,old-hickory,1510-robinson-rd,037830,"1510 Robinson Rd, Old Hickory, TN 37138",37138,36.2550281,-86.6528908
+https://locations.tacobell.com/tn/sparta/230-mose-drive.html,tn,sparta,230-mose-drive,037214,"230 Mose Drive, Sparta, TN 38583",38583,35.9498582,-85.4851909
+https://locations.tacobell.com/tn/chattanooga/3210-cummings-highway.html,tn,chattanooga,3210-cummings-highway,034026,"3210 Cummings Highway, Chattanooga, TN 37419",37419,35.0190061,-85.3705136
+https://locations.tacobell.com/sc/kingstree/316-n-longstreet-st.html,sc,kingstree,316-n-longstreet-st,038839,"316 N Longstreet St, Kingstree, SC 29556",29556,33.676843,-79.8316955
+https://locations.tacobell.com/tn/murfreesboro/1414-n--rutherford-blvd.html,tn,murfreesboro,1414-n--rutherford-blvd,034353,"1414 N. Rutherford Blvd, Murfreesboro, TN 37130",37130,35.8611515,-86.3527665

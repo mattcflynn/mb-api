@@ -1,0 +1,423 @@
+url,state,city,address_slug,store_id,full_address,zip_code,latitude,longitude
+https://locations.tacobell.com/oh/georgetown/4859-oh-125.html,oh,georgetown,4859-oh-125,040631,"4859 OH-125, Georgetown, OH 45121",45121,38.8620415,-83.8868217
+https://locations.tacobell.com/oh/elyria/1551-w--river-rd-n.html,oh,elyria,1551-w--river-rd-n,040500,"1551 W. River Rd N, Elyria, OH 44035",44035,41.3955083,-82.1067798
+https://locations.tacobell.com/oh/mayfield-heights/5855-mayfield-road.html,oh,mayfield-heights,5855-mayfield-road,034909,"5855 Mayfield Road, Mayfield Heights, OH 44124",44124,41.520124,-81.4686626
+https://locations.tacobell.com/oh/south-bloomfield/5040-corinne-drive.html,oh,south-bloomfield,5040-corinne-drive,041086,"5040 Corinne Drive, South Bloomfield, OH 43103",43103,39.7216755,-82.9881016
+https://locations.tacobell.com/oh/canton/3823-navarre-road.html,oh,canton,3823-navarre-road,040759,"3823 Navarre Road, Canton, OH 44706",44706,40.787199,-81.3901993
+https://locations.tacobell.com/oh/waterville/6521-hutchinson-drive.html,oh,waterville,6521-hutchinson-drive,041108,"6521 Hutchinson Drive, Waterville, OH 43566",43566,41.5217503,-83.7167433
+https://locations.tacobell.com/oh/blanchester/211-w-main-st.html,oh,blanchester,211-w-main-st,040301,"211 W Main St, Blanchester, OH 45107",45107,39.29236,-83.989867
+https://locations.tacobell.com/oh/germantown/2321-beechwood-drive.html,oh,germantown,2321-beechwood-drive,040614,"2321 Beechwood Drive, Germantown, OH 45327",45327,39.637358,-84.3507167
+https://locations.tacobell.com/oh/lorain/1390-colorado-avenue.html,oh,lorain,1390-colorado-avenue,040933,"1390 Colorado Avenue, Lorain, OH 44052",44052,41.4654422,-82.1572251
+https://locations.tacobell.com/oh/greenfield/1298-jefferson-st-.html,oh,greenfield,1298-jefferson-st-,040709,"1298 Jefferson St., Greenfield, OH 45123",45123,39.3475848,-83.400643
+https://locations.tacobell.com/oh/paulding/863-n-williams-st.html,oh,paulding,863-n-williams-st,041125,"863 N Williams St, Paulding, OH 45879",45879,41.148016,-84.5807217
+https://locations.tacobell.com/oh/cincinnati/1810-e-seymour-ave.html,oh,cincinnati,1810-e-seymour-ave,041377,"1810 E Seymour Ave, Cincinnati, OH 45237",45237,39.1909488,-84.4714939
+https://locations.tacobell.com/oh/cincinnati/9188-reading-rd.html,oh,cincinnati,9188-reading-rd,034765,"9188 Reading Rd, Cincinnati, OH 45215",45215,39.2029263,-84.4553452
+https://locations.tacobell.com/oh/grafton/432-north-main-street.html,oh,grafton,432-north-main-street,041372,"432 North Main Street, Grafton, OH 44044",44044,41.3793733,-83.6501688
+https://locations.tacobell.com/oh/new-albany/8511-smiths-mill-rd-.html,oh,new-albany,8511-smiths-mill-rd-,041403,"8511 Smiths Mill Rd., New Albany, OH 43054",43054,40.0850791,-82.7546446
+https://locations.tacobell.com/oh/sunbury/117-state-route-3.html,oh,sunbury,117-state-route-3,038891,"117 State Route 3, Sunbury, OH 43074",43074,40.2451449,-82.8665642
+https://locations.tacobell.com/oh/mentor/9500-diamond-centre-dr.html,oh,mentor,9500-diamond-centre-dr,035453,"9500 Diamond Centre Dr, Mentor, OH 44060",44060,41.7144231,-81.2994313
+https://locations.tacobell.com/oh/lucasville/10817-us-23.html,oh,lucasville,10817-us-23,041693,"10817 US 23, Lucasville, OH 45648",10817,38.8831913,-82.9965973
+https://locations.tacobell.com/oh/newark/105-dayton-rd-ne.html,oh,newark,105-dayton-rd-ne,041437,"105 Dayton Rd NE, Newark, OH 43055",43055,40.0839967,-82.3541309
+https://locations.tacobell.com/oh/zanesville/3943-gorsky-drive.html,oh,zanesville,3943-gorsky-drive,042039,"3943 Gorsky Drive, Zanesville, OH 43701",43701,39.9948337,-82.0345211
+https://locations.tacobell.com/oh/medina/5827-wooster-pike.html,oh,medina,5827-wooster-pike,040990,"5827 Wooster Pike, Medina, OH 44256",44256,41.1148341,-81.8639803
+https://locations.tacobell.com/oh/columbus/1525-n-high-st.html,oh,columbus,1525-n-high-st,032469,"1525 N High St, Columbus, OH 43201",43201,39.9933212,-83.006839
+https://locations.tacobell.com/oh/new-carlisle/408-n-main-st.html,oh,new-carlisle,408-n-main-st,042037,"408 N Main St, New Carlisle, OH 45344",45344,39.9415177,-84.0244886
+https://locations.tacobell.com/oh/clayton/7151-hoke-road.html,oh,clayton,7151-hoke-road,042064,"7151 Hoke Road, Clayton, OH 45315",45315,39.8492126,-84.3305041
+https://locations.tacobell.com/oh/aurora/7125-aurora-road.html,oh,aurora,7125-aurora-road,041751,"7125 Aurora Road, Aurora, OH 44202",44202,41.3542259,-81.3869571
+https://locations.tacobell.com/oh/conneaut/183-gateway-ave.html,oh,conneaut,183-gateway-ave,042062,"183 Gateway Ave, Conneaut, OH 44030",44030,41.9232478,-80.5695196
+https://locations.tacobell.com/oh/painesville/7515-crile-road.html,oh,painesville,7515-crile-road,041987,"7515 Crile Road, Painesville, OH 44077",44077,41.666018,-81.2430547
+https://locations.tacobell.com/oh/warren/8100-east-market-st.html,oh,warren,8100-east-market-st,042015,"8100 East Market St, Warren, OH 44484",44484,41.2367662,-80.7731686
+https://locations.tacobell.com/oh/ravenna/2608-oh-59.html,oh,ravenna,2608-oh-59,040932,"2608 OH-59, Ravenna, OH 44266",44266,41.1576099,-81.2990821
+https://locations.tacobell.com/oh/tipp-city/1150-w-main-street.html,oh,tipp-city,1150-w-main-street,034913,"1150 W Main Street, Tipp City, OH 45371",45371,39.9604555,-84.1907448
+https://locations.tacobell.com/oh/bowling-green/1130-s-main-st.html,oh,bowling-green,1130-s-main-st,035064,"1130 S Main St, Bowling Green, OH 43402",43402,41.3551195,-83.6508725
+https://locations.tacobell.com/oh/mansfield/1423-lexington-ave.html,oh,mansfield,1423-lexington-ave,035253,"1423 Lexington Ave, Mansfield, OH 44907",44907,40.7197151,-82.5441312
+https://locations.tacobell.com/oh/bellefontaine/1500-s--main-street.html,oh,bellefontaine,1500-s--main-street,035196,"1500 S. Main Street, Bellefontaine, OH 43311",43311,40.339387,-83.762121
+https://locations.tacobell.com/oh/rocky-river/21805-center-ridge-road.html,oh,rocky-river,21805-center-ridge-road,035832,"21805 Center Ridge Road, Rocky River, OH 44116",21805,41.4589247,-81.8612361
+https://locations.tacobell.com/oh/newcomerstown/5275-east-state-road.html,oh,newcomerstown,5275-east-state-road,035136,"5275 East State Road, Newcomerstown, OH 43832",43832,40.2822528,-81.5692725
+https://locations.tacobell.com/oh/cambridge/2343-e-wheeling-avenue.html,oh,cambridge,2343-e-wheeling-avenue,035839,"2343 E Wheeling Avenue, Cambridge, OH 43725",43725,40.0279485,-81.568191
+https://locations.tacobell.com/oh/maineville/6000-south-sr-48.html,oh,maineville,6000-south-sr-48,035298,"6000 South SR 48, Maineville, OH 45039",45039,39.3495175,-84.2185549
+https://locations.tacobell.com/oh/proctorville/111-state-street.html,oh,proctorville,111-state-street,036025,"111 State Street, Proctorville, OH 45669",45669,38.4384278,-82.3840122
+https://locations.tacobell.com/oh/brunswick/1794-pearl-rd-.html,oh,brunswick,1794-pearl-rd-,036302,"1794 Pearl Rd., Brunswick, OH 44212",44212,41.2256093,-81.841553
+https://locations.tacobell.com/oh/caldwell/17005-mcconnelsville-road.html,oh,caldwell,17005-mcconnelsville-road,036238,"17005 McConnelsville Road, Caldwell, OH 43724",17005,39.7375941,-81.5265733
+https://locations.tacobell.com/oh/wintersville/180-main-street.html,oh,wintersville,180-main-street,034611,"180 Main Street, Wintersville, OH 43953",43953,40.3722606,-80.6887032
+https://locations.tacobell.com/oh/carey/926-sheriden-dr-.html,oh,carey,926-sheriden-dr-,036237,"926 Sheriden Dr., Carey, OH 43316",43316,40.942981,-83.398195
+https://locations.tacobell.com/oh/harrison/10423-harrison-avenue.html,oh,harrison,10423-harrison-avenue,035121,"10423 Harrison Avenue, Harrison, OH 45030",10423,39.2483222,-84.7877005
+https://locations.tacobell.com/oh/mentor/8351-tyler-blvd-.html,oh,mentor,8351-tyler-blvd-,036303,"8351 Tyler Blvd., Mentor, OH 44060",44060,41.6832129,-81.3407191
+https://locations.tacobell.com/oh/canton/2304-tuscarawas-street-west.html,oh,canton,2304-tuscarawas-street-west,036010,"2304 Tuscarawas Street West, Canton, OH 44708",44708,40.7991858,-81.3996664
+https://locations.tacobell.com/oh/defiance/1555-n--clinton-st-.html,oh,defiance,1555-n--clinton-st-,036332,"1555 N. Clinton St., Defiance, OH 43512",43512,41.3012454,-84.3609876
+https://locations.tacobell.com/oh/kent/4098-maplecrest-parkway.html,oh,kent,4098-maplecrest-parkway,036406,"4098 Maplecrest Parkway, Kent, OH 44240",44240,41.100999,-81.3871641
+https://locations.tacobell.com/oh/north-randall/4660-northfield-rd.html,oh,north-randall,4660-northfield-rd,036405,"4660 Northfield Rd, North Randall, OH 44128",44128,41.4302089,-81.5258829
+https://locations.tacobell.com/oh/lisbon/7680-state-route-45.html,oh,lisbon,7680-state-route-45,036286,"7680 State Route 45, Lisbon, OH 44432",44432,40.7891757,-80.7762937
+https://locations.tacobell.com/oh/garrettsville/8046-state-street.html,oh,garrettsville,8046-state-street,036443,"8046 State Street, Garrettsville, OH 44231",44231,41.2859308,-81.1000016
+https://locations.tacobell.com/oh/toledo/5001-monroe-street.html,oh,toledo,5001-monroe-street,026785,"5001 Monroe Street, Toledo, OH 43623",43623,41.6930655,-83.6414956
+https://locations.tacobell.com/oh/findlay/11471-state-route-613.html,oh,findlay,11471-state-route-613,015779,"11471 State Route 613 Pilot Travel Center #360, Findlay, OH 45840",11471,41.1368352,-83.660462
+https://locations.tacobell.com/oh/north-baltimore/12906-deschler-road.html,oh,north-baltimore,12906-deschler-road,028840,"12906 Deschler Road, North Baltimore, OH 45872",12906,41.1734733,-83.6473117
+https://locations.tacobell.com/oh/perrysburg/3483-libbey-rd.html,oh,perrysburg,3483-libbey-rd,020313,"3483 Libbey Rd, Perrysburg, OH 43551",43551,41.5214766,-83.462193
+https://locations.tacobell.com/oh/ashland/715-u-s--highway-250-east.html,oh,ashland,715-u-s--highway-250-east,022832,"715 U.S. Highway 250 East, Ashland, OH 44805",44805,40.8571777,-82.2320125
+https://locations.tacobell.com/oh/milford/220-chamber-drive.html,oh,milford,220-chamber-drive,037003,"220 Chamber Drive, Milford, OH 45150",45150,39.1588434,-84.2762207
+https://locations.tacobell.com/oh/powell/10600-sawmill-parkway.html,oh,powell,10600-sawmill-parkway,036442,"10600 Sawmill Parkway, Powell, OH 43065",10600,40.1598413,-83.0912901
+https://locations.tacobell.com/oh/plain-city/7490-oh-161.html,oh,plain-city,7490-oh-161,036441,"7490 OH-161, Plain City, OH 43064",43064,40.1078604,-83.1920653
+https://locations.tacobell.com/oh/norton/4111-s--cleveland-massillon-road.html,oh,norton,4111-s--cleveland-massillon-road,042040,"4111 S. Cleveland Massillon Road, Norton, OH 44203",44203,41.0270406,-81.6381183
+https://locations.tacobell.com/oh/washington-court-house/1391-leesburg-avenu.html,oh,washington-court-house,1391-leesburg-avenu,042262,"1391 Leesburg Avenu, Washington Court House, OH 43160",43160,39.5242925,-83.4580074
+https://locations.tacobell.com/oh/columbus/480-ackerman-rd.html,oh,columbus,480-ackerman-rd,042170,"480 Ackerman rd, Columbus, OH 43202",43202,40.0185507,-83.0254113
+https://locations.tacobell.com/oh/north-royalton/9301-west-sprague-road.html,oh,north-royalton,9301-west-sprague-road,042063,"9301 West Sprague Road, North Royalton, OH 44133",44133,41.350652,-81.754128
+https://locations.tacobell.com/oh/canton/2233-faircrest-street-sw.html,oh,canton,2233-faircrest-street-sw,041692,"2233 Faircrest Street SW, Canton, OH 44706",44706,40.7509685,-81.4005836
+https://locations.tacobell.com/oh/ashland/738-b-u-s--highway-250-east.html,oh,ashland,738-b-u-s--highway-250-east,036399,"738 - B U.S. Highway 250 East, Ashland, OH 44805",44805,40.8578279,-82.2301818
+https://locations.tacobell.com/oh/grove-city/3340-broadway.html,oh,grove-city,3340-broadway,036707,"3340 Broadway, Grove City, OH 43123",43123,39.8956665,-83.081959
+https://locations.tacobell.com/oh/toledo/815-philips-avenue.html,oh,toledo,815-philips-avenue,037070,"815 Philips Avenue, Toledo, OH 43612",43612,41.6913191,-83.5627841
+https://locations.tacobell.com/oh/clyde/1096-w--mcpherson-highway.html,oh,clyde,1096-w--mcpherson-highway,037170,"1096 W. Mcpherson Highway, Clyde, OH 43410",43410,41.3153464,-82.9936097
+https://locations.tacobell.com/oh/new-lebanon/364-w-main-street.html,oh,new-lebanon,364-w-main-street,037363,"364 W Main Street, New Lebanon, OH 45345",45345,39.74479789999999,-84.392949
+https://locations.tacobell.com/oh/new-boston/4618-gallia-street.html,oh,new-boston,4618-gallia-street,037358,"4618 Gallia Street, New Boston, OH 45662",45662,38.745931,-82.9488977
+https://locations.tacobell.com/oh/canal-fulton/2217-s--locust-street.html,oh,canal-fulton,2217-s--locust-street,038778,"2217 S. Locust Street, Canal Fulton, OH 44614",44614,40.8820215,-81.5717621
+https://locations.tacobell.com/oh/uniontown/3532-massillon-road.html,oh,uniontown,3532-massillon-road,037366,"3532 Massillon Road, Uniontown, OH 44685",44685,40.9659594,-81.465721
+https://locations.tacobell.com/oh/lima/1707-north-west-street.html,oh,lima,1707-north-west-street,038990,"1707 North West Street, Lima, OH 45801",45801,40.7671819,-84.1091343
+https://locations.tacobell.com/oh/new-richmond/1052-old-us-52.html,oh,new-richmond,1052-old-us-52,038854,"1052 Old US 52, New Richmond, OH 45157",45157,38.9652854,-84.2849348
+https://locations.tacobell.com/oh/medina/1061-north-court-street.html,oh,medina,1061-north-court-street,036793,"1061 North Court Street, Medina, OH 44256",44256,41.1563453,-81.8631411
+https://locations.tacobell.com/oh/hamilton/3777-hamilton-cleves.html,oh,hamilton,3777-hamilton-cleves,039140,"3777 Hamilton Cleves, Hamilton, OH 45013",45013,39.3238499,-84.6377217
+https://locations.tacobell.com/oh/painesville/100-richmond-st-.html,oh,painesville,100-richmond-st-,035354,"100 Richmond St., Painesville, OH 44077",44077,41.7252778,-81.247765
+https://locations.tacobell.com/oh/sandusky/1000-fun-drive.html,oh,sandusky,1000-fun-drive,021478,"1000 Fun Drive, Sandusky, OH 44870",44870,41.4038662,-82.6604587
+https://locations.tacobell.com/oh/jackson/1021-e-main-street.html,oh,jackson,1021-e-main-street,021027,"1021 E Main Street, Jackson, OH 45640",45640,39.0365408,-82.6269653
+https://locations.tacobell.com/oh/uhrichsville/104-east-mccauley-drive.html,oh,uhrichsville,104-east-mccauley-drive,022262,"104 East McCauley Drive, Uhrichsville, OH 44683",44683,40.4103156,-81.3484794
+https://locations.tacobell.com/oh/ironton/1065-ironton-hill-drive.html,oh,ironton,1065-ironton-hill-drive,034573,"1065 Ironton Hill Drive, Ironton, OH 45638",45638,38.5412074,-82.6746506
+https://locations.tacobell.com/oh/parma/1075-west-pleasant-valley-rd.html,oh,parma,1075-west-pleasant-valley-rd,017264,"1075 West Pleasant Valley Rd, Parma, OH 44134",44134,41.361198,-81.6855389
+https://locations.tacobell.com/oh/cleveland/10800-lorain-ave.html,oh,cleveland,10800-lorain-ave,035355,"10800 Lorain Ave, Cleveland, OH 44111",10800,41.4646044,-81.7617443
+https://locations.tacobell.com/oh/alliance/110-w-state-street.html,oh,alliance,110-w-state-street,038908,"110 W State Street, Alliance, OH 44601",44601,40.9013703,-81.1072803
+https://locations.tacobell.com/oh/massillon/1108-lincoln-way-east.html,oh,massillon,1108-lincoln-way-east,021275,"1108 Lincoln Way East, Massillon, OH 44646",44646,40.8001951,-81.5114163
+https://locations.tacobell.com/oh/elyria/117-west-ave.html,oh,elyria,117-west-ave,027702,"117 West Ave, Elyria, OH 44035",44035,41.3668189,-82.1106976
+https://locations.tacobell.com/oh/mansfield/1194-park-ave-w.html,oh,mansfield,1194-park-ave-w,030674,"1194 Park Ave W, Mansfield, OH 44906",44906,40.7596888,-82.5593729
+https://locations.tacobell.com/oh/wellston/1223-s-pennsylvania-ave.html,oh,wellston,1223-s-pennsylvania-ave,038883,"1223 S Pennsylvania Ave, Wellston, OH 45692",45692,39.1123738,-82.535257
+https://locations.tacobell.com/oh/ashtabula/1226-w-prospect.html,oh,ashtabula,1226-w-prospect,001937,"1226 W Prospect, Ashtabula, OH 44004",44004,41.8621849,-80.7988329
+https://locations.tacobell.com/oh/akron/1299-canton-rd.html,oh,akron,1299-canton-rd,001758,"1299 Canton Rd, Akron, OH 44312",44312,41.0417623,-81.4355444
+https://locations.tacobell.com/oh/orrville/1305-north-main-street.html,oh,orrville,1305-north-main-street,030668,"1305 North Main Street, Orrville, OH 44667",44667,40.8540016,-81.7642999
+https://locations.tacobell.com/oh/westlake/1345-columbia-rd-.html,oh,westlake,1345-columbia-rd-,040532,"1345 Columbia Rd., Westlake, OH 44145",44145,41.467942,-81.9010466
+https://locations.tacobell.com/oh/bellevue/1365-e-main-st.html,oh,bellevue,1365-e-main-st,026580,"1365 E Main St, Bellevue, OH 44811",44811,41.2709736,-82.8202905
+https://locations.tacobell.com/oh/east-cleveland/13660-euclid-avenue.html,oh,east-cleveland,13660-euclid-avenue,040535,"13660 Euclid Avenue, East Cleveland, OH 44112",13660,41.5247976,-81.5872613
+https://locations.tacobell.com/oh/strongsville/14529-pearl-rd.html,oh,strongsville,14529-pearl-rd,040533,"14529 Pearl Rd, Strongsville, OH 44136",14529,41.3094688,-81.835125
+https://locations.tacobell.com/oh/akron/1467-s-arlington-rd.html,oh,akron,1467-s-arlington-rd,030665,"1467 S Arlington Rd, Akron, OH 44306",44306,41.0323142,-81.4908984
+https://locations.tacobell.com/oh/brook-park/14701-snow-rd-.html,oh,brook-park,14701-snow-rd-,040529,"14701 Snow Rd., Brook Park, OH 44142",14701,41.4040687,-81.7980719
+https://locations.tacobell.com/oh/cleveland/1531-w--117th-street.html,oh,cleveland,1531-w--117th-street,040534,"1531 W. 117th Street, Cleveland, OH 44107",44107,41.4799734,-81.76838
+https://locations.tacobell.com/oh/millersburg/1532-washington-street.html,oh,millersburg,1532-washington-street,029974,"1532 Washington Street, Millersburg, OH 44654",44654,40.535086,-81.9172912
+https://locations.tacobell.com/oh/lakewood/15500-detroit-avenue.html,oh,lakewood,15500-detroit-avenue,002086,"15500 Detroit Avenue, Lakewood, OH 44107",15500,41.4853224,-81.8052346
+https://locations.tacobell.com/oh/middlefield/15570-w-high-st.html,oh,middlefield,15570-w-high-st,035363,"15570 W High St, Middlefield, OH 44062",15570,41.4632012,-81.0862207
+https://locations.tacobell.com/oh/shelby/160-mansfield-ave.html,oh,shelby,160-mansfield-ave,029973,"160 Mansfield Ave, Shelby, OH 44875",44875,40.8700847,-82.6464168
+https://locations.tacobell.com/oh/north-canton/1600-n--main-st-.html,oh,north-canton,1600-n--main-st-,027996,"1600 N. Main St., North Canton, OH 44720",44720,40.895667,-81.4059711
+https://locations.tacobell.com/oh/vermilion/1718-state-route-60.html,oh,vermilion,1718-state-route-60,027042,"1718 State Route 60, Vermilion, OH 44089",44089,41.4032356,-82.3643446
+https://locations.tacobell.com/oh/middleburg-heights/17565-e-bagley-rd-.html,oh,middleburg-heights,17565-e-bagley-rd-,003791,"17565 E Bagley Rd., Middleburg Heights, OH 44130",17565,41.3724092,-81.8413872
+https://locations.tacobell.com/oh/wooster/1839-beall-avenue.html,oh,wooster,1839-beall-avenue,003858,"1839 Beall Avenue, Wooster, OH 44691",44691,40.8221767,-81.9337469
+https://locations.tacobell.com/oh/akron/1940-w--market-st.html,oh,akron,1940-w--market-st,030680,"1940 W. Market St, Akron, OH 44313",44313,41.113187,-81.577867
+https://locations.tacobell.com/oh/ontario/2085-walker-lake-road.html,oh,ontario,2085-walker-lake-road,024647,"2085 Walker Lake Road, Ontario, OH 44906",44906,40.7868118,-82.5892178
+https://locations.tacobell.com/oh/barberton/212-wooster-rd.html,oh,barberton,212-wooster-rd,001973,"212 Wooster Rd, Barberton, OH 44203",44203,41.0158912,-81.6057231
+https://locations.tacobell.com/oh/louisville/223-w-main-st.html,oh,louisville,223-w-main-st,027997,"223 W Main St, Louisville, OH 44641",44641,40.837971,-81.2608302
+https://locations.tacobell.com/oh/mansfield/2300-interstate-circle.html,oh,mansfield,2300-interstate-circle,030660,"2300 Interstate Circle, Mansfield, OH 44903",44903,40.6953828,-82.514096
+https://locations.tacobell.com/oh/alliance/2353-w-state-st-.html,oh,alliance,2353-w-state-st-,038912,"2353 W State St., Alliance, OH 44601",44601,40.9025199,-81.1486432
+https://locations.tacobell.com/oh/akron/2419-romig-road.html,oh,akron,2419-romig-road,028400,"2419 Romig Road, Akron, OH 44320",44320,41.048426,-81.5802359
+https://locations.tacobell.com/oh/north-olmsted/24247-lorain-rd-.html,oh,north-olmsted,24247-lorain-rd-,001590,"24247 Lorain Rd., North Olmsted, OH 44070",24247,41.4283395,-81.8909085
+https://locations.tacobell.com/oh/portsmouth/2535-gallia-street.html,oh,portsmouth,2535-gallia-street,034570,"2535 Gallia Street, Portsmouth, OH 45662",45662,38.7403099,-82.9655955
+https://locations.tacobell.com/oh/euclid/26002-euclid-ave.html,oh,euclid,26002-euclid-ave,002147,"26002 Euclid Ave, Euclid, OH 44132",26002,41.5881726,-81.5007852
+https://locations.tacobell.com/oh/cuyahoga-falls/2618-state-rd.html,oh,cuyahoga-falls,2618-state-rd,022444,"2618 State Rd, Cuyahoga Falls, OH 44223",44223,41.1444314,-81.5089483
+https://locations.tacobell.com/oh/canton/2625-maret-st-ne.html,oh,canton,2625-maret-st-ne,028231,"2625 Maret St NE, Canton, OH 44705",44705,40.8357645,-81.3361133
+https://locations.tacobell.com/oh/canton/2644-cleveland-avenue-sw.html,oh,canton,2644-cleveland-avenue-sw,015681,"2644 Cleveland Avenue SW, Canton, OH 44707",44707,40.7689242,-81.3840099
+https://locations.tacobell.com/oh/canton/3031-cleveland-avenue.html,oh,canton,3031-cleveland-avenue,004590,"3031 Cleveland Avenue, Canton, OH 44709",44709,40.8323765,-81.3881239
+https://locations.tacobell.com/oh/ravenna/308-e-main-st.html,oh,ravenna,308-e-main-st,004941,"308 E Main St, Ravenna, OH 44266",44266,41.1571813,-81.2391046
+https://locations.tacobell.com/oh/ashland/315-claremont-ave.html,oh,ashland,315-claremont-ave,001994,"315 Claremont Ave, Ashland, OH 44805",44805,40.8667524,-82.3184434
+https://locations.tacobell.com/oh/new-philadelphia/320-bluebell-drive-nw.html,oh,new-philadelphia,320-bluebell-drive-nw,017500,"320 Bluebell Drive NW, New Philadelphia, OH 44663",44663,40.4961755,-81.47287
+https://locations.tacobell.com/oh/akron/3217-s-arlington-rd.html,oh,akron,3217-s-arlington-rd,002686,"3217 S Arlington Rd, Akron, OH 44312",44312,40.9842978,-81.4923481
+https://locations.tacobell.com/oh/north-ridgeville/32350-lorain-road.html,oh,north-ridgeville,32350-lorain-road,030174,"32350 Lorain Road, North Ridgeville, OH 44039",32350,41.386361,-81.97629
+https://locations.tacobell.com/oh/south-point/325-county-road-406.html,oh,south-point,325-county-road-406,034565,"325 County Road 406, South Point, OH 45680",45680,38.4195893,-82.5062101
+https://locations.tacobell.com/oh/norwalk/365-milan-ave.html,oh,norwalk,365-milan-ave,023402,"365 Milan Ave, Norwalk, OH 44857",44857,41.2644284,-82.6109834
+https://locations.tacobell.com/oh/brunswick/3250-center-rd.html,oh,brunswick,3250-center-rd,004848,"3250 Center Rd, Brunswick, OH 44212",44212,41.2379035,-81.8028226
+https://locations.tacobell.com/oh/loudonville/327-w-main-st.html,oh,loudonville,327-w-main-st,030705,"327 W Main St, Loudonville, OH 44842",44842,40.6354855,-82.2383503
+https://locations.tacobell.com/oh/medina/3296-medina-rd.html,oh,medina,3296-medina-rd,029498,"3296 Medina Rd, Medina, OH 44256",44256,41.1361412,-81.8050773
+https://locations.tacobell.com/oh/cleveland/3314-steelyard-drive.html,oh,cleveland,3314-steelyard-drive,035362,"3314 Steelyard Drive, Cleveland, OH 44109",44109,41.4638619,-81.6889015
+https://locations.tacobell.com/oh/coventry-township/3333-manchester-road.html,oh,coventry-township,3333-manchester-road,030925,"3333 Manchester Road #22, Coventry Township, OH 44319",44319,41.0090134,-81.5546809
+https://locations.tacobell.com/oh/willoughby/35020-euclid-ave.html,oh,willoughby,35020-euclid-ave,002114,"35020 Euclid Ave, Willoughby, OH 44094",35020,41.6247994,-81.4387935
+https://locations.tacobell.com/oh/cuyahoga-falls/360-howe-ave.html,oh,cuyahoga-falls,360-howe-ave,003825,"360 Howe Ave, Cuyahoga Falls, OH 44221",44221,41.1188267,-81.4814188
+https://locations.tacobell.com/oh/massillon/3605-erie-street-s.html,oh,massillon,3605-erie-street-s,026663,"3605 Erie Street S, Massillon, OH 44646",44646,40.7565362,-81.5168916
+https://locations.tacobell.com/oh/lorain/3671-oberlin-ave.html,oh,lorain,3671-oberlin-ave,029743,"3671 Oberlin Ave, Lorain, OH 44053",44053,41.4373387,-82.1849969
+https://locations.tacobell.com/oh/cleveland/3776-w-150th-street.html,oh,cleveland,3776-w-150th-street,002279,"3776 W 150th Street, Cleveland, OH 44111",44111,41.4518694,-81.8017978
+https://locations.tacobell.com/oh/fairlawn/3847-w-market-st.html,oh,fairlawn,3847-w-market-st,002494,"3847 W Market St, Fairlawn, OH 44333",44333,41.1362765,-81.6378628
+https://locations.tacobell.com/oh/canton/4030-belden-village-st-nw.html,oh,canton,4030-belden-village-st-nw,026844,"4030 Belden Village St NW, Canton, OH 44718",44718,40.8546068,-81.4234475
+https://locations.tacobell.com/oh/cleveland/4110-lee-road.html,oh,cleveland,4110-lee-road,040530,"4110 Lee Road, Cleveland, OH 44128",44128,41.4476095,-81.5651523
+https://locations.tacobell.com/oh/akron/414-e-exchange-st.html,oh,akron,414-e-exchange-st,005053,"414 E Exchange St, Akron, OH 44304",44304,41.071143,-81.508761
+https://locations.tacobell.com/oh/stow/4152-kent-rd.html,oh,stow,4152-kent-rd,026426,"4152 Kent Rd, Stow, OH 44224",44224,41.1570691,-81.4115411
+https://locations.tacobell.com/oh/pomeroy/420-west-main-street.html,oh,pomeroy,420-west-main-street,042704,"420 West Main Street, Pomeroy, OH 45769",45769,39.0202254,-82.0424979
+https://locations.tacobell.com/oh/cleveland/4537-mayfield-road.html,oh,cleveland,4537-mayfield-road,005283,"4537 Mayfield Road, Cleveland, OH 44121",44121,41.5086971,-81.5930244
+https://locations.tacobell.com/oh/amherst/47370-cooper-foster-park-road.html,oh,amherst,47370-cooper-foster-park-road,031797,"47370 Cooper Foster Park Road, Amherst, OH 44001",47370,41.4122244,-82.2405856
+https://locations.tacobell.com/oh/north-canton/4855-portage-street-n-w-.html,oh,north-canton,4855-portage-street-n-w-,020465,"4855 Portage Street N.w., North Canton, OH 44720",44720,40.8800014,-81.43789530000001
+https://locations.tacobell.com/oh/canton/4875-tuscarawas-st--w.html,oh,canton,4875-tuscarawas-st--w,001279,"4875 Tuscarawas St. W, Canton, OH 44708",44708,40.799878,-81.3968189
+https://locations.tacobell.com/oh/chardon/502-water-st.html,oh,chardon,502-water-st,040531,"502 Water St, Chardon, OH 44024",44024,41.5812778,-81.2131497
+https://locations.tacobell.com/oh/wellington/508-s-main-st-.html,oh,wellington,508-s-main-st-,020308,"508 S Main St., Wellington, OH 44090",44090,41.1862098,-82.2170904
+https://locations.tacobell.com/oh/avon-lake/510-avon-belden-road.html,oh,avon-lake,510-avon-belden-road,024235,"510 Avon-Belden Road, Avon Lake, OH 44012",44012,41.4919347,-82.0194594
+https://locations.tacobell.com/oh/garfield-heights/5185-turney-rd-.html,oh,garfield-heights,5185-turney-rd-,035351,"5185 Turney Rd., Garfield Heights, OH 44125",44125,41.4207334,-81.6083724
+https://locations.tacobell.com/oh/sheffield-village/5218-detroit-rd.html,oh,sheffield-village,5218-detroit-rd,004283,"5218 Detroit Rd, Sheffield Village, OH 44035",44035,41.4250566,-82.0793401
+https://locations.tacobell.com/oh/massillon/5366-wales-ave.html,oh,massillon,5366-wales-ave,030255,"5366 Wales Ave, Massillon, OH 44646",44646,40.8229701,-81.5029679
+https://locations.tacobell.com/oh/macedonia/557-aurora-rd.html,oh,macedonia,557-aurora-rd,003804,"557 Aurora Rd, Macedonia, OH 44056",44056,41.3142929,-81.5187671
+https://locations.tacobell.com/oh/maple-heights/5591-warrensville-ctr-rd.html,oh,maple-heights,5591-warrensville-ctr-rd,001988,"5591 Warrensville Ctr Rd, Maple Heights, OH 44137",44137,41.4099401,-81.537115
+https://locations.tacobell.com/oh/parma/5780-broadview-rd.html,oh,parma,5780-broadview-rd,035352,"5780 Broadview Rd, Parma, OH 44134",44134,41.4055821,-81.6915806
+https://locations.tacobell.com/oh/cleveland/5840-memphis-avenue.html,oh,cleveland,5840-memphis-avenue,035358,"5840 Memphis Avenue, Cleveland, OH 44144",44144,41.4402793,-81.7272639
+https://locations.tacobell.com/oh/elyria/600-chestnut-commons-dr.html,oh,elyria,600-chestnut-commons-dr,031602,"600 Chestnut Commons Dr, Elyria, OH 44035",44035,41.3472819,-82.0674496
+https://locations.tacobell.com/oh/tallmadge/62-tallmadge-circle.html,oh,tallmadge,62-tallmadge-circle,004024,"62 Tallmadge Circle, Tallmadge, OH 44278",44278,41.1019253,-81.4396732
+https://locations.tacobell.com/oh/gallipolis/63-ohio-river-plaza.html,oh,gallipolis,63-ohio-river-plaza,038805,"63 Ohio River Plaza, Gallipolis, OH 45631",45631,38.8255741,-82.1680277
+https://locations.tacobell.com/oh/canton/6441-market-ave--north.html,oh,canton,6441-market-ave--north,028000,"6441 Market Ave. North, Canton, OH 44721",44721,40.8759637,-81.3644112
+https://locations.tacobell.com/oh/north-royalton/6447-north-royalton-rd.html,oh,north-royalton,6447-north-royalton-rd,026277,"6447 North Royalton Rd, North Royalton, OH 44133",44133,41.3134239,-81.7311379
+https://locations.tacobell.com/oh/north-madison/6568-north-ridge-road.html,oh,north-madison,6568-north-ridge-road,040536,"6568 North Ridge Road, North Madison, OH 44057",44057,41.8024491,-81.0548761
+https://locations.tacobell.com/oh/parma-heights/6698-pearl-road.html,oh,parma-heights,6698-pearl-road,023464,"6698 Pearl Road, Parma Heights, OH 44130",44130,41.381437,-81.782609
+https://locations.tacobell.com/oh/akron/716-e-market-st.html,oh,akron,716-e-market-st,030663,"716 E Market St, Akron, OH 44305",44305,41.0758107,-81.495425
+https://locations.tacobell.com/oh/dover/718-boulevard-st-.html,oh,dover,718-boulevard-st-,001856,"718 Boulevard St., Dover, OH 44622",44622,40.5138659,-81.4564121
+https://locations.tacobell.com/oh/cleveland/7424-brookpark-rd.html,oh,cleveland,7424-brookpark-rd,024764,"7424 Brookpark Rd, Cleveland, OH 44129",44129,41.4186698,-81.7312291
+https://locations.tacobell.com/oh/parma/7475-day-dr.html,oh,parma,7475-day-dr,002084,"7475 Day Dr, Parma, OH 44129",44129,41.3801767,-81.7356188
+https://locations.tacobell.com/oh/mentor/7753-mentor-avenue.html,oh,mentor,7753-mentor-avenue,035361,"7753 Mentor Avenue, Mentor, OH 44060",44060,41.6606389,-81.3639415
+https://locations.tacobell.com/oh/kent/805-e-main-street.html,oh,kent,805-e-main-street,001690,"805 E Main Street, Kent, OH 44240",44240,41.1538168,-81.347179
+https://locations.tacobell.com/oh/wheelersburg/8220-ohio-river-road.html,oh,wheelersburg,8220-ohio-river-road,017128,"8220 Ohio River Road, Wheelersburg, OH 45694",45694,38.7282184,-82.8593598
+https://locations.tacobell.com/oh/twinsburg/8906-darrow-road.html,oh,twinsburg,8906-darrow-road,015453,"8906 Darrow Road, Twinsburg, OH 44087",44087,41.3080311,-81.4408411
+https://locations.tacobell.com/oh/sandusky/918-perkins-avenue-west.html,oh,sandusky,918-perkins-avenue-west,020014,"918 Perkins Avenue West, Sandusky, OH 44870",44870,41.4327028,-82.714266
+https://locations.tacobell.com/oh/elyria/920-cleveland-st.html,oh,elyria,920-cleveland-st,002100,"920 Cleveland St, Elyria, OH 44035",44035,41.380012,-82.0699003
+https://locations.tacobell.com/oh/streetsboro/9223-st-rte-14.html,oh,streetsboro,9223-st-rte-14,002982,"9223 St Rte 14, Streetsboro, OH 44241",44241,41.238917,-81.34344589999999
+https://locations.tacobell.com/oh/amherst/940-north-leavitt-road.html,oh,amherst,940-north-leavitt-road,015908,"940 North Leavitt Road, Amherst, OH 44001",44001,41.4176121,-82.2094868
+https://locations.tacobell.com/oh/mentor/9486-mentor-avenue.html,oh,mentor,9486-mentor-avenue,022455,"9486 Mentor Avenue, Mentor, OH 44060",44060,41.6809111,-81.2988194
+https://locations.tacobell.com/oh/wadsworth/973-high-street.html,oh,wadsworth,973-high-street,002187,"973 High Street, Wadsworth, OH 44281",44281,41.0494705,-81.7282021
+https://locations.tacobell.com/oh/athens/978-e--state-street.html,oh,athens,978-e--state-street,031442,"978 E. State Street, Athens, OH 45701",45701,39.3364831,-82.059613
+https://locations.tacobell.com/oh/cuyahoga-falls/993-graham-rd-.html,oh,cuyahoga-falls,993-graham-rd-,004046,"993 Graham Rd., Cuyahoga Falls, OH 44221",44221,41.164005,-81.4774949
+https://locations.tacobell.com/oh/mansfield/996-ashland-road.html,oh,mansfield,996-ashland-road,015366,"996 Ashland Road, Mansfield, OH 44905",44905,40.7745161,-82.4780143
+https://locations.tacobell.com/oh/genoa/22220-west-state-route-51.html,oh,genoa,22220-west-state-route-51,039151,"22220 West State Route 51, Genoa, OH 43430",22220,41.5330384,-83.3626196
+https://locations.tacobell.com/oh/marysville/18000-oh-31.html,oh,marysville,18000-oh-31,038803,"18000 OH-31, Marysville, OH 43040",18000,40.2635849,-83.37384159999999
+https://locations.tacobell.com/oh/chillicothe/1005-e-main-street.html,oh,chillicothe,1005-e-main-street,040014,"1005 E Main Street, Chillicothe, OH 45601",45601,39.337801,-82.952802
+https://locations.tacobell.com/oh/trenton/975-west-state-street.html,oh,trenton,975-west-state-street,032894,"975 West State Street, Trenton, OH 45067",45067,39.4800276,-84.4766015
+https://locations.tacobell.com/oh/cincinnati/9449-colerain-ave.html,oh,cincinnati,9449-colerain-ave,003324,"9449 Colerain Ave, Cincinnati, OH 45251",45251,39.2429513,-84.595153
+https://locations.tacobell.com/oh/youngstown/940-boardman-poland-rd.html,oh,youngstown,940-boardman-poland-rd,027995,"940 Boardman-Poland Rd, Youngstown, OH 44512",44512,41.0246113,-80.6354231
+https://locations.tacobell.com/oh/centerville/9300-dayton-lebanon-pike.html,oh,centerville,9300-dayton-lebanon-pike,023461,"9300 Dayton Lebanon Pike, Centerville, OH 45458",45458,39.6094046,-84.1598934
+https://locations.tacobell.com/oh/cincinnati/9270-plainfield-rd.html,oh,cincinnati,9270-plainfield-rd,004721,"9270 Plainfield Rd, Cincinnati, OH 45236",45236,39.2281046,-84.3940415
+https://locations.tacobell.com/oh/cincinnati/9200-winton-rd.html,oh,cincinnati,9200-winton-rd,032293,"9200 Winton Rd, Cincinnati, OH 45231",45231,39.2010346,-84.5208658
+https://locations.tacobell.com/oh/kenton/914-east-columbus-street.html,oh,kenton,914-east-columbus-street,031087,"914 East Columbus Street, Kenton, OH 43326",43326,40.650675,-83.5937506
+https://locations.tacobell.com/oh/wapakoneta/903-apollo-dr.html,oh,wapakoneta,903-apollo-dr,032342,"903 Apollo Dr, Wapakoneta, OH 45895",45895,40.5615231,-84.1729668
+https://locations.tacobell.com/oh/milford/889-state-route-28.html,oh,milford,889-state-route-28,031683,"889 State Route 28, Milford, OH 45150",45150,39.1904557,-84.25403440000001
+https://locations.tacobell.com/oh/fremont/870-sean-drive.html,oh,fremont,870-sean-drive,020846,"870 Sean Drive, Fremont, OH 43420",43420,41.3778452,-83.1165241
+https://locations.tacobell.com/oh/youngstown/8585-south-ave.html,oh,youngstown,8585-south-ave,032389,"8585 South Ave, Youngstown, OH 44514",44514,41.0833069,-80.6462776
+https://locations.tacobell.com/oh/springboro/850-w-central-ave.html,oh,springboro,850-w-central-ave,033780,"850 W Central Ave, Springboro, OH 45066",45066,39.5631291,-84.2621677
+https://locations.tacobell.com/oh/youngstown/850-n--canfield-niles-rd-.html,oh,youngstown,850-n--canfield-niles-rd-,027999,"850 N. Canfield Niles Rd., Youngstown, OH 44515",44515,41.1210882,-80.7687629
+https://locations.tacobell.com/oh/columbus/8440-n-high-st.html,oh,columbus,8440-n-high-st,004304,"8440 N High St, Columbus, OH 43235",43235,40.1350884,-83.0162106
+https://locations.tacobell.com/oh/marysville/835-delaware-ave.html,oh,marysville,835-delaware-ave,033037,"835 Delaware Ave, Marysville, OH 43040",43040,40.2360172,-83.3548683
+https://locations.tacobell.com/oh/hartville/821-west-maple-street.html,oh,hartville,821-west-maple-street,J433005,"821 West Maple Street, Hartville, OH 44632",44632,40.9679337,-81.3441391
+https://locations.tacobell.com/oh/huber-heights/8201-center-point-70-blvd.html,oh,huber-heights,8201-center-point-70-blvd,032918,"8201 Center Point 70 Blvd, Huber Heights, OH 45424",45424,39.8729545,-84.0564403
+https://locations.tacobell.com/oh/cincinnati/820-eastgate-south-dr.html,oh,cincinnati,820-eastgate-south-dr,033772,"820 Eastgate South Dr, Cincinnati, OH 45245",45245,39.0950668,-84.2660679
+https://locations.tacobell.com/oh/hamilton/819-high-street.html,oh,hamilton,819-high-street,016995,"819 High Street, Hamilton, OH 45011",45011,39.3967243,-84.5528676
+https://locations.tacobell.com/oh/huber-heights/8158-old-troy-pike.html,oh,huber-heights,8158-old-troy-pike,033778,"8158 Old Troy Pike, Huber Heights, OH 45424",45424,39.8745016,-84.1365718
+https://locations.tacobell.com/oh/cincinnati/8157-beechmont-ave.html,oh,cincinnati,8157-beechmont-ave,028407,"8157 Beechmont Ave, Cincinnati, OH 45255",45255,39.0906866,-84.3864243
+https://locations.tacobell.com/oh/west-chester/8126-princeton-glendale-rd.html,oh,west-chester,8126-princeton-glendale-rd,016319,"8126 Princeton-Glendale Rd, West Chester, OH 45069",45069,39.3537685,-84.460837
+https://locations.tacobell.com/oh/columbus/808-s-high-st.html,oh,columbus,808-s-high-st,038899,"808 S High St, Columbus, OH 43206",43206,39.9457726,-82.9970577
+https://locations.tacobell.com/oh/west-carrollton/801-e-central-ave.html,oh,west-carrollton,801-e-central-ave,028017,"801 E Central Ave, West Carrollton, OH 45449",45449,39.677147,-84.240437
+https://locations.tacobell.com/oh/middletown/800-s-breiel-blvd.html,oh,middletown,800-s-breiel-blvd,033782,"800 S Breiel Blvd, Middletown, OH 45044",45044,39.5021582,-84.3558582
+https://locations.tacobell.com/oh/columbus/7960-worthington-galena-road.html,oh,columbus,7960-worthington-galena-road,016231,"7960 Worthington-Galena Road, Columbus, OH 43085",43085,40.1245421,-82.9808612
+https://locations.tacobell.com/oh/coshocton/795-s--2nd-st-.html,oh,coshocton,795-s--2nd-st-,038894,"795 S. 2nd St., Coshocton, OH 43812",43812,40.2652057,-81.8694285
+https://locations.tacobell.com/oh/west-chester/7757-tylersville-rd.html,oh,west-chester,7757-tylersville-rd,004162,"7757 Tylersville Rd, West Chester, OH 45069",45069,39.3526822,-84.3662885
+https://locations.tacobell.com/oh/strasburg/7532-state-route-250-sw.html,oh,strasburg,7532-state-route-250-sw,032394,"7532 State Route 250 SW, Strasburg, OH 44680",44680,40.6018278,-81.5287378
+https://locations.tacobell.com/oh/hubbard/730-liberty-st-w.html,oh,hubbard,730-liberty-st-w,030664,"730 Liberty St W, Hubbard, OH 44425",44425,41.1564552,-80.5814952
+https://locations.tacobell.com/oh/sunbury/7255-state-route-37.html,oh,sunbury,7255-state-route-37,038892,"7255 State Route 37, Sunbury, OH 43074",43074,40.257755,-82.882442
+https://locations.tacobell.com/oh/toledo/7246-west-central-ave-.html,oh,toledo,7246-west-central-ave-,024598,"7246 West Central Ave., Toledo, OH 43617",43617,41.674445,-83.7170457
+https://locations.tacobell.com/oh/galion/719-harding-way-west.html,oh,galion,719-harding-way-west,019798,"719 Harding Way West, Galion, OH 44833",44833,40.7338408,-82.8006805
+https://locations.tacobell.com/oh/lebanon/715-e-main-st.html,oh,lebanon,715-e-main-st,004259,"715 E Main St, Lebanon, OH 45036",45036,39.4318789,-84.193307
+https://locations.tacobell.com/oh/toledo/708-front-st.html,oh,toledo,708-front-st,002661,"708 Front St, Toledo, OH 43605",43605,41.6492508,-83.521614
+https://locations.tacobell.com/oh/urbana/707-scioto-st.html,oh,urbana,707-scioto-st,003781,"707 Scioto St, Urbana, OH 43078",43078,40.1068495,-83.7372134
+https://locations.tacobell.com/oh/holland/7030-orchard-centre-dr.html,oh,holland,7030-orchard-centre-dr,021200,"7030 Orchard Centre Dr, Holland, OH 43528",43528,41.610011,-83.7094418
+https://locations.tacobell.com/oh/findlay/701-trenton-ave.html,oh,findlay,701-trenton-ave,001886,"701 Trenton Ave, Findlay, OH 45840",45840,41.0583848,-83.662084
+https://locations.tacobell.com/oh/liberty-township/6979-s--liberty-drive.html,oh,liberty-township,6979-s--liberty-drive,023153,"6979 S. Liberty Drive, Liberty Township, OH 45044",45044,39.3751728,-84.37858109999999
+https://locations.tacobell.com/oh/columbus/6970-e-broad-st.html,oh,columbus,6970-e-broad-st,028225,"6970 E Broad St, Columbus, OH 43213",43213,39.9829445,-82.8168515
+https://locations.tacobell.com/oh/cincinnati/6579-glenway-ave.html,oh,cincinnati,6579-glenway-ave,029417,"6579 Glenway Ave, Cincinnati, OH 45248",45248,39.1555626,-84.6295318
+https://locations.tacobell.com/oh/huber-heights/6500-brandt-pike.html,oh,huber-heights,6500-brandt-pike,033796,"6500 Brandt Pike, Huber Heights, OH 45424",45424,39.8471783,-84.1133474
+https://locations.tacobell.com/oh/fairfield/650-niles-road.html,oh,fairfield,650-niles-road,024311,"650 Niles Road, Fairfield, OH 45014",45014,39.3380454,-84.55863509999999
+https://locations.tacobell.com/oh/new-albany/6479-central-college-rd.html,oh,new-albany,6479-central-college-rd,038879,"6479 Central College Rd, New Albany, OH 43054",43054,40.0978733,-82.8163511
+https://locations.tacobell.com/oh/marengo/636-state-route-61.html,oh,marengo,636-state-route-61,019861,"636 State Route 61, Marengo, OH 43334",43334,40.3767546,-82.8294352
+https://locations.tacobell.com/oh/reynoldsburg/6325-e-main-st.html,oh,reynoldsburg,6325-e-main-st,003335,"6325 E Main St, Reynoldsburg, OH 43068",43068,39.9545124,-82.8265119
+https://locations.tacobell.com/oh/reynoldsburg/6320-tussing-rd.html,oh,reynoldsburg,6320-tussing-rd,028478,"6320 Tussing Rd, Reynoldsburg, OH 43068",43068,39.9280098,-82.8294656
+https://locations.tacobell.com/oh/tiffin/630-west-market-st-.html,oh,tiffin,630-west-market-st-,022447,"630 West Market St., Tiffin, OH 44883",44883,41.1122951,-83.2029052
+https://locations.tacobell.com/oh/centerville/6240-wilmington-pike.html,oh,centerville,6240-wilmington-pike,033777,"6240 Wilmington Pike, Centerville, OH 45459",45459,39.6481926,-84.1098276
+https://locations.tacobell.com/oh/cambridge/61550-southgate-rd.html,oh,cambridge,61550-southgate-rd,026239,"61550 Southgate Rd, Cambridge, OH 43725",61550,39.9944266,-81.5747582
+https://locations.tacobell.com/oh/piketon/615-s-west-st.html,oh,piketon,615-s-west-st,019290,"615 S West St Ste B, Piketon, OH 45661",45661,39.0608837,-83.01866059999999
+https://locations.tacobell.com/oh/westerville/6140-sunbury-rd.html,oh,westerville,6140-sunbury-rd,033036,"6140 Sunbury Rd, Westerville, OH 43081",43081,40.1316105,-82.8848635
+https://locations.tacobell.com/oh/englewood/608-south-main-street.html,oh,englewood,608-south-main-street,033765,"608 South Main Street, Englewood, OH 45322",45322,39.8689153,-84.2930258
+https://locations.tacobell.com/oh/canal-winchester/6075-gender-road.html,oh,canal-winchester,6075-gender-road,038903,"6075 Gender Road, Canal Winchester, OH 43110",43110,39.857145,-82.8296748
+https://locations.tacobell.com/oh/anna/607-e-main-street.html,oh,anna,607-e-main-street,042640,"607 E Main Street, Anna, OH 45302",45302,40.3945079,-84.1637033
+https://locations.tacobell.com/oh/napoleon/605-wood-drive.html,oh,napoleon,605-wood-drive,032344,"605 Wood Drive, Napoleon, OH 43545",43545,41.4059407,-84.1326866
+https://locations.tacobell.com/oh/solon/6030-enterprise-pkwy.html,oh,solon,6030-enterprise-pkwy,K071192,"6030 Enterprise Pkwy, Solon, OH 44139",44139,41.3951226,-81.4643148
+https://locations.tacobell.com/oh/sylvania/5844-w-alexis-rd.html,oh,sylvania,5844-w-alexis-rd,002744,"5844 W Alexis Rd, Sylvania, OH 43560",43560,41.7157296,-83.6836042
+https://locations.tacobell.com/oh/bucyrus/575-s-sandusky-ave.html,oh,bucyrus,575-s-sandusky-ave,016043,"575 S Sandusky Ave, Bucyrus, OH 44820",44820,40.802783,-82.9756767
+https://locations.tacobell.com/oh/cincinnati/5500-colerain-ave.html,oh,cincinnati,5500-colerain-ave,003339,"5500 Colerain Ave, Cincinnati, OH 45239",45239,39.1911987,-84.5709285
+https://locations.tacobell.com/oh/columbus/5449-west-broad-street.html,oh,columbus,5449-west-broad-street,038885,"5449 West Broad Street, Columbus, OH 43228",43228,39.9513756,-83.1494035
+https://locations.tacobell.com/oh/mason/5418-kings-center-way.html,oh,mason,5418-kings-center-way,015425,"5418 Kings Center Way, Mason, OH 45040",45040,39.3571076,-84.25948989999999
+https://locations.tacobell.com/oh/celina/535-east-market-street.html,oh,celina,535-east-market-street,032343,"535 East Market Street, Celina, OH 45822",45822,40.548941,-84.5627806
+https://locations.tacobell.com/oh/dayton/5281-salem-ave.html,oh,dayton,5281-salem-ave,023061,"5281 Salem Ave, Dayton, OH 45426",45426,39.8212465,-84.2849104
+https://locations.tacobell.com/oh/fostoria/519-plaza-drive.html,oh,fostoria,519-plaza-drive,015194,"519 Plaza Drive, Fostoria, OH 44830",44830,41.1781986,-83.4222982
+https://locations.tacobell.com/oh/columbus/5152-n--high-street.html,oh,columbus,5152-n--high-street,024070,"5152 N. High Street, Columbus, OH 43214",43214,40.0674059,-83.0191211
+https://locations.tacobell.com/oh/obetz/5101-groveport-road.html,oh,obetz,5101-groveport-road,033038,"5101 Groveport Road, Obetz, OH 43207",43207,39.8675262,-82.9346873
+https://locations.tacobell.com/oh/saint-clairsville/50737-valley-frontage-rd.html,oh,saint-clairsville,50737-valley-frontage-rd,026121,"50737 Valley Frontage Rd, Saint Clairsville, OH 43950",50737,40.0736559,-80.8725123
+https://locations.tacobell.com/oh/cincinnati/5060-delhi-ave.html,oh,cincinnati,5060-delhi-ave,001813,"5060 Delhi Ave, Cincinnati, OH 45238",45238,39.0954761,-84.6113591
+https://locations.tacobell.com/oh/newton-falls/50-north-canal-street.html,oh,newton-falls,50-north-canal-street,032209,"50 North Canal Street, Newton Falls, OH 44444",44444,41.1895047,-80.9773744
+https://locations.tacobell.com/oh/dublin/4915-tuttle-crossing-blvd.html,oh,dublin,4915-tuttle-crossing-blvd,033784,"4915 Tuttle Crossing Blvd, Dublin, OH 43017",43017,40.0766366,-83.1263439
+https://locations.tacobell.com/oh/columbus/4770-saw-mill-rd.html,oh,columbus,4770-saw-mill-rd,004882,"4770 Saw Mill Rd, Columbus, OH 43235",43235,40.06629660000001,-83.092601
+https://locations.tacobell.com/oh/warren/473-south-street.html,oh,warren,473-south-street,035357,"473 South Street, Warren, OH 44483",44483,39.5016807,-84.0090861
+https://locations.tacobell.com/oh/dayton/47-woodman-dr-.html,oh,dayton,47-woodman-dr-,033766,"47 Woodman Dr., Dayton, OH 45431",45431,39.7683571,-84.1237464
+https://locations.tacobell.com/oh/hilliard/4652-cemetery-rd.html,oh,hilliard,4652-cemetery-rd,033034,"4652 Cemetery Rd, Hilliard, OH 43026",43026,40.0319933,-83.1413336
+https://locations.tacobell.com/oh/youngstown/458-boardman-canfield-road.html,oh,youngstown,458-boardman-canfield-road,027998,"458 Boardman-Canfield Road, Youngstown, OH 44512",44512,41.0247979,-80.6782147
+https://locations.tacobell.com/oh/austintown/4523-mahoning-avenue.html,oh,austintown,4523-mahoning-avenue,035356,"4523 Mahoning Avenue, Austintown, OH 44515",44515,41.101029,-80.7372251
+https://locations.tacobell.com/oh/columbus/4517-kenny-rd.html,oh,columbus,4517-kenny-rd,038907,"4517 Kenny Rd, Columbus, OH 43220",43220,40.0518136,-83.0501721
+https://locations.tacobell.com/oh/norwood/4478-montgomery-rd-.html,oh,norwood,4478-montgomery-rd-,G135916,"4478 Montgomery Rd., Norwood, OH 45212",45212,39.1596969,-84.4563682
+https://locations.tacobell.com/oh/warren/4419-mahoning-ave-nw.html,oh,warren,4419-mahoning-ave-nw,035364,"4419 Mahoning Ave NW, Warren, OH 44483",44483,41.2592023,-80.8333318
+https://locations.tacobell.com/oh/youngstown/4380-youngstown-poland-rd.html,oh,youngstown,4380-youngstown-poland-rd,035350,"4380 Youngstown Poland Rd, Youngstown, OH 44514",44514,41.056033,-80.6161469
+https://locations.tacobell.com/oh/marion/436-n-main-st.html,oh,marion,436-n-main-st,038880,"436 N Main St, Marion, OH 43302",43302,40.5957718,-83.1291999
+https://locations.tacobell.com/oh/liberty-township/4345-hamilton-middletown-rd.html,oh,liberty-township,4345-hamilton-middletown-rd,022840,"4345 Hamilton Middletown Rd, Liberty Township, OH 45011",45011,39.4172211,-84.4731629
+https://locations.tacobell.com/oh/canfield/4254-boardman-canfield-road.html,oh,canfield,4254-boardman-canfield-road,030675,"4254 Boardman-Canfield Road, Canfield, OH 44406",44406,41.0251155,-80.7277667
+https://locations.tacobell.com/oh/dayton/4206-north-main-street.html,oh,dayton,4206-north-main-street,022278,"4206 North Main Street, Dayton, OH 45405",45405,39.8040011,-84.2210228
+https://locations.tacobell.com/oh/youngstown/420-fifth-avenue.html,oh,youngstown,420-fifth-avenue,030670,"420 Fifth Avenue, Youngstown, OH 44502",44502,41.1071116,-80.6523208
+https://locations.tacobell.com/oh/cincinnati/4147-hamilton-ave-.html,oh,cincinnati,4147-hamilton-ave-,G135901,"4147 Hamilton Ave., Cincinnati, OH 45223",45223,39.1618573,-84.5397468
+https://locations.tacobell.com/oh/port-clinton/3990-e-harbor-rd.html,oh,port-clinton,3990-e-harbor-rd,030662,"3990 E Harbor Rd, Port Clinton, OH 43452",43452,41.5150877,-82.9089343
+https://locations.tacobell.com/oh/sharonville/3970-hauck-road.html,oh,sharonville,3970-hauck-road,002525,"3970 Hauck Road, Sharonville, OH 45241",45241,39.2909424,-84.3963566
+https://locations.tacobell.com/oh/whitehall/3944-e-broad-st.html,oh,whitehall,3944-e-broad-st,028227,"3944 E Broad St, Whitehall, OH 43213",43213,39.9743777,-82.8959537
+https://locations.tacobell.com/oh/cincinnati/3911-red-bank-rd.html,oh,cincinnati,3911-red-bank-rd,032033,"3911 Red Bank Rd, Cincinnati, OH 45227",45227,39.1519902,-84.4037052
+https://locations.tacobell.com/oh/columbus/3834-morse-road.html,oh,columbus,3834-morse-road,033785,"3834 Morse Road, Columbus, OH 43219",43219,40.0577475,-82.916876
+https://locations.tacobell.com/oh/portsmouth/3826-us-highway-23.html,oh,portsmouth,3826-us-highway-23,G135710,"3826 US Highway 23, Portsmouth, OH 45662",45662,38.7241547,-82.9948264
+https://locations.tacobell.com/oh/amelia/3790-waterford-parkway.html,oh,amelia,3790-waterford-parkway,030482,"3790 Waterford Parkway, Amelia, OH 45102",45102,39.0515478,-84.2515921
+https://locations.tacobell.com/oh/youngstown/3726-market-street.html,oh,youngstown,3726-market-street,030671,"3726 Market Street, Youngstown, OH 44507",44507,41.0620329,-80.6623108
+https://locations.tacobell.com/oh/columbus/3605-s-high-st.html,oh,columbus,3605-s-high-st,028223,"3605 S High St, Columbus, OH 43207",43207,39.888959,-82.9984637
+https://locations.tacobell.com/oh/fairborn/360-north-broad-street.html,oh,fairborn,360-north-broad-street,033789,"360 North Broad Street, Fairborn, OH 45324",45324,39.8279208,-84.0259321
+https://locations.tacobell.com/oh/oxford/36-lynn-ave.html,oh,oxford,36-lynn-ave,032893,"36 Lynn Ave, Oxford, OH 45056",45056,39.5095871,-84.7512653
+https://locations.tacobell.com/oh/youngstown/3551-belmont-avenue.html,oh,youngstown,3551-belmont-avenue,030673,"3551 Belmont Avenue, Youngstown, OH 44505",44505,41.1479071,-80.6647213
+https://locations.tacobell.com/oh/toledo/3460-airport-hwy.html,oh,toledo,3460-airport-hwy,002500,"3460 Airport Hwy, Toledo, OH 43609",43609,41.6248966,-83.6253687
+https://locations.tacobell.com/oh/marietta/342-pike-street.html,oh,marietta,342-pike-street,031443,"342 Pike Street, Marietta, OH 45750",45750,39.4123607,-81.4340855
+https://locations.tacobell.com/oh/dayton/3410-york-commons-blvd.html,oh,dayton,3410-york-commons-blvd,029379,"3410 York Commons Blvd, Dayton, OH 45414",45414,39.8445024,-84.198153
+https://locations.tacobell.com/oh/columbus/3402-cleveland-ave.html,oh,columbus,3402-cleveland-ave,003340,"3402 Cleveland Ave, Columbus, OH 43224",43224,39.9870893,-82.9885016
+https://locations.tacobell.com/oh/toledo/3302-west-central.html,oh,toledo,3302-west-central,030659,"3302 West Central, Toledo, OH 43606",43606,41.6774591,-83.6228647
+https://locations.tacobell.com/oh/toledo/3265-w-laskey-rd.html,oh,toledo,3265-w-laskey-rd,000939,"3265 W Laskey Rd, Toledo, OH 43613",43613,41.7060601,-83.6233776
+https://locations.tacobell.com/oh/vandalia/323-e--national-rd.html,oh,vandalia,323-e--national-rd,033781,"323 E. National Rd, Vandalia, OH 45377",45377,39.891486,-84.1943338
+https://locations.tacobell.com/oh/beavercreek/3218-dayton-xenia-rd.html,oh,beavercreek,3218-dayton-xenia-rd,033768,"3218 Dayton Xenia Rd, Beavercreek, OH 45434",45434,39.7275906,-84.0546045
+https://locations.tacobell.com/oh/lima/3201-elida-rd.html,oh,lima,3201-elida-rd,005721,"3201 Elida Rd, Lima, OH 45805",45805,40.7681466,-84.1613201
+https://locations.tacobell.com/oh/bowling-green/320-e-wooster.html,oh,bowling-green,320-e-wooster,002188,"320 E Wooster, Bowling Green, OH 43402",43402,41.3720326,-83.6749868
+https://locations.tacobell.com/oh/toledo/3149-dorr-street.html,oh,toledo,3149-dorr-street,030677,"3149 Dorr Street, Toledo, OH 43607",43607,41.6526517,-83.6188001
+https://locations.tacobell.com/oh/dayton/3019-kettering-blvd.html,oh,dayton,3019-kettering-blvd,029985,"3019 Kettering Blvd, Dayton, OH 45439",45439,39.7080625,-84.2020536
+https://locations.tacobell.com/oh/springfield/2952-derr-road.html,oh,springfield,2952-derr-road,033787,"2952 Derr Road, Springfield, OH 45503",45503,39.963881,-83.785363
+https://locations.tacobell.com/oh/oregon/2950-navarre-avenue.html,oh,oregon,2950-navarre-avenue,022612,"2950 Navarre Avenue, Oregon, OH 43616",43616,41.6364671,-83.4777483
+https://locations.tacobell.com/oh/gahanna/294-s--hamilton-road.html,oh,gahanna,294-s--hamilton-road,028222,"294 S. Hamilton Road, Gahanna, OH 43230",43230,40.011616,-82.8666107
+https://locations.tacobell.com/oh/northwood/2900-woodville-rd-.html,oh,northwood,2900-woodville-rd-,024079,"2900 Woodville Rd., Northwood, OH 43619",43619,41.6144458,-83.4838408
+https://locations.tacobell.com/oh/grove-city/2787-london-groveport-rd.html,oh,grove-city,2787-london-groveport-rd,033798,"2787 London Groveport Rd, Grove City, OH 43123",43123,39.8390736,-83.0800682
+https://locations.tacobell.com/oh/columbus/2777-billingsley-rd.html,oh,columbus,2777-billingsley-rd,033779,"2777 Billingsley Rd, Columbus, OH 43235",43235,40.112626,-83.0888345
+https://locations.tacobell.com/oh/warren/2752-elm-road.html,oh,warren,2752-elm-road,035353,"2752 Elm Road, Warren, OH 44483",44483,41.2595369,-80.7845049
+https://locations.tacobell.com/oh/perrysburg/27171-oakmead-dr.html,oh,perrysburg,27171-oakmead-dr,002935,"27171 Oakmead Dr, Perrysburg, OH 43551",27171,41.5465695,-83.596132
+https://locations.tacobell.com/oh/fairborn/2674-colonel-glenn-hwy.html,oh,fairborn,2674-colonel-glenn-hwy,033774,"2674 Colonel Glenn Hwy, Fairborn, OH 45324",45324,39.7784196,-84.0559975
+https://locations.tacobell.com/oh/westerville/26-e-schrock-rd.html,oh,westerville,26-e-schrock-rd,030846,"26 E Schrock Rd, Westerville, OH 43081",43081,40.1098886,-82.9247421
+https://locations.tacobell.com/oh/perrysburg/25782-dixie-hwy.html,oh,perrysburg,25782-dixie-hwy,030884,"25782 Dixie Hwy, Perrysburg, OH 43551",25782,41.5257786,-83.6366679
+https://locations.tacobell.com/oh/columbus/2553-n--high-st.html,oh,columbus,2553-n--high-st,033771,"2553 N. High St, Columbus, OH 43202",43202,40.0141241,-83.0114734
+https://locations.tacobell.com/oh/dayton/2509-s-smithville-rd-.html,oh,dayton,2509-s-smithville-rd-,033767,"2509 S Smithville Rd., Dayton, OH 45420",45420,39.7304561,-84.1416273
+https://locations.tacobell.com/oh/cincinnati/2500-highland-avenue.html,oh,cincinnati,2500-highland-avenue,023853,"2500 Highland Avenue, Cincinnati, OH 45219",45219,39.1270473,-84.5030716
+https://locations.tacobell.com/oh/brookville/25-triggs-road.html,oh,brookville,25-triggs-road,G135728,"25 Triggs Road, Brookville, OH 45309",45309,39.8454702,-84.4260016
+https://locations.tacobell.com/oh/zanesville/2454-maple-street.html,oh,zanesville,2454-maple-street,038909,"2454 Maple Street, Zanesville, OH 43701",43701,39.9655964,-82.0190854
+https://locations.tacobell.com/oh/columbus/2421-so-hamilton-rd.html,oh,columbus,2421-so-hamilton-rd,002487,"2421 So Hamilton Rd, Columbus, OH 43232",43232,39.9254882,-82.8804869
+https://locations.tacobell.com/oh/grove-city/2408-stringtown-rd.html,oh,grove-city,2408-stringtown-rd,033773,"2408 Stringtown Rd, Grove City, OH 43123",43123,39.8814363,-83.067616
+https://locations.tacobell.com/oh/circleville/23501-us-highway-23-s.html,oh,circleville,23501-us-highway-23-s,038906,"23501 US Highway 23 S, Circleville, OH 43113",23501,39.6028181,-82.9516795
+https://locations.tacobell.com/oh/new-lexington/232-e-broadway-st.html,oh,new-lexington,232-e-broadway-st,038881,"232 E Broadway St, New Lexington, OH 43764",43764,39.7195442,-82.2067091
+https://locations.tacobell.com/oh/xenia/231-west-main-street.html,oh,xenia,231-west-main-street,033786,"231 West Main Street, Xenia, OH 45385",45385,39.6842546,-83.9332883
+https://locations.tacobell.com/oh/fremont/2281-w--state-street-.html,oh,fremont,2281-w--state-street-,022448,"2281 W. State Street., Fremont, OH 43420",43420,41.3592463,-83.143335
+https://locations.tacobell.com/oh/toledo/2234-w-alexis-rd.html,oh,toledo,2234-w-alexis-rd,030658,"2234 W Alexis Rd, Toledo, OH 43613",43613,41.7212884,-83.5990767
+https://locations.tacobell.com/oh/columbus/2225-dublin-granville-rd.html,oh,columbus,2225-dublin-granville-rd,028221,"2225 Dublin Granville Rd, Columbus, OH 43229",43229,40.0862059,-82.9577389
+https://locations.tacobell.com/oh/springfield/2149-s--limestone-st-.html,oh,springfield,2149-s--limestone-st-,033794,"2149 S. Limestone St., Springfield, OH 45505",45505,39.8968771,-83.8116397
+https://locations.tacobell.com/oh/zanesville/21445-june-parkway.html,oh,zanesville,21445-june-parkway,038905,"21445 June Parkway, Zanesville, OH 43701",21445,39.9107546,-82.0141251
+https://locations.tacobell.com/oh/steubenville/2118-sunset-blvd.html,oh,steubenville,2118-sunset-blvd,026111,"2118 Sunset Blvd, Steubenville, OH 43952",43952,40.3691951,-80.6391665
+https://locations.tacobell.com/oh/columbus/2111-e-livingston-ave.html,oh,columbus,2111-e-livingston-ave,028477,"2111 E Livingston Ave, Columbus, OH 43209",43209,39.9477958,-82.9407214
+https://locations.tacobell.com/oh/middletown/2101-no-verity-pkwy.html,oh,middletown,2101-no-verity-pkwy,033769,"2101 No Verity Pkwy, Middletown, OH 45042",45042,39.5265282,-84.3892076
+https://locations.tacobell.com/oh/kettering/2101-east-dorothy-lane.html,oh,kettering,2101-east-dorothy-lane,033788,"2101 East Dorothy Lane, Kettering, OH 45420",45420,39.7032101,-84.1259888
+https://locations.tacobell.com/oh/lancaster/2099-schorrway-dr-nw.html,oh,lancaster,2099-schorrway-dr-nw,038887,"2099 Schorrway Dr NW, Lancaster, OH 43130",43130,39.7348614,-82.62608019999999
+https://locations.tacobell.com/oh/lima/2090-harding-hwy.html,oh,lima,2090-harding-hwy,004201,"2090 Harding Hwy, Lima, OH 45804",45804,40.7304039,-84.0671864
+https://locations.tacobell.com/oh/dayton/2076-harshman-rd.html,oh,dayton,2076-harshman-rd,005726,"2076 Harshman Rd, Dayton, OH 45424",45424,39.7997554,-84.1291498
+https://locations.tacobell.com/oh/lima/2011-allentown-road.html,oh,lima,2011-allentown-road,023826,"2011 Allentown Road, Lima, OH 45805",45805,40.747823,-84.1457283
+https://locations.tacobell.com/oh/delphos/201-elida-avenue.html,oh,delphos,201-elida-avenue,032350,"201 Elida Avenue, Delphos, OH 45833",45833,40.8427923,-84.3278826
+https://locations.tacobell.com/oh/columbus/200-n-wilson-rd.html,oh,columbus,200-n-wilson-rd,038901,"200 N Wilson Rd, Columbus, OH 43204",43204,39.9588746,-83.0928243
+https://locations.tacobell.com/oh/springfield/1920-north-bechtle-avenue.html,oh,springfield,1920-north-bechtle-avenue,033799,"1920 North Bechtle Avenue, Springfield, OH 45504",45504,39.9511407,-83.830867
+https://locations.tacobell.com/oh/defiance/1902-e--second-st-.html,oh,defiance,1902-e--second-st-,022446,"1902 E. Second St., Defiance, OH 43512",43512,41.28297389999999,-84.32722910000001
+https://locations.tacobell.com/oh/salem/1872-e-state-st.html,oh,salem,1872-e-state-st,038910,"1872 E State St, Salem, OH 44460",44460,40.9010089,-80.8351017
+https://locations.tacobell.com/oh/sidney/1752-michigan-st.html,oh,sidney,1752-michigan-st,033790,"1752 Michigan St, Sidney, OH 45365",45365,40.2883611,-84.1845562
+https://locations.tacobell.com/oh/upper-sandusky/1735-e-wyandot-ave.html,oh,upper-sandusky,1735-e-wyandot-ave,016914,"1735 E Wyandot Ave, Upper Sandusky, OH 43351",43351,40.834927,-83.2377237
+https://locations.tacobell.com/oh/ottawa/1724-e-main-street.html,oh,ottawa,1724-e-main-street,032352,"1724 E Main Street, Ottawa, OH 45875",45875,41.0205383,-84.0268597
+https://locations.tacobell.com/oh/columbus/1717-morse-road.html,oh,columbus,1717-morse-road,022619,"1717 Morse Road, Columbus, OH 43229",43229,40.0600164,-82.973665
+https://locations.tacobell.com/oh/springfield/1717-e-main-st.html,oh,springfield,1717-e-main-st,033791,"1717 E Main St, Springfield, OH 45503",45503,39.9232407,-83.7832327
+https://locations.tacobell.com/oh/wilmington/1701-rombach-ave.html,oh,wilmington,1701-rombach-ave,032892,"1701 Rombach Ave, Wilmington, OH 45177",45177,39.4507056,-83.7983711
+https://locations.tacobell.com/oh/hilliard/1680-hilliard-rome-rd.html,oh,hilliard,1680-hilliard-rome-rd,028224,"1680 Hilliard Rome Rd, Hilliard, OH 43026",43026,39.985125,-83.1503371
+https://locations.tacobell.com/oh/lancaster/1643-east-main-street.html,oh,lancaster,1643-east-main-street,038886,"1643 East Main Street, Lancaster, OH 43130",43130,39.7148854,-82.5677134
+https://locations.tacobell.com/oh/aberdeen/1610-u-s--52-west.html,oh,aberdeen,1610-u-s--52-west,C246001,"1610 U.S. 52 West, Aberdeen, OH 45101",45101,38.6686665,-83.77155139999999
+https://locations.tacobell.com/oh/cincinnati/1607-e--kemper-road.html,oh,cincinnati,1607-e--kemper-road,002289,"1607 E. Kemper Road, Cincinnati, OH 45246",45246,39.2851299,-84.4455766
+https://locations.tacobell.com/oh/calcutta/15924-state-rt-170.html,oh,calcutta,15924-state-rt-170,030661,"15924 State Rt 170, Calcutta, OH 43920",15924,40.6701481,-80.584586
+https://locations.tacobell.com/oh/columbus/1557-w-broad-st.html,oh,columbus,1557-w-broad-st,004881,"1557 W Broad St, Columbus, OH 43222",43222,39.9568448,-83.0417184
+https://locations.tacobell.com/oh/pataskala/155-e--broad-street.html,oh,pataskala,155-e--broad-street,038904,"155 E. Broad Street, Pataskala, OH 43062",43062,40.0033666,-82.6708702
+https://locations.tacobell.com/oh/columbus/1536-georgesville-road.html,oh,columbus,1536-georgesville-road,033797,"1536 Georgesville Road, Columbus, OH 43228",43228,39.9194245,-83.1277773
+https://locations.tacobell.com/oh/toledo/1525-e--alexis-rd-.html,oh,toledo,1525-e--alexis-rd-,005759,"1525 E. Alexis Rd., Toledo, OH 43612",43612,41.7230745,-83.5100362
+https://locations.tacobell.com/oh/wauseon/1462-north-shoop-avenue.html,oh,wauseon,1462-north-shoop-avenue,032351,"1462 North Shoop Avenue, Wauseon, OH 43567",43567,41.5723105,-84.1341137
+https://locations.tacobell.com/oh/columbus/1429-polaris-pkwy.html,oh,columbus,1429-polaris-pkwy,020944,"1429 Polaris Pkwy, Columbus, OH 43240",43240,40.1401469,-82.980942
+https://locations.tacobell.com/oh/piqua/1429-covington-ave.html,oh,piqua,1429-covington-ave,033801,"1429 Covington Ave, Piqua, OH 45356",45356,40.141785,-84.264979
+https://locations.tacobell.com/oh/toledo/1422-broadway.html,oh,toledo,1422-broadway,030666,"1422 Broadway, Toledo, OH 43609",43609,41.6320853,-83.5554758
+https://locations.tacobell.com/oh/troy/1420-w--main-st-.html,oh,troy,1420-w--main-st-,033793,"1420 W. Main St., Troy, OH 45373",45373,40.0490302,-84.2261165
+https://locations.tacobell.com/oh/dayton/1414-n--keowee-street.html,oh,dayton,1414-n--keowee-street,022263,"1414 N. Keowee Street, Dayton, OH 45404",45404,39.7836864,-84.1886724
+https://locations.tacobell.com/oh/hamilton/1410-main-street.html,oh,hamilton,1410-main-street,033783,"1410 Main Street, Hamilton, OH 45013",45013,39.423344,-84.5925297
+https://locations.tacobell.com/oh/saint-marys/1406-commerce-dr.html,oh,saint-marys,1406-commerce-dr,032348,"1406 Commerce Dr, Saint Marys, OH 45885",45885,40.5554504,-84.4093705
+https://locations.tacobell.com/oh/maumee/1380-conant-st-.html,oh,maumee,1380-conant-st-,002499,"1380 Conant St., Maumee, OH 43537",43537,41.5797266,-83.6637723
+https://locations.tacobell.com/oh/russells-point/137-east-main-street.html,oh,russells-point,137-east-main-street,032347,"137 East Main Street, Russells Point, OH 43348",43348,40.4722325,-83.8949346
+https://locations.tacobell.com/oh/columbus/1339-harrisburg-pike.html,oh,columbus,1339-harrisburg-pike,038900,"1339 Harrisburg Pike, Columbus, OH 43223",43223,39.930865,-83.0505749
+https://locations.tacobell.com/oh/gahanna/1330-stoneridge-drive.html,oh,gahanna,1330-stoneridge-drive,038890,"1330 Stoneridge Drive, Gahanna, OH 43230",43230,40.0530056,-82.8669707
+https://locations.tacobell.com/oh/niles/1327-youngstown-warren-rd.html,oh,niles,1327-youngstown-warren-rd,035359,"1327 Youngstown-Warren Rd, Niles, OH 44446",44446,41.2052715,-80.7394221
+https://locations.tacobell.com/oh/toledo/1317-north-reynolds-road.html,oh,toledo,1317-north-reynolds-road,019661,"1317 North Reynolds Road, Toledo, OH 43615",43615,41.6523809,-83.6651614
+https://locations.tacobell.com/oh/columbus/1312-w-5th-ave.html,oh,columbus,1312-w-5th-ave,028476,"1312 W 5th Ave, Columbus, OH 43212",43212,39.9889149,-83.0415801
+https://locations.tacobell.com/oh/marion/1309-mount-vernon-ave.html,oh,marion,1309-mount-vernon-ave,038898,"1309 Mount Vernon Ave, Marion, OH 43302",43302,40.5856561,-83.1202304
+https://locations.tacobell.com/oh/eaton/1305-n-barron-st.html,oh,eaton,1305-n-barron-st,023187,"1305 N Barron St, Eaton, OH 45320",45320,39.7591086,-84.6368579
+https://locations.tacobell.com/oh/logan/1301-w-hunter-st.html,oh,logan,1301-w-hunter-st,038882,"1301 W Hunter St, Logan, OH 43138",43138,39.5429318,-82.4264095
+https://locations.tacobell.com/oh/washington-court-house/1295-columbus-ave.html,oh,washington-court-house,1295-columbus-ave,038895,"1295 Columbus Ave, Washington Court House, OH 43160",43160,39.5462546,-83.4272719
+https://locations.tacobell.com/oh/van-wert/1280-s-shannon-st.html,oh,van-wert,1280-s-shannon-st,042654,"1280 S Shannon St, Van Wert, OH 45891",45891,40.8519008,-84.6002248
+https://locations.tacobell.com/oh/fairborn/1280-e--dayton-yellow-springs-road.html,oh,fairborn,1280-e--dayton-yellow-springs-road,033792,"1280 E. Dayton Yellow Springs Road, Fairborn, OH 45324",45324,39.7836954,-83.9929085
+https://locations.tacobell.com/oh/marion/1270-delaware-ave.html,oh,marion,1270-delaware-ave,038893,"1270 Delaware Ave, Marion, OH 43302",43302,40.566547,-83.120873
+https://locations.tacobell.com/oh/chillicothe/1247-western-avenue.html,oh,chillicothe,1247-western-avenue,038878,"1247 Western Avenue, Chillicothe, OH 45601",45601,39.333283,-83.0188229
+https://locations.tacobell.com/oh/jeffersonville/12356-us-highway-35-nw.html,oh,jeffersonville,12356-us-highway-35-nw,038846,"12356 US Highway 35 NW, Jeffersonville, OH 43128",12356,39.6179759,-83.6032235
+https://locations.tacobell.com/oh/hillsboro/1235-north-high-street.html,oh,hillsboro,1235-north-high-street,032895,"1235 North High Street, Hillsboro, OH 45133",45133,39.2199267,-83.6090848
+https://locations.tacobell.com/oh/piqua/1234-e-ash-st.html,oh,piqua,1234-e-ash-st,033776,"1234 E Ash St, Piqua, OH 45356",45356,40.1514318,-84.2141351
+https://locations.tacobell.com/oh/pickerington/1233-hill-rd-n.html,oh,pickerington,1233-hill-rd-n,033035,"1233 Hill Rd N, Pickerington, OH 43147",43147,39.9133892,-82.7801133
+https://locations.tacobell.com/oh/toledo/1220-w--alexis-rd-.html,oh,toledo,1220-w--alexis-rd-,022737,"1220 W. Alexis Rd., Toledo, OH 43612",43612,41.7219097,-83.5719895
+https://locations.tacobell.com/oh/mount-vernon/120-newark-road.html,oh,mount-vernon,120-newark-road,033800,"120 Newark Road, Mount Vernon, OH 43050",43050,40.3837795,-82.4843898
+https://locations.tacobell.com/oh/cincinnati/11992-chase-plaza.html,oh,cincinnati,11992-chase-plaza,030849,"11992 Chase Plaza, Cincinnati, OH 45240",11992,39.2963601,-84.5247829
+https://locations.tacobell.com/oh/delaware/1167-columbus-pike.html,oh,delaware,1167-columbus-pike,003394,"1167 Columbus Pike, Delaware, OH 43015",43015,40.273269,-83.0701841
+https://locations.tacobell.com/oh/woodsfield/116-north-main-street.html,oh,woodsfield,116-north-main-street,J318002,"116 North Main Street, Woodsfield, OH 43793",43793,39.7633856,-81.1155719
+https://locations.tacobell.com/oh/oak-harbor/115-e-water-street.html,oh,oak-harbor,115-e-water-street,031693,"115 E Water Street, Oak Harbor, OH 43449",43449,41.5073147,-83.1442542
+https://locations.tacobell.com/oh/bluffton/113-commerce-lane.html,oh,bluffton,113-commerce-lane,032345,"113 Commerce Lane, Bluffton, OH 45817",45817,40.8933192,-83.87218
+https://locations.tacobell.com/oh/greenville/1120-e--russ-road.html,oh,greenville,1120-e--russ-road,033795,"1120 E. Russ Road, Greenville, OH 45331",45331,40.1213608,-84.6242498
+https://locations.tacobell.com/oh/west-union/11191-state-route-41.html,oh,west-union,11191-state-route-41,G135925,"11191 State Route 41, West Union, OH 45693",11191,38.7815558,-83.5643951
+https://locations.tacobell.com/oh/springfield/1115-upper-valley-pike.html,oh,springfield,1115-upper-valley-pike,033770,"1115 Upper Valley Pike, Springfield, OH 45504",45504,39.9352724,-83.8577765
+https://locations.tacobell.com/oh/findlay/1115-tiffin-ave.html,oh,findlay,1115-tiffin-ave,001204,"1115 Tiffin Ave, Findlay, OH 45840",45840,41.0489643,-83.6290309
+https://locations.tacobell.com/oh/bryan/1104-s-main-st.html,oh,bryan,1104-s-main-st,005173,"1104 S Main St, Bryan, OH 43506",43506,41.4619707,-84.551014
+https://locations.tacobell.com/oh/london/110-west-high-street.html,oh,london,110-west-high-street,038884,"110 West High Street, London, OH 43140",43140,39.8843668,-83.4513189
+https://locations.tacobell.com/oh/somerset/110-north-columbus-street.html,oh,somerset,110-north-columbus-street,020219,"110 North Columbus Street, Somerset, OH 43783",43783,39.8076696,-82.2999666
+https://locations.tacobell.com/oh/newark/1091-n-21st-st.html,oh,newark,1091-n-21st-st,038911,"1091 N 21st St, Newark, OH 43055",43055,40.0784479,-82.4287895
+https://locations.tacobell.com/oh/dayton/109-springboro-pike.html,oh,dayton,109-springboro-pike,027043,"109 Springboro Pike, Dayton, OH 45449",45449,39.6404734,-84.2256117
+https://locations.tacobell.com/oh/buckeye-lake/10800-hebron-road-se.html,oh,buckeye-lake,10800-hebron-road-se,038896,"10800 Hebron Road SE, Buckeye Lake, OH 43008",10800,39.9372802,-82.4799729
+https://locations.tacobell.com/oh/mount-orab/107-glover-dr.html,oh,mount-orab,107-glover-dr,033296,"107 Glover Dr, Mount Orab, OH 45154",45154,39.0446507,-83.9213453
+https://locations.tacobell.com/oh/loveland/10650-loveland-madeira-rd.html,oh,loveland,10650-loveland-madeira-rd,016480,"10650 Loveland Madeira Rd, Loveland, OH 45140",10650,39.2538078,-84.2950839
+https://locations.tacobell.com/oh/chillicothe/1040-n--bridge-st-.html,oh,chillicothe,1040-n--bridge-st-,038889,"1040 N. Bridge St., Chillicothe, OH 45601",45601,39.3574085,-82.9768893
+https://locations.tacobell.com/oh/columbiana/1104-village-plaza.html,oh,columbiana,1104-village-plaza,030669,"1104 Village Plaza, Columbiana, OH 44408",44408,40.9013388,-80.69715300000001
+https://locations.tacobell.com/oh/mount-vernon/1015-coshocton-ave-.html,oh,mount-vernon,1015-coshocton-ave-,033775,"1015 Coshocton Ave., Mount Vernon, OH 43050",43050,40.4012532,-82.4520635
+https://locations.tacobell.com/oh/cincinnati/1003-gest-street.html,oh,cincinnati,1003-gest-street,016940,"1003 Gest Street, Cincinnati, OH 45203",45203,39.1051274,-84.5305722
+https://locations.tacobell.com/oh/minerva/1000-valley-street.html,oh,minerva,1000-valley-street,038897,"1000 Valley Street, Minerva, OH 44657",44657,40.7217882,-81.108643
+https://locations.tacobell.com/oh/dayton/1000-brown-street.html,oh,dayton,1000-brown-street,002263,"1000 Brown Street, Dayton, OH 45409",45409,39.7451604,-84.1826691
+https://locations.tacobell.com/oh/miamisburg/10-lawrence-avenue.html,oh,miamisburg,10-lawrence-avenue,016096,"10 Lawrence Avenue, Miamisburg, OH 45342",45342,39.6405017,-84.2697007
+https://locations.tacobell.com/oh/new-bremen/442-s--washington-st.html,oh,new-bremen,442-s--washington-st,040119,"442 S. Washington St, New Bremen, OH 45869",45869,40.4281068,-84.3788358
+https://locations.tacobell.com/oh/berea/1298-west-bagley-road.html,oh,berea,1298-west-bagley-road,040445,"1298 West Bagley Road, Berea, OH 44017",44017,41.37272,-81.8534811
+https://locations.tacobell.com/oh/bethel/644-w-plane-st.html,oh,bethel,644-w-plane-st,040314,"644 W Plane St, Bethel, OH 45106",45106,38.9656468,-84.0923746
+https://locations.tacobell.com/oh/canal-winchester/8225-meijer-dr-.html,oh,canal-winchester,8225-meijer-dr-,040440,"8225 Meijer Dr., Canal Winchester, OH 43110",43110,39.8478367,-82.7792713
+https://locations.tacobell.com/oh/monroe/1295-hamilton-lebanon-rd.html,oh,monroe,1295-hamilton-lebanon-rd,040564,"1295 Hamilton Lebanon Rd, Monroe, OH 45050",45050,39.4458975,-84.4187557
+https://locations.tacobell.com/oh/burbank/8535-willow-rd-.html,oh,burbank,8535-willow-rd-,038762,"8535 Willow Rd., Burbank, OH 44214",44214,41.0008637,-81.9969304
+https://locations.tacobell.com/oh/cincinnati/9067-fields-ertel-rd.html,oh,cincinnati,9067-fields-ertel-rd,004589,"9067 Fields Ertel Rd, Cincinnati, OH 45249",45249,39.292093,-84.3106608
+https://locations.tacobell.com/oh/wooster/4094-burbank-road.html,oh,wooster,4094-burbank-road,032630,"4094 Burbank Road, Wooster, OH 44691",44691,40.8496743,-81.9465639
+https://locations.tacobell.com/oh/rio-grande/11625-oh-588.html,oh,rio-grande,11625-oh-588,040568,"11625 OH-588, Rio Grande, OH 45674",11625,38.8866254,-82.381948
+https://locations.tacobell.com/oh/heath/1021-hebron-rd.html,oh,heath,1021-hebron-rd,038913,"1021 Hebron Rd, Heath, OH 43056",43056,40.0237402,-82.4494491
+https://locations.tacobell.com/oh/toledo/5323-monroe-street.html,oh,toledo,5323-monroe-street,032045,"5323 Monroe Street, Toledo, OH 43623",43623,41.7031361,-83.6564647
+https://locations.tacobell.com/oh/avon/36220-detroit-road.html,oh,avon,36220-detroit-road,032972,"36220 Detroit Road, Avon, OH 44011",36220,41.4587574,-82.0243771
+https://locations.tacobell.com/oh/columbus/620-georgesville-rd.html,oh,columbus,620-georgesville-rd,038888,"620 Georgesville Rd, Columbus, OH 43228",43228,39.939893,-83.1121726
+https://locations.tacobell.com/oh/carrollton/1154-canton-road-nw.html,oh,carrollton,1154-canton-road-nw,033482,"1154 Canton Road NW, Carrollton, OH 44615",44615,40.5889356,-81.0918823
+https://locations.tacobell.com/oh/mount-gilead/548-w--marion.html,oh,mount-gilead,548-w--marion,033483,"548 W. Marion, Mount Gilead, OH 43338",43338,40.5491109,-82.8465115
+https://locations.tacobell.com/oh/willard/101-east-walton-street.html,oh,willard,101-east-walton-street,033946,"101 East Walton Street, Willard, OH 44890",44890,41.042739,-82.724017
+https://locations.tacobell.com/oh/austinburg/2807-sidley-court.html,oh,austinburg,2807-sidley-court,032365,"2807 Sidley Court, Austinburg, OH 44010",44010,41.7848648,-80.8543499
+https://locations.tacobell.com/oh/swanton/14255-airport-hwy.html,oh,swanton,14255-airport-hwy,032632,"14255 Airport Hwy, Swanton, OH 43558",14255,41.5807268,-83.8822747
+https://locations.tacobell.com/oh/ada/530-south-main-street.html,oh,ada,530-south-main-street,032349,"530 South Main Street, Ada, OH 45810",45810,40.7656555,-83.8227504
+https://locations.tacobell.com/oh/belpre/613-washington-blvd.html,oh,belpre,613-washington-blvd,034151,"613 Washington Blvd, Belpre, OH 45714",45714,39.2726523,-81.5751035
+https://locations.tacobell.com/oh/cincinnati/5404-north-bend-road.html,oh,cincinnati,5404-north-bend-road,034796,"5404 North Bend Road, Cincinnati, OH 45247",45247,39.1880851,-84.6013151

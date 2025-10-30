@@ -1,0 +1,719 @@
+url,state,city,address_slug,store_id,full_address,zip_code,latitude,longitude
+https://locations.tacobell.com/tx/houston/12352-tidwell-rd.html,tx,houston,12352-tidwell-rd,040336,"12352 Tidwell Rd, Houston, TX 77044",12352,29.849953,-95.228458
+https://locations.tacobell.com/tx/glen-rose/504-sw-big-bend-trail.html,tx,glen-rose,504-sw-big-bend-trail,040361,"504 SW Big Bend Trail, Glen Rose, TX 76043",76043,32.2347613,-97.7662125
+https://locations.tacobell.com/tx/lavon/891-s-state-hwy-78.html,tx,lavon,891-s-state-hwy-78,041079,"891 S State Hwy 78, Lavon, TX 75166",75166,33.0229224,-96.45331949999999
+https://locations.tacobell.com/tx/freeport/1102-n--brazosport-blvd.html,tx,freeport,1102-n--brazosport-blvd,040363,"1102 N. Brazosport Blvd, Freeport, TX 77541",77541,28.970419,-95.3708333
+https://locations.tacobell.com/tx/san-antonio/4242-dezavala-road.html,tx,san-antonio,4242-dezavala-road,041144,"4242 DeZavala Road, San Antonio, TX 78249",78249,29.5750526,-98.56690499999999
+https://locations.tacobell.com/tx/houston/10730-veterans-memorial-drive.html,tx,houston,10730-veterans-memorial-drive,036424,"10730 Veterans Memorial Drive, Houston, TX 77038",10730,29.9359003,-95.4582108
+https://locations.tacobell.com/tx/robinson/765-n--robinson-drive.html,tx,robinson,765-n--robinson-drive,041659,"765 N. Robinson Drive, Robinson, TX 76706",76706,31.5036064,-97.1262897
+https://locations.tacobell.com/tx/port-lavaca/1782-state-hwy-35-n.html,tx,port-lavaca,1782-state-hwy-35-n,041331,"1782 State Hwy 35 N, Port Lavaca, TX 77979",77979,28.54944,-96.65485
+https://locations.tacobell.com/tx/waxahachie/141-w--butcher-rd-.html,tx,waxahachie,141-w--butcher-rd-,038748,"141 W. Butcher Rd., Waxahachie, TX 75165",75165,32.4588454,-96.8367354
+https://locations.tacobell.com/tx/argyle/8125-gateway-dr.html,tx,argyle,8125-gateway-dr,041081,"8125 Gateway Dr, Argyle, TX 76226",76226,33.0973645,-97.2166843
+https://locations.tacobell.com/tx/springtown/301-w-highway-199.html,tx,springtown,301-w-highway-199,041736,"301 W Highway 199, Springtown, TX 76082",76082,32.9424256,-97.6419899
+https://locations.tacobell.com/tx/seguin/930-state-highway-46-n.html,tx,seguin,930-state-highway-46-n,041554,"930 State Highway 46 N, Seguin, TX 78715",78715,29.576953,-97.99122799999999
+https://locations.tacobell.com/tx/new-caney/22832-tx-242.html,tx,new-caney,22832-tx-242,041090,"22832 TX-242, New Caney, TX 77357",22832,30.1923907,-95.1992717
+https://locations.tacobell.com/tx/lubbock/4618-50th-st.html,tx,lubbock,4618-50th-st,041588,"4618 50th St, Lubbock, TX 79414",79414,33.5488451,-101.909926
+https://locations.tacobell.com/tx/whitehouse/720-highway-110-n-.html,tx,whitehouse,720-highway-110-n-,040537,"720 Highway 110 N., Whitehouse, TX 75791",75791,32.2382787,-95.2285807
+https://locations.tacobell.com/tx/magnolia/13361-fm-1488.html,tx,magnolia,13361-fm-1488,040347,"13361 FM 1488, Magnolia, TX 77354",13361,30.2186468,-95.7407802
+https://locations.tacobell.com/tx/beeville/2302-n-st--marys-st-.html,tx,beeville,2302-n-st--marys-st-,041807,"2302 N St. Marys St., Beeville, TX 78102",78102,28.4216831,-97.756428
+https://locations.tacobell.com/tx/baytown/2206-north-alexander-dr-.html,tx,baytown,2206-north-alexander-dr-,041551,"2206 North Alexander Dr., Baytown, TX 77520",77520,29.7455673,-94.949516
+https://locations.tacobell.com/tx/cypress/22318-fm-529.html,tx,cypress,22318-fm-529,041143,"22318 FM 529, Cypress, TX 77433",22318,29.8756331,-95.7640598
+https://locations.tacobell.com/tx/fort-worth/13149-n-beach-st-.html,tx,fort-worth,13149-n-beach-st-,038740,"13149 N Beach St., Fort Worth, TX 76244",13149,32.9332782,-97.2890155
+https://locations.tacobell.com/tx/elsa/404-south-broadway.html,tx,elsa,404-south-broadway,041921,"404 South Broadway, Elsa, TX 78543",78543,26.2907142,-97.9930837
+https://locations.tacobell.com/tx/forney/6610-fm-741.html,tx,forney,6610-fm-741,041935,"6610 FM 741, Forney, TX 75126",75126,32.736677,-96.4685733
+https://locations.tacobell.com/tx/donna/2301-fm-493.html,tx,donna,2301-fm-493,041095,"2301 FM 493, Donna, TX 78537",78537,26.183568,-98.04059
+https://locations.tacobell.com/tx/porter/21883-fm-1314.html,tx,porter,21883-fm-1314,041761,"21883 FM 1314, Porter, TX 77365",21883,30.1024115,-95.2299763
+https://locations.tacobell.com/tx/joshua/113-s-broadway-st-.html,tx,joshua,113-s-broadway-st-,041893,"113 S Broadway St., Joshua, TX 76058",76058,32.460361,-97.38439
+https://locations.tacobell.com/tx/alamo/720-n-alamo-rd.html,tx,alamo,720-n-alamo-rd,037735,"720 N Alamo Rd, Alamo, TX 78516",78516,26.1935464,-98.1216131
+https://locations.tacobell.com/tx/bryan/2600-e--sh-21.html,tx,bryan,2600-e--sh-21,042104,"2600 E. Sh 21, Bryan, TX 77803",77803,30.6934532,-96.3640396
+https://locations.tacobell.com/tx/houston/1210-w-orem-drive.html,tx,houston,1210-w-orem-drive,041753,"1210 W Orem Drive, Houston, TX 77047",77047,29.6278674,-95.3953667
+https://locations.tacobell.com/tx/college-station/1696-harvey-mitchell-pkwy-s.html,tx,college-station,1696-harvey-mitchell-pkwy-s,042192,"1696 Harvey Mitchell Pkwy S, College Station, TX 77845",77845,30.6043325,-96.2963089
+https://locations.tacobell.com/tx/houston/330-w--little-york-rd.html,tx,houston,330-w--little-york-rd,041207,"330 W. Little York Rd, Houston, TX 77076",77076,29.8712547,-95.4034925
+https://locations.tacobell.com/tx/seabrook/2164-bayport-blvd.html,tx,seabrook,2164-bayport-blvd,040721,"2164 Bayport Blvd, Seabrook, TX 77586",77586,29.5718134,-95.0270079
+https://locations.tacobell.com/tx/el-paso/12367-pellicano-drive.html,tx,el-paso,12367-pellicano-drive,041668,"12367 Pellicano Drive, El Paso, TX 79928",12367,31.7260245,-106.2627628
+https://locations.tacobell.com/tx/killeen/1318-w-stan-schlueter-loop.html,tx,killeen,1318-w-stan-schlueter-loop,035016,"1318 W Stan Schlueter Loop, Killeen, TX 76542",76542,31.0788237,-97.7630384
+https://locations.tacobell.com/tx/houston/14329-e-sam-houston-parkway-n.html,tx,houston,14329-e-sam-houston-parkway-n,033495,"14329 E Sam Houston Parkway N, Houston, TX 77044",14329,29.9290956,-95.2045447
+https://locations.tacobell.com/tx/waco/9520-china-springs-road.html,tx,waco,9520-china-springs-road,031799,"9520 China Springs Road, Waco, TX 76708",76708,31.6522133,-97.3079638
+https://locations.tacobell.com/tx/flint/19901-highway-155.html,tx,flint,19901-highway-155,035378,"19901 Highway 155, Flint, TX 75762",19901,32.1904847,-95.43388979999999
+https://locations.tacobell.com/tx/el-paso/9620-montana-ave.html,tx,el-paso,9620-montana-ave,034355,"9620 Montana Ave, El Paso, TX 79925",79925,31.7944141,-106.3578558
+https://locations.tacobell.com/tx/fort-worth/5501-sycamore-school-rd.html,tx,fort-worth,5501-sycamore-school-rd,034950,"5501 Sycamore School Rd, Fort Worth, TX 76123",76123,32.6297699,-97.4111096
+https://locations.tacobell.com/tx/richmond/26628-fm-1093.html,tx,richmond,26628-fm-1093,030623,"26628 FM 1093, Richmond, TX 77406",26628,29.6960436,-95.83875359999999
+https://locations.tacobell.com/tx/el-paso/6450-north-desert-blvd-.html,tx,el-paso,6450-north-desert-blvd-,034647,"6450 North Desert Blvd., El Paso, TX 79912",79912,31.8882838,-106.580744
+https://locations.tacobell.com/tx/mesquite/1931-military-parkway.html,tx,mesquite,1931-military-parkway,032211,"1931 Military Parkway, Mesquite, TX 75149",75149,32.7685163,-96.6278478
+https://locations.tacobell.com/tx/fort-worth/4725-golden-triangle-blvd.html,tx,fort-worth,4725-golden-triangle-blvd,035388,"4725 Golden Triangle Blvd, Fort Worth, TX 76244",76244,32.9313716,-97.2731849
+https://locations.tacobell.com/tx/san-antonio/3906-s-new-braunfels-ave.html,tx,san-antonio,3906-s-new-braunfels-ave,034966,"3906 S New Braunfels Ave, San Antonio, TX 78223",78223,29.3800266,-98.4601561
+https://locations.tacobell.com/tx/houston/5425-aldine-mail-rte-.html,tx,houston,5425-aldine-mail-rte-,035825,"5425 Aldine Mail Rte., Houston, TX 77039",77039,29.9023685,-95.3518015
+https://locations.tacobell.com/tx/san-antonio/12538-sw-loop-410.html,tx,san-antonio,12538-sw-loop-410,035135,"12538 SW Loop 410, San Antonio, TX 78224",12538,29.3196906,-98.5313809
+https://locations.tacobell.com/tx/burkburnett/1100-s--red-river-expressway.html,tx,burkburnett,1100-s--red-river-expressway,036000,"1100 S. Red River Expressway, Burkburnett, TX 76354",76354,34.0769145,-98.5583929
+https://locations.tacobell.com/tx/san-antonio/9263-culebra-ave.html,tx,san-antonio,9263-culebra-ave,036032,"9263 Culebra Ave, San Antonio, TX 78251",78251,29.483464,-98.66647309999999
+https://locations.tacobell.com/tx/brownsville/3801-international-blvd.html,tx,brownsville,3801-international-blvd,036170,"3801 International Blvd, Brownsville, TX 78521",78521,25.9154177,-97.4712599
+https://locations.tacobell.com/tx/conroe/1114-league-line-rd.html,tx,conroe,1114-league-line-rd,036307,"1114 League Line Rd, Conroe, TX 77303",77303,30.3651728,-95.477556
+https://locations.tacobell.com/tx/temple/4331-n--general-bruce-dr-.html,tx,temple,4331-n--general-bruce-dr-,036308,"4331 N. General Bruce Dr., Temple, TX 76501",76501,31.1401885,-97.328038
+https://locations.tacobell.com/tx/arlington/5305-w--sublett-rd.html,tx,arlington,5305-w--sublett-rd,035140,"5305 W. Sublett Rd, Arlington, TX 76017",76017,32.6467218,-97.1888141
+https://locations.tacobell.com/tx/bulverde/358-singing-oaks.html,tx,bulverde,358-singing-oaks,035329,"358 Singing Oaks, Bulverde, TX 78070",78070,29.801988,-98.4190984
+https://locations.tacobell.com/tx/hempstead/2150-fm-1488.html,tx,hempstead,2150-fm-1488,036395,"2150 FM 1488, Hempstead, TX 77445",77445,30.1082575,-96.0463164
+https://locations.tacobell.com/tx/amarillo/6255-hollywood-rd.html,tx,amarillo,6255-hollywood-rd,035898,"6255 Hollywood Rd, Amarillo, TX 79118",79118,35.1174205,-101.9053982
+https://locations.tacobell.com/tx/lubbock/5010-milwaukee-ave.html,tx,lubbock,5010-milwaukee-ave,036383,"5010 Milwaukee Ave, Lubbock, TX 79407",79407,33.5470974,-101.9577201
+https://locations.tacobell.com/tx/highland-village/2170-fm-407.html,tx,highland-village,2170-fm-407,J417005,"2170 FM 407, Highland Village, TX 75077",75077,33.0719408,-97.054995
+https://locations.tacobell.com/tx/orange/7243-i-10.html,tx,orange,7243-i-10,036710,"7243 I-10, Orange, TX 77630",77630,30.1170382,-93.7946445
+https://locations.tacobell.com/tx/iowa-park/301-southwest-access-roa.html,tx,iowa-park,301-southwest-access-roa,036789,"301 Southwest Access Roa, Iowa Park, TX 76367",76367,33.9650422,-98.6707505
+https://locations.tacobell.com/tx/lubbock/1905-50th-street.html,tx,lubbock,1905-50th-street,036565,"1905 50th Street, Lubbock, TX 79412",79412,33.5481063,-101.8581276
+https://locations.tacobell.com/tx/houston/5849-s--gessner-road.html,tx,houston,5849-s--gessner-road,036784,"5849 S. Gessner Road, Houston, TX 77036",77036,29.7163435,-95.538469
+https://locations.tacobell.com/tx/houston/1216-barker-cypress.html,tx,houston,1216-barker-cypress,036711,"1216 Barker Cypress, Houston, TX 77084",77084,29.7872316,-95.6879589
+https://locations.tacobell.com/tx/lubbock/9832-slide-rd.html,tx,lubbock,9832-slide-rd,036712,"9832 Slide Rd, Lubbock, TX 79424",79424,33.5047684,-101.9224875
+https://locations.tacobell.com/tx/big-lake/nwq-us-67-&-hwy-137.html,tx,big-lake,nwq-us-67-&-hwy-137,030430,"NWQ US 67 & Hwy 137, Big Lake, TX 76932",76932,31.1917129,-101.4673239
+https://locations.tacobell.com/tx/schulenburg/22-n--kessler-ave-.html,tx,schulenburg,22-n--kessler-ave-,031755,"22 N. Kessler Ave., Schulenburg, TX 78956",78956,29.6916652,-96.9021794
+https://locations.tacobell.com/tx/laredo/1010-beltway-pkwy.html,tx,laredo,1010-beltway-pkwy,022863,"1010 Beltway Pkwy, Laredo, TX 78045",78045,27.6830384,-99.4932148
+https://locations.tacobell.com/tx/houston/1178-willowbrook-mall.html,tx,houston,1178-willowbrook-mall,036402,"1178 Willowbrook Mall, Houston, TX 77070",77070,29.9599991,-95.5389662
+https://locations.tacobell.com/tx/hockley/32150-hempstead-highway.html,tx,hockley,32150-hempstead-highway,021072,"32150 Hempstead Highway, Hockley, TX 77447",32150,30.0241999,-95.8373338
+https://locations.tacobell.com/tx/buffalo/2605-west-commerce.html,tx,buffalo,2605-west-commerce,031562,"2605 West Commerce, Buffalo, TX 75831",75831,31.4486148,-96.0791169
+https://locations.tacobell.com/tx/dallas/7751-bonnie-view-road.html,tx,dallas,7751-bonnie-view-road,021372,"7751 Bonnie View Road, Dallas, TX 75241",75241,32.6534533,-96.7516713
+https://locations.tacobell.com/tx/melissa/2641-sam-rayburn-hwy.html,tx,melissa,2641-sam-rayburn-hwy,037009,"2641 Sam Rayburn Hwy, Melissa, TX 75454",75454,33.2832443,-96.5629154
+https://locations.tacobell.com/tx/houston/13470-east-freeway.html,tx,houston,13470-east-freeway,036440,"13470 East Freeway, Houston, TX 77015",13470,29.7701936,-95.1863267
+https://locations.tacobell.com/tx/lewisville/1025-w--round-grove-rd-.html,tx,lewisville,1025-w--round-grove-rd-,037167,"1025 W. Round Grove Rd., Lewisville, TX 75067",75067,33.0063433,-97.0148672
+https://locations.tacobell.com/tx/highlands/303-n-main.html,tx,highlands,303-n-main,042002,"303 N Main, Highlands, TX 77562",77562,29.8193365,-95.0571715
+https://locations.tacobell.com/tx/grand-prairie/5284-s-state-highway-360.html,tx,grand-prairie,5284-s-state-highway-360,040917,"5284 S State Highway 360, Grand Prairie, TX 75052",75052,32.6469732,-97.0610888
+https://locations.tacobell.com/tx/splendora/14447-us-highway-59.html,tx,splendora,14447-us-highway-59,042234,"14447 US Highway 59, Splendora, TX 77372",14447,30.2397757,-95.1582357
+https://locations.tacobell.com/tx/pearland/7103-broadway-st.html,tx,pearland,7103-broadway-st,042006,"7103 Broadway St, Pearland, TX 77581",77581,29.5473849,-95.2319464
+https://locations.tacobell.com/tx/conroe/1535-s-loop-336-w.html,tx,conroe,1535-s-loop-336-w,042238,"1535 S Loop 336 W, Conroe, TX 77304",77304,30.2951471,-95.5042778
+https://locations.tacobell.com/tx/caldwell/200-w-state-hwy-21.html,tx,caldwell,200-w-state-hwy-21,042653,"200 W State Hwy 21, Caldwell, TX 77836",77836,30.5343837,-96.6974987
+https://locations.tacobell.com/tx/krum/1651-e--mccart.html,tx,krum,1651-e--mccart,042137,"1651 E. McCart, Krum, TX 76249",76249,33.260008,-97.2337089
+https://locations.tacobell.com/tx/katy/3130-fm-1463.html,tx,katy,3130-fm-1463,042038,"3130 FM 1463, Katy, TX 77494",77494,29.7767555,-95.8330037
+https://locations.tacobell.com/tx/san-antonio/14243-portranco-rd.html,tx,san-antonio,14243-portranco-rd,036709,"14243 Portranco Rd, San Antonio, TX 78245",14243,29.4220467,-98.7764114
+https://locations.tacobell.com/tx/houston/303-memorial-city-way-760-memorial-city-mall.html,tx,houston,303-memorial-city-way-760-memorial-city-mall,021394,"303 Memorial City Way 760 Memorial City Mall, Houston, TX 77024",77024,29.7822628,-95.5382697
+https://locations.tacobell.com/tx/grapevine/3000-grapevine-mills-pkwy-(suite-fc-4).html,tx,grapevine,3000-grapevine-mills-pkwy-(suite-fc-4),026628,"3000 Grapevine Mills Pkwy (Suite FC 4), Grapevine, TX 76051",76051,32.9659974,-97.0418708
+https://locations.tacobell.com/tx/el-paso/1611-marshall-road.html,tx,el-paso,1611-marshall-road,023468,"1611 Marshall Road, El Paso, TX 79906",79906,31.8172315,-106.4288848
+https://locations.tacobell.com/tx/fort-bliss/20752-gulf-victory-way.html,tx,fort-bliss,20752-gulf-victory-way,027488,"20752 Gulf Victory Way, Fort Bliss, TX 79916",20752,31.8492642,-106.3557913
+https://locations.tacobell.com/tx/plano/7100-corporate-drive.html,tx,plano,7100-corporate-drive,027380,"7100 Corporate Drive, Plano, TX 75024",75024,33.073865,-96.836831
+https://locations.tacobell.com/tx/richardson/2828-rutford-ave.html,tx,richardson,2828-rutford-ave,037101,"2828 Rutford Ave Ste 4, Richardson, TX 75080",75080,32.9902021,-96.7508161
+https://locations.tacobell.com/tx/corpus-christi/6506-weber-road.html,tx,corpus-christi,6506-weber-road,037151,"6506 Weber Road, Corpus Christi, TX 78413",78413,27.6987012,-97.4125285
+https://locations.tacobell.com/tx/aledo/bailey-ranch-road-and-fm-1187.html,tx,aledo,bailey-ranch-road-and-fm-1187,037210,"Bailey Ranch Road And FM 1187, Aledo, TX 76008",76008,32.7087875,-97.602972
+https://locations.tacobell.com/tx/grand-prairie/3192-state-highway-161.html,tx,grand-prairie,3192-state-highway-161,036444,"3192 State Highway 161, Grand Prairie, TX 75052",75052,32.6938009,-97.0249978
+https://locations.tacobell.com/tx/silsbee/620-south-highway-96.html,tx,silsbee,620-south-highway-96,037354,"620 South Highway 96, Silsbee, TX 77656",77656,30.3438606,-94.18186039999999
+https://locations.tacobell.com/tx/houston/10251-clay-rd.html,tx,houston,10251-clay-rd,037667,"10251 Clay Rd, Houston, TX 77043",10251,29.831766,-95.5468734
+https://locations.tacobell.com/tx/conroe/10280-hwy-242.html,tx,conroe,10280-hwy-242,037725,"10280 Hwy 242, Conroe, TX 77385",10280,30.2079191,-95.42405939999999
+https://locations.tacobell.com/tx/gun-barrel-city/215-west-main-st-.html,tx,gun-barrel-city,215-west-main-st-,037742,"215 West Main St., Gun Barrel City, TX 75156",75156,32.330415,-96.117563
+https://locations.tacobell.com/tx/center/1315-tenaha-st-.html,tx,center,1315-tenaha-st-,037734,"1315 Tenaha St., Center, TX 75935",75935,31.8112143,-94.1942495
+https://locations.tacobell.com/tx/emory/218-e-lennon-dr.html,tx,emory,218-e-lennon-dr,038780,"218 E Lennon Dr, Emory, TX 75440",75440,32.8718417,-95.76489
+https://locations.tacobell.com/tx/houston/9145-w-sam-houston-pkwy.html,tx,houston,9145-w-sam-houston-pkwy,038781,"9145 W Sam Houston Pkwy, Houston, TX 77064",77064,29.9038359,-95.5540344
+https://locations.tacobell.com/tx/van/1100-s-oak-st.html,tx,van,1100-s-oak-st,039571,"1100 S Oak St, Van, TX 75790",75790,32.5095786,-95.6433089
+https://locations.tacobell.com/tx/denton/3971-n--loop-288.html,tx,denton,3971-n--loop-288,037111,"3971 N. Loop 288, Denton, TX 76209",76209,33.2564683,-97.1087419
+https://locations.tacobell.com/tx/montgomery/19560-tx-105.html,tx,montgomery,19560-tx-105,038859,"19560 TX-105, Montgomery, TX 77356",19560,30.3849402,-95.6634987
+https://locations.tacobell.com/tx/cypress/12727-telge-rd-.html,tx,cypress,12727-telge-rd-,038744,"12727 Telge Rd., Cypress, TX 77429",12727,29.995491,-95.6545531
+https://locations.tacobell.com/tx/liberty-hill/11730-w--hwy-29.html,tx,liberty-hill,11730-w--hwy-29,037699,"11730 W. Hwy 29, Liberty Hill, TX 78642",11730,30.6633608,-97.8981881
+https://locations.tacobell.com/tx/houston/10-e-crosstimbers-st-.html,tx,houston,10-e-crosstimbers-st-,035696,"10 E Crosstimbers St., Houston, TX 77022",77022,29.8282477,-95.3795787
+https://locations.tacobell.com/tx/houston/10006-cypresswood-drive.html,tx,houston,10006-cypresswood-drive,035715,"10006 Cypresswood Drive, Houston, TX 77070",10006,29.9816822,-95.5653499
+https://locations.tacobell.com/tx/humble/10019-fm-1960-bypass.html,tx,humble,10019-fm-1960-bypass,027789,"10019 FM 1960 Bypass, Humble, TX 77338",10019,30.0054587,-95.27013749999999
+https://locations.tacobell.com/tx/dickinson/104-fm-517-rd-w.html,tx,dickinson,104-fm-517-rd-w,002870,"104 FM 517 Rd W, Dickinson, TX 77539",77539,29.4483462,-95.0786394
+https://locations.tacobell.com/tx/houston/10535-bissonnet.html,tx,houston,10535-bissonnet,035723,"10535 Bissonnet, Houston, TX 77099",10535,29.6743388,-95.5636077
+https://locations.tacobell.com/tx/houston/10615-westheimer-rd-.html,tx,houston,10615-westheimer-rd-,027792,"10615 Westheimer Rd., Houston, TX 77042",10615,29.736379,-95.5638984
+https://locations.tacobell.com/tx/humble/10811-will-clayton-parkway.html,tx,humble,10811-will-clayton-parkway,029352,"10811 Will Clayton Parkway, Humble, TX 77338",10811,29.9805857,-95.2184824
+https://locations.tacobell.com/tx/houston/1082-edgebrook-dr.html,tx,houston,1082-edgebrook-dr,035688,"1082 Edgebrook Dr, Houston, TX 77034",77034,29.6424031,-95.2403045
+https://locations.tacobell.com/tx/houston/10906-scarsdale-blvd.html,tx,houston,10906-scarsdale-blvd,002434,"10906 Scarsdale Blvd #B, Houston, TX 77089",10906,29.5858649,-95.2117038
+https://locations.tacobell.com/tx/houston/11110-fuqua-st.html,tx,houston,11110-fuqua-st,020070,"11110 Fuqua St, Houston, TX 77089",11110,29.612519,-95.2205914
+https://locations.tacobell.com/tx/conroe/1123-n-frazier.html,tx,conroe,1123-n-frazier,030115,"1123 N Frazier, Conroe, TX 77301",77301,30.2953781,-95.4562627
+https://locations.tacobell.com/tx/pearland/11623-shadowcreek-parkway.html,tx,pearland,11623-shadowcreek-parkway,035716,"11623 Shadowcreek Parkway, Pearland, TX 77584",11623,29.5800497,-95.3978563
+https://locations.tacobell.com/tx/sugar-land/11719-hwy-6-south.html,tx,sugar-land,11719-hwy-6-south,035724,"11719 Hwy 6 South, Sugar Land, TX 77498",11719,29.6443751,-95.651687
+https://locations.tacobell.com/tx/pasadena/120-pasadena-blvd.html,tx,pasadena,120-pasadena-blvd,035685,"120 Pasadena Blvd, Pasadena, TX 77506",77506,29.7110514,-95.2015892
+https://locations.tacobell.com/tx/houston/12025-greenspoint-dr.html,tx,houston,12025-greenspoint-dr,035686,"12025 Greenspoint Dr, Houston, TX 77060",12025,29.9419661,-95.4079655
+https://locations.tacobell.com/tx/houston/1223-gessner-drive.html,tx,houston,1223-gessner-drive,035710,"1223 Gessner Drive, Houston, TX 77055",77055,29.7901799,-95.5450714
+https://locations.tacobell.com/tx/houston/12351-fm-1960-west.html,tx,houston,12351-fm-1960-west,027808,"12351 FM 1960 West, Houston, TX 77065",12351,29.9634332,-95.5438976
+https://locations.tacobell.com/tx/houston/12543-westheimer.html,tx,houston,12543-westheimer,035698,"12543 Westheimer, Houston, TX 77077",12543,29.7357364,-95.6026962
+https://locations.tacobell.com/tx/stafford/12560-southwest-freeway.html,tx,stafford,12560-southwest-freeway,017354,"12560 Southwest Freeway, Stafford, TX 77477",12560,29.6403945,-95.5812434
+https://locations.tacobell.com/tx/huntsville/129-ih-45-south.html,tx,huntsville,129-ih-45-south,030155,"129 Ih 45 South, Huntsville, TX 77340",77340,30.7157446,-95.56956319999999
+https://locations.tacobell.com/tx/houston/13002-cutten-road.html,tx,houston,13002-cutten-road,031264,"13002 Cutten Road, Houston, TX 77066",13002,29.9671947,-95.5320806
+https://locations.tacobell.com/tx/pearland/1310-broadway-st-.html,tx,pearland,1310-broadway-st-,027539,"1310 Broadway St., Pearland, TX 77581",77581,29.5434529,-95.2238449
+https://locations.tacobell.com/tx/cypress/13230-grant-road.html,tx,cypress,13230-grant-road,035717,"13230 Grant Road, Cypress, TX 77429",13230,29.9956371,-95.6241576
+https://locations.tacobell.com/tx/sugar-land/13325-university-blvd-.html,tx,sugar-land,13325-university-blvd-,031263,"13325 University Blvd., Sugar Land, TX 77479",13325,29.5876984,-95.6481026
+https://locations.tacobell.com/tx/houston/14601-memorial.html,tx,houston,14601-memorial,035689,"14601 Memorial, Houston, TX 77079",14601,29.769661,-95.6066354
+https://locations.tacobell.com/tx/houston/1484-lockwood-drive.html,tx,houston,1484-lockwood-drive,031265,"1484 Lockwood Drive, Houston, TX 77020",77020,29.7734894,-95.3150498
+https://locations.tacobell.com/tx/la-porte/1502-fairmont-pkwy.html,tx,la-porte,1502-fairmont-pkwy,019549,"1502 Fairmont Pkwy, La Porte, TX 77571",77571,29.6509055,-95.1038783
+https://locations.tacobell.com/tx/montgomery/15255-w--hwy-105.html,tx,montgomery,15255-w--hwy-105,030093,"15255 W. Hwy 105, Montgomery, TX 77356",15255,30.3565782,-95.59299190000002
+https://locations.tacobell.com/tx/houston/15255-wallisville-rd-.html,tx,houston,15255-wallisville-rd-,027801,"15255 Wallisville Rd., Houston, TX 77049",15255,29.8079193,-95.1684827
+https://locations.tacobell.com/tx/houston/15740-north-freeway.html,tx,houston,15740-north-freeway,035734,"15740 North Freeway, Houston, TX 77090",15740,29.9970381,-95.4243263
+https://locations.tacobell.com/tx/houston/15797-jfk-blvd.html,tx,houston,15797-jfk-blvd,035705,"15797 Jfk Blvd, Houston, TX 77032",15797,29.9475244,-95.3322865
+https://locations.tacobell.com/tx/livingston/1610-west-church.html,tx,livingston,1610-west-church,035694,"1610 West Church, Livingston, TX 77351",77351,30.713629,-94.9549955
+https://locations.tacobell.com/tx/el-campo/1611-n--mechanic-st-.html,tx,el-campo,1611-n--mechanic-st-,035732,"1611 N. Mechanic St., El Campo, TX 77437",77437,29.2034898,-96.275439
+https://locations.tacobell.com/tx/alvin/1660-s-loop-35.html,tx,alvin,1660-s-loop-35,035684,"1660 S Loop 35, Alvin, TX 77511",77511,30.6300595,-97.6919824
+https://locations.tacobell.com/tx/kingwood/1710-kingwood-drive.html,tx,kingwood,1710-kingwood-drive,035697,"1710 Kingwood Drive, Kingwood, TX 77339",77339,30.0496793,-95.2307258
+https://locations.tacobell.com/tx/houston/1730-fry-road.html,tx,houston,1730-fry-road,009406,"1730 Fry Road, Houston, TX 77084",77084,29.9717216,-95.7009577
+https://locations.tacobell.com/tx/manvel/17514-highway-6.html,tx,manvel,17514-highway-6,022088,"17514 Highway 6, Manvel, TX 77578",17514,29.4547756,-95.3197747
+https://locations.tacobell.com/tx/league-city/1755-w-main.html,tx,league-city,1755-w-main,035682,"1755 W Main, League City, TX 77573",77573,29.5025974,-95.1157024
+https://locations.tacobell.com/tx/houston/17721-fm-529-rd.html,tx,houston,17721-fm-529-rd,027802,"17721 FM 529 Rd, Houston, TX 77095",17721,29.8786799,-95.6798465
+https://locations.tacobell.com/tx/houston/1817-s--shepherd-dr-.html,tx,houston,1817-s--shepherd-dr-,035738,"1817 S. Shepherd Dr., Houston, TX 77019",77019,29.749355,-95.4103808
+https://locations.tacobell.com/tx/liberty/1830-highway-90.html,tx,liberty,1830-highway-90,035706,"1830 Highway 90, Liberty, TX 77575",77575,30.0565445,-94.7978274
+https://locations.tacobell.com/tx/webster/18327-gulf-freeway.html,tx,webster,18327-gulf-freeway,027109,"18327 Gulf Freeway, Webster, TX 77598",18327,29.5556647,-95.1531392
+https://locations.tacobell.com/tx/new-caney/20193-highway-59.html,tx,new-caney,20193-highway-59,029863,"20193 Highway 59, New Caney, TX 77357",20193,30.1526015,-95.2160176
+https://locations.tacobell.com/tx/richmond/20440-sw-freeway.html,tx,richmond,20440-sw-freeway,035731,"20440 SW Freeway, Richmond, TX 77469",20440,29.5615686,-95.69449399999999
+https://locations.tacobell.com/tx/lake-jackson/207-west-hwy-332.html,tx,lake-jackson,207-west-hwy-332,035691,"207 West Hwy 332, Lake Jackson, TX 77566",77566,29.04808209999999,-95.46489779999999
+https://locations.tacobell.com/tx/friendswood/209-east-parkwood.html,tx,friendswood,209-east-parkwood,015585,"209 East Parkwood, Friendswood, TX 77546",77546,29.5100383,-95.1869061
+https://locations.tacobell.com/tx/houston/2093-taylor-street.html,tx,houston,2093-taylor-street,027807,"2093 Taylor Street, Houston, TX 77007",77007,29.7757225,-95.381916
+https://locations.tacobell.com/tx/league-city/2103-east-main-street.html,tx,league-city,2103-east-main-street,019740,"2103 East Main Street, League City, TX 77573",77573,29.5209273,-95.0779705
+https://locations.tacobell.com/tx/huntsville/2103-sam-houston.html,tx,huntsville,2103-sam-houston,030113,"2103 Sam Houston, Huntsville, TX 77340",77340,30.7071907,-95.5483712
+https://locations.tacobell.com/tx/pearland/2110-north-main.html,tx,pearland,2110-north-main,035693,"2110 North Main, Pearland, TX 77581",77581,29.5682621,-95.286586
+https://locations.tacobell.com/tx/spring/21115-kuykendahl-rd-.html,tx,spring,21115-kuykendahl-rd-,022811,"21115 Kuykendahl Rd., Spring, TX 77379",21115,30.0751804,-95.5151308
+https://locations.tacobell.com/tx/houston/213-west-road.html,tx,houston,213-west-road,027797,"213 West Road, Houston, TX 77038",77038,29.9146941,-95.4138744
+https://locations.tacobell.com/tx/houston/2245-west-holcombe-blvd.html,tx,houston,2245-west-holcombe-blvd,035709,"2245 West Holcombe Blvd, Houston, TX 77030",77030,29.7058295,-95.411292
+https://locations.tacobell.com/tx/katy/23557-westheimer-pkwy-.html,tx,katy,23557-westheimer-pkwy-,024393,"23557 Westheimer Pkwy., Katy, TX 77494",23557,29.7331581,-95.7752862
+https://locations.tacobell.com/tx/tomball/24220-kuykendahl-rd.html,tx,tomball,24220-kuykendahl-rd,031021,"24220 Kuykendahl Rd, Tomball, TX 77375",24220,30.1133955,-95.55398799999999
+https://locations.tacobell.com/tx/kingwood/24300-eastex-frwy-.html,tx,kingwood,24300-eastex-frwy-,035725,"24300 Eastex Frwy., Kingwood, TX 77339",24300,30.0668976,-95.2468118
+https://locations.tacobell.com/tx/porter/24891-fm-1314-rd-.html,tx,porter,24891-fm-1314-rd-,016667,"24891 FM 1314 Rd., Porter, TX 77365",24891,30.1041516,-95.2338049
+https://locations.tacobell.com/tx/katy/25109-market-place-drive.html,tx,katy,25109-market-place-drive,027800,"25109 Market Place Drive, Katy, TX 77494",25109,29.7817913,-95.8032992
+https://locations.tacobell.com/tx/angleton/2605-n--velasco-st-.html,tx,angleton,2605-n--velasco-st-,026764,"2605 N. Velasco St., Angleton, TX 77515",77515,29.1752144,-95.4324457
+https://locations.tacobell.com/tx/brenham/2607-hwy-36-south.html,tx,brenham,2607-hwy-36-south,035703,"2607 Hwy 36 South, Brenham, TX 77833",77833,30.1412243,-96.39547569999999
+https://locations.tacobell.com/tx/spring/2681-rayford-rd.html,tx,spring,2681-rayford-rd,035722,"2681 Rayford Rd, Spring, TX 77386",77386,30.1224155,-95.4012643
+https://locations.tacobell.com/tx/tomball/27550-tomball-pkwy-.html,tx,tomball,27550-tomball-pkwy-,021176,"27550 Tomball Pkwy., Tomball, TX 77375",27550,30.0759861,-95.6278365
+https://locations.tacobell.com/tx/cypress/28638-northwest-fwy.html,tx,cypress,28638-northwest-fwy,035729,"28638 Northwest Fwy, Cypress, TX 77433",28638,29.9923101,-95.7494217
+https://locations.tacobell.com/tx/pasadena/302-southmore-ave-.html,tx,pasadena,302-southmore-ave-,027796,"302 Southmore Ave., Pasadena, TX 77502",77502,29.6907161,-95.2091218
+https://locations.tacobell.com/tx/la-marque/3020-fm-1764.html,tx,la-marque,3020-fm-1764,031796,"3020 FM 1764, La Marque, TX 77568",77568,29.3998281,-95.0367648
+https://locations.tacobell.com/tx/houston/3034-ella-blvd.html,tx,houston,3034-ella-blvd,035708,"3034 Ella Blvd, Houston, TX 77018",77018,29.8146202,-95.4290488
+https://locations.tacobell.com/tx/the-woodlands/3103-college-park-drive.html,tx,the-woodlands,3103-college-park-drive,027799,"3103 College Park Drive, The Woodlands, TX 77384",77384,30.2064274,-95.4648266
+https://locations.tacobell.com/tx/humble/3140-fm-1960-w.html,tx,humble,3140-fm-1960-w,035714,"3140 FM 1960 W, Humble, TX 77338",77338,29.9999781,-95.2657619
+https://locations.tacobell.com/tx/houston/3155-s-loop-west.html,tx,houston,3155-s-loop-west,035747,"3155 S Loop West, Houston, TX 77054",77054,29.6780612,-95.4265803
+https://locations.tacobell.com/tx/pasadena/3202-spencer-hwy.html,tx,pasadena,3202-spencer-hwy,027795,"3202 Spencer Hwy, Pasadena, TX 77504",77504,29.6649086,-95.1946399
+https://locations.tacobell.com/tx/conroe/3207-west-davis.html,tx,conroe,3207-west-davis,030077,"3207 West Davis, Conroe, TX 77304",77304,30.3211959,-95.4869264
+https://locations.tacobell.com/tx/magnolia/32902-fm-2978.html,tx,magnolia,32902-fm-2978,027804,"32902 FM 2978, Magnolia, TX 77354",32902,30.2185148,-95.5675164
+https://locations.tacobell.com/tx/rosenberg/3408-1st-street.html,tx,rosenberg,3408-1st-street,035690,"3408 1st Street, Rosenberg, TX 77471",77471,29.5346629,-95.8083405
+https://locations.tacobell.com/tx/houston/3356-scott-st.html,tx,houston,3356-scott-st,028399,"3356 Scott St, Houston, TX 77004",77004,29.7260991,-95.3503719
+https://locations.tacobell.com/tx/brookshire/34003-katy-freeway.html,tx,brookshire,34003-katy-freeway,035726,"34003 Katy Freeway, Brookshire, TX 77423",34003,29.7781999,-95.9529148
+https://locations.tacobell.com/tx/deer-park/3421-center-st.html,tx,deer-park,3421-center-st,002689,"3421 Center St, Deer Park, TX 77536",77536,29.6803708,-95.1229088
+https://locations.tacobell.com/tx/sugar-land/3453-hwy-6-south.html,tx,sugar-land,3453-hwy-6-south,027793,"3453 Hwy 6 South, Sugar Land, TX 77478",77478,29.6406553,-95.6516274
+https://locations.tacobell.com/tx/baytown/3520-garth-rd.html,tx,baytown,3520-garth-rd,035721,"3520 Garth Rd, Baytown, TX 77521",77521,29.760317,-94.977243
+https://locations.tacobell.com/tx/texas-city/3531-palmer-hwy.html,tx,texas-city,3531-palmer-hwy,018721,"3531 Palmer Hwy, Texas City, TX 77590",77590,29.3950533,-94.9490019
+https://locations.tacobell.com/tx/houston/3703-fm-1960-rd--w.html,tx,houston,3703-fm-1960-rd--w,005169,"3703 FM 1960 Rd. W, Houston, TX 77068",77068,29.9947608,-95.48509299999999
+https://locations.tacobell.com/tx/houston/3720-old-spanish-trail.html,tx,houston,3720-old-spanish-trail,035713,"3720 Old Spanish Trail, Houston, TX 77021",77021,29.7018483,-95.3604977
+https://locations.tacobell.com/tx/rosenberg/3802-fm-762.html,tx,rosenberg,3802-fm-762,035718,"3802 FM 762, Rosenberg, TX 77469",77469,29.5450725,-95.7462131
+https://locations.tacobell.com/tx/pasadena/3816-red-bluff-rd.html,tx,pasadena,3816-red-bluff-rd,035681,"3816 Red Bluff Rd, Pasadena, TX 77503",77503,29.6853714,-95.1571094
+https://locations.tacobell.com/tx/houston/3956-little-york-rd-.html,tx,houston,3956-little-york-rd-,035719,"3956 Little York Rd., Houston, TX 77093",77093,29.8700321,-95.3272209
+https://locations.tacobell.com/tx/pasadena/4000-pansy-rd-.html,tx,pasadena,4000-pansy-rd-,035728,"4000 Pansy Rd., Pasadena, TX 77505",77505,29.6484826,-95.1631341
+https://locations.tacobell.com/tx/cleveland/435-w--south-line.html,tx,cleveland,435-w--south-line,035700,"435 W. South Line, Cleveland, TX 77327",77327,30.335716,-95.0971477
+https://locations.tacobell.com/tx/the-woodlands/4490-panther-creek-pne.html,tx,the-woodlands,4490-panther-creek-pne,027798,"4490 Panther Creek Pne, The Woodlands, TX 77381",77381,30.1653129,-95.50385560000001
+https://locations.tacobell.com/tx/channelview/475-n-sheldon-road.html,tx,channelview,475-n-sheldon-road,027787,"475 N Sheldon Road, Channelview, TX 77530",77530,29.7834982,-95.1245185
+https://locations.tacobell.com/tx/alleyton/4800-highway-10-west.html,tx,alleyton,4800-highway-10-west,019394,"4800 Highway 10 West, Alleyton, TX 78935",78935,29.7092676,-96.50214369999999
+https://locations.tacobell.com/tx/houston/4970-highway-6-north.html,tx,houston,4970-highway-6-north,003162,"4970 Highway 6 North, Houston, TX 77084",77084,29.7973368,-95.6449351
+https://locations.tacobell.com/tx/missouri-city/5511-highway-6.html,tx,missouri-city,5511-highway-6,035712,"5511 Highway 6, Missouri City, TX 77459",77459,29.5415007,-95.5459439
+https://locations.tacobell.com/tx/houston/5550-orem-drive.html,tx,houston,5550-orem-drive,035720,"5550 Orem Drive, Houston, TX 77045",77045,29.6273649,-95.4658153
+https://locations.tacobell.com/tx/houston/5600-bellaire.html,tx,houston,5600-bellaire,035699,"5600 Bellaire, Houston, TX 77081",77081,29.7059677,-95.4788455
+https://locations.tacobell.com/tx/richmond/5640-w-grand-parkway-s.html,tx,richmond,5640-w-grand-parkway-s,026789,"5640 W Grand Parkway S, Richmond, TX 77406",77406,29.6913608,-95.7715728
+https://locations.tacobell.com/tx/galveston/5701-broadway.html,tx,galveston,5701-broadway,002886,"5701 Broadway, Galveston, TX 77551",77551,29.2893049,-94.831259
+https://locations.tacobell.com/tx/houston/5772-hollister-st-.html,tx,houston,5772-hollister-st-,005736,"5772 Hollister St., Houston, TX 77040",77040,29.852019,-95.504318
+https://locations.tacobell.com/tx/houston/5818-richmond-avenue.html,tx,houston,5818-richmond-avenue,035701,"5818 Richmond Avenue, Houston, TX 77057",77057,29.7316015,-95.4807885
+https://locations.tacobell.com/tx/katy/601-s-mason-rd.html,tx,katy,601-s-mason-rd,003566,"601 S Mason Rd, Katy, TX 77450",77450,29.7744502,-95.751191
+https://locations.tacobell.com/tx/katy/6117-n--fry-road.html,tx,katy,6117-n--fry-road,027806,"6117 N. Fry Road, Katy, TX 77449",77449,29.86273,-95.721049
+https://locations.tacobell.com/tx/houston/619-fm-1960-rd--w.html,tx,houston,619-fm-1960-rd--w,016400,"619 FM 1960 Rd. W, Houston, TX 77090",77090,30.0179317,-95.4386979
+https://locations.tacobell.com/tx/houston/6436-antoine-dr.html,tx,houston,6436-antoine-dr,035695,"6436 Antoine Dr, Houston, TX 77091",77091,29.8597608,-95.4732661
+https://locations.tacobell.com/tx/spring/650-sawdust-rd.html,tx,spring,650-sawdust-rd,004826,"650 Sawdust Rd, Spring, TX 77380",77380,30.12712,-95.4525869
+https://locations.tacobell.com/tx/baytown/6800-garth-rd.html,tx,baytown,6800-garth-rd,035692,"6800 Garth Rd, Baytown, TX 77521",77521,29.7999792,-94.9805875
+https://locations.tacobell.com/tx/houston/6907-highway-6-south.html,tx,houston,6907-highway-6-south,035683,"6907 Highway 6 South, Houston, TX 77083",77083,29.7235347,-95.6441418
+https://locations.tacobell.com/tx/humble/7126-fm-1960-rd--e.html,tx,humble,7126-fm-1960-rd--e,002851,"7126 FM 1960 Rd. E, Humble, TX 77346",77346,29.9982094,-95.169437
+https://locations.tacobell.com/tx/spring/7139-louetta-rd-.html,tx,spring,7139-louetta-rd-,027788,"7139 Louetta Rd., Spring, TX 77379",77379,30.0628053,-95.4479296
+https://locations.tacobell.com/tx/houston/7422-south-sam-houston-pkwy-w.html,tx,houston,7422-south-sam-houston-pkwy-w,035727,"7422 South Sam Houston Pkwy W, Houston, TX 77085",77085,29.6161,-95.4971113
+https://locations.tacobell.com/tx/houston/7502-hwy-6-north.html,tx,houston,7502-hwy-6-north,009485,"7502 Hwy 6 North, Houston, TX 77095",77095,29.8293697,-95.645559
+https://locations.tacobell.com/tx/houston/7506-westheimer-rd-.html,tx,houston,7506-westheimer-rd-,035744,"7506 Westheimer Rd., Houston, TX 77063",77063,29.738037,-95.5021319
+https://locations.tacobell.com/tx/houston/7540-bellfort-st-.html,tx,houston,7540-bellfort-st-,027786,"7540 Bellfort St., Houston, TX 77061",77061,29.672267,-95.287468
+https://locations.tacobell.com/tx/houston/7720-west-bellfort.html,tx,houston,7720-west-bellfort,035704,"7720 West Bellfort, Houston, TX 77071",77071,29.655958,-95.5138021
+https://locations.tacobell.com/tx/richmond/7967-grand-parkway.html,tx,richmond,7967-grand-parkway,035730,"7967 Grand Parkway, Richmond, TX 77407",77407,29.6627691,-95.7404687
+https://locations.tacobell.com/tx/willis/803-w-montgomery-st.html,tx,willis,803-w-montgomery-st,030100,"803 W Montgomery St, Willis, TX 77378",77378,30.4217354,-95.4872182
+https://locations.tacobell.com/tx/richmond/8030-fm-1464.html,tx,richmond,8030-fm-1464,035733,"8030 FM 1464, Richmond, TX 77407",77407,29.6925395,-95.688593
+https://locations.tacobell.com/tx/baytown/8302-n--highway-146.html,tx,baytown,8302-n--highway-146,025722,"8302 N. Highway 146, Baytown, TX 77520",77520,29.7617752,-94.923769
+https://locations.tacobell.com/tx/spring/8919-spring-cypress-rd-.html,tx,spring,8919-spring-cypress-rd-,027805,"8919 Spring Cypress Rd., Spring, TX 77379",77379,30.0311713,-95.5561213
+https://locations.tacobell.com/tx/houston/904-s--wayside-dr-.html,tx,houston,904-s--wayside-dr-,027794,"904 S. Wayside Dr., Houston, TX 77023",77023,29.7294783,-95.3097008
+https://locations.tacobell.com/tx/la-porte/9047-spencer-hwy.html,tx,la-porte,9047-spencer-hwy,026050,"9047 Spencer Hwy, La Porte, TX 77571",77571,29.664223,-95.0980059
+https://locations.tacobell.com/tx/humble/9639-n-sam-houston-pkwy-e.html,tx,humble,9639-n-sam-houston-pkwy-e,027803,"9639 N Sam Houston Pkwy E, Humble, TX 77396",77396,29.9355578,-95.2476323
+https://locations.tacobell.com/tx/the-woodlands/9945-six-pines-dr.html,tx,the-woodlands,9945-six-pines-dr,027809,"9945 Six Pines Dr, The Woodlands, TX 77380",77380,30.1669757,-95.4622636
+https://locations.tacobell.com/tx/missouri-city/9945-state-highway-6.html,tx,missouri-city,9945-state-highway-6,029687,"9945 State Highway 6, Missouri City, TX 77459",77459,29.575795,-95.5760421
+https://locations.tacobell.com/tx/dayton/402-w--hwy-90.html,tx,dayton,402-w--hwy-90,040159,"402 W. Hwy 90, Dayton, TX 77535",77535,30.0437831,-94.8910975
+https://locations.tacobell.com/tx/lufkin/1102-s-timberland.html,tx,lufkin,1102-s-timberland,040398,"1102 S Timberland, Lufkin, TX 75901",75901,31.3259376,-94.7256535
+https://locations.tacobell.com/tx/sherman/3310-s-us-hwy-75.html,tx,sherman,3310-s-us-hwy-75,038747,"3310 S US Hwy 75, Sherman, TX 75090",75090,33.8833859,-96.4930761
+https://locations.tacobell.com/tx/fate/1210-memorial-dr-.html,tx,fate,1210-memorial-dr-,038515,"1210 Memorial Dr., Fate, TX 75189",75189,32.9303983,-96.37949379999999
+https://locations.tacobell.com/tx/fort-worth/8945-lower-sonoma-lane.html,tx,fort-worth,8945-lower-sonoma-lane,040353,"8945 Lower Sonoma Lane, Fort Worth, TX 76177",76177,32.8993687,-97.3295704
+https://locations.tacobell.com/tx/frisco/2085-w-university-dr.html,tx,frisco,2085-w-university-dr,037721,"2085 W University Dr, Frisco, TX 75033",75033,33.2194242,-96.8454746
+https://locations.tacobell.com/tx/austin/9900-parmer-lane.html,tx,austin,9900-parmer-lane,030098,"9900 Parmer Lane Bldg C, Austin, TX 78717",78717,30.4865693,-97.77010469999999
+https://locations.tacobell.com/tx/dallas/9820-walnut-hill-ln.html,tx,dallas,9820-walnut-hill-ln,027866,"9820 Walnut Hill Ln, Dallas, TX 75238",75238,32.8786017,-96.7166559
+https://locations.tacobell.com/tx/fort-worth/9616-white-settlement-road.html,tx,fort-worth,9616-white-settlement-road,028434,"9616 White Settlement Road, Fort Worth, TX 76108",76108,32.7620582,-97.4829733
+https://locations.tacobell.com/tx/el-paso/9523-viscount-blvd-.html,tx,el-paso,9523-viscount-blvd-,021244,"9523 Viscount Blvd., El Paso, TX 79925",79925,31.7654975,-106.363055
+https://locations.tacobell.com/tx/austin/9504-n-lamar.html,tx,austin,9504-n-lamar,030150,"9504 N Lamar, Austin, TX 78753",78753,30.3646631,-97.6962177
+https://locations.tacobell.com/tx/cedar-park/950-n-bell-blvd.html,tx,cedar-park,950-n-bell-blvd,030163,"950 N Bell Blvd, Cedar Park, TX 78613",78613,30.5200236,-97.8291206
+https://locations.tacobell.com/tx/crockett/940-e-loop-304.html,tx,crockett,940-e-loop-304,032512,"940 E Loop 304, Crockett, TX 75835",75835,31.3095754,-95.4374653
+https://locations.tacobell.com/tx/san-antonio/9315-portranco-road.html,tx,san-antonio,9315-portranco-road,032380,"9315 Portranco Road, San Antonio, TX 78227",78227,29.4420025,-98.66790139999999
+https://locations.tacobell.com/tx/san-antonio/9300-wurzbach-rd.html,tx,san-antonio,9300-wurzbach-rd,031400,"9300 Wurzbach Rd, San Antonio, TX 78240",78240,29.5284824,-98.5643976
+https://locations.tacobell.com/tx/brownsville/925-east-fm-802.html,tx,brownsville,925-east-fm-802,004759,"925 East FM 802, Brownsville, TX 78520",78520,25.9495219,-97.5025008
+https://locations.tacobell.com/tx/san-antonio/923-bandera-rd-.html,tx,san-antonio,923-bandera-rd-,034339,"923 Bandera Rd., San Antonio, TX 78228",78228,29.457389,-98.5558437
+https://locations.tacobell.com/tx/bryan/920-south-texas-ave.html,tx,bryan,920-south-texas-ave,030126,"920 South Texas Ave, Bryan, TX 77803",77803,30.6637772,-96.3718539
+https://locations.tacobell.com/tx/fort-worth/9180-camp-bowie-w.html,tx,fort-worth,9180-camp-bowie-w,019011,"9180 Camp Bowie W, Fort Worth, TX 76116",76116,32.7247067,-97.4777001
+https://locations.tacobell.com/tx/el-paso/9159-dyer-street.html,tx,el-paso,9159-dyer-street,017450,"9159 Dyer Street, El Paso, TX 79924",79924,31.8701831,-106.427727
+https://locations.tacobell.com/tx/college-station/911-william-d-fitch-pkwy.html,tx,college-station,911-william-d-fitch-pkwy,030105,"911 William D Fitch Pkwy, College Station, TX 77845",77845,30.5563616,-96.2628681
+https://locations.tacobell.com/tx/el-paso/911-resler-drive.html,tx,el-paso,911-resler-drive,021473,"911 Resler Drive, El Paso, TX 79912",79912,31.8600017,-106.5576722
+https://locations.tacobell.com/tx/plainview/911-n-i-27.html,tx,plainview,911-n-i-27,021540,"911 N I-27, Plainview, TX 79072",79072,34.1894541,-101.7509186
+https://locations.tacobell.com/tx/el-paso/91-s-americas-avenue.html,tx,el-paso,91-s-americas-avenue,019215,"91 S Americas Avenue, El Paso, TX 79907",79907,31.6797971,-106.3125117
+https://locations.tacobell.com/tx/lampasas/908-south-key-ave.html,tx,lampasas,908-south-key-ave,030078,"908 South Key Ave, Lampasas, TX 76550",76550,31.0594583,-98.1810388
+https://locations.tacobell.com/tx/mount-pleasant/905-s-jefferson.html,tx,mount-pleasant,905-s-jefferson,004806,"905 S Jefferson, Mount Pleasant, TX 75455",75455,33.1482804,-94.9682529
+https://locations.tacobell.com/tx/fort-worth/900-west-weatherford-street.html,tx,fort-worth,900-west-weatherford-street,018719,"900 West Weatherford Street, Fort Worth, TX 76102",76102,32.7542445,-97.3393519
+https://locations.tacobell.com/tx/denison/900-s-austin-ave-.html,tx,denison,900-s-austin-ave-,034592,"900 S Austin Ave., Denison, TX 75020",75020,33.7470095,-96.5368547
+https://locations.tacobell.com/tx/cypress/8923-fry-road.html,tx,cypress,8923-fry-road,032599,"8923 Fry Road, Cypress, TX 77433",77433,29.9496084,-95.7042015
+https://locations.tacobell.com/tx/el-paso/8830-north-loop-dr-.html,tx,el-paso,8830-north-loop-dr-,041735,"8830 North Loop Dr., El Paso, TX 79907",79907,31.7058787,-106.3181847
+https://locations.tacobell.com/tx/mckinney/8658-highway-121.html,tx,mckinney,8658-highway-121,027875,"8658 Highway 121, McKinney, TX 75070",75070,33.1278713,-96.7279909
+https://locations.tacobell.com/tx/converse/8630-fm-78.html,tx,converse,8630-fm-78,033827,"8630 FM 78, Converse, TX 78109",78109,29.4989252,-98.3181461
+https://locations.tacobell.com/tx/plano/8613-ohio-drive.html,tx,plano,8613-ohio-drive,027872,"8613 Ohio Drive, Plano, TX 75024",75024,33.0958217,-96.7973446
+https://locations.tacobell.com/tx/lewisville/855-w-main-st.html,tx,lewisville,855-w-main-st,035436,"855 W Main St, Lewisville, TX 75067",75067,33.045044,-97.0140629
+https://locations.tacobell.com/tx/dallas/8407-s-lancaster-rd.html,tx,dallas,8407-s-lancaster-rd,027816,"8407 S Lancaster Rd, Dallas, TX 75241",75241,32.6454608,-96.7808765
+https://locations.tacobell.com/tx/north-richland-hills/8389-grapevine-hwy.html,tx,north-richland-hills,8389-grapevine-hwy,019278,"8389 Grapevine Hwy, North Richland Hills, TX 76180",76180,32.8412323,-97.2040939
+https://locations.tacobell.com/tx/bridge-city/835-texas-ave.html,tx,bridge-city,835-texas-ave,035740,"835 Texas Ave, Bridge City, TX 77611",77611,30.0325057,-93.8342171
+https://locations.tacobell.com/tx/granbury/835-east-highway-377.html,tx,granbury,835-east-highway-377,034584,"835 East Highway 377, Granbury, TX 76048",76048,32.4339501,-97.7786071
+https://locations.tacobell.com/tx/san-antonio/8288-marbach-rd.html,tx,san-antonio,8288-marbach-rd,031395,"8288 Marbach Rd, San Antonio, TX 78227",78227,29.4174547,-98.6537876
+https://locations.tacobell.com/tx/burleson/821-sw-wilshire-blvd-.html,tx,burleson,821-sw-wilshire-blvd-,035372,"821 SW Wilshire Blvd., Burleson, TX 76028",76028,32.530894,-97.3377725
+https://locations.tacobell.com/tx/colleyville/8170-precinct-line-road.html,tx,colleyville,8170-precinct-line-road,031623,"8170 Precinct Line Road, Colleyville, TX 76034",76034,32.9019658,-97.1854482
+https://locations.tacobell.com/tx/arlington/8110-matlock-rd.html,tx,arlington,8110-matlock-rd,026381,"8110 Matlock Rd, Arlington, TX 76002",76002,32.6142485,-97.1168926
+https://locations.tacobell.com/tx/corsicana/807-west-seventh.html,tx,corsicana,807-west-seventh,034581,"807 West Seventh, Corsicana, TX 75110",75110,32.0873451,-96.4713358
+https://locations.tacobell.com/tx/san-antonio/8040-pat-booker.html,tx,san-antonio,8040-pat-booker,031575,"8040 Pat Booker, San Antonio, TX 78233",78233,29.5612031,-98.33059349999999
+https://locations.tacobell.com/tx/irving/801-s-belt-line-rd-.html,tx,irving,801-s-belt-line-rd-,027812,"801 S Belt Line Rd., Irving, TX 75060",75060,32.8061908,-96.9948675
+https://locations.tacobell.com/tx/dallas/8001-forest-lane.html,tx,dallas,8001-forest-lane,Y351047,"8001 Forest Lane, Dallas, TX 75243",75243,32.9097855,-96.7676455
+https://locations.tacobell.com/tx/decatur/800-w-business-380.html,tx,decatur,800-w-business-380,018018,"800 W Business 380, Decatur, TX 76234",76234,33.2327605,-97.5943578
+https://locations.tacobell.com/tx/victoria/7902-north-navarro-st.html,tx,victoria,7902-north-navarro-st,016800,"7902 North Navarro St, Victoria, TX 77901",77901,28.8680897,-96.9975416
+https://locations.tacobell.com/tx/austin/7793-burnet-road.html,tx,austin,7793-burnet-road,030099,"7793 Burnet Road, Austin, TX 78757",78757,30.354469,-97.731368
+https://locations.tacobell.com/tx/hurst/756-w-pipeline-rd.html,tx,hurst,756-w-pipeline-rd,019277,"756 W Pipeline Rd, Hurst, TX 76053",76053,32.823984,-97.1855403
+https://locations.tacobell.com/tx/austin/7515-fm-620-n.html,tx,austin,7515-fm-620-n,030081,"7515 FM 620 N, Austin, TX 78726",78726,30.4077558,-97.8510165
+https://locations.tacobell.com/tx/forney/748-pinson-road.html,tx,forney,748-pinson-road,024767,"748 Pinson Road, Forney, TX 75126",75126,32.7567399,-96.4660408
+https://locations.tacobell.com/tx/tyler/7425-s--broadway.html,tx,tyler,7425-s--broadway,028285,"7425 S. Broadway, Tyler, TX 75703",75703,32.2683771,-95.3078189
+https://locations.tacobell.com/tx/el-paso/7410-remcon-cir.html,tx,el-paso,7410-remcon-cir,026718,"7410 Remcon Cir, El Paso, TX 79912",79912,31.8374575,-106.5615681
+https://locations.tacobell.com/tx/san-antonio/7323-n-loop-1604-w.html,tx,san-antonio,7323-n-loop-1604-w,031131,"7323 N Loop 1604 W, San Antonio, TX 78249",78249,29.587963,-98.6327417
+https://locations.tacobell.com/tx/college-station/731-university-dr.html,tx,college-station,731-university-dr,030159,"731 University Dr, College Station, TX 77840",77840,30.6217838,-96.3422376
+https://locations.tacobell.com/tx/lewisville/731-hebron-parkway.html,tx,lewisville,731-hebron-parkway,027873,"731 Hebron Parkway, Lewisville, TX 75057",75057,33.0107953,-96.968322
+https://locations.tacobell.com/tx/grand-prairie/728-e-main-st.html,tx,grand-prairie,728-e-main-st,035430,"728 E Main St, Grand Prairie, TX 75050",75050,32.7463957,-96.9949338
+https://locations.tacobell.com/tx/kerrville/725-sidney-baker.html,tx,kerrville,725-sidney-baker,031397,"725 Sidney Baker, Kerrville, TX 78028",78028,30.0511315,-99.1358744
+https://locations.tacobell.com/tx/san-antonio/722-seguin-street.html,tx,san-antonio,722-seguin-street,032567,"722 Seguin Street, San Antonio, TX 78208",78208,29.4381929,-98.4524755
+https://locations.tacobell.com/tx/fort-worth/7200-n--freeway.html,tx,fort-worth,7200-n--freeway,030998,"7200 N. Freeway, Fort Worth, TX 76137",76137,32.8712254,-97.3149378
+https://locations.tacobell.com/tx/dallas/7110-greenville-ave.html,tx,dallas,7110-greenville-ave,027874,"7110 Greenville Ave, Dallas, TX 75231",75231,32.8758101,-96.7615202
+https://locations.tacobell.com/tx/new-boston/705-n--mccoy-boulevard.html,tx,new-boston,705-n--mccoy-boulevard,G135401,"705 N. McCoy Boulevard, New Boston, TX 75570",75570,33.4722595,-94.4095744
+https://locations.tacobell.com/tx/princeton/705-east-princeton-drive.html,tx,princeton,705-east-princeton-drive,028778,"705 East Princeton Drive, Princeton, TX 75407",75407,33.1732322,-96.4913671
+https://locations.tacobell.com/tx/plano/7020-coit-road.html,tx,plano,7020-coit-road,029913,"7020 Coit Road, Plano, TX 75025",75025,33.0729822,-96.7716281
+https://locations.tacobell.com/tx/roanoke/702-east-highway-114.html,tx,roanoke,702-east-highway-114,019336,"702 East Highway 114, Roanoke, TX 76262",76262,32.9998169,-97.21624
+https://locations.tacobell.com/tx/san-antonio/7009-san-pedro-avenue.html,tx,san-antonio,7009-san-pedro-avenue,E003016,"7009 San Pedro Avenue, San Antonio, TX 78216",78216,29.5084478,-98.4997147
+https://locations.tacobell.com/tx/sanger/700-stemmons-road.html,tx,sanger,700-stemmons-road,029917,"700 Stemmons Road, Sanger, TX 76266",76266,33.3658469,-97.1787319
+https://locations.tacobell.com/tx/frisco/6929-s-preston-rd.html,tx,frisco,6929-s-preston-rd,019841,"6929 S Preston Rd, Frisco, TX 75034",75034,33.1218733,-96.8054407
+https://locations.tacobell.com/tx/temple/6820-w--adams-avenue.html,tx,temple,6820-w--adams-avenue,032072,"6820 W. Adams Avenue, Temple, TX 76502",76502,31.1176443,-97.4147747
+https://locations.tacobell.com/tx/san-antonio/6815-bandera-rd.html,tx,san-antonio,6815-bandera-rd,031396,"6815 Bandera Rd, San Antonio, TX 78238",78238,29.5118504,-98.6320466
+https://locations.tacobell.com/tx/denton/681-fort-worth-ave.html,tx,denton,681-fort-worth-ave,035447,"681 Fort Worth Ave, Denton, TX 76201",76201,33.1989153,-97.137434
+https://locations.tacobell.com/tx/san-antonio/3213-wurzbach-rd-.html,tx,san-antonio,3213-wurzbach-rd-,E003015,"3213 Wurzbach Rd., San Antonio, TX 78238",78238,29.4667053,-98.6232488
+https://locations.tacobell.com/tx/san-antonio/6635-fm-78.html,tx,san-antonio,6635-fm-78,E003009,"6635 FM 78, San Antonio, TX 78244",78244,29.4824345,-98.3578198
+https://locations.tacobell.com/tx/mcallen/6617-north-10th-street.html,tx,mcallen,6617-north-10th-street,030713,"6617 North 10th Street, McAllen, TX 78505",78505,26.2634616,-98.2203074
+https://locations.tacobell.com/tx/rowlett/6606-dalrock-rd-.html,tx,rowlett,6606-dalrock-rd-,024459,"6606 Dalrock Rd., Rowlett, TX 75089",75089,32.9196915,-96.5174184
+https://locations.tacobell.com/tx/greenville/6605-wesley-street.html,tx,greenville,6605-wesley-street,035344,"6605 Wesley Street, Greenville, TX 75401",75401,33.1025167,-96.1093349
+https://locations.tacobell.com/tx/chandler/656-hwy-31-east.html,tx,chandler,656-hwy-31-east,028283,"656 Hwy 31 East, Chandler, TX 75758",75758,32.3091642,-95.4722395
+https://locations.tacobell.com/tx/lubbock/6512-82nd-st.html,tx,lubbock,6512-82nd-st,024778,"6512 82nd St, Lubbock, TX 79424",79424,33.5202324,-101.9583816
+https://locations.tacobell.com/tx/austin/6511-s-i-h-35.html,tx,austin,6511-s-i-h-35,030146,"6511 S I H 35, Austin, TX 78744",78744,30.1908459,-97.7690268
+https://locations.tacobell.com/tx/beaumont/6365-phelan-blvd.html,tx,beaumont,6365-phelan-blvd,035748,"6365 Phelan Blvd, Beaumont, TX 77706",77706,30.0785638,-94.1684289
+https://locations.tacobell.com/tx/lake-worth/6331-lake-worth-blvd.html,tx,lake-worth,6331-lake-worth-blvd,017118,"6331 Lake Worth Blvd, Lake Worth, TX 76135",76135,32.8099582,-97.4224326
+https://locations.tacobell.com/tx/midlothian/631-e-main-st.html,tx,midlothian,631-e-main-st,020032,"631 E Main St, Midlothian, TX 76065",76065,32.4804068,-96.9868233
+https://locations.tacobell.com/tx/watauga/6261-rufe-snow-drive.html,tx,watauga,6261-rufe-snow-drive,002981,"6261 Rufe Snow Drive, Watauga, TX 76148",76148,32.8594974,-97.2385208
+https://locations.tacobell.com/tx/cleburne/621-w-henderson-st.html,tx,cleburne,621-w-henderson-st,035342,"621 W Henderson St, Cleburne, TX 76033",76033,32.3455139,-97.3943299
+https://locations.tacobell.com/tx/marshall/618-e-end-blvd-s.html,tx,marshall,618-e-end-blvd-s,003219,"618 E End Blvd S, Marshall, TX 75670",75670,32.5405621,-94.3492213
+https://locations.tacobell.com/tx/fort-worth/6162-meadowbrook-dr-.html,tx,fort-worth,6162-meadowbrook-dr-,002633,"6162 Meadowbrook Dr., Fort Worth, TX 76112",76112,32.7457392,-97.2232308
+https://locations.tacobell.com/tx/san-antonio/615-san-pedro-ave-.html,tx,san-antonio,615-san-pedro-ave-,033826,"615 San Pedro Ave., San Antonio, TX 78212",78212,29.4394195,-98.4988591
+https://locations.tacobell.com/tx/canyon/611-23rd-st.html,tx,canyon,611-23rd-st,032697,"611 23rd St, Canyon, TX 79015",79015,34.9769457,-101.9188247
+https://locations.tacobell.com/tx/beaumont/6105-eastex-freeway.html,tx,beaumont,6105-eastex-freeway,035745,"6105 Eastex Freeway, Beaumont, TX 77706",77706,30.1265428,-94.1578933
+https://locations.tacobell.com/tx/mckinney/6101-el-dorado-parkway.html,tx,mckinney,6101-el-dorado-parkway,031798,"6101 El Dorado Parkway, McKinney, TX 75070",75070,33.1735509,-96.69556449999999
+https://locations.tacobell.com/tx/el-paso/6055-montana-ave-.html,tx,el-paso,6055-montana-ave-,017879,"6055 Montana Ave., El Paso, TX 79925",79925,31.7853158,-106.4144776
+https://locations.tacobell.com/tx/fort-worth/6040-s-hulen-st.html,tx,fort-worth,6040-s-hulen-st,018603,"6040 S Hulen St, Fort Worth, TX 76132",76132,32.6600533,-97.4002805
+https://locations.tacobell.com/tx/flower-mound/6040-long-prairie-dr-.html,tx,flower-mound,6040-long-prairie-dr-,029915,"6040 Long Prairie Dr., Flower Mound, TX 75028",75028,33.0679378,-97.0810755
+https://locations.tacobell.com/tx/terrell/604-w-moore-st.html,tx,terrell,604-w-moore-st,002569,"604 W Moore St, Terrell, TX 75160",75160,32.738991,-96.3730719
+https://locations.tacobell.com/tx/waxahachie/602-n-highway-77.html,tx,waxahachie,602-n-highway-77,034582,"602 N Highway 77, Waxahachie, TX 75165",75165,32.368679,-96.854946
+https://locations.tacobell.com/tx/gainesville/601-medal-of-honor-blvd.html,tx,gainesville,601-medal-of-honor-blvd,019299,"601 Medal Of Honor Blvd, Gainesville, TX 76240",76240,33.6238032,-97.1504247
+https://locations.tacobell.com/tx/atlanta/601-highway-59-north.html,tx,atlanta,601-highway-59-north,030900,"601 Highway 59 North, Atlanta, TX 75551",75551,33.12625730000001,-94.17859519999999
+https://locations.tacobell.com/tx/el-paso/6000-north-mesa-st.html,tx,el-paso,6000-north-mesa-st,018735,"6000 North Mesa St, El Paso, TX 79912",79912,31.8299577,-106.529574
+https://locations.tacobell.com/tx/hutto/600-hwy-79.html,tx,hutto,600-hwy-79,030085,"600 Hwy 79, Hutto, TX 78634",78634,31.0226826,-96.49009120000001
+https://locations.tacobell.com/tx/tyler/5978-old-jacksonville-hwy.html,tx,tyler,5978-old-jacksonville-hwy,029975,"5978 Old Jacksonville Hwy, Tyler, TX 75703",75703,32.2818761,-95.332478
+https://locations.tacobell.com/tx/corpus-christi/5821-saratoga-blvd.html,tx,corpus-christi,5821-saratoga-blvd,027572,"5821 Saratoga Blvd, Corpus Christi, TX 78414",78414,27.6828719,-97.3797546
+https://locations.tacobell.com/tx/amarillo/5807-sw-45th-ave.html,tx,amarillo,5807-sw-45th-ave,035881,"5807 SW 45th Ave, Amarillo, TX 79109",79109,35.1596816,-101.9009467
+https://locations.tacobell.com/tx/buda/580-old-san-antonio-rd-.html,tx,buda,580-old-san-antonio-rd-,030086,"580 Old San Antonio Rd., Buda, TX 78610",78610,30.0854571,-97.8225456
+https://locations.tacobell.com/tx/arlington/5745-interstate-20-w.html,tx,arlington,5745-interstate-20-w,034596,"5745 Interstate 20 W, Arlington, TX 76017",76017,32.6756563,-97.1954214
+https://locations.tacobell.com/tx/lubbock/5713-fourth-street.html,tx,lubbock,5713-fourth-street,019718,"5713 Fourth Street, Lubbock, TX 79416",79416,33.5911365,-101.938902
+https://locations.tacobell.com/tx/garland/5709-broadway-blvd-.html,tx,garland,5709-broadway-blvd-,001636,"5709 Broadway Blvd., Garland, TX 75043",75043,32.8455841,-96.5959816
+https://locations.tacobell.com/tx/frisco/5656-eldorado-parkway.html,tx,frisco,5656-eldorado-parkway,031735,"5656 Eldorado Parkway, Frisco, TX 75033",75033,33.1755029,-96.8374292
+https://locations.tacobell.com/tx/austin/5604-cameron-rd.html,tx,austin,5604-cameron-rd,030153,"5604 Cameron Rd, Austin, TX 78723",78723,30.3141185,-97.7040285
+https://locations.tacobell.com/tx/dallas/5575-n-jim-miller-rd.html,tx,dallas,5575-n-jim-miller-rd,002879,"5575 N Jim Miller Rd, Dallas, TX 75228",75228,32.7926205,-96.7004267
+https://locations.tacobell.com/tx/corpus-christi/5530-everhart.html,tx,corpus-christi,5530-everhart,001360,"5530 Everhart, Corpus Christi, TX 78411",78411,27.7070825,-97.3887435
+https://locations.tacobell.com/tx/dallas/5506-e-mockingbird-ln-.html,tx,dallas,5506-e-mockingbird-ln-,001089,"5506 E Mockingbird Ln., Dallas, TX 75206",75206,32.8367003,-96.7735317
+https://locations.tacobell.com/tx/brownwood/547-w-commerce-st.html,tx,brownwood,547-w-commerce-st,036762,"547 W Commerce St, Brownwood, TX 76801",76801,31.729461,-98.985903
+https://locations.tacobell.com/tx/rowlett/5402-rowlett-road.html,tx,rowlett,5402-rowlett-road,035439,"5402 Rowlett Road, Rowlett, TX 75088",75088,32.9084723,-96.5689015
+https://locations.tacobell.com/tx/arlington/5401-s-cooper-st.html,tx,arlington,5401-s-cooper-st,035425,"5401 S Cooper St, Arlington, TX 76017",76017,32.6592748,-97.1339651
+https://locations.tacobell.com/tx/irving/5360-n-macarthur-blvd.html,tx,irving,5360-n-macarthur-blvd,017099,"5360 N MacArthur Blvd, Irving, TX 75038",75038,32.8829728,-96.9636267
+https://locations.tacobell.com/tx/frisco/5359-lebanon-rd.html,tx,frisco,5359-lebanon-rd,029390,"5359 Lebanon Rd, Frisco, TX 75034",75034,33.1153965,-96.8418622
+https://locations.tacobell.com/tx/fort-worth/5340-blue-mound-rd.html,tx,fort-worth,5340-blue-mound-rd,019334,"5340 Blue Mound Rd, Fort Worth, TX 76106",76106,32.835701,-97.3428542
+https://locations.tacobell.com/tx/garland/5322-n-garland-ave.html,tx,garland,5322-n-garland-ave,029521,"5322 N Garland Ave, Garland, TX 75040",75040,32.9619267,-96.6463872
+https://locations.tacobell.com/tx/san-antonio/5315-rigsby-avenue.html,tx,san-antonio,5315-rigsby-avenue,E003011,"5315 Rigsby Avenue, San Antonio, TX 78222",78222,29.398804,-98.3862544
+https://locations.tacobell.com/tx/river-oaks/5304-river-oaks-blvd.html,tx,river-oaks,5304-river-oaks-blvd,027826,"5304 River Oaks Blvd, River Oaks, TX 76114",76114,32.7728648,-97.4008501
+https://locations.tacobell.com/tx/el-paso/5300-dyer-st.html,tx,el-paso,5300-dyer-st,031641,"5300 Dyer St, El Paso, TX 79904",79904,31.825962,-106.444909
+https://locations.tacobell.com/tx/lancaster/526-north-interstate-35-east.html,tx,lancaster,526-north-interstate-35-east,034587,"526 North Interstate 35 East, Lancaster, TX 75146",75146,32.5949873,-96.8217166
+https://locations.tacobell.com/tx/houston/5211-34th-street.html,tx,houston,5211-34th-street,035737,"5211 34th Street, Houston, TX 77092",77092,29.8190702,-95.4665724
+https://locations.tacobell.com/tx/harker-heights/521-e--fm-2410.html,tx,harker-heights,521-e--fm-2410,030983,"521 E. FM 2410, Harker Heights, TX 76548",76548,31.0733225,-97.6726961
+https://locations.tacobell.com/tx/richardson/517-w-arapaho-rd-.html,tx,richardson,517-w-arapaho-rd-,027868,"517 W Arapaho Rd., Richardson, TX 75080",75080,32.961822,-96.7362909
+https://locations.tacobell.com/tx/uvalde/514-e-main.html,tx,uvalde,514-e-main,030151,"514 E Main, Uvalde, TX 78801",78801,29.2128346,-99.7778363
+https://locations.tacobell.com/tx/denton/5050-teasley-lane.html,tx,denton,5050-teasley-lane,030591,"5050 Teasley Lane Suite 100, Denton, TX 76210",76210,33.1442279,-97.1059018
+https://locations.tacobell.com/tx/allen/505-west-mcdermott-drive.html,tx,allen,505-west-mcdermott-drive,035443,"505 West McDermott Drive, Allen, TX 75002",75002,33.1017035,-96.6748555
+https://locations.tacobell.com/tx/dallas/505-w-illinois-ave.html,tx,dallas,505-w-illinois-ave,017107,"505 W Illinois Ave, Dallas, TX 75224",75224,32.7207335,-96.8306622
+https://locations.tacobell.com/tx/texarkana/5021-n--stateline-road.html,tx,texarkana,5021-n--stateline-road,003237,"5021 N. Stateline Road, Texarkana, TX 75503",75503,33.4661896,-94.0436837
+https://locations.tacobell.com/tx/austin/502-w-william-cannon-dr.html,tx,austin,502-w-william-cannon-dr,030114,"502 W William Cannon Dr, Austin, TX 78745",78745,30.1967413,-97.7858459
+https://locations.tacobell.com/tx/garland/502-s-garland-ave.html,tx,garland,502-s-garland-ave,035448,"502 S Garland Ave, Garland, TX 75040",75040,32.9087957,-96.6477348
+https://locations.tacobell.com/tx/bastrop/502-highway-71-w.html,tx,bastrop,502-highway-71-w,030149,"502 Highway 71 W, Bastrop, TX 78602",78602,30.10645199999999,-97.3352074
+https://locations.tacobell.com/tx/the-colony/5005-main-street.html,tx,the-colony,5005-main-street,035434,"5005 Main Street, The Colony, TX 75056",75056,33.0813793,-96.8933659
+https://locations.tacobell.com/tx/tyler/500-s-southwest-loop-323.html,tx,tyler,500-s-southwest-loop-323,028279,"500 S Southwest Loop 323, Tyler, TX 75701",75701,32.3448969,-95.3411163
+https://locations.tacobell.com/tx/waco/500-cleveland.html,tx,waco,500-cleveland,030127,"500 Cleveland, Waco, TX 76706",76706,31.5499947,-97.1251558
+https://locations.tacobell.com/tx/mckinney/4980-w-university-drive.html,tx,mckinney,4980-w-university-drive,030590,"4980 W University Drive, McKinney, TX 75071",75071,33.2180871,-96.6789791
+https://locations.tacobell.com/tx/austin/4811-braker-lane-west.html,tx,austin,4811-braker-lane-west,030141,"4811 Braker Lane West, Austin, TX 78759",78759,30.3770972,-97.6583436
+https://locations.tacobell.com/tx/jasper/475-east-gibson-street.html,tx,jasper,475-east-gibson-street,030652,"475 East Gibson Street, Jasper, TX 75951",75951,30.9114441,-93.9934038
+https://locations.tacobell.com/tx/fairfield/474-interstate-45-n.html,tx,fairfield,474-interstate-45-n,019832,"474 Interstate 45 N, Fairfield, TX 75840",75840,31.7275731,-96.1820548
+https://locations.tacobell.com/tx/midland/4727-n--midkiff-drive.html,tx,midland,4727-n--midkiff-drive,D212150,"4727 N. Midkiff Drive, Midland, TX 79705",79705,32.0366829,-102.1308693
+https://locations.tacobell.com/tx/dallas/4717-vista-wood-blvd-.html,tx,dallas,4717-vista-wood-blvd-,031795,"4717 Vista Wood Blvd., Dallas, TX 75232",75232,32.6872055,-96.8262829
+https://locations.tacobell.com/tx/san-antonio/4714-rittiman-rd.html,tx,san-antonio,4714-rittiman-rd,031576,"4714 Rittiman Rd, San Antonio, TX 78218",78218,29.4839854,-98.3990197
+https://locations.tacobell.com/tx/fort-worth/4650-n--tarrant-pkwy.html,tx,fort-worth,4650-n--tarrant-pkwy,027669,"4650 N. Tarrant Pkwy, Fort Worth, TX 76244",76244,32.8927987,-97.2874626
+https://locations.tacobell.com/tx/groves/4630-twin-city-hwy.html,tx,groves,4630-twin-city-hwy,035743,"4630 Twin City Hwy, Groves, TX 77619",77619,29.9378849,-93.9355746
+https://locations.tacobell.com/tx/dallas/4616-frankford-road.html,tx,dallas,4616-frankford-road,035438,"4616 Frankford Road, Dallas, TX 75287",75287,32.9973651,-96.8287934
+https://locations.tacobell.com/tx/wichita-falls/4600-bel-air-blvd.html,tx,wichita-falls,4600-bel-air-blvd,033277,"4600 Bel-Air Blvd, Wichita Falls, TX 76310",76310,33.8764462,-98.5613625
+https://locations.tacobell.com/tx/vidor/455-n-main-st.html,tx,vidor,455-n-main-st,035739,"455 N Main St, Vidor, TX 77662",77662,30.1287273,-94.0149883
+https://locations.tacobell.com/tx/el-paso/4515-woodrow-bean-dr-.html,tx,el-paso,4515-woodrow-bean-dr-,016447,"4515 Woodrow Bean Dr., El Paso, TX 79924",79924,31.8991174,-106.4398975
+https://locations.tacobell.com/tx/lacy-lakeview/4513-n-ih-35.html,tx,lacy-lakeview,4513-n-ih-35,030097,"4513 N IH 35, Lacy Lakeview, TX 76705",76705,31.6057511,-97.1071504
+https://locations.tacobell.com/tx/snyder/4508-college-ave.html,tx,snyder,4508-college-ave,032703,"4508 College Ave, Snyder, TX 79549",79549,32.6973098,-100.9190725
+https://locations.tacobell.com/tx/texarkana/4507-west-7th-street.html,tx,texarkana,4507-west-7th-street,018709,"4507 West 7th Street, Texarkana, TX 75501",75501,33.4178345,-94.0995216
+https://locations.tacobell.com/tx/haltom-city/4500-western-center-blvd.html,tx,haltom-city,4500-western-center-blvd,016830,"4500 Western Center Blvd, Haltom City, TX 76137",76137,32.8606434,-97.2894756
+https://locations.tacobell.com/tx/mesquite/4500-gus-thomasson-rd-.html,tx,mesquite,4500-gus-thomasson-rd-,018792,"4500 Gus Thomasson Rd., Mesquite, TX 75150",75150,32.8240745,-96.6463774
+https://locations.tacobell.com/tx/corinth/4471-fm-2181.html,tx,corinth,4471-fm-2181,019595,"4471 FM 2181, Corinth, TX 76210",76210,33.130438,-97.0426818
+https://locations.tacobell.com/tx/corpus-christi/4434-ayers-street.html,tx,corpus-christi,4434-ayers-street,019294,"4434 Ayers Street, Corpus Christi, TX 78415",78415,27.7458454,-97.4208266
+https://locations.tacobell.com/tx/arlington/4431-s--collins-st-.html,tx,arlington,4431-s--collins-st-,027823,"4431 S. Collins St., Arlington, TX 76018",76018,32.6737119,-97.0917941
+https://locations.tacobell.com/tx/killeen/4400-s--clear-creek-rd.html,tx,killeen,4400-s--clear-creek-rd,030103,"4400 S. Clear Creek Rd, Killeen, TX 76549",76549,31.0951628,-97.8059615
+https://locations.tacobell.com/tx/boerne/440-w-bandera-rd.html,tx,boerne,440-w-bandera-rd,031401,"440 W Bandera Rd, Boerne, TX 78006",78006,29.7811309,-98.7367433
+https://locations.tacobell.com/tx/abilene/4341-south-1st-street.html,tx,abilene,4341-south-1st-street,036763,"4341 South 1st Street, Abilene, TX 79605",79605,32.4513115,-99.780861
+https://locations.tacobell.com/tx/dallas/4341-lemmon-ave.html,tx,dallas,4341-lemmon-ave,030189,"4341 Lemmon Ave, Dallas, TX 75219",75219,32.8174032,-96.8117051
+https://locations.tacobell.com/tx/houston/4317-lockwood-drive.html,tx,houston,4317-lockwood-drive,D212016,"4317 Lockwood Drive, Houston, TX 77026",77026,29.7999774,-95.317419
+https://locations.tacobell.com/tx/laredo/4309-san-bernardo.html,tx,laredo,4309-san-bernardo,030148,"4309 San Bernardo, Laredo, TX 78041",78041,27.5387705,-99.5038225
+https://locations.tacobell.com/tx/round-rock/4301-sunrise-rd.html,tx,round-rock,4301-sunrise-rd,030107,"4301 Sunrise Rd, Round Rock, TX 78665",78665,30.560694,-97.6795011
+https://locations.tacobell.com/tx/fort-worth/4300-highway-360.html,tx,fort-worth,4300-highway-360,031300,"4300 Highway 360, Fort Worth, TX 76155",76155,32.8257856,-97.0603136
+https://locations.tacobell.com/tx/bridgeport/425-us-hwy-380.html,tx,bridgeport,425-us-hwy-380,034595,"425 US Hwy 380, Bridgeport, TX 76426",76426,33.2240102,-97.7644033
+https://locations.tacobell.com/tx/sherman/4214-n--highway-75.html,tx,sherman,4214-n--highway-75,027821,"4214 N. Highway 75, Sherman, TX 75090",75090,33.6834899,-96.6086967
+https://locations.tacobell.com/tx/mcallen/420-s--10th.html,tx,mcallen,420-s--10th,017895,"420 S. 10th, McAllen, TX 78501",78501,26.1994063,-98.2308311
+https://locations.tacobell.com/tx/killeen/419-east-rancier.html,tx,killeen,419-east-rancier,030079,"419 East Rancier, Killeen, TX 76541",76541,31.1254983,-97.723885
+https://locations.tacobell.com/tx/abilene/4165-s-danville-dr.html,tx,abilene,4165-s-danville-dr,036758,"4165 S Danville Dr, Abilene, TX 79605",79605,32.4029986,-99.7586852
+https://locations.tacobell.com/tx/dallas/4151-lbj-fwy.html,tx,dallas,4151-lbj-fwy,035437,"4151 LBJ Fwy, Dallas, TX 75244",75244,32.92545,-96.8167644
+https://locations.tacobell.com/tx/rio-grande-city/4147-east-highway-83.html,tx,rio-grande-city,4147-east-highway-83,030487,"4147 East Highway 83, Rio Grande City, TX 78582",78582,26.3676447,-98.7941524
+https://locations.tacobell.com/tx/san-antonio/414-sw-military-dr.html,tx,san-antonio,414-sw-military-dr,031406,"414 SW Military Dr, San Antonio, TX 78221",78221,29.3562724,-98.4978754
+https://locations.tacobell.com/tx/amarillo/4116-i-40-w.html,tx,amarillo,4116-i-40-w,032694,"4116 I-40 W, Amarillo, TX 79102",79102,35.2220811,-101.857587
+https://locations.tacobell.com/tx/vernon/4112-hillcrest-plaza.html,tx,vernon,4112-hillcrest-plaza,030687,"4112 Hillcrest Plaza, Vernon, TX 76384",76384,34.1617422,-99.3131903
+https://locations.tacobell.com/tx/red-oak/410-n-i35-service-rd.html,tx,red-oak,410-n-i35-service-rd,034585,"410 N I35 Service Rd, Red Oak, TX 75154",75154,32.5192116,-96.8220957
+https://locations.tacobell.com/tx/mexia/405-north-ross-ave.html,tx,mexia,405-north-ross-ave,030072,"405 North Ross Ave, Mexia, TX 76667",76667,31.6837793,-96.4739831
+https://locations.tacobell.com/tx/levelland/405-e--hwy-114.html,tx,levelland,405-e--hwy-114,022950,"405 E. Hwy 114, Levelland, TX 79336",79336,33.5943872,-102.3614955
+https://locations.tacobell.com/tx/gilmer/404-north-wood.html,tx,gilmer,404-north-wood,018402,"404 North Wood, Gilmer, TX 75644",75644,32.7319252,-94.942541
+https://locations.tacobell.com/tx/killeen/404-n-fort-hood-st.html,tx,killeen,404-n-fort-hood-st,030089,"404 N Fort Hood St, Killeen, TX 76541",76541,31.1246991,-97.7413469
+https://locations.tacobell.com/tx/mckinney/404-n-central-expressway.html,tx,mckinney,404-n-central-expressway,035433,"404 N Central Expressway, McKinney, TX 75070",75070,33.2013515,-96.6378689
+https://locations.tacobell.com/tx/harlingen/402-dixieland-rd.html,tx,harlingen,402-dixieland-rd,004143,"402 Dixieland Rd, Harlingen, TX 78552",78552,26.1871289,-97.7217517
+https://locations.tacobell.com/tx/lubbock/402-ave-q.html,tx,lubbock,402-ave-q,002427,"402 Ave Q, Lubbock, TX 79401",79401,33.591987,-101.8556729
+https://locations.tacobell.com/tx/san-marcos/4007-ih-35-s.html,tx,san-marcos,4007-ih-35-s,030156,"4007 IH 35 S, San Marcos, TX 78666",78666,29.8263043,-97.9861518
+https://locations.tacobell.com/tx/beaumont/3950-walden-rd.html,tx,beaumont,3950-walden-rd,035750,"3950 Walden Rd, Beaumont, TX 77705",77705,30.0397183,-94.1578111
+https://locations.tacobell.com/tx/cedar-hill/395-n-hwy-67.html,tx,cedar-hill,395-n-hwy-67,035426,"395 N Hwy 67, Cedar Hill, TX 75104",75104,32.59631,-96.9415098
+https://locations.tacobell.com/tx/paris/3922-lamar-ave-.html,tx,paris,3922-lamar-ave-,026080,"3922 Lamar Ave., Paris, TX 75462",75462,33.6614135,-95.5042387
+https://locations.tacobell.com/tx/grand-prairie/3890-s-great-southwest-pkwy.html,tx,grand-prairie,3890-s-great-southwest-pkwy,017182,"3890 S Great Southwest Pkwy, Grand Prairie, TX 75052",75052,32.6792466,-97.044683
+https://locations.tacobell.com/tx/tyler/3825-troup-highway.html,tx,tyler,3825-troup-highway,028278,"3825 Troup Highway, Tyler, TX 75703",75703,32.3073879,-95.272352
+https://locations.tacobell.com/tx/texarkana/3820-st--michael-drive.html,tx,texarkana,3820-st--michael-drive,018696,"3820 St. Michael Drive, Texarkana, TX 75503",75503,33.4570425,-94.0889542
+https://locations.tacobell.com/tx/grand-prairie/381-w-highway-303.html,tx,grand-prairie,381-w-highway-303,035424,"381 W Highway 303, Grand Prairie, TX 75051",75051,32.6845021,-97.0453703
+https://locations.tacobell.com/tx/tyler/3808-s-broadway-ave.html,tx,tyler,3808-s-broadway-ave,028280,"3808 S Broadway Ave, Tyler, TX 75701",75701,32.3084088,-95.3002044
+https://locations.tacobell.com/tx/odessa/3807-e-42nd-st.html,tx,odessa,3807-e-42nd-st,042288,"3807 E 42nd St, Odessa, TX 79762",79762,31.8908462,-102.3488483
+https://locations.tacobell.com/tx/fort-worth/3801-valentine-st.html,tx,fort-worth,3801-valentine-st,028773,"3801 Valentine St, Fort Worth, TX 76107",76107,32.7319312,-97.3724704
+https://locations.tacobell.com/tx/allen/380-e-stacy-rd.html,tx,allen,380-e-stacy-rd,029889,"380 E Stacy Rd, Allen, TX 75002",75002,33.1295498,-96.6450616
+https://locations.tacobell.com/tx/beaumont/3725-college-street.html,tx,beaumont,3725-college-street,035749,"3725 College Street, Beaumont, TX 77701",77701,30.0678798,-94.1315245
+https://locations.tacobell.com/tx/dallas/3636-forest-lane.html,tx,dallas,3636-forest-lane,029890,"3636 Forest Lane, Dallas, TX 75229",75229,32.9091278,-96.8564942
+https://locations.tacobell.com/tx/longview/3603-estes-parkway.html,tx,longview,3603-estes-parkway,020601,"3603 Estes Parkway, Longview, TX 75602",75602,32.4437864,-94.7197724
+https://locations.tacobell.com/tx/el-paso/3570-zaragoza.html,tx,el-paso,3570-zaragoza,031738,"3570 Zaragoza, El Paso, TX 79938",79938,31.7951206,-106.2320317
+https://locations.tacobell.com/tx/the-colony/3561-plano-parkway.html,tx,the-colony,3561-plano-parkway,035450,"3561 Plano Parkway, The Colony, TX 75056",75056,33.0686014,-96.8670683
+https://locations.tacobell.com/tx/austin/3501-wells-branch-pkwy.html,tx,austin,3501-wells-branch-pkwy,030139,"3501 Wells Branch Pkwy, Austin, TX 78728",78728,30.4393551,-97.6971333
+https://locations.tacobell.com/tx/bryan/3501-east-29th-street.html,tx,bryan,3501-east-29th-street,030165,"3501 East 29th Street, Bryan, TX 77802",77802,30.6522201,-96.3351353
+https://locations.tacobell.com/tx/dallas/3470-illinois-ave-.html,tx,dallas,3470-illinois-ave-,027818,"3470 Illinois Ave., Dallas, TX 75211",75211,32.7199877,-96.8785061
+https://locations.tacobell.com/tx/san-angelo/3444-sherwood-way.html,tx,san-angelo,3444-sherwood-way,032741,"3444 Sherwood Way, San Angelo, TX 76901",76901,31.4438365,-100.483148
+https://locations.tacobell.com/tx/austin/3421-w-william-cannon-dr.html,tx,austin,3421-w-william-cannon-dr,030144,"3421 W William Cannon Dr, Austin, TX 78745",78745,30.212515,-97.830476
+https://locations.tacobell.com/tx/denison/3420-w--fm-120.html,tx,denison,3420-w--fm-120,034594,"3420 W. FM 120, Denison, TX 75020",75020,33.7609884,-96.5876863
+https://locations.tacobell.com/tx/carrollton/3420-e-hebron-parkway.html,tx,carrollton,3420-e-hebron-parkway,027878,"3420 E Hebron Parkway, Carrollton, TX 75010",75010,33.0256072,-96.8442279
+https://locations.tacobell.com/tx/lindale/3401-south-main-street.html,tx,lindale,3401-south-main-street,028282,"3401 South Main Street, Lindale, TX 75771",75771,32.4707429,-95.3895017
+https://locations.tacobell.com/tx/kenedy/340-n-sunset-strip-st.html,tx,kenedy,340-n-sunset-strip-st,035073,"340 N Sunset Strip St, Kenedy, TX 78119",78119,28.8239612,-97.85913
+https://locations.tacobell.com/tx/bedford/3351-harwood-road.html,tx,bedford,3351-harwood-road,030468,"3351 Harwood Road, Bedford, TX 76021",76021,32.8523518,-97.1122143
+https://locations.tacobell.com/tx/austin/3324-slaughter-lane.html,tx,austin,3324-slaughter-lane,030080,"3324 Slaughter Lane, Austin, TX 78748",78748,30.1825252,-97.8466494
+https://locations.tacobell.com/tx/forest-hill/3324-se-loop-820.html,tx,forest-hill,3324-se-loop-820,023093,"3324 SE Loop 820, Forest Hill, TX 76140",76140,32.6609921,-97.2720355
+https://locations.tacobell.com/tx/irving/3321-n-belt-line-rd-.html,tx,irving,3321-n-belt-line-rd-,021196,"3321 N Belt Line Rd., Irving, TX 75062",75062,32.8506593,-96.9928585
+https://locations.tacobell.com/tx/amarillo/3309-washington-st.html,tx,amarillo,3309-washington-st,032693,"3309 Washington St, Amarillo, TX 79109",79109,35.178744,-101.8482575
+https://locations.tacobell.com/tx/duncanville/323-s-cedar-ridge-drive.html,tx,duncanville,323-s-cedar-ridge-drive,027810,"323 S Cedar Ridge Drive, Duncanville, TX 75116",75116,32.6488411,-96.9260171
+https://locations.tacobell.com/tx/dallas/3223-fort-worth-ave.html,tx,dallas,3223-fort-worth-ave,027811,"3223 Fort Worth Ave, Dallas, TX 75211",75211,32.7544876,-96.8731659
+https://locations.tacobell.com/tx/corpus-christi/3221-s-staples-st.html,tx,corpus-christi,3221-s-staples-st,018748,"3221 S Staples St, Corpus Christi, TX 78411",78411,27.7525173,-97.3970983
+https://locations.tacobell.com/tx/mckinney/320-n--custer-rd-.html,tx,mckinney,320-n--custer-rd-,035445,"320 N. Custer Rd., McKinney, TX 75070",75070,33.2059209,-96.7328126
+https://locations.tacobell.com/tx/san-antonio/319-valley-hi-drive.html,tx,san-antonio,319-valley-hi-drive,032069,"319 Valley HI Drive, San Antonio, TX 78227",78227,29.381216,-98.6399807
+https://locations.tacobell.com/tx/garland/3178-lavon-dr-.html,tx,garland,3178-lavon-dr-,035446,"3178 Lavon Dr., Garland, TX 75040",75040,32.9457573,-96.6202565
+https://locations.tacobell.com/tx/fort-worth/3150-sycamore-school-rd-.html,tx,fort-worth,3150-sycamore-school-rd-,023472,"3150 Sycamore School Rd., Fort Worth, TX 76133",76133,32.6353154,-97.3665722
+https://locations.tacobell.com/tx/dallas/3127-inwood-rd.html,tx,dallas,3127-inwood-rd,001331,"3127 Inwood Rd, Dallas, TX 75235",75235,32.826538,-96.830526
+https://locations.tacobell.com/tx/college-station/310-n-harvey-road.html,tx,college-station,310-n-harvey-road,030118,"310 N Harvey Road, College Station, TX 77840",77840,30.6184366,-96.3150635
+https://locations.tacobell.com/tx/llano/309-west-young-ave.html,tx,llano,309-west-young-ave,030167,"309 West Young Ave, Llano, TX 78643",78643,30.76,-98.67909080000001
+https://locations.tacobell.com/tx/hondo/303-us-highway-90-e.html,tx,hondo,303-us-highway-90-e,035075,"303 US Highway 90 E, Hondo, TX 78861",78861,29.3482033,-99.1215377
+https://locations.tacobell.com/tx/dalhart/303-hwy-87.html,tx,dalhart,303-hwy-87,032704,"303 Hwy 87, Dalhart, TX 79022",79022,36.0594772,-102.5132497
+https://locations.tacobell.com/tx/jacksonville/302-s-jackson-street.html,tx,jacksonville,302-s-jackson-street,019653,"302 S Jackson Street, Jacksonville, TX 75766",75766,31.9633932,-95.2698407
+https://locations.tacobell.com/tx/san-antonio/3006-sw-military-dr.html,tx,san-antonio,3006-sw-military-dr,031398,"3006 SW Military Dr, San Antonio, TX 78224",78224,29.3566819,-98.5466892
+https://locations.tacobell.com/tx/dallas/3001-n--hampton-rd-.html,tx,dallas,3001-n--hampton-rd-,Y351070,"3001 N. Hampton Rd., Dallas, TX 75212",75212,32.779033,-96.8569648
+https://locations.tacobell.com/tx/hillsboro/300-i-35-hwy-ne.html,tx,hillsboro,300-i-35-hwy-ne,016048,"300 I 35 Hwy NE, Hillsboro, TX 76645",76645,32.0074967,-97.0968886
+https://locations.tacobell.com/tx/henderson/300-highway-79-south.html,tx,henderson,300-highway-79-south,020317,"300 Highway 79 South, Henderson, TX 75654",75654,32.1527321,-94.78386479999999
+https://locations.tacobell.com/tx/amarillo/300-e-amarillo-blvd.html,tx,amarillo,300-e-amarillo-blvd,032696,"300 E Amarillo Blvd, Amarillo, TX 79107",79107,35.2215358,-101.831249
+https://locations.tacobell.com/tx/dallas/2972-west-wheatland-road.html,tx,dallas,2972-west-wheatland-road,027814,"2972 West Wheatland Road, Dallas, TX 75237",75237,32.6471722,-96.8688222
+https://locations.tacobell.com/tx/georgetown/2941-williams-drive.html,tx,georgetown,2941-williams-drive,030102,"2941 Williams Drive, Georgetown, TX 78626",78626,30.6622816,-97.6906938
+https://locations.tacobell.com/tx/corsicana/2937-south-highway-287.html,tx,corsicana,2937-south-highway-287,034589,"2937 South Highway 287, Corsicana, TX 75109",75109,32.0729263,-96.4437315
+https://locations.tacobell.com/tx/hudson-oaks/2930-ft--worth-highway.html,tx,hudson-oaks,2930-ft--worth-highway,034590,"2930 Ft. Worth Highway, Hudson Oaks, TX 76087",76087,32.756449,-97.7134405
+https://locations.tacobell.com/tx/mckinney/2920-w--eldorado-parkway.html,tx,mckinney,2920-w--eldorado-parkway,Y351063,"2920 W. Eldorado Parkway, McKinney, TX 75070",75070,33.1682746,-96.66264749999999
+https://locations.tacobell.com/tx/san-antonio/2907-thousand-oaks-drive.html,tx,san-antonio,2907-thousand-oaks-drive,E003013,"2907 Thousand Oaks Drive, San Antonio, TX 78247",78247,29.5781245,-98.4415377
+https://locations.tacobell.com/tx/orange/2901-16th-street.html,tx,orange,2901-16th-street,035746,"2901 16th Street, Orange, TX 77630",77630,30.1164404,-93.7473677
+https://locations.tacobell.com/tx/spring/28785-birnham-woods-dr-.html,tx,spring,28785-birnham-woods-dr-,035736,"28785 Birnham Woods Dr., Spring, TX 77386",28785,30.11647829999999,-95.3835488
+https://locations.tacobell.com/tx/fort-worth/2824-n--main-st-.html,tx,fort-worth,2824-n--main-st-,027824,"2824 N. Main St., Fort Worth, TX 76106",76106,32.7968592,-97.3491582
+https://locations.tacobell.com/tx/nederland/2816-hwy-365.html,tx,nederland,2816-hwy-365,035741,"2816 Hwy 365, Nederland, TX 77627",77627,29.9537791,-93.9876343
+https://locations.tacobell.com/tx/rockwall/2815-ridge-road.html,tx,rockwall,2815-ridge-road,018722,"2815 Ridge Road, Rockwall, TX 75032",75032,32.8950695,-96.4703344
+https://locations.tacobell.com/tx/grand-prairie/2815-ne-green-oaks-blvd-.html,tx,grand-prairie,2815-ne-green-oaks-blvd-,017323,"2815 NE Green Oaks Blvd., Grand Prairie, TX 75050",75050,32.7850977,-97.0609623
+https://locations.tacobell.com/tx/wichita-falls/2810-central-freeway.html,tx,wichita-falls,2810-central-freeway,J417006,"2810 Central Freeway, Wichita Falls, TX 76306",76306,33.9520037,-98.5273394
+https://locations.tacobell.com/tx/haltom-city/2808-denton-highway.html,tx,haltom-city,2808-denton-highway,017376,"2808 Denton Highway, Haltom City, TX 76117",76117,32.802494,-97.264499
+https://locations.tacobell.com/tx/madisonville/2806-e-main-st.html,tx,madisonville,2806-e-main-st,034344,"2806 E Main St, Madisonville, TX 77864",77864,30.9641008,-95.8855659
+https://locations.tacobell.com/tx/wichita-falls/2803-sw-parkway.html,tx,wichita-falls,2803-sw-parkway,033276,"2803 SW Parkway, Wichita Falls, TX 76308",76308,33.8573635,-98.5366861
+https://locations.tacobell.com/tx/dallas/2802-e--ledbetter-dr-.html,tx,dallas,2802-e--ledbetter-dr-,G135476,"2802 E. Ledbetter Dr., Dallas, TX 75216",75216,32.6931345,-96.7741429
+https://locations.tacobell.com/tx/stephenville/2769-w-washington-blvd.html,tx,stephenville,2769-w-washington-blvd,035343,"2769 W Washington Blvd, Stephenville, TX 76401",76401,32.2046496,-98.2379826
+https://locations.tacobell.com/tx/tyler/2760-e-5th-st-.html,tx,tyler,2760-e-5th-st-,028284,"2760 E 5th St., Tyler, TX 75701",75701,32.3313729,-95.2916541
+https://locations.tacobell.com/tx/flower-mound/2708-flower-mound-road.html,tx,flower-mound,2708-flower-mound-road,035442,"2708 Flower Mound Road, Flower Mound, TX 75028",75028,33.0146155,-97.0727733
+https://locations.tacobell.com/tx/childress/2707-f-nw.html,tx,childress,2707-f-nw,030304,"2707 F NW, Childress, TX 79201",79201,34.4366729,-100.2321167
+https://locations.tacobell.com/tx/tyler/2611-gentry-parkway.html,tx,tyler,2611-gentry-parkway,028277,"2611 Gentry Parkway, Tyler, TX 75702",75702,32.3753869,-95.284988
+https://locations.tacobell.com/tx/anna/2605-west-white-street.html,tx,anna,2605-west-white-street,K071002,"2605 West White Street, Anna, TX 75409",75409,33.3451372,-96.5822974
+https://locations.tacobell.com/tx/austin/2600-west-braker-lane.html,tx,austin,2600-west-braker-lane,030168,"2600 West Braker Lane, Austin, TX 78758",78758,30.3912465,-97.7201549
+https://locations.tacobell.com/tx/belton/2600-n--main.html,tx,belton,2600-n--main,030091,"2600 N. Main, Belton, TX 76513",76513,31.080869,-97.4581186
+https://locations.tacobell.com/tx/little-elm/2589-fm-423.html,tx,little-elm,2589-fm-423,023184,"2589 FM 423, Little Elm, TX 75068",75068,33.177363,-96.8868159
+https://locations.tacobell.com/tx/longview/2553-judson-road.html,tx,longview,2553-judson-road,020701,"2553 Judson Road, Longview, TX 75605",75605,32.5403799,-94.7465245
+https://locations.tacobell.com/tx/wichita-falls/2512-kemp-blvd.html,tx,wichita-falls,2512-kemp-blvd,033271,"2512 Kemp Blvd, Wichita Falls, TX 76309",76309,33.8873119,-98.5282682
+https://locations.tacobell.com/tx/san-antonio/2501-babcock-rd.html,tx,san-antonio,2501-babcock-rd,031399,"2501 Babcock Rd, San Antonio, TX 78229",78229,29.5067375,-98.5862664
+https://locations.tacobell.com/tx/new-braunfels/249-loop-337.html,tx,new-braunfels,249-loop-337,030135,"249 Loop 337, New Braunfels, TX 78130",78130,29.7044734,-98.0970578
+https://locations.tacobell.com/tx/laredo/2455-monarch.html,tx,laredo,2455-monarch,030878,"2455 Monarch Ste-105, Laredo, TX 78045",78045,27.6113947,-99.4696986
+https://locations.tacobell.com/tx/lubbock/2408-82nd-street.html,tx,lubbock,2408-82nd-street,019443,"2408 82nd Street, Lubbock, TX 79423",79423,33.5203109,-101.8699039
+https://locations.tacobell.com/tx/dallas/2404-north-washington-avenue.html,tx,dallas,2404-north-washington-avenue,016224,"2404 North Washington Avenue, Dallas, TX 75204",75204,32.8022835,-96.7905275
+https://locations.tacobell.com/tx/big-spring/2403-s-gregg-st.html,tx,big-spring,2403-s-gregg-st,042289,"2403 S Gregg St, Big Spring, TX 79720",79720,32.2315801,-101.4710608
+https://locations.tacobell.com/tx/lumberton/239-s--main-st-.html,tx,lumberton,239-s--main-st-,035742,"239 S. Main St., Lumberton, TX 77657",77657,30.2526535,-94.1971051
+https://locations.tacobell.com/tx/arlington/2364-east-pioneer-parkway.html,tx,arlington,2364-east-pioneer-parkway,035427,"2364 East Pioneer Parkway, Arlington, TX 76010",76010,32.712105,-97.0704113
+https://locations.tacobell.com/tx/gatesville/2318-s-hwy-36.html,tx,gatesville,2318-s-hwy-36,030161,"2318 S Hwy 36, Gatesville, TX 76528",76528,31.4240019,-97.7158979
+https://locations.tacobell.com/tx/austin/2308-e-riverside-dr.html,tx,austin,2308-e-riverside-dr,030074,"2308 E Riverside Dr, Austin, TX 78741",78741,30.2397207,-97.7264345
+https://locations.tacobell.com/tx/laredo/2306-e-saunders.html,tx,laredo,2306-e-saunders,030147,"2306 E Saunders, Laredo, TX 78041",78041,27.5304571,-99.4733171
+https://locations.tacobell.com/tx/dallas/2245-w-northwest-hwy.html,tx,dallas,2245-w-northwest-hwy,027813,"2245 W Northwest Hwy, Dallas, TX 75220",75220,32.8636941,-96.8979631
+https://locations.tacobell.com/tx/giddings/2222-e-austin-st.html,tx,giddings,2222-e-austin-st,030160,"2222 E Austin St, Giddings, TX 78942",78942,30.1790002,-96.9157488
+https://locations.tacobell.com/tx/lufkin/2214-south-first.html,tx,lufkin,2214-south-first,020018,"2214 South First, Lufkin, TX 75904",75904,31.2987161,-94.7285834
+https://locations.tacobell.com/tx/mineral-wells/2203-e-hubbard-st-.html,tx,mineral-wells,2203-e-hubbard-st-,036005,"2203 E Hubbard St., Mineral Wells, TX 76067",76067,32.8095459,-98.0953182
+https://locations.tacobell.com/tx/la-grange/2201-west-highway-71.html,tx,la-grange,2201-west-highway-71,031446,"2201 West Highway 71, La Grange, TX 78945",78945,29.9221868,-96.8816654
+https://locations.tacobell.com/tx/abilene/2201-pine-street.html,tx,abilene,2201-pine-street,036761,"2201 Pine Street, Abilene, TX 79601",79601,32.474713,-99.731022
+https://locations.tacobell.com/tx/corpus-christi/2201-morgan-avenue.html,tx,corpus-christi,2201-morgan-avenue,030485,"2201 Morgan Avenue, Corpus Christi, TX 78405",78405,27.7778114,-97.4134848
+https://locations.tacobell.com/tx/arlington/215-south-watson-road.html,tx,arlington,215-south-watson-road,035429,"215 South Watson Road, Arlington, TX 76010",76010,32.7345378,-97.0631637
+https://locations.tacobell.com/tx/allen/215-s-custer-rd-.html,tx,allen,215-s-custer-rd-,027871,"215 S Custer Rd., Allen, TX 75013",75013,33.0991692,-96.7328734
+https://locations.tacobell.com/tx/universal-city/213-pat-booker-rd.html,tx,universal-city,213-pat-booker-rd,E003003,"213 Pat Booker Rd, Universal City, TX 78148",78148,29.545206,-98.2891403
+https://locations.tacobell.com/tx/eagle-pass/2127-e-garrison-st.html,tx,eagle-pass,2127-e-garrison-st,032726,"2127 E Garrison St, Eagle Pass, TX 78852",78852,28.7060566,-100.4844144
+https://locations.tacobell.com/tx/denton/2124-sadau-ct-.html,tx,denton,2124-sadau-ct-,035440,"2124 Sadau Ct., Denton, TX 76205",76205,33.1887943,-97.1035382
+https://locations.tacobell.com/tx/mesquite/2114-n-galloway-ave-.html,tx,mesquite,2114-n-galloway-ave-,002582,"2114 N Galloway Ave., Mesquite, TX 75150",75150,32.7945485,-96.6114532
+https://locations.tacobell.com/tx/san-antonio/21118-n--us-hwy-281.html,tx,san-antonio,21118-n--us-hwy-281,033829,"21118 N. US Hwy 281, San Antonio, TX 78259",21118,29.6404257,-98.4534287
+https://locations.tacobell.com/tx/san-antonio/2110-goliad-rd.html,tx,san-antonio,2110-goliad-rd,E003012,"2110 Goliad Rd, San Antonio, TX 78223",78223,29.3646142,-98.4397991
+https://locations.tacobell.com/tx/palestine/2104-crockett.html,tx,palestine,2104-crockett,004041,"2104 Crockett, Palestine, TX 75801",75801,31.7363006,-95.6077734
+https://locations.tacobell.com/tx/el-paso/2103-n--mesa-st-.html,tx,el-paso,2103-n--mesa-st-,000328,"2103 N. Mesa St., El Paso, TX 79902",79902,31.772611,-106.499785
+https://locations.tacobell.com/tx/athens/208-e-corsicana.html,tx,athens,208-e-corsicana,004787,"208 E Corsicana, Athens, TX 75751",75751,32.2040215,-95.8534704
+https://locations.tacobell.com/tx/borger/207-south-cedar.html,tx,borger,207-south-cedar,032699,"207 South Cedar, Borger, TX 79007",79007,35.6645055,-101.3976634
+https://locations.tacobell.com/tx/pleasanton/2052-w-oaklawn-rd-.html,tx,pleasanton,2052-w-oaklawn-rd-,035072,"2052 W Oaklawn Rd., Pleasanton, TX 78064",78064,28.9424463,-98.5097878
+https://locations.tacobell.com/tx/sweetwater/206-se-georgia-avenue.html,tx,sweetwater,206-se-georgia-avenue,036759,"206 SE Georgia Avenue, Sweetwater, TX 79556",79556,32.4496778,-100.3967814
+https://locations.tacobell.com/tx/kyle/20347-ih-35.html,tx,kyle,20347-ih-35,030879,"20347 Ih-35, Kyle, TX 78640",20347,29.9852335,-97.8723935
+https://locations.tacobell.com/tx/bonham/203-west-sam-rayburn-drive.html,tx,bonham,203-west-sam-rayburn-drive,019330,"203 West Sam Rayburn Drive, Bonham, TX 75418",75418,33.5768254,-96.1803063
+https://locations.tacobell.com/tx/amarillo/2010-ross-osage.html,tx,amarillo,2010-ross-osage,035880,"2010 Ross Osage, Amarillo, TX 79103",79103,35.1914827,-101.8176532
+https://locations.tacobell.com/tx/round-rock/2010-east-palm-valley-blvd.html,tx,round-rock,2010-east-palm-valley-blvd,030087,"2010 East Palm Valley Blvd, Round Rock, TX 78664",78664,30.51878799999999,-97.6540268
+https://locations.tacobell.com/tx/mesquite/201-w-cartwright-rd.html,tx,mesquite,201-w-cartwright-rd,027489,"201 W Cartwright Rd, Mesquite, TX 75149",75149,32.7472692,-96.5986126
+https://locations.tacobell.com/tx/austin/201-e--oltorf.html,tx,austin,201-e--oltorf,030140,"201 E. Oltorf, Austin, TX 78704",78704,30.2377813,-97.7524982
+https://locations.tacobell.com/tx/taylor/2009-north-main-street.html,tx,taylor,2009-north-main-street,030154,"2009 North Main Street, Taylor, TX 76574",76574,30.5868277,-97.4121076
+https://locations.tacobell.com/tx/cleburne/2008-n--main-st-.html,tx,cleburne,2008-n--main-st-,035345,"2008 N. Main St., Cleburne, TX 76033",76033,32.377923,-97.3930685
+https://locations.tacobell.com/tx/amarillo/2000-coulter.html,tx,amarillo,2000-coulter,032695,"2000 Coulter, Amarillo, TX 79106",79106,35.1900263,-101.9204541
+https://locations.tacobell.com/tx/canton/1999-north-trades-day-blvd-.html,tx,canton,1999-north-trades-day-blvd-,030985,"1999 North Trades Day Blvd., Canton, TX 75103",75103,32.562707,-95.8658885
+https://locations.tacobell.com/tx/lytle/19563ih-35-s.html,tx,lytle,19563ih-35-s,034340,"19563ih 35 S, Lytle, TX 78052",19563,29.2244669,-98.7921827
+https://locations.tacobell.com/tx/dallas/1955-south-buckner-rd.html,tx,dallas,1955-south-buckner-rd,020488,"1955 South Buckner Rd, Dallas, TX 75217",75217,32.7459574,-96.6833079
+https://locations.tacobell.com/tx/austin/1925-airport-blvd.html,tx,austin,1925-airport-blvd,030129,"1925 Airport Blvd, Austin, TX 78722",78722,30.2847403,-97.7052651
+https://locations.tacobell.com/tx/fort-worth/1913-w-berry-st.html,tx,fort-worth,1913-w-berry-st,029189,"1913 W Berry St, Fort Worth, TX 76110",76110,32.7059578,-97.3472563
+https://locations.tacobell.com/tx/carrollton/1907-e--beltline-rd-.html,tx,carrollton,1907-e--beltline-rd-,027822,"1907 E. Beltline Rd., Carrollton, TX 75006",75006,32.9540936,-96.88897809999999
+https://locations.tacobell.com/tx/longview/1901-nw-loop.html,tx,longview,1901-nw-loop,026034,"1901 NW Loop, Longview, TX 75604",75604,32.5231738,-94.785313
+https://locations.tacobell.com/tx/san-angelo/1901-n-bryant.html,tx,san-angelo,1901-n-bryant,032722,"1901 N Bryant, San Angelo, TX 76903",76903,31.4769733,-100.4542744
+https://locations.tacobell.com/tx/el-paso/1895-n-zaragosa.html,tx,el-paso,1895-n-zaragosa,027381,"1895 N Zaragosa, El Paso, TX 79936",79936,31.7598464,-106.2708093
+https://locations.tacobell.com/tx/new-braunfels/1838-state-hwy-46.html,tx,new-braunfels,1838-state-hwy-46,030104,"1838 State Hwy 46, New Braunfels, TX 78132",78132,29.7198054,-98.16380389999999
+https://locations.tacobell.com/tx/austin/1825-w-parmer-ln.html,tx,austin,1825-w-parmer-ln,030088,"1825 W Parmer Ln, Austin, TX 78727",78727,30.4134457,-97.6914114
+https://locations.tacobell.com/tx/weatherford/1814-south-main-street.html,tx,weatherford,1814-south-main-street,034586,"1814 South Main Street, Weatherford, TX 76086",76086,32.733937,-97.7944475
+https://locations.tacobell.com/tx/midland/1814-n--midland-drive.html,tx,midland,1814-n--midland-drive,D212148,"1814 N. Midland Drive, Midland, TX 79707",79707,32.0028473,-102.1371354
+https://locations.tacobell.com/tx/anthony/1811-antonio-street.html,tx,anthony,1811-antonio-street,042471,"1811 Antonio Street, Anthony, TX 79821",79821,31.9972842,-106.5878669
+https://locations.tacobell.com/tx/cedar-park/1810-s-lakeline-blvd.html,tx,cedar-park,1810-s-lakeline-blvd,030907,"1810 S Lakeline Blvd, Cedar Park, TX 78613",78613,30.4815324,-97.831264
+https://locations.tacobell.com/tx/del-rio/1809-veterans-blvd.html,tx,del-rio,1809-veterans-blvd,035071,"1809 Veterans Blvd, Del Rio, TX 78840",78840,29.3813507,-100.9046195
+https://locations.tacobell.com/tx/allen/1809-e--bethany-dr-.html,tx,allen,1809-e--bethany-dr-,032187,"1809 E. Bethany Dr., Allen, TX 75002",75002,33.0861371,-96.6221556
+https://locations.tacobell.com/tx/killeen/1807-sw-s-young-dr.html,tx,killeen,1807-sw-s-young-dr,030684,"1807 SW S Young Dr, Killeen, TX 76543",76543,31.0963595,-97.7213666
+https://locations.tacobell.com/tx/edinburg/1804-w-university-dr.html,tx,edinburg,1804-w-university-dr,004623,"1804 W University Dr, Edinburg, TX 78539",78539,26.3037003,-98.1814152
+https://locations.tacobell.com/tx/denton/1800-university-drive.html,tx,denton,1800-university-drive,029912,"1800 University Drive, Denton, TX 76201",76201,33.2299462,-97.1519701
+https://locations.tacobell.com/tx/sherman/1800-texoma-parkway.html,tx,sherman,1800-texoma-parkway,034593,"1800 Texoma Parkway, Sherman, TX 75090",75090,33.654665,-96.6067455
+https://locations.tacobell.com/tx/kaufman/1800-south-washington.html,tx,kaufman,1800-south-washington,034583,"1800 South Washington, Kaufman, TX 75142",75142,32.577173,-96.3094525
+https://locations.tacobell.com/tx/san-antonio/17822-bulverde-road.html,tx,san-antonio,17822-bulverde-road,033828,"17822 Bulverde Road, San Antonio, TX 78259",17822,29.6035577,-98.418656
+https://locations.tacobell.com/tx/round-rock/1775-a-w--grimes-boulevard.html,tx,round-rock,1775-a-w--grimes-boulevard,030082,"1775 A.W. Grimes Boulevard, Round Rock, TX 78664",78664,30.5681899,-97.6490552
+https://locations.tacobell.com/tx/magnolia/17725-fm-1488-road.html,tx,magnolia,17725-fm-1488-road,D212015,"17725 FM 1488 Road, Magnolia, TX 77354",17725,30.2176629,-95.7437229
+https://locations.tacobell.com/tx/san-antonio/1770-s-gen-mcmullen-dr.html,tx,san-antonio,1770-s-gen-mcmullen-dr,031402,"1770 S Gen McMullen Dr, San Antonio, TX 78237",78237,29.3993479,-98.557606
+https://locations.tacobell.com/tx/dallas/17530-marsh-lane.html,tx,dallas,17530-marsh-lane,029887,"17530 Marsh Lane, Dallas, TX 75287",17530,32.989282,-96.8542517
+https://locations.tacobell.com/tx/schertz/17397-ih-35-north.html,tx,schertz,17397-ih-35-north,E003014,"17397 IH 35 North, Schertz, TX 78154",17397,29.5990941,-98.2801201
+https://locations.tacobell.com/tx/odessa/1713-n--county-road-w-.html,tx,odessa,1713-n--county-road-w-,D212154,"1713 N. County Road W., Odessa, TX 79763",79763,31.8540072,-102.393909
+https://locations.tacobell.com/tx/pflugerville/1712-fm-685.html,tx,pflugerville,1712-fm-685,030092,"1712 FM 685, Pflugerville, TX 78660",78660,30.4547699,-97.6033843
+https://locations.tacobell.com/tx/lakeway/1703-ranch-road-620-s.html,tx,lakeway,1703-ranch-road-620-s,030169,"1703 Ranch Road 620 S, Lakeway, TX 78734",78734,30.3458615,-97.9643817
+https://locations.tacobell.com/tx/dallas/1702-n--cockrell-hill-rd-.html,tx,dallas,1702-n--cockrell-hill-rd-,027819,"1702 N. Cockrell Hill Rd., Dallas, TX 75212",75212,32.7683626,-96.8954723
+https://locations.tacobell.com/tx/austin/1701-w-ben-white-blvd.html,tx,austin,1701-w-ben-white-blvd,030142,"1701 W Ben White Blvd Bldg 2, Austin, TX 78704",78704,30.2266404,-97.7835686
+https://locations.tacobell.com/tx/san-angelo/1701-knickerbocker-road.html,tx,san-angelo,1701-knickerbocker-road,032723,"1701 Knickerbocker Road, San Angelo, TX 76904",76904,31.4302891,-100.4560059
+https://locations.tacobell.com/tx/fort-worth/1701-california-parkway.html,tx,fort-worth,1701-california-parkway,018558,"1701 California Parkway, Fort Worth, TX 76134",76134,32.6636816,-97.3363616
+https://locations.tacobell.com/tx/shamrock/1629-n-main-st.html,tx,shamrock,1629-n-main-st,026345,"1629 N Main St, Shamrock, TX 79079",79079,35.2321892,-100.2500252
+https://locations.tacobell.com/tx/austin/161-w-slaughter-ln.html,tx,austin,161-w-slaughter-ln,030090,"161 W Slaughter Ln #C, Austin, TX 78748",78748,30.1660485,-97.7916795
+https://locations.tacobell.com/tx/richardson/1606-e-belt-line-rd-.html,tx,richardson,1606-e-belt-line-rd-,035432,"1606 E Belt Line Rd., Richardson, TX 75081",75081,32.9449345,-96.6941353
+https://locations.tacobell.com/tx/pflugerville/1605-west-pecan-street.html,tx,pflugerville,1605-west-pecan-street,030073,"1605 West Pecan Street, Pflugerville, TX 78660",78660,30.4473711,-97.6370895
+https://locations.tacobell.com/tx/nacogdoches/1605-north-st-.html,tx,nacogdoches,1605-north-st-,002152,"1605 North St., Nacogdoches, TX 75965",75965,31.6171705,-94.6531666
+https://locations.tacobell.com/tx/victoria/1602-n-navarro-st.html,tx,victoria,1602-n-navarro-st,028008,"1602 N Navarro St, Victoria, TX 77901",77901,28.809592,-96.9995759
+https://locations.tacobell.com/tx/rockport/1601-highway-35-n.html,tx,rockport,1601-highway-35-n,020344,"1601 Highway 35 N, Rockport, TX 78382",78382,28.0404393,-97.0428694
+https://locations.tacobell.com/tx/wylie/1601-fm-544.html,tx,wylie,1601-fm-544,020189,"1601 FM 544, Wylie, TX 75098",75098,33.0080657,-96.561419
+https://locations.tacobell.com/tx/austin/1548-e--parmer-lane.html,tx,austin,1548-e--parmer-lane,030263,"1548 E. Parmer Lane, Austin, TX 78754",78754,30.3890424,-97.6507629
+https://locations.tacobell.com/tx/leander/1545-us-hwy-183.html,tx,leander,1545-us-hwy-183,030096,"1545 US Hwy 183, Leander, TX 78641",78641,30.5596283,-97.8454998
+https://locations.tacobell.com/tx/carthage/1529-w-panola.html,tx,carthage,1529-w-panola,032037,"1529 W Panola, Carthage, TX 75633",75633,32.1576548,-94.3363501
+https://locations.tacobell.com/tx/dallas/15208-montfort-dr.html,tx,dallas,15208-montfort-dr,027877,"15208 Montfort Dr, Dallas, TX 75254",15208,32.9564386,-96.8179993
+https://locations.tacobell.com/tx/harlingen/1518-ed-carey-road.html,tx,harlingen,1518-ed-carey-road,016925,"1518 Ed Carey Road, Harlingen, TX 78550",78550,26.1723146,-97.67361149999999
+https://locations.tacobell.com/tx/waco/1515-n--valley-mills-drive.html,tx,waco,1515-n--valley-mills-drive,030094,"1515 N. Valley Mills Drive, Waco, TX 76710",76710,31.5319807,-97.194101
+https://locations.tacobell.com/tx/marble-falls/1510-highway-1431.html,tx,marble-falls,1510-highway-1431,030128,"1510 Highway 1431, Marble Falls, TX 78654",78654,30.5782297,-98.2729184
+https://locations.tacobell.com/tx/temple/1508-w-adams-ave.html,tx,temple,1508-w-adams-ave,030108,"1508 W Adams Ave, Temple, TX 76504",76504,31.102241,-97.3563617
+https://locations.tacobell.com/tx/san-angelo/1504-pulliam.html,tx,san-angelo,1504-pulliam,032724,"1504 Pulliam, San Angelo, TX 76903",76903,31.4708037,-100.4144597
+https://locations.tacobell.com/tx/corpus-christi/1501-nile-drive.html,tx,corpus-christi,1501-nile-drive,001863,"1501 Nile Drive, Corpus Christi, TX 78412",78412,27.6956522,-97.3470001
+https://locations.tacobell.com/tx/el-paso/1500-lee-trevino-drive-north.html,tx,el-paso,1500-lee-trevino-drive-north,017614,"1500 Lee Trevino Drive North, El Paso, TX 79936",79936,31.7518655,-106.3186599
+https://locations.tacobell.com/tx/plano/150-w--parker-rd-.html,tx,plano,150-w--parker-rd-,035435,"150 W. Parker Rd., Plano, TX 75075",75075,33.0389865,-96.7075213
+https://locations.tacobell.com/tx/seguin/1494-east-court.html,tx,seguin,1494-east-court,030134,"1494 East Court, Seguin, TX 78155",78155,29.5695721,-97.9396074
+https://locations.tacobell.com/tx/la-vernia/14421-us-hwy-87-west.html,tx,la-vernia,14421-us-hwy-87-west,031407,"14421 US Hwy 87 West, La Vernia, TX 78121",14421,29.3568346,-98.1347306
+https://locations.tacobell.com/tx/fort-worth/1435-east-chase-parkway.html,tx,fort-worth,1435-east-chase-parkway,034597,"1435 East Chase Parkway, Fort Worth, TX 76120",76120,32.7583327,-97.1665955
+https://locations.tacobell.com/tx/eastland/1430-east-main.html,tx,eastland,1430-east-main,036760,"1430 East Main, Eastland, TX 76448",76448,32.4019896,-98.7932335
+https://locations.tacobell.com/tx/wichita-falls/1415-southwest-parkway.html,tx,wichita-falls,1415-southwest-parkway,033278,"1415 Southwest Parkway, Wichita Falls, TX 76302",76302,33.8536841,-98.4996653
+https://locations.tacobell.com/tx/dumas/1401-s-dumas.html,tx,dumas,1401-s-dumas,032698,"1401 S Dumas, Dumas, TX 79029",79029,35.8409448,-101.9732956
+https://locations.tacobell.com/tx/cross-roads/14000-us-hwy-380.html,tx,cross-roads,14000-us-hwy-380,029487,"14000 US Hwy 380, Cross Roads, TX 76227",14000,33.2246635,-96.9772409
+https://locations.tacobell.com/tx/lockhart/1400-s-colorado.html,tx,lockhart,1400-s-colorado,030170,"1400 S Colorado, Lockhart, TX 78644",78644,29.8685542,-97.6681826
+https://locations.tacobell.com/tx/horizon-city/13910-horizon-blvd.html,tx,horizon-city,13910-horizon-blvd,029446,"13910 Horizon Blvd, Horizon City, TX 79928",13910,31.6822203,-106.2013286
+https://locations.tacobell.com/tx/austin/13770-n-highway-183.html,tx,austin,13770-n-highway-183,030116,"13770 N Highway 183, Austin, TX 78750",13770,30.461643,-97.79505619999999
+https://locations.tacobell.com/tx/crosby/13727-fm-2100.html,tx,crosby,13727-fm-2100,036522,"13727 FM 2100, Crosby, TX 77532",13727,29.8863949,-95.0632633
+https://locations.tacobell.com/tx/dallas/13670-preston-road.html,tx,dallas,13670-preston-road,029886,"13670 Preston Road, Dallas, TX 75240",13670,32.9342388,-96.8033855
+https://locations.tacobell.com/tx/plano/1340-jupiter-rd.html,tx,plano,1340-jupiter-rd,029888,"1340 Jupiter Rd, Plano, TX 75074",75074,33.017379,-96.6819794
+https://locations.tacobell.com/tx/sulphur-springs/1338-s--broadway.html,tx,sulphur-springs,1338-s--broadway,009540,"1338 S. Broadway, Sulphur Springs, TX 75482",75482,33.1140193,-95.5962252
+https://locations.tacobell.com/tx/el-paso/1337-george-dieter-dr-.html,tx,el-paso,1337-george-dieter-dr-,022047,"1337 George Dieter Dr., El Paso, TX 79936",79936,31.7261944,-106.3034001
+https://locations.tacobell.com/tx/san-antonio/1327-austin-highway.html,tx,san-antonio,1327-austin-highway,034338,"1327 Austin Highway, San Antonio, TX 78209",78209,29.4908408,-98.4409072
+https://locations.tacobell.com/tx/arlington/1316-south-cooper-street.html,tx,arlington,1316-south-cooper-street,035428,"1316 South Cooper Street, Arlington, TX 76013",76013,32.7229715,-97.1151495
+https://locations.tacobell.com/tx/killeen/1313-s-fort-hood.html,tx,killeen,1313-s-fort-hood,030109,"1313 S Fort Hood, Killeen, TX 76542",76542,31.0780233,-97.7580472
+https://locations.tacobell.com/tx/lewisville/1311-s-state-highway-121-business.html,tx,lewisville,1311-s-state-highway-121-business,035449,"1311 S State Highway 121 Business, Lewisville, TX 75067",75067,33.0253912,-96.99346899999999
+https://locations.tacobell.com/tx/haslet/13050-nw-highway-287.html,tx,haslet,13050-nw-highway-287,031518,"13050 NW Highway 287, Haslet, TX 76052",13050,32.9654847,-97.4137332
+https://locations.tacobell.com/tx/fort-stockton/1304-u-s--highway-5.html,tx,fort-stockton,1304-u-s--highway-5,042287,"1304 U.S. Highway 5 Unit B, Fort Stockton, TX 79735",79735,30.9092853,-102.9198502
+https://locations.tacobell.com/tx/alice/1250-e--main.html,tx,alice,1250-e--main,030471,"1250 E. Main, Alice, TX 78332",78332,27.7540802,-98.0594092
+https://locations.tacobell.com/tx/mineola/125-n-e-loop-564.html,tx,mineola,125-n-e-loop-564,028281,"125 N E Loop 564, Mineola, TX 75773",75773,32.6795628,-95.4666809
+https://locations.tacobell.com/tx/helotes/12360-leslie-road.html,tx,helotes,12360-leslie-road,031404,"12360 Leslie Road, Helotes, TX 78023",12360,29.557886,-98.6818967
+https://locations.tacobell.com/tx/gonzales/1225-e--sara-dewitt-drive.html,tx,gonzales,1225-e--sara-dewitt-drive,035074,"1225 E. Sara Dewitt Drive, Gonzales, TX 78629",78629,29.5162988,-97.4293222
+https://locations.tacobell.com/tx/el-paso/12230-montana-ave-.html,tx,el-paso,12230-montana-ave-,025849,"12230 Montana Ave., El Paso, TX 79938",12230,31.8066096,-106.2632349
+https://locations.tacobell.com/tx/fort-worth/1221-oakland-blvd-.html,tx,fort-worth,1221-oakland-blvd-,027825,"1221 Oakland Blvd., Fort Worth, TX 76103",76103,32.7596473,-97.2617198
+https://locations.tacobell.com/tx/corpus-christi/1217-waldron-road.html,tx,corpus-christi,1217-waldron-road,016294,"1217 Waldron Road, Corpus Christi, TX 78418",78418,27.6663948,-97.2832255
+https://locations.tacobell.com/tx/murphy/121-s--murphy-road.html,tx,murphy,121-s--murphy-road,024766,"121 S. Murphy Road, Murphy, TX 75094",75094,33.0096645,-96.6135378
+https://locations.tacobell.com/tx/rusk/1207-n-dickinson-dr-.html,tx,rusk,1207-n-dickinson-dr-,020132,"1207 N Dickinson Dr., Rusk, TX 75785",75785,31.8023142,-95.148527
+https://locations.tacobell.com/tx/san-antonio/12050-blanco-road.html,tx,san-antonio,12050-blanco-road,E003017,"12050 Blanco Road, San Antonio, TX 78216",12050,29.5510668,-98.5116343
+https://locations.tacobell.com/tx/euless/1201-w--glade-rd-.html,tx,euless,1201-w--glade-rd-,027827,"1201 W. Glade Rd., Euless, TX 76039",76039,32.8809594,-97.1012391
+https://locations.tacobell.com/tx/temple/1201-sw-h-k-dodgen-loop.html,tx,temple,1201-sw-h-k-dodgen-loop,030125,"1201 SW H K Dodgen Loop, Temple, TX 76502",76502,31.072466,-97.3690793
+https://locations.tacobell.com/tx/seminole/1201-hobbs-highway.html,tx,seminole,1201-hobbs-highway,031587,"1201 Hobbs Highway, Seminole, TX 79360",79360,32.7204701,-102.6589754
+https://locations.tacobell.com/tx/balch-springs/12002-elam-road.html,tx,balch-springs,12002-elam-road,002636,"12002 Elam Road, Balch Springs, TX 75180",12002,32.719003,-96.6187032
+https://locations.tacobell.com/tx/hereford/1200-w-1st-st.html,tx,hereford,1200-w-1st-st,022074,"1200 W 1st St, Hereford, TX 79045",79045,34.8097795,-102.4098784
+https://locations.tacobell.com/tx/waco/120-north-valley-mills-drive.html,tx,waco,120-north-valley-mills-drive,030162,"120 North Valley Mills Drive, Waco, TX 76710",76710,31.5276078,-97.1655923
+https://locations.tacobell.com/tx/dallas/11829-abrams-road.html,tx,dallas,11829-abrams-road,035444,"11829 Abrams Road, Dallas, TX 75243",11829,32.9097196,-96.7356431
+https://locations.tacobell.com/tx/dallas/11702-plano-rd-.html,tx,dallas,11702-plano-rd-,027876,"11702 Plano Rd., Dallas, TX 75243",11702,32.9067365,-96.700666
+https://locations.tacobell.com/tx/coppell/115-north-denton-tap-road.html,tx,coppell,115-north-denton-tap-road,035441,"115 North Denton Tap Road, Coppell, TX 75019",75019,32.9713153,-96.9941965
+https://locations.tacobell.com/tx/royse-city/115-e--highway-30.html,tx,royse-city,115-e--highway-30,029488,"115 E. Highway 30, Royse City, TX 75189",75189,33.0416894,-96.3645299
+https://locations.tacobell.com/tx/dallas/11441-jupiter-road.html,tx,dallas,11441-jupiter-road,027870,"11441 Jupiter Road, Dallas, TX 75218",11441,32.8499182,-96.6835161
+https://locations.tacobell.com/tx/grapevine/1134-william-d--tate-ave-.html,tx,grapevine,1134-william-d--tate-ave-,029914,"1134 William D. Tate Ave., Grapevine, TX 76051",76051,32.9299216,-97.0850555
+https://locations.tacobell.com/tx/corpus-christi/11328-leopard-st.html,tx,corpus-christi,11328-leopard-st,005386,"11328 Leopard St, Corpus Christi, TX 78410",11328,27.8478922,-97.588778
+https://locations.tacobell.com/tx/el-paso/11300-mccombs.html,tx,el-paso,11300-mccombs,031022,"11300 McCombs, El Paso, TX 79934",11300,31.9387262,-106.4071183
+https://locations.tacobell.com/tx/alvarado/1130-highway-67-west.html,tx,alvarado,1130-highway-67-west,028351,"1130 Highway 67 West, Alvarado, TX 76009",76009,32.4167241,-97.22544789999999
+https://locations.tacobell.com/tx/san-antonio/11238-potranco-rd.html,tx,san-antonio,11238-potranco-rd,030450,"11238 Potranco Rd, San Antonio, TX 78253",11238,29.4342333,-98.7158001
+https://locations.tacobell.com/tx/san-antonio/11215-culebra-rd-.html,tx,san-antonio,11215-culebra-rd-,031405,"11215 Culebra Rd., San Antonio, TX 78254",11215,29.4975895,-98.7124366
+https://locations.tacobell.com/tx/saginaw/1117-north-saginaw-blvd.html,tx,saginaw,1117-north-saginaw-blvd,022741,"1117 North Saginaw Blvd, Saginaw, TX 76179",76179,32.8775438,-97.379488
+https://locations.tacobell.com/tx/copperas-cove/1110-hwy-190-e.html,tx,copperas-cove,1110-hwy-190-e,030145,"1110 Hwy 190 E, Copperas Cove, TX 76522",76522,31.1194496,-97.8930135
+https://locations.tacobell.com/tx/round-rock/1108-n-interstate-35.html,tx,round-rock,1108-n-interstate-35,030124,"1108 N Interstate 35, Round Rock, TX 78681",78681,30.517348,-97.689347
+https://locations.tacobell.com/tx/ennis/1107-e-ennis-avenue.html,tx,ennis,1107-e-ennis-avenue,004196,"1107 E Ennis Avenue, Ennis, TX 75119",75119,32.3335785,-96.6160175
+https://locations.tacobell.com/tx/manor/11032-e-us-hwy-290.html,tx,manor,11032-e-us-hwy-290,032068,"11032 E US Hwy 290 Unit 300, Manor, TX 78653",11032,30.349628,-97.55695039999999
+https://locations.tacobell.com/tx/arlington/1101-n--collins.html,tx,arlington,1101-n--collins,005789,"1101 N. Collins, Arlington, TX 76011",76011,32.7519176,-97.096754
+https://locations.tacobell.com/tx/mansfield/1101-highway-287-n.html,tx,mansfield,1101-highway-287-n,017332,"1101 Highway 287 N, Mansfield, TX 76063",76063,32.5808651,-97.1331175
+https://locations.tacobell.com/tx/waco/1101-hewitt-drive.html,tx,waco,1101-hewitt-drive,030166,"1101 Hewitt Drive, Waco, TX 76712",76712,31.4887164,-97.2125434
+https://locations.tacobell.com/tx/elgin/1090-highway-290-w.html,tx,elgin,1090-highway-290-w,030439,"1090 Highway 290 W, Elgin, TX 78621",78621,30.3473605,-97.3836599
+https://locations.tacobell.com/tx/fort-worth/10800-south-freeway.html,tx,fort-worth,10800-south-freeway,024056,"10800 South Freeway, Fort Worth, TX 76140",10800,32.5987367,-97.3208217
+https://locations.tacobell.com/tx/new-braunfels/1074-south-walnut-avenue.html,tx,new-braunfels,1074-south-walnut-avenue,030071,"1074 South Walnut Avenue, New Braunfels, TX 78130",78130,29.6833742,-98.1254091
+https://locations.tacobell.com/tx/white-oak/107-east-highway-80.html,tx,white-oak,107-east-highway-80,020339,"107 East Highway 80, White Oak, TX 75693",75693,32.5204236,-94.8597953
+https://locations.tacobell.com/tx/fort-worth/1060-n--beach-st-.html,tx,fort-worth,1060-n--beach-st-,028113,"1060 N. Beach St., Fort Worth, TX 76111",76111,32.7779964,-97.2892714
+https://locations.tacobell.com/tx/garland/1050-northwest-hwy.html,tx,garland,1050-northwest-hwy,027867,"1050 Northwest Hwy, Garland, TX 75041",75041,32.861776,-96.6433969
+https://locations.tacobell.com/tx/portland/1043-us-highway-181.html,tx,portland,1043-us-highway-181,016039,"1043 US Highway 181, Portland, TX 78374",78374,27.8809224,-97.3203097
+https://locations.tacobell.com/tx/irving/1025-west-airport-freeway.html,tx,irving,1025-west-airport-freeway,027416,"1025 West Airport Freeway, Irving, TX 75062",75062,32.8373915,-96.9575243
+https://locations.tacobell.com/tx/irving/1022-w-shady-grove-rd.html,tx,irving,1022-w-shady-grove-rd,021422,"1022 W Shady Grove Rd, Irving, TX 75060",75060,32.8010824,-96.9580746
+https://locations.tacobell.com/tx/plano/1020-preston-rd.html,tx,plano,1020-preston-rd,029885,"1020 Preston Rd, Plano, TX 75093",75093,33.0150151,-96.7947189
+https://locations.tacobell.com/tx/austin/1016-e-anderson-ln.html,tx,austin,1016-e-anderson-ln,030157,"1016 E Anderson Ln, Austin, TX 78752",78752,30.3371445,-97.6942792
+https://locations.tacobell.com/tx/desoto/1011-w-belt-line-rd.html,tx,desoto,1011-w-belt-line-rd,034599,"1011 W Belt Line Rd, Desoto, TX 75115",75115,32.5902685,-96.8809748
+https://locations.tacobell.com/tx/san-marcos/101-university-dr.html,tx,san-marcos,101-university-dr,031403,"101 University Dr, San Marcos, TX 78666",78666,29.8856208,-97.9414906
+https://locations.tacobell.com/tx/southlake/101-north-kimball-avenue.html,tx,southlake,101-north-kimball-avenue,Y351050,"101 North Kimball Avenue, Southlake, TX 76092",76092,32.9411644,-97.1155555
+https://locations.tacobell.com/tx/pharr/101-east-nolana-loop.html,tx,pharr,101-east-nolana-loop,018021,"101 East Nolana Loop, Pharr, TX 78577",78577,26.2335812,-98.1768263
+https://locations.tacobell.com/tx/crowley/1008-s-crowley-rd.html,tx,crowley,1008-s-crowley-rd,027051,"1008 S Crowley Rd, Crowley, TX 76036",76036,32.5737826,-97.3533001
+https://locations.tacobell.com/tx/carrollton/1008-e--frankford-rd-.html,tx,carrollton,1008-e--frankford-rd-,027869,"1008 E. Frankford Rd., Carrollton, TX 75007",75007,32.9984572,-96.9088786
+https://locations.tacobell.com/tx/weslaco/1006-north-texas-street.html,tx,weslaco,1006-north-texas-street,019806,"1006 North Texas Street, Weslaco, TX 78596",78596,26.1720638,-97.9903078
+https://locations.tacobell.com/tx/kingsville/1005-south-14th-street.html,tx,kingsville,1005-south-14th-street,016215,"1005 South 14th Street, Kingsville, TX 78363",78363,27.5076119,-97.8560936
+https://locations.tacobell.com/tx/celina/1002-s--preston-road.html,tx,celina,1002-s--preston-road,029972,"1002 S. Preston Road, Celina, TX 75009",75009,33.3129769,-96.7803799
+https://locations.tacobell.com/tx/pampa/1002-n-hobart-st.html,tx,pampa,1002-n-hobart-st,032701,"1002 N Hobart St, Pampa, TX 79065",79065,35.5426932,-100.9714928
+https://locations.tacobell.com/tx/georgetown/1001-s-interstate-35.html,tx,georgetown,1001-s-interstate-35,030152,"1001 S Interstate 35, Georgetown, TX 78626",78626,30.6354137,-97.6892913
+https://locations.tacobell.com/tx/kilgore/1000-us-hwy-259-north.html,tx,kilgore,1000-us-hwy-259-north,017452,"1000 US Hwy 259 North, Kilgore, TX 75662",75662,32.4277389,-94.8353777
+https://locations.tacobell.com/tx/belton/1000-spring-street.html,tx,belton,1000-spring-street,031467,"1000 Spring Street, Belton, TX 76513",76513,31.0523218,-97.4546489
+https://locations.tacobell.com/tx/azle/100-se-parkway.html,tx,azle,100-se-parkway,034588,"100 SE Parkway, Azle, TX 76020",76020,32.891715,-97.541024
+https://locations.tacobell.com/tx/italy/100-l-r--campbell-rd-.html,tx,italy,100-l-r--campbell-rd-,034591,"100 L.R. Campbell Rd., Italy, TX 76651",76651,32.1961969,-96.9004876
+https://locations.tacobell.com/tx/euless/100-east-euless-blvd.html,tx,euless,100-east-euless-blvd,016317,"100 East Euless Blvd, Euless, TX 76040",76040,32.8164834,-97.1347137
+https://locations.tacobell.com/tx/corpus-christi/14601-northwest-blvd.html,tx,corpus-christi,14601-northwest-blvd,040339,"14601 Northwest Blvd, Corpus Christi, TX 78410",14601,27.8577943,-97.6509282
+https://locations.tacobell.com/tx/sealy/2200-hwy-36-s.html,tx,sealy,2200-hwy-36-s,037723,"2200 Hwy 36 S, Sealy, TX 77474",77474,29.7608991,-96.1530969
+https://locations.tacobell.com/tx/kyle/1750-veterans-drive.html,tx,kyle,1750-veterans-drive,040954,"1750 Veterans Drive, Kyle, TX 78640",78640,30.0061512,-97.8886224
+https://locations.tacobell.com/tx/dallas/5509-e--rl-thornton-frwy.html,tx,dallas,5509-e--rl-thornton-frwy,038774,"5509 E. RL Thornton Frwy, Dallas, TX 75223",75223,32.7922246,-96.7475647
+https://locations.tacobell.com/tx/justin/780-fm-156.html,tx,justin,780-fm-156,038853,"780 FM 156, Justin, TX 76247",76247,33.0723923,-97.2956123
+https://locations.tacobell.com/tx/mission/2300-e--business-hwy-83.html,tx,mission,2300-e--business-hwy-83,040652,"2300 E. Business Hwy 83, Mission, TX 78572",78572,26.2103182,-98.28727769999999
+https://locations.tacobell.com/tx/seagoville/550-e-malloy-bridge-rd.html,tx,seagoville,550-e-malloy-bridge-rd,019792,"550 E Malloy Bridge Rd, Seagoville, TX 75159",75159,32.6464424,-96.5341551
+https://locations.tacobell.com/tx/longview/200-w--marshall.html,tx,longview,200-w--marshall,018559,"200 W. Marshall, Longview, TX 75601",75601,32.506711,-94.7326933
+https://locations.tacobell.com/tx/floresville/931-10th-street.html,tx,floresville,931-10th-street,035076,"931 10th Street, Floresville, TX 78114",78114,29.1425501,-98.1545716
+https://locations.tacobell.com/tx/bedford/1505-brown-trail.html,tx,bedford,1505-brown-trail,J417009,"1505 Brown Trail, Bedford, TX 76022",76022,32.8407329,-97.1595684
+https://locations.tacobell.com/tx/plano/401-coit-road.html,tx,plano,401-coit-road,Y351057,"401 Coit Road, Plano, TX 75075",75075,33.002907,-96.76794
+https://locations.tacobell.com/tx/katy/22642-morton-ranch-road.html,tx,katy,22642-morton-ranch-road,032962,"22642 Morton Ranch Road, Katy, TX 77449",22642,29.8174607,-95.7651754
+https://locations.tacobell.com/tx/cypress/17525-spring-cypress-road.html,tx,cypress,17525-spring-cypress-road,022614,"17525 Spring Cypress Road, Cypress, TX 77429",17525,29.9723184,-95.6913632
+https://locations.tacobell.com/tx/cibolo/603-cibolo-valley-dr.html,tx,cibolo,603-cibolo-valley-dr,032361,"603 Cibolo Valley Dr, Cibolo, TX 78108",78108,29.571813,-98.2352804
+https://locations.tacobell.com/tx/sheppard-afb/740-avenue-h.html,tx,sheppard-afb,740-avenue-h,019638,"740 Avenue H, Sheppard Afb, TX 76351",76351,33.9759907,-98.5073158
+https://locations.tacobell.com/tx/lamesa/802-north-lynn-avenue.html,tx,lamesa,802-north-lynn-avenue,031586,"802 North Lynn Avenue, Lamesa, TX 79331",79331,32.7398915,-101.951653
+https://locations.tacobell.com/tx/abilene/2542-s--14th-street.html,tx,abilene,2542-s--14th-street,036764,"2542 S. 14th Street, Abilene, TX 79605",79605,32.432267,-99.7530909
+https://locations.tacobell.com/tx/bryan/2305-boonville-road.html,tx,bryan,2305-boonville-road,033369,"2305 Boonville Road, Bryan, TX 77808",77808,30.6722453,-96.3365533
+https://locations.tacobell.com/tx/graham/1607-state-hwy-16-south.html,tx,graham,1607-state-hwy-16-south,040349,"1607 State Hwy 16 South, Graham, TX 76450",76450,33.08849980000001,-98.5860314
+https://locations.tacobell.com/tx/pearland/10034-broadway-street.html,tx,pearland,10034-broadway-street,C521021,"10034 Broadway Street, Pearland, TX 77584",10034,29.5561792,-95.3757866
+https://locations.tacobell.com/tx/houston/1300-gulfgate-center-mall.html,tx,houston,1300-gulfgate-center-mall,C521022,"1300 Gulfgate Center Mall, Houston, TX 77087",77087,29.698243,-95.2975778
+https://locations.tacobell.com/tx/houston/14127-state-highway-249.html,tx,houston,14127-state-highway-249,041185,"14127 State Highway 249, Houston, TX 77086",14127,29.9219707,-95.4975068
+https://locations.tacobell.com/tx/houston/2701-yale-street.html,tx,houston,2701-yale-street,041076,"2701 Yale Street, Houston, TX 77008",77008,29.8112501,-95.3998428
+https://locations.tacobell.com/tx/carrollton/4117-north-josey-lane.html,tx,carrollton,4117-north-josey-lane,Y351058,"4117 North Josey Lane, Carrollton, TX 75007",75007,33.0237271,-96.8855888
+https://locations.tacobell.com/tx/sugar-land/4950-highway-90a.html,tx,sugar-land,4950-highway-90a,041184,"4950 Highway 90A, Sugar Land, TX 77498",77498,29.6018212,-95.6813479
+https://locations.tacobell.com/tx/houston/7904-long-point-road.html,tx,houston,7904-long-point-road,C521024,"7904 Long Point Road, Houston, TX 77055",77055,29.8031714,-95.4857603
+https://locations.tacobell.com/tx/houston/919-federal-rd.html,tx,houston,919-federal-rd,C521025,"919 Federal Rd, Houston, TX 77015",77015,29.7737058,-95.2158191
+https://locations.tacobell.com/tx/houston/9922-beechnut-st.html,tx,houston,9922-beechnut-st,041183,"9922 Beechnut St, Houston, TX 77036",77036,29.6896548,-95.5559688
+https://locations.tacobell.com/tx/frisco/12015-university-dr-.html,tx,frisco,12015-university-dr-,040025,"12015 University Dr., Frisco, TX 75035",12015,33.2176916,-96.7715757
+https://locations.tacobell.com/tx/san-antonio/6938-north-loop-1604-east.html,tx,san-antonio,6938-north-loop-1604-east,032363,"6938 North Loop 1604 East, San Antonio, TX 78247",78247,29.5927105,-98.3538782
+https://locations.tacobell.com/tx/commerce/2203-live-oak-street.html,tx,commerce,2203-live-oak-street,033473,"2203 Live Oak Street, Commerce, TX 75428",75428,33.246972,-95.9128483
+https://locations.tacobell.com/tx/quinlan/614-e--quinlan-parkway.html,tx,quinlan,614-e--quinlan-parkway,033929,"614 E. Quinlan Parkway, Quinlan, TX 75474",75474,32.9038747,-96.1265536
+https://locations.tacobell.com/tx/leander/11940-hero-way-west.html,tx,leander,11940-hero-way-west,033691,"11940 Hero Way West, Leander, TX 78641",11940,30.582074,-97.8574994
+https://locations.tacobell.com/tx/aubrey/915-us-377.html,tx,aubrey,915-us-377,032627,"915 US-377, Aubrey, TX 76227",76227,33.2875778,-96.9858893
+https://locations.tacobell.com/tx/san-antonio/11461-perrin-beitel.html,tx,san-antonio,11461-perrin-beitel,032961,"11461 Perrin Beitel, San Antonio, TX 78217",11461,29.5440753,-98.4111206
+https://locations.tacobell.com/tx/dallas/10310-lake-june-rd.html,tx,dallas,10310-lake-june-rd,031304,"10310 Lake June Rd, Dallas, TX 75217",10310,32.7342575,-96.6486365
+https://locations.tacobell.com/tx/irving/3255-regent-blvd.html,tx,irving,3255-regent-blvd,033463,"3255 Regent Blvd, Irving, TX 75063",75063,32.9207271,-96.9872653
+https://locations.tacobell.com/tx/san-antonio/5318-w-walzem-rd.html,tx,san-antonio,5318-w-walzem-rd,033443,"5318 W Walzem Rd, San Antonio, TX 78218",78218,29.5099017,-98.3869555
+https://locations.tacobell.com/tx/brownfield/301-lubbock-road.html,tx,brownfield,301-lubbock-road,032188,"301 Lubbock Road, Brownfield, TX 79316",79316,33.1814375,-102.274786
+https://locations.tacobell.com/tx/houston/9601-westheimer-rd.html,tx,houston,9601-westheimer-rd,035751,"9601 Westheimer Rd, Houston, TX 77063",77063,29.7368296,-95.5355526
+https://locations.tacobell.com/tx/new-caney/11771-north-grand-parkway-east.html,tx,new-caney,11771-north-grand-parkway-east,041587,"11771 North Grand Parkway East, New Caney, TX 77357",11771,30.1304108,-95.23860119999999
+https://locations.tacobell.com/tx/ingleside/2494-hwy-361.html,tx,ingleside,2494-hwy-361,033634,"2494 Hwy 361, Ingleside, TX 78362",78362,27.8807711,-97.20722029999999
+https://locations.tacobell.com/tx/san-antonio/6322-old-pearsall-road.html,tx,san-antonio,6322-old-pearsall-road,032617,"6322 Old Pearsall Road, San Antonio, TX 78242",78242,29.3433061,-98.6182155
+https://locations.tacobell.com/tx/san-antonio/11711-oconnor-road.html,tx,san-antonio,11711-oconnor-road,033046,"11711 O'Connor Road, San Antonio, TX 78233",11711,29.5470765,-98.3705013
+https://locations.tacobell.com/tx/socorro/1041-nuevo-hueco-tanks-road.html,tx,socorro,1041-nuevo-hueco-tanks-road,040405,"1041 Nuevo Hueco Tanks Road, Socorro, TX 79927",79927,31.6849973,-106.2689697
+https://locations.tacobell.com/tx/clute/1025-dixie-drive.html,tx,clute,1025-dixie-drive,035752,"1025 Dixie Drive, Clute, TX 77531",77531,29.0115626,-95.4191247
+https://locations.tacobell.com/tx/san-antonio/11731-se-loop-410.html,tx,san-antonio,11731-se-loop-410,039115,"11731 SE Loop 410, San Antonio, TX 78221",11731,29.3221178,-98.4916296
+https://locations.tacobell.com/tx/league-city/2660-e-league-city-pkwy.html,tx,league-city,2660-e-league-city-pkwy,034701,"2660 E League City Pkwy, League City, TX 77573",77573,29.5007086,-95.047477
+https://locations.tacobell.com/tx/ferris/314-n--interstate-45.html,tx,ferris,314-n--interstate-45,034076,"314 N. Interstate 45, Ferris, TX 75125",75125,32.5371807,-96.659361
+https://locations.tacobell.com/tx/mont-belvieu/9521-eagle-dr-.html,tx,mont-belvieu,9521-eagle-dr-,035735,"9521 Eagle Dr., Mont Belvieu, TX 77523",77523,29.8332778,-94.8489171
+https://locations.tacobell.com/tx/nacogdoches/3805-south-street.html,tx,nacogdoches,3805-south-street,034764,"3805 South Street, Nacogdoches, TX 75964",75964,31.5710554,-94.675059
+https://locations.tacobell.com/tx/houston/9406-cullen-boulevard.html,tx,houston,9406-cullen-boulevard,034015,"9406 Cullen Boulevard Suite B, Houston, TX 77051",77051,29.6556265,-95.3559035
+https://locations.tacobell.com/tx/burnet/1400-s-water-street.html,tx,burnet,1400-s-water-street,034799,"1400 S Water Street, Burnet, TX 78611",78611,30.741723,-98.234118
+https://locations.tacobell.com/tx/jarrell/11900-ih-35.html,tx,jarrell,11900-ih-35,041135,"11900 Ih 35, Jarrell, TX 76537",11900,30.8154139,-97.60985269999999
+https://locations.tacobell.com/tx/spring/20232-champion-forest-drive.html,tx,spring,20232-champion-forest-drive,032967,"20232 Champion Forest Drive, Spring, TX 77379",20232,30.0559004,-95.5740589
