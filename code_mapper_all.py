@@ -418,8 +418,8 @@ def main():
             "discovered_at": r["discovered_at"],
         })
 
-    # Write outputs
-    with open("menu_catalog.csv", "w", newline="", encoding="utf-8") as f:
+    # Write outputs (use CLI paths!)
+    with open(args.out_catalog, "w", newline="", encoding="utf-8") as f:
         w = csv.DictWriter(f, fieldnames=[
             "canonical_product_id", "product_code", "base_name", "size_variant",
             "category", "subcategory", "is_breakfast", "is_drink", "us_active"
@@ -427,7 +427,7 @@ def main():
         w.writeheader()
         w.writerows(canonical)
 
-    with open("store_products.csv", "w", newline="", encoding="utf-8") as f:
+    with open(args.out_store_products, "w", newline="", encoding="utf-8") as f:
         w = csv.DictWriter(f, fieldnames=[
             "store_id", "product_code", "canonical_product_id", "active", "discovered_at"
         ])
