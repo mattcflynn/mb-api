@@ -1,253 +1,253 @@
-canonical_product_id,product_code,base_name,is_breakfast,is_drink,reason,top_candidate_item_id,top_candidate_name,top_candidate_sim
-895dd8604c8f8cf1,22130,decker taco,0,0,low_confidence,166835,Soft Taco,0.333
-ccd4f120a6471f17,22706,decker taco supreme,0,0,low_confidence,166837,Soft Taco Supreme&reg;,0.4
-d2fe7385656c7b73,22240,7 layer burrito,0,0,low_confidence,166718,Beefy 5-Layer Burrito,0.4
-c172479e9c06aba7,23551,build your own luxe cravings,0,0,no_candidates,,,
-d95deaea191d0d41,28183,nacho fries,0,0,low_confidence,828300,Diablo Buffalo Chicken Nacho Fries,0.5
-b2e40e63cc64ed0b,28095,nacho fries,0,0,low_confidence,828300,Diablo Buffalo Chicken Nacho Fries,0.5
-d9f6b2327d8166f9,29088,frank s redhot diablo crispy chicken burrito,0,0,low_confidence,828298,Diablo Buffalo Crispy Chicken Burrito,0.5
-8b7b14032290cb47,29087,frank s redhot diablo crispy chicken soft taco,0,0,low_confidence,828299,Diablo Buffalo Crispy Chicken Soft Taco,0.556
-b6deb5016decf7e7,29089,frank s redhot diablo chicken nacho fries,0,0,low_confidence,828300,Diablo Buffalo Chicken Nacho Fries,0.5
-31698700c728d932,29072,discovery luxe,0,0,no_candidates,,,
-9aa67802ea59a742,24966,crispy chicken strips 4pk,0,0,low_confidence,926746,Crispy Chicken Strips - 4 piece,0.5
-7f7a81f10c3818b6,3717Main,strawberry passionfruit agua refresca,0,0,low_confidence,889510,Strawberry Dream Refresca,0.4
-7f71ed3fa79f653c,3719Main,mango peach agua refresca,0,0,low_confidence,829826,Mango Peach Limonada,0.4
-73f131802f007014,23218,meal for 2,0,0,low_confidence,646511,Chicken Strips (2 Pack),0.25
-12e3b2bd8af2e451,23220,meal for 4,0,0,low_confidence,417116,Guacamole (6.4 oz),0.2
-0f36a38e536bb638,21210,drinks,0,0,no_candidates,,,
-22602af93f496c99,23760,2 chicken chalupas supreme,0,0,low_confidence,646511,Chicken Strips (2 Pack),0.4
-4c7aa0206a0be2d0,22608,3 crunchy tacos,0,0,low_confidence,166772,Crunchy Taco,0.25
-5f7dd643b69a252f,22603,3 crunchy tacos supreme,0,0,low_confidence,166774,Crunchy Taco Supreme&reg;,0.333
-260d70fe06830f4e,22637,3 doritos locos tacos,0,0,low_confidence,442470,Taco Lover's Nacho Cheese Doritos&reg; Locos Tacos,0.3
-0611bd953eb052a8,22701,3 doritos locos tacos supreme,0,0,low_confidence,442469,Taco Lover's Nacho Cheese Doritos&reg; Locos Tacos Supreme&reg;,0.364
-511f60915a32b2a3,23765,3 soft tacos,0,0,low_confidence,166835,Soft Taco,0.25
-90413afc817fb147,23755,3 soft tacos supreme,0,0,low_confidence,166837,Soft Taco Supreme&reg;,0.333
-64e936bce2b70066,27272,classic luxe,0,0,low_confidence,410272,$2 Nachos - Classic,0.25
-c3301752eca788fa,27276,supreme luxe,0,0,low_confidence,166771,Crunchwrap Supreme&reg;,0.25
-452b804669c4a500,60528,taco burrito cravings,0,0,low_confidence,216297,Loaded Taco Burrito,0.5
-b8fb8af3cfefe5cf,22189,taco,0,0,low_confidence,166835,Soft Taco,0.6
-0aeb483b1f8aced4,21200,supreme taco,0,0,low_confidence,166837,Soft Taco Supreme&reg;,0.5
-5e6f23861cea048c,26054,variety taco,0,0,low_confidence,166835,Soft Taco,0.333
-4323ddb5400aade0,26055,supreme variety taco,0,0,low_confidence,166837,Soft Taco Supreme&reg;,0.4
-58edf5785351116f,22172,nacho cheese doritos locos tacos,0,0,low_confidence,166781,Nacho Cheese Doritos&reg; Locos Taco,0.571
-58b13f19f6e3b0f4,22173,nacho cheese doritos locos tacos supreme,0,0,low_confidence,166779,Nacho Cheese Doritos&reg; Locos Taco Supreme&reg;,0.625
-96d5db5e50c3c85e,4605,frank s redhot diablo sauce,0,0,low_confidence,745285,Frank's Diablo Buffalo Sauce (0.88 oz),0.444
-8bdeaaea2b562ef4,30045,cinnabon delights 12,0,0,low_confidence,166765,Cinnabon&reg; Delights&trade; (12 Pack - Serves 4),0.429
-ebcbde505f0a6dfa,22741,jalape o peppers,0,0,low_confidence,272551,Loaded Steak and Jalape&ntilde;o Fries,0.286
-8cff340e34aab715,22754,reduced fat sour cream,0,0,low_confidence,506983,Sour Cream (1 oz),0.333
-3dac02bb6ef1b766,22731,creamy jalape o sauce,0,0,low_confidence,417119,Creamy Chipotle Sauce (6 oz),0.286
-6c146c601eec97c8,22740,guacamole,0,0,low_confidence,166761,Chips and Guacamole,0.6
-c25318992d095e45,22732,chipotle sauce,0,0,low_confidence,417119,Creamy Chipotle Sauce (6 oz),0.5
-5296e29416fe793b,2521,spicy ranch,0,0,low_confidence,417117,Spicy Ranch (6 oz),0.6
-fdfa9434ddc507e6,22750,red sauce,0,0,low_confidence,354341,Red Sauce 1.6 oz,0.5
-f4679f06fe2fed82,1634Main,wild strawberry freeze,0,1,low_confidence,312805,Wild Strawberry Freeze&trade; (16 oz),0.6
-c37f6ee84a2fd563,1491Main,mtn dew baja blast freeze,0,1,low_confidence,392738,Mtn Dew Baja Blast Twisted Freeze (32 oz),0.625
-5660125fb7dbf459,1002Main,pepsi,0,1,no_candidates,,,
-d576bd4d642473a3,1007Main,diet pepsi,0,1,no_candidates,,,
-d78839d9989bdd15,1107Main,pepsi zero sugar,0,1,no_candidates,,,
-1dbc7241e0ba9a55,1012Main,mtn dew,0,1,low_confidence,392738,Mtn Dew Baja Blast Twisted Freeze (32 oz),0.35
-4a80af33ad557eb4,1027Main,mtn dew baja blast,0,1,low_confidence,392738,Mtn Dew Baja Blast Twisted Freeze (32 oz),0.6
-cb2b30d8b3e8f6aa,1110Main,mtn dew baja blast zero sugar,0,1,low_confidence,392738,Mtn Dew Baja Blast Twisted Freeze (32 oz),0.4
-942f3962adad149f,1022Main,diet dr pepper,0,1,no_candidates,,,
-09527abb0825102b,1062Main,mug root beer,0,1,no_candidates,,,
-8bb559d7ac971f84,1153Main,starry,0,1,no_candidates,,,
-fd03cf074a8d67fa,1099Main,g2 gatorade fruit punch,0,1,no_candidates,,,
-5efa02c7c1c61d04,3077Main,tropicana original lemonade,0,1,low_confidence,809263,Pink Lemonade Frost (20oz),0.167
-3970a657ff16a11e,1219Main,brisk mango fiesta,0,1,no_candidates,,,
-f9da84a18c53c64a,1077Main,lipton unsweetened iced tea,0,1,low_confidence,363371,Iced Coffee with Creamer,0.167
-473d926567870cba,22142,cool ranch doritos locos tacos,0,0,low_confidence,166754,Cool Ranch&reg; Doritos&reg; Cheesy Gordita Crunch,0.333
-2be8b93985556cca,22143,cool ranch doritos locos tacos supreme,0,0,low_confidence,442469,Taco Lover's Nacho Cheese Doritos&reg; Locos Tacos Supreme&reg;,0.333
-45f35424d1fa3ea7,3782Main,mountain dew baja midnight,0,0,low_confidence,906631,Bottled Mountain Dew&reg; Zero,0.286
-c8bdcda2dcf5eb55,3718Main,dragonfruit strawberry agua refresca,0,0,low_confidence,872519,Dragonfruit Refresca,0.5
-e3cc16fbd00c375a,3660Main,tropical punch rockstar energy refresca,0,0,low_confidence,906628,Electric Punch Energy Refresca,0.5
-c5df89886832bf19,3669Main,pineapple lime rockstar energy refresca,0,0,low_confidence,907968,Pineapple Dream Refresca,0.333
-56547fd70f7b3142,23219,veggie meal for 2,0,0,low_confidence,347187,Grande Nachos - Veggie,0.25
-495f4d364594339e,1147Main,mtn dew zero,0,1,low_confidence,392738,Mtn Dew Baja Blast Twisted Freeze (32 oz),0.222
-634b4d87fe6a28fa,1017Main,dr pepper,0,1,no_candidates,,,
-f6e16009814f8524,1202Main,lipton sweet tea,0,1,no_candidates,,,
-57747208213f266c,1966Main,aquafina bottled water,0,1,low_confidence,217837,Water,0.333
-0b8d75036ae50a14,26124,2 chicken chalupas supreme,0,0,low_confidence,646511,Chicken Strips (2 Pack),0.4
-28c675d88658ea9d,26133,3 crunchy tacos,0,0,low_confidence,166772,Crunchy Taco,0.25
-0fe60ca5ce6d6ac6,26131,3 crunchy tacos supreme,0,0,low_confidence,166774,Crunchy Taco Supreme&reg;,0.333
-ff6a49bfc98aec1a,26139,3 doritos locos tacos,0,0,low_confidence,442470,Taco Lover's Nacho Cheese Doritos&reg; Locos Tacos,0.3
-7011b1879b2c2cfb,26140,3 doritos locos tacos supreme,0,0,low_confidence,442469,Taco Lover's Nacho Cheese Doritos&reg; Locos Tacos Supreme&reg;,0.364
-21978c02d21f121c,26134,3 doritos locos tacos,0,0,low_confidence,442470,Taco Lover's Nacho Cheese Doritos&reg; Locos Tacos,0.3
-cfd5f74c2ba60ebb,26130,3 doritos locos tacos supreme,0,0,low_confidence,442469,Taco Lover's Nacho Cheese Doritos&reg; Locos Tacos Supreme&reg;,0.364
-e00726aed6c18455,1527Main,premium hot coffee,1,0,no_candidates,,,
-13bc5d5920253bd8,1280Main,hot cinnabon delights coffee,1,0,low_confidence,354898,Cinnabon&reg; Delights&trade; (2 Pack) (V),0.25
-ccc62281c25ffe34,1534Main,regular iced coffee,1,0,no_candidates,,,
-e93aa9a108eb5058,1281Main,iced cinnabon delights coffee,1,0,low_confidence,354898,Cinnabon&reg; Delights&trade; (2 Pack) (V),0.25
-6c4d7bf0ab9fa55a,2633,breakfast salsa,1,0,low_confidence,314998,Breakfast Salsa Packet (V),0.6
-df9059efc671f063,1665Main,dragonfruit freeze,0,0,low_confidence,313547,Dragonfruit Freeze&reg; (20 oz),0.5
-2543a4c59d32e455,1473Main,dragonfruit freeze no syrup,0,0,low_confidence,313545,Dragonfruit Freeze&reg; with Dragonfruit Syrup (20 oz),0.429
-7ac8637143c5b12c,22526,caramel apple empanada,0,0,low_confidence,906580,Caramel Apple Empanada Chiller (20 oz),0.6
-380011cb61c9d126,1072Main,cherry pepsi,0,1,no_candidates,,,
-7171d2246bf3b760,22738,green sauce,0,0,low_confidence,607554,Green Sauce (2 oz),0.6
-8a4bbff674ac3583,23575,cheesy melt grilled steak burrito,0,0,low_confidence,420881,Grilled Cheese Burrito - Steak,0.5
-f12cf6c226f73fa0,23576,chipotle ranch grilled steak burrito,0,0,low_confidence,420881,Grilled Cheese Burrito - Steak,0.5
-95c122367dcaecc9,30217,dulce de leche cinnabon delights 2pk,0,0,low_confidence,658306,Cinnabon Delights (2 oz),0.25
-d66e53c134caf880,30218,dulce de leche cinnabon delights 12pk,0,0,low_confidence,658306,Cinnabon Delights (2 oz),0.25
-60ee012fc262477a,24588,discovery luxe,0,0,no_candidates,,,
-bed34b3fc907f995,1507Main,mountain dew baja midnight freeze,0,0,low_confidence,216660,Mtn Dew&reg; Baja Blast Freeze&trade; (32 oz),0.273
-5e08cf0e31eb3229,29011,crispy chicken strips 2pk,0,0,low_confidence,926746,Crispy Chicken Strips - 4 piece,0.5
-3b7b035b4d095085,27273,supreme luxe,0,0,low_confidence,166771,Crunchwrap Supreme&reg;,0.25
-104fc0e814393209,29082,sweet chipotle bbq crispy chicken taco,0,0,low_confidence,423320,Cantina Chicken Crispy Taco,0.429
-d73638bedd0df265,29083,sweet chipotle bbq crispy chicken burrito,0,0,low_confidence,828298,Diablo Buffalo Crispy Chicken Burrito,0.375
-996a84891706d56f,5234,jalape o ranch sauce,0,0,low_confidence,417120,Avocado Ranch Sauce (6 oz),0.286
-218c41759480bd34,5240,onion and cilantro blend,0,0,low_confidence,607551,Three Cheese Blend (0.5 oz),0.125
-09e7215154fbb06e,1450Main,milk,0,1,low_confidence,216679,Lowfat Milk - Federal (Regional),0.35
-c3c8c44ca7e05090,24585,cantina luxe,0,0,low_confidence,925316,Cantina Craze,0.333
-b24ab50b72b99702,32084,bell breakfast,1,0,low_confidence,166958,Breakfast Crunchwrap,0.333
-c278dda114fc8470,30205,breakfast taco sausage,1,0,low_confidence,208070,Breakfast Quesadilla - Sausage,0.5
-74cd51fa49764b0c,30206,breakfast taco bacon,1,0,low_confidence,166711,Breakfast Crunchwrap - Bacon,0.5
-76255e2098622502,30207,breakfast taco potato,1,0,low_confidence,166958,Breakfast Crunchwrap,0.25
-ddca2ab174d227bb,30211,breakfast tacos,1,0,low_confidence,166958,Breakfast Crunchwrap,0.333
-a7130e294472845c,28203,vegan nacho fries,0,0,low_confidence,828300,Diablo Buffalo Chicken Nacho Fries,0.333
-17894a38c870e5ec,28202,vegan nacho fries,0,0,low_confidence,828300,Diablo Buffalo Chicken Nacho Fries,0.333
-2110e5cc6a68142f,28174,deluxe cravings,0,0,no_candidates,,,
-23db53e393f56f7f,23486,build your own meal for 4,0,0,low_confidence,417116,Guacamole (6.4 oz),0.125
-3f191163f572f9fb,23465,strawberry twists,0,0,low_confidence,354895,Cinnamon Twists,0.333
-ec235994a7bc6caf,3568Main,wild strawberry creme delight freeze,0,0,low_confidence,646138,Strawberry Lime Refresca Freeze (16 oz),0.222
-c1202341befbe27b,23155,build your own cravings,0,0,no_candidates,,,
-4f82896f7eb106c0,23265,classic,0,0,low_confidence,410272,$2 Nachos - Classic,0.433
-7d430228f4e6bb6b,22346,rolled chicken tacos 2,0,0,low_confidence,646511,Chicken Strips (2 Pack),0.4
-1f15a1ba9f503005,22347,rolled chicken tacos 4,0,0,low_confidence,752915,Cantina Chicken Quesadilla - Rolled Quesadilla,0.333
-79d7a3c2e9710f38,28158,chicken chipotle melt,0,0,low_confidence,438050,Three Cheese Chipotle Chicken Flatbread Melt,0.5
-59420980c0ba5e2a,23232,chipotle ranch grilled chicken burrito,0,0,low_confidence,420887,$2 Grilled Chicken Burrito - Cheesy Chipotle,0.571
-2e70d38cf892a264,23273,beefy melt burrito,0,0,low_confidence,166718,Beefy 5-Layer Burrito,0.4
-2d7746d9dcb576c3,23264,fiesta veggie burrito,0,0,low_confidence,166716,Bean Burrito,0.25
-051581ddbb6361a7,27233,chips and vegan nacho sauce,0,0,low_confidence,354896,Chips and Nacho Cheese Sauce,0.6
-52101dd8a375f5f8,2898,vegan nacho sauce,0,0,low_confidence,354896,Chips and Nacho Cheese Sauce,0.4
-f7ed055bde8e9ead,1663Main,blue raspberry freeze,0,1,low_confidence,415961,ICEE Twisted Freeze (20 oz),0.143
-953a60b60deeaad4,1145Main,dole lemonade strawberry squeeze,0,1,low_confidence,809263,Pink Lemonade Frost (20oz),0.143
-d01036f8c1b86f87,1141Main,brisk dragon paradise sparkling iced tea,0,1,low_confidence,363371,Iced Coffee with Creamer,0.125
-fe4d9cc90e6118e4,22488,power menu bowl,0,0,low_confidence,166734,Veggie Bowl,0.25
-23ff97fefb2e10e7,22490,power menu bowl veggie,0,0,low_confidence,166734,Veggie Bowl,0.5
-0a3e4bc5d6745269,23622,build your own luxe cravings,0,0,no_candidates,,,
-d0fa9f8751a77ed0,24958,crispy chicken strips 4pk,0,0,low_confidence,926746,Crispy Chicken Strips - 4 piece,0.5
-4b0d97901a98e46a,24952,2 chicken chalupas supreme,0,0,low_confidence,646511,Chicken Strips (2 Pack),0.4
-8607c260d5c3fdd2,24953,3 crunchy tacos,0,0,low_confidence,166772,Crunchy Taco,0.25
-31e06594890d5f7f,24954,3 crunchy tacos supreme,0,0,low_confidence,166774,Crunchy Taco Supreme&reg;,0.333
-dabffbf1e14c594b,24959,3 doritos locos tacos,0,0,low_confidence,442470,Taco Lover's Nacho Cheese Doritos&reg; Locos Tacos,0.3
-ee8294c57e8f21f0,24960,3 doritos locos tacos supreme,0,0,low_confidence,442469,Taco Lover's Nacho Cheese Doritos&reg; Locos Tacos Supreme&reg;,0.364
-ed6aca6c7b47d0f5,29014,creamy chipotle crispy chicken taco,0,0,low_confidence,297825,Crispy Tortilla Chicken Taco,0.5
-22025bf698f81e24,29084,creamy chipotle crispy chicken burrito,0,0,low_confidence,927002,Crispy Chicken Crunchwrap Slider - Creamy Chipotle Sauce,0.5
-85a0ceefbfa983aa,4505,spicy ranchero sauce,0,0,low_confidence,781790,Ranchero Sauce 1.5 oz,0.333
-1df17ee372312795,29054,spicy ranchero crispy chicken taco,0,0,low_confidence,297825,Crispy Tortilla Chicken Taco,0.5
-eab6fc6048465bea,29055,spicy ranchero crispy chicken burrito,0,0,low_confidence,828298,Diablo Buffalo Crispy Chicken Burrito,0.429
-6204ea3701a1557f,26145,2 chicken chalupas supreme,0,0,low_confidence,646511,Chicken Strips (2 Pack),0.4
-c5c77ee54ab04df1,26146,3 crunchy tacos,0,0,low_confidence,166772,Crunchy Taco,0.25
-3c337aa7df18c6b7,26147,3 crunchy tacos supreme,0,0,low_confidence,166774,Crunchy Taco Supreme&reg;,0.333
-555f9d34eaf8b412,26151,3 doritos locos tacos,0,0,low_confidence,442470,Taco Lover's Nacho Cheese Doritos&reg; Locos Tacos,0.3
-5c5b5e2da4bdec9c,26152,3 doritos locos tacos supreme,0,0,low_confidence,442469,Taco Lover's Nacho Cheese Doritos&reg; Locos Tacos Supreme&reg;,0.364
-e051efd122ba5683,3704Main,dirty mtn dew baja blast dream soda,0,0,low_confidence,944008,Mtn Dew&reg; Baja Blast Pie,0.444
-390125ba49717851,3724Main,strawberry matcha chiller,0,0,low_confidence,889511,Dragonfruit Strawberry Limonada,0.2
-0fa7d3f0e045487b,3737Main,lemonade frost,0,0,low_confidence,872520,Pink Lemonade Frost with Strawberries (16 oz),0.433
-a85fbae2492d4bf6,3720Main,mexican chocolate churro chiller,0,0,low_confidence,166804,Mexican Pizza,0.2
-4b5a89ab53782b31,3722Main,wild strawberry churro chiller,0,0,low_confidence,889511,Dragonfruit Strawberry Limonada,0.167
-baf1fb37b019f056,3721Main,caramel dulce churro chiller,0,0,low_confidence,906580,Caramel Apple Empanada Chiller (20 oz),0.25
-e10915b6b87fd93a,3731Main,mexican mocha latte chiller,0,0,low_confidence,166804,Mexican Pizza,0.2
-51be9eefaf2ce5b0,3733Main,cinnabon caramel latte chiller,0,0,low_confidence,906580,Caramel Apple Empanada Chiller (20 oz),0.25
-ace577a2a7232340,3729Main,vanilla crema latte chiller,0,0,low_confidence,834902,Vanilla Creamer (0.5 oz),0.125
-54104e751a393777,3665Main,mexican mocha iced coffee,0,0,low_confidence,166804,Mexican Pizza,0.2
-1f525df66544edba,3664Main,cinnabon caramel iced coffee,0,0,low_confidence,651911,Beekeeper Coffee Horchata,0.167
-fe8ae9f737754760,3663Main,vanilla crema iced coffee,0,0,low_confidence,651911,Beekeeper Coffee Horchata,0.167
-7081d94106e256e9,3673Main,mexican mocha hot coffee,0,0,low_confidence,166804,Mexican Pizza,0.2
-002583e4d2a12387,3672Main,cinnabon caramel hot coffee,0,0,low_confidence,651911,Beekeeper Coffee Horchata,0.167
-3ff93c1b79825784,3666Main,vanilla crema hot coffee,0,0,low_confidence,651911,Beekeeper Coffee Horchata,0.167
-c505be4f7ea7282d,3679Main,celsius energy peach vibe,0,0,low_confidence,829826,Mango Peach Limonada,0.167
-b002be499b906a37,3680Main,gatorade cool blue,0,0,low_confidence,363360,Cool Kidz IPA (16 oz),0.143
-89a49caa0074bd94,1438Main,gatorade lemon lime,0,0,low_confidence,422228,Flybird Lime Margarita,0.2
-3d98e11e59a59b91,29090,frank s redhot diablo chicken nacho fries,0,0,low_confidence,828300,Diablo Buffalo Chicken Nacho Fries,0.5
-d9f3a5ea42a5b57d,76156,nacho fries,0,0,low_confidence,828300,Diablo Buffalo Chicken Nacho Fries,0.5
-65b63b89d8c4de1f,76048,nacho fries,0,0,low_confidence,828300,Diablo Buffalo Chicken Nacho Fries,0.5
-91f7774986309713,76155,seasoned fries,0,0,low_confidence,277742,Loaded Taco Fries,0.25
-035b50299e3d8536,23786,buffs,0,0,no_candidates,,,
-f981da74395e2a17,24587,discovery luxe,0,0,no_candidates,,,
-6829ca0ee1f2c3fd,3058,mike s hot honey diablo dip sauce,0,0,low_confidence,926747,Frank's Diablo Buffalo Sauce (1.5 oz),0.25
-5a88ad6fce16b0ae,3701,hidden valley fire ranch dip sauce,0,0,low_confidence,852962,Hidden Valley Ranch Pickled Jalapeno Ranch Sauce Dip Cup,0.556
-652d56931eba815f,3633,jalape o honey mustard dip sauce,0,0,low_confidence,272551,Loaded Steak and Jalape&ntilde;o Fries,0.2
-8de20bb3d9122d26,91306,discovery luxe,0,0,no_candidates,,,
-ab87e5113cb9cf17,91307,cantina luxe,0,0,low_confidence,925316,Cantina Craze,0.333
-10c34efce4cf6a63,91301,crispy chicken strips 4pk,0,0,low_confidence,926746,Crispy Chicken Strips - 4 piece,0.5
-5f6db7a43f7aa19e,91280,meal for 4,0,0,low_confidence,417116,Guacamole (6.4 oz),0.2
-650b02e07e2a2853,91281,veggie meal for 2,0,0,low_confidence,347187,Grande Nachos - Veggie,0.25
-cc976c1af69d23f3,91302,crispy chicken strips 4pk,0,0,low_confidence,926746,Crispy Chicken Strips - 4 piece,0.5
-9e427ef3d5d0fd98,5527,creamy jalape o sauce,0,0,low_confidence,417119,Creamy Chipotle Sauce (6 oz),0.286
-0141e6b941e16f22,5545,chipotle sauce,0,0,low_confidence,417119,Creamy Chipotle Sauce (6 oz),0.5
-33cccd507c67cdbd,5533,spicy ranch,0,0,low_confidence,417117,Spicy Ranch (6 oz),0.6
-cd58c3f080af8488,29405,10 piece crispy chicken nuggets,0,0,low_confidence,943689,Diablo Dusted Chicken Nuggets - 10 Piece,0.571
-58cdc13de28f7487,29409,10 piece crispy chicken nuggets,0,0,low_confidence,943689,Diablo Dusted Chicken Nuggets - 10 Piece,0.571
-94f1e1f25b381c47,29404,5 piece crispy chicken nuggets,0,0,low_confidence,943690,Diablo Dusted Chicken Nuggets - 5 Piece,0.571
-e45ca214523f8b79,29408,5 piece crispy chicken nuggets,0,0,low_confidence,943690,Diablo Dusted Chicken Nuggets - 5 Piece,0.571
-404401971dfe8ede,24586,discovery luxe,0,0,no_candidates,,,
-ff7c6263ed305303,2077Main,mtn dew baja blast dream freeze,0,0,low_confidence,944008,Mtn Dew&reg; Baja Blast Pie,0.5
-ad1b56c88f0f5b42,3639,bell sauce dip sauce,0,0,low_confidence,852962,Hidden Valley Ranch Pickled Jalapeno Ranch Sauce Dip Cup,0.222
-d0aea90c077e0bd9,5262,chile lime crema sauce,0,0,low_confidence,927004,Sriracha Chile Crisp Sauce (2 oz),0.25
-e8a27a7597725b2c,28207,bbq chicken topped fries,0,0,low_confidence,828300,Diablo Buffalo Chicken Nacho Fries,0.286
-d7647d4af0d31b06,1129Main,coca cola,0,1,no_candidates,,,
-6d4fb35b2df97bf3,1132Main,diet coke,0,1,no_candidates,,,
-945d9d98e688db89,1135Main,sprite,0,1,no_candidates,,,
-311cbf621379f9f8,1126Main,barqs root beer,0,1,no_candidates,,,
-aa1a20e7500d6b1b,3713Main,fanta orange,0,1,low_confidence,169302,Orange Juice,0.333
-6277b78c406de21c,3710Main,coca cola zero,0,1,no_candidates,,,
-eb62e238a46075b3,1138Main,minute maid lemonade,0,1,low_confidence,809263,Pink Lemonade Frost (20oz),0.167
-fd74ae6761d94b75,27236,nacho fries and nacho cheese sauce,0,0,low_confidence,354896,Chips and Nacho Cheese Sauce,0.6
-4e2ec115ff38e950,27237,nacho fries and spicy ranch sauce,0,0,low_confidence,409055,Spicy Ranch Sauce (0.5 oz),0.375
-910eb4e068e2313d,27239,nacho fries and reduced fat sour cream,0,0,low_confidence,506983,Sour Cream (1 oz),0.25
-5f9bc6f22d50af75,27740,nacho fries and chipotle sauce,0,0,low_confidence,354896,Chips and Nacho Cheese Sauce,0.333
-414c016fda134749,27241,nacho fries and avocado ranch sauce,0,0,low_confidence,417120,Avocado Ranch Sauce (6 oz),0.429
-29b65e46ede75c51,27242,nacho fries and creamy jalape o sauce,0,0,low_confidence,272551,Loaded Steak and Jalape&ntilde;o Fries,0.333
-7c50fbb64278a644,23830,jalape o ranch nacho fries,0,0,low_confidence,272551,Loaded Steak and Jalape&ntilde;o Fries,0.375
-4ea0586b610e5979,23831,jalape o ranch nacho fries veggie,0,0,low_confidence,272551,Loaded Steak and Jalape&ntilde;o Fries,0.333
-39270986c643d445,23540,luxe cravings,0,0,no_candidates,,,
-1dae08c473b276ce,3640Main,strawberry limonada freeze,0,0,low_confidence,829822,Strawberry Passionfruit Limonada,0.5
-6dedefa722336773,3644Main,vanilla creme limonada freeze,0,0,low_confidence,854339,Vanilla Cream Soda Freeze&trade; (16 oz),0.222
-5f939042e1394c45,3652Main,limonada freeze,0,0,low_confidence,889511,Dragonfruit Strawberry Limonada,0.25
-c739fe7a587dc537,27240,veggie build your own cravings,0,0,low_confidence,347187,Grande Nachos - Veggie,0.167
-4c7a727072b90b80,29122,grilled cheese burrito deluxe cravings,0,0,low_confidence,277318,Grilled Cheese Burrito,0.6
-5cacee86ce3e61d5,23333,big cheez it crunchwrap supreme,0,0,low_confidence,166771,Crunchwrap Supreme&reg;,0.333
-cfdbbc7f34535fb5,23330,big cheez it tostada,0,0,low_confidence,925314,Big Dawg Burrito,0.167
-1384a6467d08d1e3,5255,jalape o ranch sauce,0,0,low_confidence,417120,Avocado Ranch Sauce (6 oz),0.286
-ae8710c6f0eb684f,23331,big cheez it cracker,0,0,low_confidence,925314,Big Dawg Burrito,0.167
-b016c76300f687f6,550561,delivery lover s pass,0,0,low_confidence,442467,Taco Lover's Crunchy Taco,0.333
-c26f251df69740b3,23547,tostada,0,0,low_confidence,852977,Cantina Chicken Double Tostada,0.433
-eeac913775456f99,23548,green sauce burrito,0,0,low_confidence,607554,Green Sauce (2 oz),0.4
-a29c8f6eae1161b9,22310,meximelt,0,0,no_candidates,,,
-77ae83cb62802b37,22800,gordita supreme,0,0,low_confidence,166771,Crunchwrap Supreme&reg;,0.25
-397225acf5111a90,29417,5 piece crispy chicken nuggets,0,0,low_confidence,943690,Diablo Dusted Chicken Nuggets - 5 Piece,0.571
-c2ec85f5cc979d2e,29418,10 piece crispy chicken nuggets,0,0,low_confidence,943689,Diablo Dusted Chicken Nuggets - 10 Piece,0.571
-e7089bcdd9a5f810,29416,crispy chicken nuggets deluxe meal,0,0,low_confidence,297825,Crispy Tortilla Chicken Taco,0.286
-37ec7a541b97cc4e,23562,luxe cravings,0,0,no_candidates,,,
-a4fd5148c215039a,23468,mtn dew baja blast gelato,0,0,low_confidence,944008,Mtn Dew&reg; Baja Blast Pie,0.571
-049c100f0154746e,1422Main,midnight cherry freeze,0,0,low_confidence,906632,Bottled Cherry Pepsi&reg;,0.167
-a8c9765f8dd3f437,23638,chips n queso,0,0,low_confidence,208068,Chips and Green Chile Queso,0.4
-ea09530b25b86b40,25504,salted caramel churros 3pk,0,0,low_confidence,829443,Salted Caramel Churros (3 Pack),0.6
-5d91dce013124cb3,1266Main,iced tea special,0,1,low_confidence,363371,Iced Coffee with Creamer,0.2
-57a9c79016368923,1263Main,sweet tea special,0,1,no_candidates,,,
-72c1577260077223,23832,discovery luxe,0,0,no_candidates,,,
-f4b87668e17b3e38,8086,sriracha chile sauce,0,0,low_confidence,927004,Sriracha Chile Crisp Sauce (2 oz),0.5
-4d9d4f9158f702a5,23828,slow roasted chicken gordita crunch sliders 2pk,0,0,low_confidence,853312,Cheesy Gordita Crunch Sliders - Chicken,0.5
-81f2f5806e7b6bdf,29095,snacking trio,0,0,no_candidates,,,
-5ab57c807c82a9eb,29093,discovery luxe,0,0,no_candidates,,,
-608dacba7239fe40,23829,season beef gordita crunch sliders 2pk,0,0,low_confidence,872851,Cheesy Gordita Crunch Sliders - Beef,0.571
-69a19f8a8dd0b40b,29094,discovery luxe,0,0,no_candidates,,,
-79c9ccea2c632f1a,29441,discovery luxe,0,0,no_candidates,,,
-1acad7326dd428af,23623,build your own luxe cravings,0,0,no_candidates,,,
-aea141e06fdc5192,29442,diablo crispy chicken nuggets deluxe,0,0,low_confidence,828298,Diablo Buffalo Crispy Chicken Burrito,0.429
-cdeb3f653136b71f,24606,discovery luxe,0,0,no_candidates,,,
-0d35a7200ca6b4a1,24607,nachos slow roasted chicken,0,0,low_confidence,784049,Tacodilla - Slow Roasted Chicken,0.6
-979d9bdfc5624a2e,22728,chili,0,0,low_confidence,906583,Chili (Regional) (2 oz),0.35
-d07760aaf88c6378,23769,2 chicken chalupas supreme,0,0,low_confidence,646511,Chicken Strips (2 Pack),0.4
-4dc0c2be50bc8b2f,1188Main,bottled pepsi,0,1,no_candidates,,,
-825f16dfb3138139,1189Main,bottled diet pepsi,0,1,no_candidates,,,
-e7b60a681f39d8d5,1190Main,bottled mtn dew,0,1,low_confidence,392738,Mtn Dew Baja Blast Twisted Freeze (32 oz),0.222
-61775743bc1c03c8,1187Main,bottled starry,0,1,no_candidates,,,
-a005a041d8befb76,23795,chipotle crispy chicken crunchwrap sliders,0,0,low_confidence,927002,Crispy Chicken Crunchwrap Slider - Creamy Chipotle Sauce,0.5
-655a9e2f05cc5a5c,23796,sriracha chile crispy chicken crunchwrap sliders,0,0,low_confidence,853313,Crispy Chicken Crunchwrap Slider - Sriracha Chile Crisp,0.625
-5d2b4cf7552fdc57,23797,discovery luxe,0,0,no_candidates,,,
-888239aea369f2be,29092,discovery luxe,0,0,no_candidates,,,
-39cfefc6e9979cd5,29091,discovery luxe,0,0,no_candidates,,,
-e17af3b36796d397,5293,avocado verde sauce,0,0,low_confidence,441114,Avocado Salsa Verde Packet,0.4
-31d2a8ba5b8541de,3676Main,yachak yerba mate energy passion fruit,0,0,low_confidence,906627,Berry Burst Energy Refresca,0.111
-da9aada3440dffd0,3677Main,yachak yerba mate energy ultimate mint,0,0,low_confidence,906627,Berry Burst Energy Refresca,0.111
+canonical_product_id,product_code,base_name,category,is_breakfast,is_drink,reason,top_candidate_item_id,top_candidate_name,top_candidate_sim
+895dd8604c8f8cf1,22130,decker taco,member-exclusive,0,0,low_confidence,166835,Soft Taco,0.333
+ccd4f120a6471f17,22706,decker taco supreme,member-exclusive,0,0,low_confidence,166837,Soft Taco Supreme&reg;,0.4
+d2fe7385656c7b73,22240,7 layer burrito,member-exclusive,0,0,low_confidence,166718,Beefy 5-Layer Burrito,0.4
+c172479e9c06aba7,23551,build your own luxe cravings,best-sellers,0,0,no_candidates,,,
+d95deaea191d0d41,28183,nacho fries,best-sellers,0,0,low_confidence,828300,Diablo Buffalo Chicken Nacho Fries,0.5
+b2e40e63cc64ed0b,28095,nacho fries,best-sellers,0,0,low_confidence,828300,Diablo Buffalo Chicken Nacho Fries,0.5
+d9f6b2327d8166f9,29088,frank s redhot diablo crispy chicken burrito,new,0,0,low_confidence,828298,Diablo Buffalo Crispy Chicken Burrito,0.5
+8b7b14032290cb47,29087,frank s redhot diablo crispy chicken soft taco,new,0,0,low_confidence,828299,Diablo Buffalo Crispy Chicken Soft Taco,0.556
+b6deb5016decf7e7,29089,frank s redhot diablo chicken nacho fries,new,0,0,low_confidence,828300,Diablo Buffalo Chicken Nacho Fries,0.5
+31698700c728d932,29072,discovery luxe,new,0,0,no_candidates,,,
+9aa67802ea59a742,24966,crispy chicken strips 4pk,new,0,0,low_confidence,926746,Crispy Chicken Strips - 4 piece,0.5
+7f7a81f10c3818b6,3717Main,strawberry passionfruit agua refresca,new,0,0,low_confidence,889510,Strawberry Dream Refresca,0.4
+7f71ed3fa79f653c,3719Main,mango peach agua refresca,new,0,0,low_confidence,829826,Mango Peach Limonada,0.4
+73f131802f007014,23218,meal for 2,online-exclusives,0,0,low_confidence,646511,Chicken Strips (2 Pack),0.25
+12e3b2bd8af2e451,23220,meal for 4,online-exclusives,0,0,low_confidence,417116,Guacamole (6.4 oz),0.2
+0f36a38e536bb638,21210,drinks,online-exclusives,0,0,no_candidates,,,
+22602af93f496c99,23760,2 chicken chalupas supreme,deals-and-combos,0,0,low_confidence,646511,Chicken Strips (2 Pack),0.4
+4c7aa0206a0be2d0,22608,3 crunchy tacos,deals-and-combos,0,0,low_confidence,166772,Crunchy Taco,0.25
+5f7dd643b69a252f,22603,3 crunchy tacos supreme,deals-and-combos,0,0,low_confidence,166774,Crunchy Taco Supreme&reg;,0.333
+260d70fe06830f4e,22637,3 doritos locos tacos,deals-and-combos,0,0,low_confidence,442470,Taco Lover's Nacho Cheese Doritos&reg; Locos Tacos,0.3
+0611bd953eb052a8,22701,3 doritos locos tacos supreme,deals-and-combos,0,0,low_confidence,442469,Taco Lover's Nacho Cheese Doritos&reg; Locos Tacos Supreme&reg;,0.364
+511f60915a32b2a3,23765,3 soft tacos,deals-and-combos,0,0,low_confidence,166835,Soft Taco,0.25
+90413afc817fb147,23755,3 soft tacos supreme,deals-and-combos,0,0,low_confidence,166837,Soft Taco Supreme&reg;,0.333
+64e936bce2b70066,27272,classic luxe,deals-and-combos,0,0,low_confidence,410272,$2 Nachos - Classic,0.25
+c3301752eca788fa,27276,supreme luxe,deals-and-combos,0,0,low_confidence,166771,Crunchwrap Supreme&reg;,0.25
+452b804669c4a500,60528,taco burrito cravings,party-packs,0,0,low_confidence,216297,Loaded Taco Burrito,0.5
+b8fb8af3cfefe5cf,22189,taco,party-packs,0,0,low_confidence,166835,Soft Taco,0.6
+0aeb483b1f8aced4,21200,supreme taco,party-packs,0,0,low_confidence,166837,Soft Taco Supreme&reg;,0.5
+5e6f23861cea048c,26054,variety taco,party-packs,0,0,low_confidence,166835,Soft Taco,0.333
+4323ddb5400aade0,26055,supreme variety taco,party-packs,0,0,low_confidence,166837,Soft Taco Supreme&reg;,0.4
+58edf5785351116f,22172,nacho cheese doritos locos tacos,tacos,0,0,low_confidence,166781,Nacho Cheese Doritos&reg; Locos Taco,0.571
+58b13f19f6e3b0f4,22173,nacho cheese doritos locos tacos supreme,tacos,0,0,low_confidence,166779,Nacho Cheese Doritos&reg; Locos Taco Supreme&reg;,0.625
+96d5db5e50c3c85e,4605,frank s redhot diablo sauce,sides-sweets,0,0,low_confidence,745285,Frank's Diablo Buffalo Sauce (0.88 oz),0.444
+8bdeaaea2b562ef4,30045,cinnabon delights 12,sides-sweets,0,0,low_confidence,166765,Cinnabon&reg; Delights&trade; (12 Pack - Serves 4),0.429
+ebcbde505f0a6dfa,22741,jalape o peppers,sides-sweets,0,0,low_confidence,272551,Loaded Steak and Jalape&ntilde;o Fries,0.286
+8cff340e34aab715,22754,reduced fat sour cream,sides-sweets,0,0,low_confidence,506983,Sour Cream (1 oz),0.333
+3dac02bb6ef1b766,22731,creamy jalape o sauce,sides-sweets,0,0,low_confidence,417119,Creamy Chipotle Sauce (6 oz),0.286
+6c146c601eec97c8,22740,guacamole,sides-sweets,0,0,low_confidence,166761,Chips and Guacamole,0.6
+c25318992d095e45,22732,chipotle sauce,sides-sweets,0,0,low_confidence,417119,Creamy Chipotle Sauce (6 oz),0.5
+5296e29416fe793b,2521,spicy ranch,sides-sweets,0,0,low_confidence,417117,Spicy Ranch (6 oz),0.6
+fdfa9434ddc507e6,22750,red sauce,sides-sweets,0,0,low_confidence,354341,Red Sauce 1.6 oz,0.5
+f4679f06fe2fed82,1634Main,wild strawberry freeze,drinks,0,1,low_confidence,312805,Wild Strawberry Freeze&trade; (16 oz),0.6
+c37f6ee84a2fd563,1491Main,mtn dew baja blast freeze,drinks,0,1,low_confidence,392738,Mtn Dew Baja Blast Twisted Freeze (32 oz),0.625
+5660125fb7dbf459,1002Main,pepsi,drinks,0,1,no_candidates,,,
+d576bd4d642473a3,1007Main,diet pepsi,drinks,0,1,no_candidates,,,
+d78839d9989bdd15,1107Main,pepsi zero sugar,drinks,0,1,no_candidates,,,
+1dbc7241e0ba9a55,1012Main,mtn dew,drinks,0,1,low_confidence,392738,Mtn Dew Baja Blast Twisted Freeze (32 oz),0.35
+4a80af33ad557eb4,1027Main,mtn dew baja blast,drinks,0,1,low_confidence,392738,Mtn Dew Baja Blast Twisted Freeze (32 oz),0.6
+cb2b30d8b3e8f6aa,1110Main,mtn dew baja blast zero sugar,drinks,0,1,low_confidence,392738,Mtn Dew Baja Blast Twisted Freeze (32 oz),0.4
+942f3962adad149f,1022Main,diet dr pepper,drinks,0,1,no_candidates,,,
+09527abb0825102b,1062Main,mug root beer,drinks,0,1,no_candidates,,,
+8bb559d7ac971f84,1153Main,starry,drinks,0,1,no_candidates,,,
+fd03cf074a8d67fa,1099Main,g2 gatorade fruit punch,drinks,0,1,no_candidates,,,
+5efa02c7c1c61d04,3077Main,tropicana original lemonade,drinks,0,1,low_confidence,809263,Pink Lemonade Frost (20oz),0.167
+3970a657ff16a11e,1219Main,brisk mango fiesta,drinks,0,1,no_candidates,,,
+f9da84a18c53c64a,1077Main,lipton unsweetened iced tea,drinks,0,1,low_confidence,363371,Iced Coffee with Creamer,0.167
+473d926567870cba,22142,cool ranch doritos locos tacos,member-exclusive,0,0,low_confidence,166754,Cool Ranch&reg; Doritos&reg; Cheesy Gordita Crunch,0.333
+2be8b93985556cca,22143,cool ranch doritos locos tacos supreme,member-exclusive,0,0,low_confidence,442469,Taco Lover's Nacho Cheese Doritos&reg; Locos Tacos Supreme&reg;,0.333
+45f35424d1fa3ea7,3782Main,mountain dew baja midnight,new,0,0,low_confidence,906631,Bottled Mountain Dew&reg; Zero,0.286
+c8bdcda2dcf5eb55,3718Main,dragonfruit strawberry agua refresca,new,0,0,low_confidence,872519,Dragonfruit Refresca,0.5
+e3cc16fbd00c375a,3660Main,tropical punch rockstar energy refresca,new,0,0,low_confidence,906628,Electric Punch Energy Refresca,0.5
+c5df89886832bf19,3669Main,pineapple lime rockstar energy refresca,new,0,0,low_confidence,907968,Pineapple Dream Refresca,0.333
+56547fd70f7b3142,23219,veggie meal for 2,online-exclusives,0,0,low_confidence,347187,Grande Nachos - Veggie,0.25
+495f4d364594339e,1147Main,mtn dew zero,drinks,0,1,low_confidence,392738,Mtn Dew Baja Blast Twisted Freeze (32 oz),0.222
+634b4d87fe6a28fa,1017Main,dr pepper,drinks,0,1,no_candidates,,,
+f6e16009814f8524,1202Main,lipton sweet tea,drinks,0,1,no_candidates,,,
+57747208213f266c,1966Main,aquafina bottled water,drinks,0,1,low_confidence,217837,Water,0.333
+0b8d75036ae50a14,26124,2 chicken chalupas supreme,deals-and-combos,0,0,low_confidence,646511,Chicken Strips (2 Pack),0.4
+28c675d88658ea9d,26133,3 crunchy tacos,deals-and-combos,0,0,low_confidence,166772,Crunchy Taco,0.25
+0fe60ca5ce6d6ac6,26131,3 crunchy tacos supreme,deals-and-combos,0,0,low_confidence,166774,Crunchy Taco Supreme&reg;,0.333
+ff6a49bfc98aec1a,26139,3 doritos locos tacos,deals-and-combos,0,0,low_confidence,442470,Taco Lover's Nacho Cheese Doritos&reg; Locos Tacos,0.3
+7011b1879b2c2cfb,26140,3 doritos locos tacos supreme,deals-and-combos,0,0,low_confidence,442469,Taco Lover's Nacho Cheese Doritos&reg; Locos Tacos Supreme&reg;,0.364
+21978c02d21f121c,26134,3 doritos locos tacos,deals-and-combos,0,0,low_confidence,442470,Taco Lover's Nacho Cheese Doritos&reg; Locos Tacos,0.3
+cfd5f74c2ba60ebb,26130,3 doritos locos tacos supreme,deals-and-combos,0,0,low_confidence,442469,Taco Lover's Nacho Cheese Doritos&reg; Locos Tacos Supreme&reg;,0.364
+e00726aed6c18455,1527Main,premium hot coffee,breakfast,1,0,no_candidates,,,
+13bc5d5920253bd8,1280Main,hot cinnabon delights coffee,breakfast,1,0,low_confidence,354898,Cinnabon&reg; Delights&trade; (2 Pack) (V),0.25
+ccc62281c25ffe34,1534Main,regular iced coffee,breakfast,1,0,no_candidates,,,
+e93aa9a108eb5058,1281Main,iced cinnabon delights coffee,breakfast,1,0,low_confidence,354898,Cinnabon&reg; Delights&trade; (2 Pack) (V),0.25
+6c4d7bf0ab9fa55a,2633,breakfast salsa,breakfast,1,0,low_confidence,314998,Breakfast Salsa Packet (V),0.6
+df9059efc671f063,1665Main,dragonfruit freeze,new,0,0,low_confidence,313547,Dragonfruit Freeze&reg; (20 oz),0.5
+2543a4c59d32e455,1473Main,dragonfruit freeze no syrup,new,0,0,low_confidence,313545,Dragonfruit Freeze&reg; with Dragonfruit Syrup (20 oz),0.429
+7ac8637143c5b12c,22526,caramel apple empanada,member-exclusive,0,0,low_confidence,906580,Caramel Apple Empanada Chiller (20 oz),0.6
+380011cb61c9d126,1072Main,cherry pepsi,drinks,0,1,no_candidates,,,
+7171d2246bf3b760,22738,green sauce,sides-sweets,0,0,low_confidence,607554,Green Sauce (2 oz),0.6
+8a4bbff674ac3583,23575,cheesy melt grilled steak burrito,new,0,0,low_confidence,420881,Grilled Cheese Burrito - Steak,0.5
+f12cf6c226f73fa0,23576,chipotle ranch grilled steak burrito,new,0,0,low_confidence,420881,Grilled Cheese Burrito - Steak,0.5
+95c122367dcaecc9,30217,dulce de leche cinnabon delights 2pk,new,0,0,low_confidence,658306,Cinnabon Delights (2 oz),0.25
+d66e53c134caf880,30218,dulce de leche cinnabon delights 12pk,new,0,0,low_confidence,658306,Cinnabon Delights (2 oz),0.25
+60ee012fc262477a,24588,discovery luxe,new,0,0,no_candidates,,,
+bed34b3fc907f995,1507Main,mountain dew baja midnight freeze,new,0,0,low_confidence,216660,Mtn Dew&reg; Baja Blast Freeze&trade; (32 oz),0.273
+5e08cf0e31eb3229,29011,crispy chicken strips 2pk,new,0,0,low_confidence,926746,Crispy Chicken Strips - 4 piece,0.5
+3b7b035b4d095085,27273,supreme luxe,deals-and-combos,0,0,low_confidence,166771,Crunchwrap Supreme&reg;,0.25
+104fc0e814393209,29082,sweet chipotle bbq crispy chicken taco,tacos,0,0,low_confidence,423320,Cantina Chicken Crispy Taco,0.429
+d73638bedd0df265,29083,sweet chipotle bbq crispy chicken burrito,burritos,0,0,low_confidence,828298,Diablo Buffalo Crispy Chicken Burrito,0.375
+996a84891706d56f,5234,jalape o ranch sauce,sides-sweets,0,0,low_confidence,417120,Avocado Ranch Sauce (6 oz),0.286
+218c41759480bd34,5240,onion and cilantro blend,sides-sweets,0,0,low_confidence,607551,Three Cheese Blend (0.5 oz),0.125
+09e7215154fbb06e,1450Main,milk,drinks,0,1,low_confidence,216679,Lowfat Milk - Federal (Regional),0.35
+c3c8c44ca7e05090,24585,cantina luxe,new,0,0,low_confidence,925316,Cantina Craze,0.333
+b24ab50b72b99702,32084,bell breakfast,breakfast,1,0,low_confidence,166958,Breakfast Crunchwrap,0.333
+c278dda114fc8470,30205,breakfast taco sausage,breakfast,1,0,low_confidence,208070,Breakfast Quesadilla - Sausage,0.5
+74cd51fa49764b0c,30206,breakfast taco bacon,breakfast,1,0,low_confidence,166711,Breakfast Crunchwrap - Bacon,0.5
+76255e2098622502,30207,breakfast taco potato,breakfast,1,0,low_confidence,166958,Breakfast Crunchwrap,0.25
+ddca2ab174d227bb,30211,breakfast tacos,breakfast,1,0,low_confidence,166958,Breakfast Crunchwrap,0.333
+a7130e294472845c,28203,vegan nacho fries,new,0,0,low_confidence,828300,Diablo Buffalo Chicken Nacho Fries,0.333
+17894a38c870e5ec,28202,vegan nacho fries,new,0,0,low_confidence,828300,Diablo Buffalo Chicken Nacho Fries,0.333
+2110e5cc6a68142f,28174,deluxe cravings,new,0,0,no_candidates,,,
+23db53e393f56f7f,23486,build your own meal for 4,new,0,0,low_confidence,417116,Guacamole (6.4 oz),0.125
+3f191163f572f9fb,23465,strawberry twists,new,0,0,low_confidence,354895,Cinnamon Twists,0.333
+ec235994a7bc6caf,3568Main,wild strawberry creme delight freeze,new,0,0,low_confidence,646138,Strawberry Lime Refresca Freeze (16 oz),0.222
+c1202341befbe27b,23155,build your own cravings,online-exclusives,0,0,no_candidates,,,
+4f82896f7eb106c0,23265,classic,deals-and-combos,0,0,low_confidence,410272,$2 Nachos - Classic,0.433
+7d430228f4e6bb6b,22346,rolled chicken tacos 2,specialties,0,0,low_confidence,646511,Chicken Strips (2 Pack),0.4
+1f15a1ba9f503005,22347,rolled chicken tacos 4,specialties,0,0,low_confidence,752915,Cantina Chicken Quesadilla - Rolled Quesadilla,0.333
+79d7a3c2e9710f38,28158,chicken chipotle melt,specialties,0,0,low_confidence,438050,Three Cheese Chipotle Chicken Flatbread Melt,0.5
+59420980c0ba5e2a,23232,chipotle ranch grilled chicken burrito,burritos,0,0,low_confidence,420887,$2 Grilled Chicken Burrito - Cheesy Chipotle,0.571
+2e70d38cf892a264,23273,beefy melt burrito,burritos,0,0,low_confidence,166718,Beefy 5-Layer Burrito,0.4
+2d7746d9dcb576c3,23264,fiesta veggie burrito,burritos,0,0,low_confidence,166716,Bean Burrito,0.25
+051581ddbb6361a7,27233,chips and vegan nacho sauce,nachos,0,0,low_confidence,354896,Chips and Nacho Cheese Sauce,0.6
+52101dd8a375f5f8,2898,vegan nacho sauce,sides-sweets,0,0,low_confidence,354896,Chips and Nacho Cheese Sauce,0.4
+f7ed055bde8e9ead,1663Main,blue raspberry freeze,drinks,0,1,low_confidence,415961,ICEE Twisted Freeze (20 oz),0.143
+953a60b60deeaad4,1145Main,dole lemonade strawberry squeeze,drinks,0,1,low_confidence,809263,Pink Lemonade Frost (20oz),0.143
+d01036f8c1b86f87,1141Main,brisk dragon paradise sparkling iced tea,drinks,0,1,low_confidence,363371,Iced Coffee with Creamer,0.125
+fe4d9cc90e6118e4,22488,power menu bowl,power-menu,0,0,low_confidence,166734,Veggie Bowl,0.25
+23ff97fefb2e10e7,22490,power menu bowl veggie,power-menu,0,0,low_confidence,166734,Veggie Bowl,0.5
+0a3e4bc5d6745269,23622,build your own luxe cravings,best-sellers,0,0,no_candidates,,,
+d0fa9f8751a77ed0,24958,crispy chicken strips 4pk,deals-and-combos,0,0,low_confidence,926746,Crispy Chicken Strips - 4 piece,0.5
+4b0d97901a98e46a,24952,2 chicken chalupas supreme,deals-and-combos,0,0,low_confidence,646511,Chicken Strips (2 Pack),0.4
+8607c260d5c3fdd2,24953,3 crunchy tacos,deals-and-combos,0,0,low_confidence,166772,Crunchy Taco,0.25
+31e06594890d5f7f,24954,3 crunchy tacos supreme,deals-and-combos,0,0,low_confidence,166774,Crunchy Taco Supreme&reg;,0.333
+dabffbf1e14c594b,24959,3 doritos locos tacos,deals-and-combos,0,0,low_confidence,442470,Taco Lover's Nacho Cheese Doritos&reg; Locos Tacos,0.3
+ee8294c57e8f21f0,24960,3 doritos locos tacos supreme,deals-and-combos,0,0,low_confidence,442469,Taco Lover's Nacho Cheese Doritos&reg; Locos Tacos Supreme&reg;,0.364
+ed6aca6c7b47d0f5,29014,creamy chipotle crispy chicken taco,tacos,0,0,low_confidence,297825,Crispy Tortilla Chicken Taco,0.5
+22025bf698f81e24,29084,creamy chipotle crispy chicken burrito,burritos,0,0,low_confidence,927002,Crispy Chicken Crunchwrap Slider - Creamy Chipotle Sauce,0.5
+85a0ceefbfa983aa,4505,spicy ranchero sauce,sides-sweets,0,0,low_confidence,781790,Ranchero Sauce 1.5 oz,0.333
+1df17ee372312795,29054,spicy ranchero crispy chicken taco,tacos,0,0,low_confidence,297825,Crispy Tortilla Chicken Taco,0.5
+eab6fc6048465bea,29055,spicy ranchero crispy chicken burrito,burritos,0,0,low_confidence,828298,Diablo Buffalo Crispy Chicken Burrito,0.429
+6204ea3701a1557f,26145,2 chicken chalupas supreme,deals-and-combos,0,0,low_confidence,646511,Chicken Strips (2 Pack),0.4
+c5c77ee54ab04df1,26146,3 crunchy tacos,deals-and-combos,0,0,low_confidence,166772,Crunchy Taco,0.25
+3c337aa7df18c6b7,26147,3 crunchy tacos supreme,deals-and-combos,0,0,low_confidence,166774,Crunchy Taco Supreme&reg;,0.333
+555f9d34eaf8b412,26151,3 doritos locos tacos,deals-and-combos,0,0,low_confidence,442470,Taco Lover's Nacho Cheese Doritos&reg; Locos Tacos,0.3
+5c5b5e2da4bdec9c,26152,3 doritos locos tacos supreme,deals-and-combos,0,0,low_confidence,442469,Taco Lover's Nacho Cheese Doritos&reg; Locos Tacos Supreme&reg;,0.364
+e051efd122ba5683,3704Main,dirty mtn dew baja blast dream soda,new,0,0,low_confidence,944008,Mtn Dew&reg; Baja Blast Pie,0.444
+390125ba49717851,3724Main,strawberry matcha chiller,new,0,0,low_confidence,889511,Dragonfruit Strawberry Limonada,0.2
+0fa7d3f0e045487b,3737Main,lemonade frost,new,0,0,low_confidence,872520,Pink Lemonade Frost with Strawberries (16 oz),0.433
+a85fbae2492d4bf6,3720Main,mexican chocolate churro chiller,new,0,0,low_confidence,166804,Mexican Pizza,0.2
+4b5a89ab53782b31,3722Main,wild strawberry churro chiller,new,0,0,low_confidence,889511,Dragonfruit Strawberry Limonada,0.167
+baf1fb37b019f056,3721Main,caramel dulce churro chiller,new,0,0,low_confidence,906580,Caramel Apple Empanada Chiller (20 oz),0.25
+e10915b6b87fd93a,3731Main,mexican mocha latte chiller,new,0,0,low_confidence,166804,Mexican Pizza,0.2
+51be9eefaf2ce5b0,3733Main,cinnabon caramel latte chiller,new,0,0,low_confidence,906580,Caramel Apple Empanada Chiller (20 oz),0.25
+ace577a2a7232340,3729Main,vanilla crema latte chiller,new,0,0,low_confidence,834902,Vanilla Creamer (0.5 oz),0.125
+54104e751a393777,3665Main,mexican mocha iced coffee,new,0,0,low_confidence,166804,Mexican Pizza,0.2
+1f525df66544edba,3664Main,cinnabon caramel iced coffee,new,0,0,low_confidence,651911,Beekeeper Coffee Horchata,0.167
+fe8ae9f737754760,3663Main,vanilla crema iced coffee,new,0,0,low_confidence,651911,Beekeeper Coffee Horchata,0.167
+7081d94106e256e9,3673Main,mexican mocha hot coffee,new,0,0,low_confidence,166804,Mexican Pizza,0.2
+002583e4d2a12387,3672Main,cinnabon caramel hot coffee,new,0,0,low_confidence,651911,Beekeeper Coffee Horchata,0.167
+3ff93c1b79825784,3666Main,vanilla crema hot coffee,new,0,0,low_confidence,651911,Beekeeper Coffee Horchata,0.167
+c505be4f7ea7282d,3679Main,celsius energy peach vibe,new,0,0,low_confidence,829826,Mango Peach Limonada,0.167
+b002be499b906a37,3680Main,gatorade cool blue,new,0,0,low_confidence,363360,Cool Kidz IPA (16 oz),0.143
+89a49caa0074bd94,1438Main,gatorade lemon lime,new,0,0,low_confidence,422228,Flybird Lime Margarita,0.2
+3d98e11e59a59b91,29090,frank s redhot diablo chicken nacho fries,new,0,0,low_confidence,828300,Diablo Buffalo Chicken Nacho Fries,0.5
+d9f3a5ea42a5b57d,76156,nacho fries,specialties,0,0,low_confidence,828300,Diablo Buffalo Chicken Nacho Fries,0.5
+65b63b89d8c4de1f,76048,nacho fries,specialties,0,0,low_confidence,828300,Diablo Buffalo Chicken Nacho Fries,0.5
+91f7774986309713,76155,seasoned fries,sides-sweets,0,0,low_confidence,277742,Loaded Taco Fries,0.25
+035b50299e3d8536,23786,buffs,new,0,0,no_candidates,,,
+f981da74395e2a17,24587,discovery luxe,new,0,0,no_candidates,,,
+6829ca0ee1f2c3fd,3058,mike s hot honey diablo dip sauce,sides-sweets,0,0,low_confidence,926747,Frank's Diablo Buffalo Sauce (1.5 oz),0.25
+5a88ad6fce16b0ae,3701,hidden valley fire ranch dip sauce,sides-sweets,0,0,low_confidence,852962,Hidden Valley Ranch Pickled Jalapeno Ranch Sauce Dip Cup,0.556
+652d56931eba815f,3633,jalape o honey mustard dip sauce,sides-sweets,0,0,low_confidence,272551,Loaded Steak and Jalape&ntilde;o Fries,0.2
+8de20bb3d9122d26,91306,discovery luxe,new,0,0,no_candidates,,,
+ab87e5113cb9cf17,91307,cantina luxe,new,0,0,low_confidence,925316,Cantina Craze,0.333
+10c34efce4cf6a63,91301,crispy chicken strips 4pk,new,0,0,low_confidence,926746,Crispy Chicken Strips - 4 piece,0.5
+5f6db7a43f7aa19e,91280,meal for 4,online-exclusives,0,0,low_confidence,417116,Guacamole (6.4 oz),0.2
+650b02e07e2a2853,91281,veggie meal for 2,online-exclusives,0,0,low_confidence,347187,Grande Nachos - Veggie,0.25
+cc976c1af69d23f3,91302,crispy chicken strips 4pk,deals-and-combos,0,0,low_confidence,926746,Crispy Chicken Strips - 4 piece,0.5
+9e427ef3d5d0fd98,5527,creamy jalape o sauce,sides-sweets,0,0,low_confidence,417119,Creamy Chipotle Sauce (6 oz),0.286
+0141e6b941e16f22,5545,chipotle sauce,sides-sweets,0,0,low_confidence,417119,Creamy Chipotle Sauce (6 oz),0.5
+33cccd507c67cdbd,5533,spicy ranch,sides-sweets,0,0,low_confidence,417117,Spicy Ranch (6 oz),0.6
+cd58c3f080af8488,29405,10 piece crispy chicken nuggets,new,0,0,low_confidence,943689,Diablo Dusted Chicken Nuggets - 10 Piece,0.571
+58cdc13de28f7487,29409,10 piece crispy chicken nuggets,new,0,0,low_confidence,943689,Diablo Dusted Chicken Nuggets - 10 Piece,0.571
+94f1e1f25b381c47,29404,5 piece crispy chicken nuggets,new,0,0,low_confidence,943690,Diablo Dusted Chicken Nuggets - 5 Piece,0.571
+e45ca214523f8b79,29408,5 piece crispy chicken nuggets,new,0,0,low_confidence,943690,Diablo Dusted Chicken Nuggets - 5 Piece,0.571
+404401971dfe8ede,24586,discovery luxe,new,0,0,no_candidates,,,
+ff7c6263ed305303,2077Main,mtn dew baja blast dream freeze,new,0,0,low_confidence,944008,Mtn Dew&reg; Baja Blast Pie,0.5
+ad1b56c88f0f5b42,3639,bell sauce dip sauce,sides-sweets,0,0,low_confidence,852962,Hidden Valley Ranch Pickled Jalapeno Ranch Sauce Dip Cup,0.222
+d0aea90c077e0bd9,5262,chile lime crema sauce,sides-sweets,0,0,low_confidence,927004,Sriracha Chile Crisp Sauce (2 oz),0.25
+e8a27a7597725b2c,28207,bbq chicken topped fries,specialties,0,0,low_confidence,828300,Diablo Buffalo Chicken Nacho Fries,0.286
+d7647d4af0d31b06,1129Main,coca cola,drinks,0,1,no_candidates,,,
+6d4fb35b2df97bf3,1132Main,diet coke,drinks,0,1,no_candidates,,,
+945d9d98e688db89,1135Main,sprite,drinks,0,1,no_candidates,,,
+311cbf621379f9f8,1126Main,barqs root beer,drinks,0,1,no_candidates,,,
+aa1a20e7500d6b1b,3713Main,fanta orange,drinks,0,1,low_confidence,169302,Orange Juice,0.333
+6277b78c406de21c,3710Main,coca cola zero,drinks,0,1,no_candidates,,,
+eb62e238a46075b3,1138Main,minute maid lemonade,drinks,0,1,low_confidence,809263,Pink Lemonade Frost (20oz),0.167
+fd74ae6761d94b75,27236,nacho fries and nacho cheese sauce,nacho-fries-pass,0,0,low_confidence,354896,Chips and Nacho Cheese Sauce,0.6
+4e2ec115ff38e950,27237,nacho fries and spicy ranch sauce,nacho-fries-pass,0,0,low_confidence,409055,Spicy Ranch Sauce (0.5 oz),0.375
+910eb4e068e2313d,27239,nacho fries and reduced fat sour cream,nacho-fries-pass,0,0,low_confidence,506983,Sour Cream (1 oz),0.25
+5f9bc6f22d50af75,27740,nacho fries and chipotle sauce,nacho-fries-pass,0,0,low_confidence,354896,Chips and Nacho Cheese Sauce,0.333
+414c016fda134749,27241,nacho fries and avocado ranch sauce,nacho-fries-pass,0,0,low_confidence,417120,Avocado Ranch Sauce (6 oz),0.429
+29b65e46ede75c51,27242,nacho fries and creamy jalape o sauce,nacho-fries-pass,0,0,low_confidence,272551,Loaded Steak and Jalape&ntilde;o Fries,0.333
+7c50fbb64278a644,23830,jalape o ranch nacho fries,new,0,0,low_confidence,272551,Loaded Steak and Jalape&ntilde;o Fries,0.375
+4ea0586b610e5979,23831,jalape o ranch nacho fries veggie,new,0,0,low_confidence,272551,Loaded Steak and Jalape&ntilde;o Fries,0.333
+39270986c643d445,23540,luxe cravings,new,0,0,no_candidates,,,
+1dae08c473b276ce,3640Main,strawberry limonada freeze,new,0,0,low_confidence,829822,Strawberry Passionfruit Limonada,0.5
+6dedefa722336773,3644Main,vanilla creme limonada freeze,new,0,0,low_confidence,854339,Vanilla Cream Soda Freeze&trade; (16 oz),0.222
+5f939042e1394c45,3652Main,limonada freeze,new,0,0,low_confidence,889511,Dragonfruit Strawberry Limonada,0.25
+c739fe7a587dc537,27240,veggie build your own cravings,online-exclusives,0,0,low_confidence,347187,Grande Nachos - Veggie,0.167
+4c7a727072b90b80,29122,grilled cheese burrito deluxe cravings,deals-and-combos,0,0,low_confidence,277318,Grilled Cheese Burrito,0.6
+5cacee86ce3e61d5,23333,big cheez it crunchwrap supreme,specialties,0,0,low_confidence,166771,Crunchwrap Supreme&reg;,0.333
+cfdbbc7f34535fb5,23330,big cheez it tostada,specialties,0,0,low_confidence,925314,Big Dawg Burrito,0.167
+1384a6467d08d1e3,5255,jalape o ranch sauce,sides-sweets,0,0,low_confidence,417120,Avocado Ranch Sauce (6 oz),0.286
+ae8710c6f0eb684f,23331,big cheez it cracker,sides-sweets,0,0,low_confidence,925314,Big Dawg Burrito,0.167
+b016c76300f687f6,550561,delivery lover s pass,passes,0,0,low_confidence,442467,Taco Lover's Crunchy Taco,0.333
+c26f251df69740b3,23547,tostada,decades,0,0,low_confidence,852977,Cantina Chicken Double Tostada,0.433
+eeac913775456f99,23548,green sauce burrito,decades,0,0,low_confidence,607554,Green Sauce (2 oz),0.4
+a29c8f6eae1161b9,22310,meximelt,decades,0,0,no_candidates,,,
+77ae83cb62802b37,22800,gordita supreme,decades,0,0,low_confidence,166771,Crunchwrap Supreme&reg;,0.25
+397225acf5111a90,29417,5 piece crispy chicken nuggets,new,0,0,low_confidence,943690,Diablo Dusted Chicken Nuggets - 5 Piece,0.571
+c2ec85f5cc979d2e,29418,10 piece crispy chicken nuggets,new,0,0,low_confidence,943689,Diablo Dusted Chicken Nuggets - 10 Piece,0.571
+e7089bcdd9a5f810,29416,crispy chicken nuggets deluxe meal,new,0,0,low_confidence,297825,Crispy Tortilla Chicken Taco,0.286
+37ec7a541b97cc4e,23562,luxe cravings,new,0,0,no_candidates,,,
+a4fd5148c215039a,23468,mtn dew baja blast gelato,new,0,0,low_confidence,944008,Mtn Dew&reg; Baja Blast Pie,0.571
+049c100f0154746e,1422Main,midnight cherry freeze,new,0,0,low_confidence,906632,Bottled Cherry Pepsi&reg;,0.167
+a8c9765f8dd3f437,23638,chips n queso,new,0,0,low_confidence,208068,Chips and Green Chile Queso,0.4
+ea09530b25b86b40,25504,salted caramel churros 3pk,new,0,0,low_confidence,829443,Salted Caramel Churros (3 Pack),0.6
+5d91dce013124cb3,1266Main,iced tea special,drinks,0,1,low_confidence,363371,Iced Coffee with Creamer,0.2
+57a9c79016368923,1263Main,sweet tea special,drinks,0,1,no_candidates,,,
+72c1577260077223,23832,discovery luxe,new,0,0,no_candidates,,,
+f4b87668e17b3e38,8086,sriracha chile sauce,sides-sweets,0,0,low_confidence,927004,Sriracha Chile Crisp Sauce (2 oz),0.5
+4d9d4f9158f702a5,23828,slow roasted chicken gordita crunch sliders 2pk,new,0,0,low_confidence,853312,Cheesy Gordita Crunch Sliders - Chicken,0.5
+81f2f5806e7b6bdf,29095,snacking trio,new,0,0,no_candidates,,,
+5ab57c807c82a9eb,29093,discovery luxe,new,0,0,no_candidates,,,
+608dacba7239fe40,23829,season beef gordita crunch sliders 2pk,new,0,0,low_confidence,872851,Cheesy Gordita Crunch Sliders - Beef,0.571
+69a19f8a8dd0b40b,29094,discovery luxe,new,0,0,no_candidates,,,
+79c9ccea2c632f1a,29441,discovery luxe,new,0,0,no_candidates,,,
+1acad7326dd428af,23623,build your own luxe cravings,best-sellers,0,0,no_candidates,,,
+aea141e06fdc5192,29442,diablo crispy chicken nuggets deluxe,new,0,0,low_confidence,828298,Diablo Buffalo Crispy Chicken Burrito,0.429
+cdeb3f653136b71f,24606,discovery luxe,decades,0,0,no_candidates,,,
+0d35a7200ca6b4a1,24607,nachos slow roasted chicken,new,0,0,low_confidence,784049,Tacodilla - Slow Roasted Chicken,0.6
+979d9bdfc5624a2e,22728,chili,sides-sweets,0,0,low_confidence,906583,Chili (Regional) (2 oz),0.35
+d07760aaf88c6378,23769,2 chicken chalupas supreme,deals-and-combos,0,0,low_confidence,646511,Chicken Strips (2 Pack),0.4
+4dc0c2be50bc8b2f,1188Main,bottled pepsi,drinks,0,1,no_candidates,,,
+825f16dfb3138139,1189Main,bottled diet pepsi,drinks,0,1,no_candidates,,,
+e7b60a681f39d8d5,1190Main,bottled mtn dew,drinks,0,1,low_confidence,392738,Mtn Dew Baja Blast Twisted Freeze (32 oz),0.222
+61775743bc1c03c8,1187Main,bottled starry,drinks,0,1,no_candidates,,,
+a005a041d8befb76,23795,chipotle crispy chicken crunchwrap sliders,new,0,0,low_confidence,927002,Crispy Chicken Crunchwrap Slider - Creamy Chipotle Sauce,0.5
+655a9e2f05cc5a5c,23796,sriracha chile crispy chicken crunchwrap sliders,new,0,0,low_confidence,853313,Crispy Chicken Crunchwrap Slider - Sriracha Chile Crisp,0.625
+5d2b4cf7552fdc57,23797,discovery luxe,new,0,0,no_candidates,,,
+888239aea369f2be,29092,discovery luxe,cantina-chicken-menu,0,0,no_candidates,,,
+39cfefc6e9979cd5,29091,discovery luxe,cantina-chicken-menu,0,0,no_candidates,,,
+e17af3b36796d397,5293,avocado verde sauce,sides-sweets,0,0,low_confidence,441114,Avocado Salsa Verde Packet,0.4
+31d2a8ba5b8541de,3676Main,yachak yerba mate energy passion fruit,new,0,0,low_confidence,906627,Berry Burst Energy Refresca,0.111
+da9aada3440dffd0,3677Main,yachak yerba mate energy ultimate mint,new,0,0,low_confidence,906627,Berry Burst Energy Refresca,0.111

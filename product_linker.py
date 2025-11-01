@@ -140,6 +140,7 @@ def link_menu_to_nutrition(menu: pd.DataFrame, nut: pd.DataFrame, overrides: Dic
         cpid      = str(m["canonical_product_id"])
         base      = m["base_name"]
         toks_m    = m["tokens"]
+        category  = m.get("category", "")
         is_bf     = int(m["is_breakfast"])
         is_dr     = int(m["is_drink"])
 
@@ -152,6 +153,7 @@ def link_menu_to_nutrition(menu: pd.DataFrame, nut: pd.DataFrame, overrides: Dic
                     "canonical_product_id": cpid,
                     "product_code": prod_code,
                     "item_id": item_id,
+                    "category": category,
                     "name_nutrition": nrow["name"],
                     "category_nutrition": nrow.get("category_nutrition",""),
                     "match_confidence": 1.0,
@@ -180,6 +182,7 @@ def link_menu_to_nutrition(menu: pd.DataFrame, nut: pd.DataFrame, overrides: Dic
                 "canonical_product_id": cpid,
                 "product_code": prod_code,
                 "base_name": base,
+                "category": category,
                 "is_breakfast": is_bf,
                 "is_drink": is_dr,
                 "reason": "no_candidates",
@@ -199,6 +202,7 @@ def link_menu_to_nutrition(menu: pd.DataFrame, nut: pd.DataFrame, overrides: Dic
                 "canonical_product_id": cpid,
                 "product_code": prod_code,
                 "item_id": best["item_id"],
+                "category": category,
                 "name_nutrition": best["name"],
                 "category_nutrition": best.get("category_nutrition",""),
                 "match_confidence": round(conf, 3),
@@ -209,6 +213,7 @@ def link_menu_to_nutrition(menu: pd.DataFrame, nut: pd.DataFrame, overrides: Dic
                 "canonical_product_id": cpid,
                 "product_code": prod_code,
                 "base_name": base,
+                "category": category,
                 "is_breakfast": is_bf,
                 "is_drink": is_dr,
                 "reason": "low_confidence",
