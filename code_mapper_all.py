@@ -29,165 +29,31 @@ from typing import List, Tuple
 import pandas as pd
 import requests
 
-# --------------------------
-# HTTP session & headers
-# --------------------------
-SESSION = requests.Session()
-BROWSER_HEADERS = {
-    "User-Agent": (
-        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
-        "AppleWebKit/537.36 (KHTML, like Gecko) "
-        "Chrome/120.0.0.0 Safari/537.36"
-    ),
-    "Accept": "application/json, text/plain, */*",
-    "Accept-Language": "en-US,en;q=0.9",
-    "Referer": "https://www.tacobell.com/",
-    "Origin": "https://www.tacobell.com",
-    "Connection": "keep-alive",
-}
-SESSION.headers.update(BROWSER_HEADERS)
+from macrobell.config import CACHE_DIR, CACHE_TTL_SEC, JITTER_MIN, JITTER_MAX, MENU_API_BASE
+from macrobell.http import make_session, warm_cookies as _warm_cookies
+from macrobell.normalize import normalize_name, normalize_columns, flag_category, split_base_and_size
+from macrobell.store_ids import sanitize_store_id, build_id_candidates
 
-CACHE_DIR = Path(".cache/menus")
+# --------------------------
+# HTTP session & caching
+# --------------------------
+SESSION = make_session(retries=0, connection_mode="keep-alive")
 CACHE_DIR.mkdir(parents=True, exist_ok=True)
-
-TTL_SEC = 24 * 3600
-JITTER_MIN, JITTER_MAX = 0.12, 0.28  # polite delay between stores
-
-
-# --------------------------
-# Helpers: CSV columns, IDs
-# --------------------------
-def normalize_cols(df: pd.DataFrame) -> pd.DataFrame:
-    df = df.copy()
-    df.columns = [c.strip().lower().replace(" ", "_") for c in df.columns]
-    if "url" not in df.columns:
-        raise ValueError("CSV missing required column 'url'.")
-    # Keep given store_id if present; otherwise derive from URL later
-    return df
-
-
-def parse_store_id_from_url(u: str) -> str | None:
-    """
-    Typical pattern: https://locations.tacobell.com/<state>/<city>/<STOREID>.html
-    Accepts alpha-prefix too (e.g., G135807).
-    """
-    m = re.search(r"/([A-Za-z]?\d{4,7})\.html?$", str(u))
-    return m.group(1) if m else None
-
-
-ALPHA_PREFIX = re.compile(r"^[A-Za-z](\d{5,7})$")  # G135807 -> 135807
-DIGITS = re.compile(r"^\d{4,7}$")
-STORE_ID_PATTERN = re.compile(r"^[A-Za-z]?\d{4,7}$")
-
-
-def sanitize_store_id(raw_id: str | None) -> str | None:
-    """
-    Normalize store_id to a 'best guess':
-      - 'G135807' -> '135807'
-      - pure digits -> as-is (keeps leading zeros)
-      - else None
-    """
-    if not raw_id:
-        return None
-    sid = str(raw_id).strip()
-    m = ALPHA_PREFIX.match(sid)
-    if m:
-        return m.group(1)
-    if DIGITS.fullmatch(sid):
-        return sid
-    return None
 
 
 def warm_cookies() -> None:
-    """Pre-warm cookies (Akamai/site) to reduce 403s."""
-    try:
-        SESSION.get("https://www.tacobell.com/locations", timeout=20)
-    except Exception:
-        pass
+    _warm_cookies(SESSION)
+
+
+def normalize_cols(df: pd.DataFrame) -> pd.DataFrame:
+    df = normalize_columns(df)
+    if "url" not in df.columns:
+        raise ValueError("CSV missing required column 'url'.")
+    return df
 
 
 def maybe_sleep():
     time.sleep(random.uniform(JITTER_MIN, JITTER_MAX))
-
-
-# --------------------------
-# Store page fallback (if no id / retry alt)
-# --------------------------
-def extract_store_id_from_html(url: str) -> str | None:
-    """
-    Fallback: fetch the store page and look for a numeric storeNumber.
-    """
-    try:
-        r = SESSION.get(url, timeout=25)
-        r.raise_for_status()
-        html = r.text
-
-        # Look for a clear "storeNumber":"123456"
-        m = re.search(r'"storeNumber"\s*:\s*"(\d{4,7})"', html)
-        if m:
-            return m.group(1)
-
-        # Sometimes embedded as "storeId":"123456"
-        m2 = re.search(r'"storeId"\s*:\s*"(\d{4,7})"', html)
-        if m2:
-            return m2.group(1)
-
-        # Last resort: digits in the path
-        m3 = re.search(r"/(\d{4,7})\.html", url)
-        if m3:
-            return m3.group(1)
-    except Exception:
-        return None
-    return None
-
-
-def build_id_candidates(url: str, csv_sid: str | None) -> List[str]:
-    """
-    Build a prioritized list of candidate IDs to try for a store:
-      1) raw CSV store_id (keeps alpha prefix)
-      2) sanitized CSV store_id (digits only)
-      3) sanitized ID parsed from URL
-      4) digits-only for alpha-prefixed
-      5) zero-stripped variant ONLY if base starts with '0' (e.g., 019301 -> 19301)
-      6) HTML-extracted storeNumber
-    All unique, digits only, in priority order.
-    """
-    cands: List[str] = []
-
-    def add(x: str | None):
-        if x and x not in cands:
-            cands.append(x)
-
-    raw_csv = (csv_sid or "").strip() if csv_sid else ""
-    if raw_csv and STORE_ID_PATTERN.fullmatch(raw_csv):
-        add(raw_csv)
-
-    # 2) CSV sanitized
-    primary = sanitize_store_id(csv_sid)
-    add(primary)
-
-    # 3) URL
-    from_url = sanitize_store_id(parse_store_id_from_url(url))
-    add(from_url)
-
-    # 4) alpha-prefixed in CSV -> digits tail
-    if csv_sid:
-        m = ALPHA_PREFIX.match(csv_sid.strip())
-        if m:
-            add(m.group(1))
-
-    # 5) zero-stripped variant only if leading zero present
-    for base in (primary, from_url):
-        if base and base.startswith("0"):
-            add(base.lstrip("0"))
-
-    # 6) store page HTML
-    html_id = sanitize_store_id(extract_store_id_from_html(url))
-    add(html_id)
-
-    # Allow digits or leading alpha
-    cands = [c for c in cands if c and STORE_ID_PATTERN.fullmatch(c)]
-    return cands
 
 
 # --------------------------
@@ -198,7 +64,7 @@ def fetch_menu_api(store_id: str) -> dict:
     Fetch menu JSON for a given store. Handles 403 via cookie warm-up & retry.
     Raises for non-200, so caller can handle 404 retries with alternates.
     """
-    api_url = f"https://www.tacobell.com/tacobellwebservices/v4/tacobell/products/menu/{store_id}"
+    api_url = f"{MENU_API_BASE}/v4/tacobell/products/menu/{store_id}"
 
     def do_get():
         SESSION.headers["Referer"] = f"https://www.tacobell.com/locations/{random.randint(1000,9999)}"
@@ -232,7 +98,7 @@ def fetch_menu_with_candidates(candidates: List[str]) -> Tuple[dict, str] | Tupl
         cache_path = CACHE_DIR / f"{sid}.json"
 
         # Cache hit
-        if cache_path.exists() and (time.time() - cache_path.stat().st_mtime) < TTL_SEC:
+        if cache_path.exists() and (time.time() - cache_path.stat().st_mtime) < CACHE_TTL_SEC:
             try:
                 data = json.loads(cache_path.read_text(encoding="utf-8"))
                 return data, sid
@@ -255,41 +121,6 @@ def fetch_menu_with_candidates(candidates: List[str]) -> Tuple[dict, str] | Tupl
             raise
 
     return None, None
-
-
-# --------------------------
-# Name normalization
-# --------------------------
-STOPWORDS = {"the", "a", "and", "with", "of", "for"}
-SIZE_WORDS = {"large", "medium", "small", "grande", "mini", "double", "triple", "party", "pack", "box", "combo"}
-MARKS = r"[®™()]"
-
-
-def normalize_name(s: str) -> str:
-    s = (s or "").lower()
-    s = re.sub(MARKS, "", s)
-    s = re.sub(r"[-/]", " ", s)
-    s = re.sub(r"[^a-z0-9 ]+", " ", s)
-    s = re.sub(r"\s+", " ", s).strip()
-    return s
-
-
-def split_base_and_size(s: str) -> tuple[str, str]:
-    tokens = normalize_name(s).split()
-    base, size = [], []
-    for t in tokens:
-        if t in SIZE_WORDS or t in {"party", "pack", "box", "combo"}:
-            size.append(t)
-        else:
-            base.append(t)
-    return (" ".join(base).strip(), " ".join(size).strip())
-
-
-def flag_category(name_or_cat: str) -> tuple[int, int]:
-    nm = (name_or_cat or "").lower()
-    is_breakfast = 1 if "breakfast" in nm else 0
-    is_drink = 1 if any(tok in nm for tok in ("drink", "beverage", "freeze", "soda", "tea", "coffee", "lemonade")) else 0
-    return is_breakfast, is_drink
 
 
 # --------------------------
@@ -323,7 +154,7 @@ def main():
                    if "store_id" in row and pd.notna(row["store_id"])
                    else None)
 
-        candidates = build_id_candidates(url, csv_sid)
+        candidates = build_id_candidates(url, csv_sid, SESSION)
         if not candidates:
             print(f"[warn] no viable store_id candidates for URL: {url}")
             failures.append({"url": url, "csv_store_id": csv_sid, "reason": "no_id_candidates"})

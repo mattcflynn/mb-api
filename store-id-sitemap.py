@@ -19,10 +19,7 @@ import argparse
 from pathlib import Path
 from playwright.sync_api import sync_playwright
 
-# --- Configuration ---
-# This script is now driven by command-line arguments.
-# Example usage: python store-id-sitemap.py --chunk 1
-CHUNKS_DIR = "store_chunks"
+from macrobell.config import CHUNKS_DIR
 
 def main():
     """

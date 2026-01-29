@@ -8,9 +8,9 @@ import xml.etree.ElementTree as ET
 import csv
 import re
 
-# The main sitemap index for the locations subdomain
-SITEMAP_INDEX_URL = "https://locations.tacobell.com/sitemap.xml"
-OUTPUT_CSV_FILENAME = "taco_bell_stores_from_sitemap.csv"
+from macrobell.config import SITEMAP_INDEX_URL, FULL_STORE_LIST_CSV
+
+OUTPUT_CSV_FILENAME = FULL_STORE_LIST_CSV
 
 def get_urls_from_sitemap(sitemap_url, headers):
     """Downloads and parses a sitemap (or sitemap index), returning a list of all URLs found."""
