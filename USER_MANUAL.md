@@ -471,7 +471,7 @@ The database (`macrobell.db`) contains these tables:
 |--------|------|-------------|
 | `item_id` | TEXT PK | Nutrition item identifier |
 | `name` | TEXT | Item name |
-| `category` | TEXT | Nutrition category |
+| `category_nutrition` | TEXT | Nutrition category |
 | `is_breakfast` | INTEGER | 1 if breakfast item |
 | `is_drink` | INTEGER | 1 if drink item |
 | `serving_weight_grams` | REAL | Serving weight |

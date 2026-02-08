@@ -14,3 +14,9 @@ env/
 
 #cache
 /.cache
+
+# Large generated files (rebuild via pipeline)
+macrobell.db
+macrobell.db-shm
+macrobell.db-wal
+store_products.csv
