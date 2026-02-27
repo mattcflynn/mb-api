@@ -16,6 +16,10 @@ Usage examples:
 
 from __future__ import annotations
 import argparse, contextlib, json, random, re, signal, sqlite3, sys, time
+
+# Stores whose IDs start with a letter (e.g. J466006, G135455, L518007) are
+# franchise-operated locations that consistently 404 on the menu API.
+FRANCHISE_ID_RE = re.compile(r"^[A-Za-z]")
 from datetime import datetime, timezone
 from pathlib import Path
 from typing import Any, Dict, List, Optional, Set, Tuple
@@ -81,19 +85,24 @@ def list_regions_with_counts(rows: List[tuple]) -> List[tuple]:
     return sorted(counts.items(), key=lambda x: x[0])
 
 def filter_stores_by_regions(rows: List[tuple], include: Set[str], exclude: Set[str]) -> List[str]:
-    if not include and not exclude:
-        return [r[0] for r in rows]
     include_states: Set[str] = set()
     for r in include: include_states |= REGIONS[r]
     exclude_states: Set[str] = set()
     for r in exclude: exclude_states |= REGIONS[r]
     out = []
+    skipped_franchise = 0
     for sid, st in rows:
-        ab = normalize_state(st)
-        if not ab: continue
-        if include and ab not in include_states: continue
-        if exclude and ab in exclude_states: continue
+        if FRANCHISE_ID_RE.match(str(sid or "")):
+            skipped_franchise += 1
+            continue
+        if include or exclude:
+            ab = normalize_state(st)
+            if not ab: continue
+            if include and ab not in include_states: continue
+            if exclude and ab in exclude_states: continue
         out.append(sid)
+    if skipped_franchise:
+        print(f"[info] skipped {skipped_franchise} franchise stores (letter-prefix IDs)", flush=True)
     return out
 
 def load_code_to_canonical(conn: sqlite3.Connection) -> Dict[str, str]:
