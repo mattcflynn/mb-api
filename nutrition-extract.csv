@@ -1,0 +1,162 @@
+item_id,name,category_nutrition,is_breakfast,is_drink,calories,total_fat,saturated_fat,trans_fat,cholesterol,sodium,total_carb,fibers,sugars,protein
+19228f8555a8c5a6,Chicken Bacon Ranch Nacho Fries,New,0,0,350.0,24.0,4.0,0.0,40.0,940.0,22.0,3.0,2.0,13.0
+23260ed97d5fb4ca,Chicken Bacon Ranch Street Chalupas,New,0,0,620.0,41.0,11.0,0.0,70.0,1220.0,38.0,6.0,4.0,25.0
+937a89c5c785b6eb,Dragonfruit Freeze® (16 oz),New,0,0,160.0,0.0,0.0,0.0,0.0,45.0,41.0,0.0,41.0,0.0
+04c79d9d90e9935e,Dragonfruit Freeze® (20 oz),New,0,0,200.0,0.0,0.0,0.0,0.0,60.0,52.0,0.0,51.0,0.0
+a8609ee22c802efd,Dragonfruit Freeze® with Dragonfruit Syrup (16 oz),New,0,0,170.0,0.0,0.0,0.0,0.0,50.0,46.0,0.0,44.0,0.0
+66ab431aa11bc4ef,Dragonfruit Freeze® with Dragonfruit Syrup (20 oz),New,0,0,210.0,0.0,0.0,0.0,0.0,60.0,56.0,0.0,55.0,0.0
+a2e9a7bb960324e3,Dragonfruit Strawberry Limonada,New,0,0,200.0,0.0,0.0,0.0,0.0,160.0,52.0,0.0,50.0,0.0
+1e91c57c18874495,Mango Peach Limonada,New,0,0,210.0,0.0,0.0,0.0,0.0,190.0,56.0,0.0,56.0,0.0
+0319f9f75b9b756a,Orange Vanilla Cream Soda Freeze™ (16 oz),New,0,0,210.0,1.0,0.5,0.0,2.5,75.0,53.0,0.0,50.0,0.0
+4f5e437a889263d9,Orange Vanilla Cream Soda Freeze™ (20 oz),New,0,0,250.0,1.0,0.5,0.0,2.5,90.0,64.0,0.0,60.0,0.0
+607f4edfbabeaf87,Pineapple Dream Refresca,New,0,0,220.0,1.0,0.5,0.0,2.5,170.0,55.0,0.0,53.0,0.0
+c12e44879b381b63,Strawberry Dream Refresca,New,0,0,220.0,1.0,0.5,0.0,2.5,170.0,57.0,0.0,54.0,0.0
+42c95d757e154ec4,Strawberry Passionfruit Limonada,New,0,0,210.0,0.0,0.0,0.0,0.0,190.0,56.0,0.0,55.0,0.0
+306f7063ed19f9c0,Vanilla Cream Soda Freeze™ (16 oz),New,0,0,200.0,1.0,0.5,0.0,2.5,70.0,49.0,0.0,47.0,0.0
+86c113accdbfc09b,Vanilla Cream Soda Freeze™ (20 oz),New,0,0,240.0,1.0,0.5,0.0,2.5,90.0,60.0,0.0,58.0,0.0
+c460dd523d4ac1b5,Avocado Salsa Verde Packet,Cantina Chicken Menu,0,0,50.0,5.0,1.0,0.0,0.0,70.0,0.5,0.0,0.0,0.0
+1411a4d355032015,Cantina Chicken Bowl,Cantina Chicken Menu,0,0,480.0,23.0,7.0,0.0,75.0,1170.0,44.0,10.0,3.0,24.0
+8de274c436eaa7b4,Cantina Chicken Burrito,Cantina Chicken Menu,0,0,530.0,28.0,9.0,0.0,80.0,1190.0,44.0,5.0,4.0,24.0
+30cff7649c99620d,Cantina Chicken Crispy Taco,Cantina Chicken Menu,0,0,270.0,15.0,6.0,0.0,50.0,520.0,19.0,4.0,0.5,15.0
+f2cd0e01e9ec6ef7,Cantina Chicken Quesadilla,Cantina Chicken Menu,0,0,550.0,28.0,14.0,0.0,90.0,1310.0,46.0,5.0,3.0,29.0
+04bc6b74b4d5f3b0,Cantina Chicken Soft Taco,Cantina Chicken Menu,0,0,210.0,10.0,3.5,0.0,35.0,530.0,19.0,3.0,2.0,12.0
+41cf64ee584f495a,Black Bean Chalupa Supreme® (V),Tacos,0,0,340.0,17.0,3.5,0.0,10.0,450.0,36.0,7.0,4.0,10.0
+7f8c0af8e9666d5d,Chalupa Supreme® - Beef,Tacos,0,0,350.0,20.0,5.0,0.0,25.0,570.0,32.0,4.0,3.0,12.0
+1def53dba0753fd2,Chalupa Supreme® - Chicken,Tacos,0,0,330.0,17.0,3.5,0.0,35.0,580.0,30.0,3.0,3.0,15.0
+807d82932349e55c,Chalupa Supreme® - Steak,Tacos,0,0,340.0,18.0,4.5,0.0,30.0,590.0,30.0,3.0,4.0,15.0
+567f480d8af3b823,Cheesy Gordita Crunch,Tacos,0,0,480.0,26.0,10.0,0.0,50.0,830.0,44.0,6.0,4.0,20.0
+b60fb7b44088fef7,Crunchy Taco,Tacos,0,0,170.0,9.0,4.0,0.0,25.0,310.0,13.0,3.0,0.0,7.0
+9060cf049cc44f19,Crunchy Taco Supreme®,Tacos,0,0,190.0,10.0,4.5,0.0,25.0,320.0,16.0,3.0,1.0,8.0
+c9fb6d21cdb51034,Doritos® Cheesy Gordita Crunch - Nacho Cheese,Tacos,0,0,480.0,26.0,10.0,0.0,50.0,890.0,43.0,5.0,4.0,20.0
+302bbc70d92ebd2e,Double Stacked Taco,Tacos,0,0,320.0,16.0,5.0,0.0,25.0,610.0,34.0,4.0,2.0,10.0
+6da0ae9dd336325e,Nacho Cheese Doritos® Locos Taco,Tacos,0,0,170.0,10.0,4.0,0.0,25.0,370.0,13.0,3.0,0.5,7.0
+6603076bd2e24ff2,Nacho Cheese Doritos® Locos Taco Supreme®,Tacos,0,0,190.0,11.0,4.5,0.0,30.0,380.0,15.0,3.0,2.0,8.0
+c8b513a013e93296,Soft Taco - Beef,Tacos,0,0,180.0,8.0,4.0,0.0,25.0,500.0,18.0,3.0,1.0,9.0
+6f40851cdc548d30,Soft Taco - Chicken,Tacos,0,0,160.0,5.0,2.5,0.0,35.0,510.0,16.0,1.0,1.0,12.0
+2625c4199b9e3143,Soft Taco Supreme® - Beef,Tacos,0,0,200.0,9.0,5.0,0.0,25.0,520.0,21.0,3.0,2.0,9.0
+24f5b179f3d36f13,Soft Taco Supreme® - Chicken,Tacos,0,0,180.0,6.0,3.5,0.0,35.0,520.0,19.0,2.0,2.0,12.0
+90bb6f98201f7467,Spicy Potato Soft Taco (V),Tacos,0,0,240.0,11.0,3.0,0.0,10.0,470.0,28.0,2.0,1.0,5.0
+73d48385b33cf9c2,Bean Burrito (V),Burritos,0,0,360.0,10.0,4.5,0.0,5.0,1080.0,54.0,8.0,3.0,13.0
+c253ec40f7fd7a79,Beefy 5-Layer Burrito,Burritos,0,0,490.0,18.0,8.0,0.0,30.0,1290.0,65.0,7.0,4.0,17.0
+b4ba5af374aab10e,Black Bean Grilled Cheese Burrito,Burritos,0,0,680.0,33.0,13.0,0.0,55.0,1360.0,72.0,9.0,5.0,23.0
+364700aa0af59d7b,Burrito Supreme® - Beef,Burritos,0,0,390.0,14.0,6.0,0.0,25.0,1160.0,52.0,8.0,4.0,16.0
+d64c08e3f5fe6906,Burrito Supreme® - Chicken,Burritos,0,0,370.0,11.0,5.0,0.0,35.0,1170.0,49.0,6.0,4.0,19.0
+cdc43361c207fd7e,Burrito Supreme® - Steak,Burritos,0,0,380.0,12.0,6.0,0.0,30.0,1180.0,50.0,6.0,5.0,19.0
+e719ee35a8618451,Cheesy Bean & Rice Burrito (V),Burritos,0,0,400.0,16.0,3.5,0.0,2.5,950.0,56.0,6.0,3.0,9.0
+34e385fb7b28dee2,Cheesy Double Beef Burrito,Burritos,0,0,560.0,25.0,9.0,0.0,50.0,1340.0,64.0,7.0,3.0,20.0
+533d3f6b7d1a0a30,Chicken Enchilada Burrito,Burritos,0,0,370.0,11.0,5.0,0.0,40.0,1150.0,50.0,4.0,3.0,18.0
+707332a47a93aa37,Chili Cheese Burrito (regional),Burritos,0,0,380.0,17.0,9.0,0.0,40.0,970.0,41.0,4.0,2.0,15.0
+7a97b17fe0a4bf48,Grilled Cheese Burrito,Burritos,0,0,690.0,36.0,15.0,0.0,70.0,1480.0,68.0,7.0,4.0,25.0
+91e4386cd3bbc071,Grilled Cheese Burrito - Chicken,Burritos,0,0,670.0,33.0,13.0,0.0,80.0,1490.0,66.0,6.0,4.0,28.0
+09a887c5dc07c97c,Grilled Cheese Burrito - Steak,Burritos,0,0,680.0,34.0,14.0,0.0,75.0,1500.0,66.0,6.0,5.0,28.0
+e58266c75c4a76e2,Chips and Nacho Cheese Sauce (V),Nachos,0,0,220.0,13.0,1.5,0.0,0.0,280.0,24.0,2.0,1.0,3.0
+0cd9347cf76fce22,Loaded Beef Nachos,Nachos,0,0,450.0,24.0,5.0,0.0,20.0,930.0,45.0,9.0,2.0,12.0
+3c7ad832aca4640a,Nachos BellGrande® - Beef,Nachos,0,0,730.0,38.0,6.0,0.0,20.0,1180.0,81.0,13.0,4.0,17.0
+f8fdf7c4b1714185,Nachos BellGrande® - Chicken,Nachos,0,0,710.0,35.0,5.0,0.0,30.0,1190.0,79.0,12.0,4.0,20.0
+0b92ad07175aecd6,Nachos BellGrande® - Steak,Nachos,0,0,720.0,36.0,5.0,0.0,25.0,1200.0,79.0,12.0,5.0,20.0
+f462b301faf26355,Quesadilla - Cheese (V),Quesadillas,0,0,440.0,22.0,11.0,0.0,50.0,980.0,43.0,4.0,3.0,18.0
+cf7be09105f1013f,Quesadilla - Chicken,Quesadillas,0,0,490.0,23.0,11.0,0.0,75.0,1240.0,44.0,4.0,3.0,26.0
+b89c7598fe72d5b2,Quesadilla - Steak,Quesadillas,0,0,500.0,24.0,12.0,0.0,70.0,1260.0,44.0,4.0,4.0,26.0
+a23c5155c6a5e618,3-Cheese Chicken Flatbread Melt,Specialties,0,0,320.0,14.0,6.0,0.0,50.0,750.0,30.0,3.0,4.0,20.0
+aba693994d67af8d,Black Bean Crunchwrap Supreme® (V),Specialties,0,0,520.0,17.0,5.0,0.0,2.5,1090.0,78.0,8.0,6.0,13.0
+9793a9a073eb882c,Cheesy Roll Up (V),Specialties,0,0,170.0,8.0,5.0,0.0,25.0,420.0,18.0,1.0,1.0,8.0
+7a73ec0e164e8dd5,Crunchwrap Supreme®,Specialties,0,0,530.0,20.0,7.0,0.0,20.0,1210.0,74.0,6.0,6.0,15.0
+b5747f95c78a4acc,Mexican Pizza,Specialties,0,0,530.0,27.0,8.0,0.0,40.0,1000.0,51.0,8.0,3.0,19.0
+14edc0a0a9322ccc,Stacker,Specialties,0,0,390.0,17.0,8.0,0.0,40.0,1060.0,43.0,4.0,3.0,17.0
+3651c0fe3c98dc4a,Veggie Mexican Pizza (V),Specialties,0,0,460.0,23.0,6.0,0.0,25.0,740.0,48.0,7.0,3.0,14.0
+025f4197ced91d24,Black Beans & Rice (V),Sides & Sweets,0,0,160.0,4.5,0.0,0.0,0.0,370.0,25.0,5.0,0.5,4.0
+8ae0226640097ec3,Black Beans (V),Sides & Sweets,0,0,50.0,1.5,0.0,0.0,0.0,140.0,7.0,4.0,0.0,3.0
+b81cad74efc5d550,Cheesy Fiesta Potatoes (V),Sides & Sweets,0,0,240.0,12.0,1.5,0.0,2.5,520.0,29.0,3.0,1.0,3.0
+561779e6786c52e6,Cinnabon® Delights™ (2 Pk) (V),Sides & Sweets,0,0,170.0,11.0,3.5,0.0,5.0,70.0,15.0,0.5,9.0,2.0
+44e1e5dbdcfd5790,Cinnabon® Delights™ (12 Pk - Serves 4) (V),Sides & Sweets,0,0,1010.0,68.0,22.0,0.0,40.0,430.0,88.0,5.0,52.0,11.0
+df548a93e6bd6ea3,Cinnamon Twists (V),Sides & Sweets,0,0,170.0,6.0,0.0,0.0,0.0,150.0,27.0,0.5,11.0,2.0
+2c69a4f7cd4cb6fe,Diablo Sauce Packet (V),Sides & Sweets,0,0,0.0,0.0,0.0,0.0,0.0,35.0,0.0,0.0,0.0,0.0
+ce0a9f6e9128c36e,Fire Sauce Packet (V),Sides & Sweets,0,0,0.0,0.0,0.0,0.0,0.0,55.0,0.0,0.0,0.0,0.0
+9afd0a5e7bca79c7,Hot Sauce Packet (V),Sides & Sweets,0,0,0.0,0.0,0.0,0.0,0.0,45.0,0.0,0.0,0.0,0.0
+02c85610351f4392,Large Nacho Fries,Sides & Sweets,0,0,500.0,29.0,2.5,0.0,0.0,1090.0,52.0,5.0,1.0,6.0
+8d508a323128b3f9,Mild Sauce Packet (V),Sides & Sweets,0,0,0.0,0.0,0.0,0.0,0.0,30.0,0.0,0.0,0.0,0.0
+c92846553a041789,Nacho Fries,Sides & Sweets,0,0,350.0,21.0,2.0,0.0,0.0,790.0,36.0,3.0,1.0,4.0
+9702f030b088def8,Pintos N Cheese (V),Sides & Sweets,0,0,170.0,6.0,3.0,0.0,10.0,680.0,19.0,7.0,1.0,9.0
+473de688b7b9974d,3-Cheese Chicken Flatbread Melt - Value Menu,Cravings Value Menu,0,0,320.0,14.0,6.0,0.0,50.0,750.0,30.0,3.0,4.0,20.0
+d0dff6074c978545,Avocado Ranch Chicken Stacker,Cravings Value Menu,0,0,350.0,15.0,4.5,0.0,35.0,890.0,40.0,3.0,3.0,16.0
+661d032f8eb69c9d,Beefy Potato Loaded Griller,Cravings Value Menu,0,0,480.0,23.0,6.0,0.0,25.0,1120.0,56.0,5.0,3.0,12.0
+7f7ab2995a4daf18,Cheesy Bean & Rice Burrito - Value Menu,Cravings Value Menu,0,0,400.0,16.0,3.5,0.0,2.5,950.0,56.0,6.0,3.0,9.0
+6fe64274535f08ea,Cheesy Double Beef Burrito - Value Menu,Cravings Value Menu,0,0,560.0,25.0,9.0,0.0,50.0,1340.0,64.0,7.0,3.0,20.0
+f28cb79be61a8cac,Cheesy Fiesta Potatoes - Value Menu,Cravings Value Menu,0,0,240.0,12.0,1.5,0.0,2.5,520.0,29.0,3.0,1.0,3.0
+aa233f3cffa56155,Cheesy Roll Up - Value Menu,Cravings Value Menu,0,0,170.0,8.0,5.0,0.0,25.0,420.0,18.0,1.0,1.0,8.0
+6f5e09b81ca4c6cc,Chicken Enchilada Burrito - Value Menu,Cravings Value Menu,0,0,370.0,11.0,5.0,0.0,40.0,1150.0,50.0,4.0,3.0,18.0
+96d46acfe7c2f58d,Chips and Nacho Supreme Dip,Cravings Value Menu,0,0,360.0,19.0,4.5,0.0,20.0,720.0,37.0,7.0,3.0,10.0
+53f03e9086c8a7ad,Double Stacked Taco - Value Menu,Cravings Value Menu,0,0,320.0,16.0,5.0,0.0,25.0,610.0,34.0,4.0,2.0,10.0
+2118eac84e7493a7,Loaded Beef Nachos - Value Menu,Cravings Value Menu,0,0,450.0,24.0,5.0,0.0,20.0,930.0,45.0,9.0,2.0,12.0
+b0974c3e92252308,Mini Taco Salad,Cravings Value Menu,0,0,280.0,15.0,4.0,0.0,20.0,490.0,27.0,6.0,2.0,9.0
+cc21e06ba6e87c59,Spicy Potato Soft Taco - Value Menu,Cravings Value Menu,0,0,240.0,11.0,3.0,0.0,10.0,470.0,28.0,2.0,1.0,5.0
+2425473109f6d35d,Bean Burrito,Veggie Cravings,0,0,360.0,10.0,4.5,0.0,5.0,1080.0,54.0,8.0,3.0,13.0
+0e82f998a9a808a0,Black Bean Chalupa Supreme®,Veggie Cravings,0,0,340.0,17.0,3.5,0.0,10.0,450.0,36.0,7.0,4.0,10.0
+e4553ff58ec936f0,Black Bean Crunchwrap Supreme®,Veggie Cravings,0,0,520.0,17.0,5.0,0.0,2.5,1090.0,78.0,8.0,6.0,13.0
+51f49b2b9fa742bd,Black Beans,Veggie Cravings,0,0,50.0,1.5,0.0,0.0,0.0,140.0,7.0,4.0,0.0,3.0
+77d265107492d2cf,Black Beans & Rice,Veggie Cravings,0,0,160.0,4.5,0.0,0.0,0.0,370.0,25.0,5.0,0.5,4.0
+044100ba62c3b167,Cheese Quesadilla,Veggie Cravings,0,0,440.0,22.0,11.0,0.0,50.0,980.0,43.0,4.0,3.0,18.0
+cca6ccf768ed9180,Cheesy Bean & Rice Burrito,Veggie Cravings,0,0,400.0,16.0,3.5,0.0,2.5,950.0,56.0,6.0,3.0,9.0
+e94290c1acf4ddfe,Cheesy Fiesta Potatoes,Veggie Cravings,0,0,240.0,12.0,1.5,0.0,2.5,520.0,29.0,3.0,1.0,3.0
+25bcf31cdb3119ac,Cheesy Roll Up,Veggie Cravings,0,0,170.0,8.0,5.0,0.0,25.0,420.0,18.0,1.0,1.0,8.0
+b1e3bdaf3e55d766,Chips and Nacho Cheese Sauce,Veggie Cravings,0,0,220.0,13.0,1.5,0.0,0.0,280.0,24.0,2.0,1.0,3.0
+b370505ac052ddde,Cinnabon® Delights™ (2 Pack),Veggie Cravings,0,0,170.0,11.0,3.5,0.0,5.0,70.0,15.0,0.5,9.0,2.0
+51b079a002b007a3,Cinnabon® Delights™ (12 Pack - Serves 4),Veggie Cravings,0,0,1010.0,68.0,22.0,0.0,40.0,430.0,88.0,5.0,52.0,11.0
+5b90b7799cb44151,Cinnamon Twists,Veggie Cravings,0,0,170.0,6.0,0.0,0.0,0.0,150.0,27.0,0.5,11.0,2.0
+d477143a2d0bf143,Hash Brown,Veggie Cravings,0,0,170.0,11.0,1.0,0.0,0.0,330.0,14.0,2.0,0.5,2.0
+73d11d9317ca477a,Pintos N Cheese,Veggie Cravings,0,0,170.0,6.0,3.0,0.0,10.0,680.0,19.0,7.0,1.0,9.0
+05a8ecd5858ce850,Spicy Potato Soft Taco,Veggie Cravings,0,0,240.0,11.0,3.0,0.0,10.0,470.0,28.0,2.0,1.0,5.0
+111ecedbd66b5ca8,Veggie Bowl,Veggie Cravings,0,0,410.0,20.0,6.0,0.0,20.0,850.0,48.0,11.0,3.0,12.0
+ecaaf074a36c66bc,Veggie Mexican Pizza,Veggie Cravings,0,0,460.0,23.0,6.0,0.0,25.0,740.0,48.0,7.0,3.0,14.0
+781c348637a04670,Breakfast California Crunchwrap - Bacon,Breakfast (Regional),1,0,640.0,38.0,12.0,0.0,135.0,1390.0,54.0,5.0,4.0,21.0
+d2d1f96e3c810fab,Breakfast California Crunchwrap - Sausage,Breakfast (Regional),1,0,700.0,45.0,15.0,0.0,140.0,1360.0,54.0,6.0,3.0,20.0
+141e20395996ba8d,Breakfast Crunchwrap - Bacon,Breakfast (Regional),1,0,660.0,40.0,13.0,0.0,140.0,1370.0,54.0,5.0,3.0,21.0
+426084e95e9a9a50,Breakfast Crunchwrap - Sausage Patty,Breakfast (Regional),1,0,740.0,49.0,16.0,0.0,150.0,1270.0,55.0,5.0,4.0,21.0
+ae95e97aee77d13a,Breakfast Crunchwrap - Steak,Breakfast (Regional),1,0,650.0,38.0,12.0,0.0,145.0,1410.0,55.0,5.0,4.0,24.0
+7b086079c8b598ca,Breakfast Quesadilla - Bacon,Breakfast (Regional),1,0,500.0,26.0,13.0,0.0,155.0,1240.0,42.0,3.0,3.0,25.0
+09cb29ce0697a5f2,Breakfast Quesadilla - Sausage,Breakfast (Regional),1,0,500.0,27.0,13.0,0.0,150.0,1110.0,42.0,3.0,3.0,23.0
+b00821a4d4c37531,Breakfast Quesadilla - Steak,Breakfast (Regional),1,0,500.0,23.0,12.0,0.0,160.0,1290.0,43.0,3.0,4.0,28.0
+50a124ee64e9c219,Breakfast Salsa Packet (V),Breakfast (Regional),1,0,0.0,0.0,0.0,0.0,0.0,50.0,0.5,0.0,0.0,0.0
+afdaf7d32d1f6bb6,Cheesy Toasted Breakfast Burrito - Bacon,Breakfast (Regional),1,0,350.0,16.0,5.0,0.0,110.0,900.0,38.0,2.0,3.0,13.0
+b0a483adcae73318,Cheesy Toasted Breakfast Burrito - Fiesta Potato (V),Breakfast (Regional),1,0,340.0,14.0,3.5,0.0,95.0,770.0,44.0,3.0,3.0,9.0
+1409402665c774d6,Cheesy Toasted Breakfast Burrito - Sausage,Breakfast (Regional),1,0,350.0,17.0,6.0,0.0,105.0,770.0,38.0,2.0,3.0,10.0
+a289b9fd8b2dc2d7,Cinnabon® Delights™ (2 Pack) (V),Breakfast (Regional),1,0,170.0,11.0,3.5,0.0,5.0,70.0,15.0,0.5,9.0,2.0
+cc4a144deed4daef,Cinnabon® Delights™ (12 Pack - Serves 4) (V),Breakfast (Regional),1,0,1010.0,68.0,22.0,0.0,40.0,430.0,88.0,5.0,52.0,11.0
+de282e51e297e691,Cinnabon® Delights™ Coffee - Hot,Breakfast (Regional),1,0,160.0,2.0,1.5,0.0,5.0,75.0,34.0,0.0,22.0,1.0
+597df656eccbe6c2,Cinnabon® Delights™ Coffee - Iced,Breakfast (Regional),1,0,160.0,2.0,1.5,0.0,5.0,85.0,34.0,0.0,22.0,1.0
+5db5c1304d715de4,Grande Toasted Breakfast Burrito - Bacon,Breakfast (Regional),1,0,570.0,29.0,11.0,0.0,225.0,1310.0,52.0,4.0,3.0,23.0
+a5ad80e41b7b3db7,Grande Toasted Breakfast Burrito - Sausage,Breakfast (Regional),1,0,570.0,30.0,11.0,0.0,220.0,1180.0,52.0,4.0,3.0,21.0
+7367b4e1dc2b1415,Grande Toasted Breakfast Burrito - Steak,Breakfast (Regional),1,0,560.0,27.0,10.0,0.0,230.0,1360.0,53.0,4.0,4.0,26.0
+47200f5afb3cd0de,Hash Brown (V),Breakfast (Regional),1,0,170.0,11.0,1.0,0.0,0.0,330.0,14.0,2.0,0.5,2.0
+18cf2724e8017e74,Hash Brown Toasted Breakfast Burrito - Bacon,Breakfast (Regional),1,0,580.0,31.0,10.0,0.0,130.0,1350.0,53.0,4.0,3.0,20.0
+c616be36e7ee7d97,Hash Brown Toasted Breakfast Burrito - Sausage,Breakfast (Regional),1,0,580.0,32.0,10.0,0.0,125.0,1220.0,53.0,4.0,3.0,18.0
+146aaf411ba69357,Hash Brown Toasted Breakfast Burrito - Steak,Breakfast (Regional),1,0,570.0,29.0,9.0,0.0,135.0,1400.0,54.0,4.0,4.0,24.0
+652e77be065f3de1,Hot Coffee with Creamer,Breakfast (Regional),1,0,45.0,1.0,0.5,0.0,2.5,10.0,8.0,0.0,7.0,0.5
+afe537765679139a,Iced Coffee with Creamer,Breakfast (Regional),1,0,45.0,1.0,0.5,0.0,2.5,15.0,8.0,0.0,7.0,0.5
+bb3c78a5ebceae97,Orange Juice,Breakfast (Regional),1,0,140.0,0.0,0.0,0.0,0.0,20.0,33.0,0.5,28.0,2.0
+66962c195020c942,Premium Roast Coffee - Hot,Breakfast (Regional),1,0,0.0,0.0,0.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0
+644808baadf84ce6,Premium Roast Coffee - Iced,Breakfast (Regional),1,0,0.0,0.0,0.0,0.0,0.0,20.0,0.0,0.0,0.0,0.0
+1814ab9ad1e4a883,Vanilla Creamer,Breakfast (Regional),1,0,20.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,3.0,0.0
+ee72279f13e5ba21,Mad Tasty Grapefruit Sparkling Water,Cantina Menu,0,0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+a6816c815be5ed74,Mad Tasty Unicorn Tears Sparkling Water,Cantina Menu,0,0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+c6917019ca07e512,Mad Tasty Watermelon Kiwi Sparkling Water,Cantina Menu,0,0,15.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0
+031abf4c61d983cc,Mad Tasty Yuzu Citrus Sparkling Water,Cantina Menu,0,0,5.0,0.0,0.0,0.0,0.0,55.0,0.0,0.0,0.0,0.0
+7f608f5bb73721a0,Mtn Dew® Baja Blast Freeze™ (16 oz),Cantina Menu,0,0,150.0,0.0,0.0,0.0,0.0,45.0,41.0,0.0,41.0,0.0
+f68bbc553d0a3407,Mtn Dew® Baja Blast Freeze™ (20 oz),Cantina Menu,0,0,190.0,0.0,0.0,0.0,0.0,55.0,51.0,0.0,51.0,0.0
+f7a004cabdf4852f,Prosecco Sparkling Wine (350 mL),Cantina Menu,0,0,280.0,0.0,0.0,0.0,0.0,15.0,9.0,0.0,3.0,0.0
+28e9decf30913194,Red Wine (6.3 fl oz),Cantina Menu,0,0,160.0,0.0,0.0,0.0,0.0,5.0,5.0,0.0,1.0,0.0
+aac4a4071eabc000,Rum (80 proof),Cantina Menu,0,0,70.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+3561f719c1624607,Tequila (80 proof),Cantina Menu,0,0,70.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+10a522623e225ef7,Vodka (80 proof),Cantina Menu,0,0,70.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+7f608f5bb73721a0,Mtn Dew® Baja Blast Freeze™ (16 oz),Las Vegas Cantina Menu,0,0,150.0,0.0,0.0,0.0,0.0,45.0,41.0,0.0,41.0,0.0
+f68bbc553d0a3407,Mtn Dew® Baja Blast Freeze™ (20 oz),Las Vegas Cantina Menu,0,0,190.0,0.0,0.0,0.0,0.0,55.0,51.0,0.0,51.0,0.0
+5ee72c2e24b6b9f8,Mtn Dew® Baja Blast Freeze™ (32 oz),Las Vegas Cantina Menu,0,0,310.0,0.0,0.0,0.0,0.0,85.0,82.0,0.0,82.0,0.0
+3979014e3a12bcb4,Red Sangria - LV,Las Vegas Cantina Menu,0,0,330.0,0.0,0.0,0.0,0.0,35.0,28.0,0.0,24.0,0.0
+274750d1148bf6eb,Rum (80 proof) - Double - LV,Las Vegas Cantina Menu,0,0,250.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+89c084d3d7163001,Rum (80 proof) - Single - LV,Las Vegas Cantina Menu,0,0,120.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+a221bd5c849e43a4,Tequila (80 proof) - Double - LV,Las Vegas Cantina Menu,0,0,250.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+7176feca1d774b61,Tequila (80 proof) - Single - LV,Las Vegas Cantina Menu,0,0,120.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+3e4fe71762071a0c,Vodka (80 proof) - Double - LV,Las Vegas Cantina Menu,0,0,250.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+717bf78f77d0cbad,Vodka (80 proof) - Single - LV,Las Vegas Cantina Menu,0,0,120.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+734fa236dc8c0ee2,Whiskey (80 proof) - Double - LV,Las Vegas Cantina Menu,0,0,250.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bd86432693ffa787,Whiskey (80 proof) - Single - LV,Las Vegas Cantina Menu,0,0,120.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
