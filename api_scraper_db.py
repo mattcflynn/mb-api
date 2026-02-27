@@ -125,20 +125,60 @@ def load_store_product_pairs(conn: sqlite3.Connection) -> set:
         pass
     return s
 
+def load_last_prices(conn: sqlite3.Connection) -> Dict[Tuple[str, str], int]:
+    """Latest price_cents per (store_id, canonical_product_id) — used for delta tracking."""
+    m: Dict[Tuple[str, str], int] = {}
+    try:
+        for sid, cpid, cents in conn.execute("""
+            SELECT store_id, canonical_product_id, price_cents FROM prices
+            GROUP BY store_id, canonical_product_id HAVING collected_at = MAX(collected_at)
+        """):
+            m[(str(sid), str(cpid))] = int(cents)
+    except sqlite3.OperationalError:
+        pass
+    return m
+
+def load_last_staged(conn: sqlite3.Connection) -> Dict[Tuple[str, str], int]:
+    """Latest price_cents per (store_id, product_code) in staging — for delta tracking."""
+    m: Dict[Tuple[str, str], int] = {}
+    try:
+        for sid, code, cents in conn.execute("""
+            SELECT store_id, product_code, price_cents FROM prices_staging
+            GROUP BY store_id, product_code HAVING collected_at = MAX(collected_at)
+        """):
+            m[(str(sid), str(code))] = int(cents)
+    except sqlite3.OperationalError:
+        pass
+    return m
+
 def upsert_store_last_scraped(conn: sqlite3.Connection, store_id: str, when_iso: str):
     conn.execute("UPDATE stores SET last_scraped_date = ? WHERE store_id = ?", (when_iso, store_id))
 
-def insert_price(conn: sqlite3.Connection, store_id: str, cpid: str, cents: int, when_iso: str, currency: str="USD"):
+def insert_price(conn: sqlite3.Connection, store_id: str, cpid: str, cents: int, when_iso: str,
+                 last_prices: Dict[Tuple[str, str], int], currency: str="USD") -> bool:
+    """Insert only if price changed. Updates last_prices in place. Returns True if inserted."""
+    key = (store_id, cpid)
+    if last_prices.get(key) == cents:
+        return False
     conn.execute("""
         INSERT OR IGNORE INTO prices (store_id, canonical_product_id, price_cents, currency, collected_at)
         VALUES (?, ?, ?, ?, ?)
     """, (store_id, cpid, cents, currency, when_iso))
+    last_prices[key] = cents
+    return True
 
-def insert_price_staging(conn: sqlite3.Connection, store_id: str, product_code: str, cents: int, when_iso: str, currency: str="USD"):
+def insert_price_staging(conn: sqlite3.Connection, store_id: str, product_code: str, cents: int, when_iso: str,
+                         last_staged: Dict[Tuple[str, str], int], currency: str="USD") -> bool:
+    """Insert only if price changed. Updates last_staged in place. Returns True if inserted."""
+    key = (store_id, product_code)
+    if last_staged.get(key) == cents:
+        return False
     conn.execute("""
         INSERT OR IGNORE INTO prices_staging (store_id, product_code, price_cents, currency, collected_at)
         VALUES (?, ?, ?, ?, ?)
     """, (store_id, product_code, cents, currency, when_iso))
+    last_staged[key] = cents
+    return True
 
 # ---------------- Price extraction ----------------
 def price_to_cents(value) -> Optional[int]:
@@ -282,8 +322,10 @@ def fetch_menu_for_store_any(store_id_raw: str) -> dict:
 
 # ---------------- Scrape one store ----------------
 def scrape_store(conn: sqlite3.Connection, store_id: str, code_to_cpid: Dict[str, str],
-                 valid_pairs: set, verbose: bool=False, log_misses: bool=False,
-                 dump_for: Optional[str]=None, peek_for: Optional[str]=None) -> Tuple[int,int]:
+                 valid_pairs: set, last_prices: Dict[Tuple[str,str],int],
+                 last_staged: Dict[Tuple[str,str],int], verbose: bool=False,
+                 log_misses: bool=False, dump_for: Optional[str]=None,
+                 peek_for: Optional[str]=None) -> Tuple[int,int]:
     sid = sanitize_store_id(store_id)
     if not sid:
         if verbose: print(f"[warn] invalid store_id: {store_id}", flush=True)
@@ -330,11 +372,11 @@ def scrape_store(conn: sqlite3.Connection, store_id: str, code_to_cpid: Dict[str
 
             cpid = code_to_cpid.get(code)
             if cpid and (sid, cpid) in valid_pairs:
-                insert_price(conn, sid, cpid, cents, now_iso)
-                wrote_final += 1
+                if insert_price(conn, sid, cpid, cents, now_iso, last_prices):
+                    wrote_final += 1
             else:
-                insert_price_staging(conn, sid, code, cents, now_iso)
-                wrote_stage += 1
+                if insert_price_staging(conn, sid, code, cents, now_iso, last_staged):
+                    wrote_stage += 1
 
     upsert_store_last_scraped(conn, sid, now_iso)
     return (wrote_final, wrote_stage)
@@ -362,6 +404,8 @@ def main():
     try:
         code_to_cpid = load_code_to_canonical(conn)
         valid_pairs = load_store_product_pairs(conn)
+        last_prices = load_last_prices(conn)
+        last_staged = load_last_staged(conn)
         rows = fetch_store_rows(conn)
 
         if args.list_regions:
@@ -380,6 +424,7 @@ def main():
         if args.verbose:
             print(f"[info] loaded {len(code_to_cpid)} product_code→canonical mappings", flush=True)
             print(f"[info] loaded {len(valid_pairs)} store↔product pairs", flush=True)
+            print(f"[info] loaded {len(last_prices)} cached prices, {len(last_staged)} cached staged (delta tracking)", flush=True)
             print(f"[info] scraping {len(stores)} stores", flush=True)
             if include_regions: print(f"[info] include regions: {', '.join(sorted(include_regions))}", flush=True)
             if exclude_regions: print(f"[info] exclude regions: {', '.join(sorted(exclude_regions))}", flush=True)
@@ -391,6 +436,7 @@ def main():
             if args.verbose:
                 print(f"[{i}/{len(stores)}] Scraping store {store_id}", flush=True)
             n_final, n_stage = scrape_store(conn, store_id, code_to_cpid, valid_pairs,
+                                            last_prices, last_staged,
                                             verbose=args.verbose,
                                             log_misses=args.log_misses,
                                             dump_for=args.dump_store_json,
