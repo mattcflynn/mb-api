@@ -16,10 +16,11 @@ A data pipeline that scrapes, normalizes, and links Taco Bell menu items, store 
 8. [Phase 6: Database Setup](#phase-6-database-setup)
 9. [Phase 7: Price Collection](#phase-7-price-collection)
 10. [Phase 8: Promote Staged Prices](#phase-8-promote-staged-prices)
-11. [Shared Package: macrobell/](#shared-package-macrobell)
-12. [Database Schema](#database-schema)
-13. [Configuration Reference](#configuration-reference)
-14. [Troubleshooting](#troubleshooting)
+11. [Query Tools](#query-tools)
+12. [Shared Package: macrobell/](#shared-package-macrobell)
+13. [Database Schema](#database-schema)
+14. [Configuration Reference](#configuration-reference)
+15. [Troubleshooting](#troubleshooting)
 
 ---
 
@@ -63,10 +64,12 @@ store_geocoder.py           ─→  Geocoded coordinates
 combine_chunks.py           ─→  Master store list
 nutrition_scraper_patched.py ─→  Nutrition data
 code_mapper_all.py          ─→  Menu catalog + store-product inventory
-product_linker.py           ─→  Menu ↔ nutrition linkage
+product_linker.py           ─→  Menu ↔ nutrition linkage (initial)
 db_setup.py                 ─→  SQLite database
+relink.py                   ─→  Improved nutrition linking (cleanup pass)
 api_scraper_db.py           ─→  Prices in database
 promote_staging.py          ─→  Finalized prices
+nearby.py                   ─→  Query: cheapest macro/$ near a location
 ```
 
 ---
@@ -228,6 +231,35 @@ Looks for `menu_catalog_*.csv` and `store_products_*.csv` in the current directo
 ---
 
 ## Phase 5: Nutrition Linking
+
+### relink.py
+
+Improved nutrition linker that runs directly against `macrobell.db`. Supersedes `product_linker.py` for cleanup runs after the initial pipeline load.
+
+```bash
+uv run relink.py
+```
+
+No arguments. Reads `macrobell.db` and `link_overrides.csv` from the current directory.
+
+**What it does:**
+
+1. Selects candidate products: `us_active=1, is_drink=0`, excludes `deals-and-combos` and `party-packs`, skips items already linked with `match_confidence >= 0.80`
+2. Filters junk nutrition categories: Test Items, Cantina Beer/Wine/Spirits, Freeze Test Items, Side Portions - Hidden, JSON only, Drinks (~166 usable items remain)
+3. Applies category-aware pre-filtering (e.g. breakfast products only scored against breakfast nutrition items)
+4. Scores with improved Jaccard: strips HTML entities, single-char tokens, and quantity/unit words; adds +0.10 substring boost and +0.15 product-recall boost
+5. Upserts results into `product_nutrition_map` via `ON CONFLICT DO UPDATE`
+
+**Thresholds:**
+- `>= 0.80` — auto-accept (multiple candidates in filtered set)
+- `>= 0.70` — auto-accept (only one candidate in filtered set)
+- `< 0.50` — sent to review file
+
+**Outputs:**
+- Updated rows in `product_nutrition_map`
+- `link_review_needed_v2.csv` — items that couldn't be confidently linked
+
+**When to run:** After `db_setup.py`, or any time you want to close the nutrition linking gap without re-running the full pipeline.
 
 ### product_linker.py
 
@@ -411,6 +443,50 @@ Date values: `YYYY-MM-DD` is interpreted as start-of-day for `--since` and end-o
 
 ---
 
+## Query Tools
+
+### nearby.py
+
+Finds the cheapest macro per dollar at Taco Bell stores near a given location.
+
+```bash
+# By ZIP code
+uv run nearby.py --zip 90210 --macro protein
+
+# By coordinates
+uv run nearby.py --lat 34.09 --lon -118.41 --macro protein
+
+# Other macros
+uv run nearby.py --zip 90210 --macro calories
+uv run nearby.py --zip 90210 --macro fat
+uv run nearby.py --zip 90210 --macro carbs
+
+# Adjust radius and result count
+uv run nearby.py --zip 90210 --macro protein --radius 10 --top 20
+```
+
+| Flag | Default | Description |
+|------|---------|-------------|
+| `--zip` | — | US ZIP code (geocoded via Nominatim). Use this or `--lat`/`--lon` |
+| `--lat` | — | Latitude (use with `--lon`) |
+| `--lon` | — | Longitude (use with `--lat`) |
+| `--macro` | `protein` | Macro to optimize: `protein`, `calories`, `fat`, `carbs` |
+| `--radius` | `25` | Search radius in miles |
+| `--top` | `15` | Number of results to show |
+| `--db` | `macrobell.db` | Path to database |
+
+**How it works:**
+
+1. Geocodes ZIP to lat/lon via Nominatim (skipped if `--lat`/`--lon` provided)
+2. Bounding-box SQL pre-filter, then exact haversine distance filter
+3. Fetches latest price per store/product (most recent `collected_at`)
+4. Filters: `price_cents >= 100` (drops data artifacts), `match_confidence >= 0.80` (high-confidence nutrition links only), excludes drinks and combo meals
+5. Computes `macro / (price_cents / 100.0)` and ranks descending
+
+**Note:** Price data is currently available for CA, WA, and OR stores only.
+
+---
+
 ## Shared Package: `macrobell/`
 
 Common utilities extracted from the pipeline scripts into a reusable package. All pipeline scripts import from here instead of duplicating code.
@@ -580,7 +656,8 @@ The scraper tries these endpoints in order:
 | 404 for all ID candidates | Store closed or ID format changed | Use `--peek` to inspect JSON structure |
 | `GOOGLE_MAPS_API_KEY not set` | `.env` missing or not loaded | Create `.env` in project root |
 | `No processed chunk files found` | Geocoding incomplete | Run `store_geocoder.py` for all chunks |
-| Low match rate in product_linker | Nutrition data stale | Re-run `nutrition_scraper_patched.py`, review overrides |
+| Low match rate in product_linker | Nutrition data stale | Re-run `nutrition_scraper_patched.py`, review overrides, then run `relink.py` |
+| `nearby.py` returns no results | No price data for that area | Price data is CA/WA/OR only; try a ZIP in those states |
 | Staged prices not promoting | Product codes not in products table | Use `--autocreate-store-product` or update menu catalog |
 
 ### Debugging a Single Store
