@@ -21,44 +21,20 @@ from pathlib import Path
 from typing import Any, Dict, List, Optional, Set, Tuple
 
 import requests
-from requests.adapters import HTTPAdapter
-from urllib3.util.retry import Retry
+
+from macrobell.config import (
+    MENU_API_BASE, REQUEST_TIMEOUT, HARD_DEADLINE_SEC,
+    REGIONS, US_ABBR, NAME_TO_ABBR,
+)
+from macrobell.db import connect
+from macrobell.http import make_session, warm_cookies as _warm_cookies
+from macrobell.store_ids import sanitize_store_id, store_id_candidates
 
 # ---------------- Networking ----------------
-REQUEST_TIMEOUT = (5, 12)  # connect, read
-HARD_DEADLINE_SEC = 20
-
-BROWSER_HEADERS = {
-    "User-Agent": ("Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
-                   "AppleWebKit/537.36 (KHTML, like Gecko) "
-                   "Chrome/120.0.0.0 Safari/537.36"),
-    "Accept": "application/json, text/plain, */*",
-    "Accept-Language": "en-US,en;q=0.9",
-    "Referer": "https://www.tacobell.com/",
-    "Origin": "https://www.tacobell.com",
-    "Connection": "close",
-}
-
-def make_session() -> requests.Session:
-    s = requests.Session()
-    s.headers.update(BROWSER_HEADERS)
-    retry = Retry(
-        total=2, connect=2, read=2, backoff_factor=0.3,
-        status_forcelist=(429, 500, 502, 503, 504),
-        allowed_methods=frozenset(["GET"]),
-        raise_on_status=False,
-    )
-    adapter = HTTPAdapter(max_retries=retry, pool_connections=32, pool_maxsize=32)
-    s.mount("https://", adapter); s.mount("http://", adapter)
-    return s
-
-SESSION = make_session()
+SESSION = make_session(connection_mode="close")
 
 def warm_cookies():
-    try:
-        SESSION.get("https://www.tacobell.com/locations", timeout=REQUEST_TIMEOUT)
-    except Exception:
-        pass
+    _warm_cookies(SESSION)
 
 @contextlib.contextmanager
 def hard_deadline(seconds: int):
@@ -71,37 +47,6 @@ def hard_deadline(seconds: int):
 
 class TimeoutError(Exception): ...
 
-# ---------------- Regions ----------------
-REGIONS: Dict[str, Set[str]] = {
-    "West_Coast":    {"CA","OR","WA"},
-    "Pacific":       {"AK","HI"},
-    "Mountain":      {"AZ","NV","UT","CO","NM","ID","MT","WY"},
-    "Southwest":     {"TX","OK"},
-    "South_Central": {"AR","LA"},
-    "Southeast":     {"FL","GA","SC","NC","AL","MS","TN","KY"},
-    "Great_Lakes":   {"IL","IN","MI","OH","WI"},
-    "Midwest_Plains":{"ND","SD","NE","KS","MN","IA","MO"},
-    "Mid_Atlantic":  {"PA","NJ","NY","DE","MD","DC","VA","WV"},
-    "New_England":   {"ME","NH","VT","MA","CT","RI"},
-}
-
-US_ABBR = {k:k for k in [
-"AL","AK","AZ","AR","CA","CO","CT","DE","FL","GA","HI","ID","IL","IN","IA","KS","KY",
-"LA","ME","MD","MA","MI","MN","MS","MO","MT","NE","NV","NH","NJ","NM","NY","NC","ND",
-"OH","OK","OR","PA","RI","SC","SD","TN","TX","UT","VT","VA","WA","WV","WI","WY","DC","PR"
-]}
-NAME_TO_ABBR = {
-    "alabama":"AL","alaska":"AK","arizona":"AZ","arkansas":"AR","california":"CA","colorado":"CO",
-    "connecticut":"CT","delaware":"DE","florida":"FL","georgia":"GA","hawaii":"HI","idaho":"ID",
-    "illinois":"IL","indiana":"IN","iowa":"IA","kansas":"KS","kentucky":"KY","louisiana":"LA",
-    "maine":"ME","maryland":"MD","massachusetts":"MA","michigan":"MI","minnesota":"MN",
-    "mississippi":"MS","missouri":"MO","montana":"MT","nebraska":"NE","nevada":"NV",
-    "new hampshire":"NH","new jersey":"NJ","new mexico":"NM","new york":"NY","north carolina":"NC",
-    "north dakota":"ND","ohio":"OH","oklahoma":"OK","oregon":"OR","pennsylvania":"PA","rhode island":"RI",
-    "south carolina":"SC","south dakota":"SD","tennessee":"TN","texas":"TX","utah":"UT","vermont":"VT",
-    "virginia":"VA","washington":"WA","west virginia":"WV","wisconsin":"WI","wyoming":"WY",
-    "district of columbia":"DC","dc":"DC","puerto rico":"PR"
-}
 
 def normalize_state(val: Optional[str]) -> Optional[str]:
     if not val: return None
@@ -121,13 +66,6 @@ def parse_regions_arg(s: Optional[str]) -> Set[str]:
     return out
 
 # ---------------- DB helpers ----------------
-def connect(db_path: str) -> sqlite3.Connection:
-    conn = sqlite3.connect(db_path)
-    conn.execute("PRAGMA foreign_keys = ON;")
-    conn.execute("PRAGMA journal_mode = WAL;")
-    conn.execute("PRAGMA synchronous = NORMAL;")
-    return conn
-
 def fetch_store_rows(conn: sqlite3.Connection) -> List[tuple]:
     # Expect stores table with (store_id, state)
     return conn.execute("SELECT store_id, state FROM stores WHERE store_id IS NOT NULL AND store_id != ''").fetchall()
@@ -192,24 +130,6 @@ def insert_price_staging(conn: sqlite3.Connection, store_id: str, product_code: 
         INSERT OR IGNORE INTO prices_staging (store_id, product_code, price_cents, currency, collected_at)
         VALUES (?, ?, ?, ?, ?)
     """, (store_id, product_code, cents, currency, when_iso))
-
-# ---------------- ID helpers ----------------
-ALPHA_PREFIX = re.compile(r"^[A-Za-z](\d{5,7})$")
-DIGITS = re.compile(r"^\d{4,7}$")
-def sanitize_store_id(raw_id: str | None) -> Optional[str]:
-    if not raw_id: return None
-    s = str(raw_id).strip()
-    m = ALPHA_PREFIX.match(s)
-    if m: return m.group(1)
-    return s if DIGITS.fullmatch(s) else None
-
-def store_id_candidates(raw_id: str) -> List[str]:
-    """Return [original, stripped-leading-zeros] if different."""
-    s = str(raw_id).strip()
-    nums = s.lstrip("0")
-    cand = [s]
-    if nums and nums != s: cand.append(nums)
-    return cand
 
 # ---------------- Price extraction ----------------
 def price_to_cents(value) -> Optional[int]:
@@ -325,7 +245,7 @@ def extract_price_from_product(p: dict) -> Optional[int]:
 
 # ---------------- HTTP fetch (v5 -> v4, candidates) ----------------
 def fetch_menu_for_store_any(store_id_raw: str) -> dict:
-    base = "https://www.tacobell.com/tacobellwebservices"
+    base = MENU_API_BASE
     candidates = store_id_candidates(store_id_raw)
     endpoints = [
         lambda sid: f"{base}/v5/tacobell/products/menu/{sid}?channel=WEB&lang=en&curr=USD",

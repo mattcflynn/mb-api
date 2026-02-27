@@ -16,7 +16,7 @@ A data pipeline that scrapes, normalizes, and links Taco Bell menu items, store 
 8. [Phase 6: Database Setup](#phase-6-database-setup)
 9. [Phase 7: Price Collection](#phase-7-price-collection)
 10. [Phase 8: Promote Staged Prices](#phase-8-promote-staged-prices)
-11. [Utility Scripts](#utility-scripts)
+11. [Shared Package: macrobell/](#shared-package-macrobell)
 12. [Database Schema](#database-schema)
 13. [Configuration Reference](#configuration-reference)
 14. [Troubleshooting](#troubleshooting)
@@ -411,53 +411,26 @@ Date values: `YYYY-MM-DD` is interpreted as start-of-day for `--since` and end-o
 
 ---
 
-## Utility Scripts
+## Shared Package: `macrobell/`
 
-### api-scraper.py
+Common utilities extracted from the pipeline scripts into a reusable package. All pipeline scripts import from here instead of duplicating code.
 
-Fetches a single store's raw menu JSON for inspection. Hardcoded to store `031829`.
+### Module summary
 
-```bash
-python api-scraper.py
-```
+| Module | Contents |
+|--------|----------|
+| `macrobell.config` | All centralized constants: API URLs, HTTP settings, rate limits, cache settings, file paths, matching thresholds, region mappings, NLP word sets |
+| `macrobell.normalize` | `normalize_name()`, `normalize_columns()`, `flag_category()`, `split_base_and_size()` |
+| `macrobell.http` | `make_session()`, `warm_cookies()`, `BROWSER_HEADERS` |
+| `macrobell.store_ids` | `sanitize_store_id()`, `store_id_candidates()`, `parse_store_id_from_url()`, `extract_store_id_from_html()`, `build_id_candidates()` |
+| `macrobell.db` | `connect()` — SQLite connection with WAL mode and foreign key pragmas |
 
-**Output:** `menu_031829.json`
-
-### code_mapper.py
-
-One-time utility that creates a product code to name mapping from a single store. Hardcoded to store `031829`.
-
-```bash
-python code_mapper.py
-```
-
-**Output:** `product_code_map.csv`
-
-### data_combiner.py
-
-Merges `nutrition_latest.csv` with `product_code_map.csv` by name matching. Superseded by `product_linker.py`.
+### Quick test
 
 ```bash
-python data_combiner.py
+python -c "from macrobell.normalize import normalize_name; print(normalize_name('Cheesy Gordita Crunch®'))"
+# cheesy gordita crunch
 ```
-
-### verify_menu.py
-
-Checks a menu JSON file for missing prices, missing codes, and duplicates. Hardcoded to `menu_031829.json`.
-
-```bash
-python verify_menu.py
-```
-
-### compare_store_lists.py
-
-Compares the latest sitemap scrape against the master store list to find new and closed locations.
-
-```bash
-python compare_store_lists.py
-```
-
-Reports newly added and removed stores to the console.
 
 ---
 
@@ -498,7 +471,7 @@ The database (`macrobell.db`) contains these tables:
 |--------|------|-------------|
 | `item_id` | TEXT PK | Nutrition item identifier |
 | `name` | TEXT | Item name |
-| `category` | TEXT | Nutrition category |
+| `category_nutrition` | TEXT | Nutrition category |
 | `is_breakfast` | INTEGER | 1 if breakfast item |
 | `is_drink` | INTEGER | 1 if drink item |
 | `serving_weight_grams` | REAL | Serving weight |

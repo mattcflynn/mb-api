@@ -25,32 +25,17 @@ from typing import Dict, List, Tuple
 
 import pandas as pd
 
+from macrobell.config import HIGH_CONF, MID_CONF, STOPWORDS, SIZE_WORDS
+from macrobell.normalize import normalize_name, normalize_columns
+
 # -------------------------
 # Config / thresholds
 # -------------------------
-HIGH_CONF = 0.80   # accept automatically
-MID_CONF  = 0.65   # accept if key tokens align (e.g., 'supreme', 'crunchwrap', 'chalupa', etc.)
-
-STOPWORDS   = {"the","a","an","and","with","of","for"}
-SIZE_WORDS  = {"large","medium","small","grande","mini","double","triple","party","pack","box","combo"}
 KEY_TOKENS  = {"supreme","spicy","fresco","crunchwrap","chalupa","gordita","quesadilla","nacho","nachos",
                "cheesy","veggy","veggie","beef","chicken","steak","bean","black","fiesta","potato","volcano",
                "cantina","freeze","baja","blast","mtn","mountain","dew","cinnamon","twist","cinnabon","delight",
                "cinna","tostada","mexican","pizza","power","bowl","soft","hard","crunchy","doritos","locos",
                "ranch","chipotle","avocado","spicy","mild","fire"}
-MARKS_RE = re.compile(r"[®™()]")
-
-
-# -------------------------
-# Normalization helpers
-# -------------------------
-def normalize_name(s: str) -> str:
-    s = (s or "").lower()
-    s = MARKS_RE.sub("", s)
-    s = re.sub(r"[-/]", " ", s)
-    s = re.sub(r"[^a-z0-9 ]+", " ", s)
-    s = re.sub(r"\s+", " ", s).strip()
-    return s
 
 def core_tokens(s: str) -> List[str]:
     toks = [t for t in normalize_name(s).split()
@@ -85,8 +70,7 @@ def soft_filter_by_flags(df: pd.DataFrame, is_bf: int, is_dr: int) -> pd.DataFra
 # -------------------------
 def read_csv(path: str) -> pd.DataFrame:
     df = pd.read_csv(path)
-    df.columns = [c.strip().lower().replace(" ", "_") for c in df.columns]
-    return df
+    return normalize_columns(df)
 
 def load_overrides(path: str | None) -> Dict[str, str]:
     if not path or not Path(path).exists():

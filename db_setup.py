@@ -27,6 +27,8 @@ import sqlite3
 from pathlib import Path
 from typing import Dict, Iterable, Tuple
 
+from macrobell.db import connect
+
 # -------------------------
 # CSV helpers
 # -------------------------
@@ -42,13 +44,6 @@ def file_exists(path: str | None) -> bool:
 # -------------------------
 # SQL helpers
 # -------------------------
-def connect(db_path: str) -> sqlite3.Connection:
-    conn = sqlite3.connect(db_path)
-    conn.execute("PRAGMA foreign_keys = ON;")
-    conn.execute("PRAGMA journal_mode = WAL;")
-    conn.execute("PRAGMA synchronous = NORMAL;")
-    return conn
-
 def execmany(conn: sqlite3.Connection, sql: str, rows):
     conn.executemany(sql, rows)
 
@@ -230,6 +225,13 @@ def upsert_products(conn: sqlite3.Connection, menu_catalog_csv: str):
             int(r.get("is_drink") or 0),
             int(r.get("us_active") or 1),
         ))
+    # Remove stale rows whose product_code will be re-inserted under a new canonical_product_id
+    incoming = {r[1]: r[0] for r in rows}  # product_code -> canonical_product_id
+    for pc, new_cpid in incoming.items():
+        conn.execute(
+            "DELETE FROM products WHERE product_code = ? AND canonical_product_id != ?",
+            (pc, new_cpid),
+        )
     execmany(conn, """
         INSERT INTO products (
           canonical_product_id, product_code, base_name, size_variant,

@@ -30,14 +30,9 @@ import sqlite3
 from datetime import datetime
 from typing import Optional, Tuple, List
 
-ISO_TS = "%Y-%m-%dT%H:%M:%SZ"  # expected format in collected_at
+from macrobell.db import connect
 
-def connect(db_path: str) -> sqlite3.Connection:
-    conn = sqlite3.connect(db_path)
-    conn.execute("PRAGMA foreign_keys = ON;")
-    conn.execute("PRAGMA journal_mode = WAL;")
-    conn.execute("PRAGMA synchronous = NORMAL;")
-    return conn
+ISO_TS = "%Y-%m-%dT%H:%M:%SZ"  # expected format in collected_at
 
 def parse_date(s: Optional[str]) -> Optional[str]:
     if not s:

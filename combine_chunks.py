@@ -8,10 +8,11 @@
 import pandas as pd
 from pathlib import Path
 
+from macrobell.config import CHUNKS_DIR, FINAL_STORE_CSV, CHUNK_FILE_PATTERN
+
 # --- Configuration ---
-CHUNKS_DIR = "store_chunks"
-FINAL_OUTPUT_CSV = "taco_bell_stores_final_with_coords.csv"
-FILE_PATTERN = "*_with_coords.csv"
+FINAL_OUTPUT_CSV = FINAL_STORE_CSV
+FILE_PATTERN = CHUNK_FILE_PATTERN
 
 def main():
     """

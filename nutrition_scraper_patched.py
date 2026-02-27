@@ -13,8 +13,9 @@ import json, gzip, re, csv, argparse, requests
 from pathlib import Path
 from urllib.parse import urljoin
 
-NUTRITION_LANDING_URL = "https://www.tacobell.com/nutrition/info"
-FALLBACK_JSON_GZ = "https://d2eawub7utcl6.cloudfront.net/calculator/10197-0-1760620706.json.gz"
+from macrobell.config import NUTRITION_LANDING_URL, FALLBACK_NUTRITION_JSON_GZ
+
+FALLBACK_JSON_GZ = FALLBACK_NUTRITION_JSON_GZ
 CALC_JSON_GZ_PATTERN = re.compile(r"calculator/\d+-0-\d+\.json\.gz")
 
 NUTRIENT_FIELDS = [

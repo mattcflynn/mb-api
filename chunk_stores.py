@@ -9,9 +9,10 @@
 import pandas as pd
 from pathlib import Path
 
+from macrobell.config import FULL_STORE_LIST_CSV, CHUNKS_DIR
+
 # --- Configuration ---
-FULL_STORE_LIST_CSV = "taco_bell_stores_from_sitemap.csv"
-OUTPUT_DIR = "store_chunks"
+OUTPUT_DIR = CHUNKS_DIR
 TARGET_CHUNK_SIZE = 500
 
 def main():

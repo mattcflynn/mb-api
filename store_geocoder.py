@@ -15,11 +15,7 @@ from geopy.extra.rate_limiter import RateLimiter
 import googlemaps
 from dotenv import load_dotenv
 
-# --- Configuration ---
-# This script is now driven by command-line arguments.
-# Example usage: python store_geocoder.py --chunk 1
-CHUNKS_DIR = "store_chunks"
-MANUAL_FIXES_CSV = "manual_addresses.csv"
+from macrobell.config import CHUNKS_DIR, MANUAL_FIXES_CSV
 
 # NEW: Load environment variables from a .env file
 load_dotenv()
