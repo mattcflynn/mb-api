@@ -16,7 +16,7 @@ A data pipeline that scrapes, normalizes, and links Taco Bell menu items, store 
 8. [Phase 6: Database Setup](#phase-6-database-setup)
 9. [Phase 7: Price Collection](#phase-7-price-collection)
 10. [Phase 8: Promote Staged Prices](#phase-8-promote-staged-prices)
-11. [Query Tools](#query-tools)
+11. [Query & Analysis Tools](#query-tools)
 12. [Shared Package: macrobell/](#shared-package-macrobell)
 13. [Database Schema](#database-schema)
 14. [Configuration Reference](#configuration-reference)
@@ -62,7 +62,7 @@ chunk_stores.py             ─→  Chunked store files
 store-id-sitemap.py         ─→  Store IDs + addresses
 store_geocoder.py           ─→  Geocoded coordinates
 combine_chunks.py           ─→  Master store list
-nutrition_scraper_patched.py ─→  Nutrition data
+scrape_nutrition.py         ─→  Nutrition data (from Nutritionix)
 code_mapper_all.py          ─→  Menu catalog + store-product inventory
 product_linker.py           ─→  Menu ↔ nutrition linkage (initial)
 db_setup.py                 ─→  SQLite database
@@ -70,6 +70,7 @@ relink.py                   ─→  Improved nutrition linking (cleanup pass)
 api_scraper_db.py           ─→  Prices in database
 promote_staging.py          ─→  Finalized prices
 nearby.py                   ─→  Query: cheapest macro/$ near a location
+analyze_col.py              ─→  Analysis: pricing vs. cost-of-living metrics
 ```
 
 ---
@@ -168,22 +169,37 @@ python combine_chunks.py
 
 ## Phase 3: Nutrition Data
 
-### nutrition_scraper_patched.py
+### scrape_nutrition.py
 
-Fetches Taco Bell's nutrition calculator data and computes per-item nutrition facts.
+Scrapes Taco Bell nutrition data from the Nutritionix menu page and writes `nutrition-extract.csv`. This is the canonical source of nutrition data — cleaner than the old CloudFront JSON source (no Test Items, Hidden Items, or beer/wine noise).
 
 ```bash
-python nutrition_scraper_patched.py
-python nutrition_scraper_patched.py --out custom_nutrition.csv
+# Just produce the CSV
+uv run python scrape_nutrition.py
+
+# Produce CSV and load directly into DB
+uv run python scrape_nutrition.py --load-db --db macrobell.db
 ```
 
 | Flag | Default | Description |
 |------|---------|-------------|
-| `--out` | `nutrition_latest.csv` | Output file path |
+| `--out` | `nutrition-extract.csv` | Output CSV path |
+| `--load-db` | Off | Load into DB via `db_setup.py` after writing CSV |
+| `--db` | `macrobell.db` | DB path (used with `--load-db`) |
 
-**Output columns:** `item_id`, `name`, `category`, `is_breakfast`, `is_drink`, `serving_weight_grams`, `calories`, `fat_calories`, `total_fat`, `saturated_fat`, `trans_fat`, `polyunsaturated_fat`, `monounsaturated_fat`, `cholesterol`, `sodium`, `total_carb`, `fibers`, `sugars`, `protein`
+**Source:** `https://www.nutritionix.com/taco-bell/menu/premium` (server-rendered HTML table, no JS required)
 
-Fetches from Taco Bell's CloudFront-hosted calculator JSON. Falls back to a hardcoded URL if discovery fails.
+**Output:** 159 items across 13 categories. Excluded at scrape time: Drinks, Cantina Beer/Wine/Spirits, Fountain Beverages.
+
+**Output columns:** `item_id`, `name`, `category_nutrition`, `is_breakfast`, `is_drink`, `calories`, `total_fat`, `saturated_fat`, `trans_fat`, `cholesterol`, `sodium`, `total_carb`, `fibers`, `sugars`, `protein`
+
+`item_id` is generated as `sha256(name.lower())[:16]` — deterministic, safe to re-run.
+
+**Edge cases:** `"< 1"` → `0.5`, `"< 5"` → `2.5` (conservative midpoint).
+
+### nutrition_scraper_patched.py
+
+Legacy nutrition scraper that fetched from Taco Bell's CloudFront-hosted calculator JSON. **Superseded by `scrape_nutrition.py`** — the Nutritionix page is a cleaner source with no junk categories.
 
 ---
 
@@ -245,7 +261,7 @@ No arguments. Reads `macrobell.db` and `link_overrides.csv` from the current dir
 **What it does:**
 
 1. Selects candidate products: `us_active=1, is_drink=0`, excludes `deals-and-combos` and `party-packs`, skips items already linked with `match_confidence >= 0.80`
-2. Filters junk nutrition categories: Test Items, Cantina Beer/Wine/Spirits, Freeze Test Items, Side Portions - Hidden, JSON only, Drinks (~166 usable items remain)
+2. Uses all 159 nutrition items (junk categories were excluded at scrape time by `scrape_nutrition.py`)
 3. Applies category-aware pre-filtering (e.g. breakfast products only scored against breakfast nutrition items)
 4. Scores with improved Jaccard: strips HTML entities, single-char tokens, and quantity/unit words; adds +0.10 substring boost and +0.15 product-recall boost
 5. Upserts results into `product_nutrition_map` via `ON CONFLICT DO UPDATE`
@@ -443,7 +459,7 @@ Date values: `YYYY-MM-DD` is interpreted as start-of-day for `--since` and end-o
 
 ---
 
-## Query Tools
+## Query & Analysis Tools
 
 ### nearby.py
 
@@ -483,7 +499,21 @@ uv run nearby.py --zip 90210 --macro protein --radius 10 --top 20
 4. Filters: `price_cents >= 100` (drops data artifacts), `match_confidence >= 0.80` (high-confidence nutrition links only), excludes drinks and combo meals
 5. Computes `macro / (price_cents / 100.0)` and ranks descending
 
-**Note:** Price data is currently available for CA, WA, and OR stores only.
+**Note:** Price data is available nationally — all 50 states, ~7,584 stores.
+
+### analyze_col.py
+
+Correlates state-level Taco Bell pricing against cost-of-living metrics (Census ACS 2022 median household income and median gross rent, plus state minimum wages). Prints Pearson and Spearman correlations and a full state-by-state table.
+
+```bash
+uv run python analyze_col.py
+```
+
+No arguments. Fetches Census data live from `api.census.gov` (no API key required). Requires `scipy` and `pandas` in the venv.
+
+**Output:** Pearson/Spearman correlations with significance stars, plus a ranked state table with avg price, Crunchy Taco price, income, rent, and min wage.
+
+**Key findings:** Median gross rent is the strongest predictor of TB price variation across states (r=+0.64, ρ=+0.65, p<0.001). Minimum wage is the strongest Spearman predictor for single-item pricing.
 
 ---
 
@@ -656,8 +686,8 @@ The scraper tries these endpoints in order:
 | 404 for all ID candidates | Store closed or ID format changed | Use `--peek` to inspect JSON structure |
 | `GOOGLE_MAPS_API_KEY not set` | `.env` missing or not loaded | Create `.env` in project root |
 | `No processed chunk files found` | Geocoding incomplete | Run `store_geocoder.py` for all chunks |
-| Low match rate in product_linker | Nutrition data stale | Re-run `nutrition_scraper_patched.py`, review overrides, then run `relink.py` |
-| `nearby.py` returns no results | No price data for that area | Price data is CA/WA/OR only; try a ZIP in those states |
+| Low match rate in product_linker | Nutrition data stale | Re-run `scrape_nutrition.py`, reload via `db_setup.py`, review `link_review_needed_v2.csv`, update `link_overrides.csv`, then re-run `relink.py` |
+| `nearby.py` returns no results | No price data scraped for that area yet | Check `api_scraper_db.py` coverage for the target state |
 | Staged prices not promoting | Product codes not in products table | Use `--autocreate-store-product` or update menu catalog |
 
 ### Debugging a Single Store
@@ -678,8 +708,17 @@ python -u api_scraper_db.py --db macrobell.db --store 041070 --log-misses --verb
 To do a full refresh:
 
 1. Delete `.cache/menus/` to clear cached API responses
-2. Re-run `nutrition_scraper_patched.py` for updated nutrition data
+2. Re-run `scrape_nutrition.py` for updated nutrition data
 3. Re-run `code_mapper_all.py` for updated menus
-4. Re-run `product_linker.py` to re-link
-5. Re-run `db_setup.py` to reload the database
-6. Re-run `api_scraper_db.py` for fresh prices
+4. Re-run `db_setup.py --nutrition nutrition-extract.csv` to reload the database
+5. Re-run `relink.py` to re-link products to nutrition items
+6. Review `link_review_needed_v2.csv` and update `link_overrides.csv` as needed, then re-run `relink.py`
+7. Re-run `api_scraper_db.py` for fresh prices
+
+**Nutrition-only refresh** (no menu changes):
+
+```bash
+uv run python scrape_nutrition.py
+uv run python db_setup.py --db macrobell.db --nutrition nutrition-extract.csv
+uv run python relink.py --db macrobell.db
+```
