@@ -1,5 +1,5 @@
 import { getItems, getHistory, getStores, getZipLatLon, money } from "./lib/data.js";
-import { renderHeader, renderFooter } from "./lib/ui.js";
+import { renderHeader, renderFooter, storeCell } from "./lib/ui.js";
 import { findNearbyStores } from "./lib/geo.js";
 import { drawPriceChart } from "./lib/chart.js";
 
@@ -18,7 +18,7 @@ const NUTRI_ROWS = [
 
 function storeRows(stores) {
   return stores.map((s) => `
-    <tr><td>${s.city}, ${s.state}</td><td class="r">${money(s.price_cents)}</td></tr>`).join("");
+    <tr><td>${storeCell(s)}</td><td class="r">${money(s.price_cents)}</td></tr>`).join("");
 }
 
 function renderStats(it) {
@@ -71,7 +71,7 @@ async function renderLocal(it, zip) {
   document.getElementById("local-zip").textContent = zip;
   document.getElementById("local-panel").style.display = "";
   const rows = (list) => list.map((r) => `
-    <tr><td>${r.store.city}, ${r.store.state} <span class="muted">${r.distMi.toFixed(1)}mi</span></td>
+    <tr><td>${storeCell(r.store, ` <span class="muted">${r.distMi.toFixed(1)}mi</span>`)}</td>
     <td class="r">${money(r.price)}</td></tr>`).join("");
   document.querySelector("#local-lo5 tbody").innerHTML =
     rows(nearby.slice(0, 5)) +

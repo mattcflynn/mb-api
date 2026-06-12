@@ -13,8 +13,25 @@
   <div class="layout">
     <main class="board-col" style="flex:1 1 100%">
       <div class="menu-board">
-        <h1 class="board-title">MacroBell Analyzer</h1>
-        <p class="board-sub">find your best bang-per-bell-bite — click any column header to sort</p>
+        <h1 class="board-title" id="mb-title">MacroBell Analyzer</h1>
+        <p class="board-sub" id="mb-sub">find your best bang-per-bell-bite — click any column header to sort</p>
+
+        <div id="store-banner"></div>
+
+        <div class="mb-controls" id="store-picker">
+          <div class="ctl" style="display:flex;gap:8px;align-items:flex-end">
+            <div>
+              <label>Single-store pricing — enter ZIP</label>
+              <input type="text" id="picker-zip" inputmode="numeric" pattern="[0-9]{5}" maxlength="5"
+                     placeholder="ZIP" style="width:70px">
+            </div>
+            <button id="picker-go" type="button">Find Stores</button>
+            <div id="picker-stores" style="display:none">
+              <label>Choose store</label>
+              <select id="picker-select" style="max-width:340px"></select>
+            </div>
+          </div>
+        </div>
 
         <div class="mb-controls" id="controls"></div>
 

@@ -1,10 +1,11 @@
-import { getItems, money } from "./lib/data.js";
+import { getItems, getStores, getZipLatLon, money } from "./lib/data.js";
 import { renderHeader, renderFooter } from "./lib/ui.js";
+import { findNearbyStores } from "./lib/geo.js";
 
 const COLS = [
   { key: "name", label: "Item", text: true },
   { key: "category", label: "Category", text: true },
-  { key: "national_avg_cents", label: "Avg $", fmt: money },
+  { key: "price_cents", label: "Price", fmt: money },
   { key: "protein_per_dollar", label: "Protein/$", fmt: (v) => `${v.toFixed(2)}g`, hot: true, filter: true },
   { key: "cal_per_dollar", label: "Cal/$", fmt: (v) => v.toFixed(0), filter: true },
   { key: "protein", label: "Protein", fmt: (v) => `${v}g`, filter: true },
@@ -17,6 +18,7 @@ const COLS = [
 ];
 
 let rows = [];
+let storeSid = null;
 let sortKey = "protein_per_dollar";
 let sortAsc = false;
 const filters = {}; // key -> {min, max}
@@ -34,6 +36,10 @@ function applyFilters() {
   });
 }
 
+function itemLink(r) {
+  return `item.html?id=${encodeURIComponent(r.cid)}${storeSid ? `&zip=${r.storeZip || ""}` : ""}`;
+}
+
 function render() {
   const visible = applyFilters().sort((a, b) => {
     const av = a[sortKey], bv = b[sortKey];
@@ -43,14 +49,14 @@ function render() {
 
   document.getElementById("head-row").innerHTML = COLS.map((c) => `
     <th data-key="${c.key}" class="${c.key === sortKey ? "sorted" : ""}">
-      ${c.label}${c.key === sortKey ? (sortAsc ? " ▲" : " ▼") : ""}</th>`).join("");
+      ${c.key === "price_cents" ? (storeSid ? "Store $" : "Avg $") : c.label}${c.key === sortKey ? (sortAsc ? " ▲" : " ▼") : ""}</th>`).join("");
 
   document.getElementById("body").innerHTML = visible.map((r) => `
     <tr>${COLS.map((c) => {
       const v = r[c.key];
       const txt = c.text ? v : (c.fmt ? c.fmt(v) : v);
       const cell = c.key === "name"
-        ? `<a class="item-name" href="item.html?id=${encodeURIComponent(r.cid)}">${v}</a>`
+        ? `<a class="item-name" href="${itemLink(r)}">${v}</a>`
         : txt;
       return `<td${c.hot ? ' class="hot"' : ""}>${cell}</td>`;
     }).join("")}</tr>`).join("");
@@ -105,14 +111,81 @@ function buildControls() {
   });
 }
 
+function buildStorePicker() {
+  const go = async () => {
+    const zip = document.getElementById("picker-zip").value.trim();
+    if (!/^\d{5}$/.test(zip)) return;
+    const [storesData, zipTable] = await Promise.all([getStores(), getZipLatLon()]);
+    const coords = zipTable[zip];
+    const sel = document.getElementById("picker-select");
+    const wrap = document.getElementById("picker-stores");
+    if (!coords) {
+      wrap.style.display = "";
+      sel.innerHTML = `<option value="">ZIP not found</option>`;
+      return;
+    }
+    let nearby = findNearbyStores(storesData, coords[0], coords[1], 25);
+    if (!nearby.length) nearby = findNearbyStores(storesData, coords[0], coords[1], 50);
+    wrap.style.display = "";
+    sel.innerHTML = nearby.length
+      ? `<option value="">— pick a store (${nearby.length} found) —</option>` +
+        nearby.slice(0, 25).map(({ store, distMi }) =>
+          `<option value="${store.sid}">${store.city}, ${store.state} — ${store.addr} (${distMi.toFixed(1)}mi)</option>`
+        ).join("")
+      : `<option value="">No stores within 50mi</option>`;
+  };
+  document.getElementById("picker-go").addEventListener("click", go);
+  document.getElementById("picker-zip").addEventListener("keydown", (e) => {
+    if (e.key === "Enter") { e.preventDefault(); go(); }
+  });
+  document.getElementById("picker-select").addEventListener("change", (e) => {
+    if (e.target.value) location.href = `macrobell.html?sid=${encodeURIComponent(e.target.value)}`;
+  });
+}
+
 async function main() {
   renderHeader("macrobell.html");
+  storeSid = new URLSearchParams(location.search).get("sid");
   const itemsData = await getItems();
   renderFooter(itemsData.generated_at);
-  rows = itemsData.items.map((it) => ({
-    ...it,
-    cal_per_dollar: it.calories / (it.national_avg_cents / 100),
-  }));
+
+  if (storeSid) {
+    const storesData = await getStores();
+    const store = storesData.stores.find((s) => String(s.sid) === storeSid);
+    if (store) {
+      const idxOf = new Map(storesData.item_cids.map((cid, i) => [cid, i]));
+      rows = itemsData.items
+        .map((it) => ({ ...it, storePrice: store.prices[idxOf.get(it.cid)] }))
+        .filter((it) => it.storePrice > 0)
+        .map((it) => ({
+          ...it,
+          price_cents: it.storePrice,
+          storeZip: store.zip,
+          protein_per_dollar: it.protein / (it.storePrice / 100),
+          cal_per_dollar: it.calories / (it.storePrice / 100),
+        }));
+      document.getElementById("mb-title").textContent = "MacroBell Analyzer — Single Store";
+      document.getElementById("mb-sub").textContent = "this store's prices — click any column header to sort";
+      document.getElementById("store-banner").innerHTML = `
+        <div class="notice">📍 <a class="item-name" href="store.html?sid=${encodeURIComponent(storeSid)}">
+        ${store.city}, ${store.state} — ${store.addr}</a> (store #${storeSid})
+        &nbsp;•&nbsp; <a href="macrobell.html">switch to national averages</a></div>`;
+    } else {
+      document.getElementById("store-banner").innerHTML =
+        `<div class="notice">Store #${storeSid} not found — showing national averages.</div>`;
+      storeSid = null;
+    }
+  }
+
+  if (!storeSid) {
+    rows = itemsData.items.map((it) => ({
+      ...it,
+      price_cents: it.national_avg_cents,
+      cal_per_dollar: it.calories / (it.national_avg_cents / 100),
+    }));
+  }
+
+  buildStorePicker();
   buildControls();
   render();
 }

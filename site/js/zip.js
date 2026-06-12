@@ -1,5 +1,5 @@
 import { getItems, getStores, getZipLatLon, money } from "./lib/data.js";
-import { renderHeader, renderFooter } from "./lib/ui.js";
+import { renderHeader, renderFooter, storeCell } from "./lib/ui.js";
 import { findNearbyStores, avgPriceForArea, storeOverallAvgs } from "./lib/geo.js";
 
 const CATEGORY_ORDER = [
@@ -57,7 +57,7 @@ function renderHiLo(nearby) {
   const ranked = storeOverallAvgs(nearby);
   const fill = (id, rows) => {
     document.querySelector(`#${id} tbody`).innerHTML = rows.map((r) => `
-      <tr><td>${r.store.city}, ${r.store.state} <span class="muted">${r.distMi.toFixed(1)}mi</span></td>
+      <tr><td>${storeCell(r.store, ` <span class="muted">${r.distMi.toFixed(1)}mi</span>`)}</td>
       <td class="r">${money(r.avg)}</td></tr>`).join("");
   };
   fill("lo5", ranked.slice(0, 5));

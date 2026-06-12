@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>MacroBell — Store Menu</title>
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'><text y='14' font-size='14'>🔔</text></svg>">
+</head>
+<body>
+  <div id="header"></div>
+
+  <div class="layout">
+    <main class="board-col">
+      <div class="menu-board">
+        <h1 class="board-title" id="store-title">Store Menu</h1>
+        <p class="board-sub" id="store-addr"></p>
+        <div id="menu" class="loading">LOADING STORE MENU...</div>
+      </div>
+    </main>
+
+    <aside class="side-col">
+      <div class="panel">
+        <h2>🏪 This Store</h2>
+        <table id="store-facts"><tbody></tbody></table>
+      </div>
+
+      <div class="panel">
+        <h2>🧮 MacroBell Tool</h2>
+        <p style="font-size:12px;margin:0 0 10px">Macros-per-dollar using <b>this store's</b> prices.</p>
+        <a class="btn" id="mb-link" href="macrobell.html">Analyze This Store</a>
+      </div>
+
+      <div class="panel">
+        <h2>⬅ Back</h2>
+        <a class="btn" href="index.html">National Board</a>
+      </div>
+    </aside>
+  </div>
+
+  <div id="footer"></div>
+  <script type="module" src="js/store.js"></script>
+</body>
+</html>

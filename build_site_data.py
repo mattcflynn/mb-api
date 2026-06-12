@@ -59,6 +59,15 @@ def pretty_city(city: str) -> str:
     return (city or "").replace("-", " ").title()
 
 
+def street_part(full_address: str) -> str:
+    return (full_address or "").split(",")[0].strip()
+
+
+def zip_from_address(full_address: str) -> str:
+    m = re.search(r"(\d{5})(?:-\d{4})?\s*$", full_address or "")
+    return m.group(1) if m else ""
+
+
 def load_overrides(root: Path) -> dict[str, int]:
     path = root / OVERRIDES_CSV
     if not path.exists():
@@ -144,7 +153,8 @@ def pick_representative(db, item_rows: list[dict], overrides: dict[str, int]) ->
 
 def item_price_stats(db, cid: int) -> dict | None:
     rows = db.execute("""
-        SELECT l.price_cents, l.store_id, s.city, s.state, s.latitude, s.longitude
+        SELECT l.price_cents, l.store_id, s.city, s.state, s.latitude, s.longitude,
+               s.full_address
         FROM latest l JOIN stores s ON s.store_id = l.store_id
         WHERE l.cid = ? AND s.latitude IS NOT NULL
         ORDER BY l.price_cents
@@ -157,6 +167,7 @@ def item_price_stats(db, cid: int) -> dict | None:
 
     def store_dict(r):
         return {"store_id": r[1], "city": pretty_city(r[2]), "state": (r[3] or "").upper(),
+                "addr": street_part(r[6]),
                 "price_cents": r[0], "lat": round(r[4], 4), "lon": round(r[5], 4)}
 
     return {
@@ -210,7 +221,7 @@ def compute_overall_hilo(db, cids: list[int]) -> tuple[list, list, int]:
     ph = ",".join("?" * len(cids))
     rows = db.execute(f"""
         SELECT l.store_id, s.city, s.state, s.latitude, s.longitude,
-               AVG(l.price_cents) AS avg_cents, COUNT(*) AS n
+               AVG(l.price_cents) AS avg_cents, COUNT(*) AS n, s.full_address
         FROM latest l JOIN stores s ON s.store_id = l.store_id
         WHERE l.cid IN ({ph}) AND s.latitude IS NOT NULL
         GROUP BY l.store_id
@@ -220,6 +231,7 @@ def compute_overall_hilo(db, cids: list[int]) -> tuple[list, list, int]:
 
     def d(r):
         return {"store_id": r[0], "city": pretty_city(r[1]), "state": (r[2] or "").upper(),
+                "addr": street_part(r[7]),
                 "lat": round(r[3], 4), "lon": round(r[4], 4),
                 "avg_price_cents": round(r[5]), "item_count": r[6]}
 
@@ -230,8 +242,8 @@ def compute_stores_json(db, cids: list[int], generated_at: str) -> dict:
     ph = ",".join("?" * len(cids))
     idx = {cid: i for i, cid in enumerate(cids)}
     stores: dict[str, dict] = {}
-    for sid, city, state, zc, lat, lon, cid, cents in db.execute(f"""
-        SELECT s.store_id, s.city, s.state, s.zip_code, s.latitude, s.longitude,
+    for sid, city, state, addr, lat, lon, cid, cents in db.execute(f"""
+        SELECT s.store_id, s.city, s.state, s.full_address, s.latitude, s.longitude,
                l.cid, l.price_cents
         FROM latest l JOIN stores s ON s.store_id = l.store_id
         WHERE l.cid IN ({ph}) AND s.latitude IS NOT NULL
@@ -240,7 +252,8 @@ def compute_stores_json(db, cids: list[int], generated_at: str) -> dict:
         if st is None:
             st = stores[sid] = {
                 "sid": sid, "city": pretty_city(city), "state": (state or "").upper(),
-                "zip": (zc or "")[:5], "lat": round(lat, 4), "lon": round(lon, 4),
+                "addr": street_part(addr), "zip": zip_from_address(addr),
+                "lat": round(lat, 4), "lon": round(lon, 4),
                 "prices": [0] * len(cids),
             }
         st["prices"][idx[cid]] = cents

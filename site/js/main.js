@@ -1,5 +1,5 @@
 import { getItems, getNational, money } from "./lib/data.js";
-import { renderHeader, renderFooter } from "./lib/ui.js";
+import { renderHeader, renderFooter, storeCell } from "./lib/ui.js";
 
 const CATEGORY_ORDER = [
   "Tacos", "Burritos", "Cantina Chicken Menu",
@@ -38,7 +38,7 @@ function renderMenu(items) {
 function renderHiLo(national) {
   const fill = (id, rows) => {
     document.querySelector(`#${id} tbody`).innerHTML = rows.map((s) => `
-      <tr><td>${s.city}, ${s.state}</td><td class="r">${money(s.avg_price_cents)}</td></tr>`).join("");
+      <tr><td>${storeCell(s)}</td><td class="r">${money(s.avg_price_cents)}</td></tr>`).join("");
   };
   fill("lo5", national.lo5_overall);
   fill("hi5", national.hi5_overall);

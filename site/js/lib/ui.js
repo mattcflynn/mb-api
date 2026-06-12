@@ -51,3 +51,10 @@ export function el(tag, attrs = {}, html = "") {
   if (html) node.innerHTML = html;
   return node;
 }
+
+// Linked store cell: "City, ST" + address underneath. Accepts store_id or sid.
+export function storeCell(s, extra = "") {
+  const sid = s.store_id ?? s.sid;
+  return `<a class="item-name" href="store.html?sid=${encodeURIComponent(sid)}">${s.city}, ${s.state}</a>${extra}
+    <br><span class="muted">${s.addr || ""}</span>`;
+}
