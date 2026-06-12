@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>MacroBell — Macro-Per-Dollar Analyzer</title>
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'><text y='14' font-size='14'>🔔</text></svg>">
+</head>
+<body>
+  <div id="header"></div>
+
+  <div class="layout">
+    <main class="board-col" style="flex:1 1 100%">
+      <div class="menu-board">
+        <h1 class="board-title">MacroBell Analyzer</h1>
+        <p class="board-sub">find your best bang-per-bell-bite — click any column header to sort</p>
+
+        <div class="mb-controls" id="controls"></div>
+
+        <div style="overflow-x:auto">
+          <table class="mb-table" id="mb-table">
+            <thead><tr id="head-row"></tr></thead>
+            <tbody id="body"></tbody>
+          </table>
+        </div>
+        <p class="muted" id="row-count" style="margin-top:8px"></p>
+      </div>
+    </main>
+  </div>
+
+  <div id="footer"></div>
+  <script type="module" src="js/macrobell.js"></script>
+</body>
+</html>

@@ -20,3 +20,10 @@ macrobell.db
 macrobell.db-shm
 macrobell.db-wal
 store_products.csv
+
+# macOS
+.DS_Store
+
+# deploy logs + census cache
+logs/
+zcta_cache.csv

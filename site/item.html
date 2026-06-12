@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>MacroBell — Item Analysis</title>
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'><text y='14' font-size='14'>🔔</text></svg>">
+</head>
+<body>
+  <div id="header"></div>
+
+  <div class="layout">
+    <main class="board-col">
+      <div class="menu-board">
+        <h1 class="board-title" id="item-name">Loading…</h1>
+        <p class="board-sub" id="item-cat"></p>
+
+        <div class="stat-grid" id="stats"></div>
+
+        <div class="menu-category"><h2>Price History (National Avg)</h2></div>
+        <div class="chart-wrap" id="chart"></div>
+
+        <div class="menu-category"><h2>Price Deviation</h2></div>
+        <div id="deviation"></div>
+      </div>
+    </main>
+
+    <aside class="side-col">
+      <div class="panel">
+        <h2>📊 Nutrition Facts</h2>
+        <table class="nutri-table" id="nutrition"></table>
+      </div>
+
+      <div class="panel">
+        <h2>💸 Cheapest 5 (USA)</h2>
+        <table id="lo5"><tbody></tbody></table>
+      </div>
+
+      <div class="panel">
+        <h2>💰 Priciest 5 (USA)</h2>
+        <table id="hi5"><tbody></tbody></table>
+      </div>
+
+      <div class="panel" id="local-panel" style="display:none">
+        <h2>📍 Near <span id="local-zip"></span></h2>
+        <table id="local-lo5"><tbody></tbody></table>
+      </div>
+
+      <div class="panel">
+        <h2>⬅ Back</h2>
+        <a class="btn" href="index.html">Menu Board</a>
+      </div>
+    </aside>
+  </div>
+
+  <div id="footer"></div>
+  <script type="module" src="js/item.js"></script>
+</body>
+</html>
