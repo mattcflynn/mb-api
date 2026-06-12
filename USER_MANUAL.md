@@ -722,3 +722,50 @@ uv run python scrape_nutrition.py
 uv run python db_setup.py --db macrobell.db --nutrition nutrition-extract.csv
 uv run python relink.py --db macrobell.db
 ```
+
+## Phase 9: Static Website (MacroBell.site)
+
+The `site/` directory is a static website deployed to GitHub Pages at
+**https://mattcflynn.github.io/mb-api/** via `.github/workflows/pages.yml`
+(runs automatically on any push touching `site/**`).
+
+### Rebuild site data
+
+```bash
+uv run python build_site_data.py          # macrobell.db -> site/data/*.json
+```
+
+Outputs: `items.json` (42 items: 6 categories, protein>0, conf>=0.80),
+`national.json` (overall hi/lo 5 stores), `history/{slug}.json` (monthly
+forward-filled averages), `stores.json` (latest price per store per item),
+`zip_latlon.json` (Census ZCTA centroids; source cached in `zcta_cache.csv`).
+
+Representative product per nutrition item is picked automatically (name
+overlap + price coverage); override via `site_item_overrides.csv`
+(`item_id,canonical_product_id`).
+
+### Weekly automated deploy
+
+`deploy.sh` runs: price scrape → nutrition scrape → relink → rebuild site
+data → commit & push (which triggers the Pages workflow). Monthly (first run
+of the month) it also runs `wal_checkpoint` + `VACUUM`.
+
+Scheduled via `~/Library/LaunchAgents/com.macrobell.weekly-deploy.plist`
+(Mondays 3:00 AM):
+
+```bash
+launchctl load ~/Library/LaunchAgents/com.macrobell.weekly-deploy.plist
+launchctl start com.macrobell.weekly-deploy    # manual trigger
+tail -f logs/deploy_$(date +%Y%m%d).log
+```
+
+### Monthly store refresh (manual)
+
+Run the Phase 1–2 pipeline (sitemap → chunk → ids → geocode → combine →
+db_setup) roughly monthly; store churn is low.
+
+### Local preview
+
+```bash
+uv run python -m http.server 8742 -d site
+```
