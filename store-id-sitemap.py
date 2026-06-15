@@ -78,7 +78,7 @@ def main():
                     address_locator.wait_for(state="visible", timeout=10000)
                     full_address = address_locator.inner_text()
                     
-                    zip_code_match = re.search(r'(\d{5})', full_address)
+                    zip_code_match = re.search(r'(\d{5})(?:-\d{4})?\s*$', full_address)
                     zip_code = zip_code_match.group(1) if zip_code_match else "N/A"
                     print(f" - Found Zip Code: {zip_code}")
                     
