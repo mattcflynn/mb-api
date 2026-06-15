@@ -362,7 +362,7 @@ nav.site-nav a { margin: 0 10px; }
   margin-bottom: 3px;
 }
 
-.mb-controls input[type="number"], .mb-controls select {
+.mb-controls input[type="number"], .mb-controls input[type="text"], .mb-controls select {
   background: var(--tb-black);
   border: 1px solid var(--tb-teal);
   color: var(--tb-yellow);
