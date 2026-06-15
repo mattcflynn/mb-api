@@ -71,12 +71,18 @@ def fmt_money(cents: float) -> str:
 
 
 def parse_log(log_path: Path) -> tuple[str, list[str]]:
-    """Return (scraper_summary_line, list_of_error_lines) from the deploy log."""
+    """Return (scraper_summary_line, list_of_error_lines) from the LAST run in the log."""
     summary = ""
     errors = []
     if not log_path.exists():
         return summary, errors
-    for line in log_path.read_text().splitlines():
+    lines = log_path.read_text().splitlines()
+    # Find the last "deploy start" marker and only look at lines after it
+    start_idx = 0
+    for i, line in enumerate(lines):
+        if "MacroBell deploy start" in line:
+            start_idx = i
+    for line in lines[start_idx:]:
         if line.startswith("[done]"):
             summary = line
         elif "[error]" in line.lower() or "[failed]" in line.lower():

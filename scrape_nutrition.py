@@ -177,13 +177,40 @@ def write_csv(rows: list[dict], path: str):
     print(f"Wrote {len(rows)} rows to {path}")
 
 
-def load_db(db_path: str, nutrition_csv: str):
-    import subprocess
-    cmd = ["uv", "run", "python", "db_setup.py", "--db", db_path, "--nutrition", nutrition_csv]
-    print(f"Running: {' '.join(cmd)}")
-    result = subprocess.run(cmd)
-    if result.returncode != 0:
-        sys.exit(f"db_setup.py failed with exit code {result.returncode}")
+def load_db(db_path: str, rows: list[dict]):
+    """Upsert scraped rows directly into nutrition_items. Bypasses db_setup.py
+    to avoid touching product_nutrition_map with stale data from other CSVs."""
+    from macrobell.db import connect
+    conn = connect(db_path)
+    try:
+        conn.executemany("""
+            INSERT INTO nutrition_items (
+              item_id, name, category_nutrition, is_breakfast, is_drink,
+              calories, total_fat, saturated_fat, trans_fat, cholesterol,
+              sodium, total_carb, fibers, sugars, protein
+            ) VALUES (:item_id,:name,:category_nutrition,:is_breakfast,:is_drink,
+                      :calories,:total_fat,:saturated_fat,:trans_fat,:cholesterol,
+                      :sodium,:total_carb,:fibers,:sugars,:protein)
+            ON CONFLICT(item_id) DO UPDATE SET
+              name               = excluded.name,
+              category_nutrition = excluded.category_nutrition,
+              is_breakfast       = excluded.is_breakfast,
+              is_drink           = excluded.is_drink,
+              calories           = excluded.calories,
+              total_fat          = excluded.total_fat,
+              saturated_fat      = excluded.saturated_fat,
+              trans_fat          = excluded.trans_fat,
+              cholesterol        = excluded.cholesterol,
+              sodium             = excluded.sodium,
+              total_carb         = excluded.total_carb,
+              fibers             = excluded.fibers,
+              sugars             = excluded.sugars,
+              protein            = excluded.protein
+        """, rows)
+        conn.commit()
+        print(f"[done] upserted {len(rows)} rows into nutrition_items")
+    finally:
+        conn.close()
 
 
 def main():
@@ -202,7 +229,7 @@ def main():
     write_csv(rows, args.out)
 
     if args.load_db:
-        load_db(args.db, args.out)
+        load_db(args.db, rows)
 
 
 if __name__ == "__main__":
