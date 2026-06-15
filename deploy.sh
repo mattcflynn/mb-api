@@ -10,7 +10,7 @@ LOGFILE="$LOGDIR/deploy_$(date +%Y%m%d).log"
 exec >> "$LOGFILE" 2>&1
 
 cd "$ROOT"
-UV="$(command -v uv || echo "$HOME/.local/bin/uv")"
+UV="/opt/homebrew/bin/uv"
 
 echo "=== MacroBell deploy start: $(date) ==="
 
