@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>MacroBell — Store Price Rankings</title>
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'><text y='14' font-size='14'>🔔</text></svg>">
+</head>
+<body>
+  <div id="header"></div>
+
+  <div class="layout">
+    <main class="board-col" style="flex:1 1 100%">
+      <div class="menu-board">
+        <h1 class="board-title" id="rank-title">Store Price Rankings</h1>
+        <p class="board-sub" id="rank-sub">loading...</p>
+
+        <div class="mb-controls" id="location-bar">
+          <div class="ctl">
+            <label>Location</label>
+            <select id="loc-mode">
+              <option value="usa">All USA</option>
+              <option value="zip">ZIP Code</option>
+              <option value="city">City</option>
+            </select>
+          </div>
+          <div class="ctl" id="zip-ctl" style="display:none">
+            <label>ZIP Code</label>
+            <div style="display:flex;gap:6px;align-items:flex-end">
+              <input type="text" id="loc-zip" inputmode="numeric" maxlength="5" placeholder="97214">
+              <button id="loc-zip-go" type="button">Go</button>
+            </div>
+          </div>
+          <div class="ctl" id="city-ctl" style="display:none">
+            <label>City</label>
+            <div style="display:flex;gap:6px;align-items:flex-end">
+              <input type="text" id="loc-city" placeholder="Portland, OR" list="city-datalist" style="width:160px">
+              <datalist id="city-datalist"></datalist>
+              <button id="loc-city-go" type="button">Go</button>
+            </div>
+          </div>
+          <div class="ctl">
+            <label>Sort</label>
+            <select id="sort-mode">
+              <option value="cheap">Cheapest first</option>
+              <option value="pricey">Priciest first</option>
+            </select>
+          </div>
+        </div>
+
+        <div style="overflow-x:auto">
+          <table class="mb-table" id="rank-table">
+            <thead>
+              <tr>
+                <th style="width:36px;text-align:right">#</th>
+                <th>Store</th>
+                <th style="text-align:right">Avg Price</th>
+                <th style="text-align:right">Items</th>
+              </tr>
+            </thead>
+            <tbody id="rank-body"></tbody>
+          </table>
+        </div>
+
+        <p class="muted" id="rank-status" style="margin-top:8px"></p>
+        <div style="text-align:center;margin-top:14px">
+          <button id="load-more" type="button" style="display:none">Load 25 More</button>
+        </div>
+      </div>
+    </main>
+  </div>
+
+  <div id="footer"></div>
+  <script type="module" src="js/rankings.js"></script>
+</body>
+</html>

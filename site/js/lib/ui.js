@@ -17,6 +17,7 @@ export function renderHeader(active) {
   if (!el) return;
   const nav = [
     ["index.html", "Menu Board"],
+    ["rankings.html", "Store Rankings"],
     ["macrobell.html", "MacroBell Tool"],
   ].map(([href, label]) =>
     `<a href="${href}"${active === href ? ' style="color:var(--tb-pink)"' : ""}>${label}</a>`
