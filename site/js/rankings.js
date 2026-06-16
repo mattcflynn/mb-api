@@ -3,7 +3,7 @@ import { renderHeader, renderFooter, storeCell } from "./lib/ui.js";
 import { findNearbyStores } from "./lib/geo.js";
 
 const PAGE_SIZE = 25;
-const MIN_ITEMS = 10;
+const MIN_ITEMS = 30;
 
 let allRanked = [];  // computed once from full stores list
 let filtered = [];  // current view after location + sort
@@ -53,11 +53,16 @@ function resetTable(newFiltered, subtitle) {
   renderRows();
 }
 
-// --- Build city autocomplete from store data ---
-function buildCityList(stores) {
+// --- Build city autocomplete + state dropdown from store data ---
+function buildLocationLists(stores) {
   const cities = [...new Set(stores.map(s => `${s.city}, ${s.state}`))].sort();
   document.getElementById("city-datalist").innerHTML =
     cities.map(c => `<option value="${c}">`).join("");
+
+  const states = [...new Set(stores.map(s => s.state))].filter(Boolean).sort();
+  const sel = document.getElementById("loc-state");
+  sel.innerHTML = `<option value="">— pick a state —</option>` +
+    states.map(s => `<option value="${s}">${s}</option>`).join("");
 }
 
 // --- Location modes ---
@@ -87,6 +92,14 @@ async function applyZip() {
   resetTable(sorted(local), `${local.length} stores within ${radius}mi of ${zip} — ${label} first`);
 }
 
+async function applyState() {
+  const state = document.getElementById("loc-state").value;
+  if (!state) return;
+  const local = allRanked.filter(r => r.store.state === state);
+  const label = document.getElementById("sort-mode").value === "cheap" ? "cheapest" : "priciest";
+  resetTable(sorted(local), `${local.length} stores in ${state} — ${label} first`);
+}
+
 async function applyCity() {
   const raw = document.getElementById("loc-city").value.trim();
   if (!raw) return;
@@ -107,6 +120,7 @@ async function applyLocation() {
   const mode = document.getElementById("loc-mode").value;
   if (mode === "zip") await applyZip();
   else if (mode === "city") await applyCity();
+  else if (mode === "state") await applyState();
   else await applyUSA();
 }
 
@@ -124,14 +138,16 @@ async function main() {
   renderFooter(itemsData.generated_at);
 
   allRanked = computeRanked(storesData.stores);
-  buildCityList(storesData.stores);
+  buildLocationLists(storesData.stores);
 
   // Wire controls
   document.getElementById("loc-mode").addEventListener("change", e => {
+    document.getElementById("state-ctl").style.display = e.target.value === "state" ? "" : "none";
     document.getElementById("zip-ctl").style.display = e.target.value === "zip" ? "" : "none";
     document.getElementById("city-ctl").style.display = e.target.value === "city" ? "" : "none";
     if (e.target.value === "usa") applyUSA();
   });
+  document.getElementById("loc-state").addEventListener("change", applyState);
   document.getElementById("sort-mode").addEventListener("change", applyLocation);
   document.getElementById("loc-zip-go").addEventListener("click", applyZip);
   document.getElementById("loc-zip").addEventListener("keydown", e => { if (e.key === "Enter") applyZip(); });
