@@ -255,7 +255,7 @@ def build_report(db: sqlite3.Connection, log_path: Path, failed_steps: list[str]
     lines.append(f"*Generated {now}*\n")
 
     # --- Pipeline status ---
-    all_steps = ["prices", "nutrition", "relink", "build", "stores", "push"]
+    all_steps = ["sitemap", "onboard", "geocode", "prices", "nutrition", "relink", "build", "push"]
     lines.append("## Pipeline")
     for step in all_steps:
         icon = "✗" if step in failed_steps else "✓"
@@ -360,7 +360,7 @@ def build_report(db: sqlite3.Connection, log_path: Path, failed_steps: list[str]
         lines.append(f"## Menu Items\n- *Baseline recorded ({item_total} items); changes show from next run.*\n")
 
     # --- Store openings & closures ---
-    if "stores" in failed_steps:
+    if "sitemap" in failed_steps:
         lines.append("## Store Openings & Closures\n- *Sitemap step failed this run — skipped to avoid false diffs.*\n")
         return "\n".join(lines)
     opened, closed, store_prev, store_total, had_sitemap = store_changes(
