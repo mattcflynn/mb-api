@@ -28,50 +28,47 @@ A data pipeline that scrapes, normalizes, and links Taco Bell menu items, store 
 
 ### Dependencies
 
-```bash
-pip install -r requirements.txt
-```
-
-Required packages: `geopy`, `playwright`, `requests`, `pandas`, `python-dotenv`, `googlemaps`
-
-If using Playwright (for store ID scraping):
+The project uses **uv** (see `pyproject.toml`, Python 3.13):
 
 ```bash
-playwright install chromium
+uv sync                          # install dependencies
+uv run playwright install chromium   # browser for onboard_stores.py
 ```
+
+Run any script with `uv run python <script>.py` — no manual venv activation.
 
 ### Environment Variables
 
-Create a `.env` file in the project root:
-
-```
-GOOGLE_MAPS_API_KEY=your_key_here
-```
-
-The Google Maps API key is optional. It is used as a fallback geocoder when Nominatim fails.
+None required. `GOOGLE_MAPS_API_KEY` (in an optional `.env`) is only read by the **legacy**
+`store_geocoder.py`; the current geocoder is offline and needs no key.
 
 ---
 
 ## Pipeline Overview
 
-The pipeline runs in order. Each phase produces files consumed by later phases.
+**Day-to-day, you run nothing.** `deploy.sh` runs the whole loop automatically every
+Monday 3 AM (see [Phase 9](#phase-9-static-website-macrobellsite)):
 
 ```
-sitemap_scraper.py          ─→  Store URLs
-chunk_stores.py             ─→  Chunked store files
-store-id-sitemap.py         ─→  Store IDs + addresses
-store_geocoder.py           ─→  Geocoded coordinates
-combine_chunks.py           ─→  Master store list
-scrape_nutrition.py         ─→  Nutrition data (from Nutritionix)
-code_mapper_all.py          ─→  Menu catalog + store-product inventory
-product_linker.py           ─→  Menu ↔ nutrition linkage (initial)
-db_setup.py                 ─→  SQLite database
-relink.py                   ─→  Improved nutrition linking (cleanup pass)
-api_scraper_db.py           ─→  Prices in database
-promote_staging.py          ─→  Finalized prices
-nearby.py                   ─→  Query: cheapest macro/$ near a location
-analyze_col.py              ─→  Analysis: pricing vs. cost-of-living metrics
+sitemap_scraper.py   ─→  live store-URL list
+onboard_stores.py    ─→  Playwright NEW stores only → stores table (id + rooftop coords)
+geocode_stores.py    ─→  offline ZIP-centroid coords (fallback for any store missing geo)
+api_scraper_db.py    ─→  prices for every store (incl. just-onboarded)
+scrape_nutrition.py  ─→  nutrition data (from Nutritionix)
+relink.py            ─→  product ↔ nutrition linking
+build_site_data.py   ─→  site/data/*.json
+git push             ─→  triggers GitHub Pages deploy
+report.py            ─→  logs/report_YYYYMMDD.md (trends, new/retired items, store open/close)
 ```
+
+`onboard_stores.py` replaced the old manual chunk-based store-enrichment path
+(`chunk_stores.py` → `store-id-sitemap.py` → `store_geocoder.py` → `combine_chunks.py`),
+which is now **legacy** — kept for reference but no longer part of the flow. Google Maps
+geocoding is gone; coordinates come from each store page's JSON-LD, with offline Census
+ZCTA centroids as the only fallback.
+
+The remaining scripts below are documented per phase. Most are now invoked by `deploy.sh`;
+a few (`nearby.py`, `analyze_col.py`, `promote_staging.py`) are manual tools.
 
 ---
 
@@ -107,7 +104,57 @@ No arguments. Target chunk size is 500 stores.
 
 ## Phase 2: Store Enrichment
 
-### store-id-sitemap.py
+### onboard_stores.py  *(current)*
+
+Discovers stores in the sitemap that aren't in the DB yet and Playwrights **only those**.
+The `store_id` comes from the order-link href (`?store=XXXX`); the full address and
+**rooftop coordinates** come from the store page's JSON-LD (`@graph` →
+`FastFoodRestaurant` → `address` + `geo`) — no click-through. Existing stores are matched
+to their sitemap URL by normalized address and seeded into the `store_urls` table as known
+*without* a browser, so the first run only visits the genuinely-new URLs (a few hundred),
+not the whole ~8k list.
+
+```bash
+uv run python onboard_stores.py                # headless (deploy default)
+uv run python onboard_stores.py --no-headless  # watch the browser
+uv run python onboard_stores.py --limit 50     # cap visits this run (testing)
+```
+
+| Flag | Default | Description |
+|------|---------|-------------|
+| `--db` | `macrobell.db` | Database path |
+| `--no-headless` | Off | Show the browser window |
+| `--limit` | `0` (all) | Max stores to visit this run |
+| `--max-new` | `600` | Abort if more candidates than this (sitemap/match anomaly guard) |
+
+**Known URLs** live in the `store_urls` table (`url`, `store_id`, `onboarded_at`). Upserts
+into `stores` are keyed on `store_id` (`ON CONFLICT DO UPDATE`), so re-onboarding an
+existing store is a harmless no-op. If Taco Bell changes their store-page markup and
+onboarding starts failing, the JSON-LD extraction in `visit_store()` is what to re-check.
+
+### geocode_stores.py  *(current)*
+
+Fills any store missing coordinates using offline ZIP-centroid lookup (no API key, no rate
+limit), via the cached Census ZCTA gazetteer (`zcta_cache.csv`). Records precision in
+`stores.coord_source`: `rooftop` for address-level coords, `zip_centroid` for the offline
+fallback. Back-fills existing coords as `rooftop` on first run.
+
+```bash
+uv run python geocode_stores.py        # geocode stores missing coords
+uv run python geocode_stores.py --all  # also refresh existing zip_centroid rows
+```
+
+Because `onboard_stores.py` already captures rooftop coords from JSON-LD, this is a
+**fallback only** — it runs in the weekly pipeline to catch the rare store whose page
+lacks a `geo` block.
+
+---
+
+### store-id-sitemap.py  *(legacy)*
+
+> **Superseded by `onboard_stores.py`.** Part of the old manual chunk pipeline; kept for
+> reference. Note it runs `headless=False` and uses a click-through flow that may no
+> longer match the live site.
 
 Uses a headless browser to visit each store page and extract the store ID, full address, and zip code.
 
@@ -131,7 +178,10 @@ done
 wait
 ```
 
-### store_geocoder.py
+### store_geocoder.py  *(legacy)*
+
+> **Superseded by `geocode_stores.py`.** Required a paid Google Maps key (trial expired)
+> and operated on chunk CSVs. The current geocoder is offline and key-free.
 
 Adds latitude/longitude coordinates to each store using Nominatim, with Google Maps as fallback.
 
@@ -530,6 +580,7 @@ Common utilities extracted from the pipeline scripts into a reusable package. Al
 | `macrobell.http` | `make_session()`, `warm_cookies()`, `BROWSER_HEADERS` |
 | `macrobell.store_ids` | `sanitize_store_id()`, `store_id_candidates()`, `parse_store_id_from_url()`, `extract_store_id_from_html()`, `build_id_candidates()` |
 | `macrobell.db` | `connect()` — SQLite connection with WAL mode and foreign key pragmas |
+| `macrobell.geocode` | Offline ZIP-centroid geocoder: `zip_from_address()`, `load_zcta()`, `Geocoder` (Census ZCTA gazetteer; no API key) |
 
 ### Quick test
 
@@ -569,7 +620,11 @@ The database (`macrobell.db`) contains these tables:
 | `zip_code` | TEXT | ZIP code |
 | `latitude` | REAL | Latitude |
 | `longitude` | REAL | Longitude |
+| `coord_source` | TEXT | Coordinate precision: `rooftop` or `zip_centroid` |
 | `last_scraped_date` | TEXT | Date of last price scrape |
+
+Helper tables created on the fly (not in `db_setup.py`): `store_urls` (onboarding —
+url → store_id), `item_snapshots` / `store_snapshots` (report week-over-week diffs).
 
 ### nutrition_items
 
@@ -746,9 +801,24 @@ overlap + price coverage); override via `site_item_overrides.csv`
 
 ### Weekly automated deploy
 
-`deploy.sh` runs: price scrape → nutrition scrape → relink → rebuild site
-data → commit & push (which triggers the Pages workflow). Monthly (first run
-of the month) it also runs `wal_checkpoint` + `VACUUM`.
+`deploy.sh` runs, in order:
+
+```
+sitemap → onboard → geocode → prices → nutrition → relink → build → push → report
+```
+
+i.e. discover live stores, onboard new ones (with rooftop coords), fill any missing
+coords offline, scrape prices for everyone, refresh nutrition + links, rebuild site data,
+commit & push (which triggers the Pages workflow), then write a report. Monthly (first run
+of the month) it also runs `wal_checkpoint` + `VACUUM`. Store discovery is now part of this
+weekly loop — **no separate monthly store refresh is needed.**
+
+Each step is wrapped so a failure is logged and skipped without aborting the run; failed
+step names are listed in the report. `onboard` is guarded by `--max-new 600` so a sitemap
+anomaly can't trigger thousands of browser visits.
+
+**Git auth:** the remote is SSH (`git@github.com:...`), switched from HTTPS so the 3 AM
+push never hangs on the macOS keychain credential prompt.
 
 Scheduled via `~/Library/LaunchAgents/com.macrobell.weekly-deploy.plist`
 (Mondays 3:00 AM):
@@ -757,12 +827,16 @@ Scheduled via `~/Library/LaunchAgents/com.macrobell.weekly-deploy.plist`
 launchctl load ~/Library/LaunchAgents/com.macrobell.weekly-deploy.plist
 launchctl start com.macrobell.weekly-deploy    # manual trigger
 tail -f logs/deploy_$(date +%Y%m%d).log
+cat logs/latest_report.md                       # morning summary
 ```
 
-### Monthly store refresh (manual)
+### report.py
 
-Run the Phase 1–2 pipeline (sitemap → chunk → ids → geocode → combine →
-db_setup) roughly monthly; store churn is low.
+Writes `logs/report_YYYYMMDD.md` (and `latest_report.md`) after each deploy: pipeline
+status, scrape summary, price changes, **price trends by state**, **new/retired menu
+items**, and **store openings/closures by state**. The item and store sections diff against
+snapshot tables, so they read "baseline recorded" on the first run and populate from the
+next one.
 
 ### Local preview
 
