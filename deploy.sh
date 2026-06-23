@@ -31,6 +31,7 @@ run_step prices    "$UV" run python api_scraper_db.py
 run_step nutrition "$UV" run python scrape_nutrition.py --load-db
 run_step relink    "$UV" run python relink.py
 run_step build     "$UV" run python build_site_data.py
+run_step stores    "$UV" run python sitemap_scraper.py   # refresh store-URL list for open/close diff
 
 # Monthly DB maintenance on the 1st-7th (first weekly run of the month)
 if [ "$(date +%d)" -le 07 ]; then
