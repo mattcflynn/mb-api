@@ -56,6 +56,22 @@ def _now() -> str:
     return datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
 
 
+def is_franchise(store_id: str) -> bool:
+    """Letter-prefix IDs are franchise locations that 404 on the menu API
+    (api_scraper_db.py skips them), so they can never be priced."""
+    return bool(re.search(r"[A-Za-z]", store_id or ""))
+
+
+def mark_known(db, url: str, store_id: str) -> None:
+    """Record a url as onboarded without adding it to `stores` (used for
+    franchise stores) so it is never re-visited."""
+    db.execute("""
+        INSERT INTO store_urls (url, store_id, onboarded_at) VALUES (?,?,?)
+        ON CONFLICT(url) DO UPDATE SET store_id=excluded.store_id, onboarded_at=excluded.onboarded_at
+    """, (url, store_id, _now()))
+    db.commit()
+
+
 def ensure_store_urls(db) -> None:
     db.execute("""
         CREATE TABLE IF NOT EXISTS store_urls (
@@ -210,7 +226,7 @@ def main():
         print("[onboard] no new stores")
         return
 
-    added = failed = 0
+    added = skipped = failed = 0
     with sync_playwright() as p:
         browser = p.chromium.launch(headless=args.headless)
         ctx = browser.new_context(user_agent=(
@@ -222,20 +238,25 @@ def main():
             print(f"[onboard] {i}/{len(todo)} {url}")
             try:
                 rec = visit_store(page, url)
-                if rec:
+                if not rec:
+                    print("          -> no store_id found")
+                    failed += 1
+                elif is_franchise(rec["store_id"]):
+                    # Franchise location — can't be priced; mark known so we never re-visit.
+                    mark_known(db, url, rec["store_id"])
+                    print(f"          -> store_id={rec['store_id']}  [franchise, skipped]")
+                    skipped += 1
+                else:
                     upsert_store(db, rec, r["state"], r["city"], url)
                     tag = "rooftop" if rec["lat"] is not None else "no-geo"
                     print(f"          -> store_id={rec['store_id']}  {rec['full_address']}  [{tag}]")
                     added += 1
-                else:
-                    print("          -> no store_id found")
-                    failed += 1
             except Exception as e:
                 print(f"          -> FAILED: {e}")
                 failed += 1
         browser.close()
 
-    print(f"[onboard] done: added={added} failed={failed}")
+    print(f"[onboard] done: added={added} skipped_franchise={skipped} failed={failed}")
     db.close()
 
 
