@@ -6,6 +6,12 @@ const CATEGORY_ORDER = [
   "Quesadillas", "Nachos", "Specialties",
 ];
 
+function fmtDate(d) {
+  // d is "YYYY-MM-DD"; parse at midday so localizing never rolls back a day.
+  const t = new Date(`${d}T12:00:00`);
+  return isNaN(t) ? d : t.toLocaleDateString(undefined, { year: "numeric", month: "short", day: "numeric" });
+}
+
 function fail(msg) {
   const menu = document.getElementById("menu");
   menu.classList.remove("loading");
@@ -80,7 +86,8 @@ async function main() {
     <tr><td>Address</td><td class="r" style="font-family:Verdana;font-size:11px">${escapeHtml(store.addr)}</td></tr>
     <tr><td>City</td><td class="r" style="font-family:Verdana;font-size:11px">${escapeHtml(store.city)}, ${escapeHtml(store.state)} ${escapeHtml(store.zip)}</td></tr>
     <tr><td>Items priced</td><td class="r">${count}</td></tr>
-    <tr><td>Avg item price</td><td class="r">${avg ? money(avg) : "—"}</td></tr>`;
+    <tr><td>Avg item price</td><td class="r">${avg ? money(avg) : "—"}</td></tr>
+    <tr><td>Prices updated</td><td class="r">${store.updated ? escapeHtml(fmtDate(store.updated)) : "—"}</td></tr>`;
 }
 
 main().catch((err) => fail(`ERROR: ${err.message}`));

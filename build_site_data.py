@@ -242,9 +242,9 @@ def compute_stores_json(db, cids: list[int], generated_at: str) -> dict:
     ph = ",".join("?" * len(cids))
     idx = {cid: i for i, cid in enumerate(cids)}
     stores: dict[str, dict] = {}
-    for sid, city, state, addr, lat, lon, cid, cents in db.execute(f"""
+    for sid, city, state, addr, lat, lon, cid, cents, updated in db.execute(f"""
         SELECT s.store_id, s.city, s.state, s.full_address, s.latitude, s.longitude,
-               l.cid, l.price_cents
+               l.cid, l.price_cents, s.last_scraped_date
         FROM latest l JOIN stores s ON s.store_id = l.store_id
         WHERE l.cid IN ({ph}) AND s.latitude IS NOT NULL
     """, cids):
@@ -254,6 +254,7 @@ def compute_stores_json(db, cids: list[int], generated_at: str) -> dict:
                 "sid": sid, "city": pretty_city(city), "state": (state or "").upper(),
                 "addr": street_part(addr), "zip": zip_from_address(addr),
                 "lat": round(lat, 4), "lon": round(lon, 4),
+                "updated": (updated or "")[:10] or None,  # YYYY-MM-DD of last price scrape
                 "prices": [0] * len(cids),
             }
         st["prices"][idx[cid]] = cents

@@ -15,7 +15,7 @@ Usage examples:
 """
 
 from __future__ import annotations
-import argparse, contextlib, json, random, re, signal, sqlite3, sys, time
+import argparse, contextlib, json, math, random, re, signal, sqlite3, sys, time
 
 # Stores whose IDs start with a letter (e.g. J466006, G135455, L518007) are
 # franchise-operated locations that consistently 404 on the menu API.
@@ -104,6 +104,20 @@ def filter_stores_by_regions(rows: List[tuple], include: Set[str], exclude: Set[
     if skipped_franchise:
         print(f"[info] skipped {skipped_franchise} franchise stores (letter-prefix IDs)", flush=True)
     return out
+
+def load_last_scraped(conn: sqlite3.Connection) -> Dict[str, str]:
+    """store_id -> last_scraped_date ('' if never), for oldest-first rotation."""
+    return {sid: (d or "") for sid, d in
+            conn.execute("SELECT store_id, last_scraped_date FROM stores")}
+
+def select_oldest(store_ids: List[str], date_map: Dict[str, str], frac: float) -> List[str]:
+    """Return the oldest `frac` of stores by last_scraped_date (never-scraped first).
+    Oldest-first guarantees every store is covered within ceil(1/frac) runs while
+    cutting each run's request volume — and new stores get priced immediately."""
+    n = max(1, math.ceil(len(store_ids) * frac))
+    if n >= len(store_ids):
+        return store_ids
+    return sorted(store_ids, key=lambda s: date_map.get(s, ""))[:n]
 
 def load_code_to_canonical(conn: sqlite3.Connection) -> Dict[str, str]:
     # product_code -> canonical_product_id
@@ -391,6 +405,9 @@ def main():
     ap.add_argument("--list-regions", action="store_true", help="List regions and store counts, then exit")
     ap.add_argument("--sleep-min", type=float, default=0.10)
     ap.add_argument("--sleep-max", type=float, default=0.25)
+    ap.add_argument("--rotate-frac", type=float, default=None,
+                    help="Scrape only the oldest fraction of stores this run "
+                         "(e.g. 0.34 = ~1/3, full coverage every 3 runs). Ignored with --store.")
     ap.add_argument("--verbose", action="store_true")
     ap.add_argument("--dump-store-json", help="Store ID to dump raw JSON to dump_<id>.json")
     ap.add_argument("--peek", help="Store ID to print first few product shapes for")
@@ -420,6 +437,12 @@ def main():
         if not stores:
             print("[warn] no stores to scrape (check regions or stores table).", file=sys.stderr)
             return
+
+        if args.rotate_frac and not args.store:
+            before = len(stores)
+            stores = select_oldest(stores, load_last_scraped(conn), args.rotate_frac)
+            print(f"[info] rotation: scraping oldest {len(stores)}/{before} stores "
+                  f"(frac={args.rotate_frac})", flush=True)
 
         if args.verbose:
             print(f"[info] loaded {len(code_to_cpid)} product_code→canonical mappings", flush=True)

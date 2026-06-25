@@ -31,7 +31,7 @@ run_step() {
 run_step sitemap   "$UV" run python sitemap_scraper.py   # refresh live store-URL list
 run_step onboard   "$UV" run python onboard_stores.py    # Playwright new URLs -> stores table
 run_step geocode   "$UV" run python geocode_stores.py    # offline coords for any new store missing geo
-run_step prices    "$UV" run python api_scraper_db.py
+run_step prices    "$UV" run python api_scraper_db.py --rotate-frac 0.34   # oldest ~1/3 of stores; full coverage every 3 weeks
 run_step nutrition "$UV" run python scrape_nutrition.py --load-db
 run_step relink    "$UV" run python relink.py
 run_step build     "$UV" run python build_site_data.py
