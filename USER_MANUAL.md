@@ -434,6 +434,9 @@ python -u api_scraper_db.py --db macrobell.db --verbose
 # Scrape a single store
 python -u api_scraper_db.py --db macrobell.db --store 041070 --verbose
 
+# Scrape only the oldest ~1/3 of stores (the weekly deploy default)
+python -u api_scraper_db.py --db macrobell.db --rotate-frac 0.34 --verbose
+
 # Scrape by region
 python -u api_scraper_db.py --db macrobell.db --regions "West_Coast,Mountain" --verbose
 
@@ -448,6 +451,7 @@ python api_scraper_db.py --db macrobell.db --list-regions
 |------|---------|-------------|
 | `--db` | `macrobell.db` | Database file path |
 | `--store` | None | Scrape only this store_id |
+| `--rotate-frac` | None | Scrape only the oldest fraction of stores by `last_scraped_date` (e.g. `0.34` ≈ ⅓; full coverage every `ceil(1/frac)` runs). Never-scraped stores sort first. Ignored with `--store` |
 | `--regions` | None | Comma-separated region names to include |
 | `--exclude-regions` | None | Comma-separated region names to exclude |
 | `--list-regions` | Off | List regions and store counts, then exit |
@@ -457,6 +461,13 @@ python api_scraper_db.py --db macrobell.db --list-regions
 | `--dump-store-json` | None | Store ID to dump raw JSON for inspection |
 | `--peek` | None | Store ID to print first 8 product entries |
 | `--log-misses` | Off | Print first 20 product codes that failed price extraction |
+
+**Store rotation:** the weekly deploy runs with `--rotate-frac 0.34`, so each run
+scrapes only the ~⅓ least-recently-scraped stores. This cuts the per-run request
+footprint ~3× (a scraping-blowback safeguard) while guaranteeing every store is
+refreshed within 3 weeks. A store's price on the site can therefore be up to ~3
+weeks old — `last_scraped_date` records when each store was last visited, and the
+site surfaces it (see Phase 9).
 
 **Available regions:** West_Coast, Pacific, Mountain, Southwest, South_Central, Southeast, Great_Lakes, Midwest_Plains, Mid_Atlantic, New_England
 
@@ -792,8 +803,10 @@ uv run python build_site_data.py          # macrobell.db -> site/data/*.json
 
 Outputs: `items.json` (42 items: 6 categories, protein>0, conf>=0.80),
 `national.json` (overall hi/lo 5 stores), `history/{slug}.json` (monthly
-forward-filled averages), `stores.json` (latest price per store per item),
-`zip_latlon.json` (Census ZCTA centroids; source cached in `zcta_cache.csv`).
+forward-filled averages), `stores.json` (latest price per store per item, plus
+each store's `updated` = `last_scraped_date` shown as "Prices updated" on the
+store page), `zip_latlon.json` (Census ZCTA centroids; source cached in
+`zcta_cache.csv`).
 
 Representative product per nutrition item is picked automatically (name
 overlap + price coverage); override via `site_item_overrides.csv`
@@ -808,10 +821,11 @@ sitemap → onboard → geocode → prices → nutrition → relink → build �
 ```
 
 i.e. discover live stores, onboard new ones (with rooftop coords), fill any missing
-coords offline, scrape prices for everyone, refresh nutrition + links, rebuild site data,
-commit & push (which triggers the Pages workflow), then write a report. Monthly (first run
-of the month) it also runs `wal_checkpoint` + `VACUUM`. Store discovery is now part of this
-weekly loop — **no separate monthly store refresh is needed.**
+coords offline, scrape prices for the **oldest ~⅓ of stores** (`--rotate-frac 0.34`;
+full coverage every 3 weeks, ~3× smaller request footprint), refresh nutrition + links,
+rebuild site data, commit & push (which triggers the Pages workflow), then write a report.
+Monthly (first run of the month) it also runs `wal_checkpoint` + `VACUUM`. Store discovery
+is now part of this weekly loop — **no separate monthly store refresh is needed.**
 
 Each step is wrapped so a failure is logged and skipped without aborting the run; failed
 step names are listed in the report. `onboard` is guarded by `--max-new 600` so a sitemap
