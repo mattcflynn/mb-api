@@ -1,5 +1,12 @@
 // Shared header/footer/nav chrome.
 
+// Escape a value for safe interpolation into innerHTML. Use on EVERY dynamic
+// string (URL params + scraped data) that lands in a template literal sink.
+const _ESC = { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" };
+export function escapeHtml(v) {
+  return String(v ?? "").replace(/[&<>"']/g, (c) => _ESC[c]);
+}
+
 const BELL_SVG = `
 <svg class="logo-bell" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg" shape-rendering="crispEdges" aria-label="pixel bell">
   <rect x="7" y="1" width="2" height="1" fill="#ffd700"/>
@@ -56,6 +63,6 @@ export function el(tag, attrs = {}, html = "") {
 // Linked store cell: "City, ST" + address underneath. Accepts store_id or sid.
 export function storeCell(s, extra = "") {
   const sid = s.store_id ?? s.sid;
-  return `<a class="item-name" href="store.html?sid=${encodeURIComponent(sid)}">${s.city}, ${s.state}</a>${extra}
-    <br><span class="muted">${s.addr || ""}</span>`;
+  return `<a class="item-name" href="store.html?sid=${encodeURIComponent(sid)}">${escapeHtml(s.city)}, ${escapeHtml(s.state)}</a>${extra}
+    <br><span class="muted">${escapeHtml(s.addr || "")}</span>`;
 }

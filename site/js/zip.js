@@ -1,5 +1,5 @@
 import { getItems, getStores, getZipLatLon, money } from "./lib/data.js";
-import { renderHeader, renderFooter, storeCell } from "./lib/ui.js";
+import { renderHeader, renderFooter, storeCell, escapeHtml } from "./lib/ui.js";
 import { findNearbyStores, avgPriceForArea, storeOverallAvgs } from "./lib/geo.js";
 
 const CATEGORY_ORDER = [
@@ -10,7 +10,7 @@ const CATEGORY_ORDER = [
 function fail(msg) {
   const menu = document.getElementById("menu");
   menu.classList.remove("loading");
-  menu.innerHTML = `<div class="notice">${msg}</div>`;
+  menu.innerHTML = `<div class="notice">${escapeHtml(msg)}</div>`;
 }
 
 function renderMenu(items, itemCids, nearby, zip) {
@@ -33,7 +33,7 @@ function renderMenu(items, itemCids, nearby, zip) {
     catItems.sort((a, b) => a.localAvg - b.localAvg);
     const section = document.createElement("div");
     section.className = "menu-category";
-    section.innerHTML = `<h2>${cat}</h2>`;
+    section.innerHTML = `<h2>${escapeHtml(cat)}</h2>`;
     const ul = document.createElement("ul");
     ul.className = "menu-items";
     ul.innerHTML = catItems.map((it) => {
@@ -42,7 +42,7 @@ function renderMenu(items, itemCids, nearby, zip) {
         ` <span class="muted">(${delta > 0 ? "+" : "−"}${money(Math.abs(delta)).slice(1)} vs USA)</span>`;
       return `
       <li class="menu-item">
-        <a class="item-name" href="item.html?id=${encodeURIComponent(it.cid)}&zip=${zip}">${it.name}</a>${deltaTxt}
+        <a class="item-name" href="item.html?id=${encodeURIComponent(it.cid)}&zip=${zip}">${escapeHtml(it.name)}</a>${deltaTxt}
         <span class="dots"></span>
         <span class="price">${money(it.localAvg)}</span>
       </li>`;

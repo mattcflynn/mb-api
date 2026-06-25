@@ -1,5 +1,5 @@
 import { getItems, getStores, getZipLatLon, money } from "./lib/data.js";
-import { renderHeader, renderFooter } from "./lib/ui.js";
+import { renderHeader, renderFooter, escapeHtml } from "./lib/ui.js";
 import { findNearbyStores } from "./lib/geo.js";
 
 const COLS = [
@@ -56,8 +56,8 @@ function render() {
       const v = r[c.key];
       const txt = c.text ? v : (c.fmt ? c.fmt(v) : v);
       const cell = c.key === "name"
-        ? `<a class="item-name" href="${itemLink(r)}">${v}</a>`
-        : txt;
+        ? `<a class="item-name" href="${itemLink(r)}">${escapeHtml(v)}</a>`
+        : escapeHtml(txt);
       return `<td${c.hot ? ' class="hot"' : ""}>${cell}</td>`;
     }).join("")}</tr>`).join("");
 
@@ -83,7 +83,7 @@ function buildControls() {
       <label>Category</label>
       <select id="cat-filter">
         <option value="">All</option>
-        ${cats.map((c) => `<option>${c}</option>`).join("")}
+        ${cats.map((c) => `<option>${escapeHtml(c)}</option>`).join("")}
       </select>
     </div>`;
 
@@ -130,7 +130,7 @@ function buildStorePicker() {
     sel.innerHTML = nearby.length
       ? `<option value="">— pick a store (${nearby.length} found) —</option>` +
         nearby.slice(0, 25).map(({ store, distMi }) =>
-          `<option value="${store.sid}">${store.city}, ${store.state} — ${store.addr} (${distMi.toFixed(1)}mi)</option>`
+          `<option value="${escapeHtml(store.sid)}">${escapeHtml(store.city)}, ${escapeHtml(store.state)} — ${escapeHtml(store.addr)} (${distMi.toFixed(1)}mi)</option>`
         ).join("")
       : `<option value="">No stores within 50mi</option>`;
   };
@@ -146,6 +146,7 @@ function buildStorePicker() {
 async function main() {
   renderHeader("macrobell.html");
   storeSid = new URLSearchParams(location.search).get("sid");
+  if (storeSid && !/^[A-Za-z0-9]{1,16}$/.test(storeSid)) storeSid = null;
   const itemsData = await getItems();
   renderFooter(itemsData.generated_at);
 
@@ -168,11 +169,11 @@ async function main() {
       document.getElementById("mb-sub").textContent = "this store's prices — click any column header to sort";
       document.getElementById("store-banner").innerHTML = `
         <div class="notice">📍 <a class="item-name" href="store.html?sid=${encodeURIComponent(storeSid)}">
-        ${store.city}, ${store.state} — ${store.addr}</a> (store #${storeSid})
+        ${escapeHtml(store.city)}, ${escapeHtml(store.state)} — ${escapeHtml(store.addr)}</a> (store #${escapeHtml(storeSid)})
         &nbsp;•&nbsp; <a href="macrobell.html">switch to national averages</a></div>`;
     } else {
       document.getElementById("store-banner").innerHTML =
-        `<div class="notice">Store #${storeSid} not found — showing national averages.</div>`;
+        `<div class="notice">Store #${escapeHtml(storeSid)} not found — showing national averages.</div>`;
       storeSid = null;
     }
   }
@@ -191,5 +192,5 @@ async function main() {
 }
 
 main().catch((err) => {
-  document.getElementById("body").innerHTML = `<tr><td colspan="12">ERROR: ${err.message}</td></tr>`;
+  document.getElementById("body").innerHTML = `<tr><td colspan="12">ERROR: ${escapeHtml(err.message)}</td></tr>`;
 });

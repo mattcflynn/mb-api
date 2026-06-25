@@ -1,5 +1,5 @@
 import { getItems, getNational, money } from "./lib/data.js";
-import { renderHeader, renderFooter, storeCell } from "./lib/ui.js";
+import { renderHeader, renderFooter, storeCell, escapeHtml } from "./lib/ui.js";
 
 const CATEGORY_ORDER = [
   "Tacos", "Burritos", "Cantina Chicken Menu",
@@ -21,12 +21,12 @@ function renderMenu(items) {
     catItems.sort((a, b) => a.national_avg_cents - b.national_avg_cents);
     const section = document.createElement("div");
     section.className = "menu-category";
-    section.innerHTML = `<h2>${cat}</h2>`;
+    section.innerHTML = `<h2>${escapeHtml(cat)}</h2>`;
     const ul = document.createElement("ul");
     ul.className = "menu-items";
     ul.innerHTML = catItems.map((it) => `
       <li class="menu-item">
-        <a class="item-name" href="item.html?id=${encodeURIComponent(it.cid)}">${it.name}</a>
+        <a class="item-name" href="item.html?id=${encodeURIComponent(it.cid)}">${escapeHtml(it.name)}</a>
         <span class="dots"></span>
         <span class="price">${money(it.national_avg_cents)}</span>
       </li>`).join("");

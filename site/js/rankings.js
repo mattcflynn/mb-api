@@ -1,5 +1,5 @@
 import { getItems, getStores, getZipLatLon, money } from "./lib/data.js";
-import { renderHeader, renderFooter, storeCell } from "./lib/ui.js";
+import { renderHeader, renderFooter, storeCell, escapeHtml } from "./lib/ui.js";
 import { findNearbyStores } from "./lib/geo.js";
 
 const PAGE_SIZE = 25;
@@ -57,12 +57,12 @@ function resetTable(newFiltered, subtitle) {
 function buildLocationLists(stores) {
   const cities = [...new Set(stores.map(s => `${s.city}, ${s.state}`))].sort();
   document.getElementById("city-datalist").innerHTML =
-    cities.map(c => `<option value="${c}">`).join("");
+    cities.map(c => `<option value="${escapeHtml(c)}">`).join("");
 
   const states = [...new Set(stores.map(s => s.state))].filter(Boolean).sort();
   const sel = document.getElementById("loc-state");
   sel.innerHTML = `<option value="">— pick a state —</option>` +
-    states.map(s => `<option value="${s}">${s}</option>`).join("");
+    states.map(s => `<option value="${escapeHtml(s)}">${escapeHtml(s)}</option>`).join("");
 }
 
 // --- Location modes ---
@@ -160,5 +160,5 @@ async function main() {
 
 main().catch(err => {
   document.getElementById("rank-body").innerHTML =
-    `<tr><td colspan="4">ERROR: ${err.message}</td></tr>`;
+    `<tr><td colspan="4">ERROR: ${escapeHtml(err.message)}</td></tr>`;
 });

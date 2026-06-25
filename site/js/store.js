@@ -1,5 +1,5 @@
 import { getItems, getStores, money } from "./lib/data.js";
-import { renderHeader, renderFooter } from "./lib/ui.js";
+import { renderHeader, renderFooter, escapeHtml } from "./lib/ui.js";
 
 const CATEGORY_ORDER = [
   "Tacos", "Burritos", "Cantina Chicken Menu",
@@ -9,7 +9,7 @@ const CATEGORY_ORDER = [
 function fail(msg) {
   const menu = document.getElementById("menu");
   menu.classList.remove("loading");
-  menu.innerHTML = `<div class="notice">${msg}</div>`;
+  menu.innerHTML = `<div class="notice">${escapeHtml(msg)}</div>`;
 }
 
 function renderMenu(items, itemCids, store) {
@@ -32,7 +32,7 @@ function renderMenu(items, itemCids, store) {
     catItems.sort((a, b) => a.storePrice - b.storePrice);
     const section = document.createElement("div");
     section.className = "menu-category";
-    section.innerHTML = `<h2>${cat}</h2>`;
+    section.innerHTML = `<h2>${escapeHtml(cat)}</h2>`;
     const ul = document.createElement("ul");
     ul.className = "menu-items";
     ul.innerHTML = catItems.map((it) => {
@@ -41,7 +41,7 @@ function renderMenu(items, itemCids, store) {
         ` <span class="muted">(${delta > 0 ? "+" : "−"}${money(Math.abs(delta)).slice(1)} vs USA)</span>`;
       return `
       <li class="menu-item">
-        <a class="item-name" href="item.html?id=${encodeURIComponent(it.cid)}${store.zip ? `&zip=${store.zip}` : ""}">${it.name}</a>${deltaTxt}
+        <a class="item-name" href="item.html?id=${encodeURIComponent(it.cid)}${store.zip ? `&zip=${store.zip}` : ""}">${escapeHtml(it.name)}</a>${deltaTxt}
         <span class="dots"></span>
         <span class="price">${money(it.storePrice)}</span>
       </li>`;
@@ -56,6 +56,7 @@ async function main() {
   renderHeader();
   const sid = new URLSearchParams(location.search).get("sid") || "";
   if (!sid) return fail("No store specified.");
+  if (!/^[A-Za-z0-9]{1,16}$/.test(sid)) return fail("Invalid store ID.");
 
   const [itemsData, storesData] = await Promise.all([getItems(), getStores()]);
   renderFooter(itemsData.generated_at);
@@ -75,9 +76,9 @@ async function main() {
   const avg = priced.length
     ? Math.round(priced.reduce((a, b) => a + b, 0) / priced.length) : 0;
   document.querySelector("#store-facts tbody").innerHTML = `
-    <tr><td>Store #</td><td class="r">${sid}</td></tr>
-    <tr><td>Address</td><td class="r" style="font-family:Verdana;font-size:11px">${store.addr}</td></tr>
-    <tr><td>City</td><td class="r" style="font-family:Verdana;font-size:11px">${store.city}, ${store.state} ${store.zip}</td></tr>
+    <tr><td>Store #</td><td class="r">${escapeHtml(sid)}</td></tr>
+    <tr><td>Address</td><td class="r" style="font-family:Verdana;font-size:11px">${escapeHtml(store.addr)}</td></tr>
+    <tr><td>City</td><td class="r" style="font-family:Verdana;font-size:11px">${escapeHtml(store.city)}, ${escapeHtml(store.state)} ${escapeHtml(store.zip)}</td></tr>
     <tr><td>Items priced</td><td class="r">${count}</td></tr>
     <tr><td>Avg item price</td><td class="r">${avg ? money(avg) : "—"}</td></tr>`;
 }

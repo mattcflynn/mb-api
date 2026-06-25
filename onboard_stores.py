@@ -28,6 +28,7 @@ import json
 import re
 from datetime import datetime, timezone
 from pathlib import Path
+from urllib.parse import urlparse
 
 from playwright.sync_api import sync_playwright
 
@@ -54,6 +55,18 @@ def _key(state, city, street) -> tuple:
 
 def _now() -> str:
     return datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
+
+
+ALLOWED_HOST = "locations.tacobell.com"
+
+
+def is_allowed_url(url: str) -> bool:
+    """Only ever drive the browser to real Taco Bell location pages — never let a
+    tampered sitemap/CSV point Playwright at an arbitrary (internal) URL."""
+    try:
+        return urlparse(url).netloc.lower() == ALLOWED_HOST
+    except Exception:
+        return False
 
 
 def is_franchise(store_id: str) -> bool:
@@ -214,6 +227,11 @@ def main():
     seeded = seed_known_from_db(db, sitemap)
     known = {u for (u,) in db.execute("SELECT url FROM store_urls")}
     todo = [r for r in sitemap if r["url"] not in known]
+
+    rejected = [r for r in todo if not is_allowed_url(r["url"])]
+    if rejected:
+        print(f"[onboard] rejecting {len(rejected)} non-{ALLOWED_HOST} URL(s) (will not visit)")
+        todo = [r for r in todo if is_allowed_url(r["url"])]
     print(f"[onboard] sitemap={len(sitemap)} known={len(known)} seeded_this_run={seeded} to_visit={len(todo)}")
 
     if len(todo) > args.max_new:

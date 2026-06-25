@@ -1,5 +1,5 @@
 import { getItems, getHistory, getStores, getZipLatLon, money } from "./lib/data.js";
-import { renderHeader, renderFooter, storeCell } from "./lib/ui.js";
+import { renderHeader, renderFooter, storeCell, escapeHtml } from "./lib/ui.js";
 import { findNearbyStores } from "./lib/geo.js";
 import { drawPriceChart } from "./lib/chart.js";
 
@@ -24,8 +24,8 @@ function storeRows(stores) {
 function renderStats(it) {
   const stats = [
     ["National Avg", money(it.national_avg_cents), `${it.store_count.toLocaleString()} stores`],
-    ["Lowest", money(it.national_min_cents), `${it.lo5_stores[0].city}, ${it.lo5_stores[0].state}`],
-    ["Highest", money(it.national_max_cents), `${it.hi5_stores[0].city}, ${it.hi5_stores[0].state}`],
+    ["Lowest", money(it.national_min_cents), `${escapeHtml(it.lo5_stores[0].city)}, ${escapeHtml(it.lo5_stores[0].state)}`],
+    ["Highest", money(it.national_max_cents), `${escapeHtml(it.hi5_stores[0].city)}, ${escapeHtml(it.hi5_stores[0].state)}`],
     ["Protein / $", `${it.protein_per_dollar}g`, `${it.protein}g @ avg price`],
   ];
   document.getElementById("stats").innerHTML = stats.map(([label, value, sub]) => `
