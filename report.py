@@ -191,32 +191,78 @@ def read_sitemap_stores(csv_path: Path) -> dict[str, str]:
     return out
 
 
+_STORE_URL_RE = re.compile(r"/([a-z]{2})/([^/]+)/([^/]+)\.html$")
+
+
+_ORDINAL_RE = re.compile(r"(\d)(St|Nd|Rd|Th)\b")
+
+
+def format_store_url(url: str) -> str:
+    """https://locations.tacobell.com/ga/cumming/567-atlanta-road.html -> '567 Atlanta Road, Cumming, GA'"""
+    m = _STORE_URL_RE.search(url)
+    if not m:
+        return url
+    state, city, slug = m.groups()
+    addr = " ".join(slug.replace("-", " ").split()).title()
+    addr = _ORDINAL_RE.sub(lambda m: m.group(1) + m.group(2).lower(), addr)
+    return f"{addr}, {city.replace('-', ' ').title()}, {state.upper()}"
+
+
 def store_changes(db: sqlite3.Connection, today: str, csv_path: Path):
     """Diff the current sitemap store set vs the previous snapshot; record today's.
 
-    Returns (opened_by_state, closed_by_state, prev_date, current_count, had_sitemap).
+    Returns (opened_by_state, closed_by_state, prev_date, current_count, had_sitemap,
+             opened_urls, closed_urls).
     """
     current = read_sitemap_stores(csv_path)
     if not current:
-        return {}, {}, None, 0, False
+        return {}, {}, None, 0, False, [], []
 
     prev_date = _prev_snapshot_date(db, "store_snapshots", today)
     opened, closed = defaultdict(int), defaultdict(int)
+    opened_urls, closed_urls = [], []
     if prev_date:
         prev = {k: st for k, st in db.execute(
             "SELECT store_key, state FROM store_snapshots WHERE snapshot_date = ?", (prev_date,)
         ).fetchall()}
         for k in current.keys() - prev.keys():
             opened[current[k]] += 1
+            opened_urls.append(k)
         for k in prev.keys() - current.keys():
             closed[prev[k]] += 1
+            closed_urls.append(k)
 
     db.execute("DELETE FROM store_snapshots WHERE snapshot_date = ?", (today,))
     db.executemany(
         "INSERT INTO store_snapshots (snapshot_date, store_key, state) VALUES (?, ?, ?)",
         [(today, url, st) for url, st in current.items()])
     db.commit()
-    return dict(opened), dict(closed), prev_date, len(current), True
+    return (dict(opened), dict(closed), prev_date, len(current), True,
+            sorted(opened_urls), sorted(closed_urls))
+
+
+def scrape_coverage_by_state(db: sqlite3.Connection) -> tuple[str | None, list[tuple[str, int, int]]]:
+    """Return (scrape_date, [(state, scraped_count, state_total)]) for the most recent price-scrape run.
+
+    Rotation (api_scraper_db.py --rotate-frac) picks the globally oldest-scraped
+    stores regardless of state, so coverage is never a clean per-state split —
+    this shows exactly which states got how much of this run's slice.
+    """
+    row = db.execute("""
+        SELECT MAX(last_scraped_date) FROM stores
+        WHERE last_scraped_date IS NOT NULL AND last_scraped_date != ''
+    """).fetchone()
+    if not row or not row[0]:
+        return None, []
+    scrape_date = row[0][:10]
+    totals = dict(db.execute("SELECT state, COUNT(*) FROM stores GROUP BY state").fetchall())
+    scraped = db.execute(
+        "SELECT state, COUNT(*) FROM stores WHERE last_scraped_date LIKE ? GROUP BY state",
+        (scrape_date + "%",)
+    ).fetchall()
+    rows = [((st or "?").upper(), n, totals.get(st, 0)) for st, n in scraped]
+    rows.sort(key=lambda x: -x[1])
+    return scrape_date, rows
 
 
 # ---------------------------------------------------------------------------
@@ -272,6 +318,23 @@ def build_report(db: sqlite3.Connection, log_path: Path, failed_steps: list[str]
             lines.append(f"- Price rows written (changed): **{int(m.group(2)):,}**")
             lines.append(f"- Staged rows written: **{int(m.group(3)):,}**")
             lines.append("")
+
+    # --- Scrape coverage by state ---
+    scrape_date, state_coverage = scrape_coverage_by_state(db)
+    if state_coverage:
+        lines.append("## Scrape Coverage by State")
+        lines.append(
+            f"- Rotation picks the globally oldest-scraped stores, **not** a per-state "
+            f"split — {len(state_coverage)} state(s) touched this run ({scrape_date})")
+        lines.append("```")
+        lines.append(f"{'State':<6} {'Scraped':>8} {'StateTotal':>10}")
+        lines.append("-" * 26)
+        for st, n, total in state_coverage[:20]:
+            lines.append(f"{st:<6} {n:>8} {total:>10}")
+        if len(state_coverage) > 20:
+            lines.append(f"...and {len(state_coverage) - 20} more state(s)")
+        lines.append("```")
+        lines.append("")
 
     # --- Errors ---
     if error_lines:
@@ -363,7 +426,7 @@ def build_report(db: sqlite3.Connection, log_path: Path, failed_steps: list[str]
     if "sitemap" in failed_steps:
         lines.append("## Store Openings & Closures\n- *Sitemap step failed this run — skipped to avoid false diffs.*\n")
         return "\n".join(lines)
-    opened, closed, store_prev, store_total, had_sitemap = store_changes(
+    opened, closed, store_prev, store_total, had_sitemap, opened_urls, closed_urls = store_changes(
         db, today, Path(FULL_STORE_LIST_CSV))
     if not had_sitemap:
         lines.append("## Store Openings & Closures\n- *Sitemap unavailable this run — skipped.*\n")
@@ -374,13 +437,19 @@ def build_report(db: sqlite3.Connection, log_path: Path, failed_steps: list[str]
         n_open, n_close = sum(opened.values()), sum(closed.values())
         lines.append("## Store Openings & Closures")
         lines.append(f"- 🟢 **{n_open}** opened   🔴 **{n_close}** closed   (vs {store_prev})")
-        states = sorted(set(opened) | set(closed), key=lambda s: -(opened.get(s, 0) + closed.get(s, 0)))
-        lines.append("```")
-        lines.append(f"{'State':<6} {'Opened':>7} {'Closed':>7}")
-        lines.append("-" * 22)
-        for st in states:
-            lines.append(f"{(st or '?').upper():<6} {opened.get(st, 0):>7} {closed.get(st, 0):>7}")
-        lines.append("```")
+        lines.append("")
+        if opened_urls:
+            lines.append(f"**Opened ({len(opened_urls)})**")
+            for u in opened_urls[:30]:
+                lines.append(f"- 🟢 {format_store_url(u)}")
+            if len(opened_urls) > 30:
+                lines.append(f"- *...and {len(opened_urls) - 30} more*")
+        if closed_urls:
+            lines.append(f"**Closed ({len(closed_urls)})**")
+            for u in closed_urls[:30]:
+                lines.append(f"- 🔴 {format_store_url(u)}")
+            if len(closed_urls) > 30:
+                lines.append(f"- *...and {len(closed_urls) - 30} more*")
         lines.append("")
 
     if not had_content and not error_lines:
