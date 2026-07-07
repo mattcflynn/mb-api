@@ -7,7 +7,11 @@ ROOT="/Users/mattf/Developer/api-mb"
 LOGDIR="$ROOT/logs"
 mkdir -p "$LOGDIR"
 LOGFILE="$LOGDIR/deploy_$(date +%Y%m%d).log"
-exec >> "$LOGFILE" 2>&1
+if [ -t 1 ]; then
+    exec > >(tee -a "$LOGFILE") 2>&1
+else
+    exec >> "$LOGFILE" 2>&1
+fi
 
 cd "$ROOT"
 UV="/opt/homebrew/bin/uv"
@@ -15,14 +19,19 @@ UV="/opt/homebrew/bin/uv"
 echo "=== MacroBell deploy start: $(date) ==="
 
 FAILED=""
+STEP_NUM=0
+TOTAL_STEPS=7
 
 run_step() {
     local name=$1; shift
-    echo "--- $name ---"
+    STEP_NUM=$((STEP_NUM + 1))
+    local start=$(date +%s)
+    echo "--- [$STEP_NUM/$TOTAL_STEPS] $name ---"
     if "$@"; then
-        echo "[ok] $name"
+        echo "[ok] $name ($(( $(date +%s) - start ))s)"
     else
-        echo "[FAILED] $name (exit $?)"
+        local ec=$?
+        echo "[FAILED] $name (exit $ec, $(( $(date +%s) - start ))s)"
         FAILED="$FAILED $name"
     fi
 }
