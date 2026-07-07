@@ -1,15 +1,32 @@
 item_id,name,category_nutrition,is_breakfast,is_drink,calories,total_fat,saturated_fat,trans_fat,cholesterol,sodium,total_carb,fibers,sugars,protein
-19228f8555a8c5a6,Chicken Bacon Ranch Nacho Fries,New,0,0,350.0,24.0,4.0,0.0,40.0,940.0,22.0,3.0,2.0,13.0
-23260ed97d5fb4ca,Chicken Bacon Ranch Street Chalupas,New,0,0,620.0,41.0,11.0,0.0,70.0,1220.0,38.0,6.0,4.0,25.0
+0b1d57a3b378ed93,Cantina Chicken Mexican Pizza,New,0,0,520.0,29.0,8.0,0.0,75.0,1190.0,37.0,9.0,4.0,27.0
+5eec90378110f59f,Cantina Veggie Mexican Pizza,New,0,0,450.0,26.0,6.0,0.0,25.0,910.0,42.0,11.0,5.0,14.0
+b9569c4b383542e3,Chicken Fajita Nacho Fries,New,0,0,540.0,34.0,5.0,0.0,40.0,1290.0,45.0,6.0,4.0,14.0
+0d462ecba8c375ca,Cinnamon Sugar Churros,New,0,0,190.0,9.0,1.0,0.0,0.0,190.0,25.0,1.0,6.0,1.0
+518e57179f176dda,Crispy Chicken Burrito - Avocado Ranch,New,0,0,650.0,34.0,8.0,0.0,60.0,1500.0,61.0,6.0,4.0,24.0
+bfe079d083663139,Crispy Chicken Burrito - Creamy Chipotle Sauce,New,0,0,640.0,33.0,8.0,0.0,65.0,1450.0,61.0,6.0,4.0,23.0
+5a4e0b4037abf653,Crispy Chicken Crunchwrap,New,0,0,670.0,35.0,9.0,0.0,70.0,1610.0,62.0,6.0,3.0,26.0
+29d861bdd0ec59c0,Crispy Chicken Strips - 2 piece,New,0,0,230.0,11.0,1.0,0.0,35.0,710.0,19.0,3.0,0.0,14.0
+fd8fe841878e7dbd,Crispy Chicken Strips - 4 piece,New,0,0,460.0,22.0,2.5,0.0,75.0,1420.0,39.0,5.0,0.0,28.0
+2068bc501aed6b6f,Crispy Chicken Taco - Avocado Ranch,New,0,0,260.0,12.0,3.5,0.0,25.0,680.0,27.0,3.0,2.0,11.0
+8a7b2ceee259365a,Crispy Chicken Taco - Creamy Chipotle Sauce,New,0,0,260.0,12.0,3.5,0.0,30.0,670.0,27.0,3.0,2.0,11.0
 937a89c5c785b6eb,Dragonfruit Freeze® (16 oz),New,0,0,160.0,0.0,0.0,0.0,0.0,45.0,41.0,0.0,41.0,0.0
 04c79d9d90e9935e,Dragonfruit Freeze® (20 oz),New,0,0,200.0,0.0,0.0,0.0,0.0,60.0,52.0,0.0,51.0,0.0
 a8609ee22c802efd,Dragonfruit Freeze® with Dragonfruit Syrup (16 oz),New,0,0,170.0,0.0,0.0,0.0,0.0,50.0,46.0,0.0,44.0,0.0
 66ab431aa11bc4ef,Dragonfruit Freeze® with Dragonfruit Syrup (20 oz),New,0,0,210.0,0.0,0.0,0.0,0.0,60.0,56.0,0.0,55.0,0.0
 a2e9a7bb960324e3,Dragonfruit Strawberry Limonada,New,0,0,200.0,0.0,0.0,0.0,0.0,160.0,52.0,0.0,50.0,0.0
+5f0147ebf3a24864,Fajita Cheesy Street Chalupas - Cantina Chicken,New,0,0,720.0,37.0,10.0,0.0,55.0,1250.0,71.0,7.0,6.0,26.0
+72caaaf1e6ee9c60,Fajita Cheesy Street Chalupas - Steak,New,0,0,720.0,37.0,10.0,0.0,50.0,1320.0,71.0,6.0,6.0,26.0
+31e21ba133398e4e,Jalapeno Citrus Salsa Packet,New,0,0,45.0,4.0,0.5,0.0,0.0,70.0,2.0,0.0,0.5,0.0
 1e91c57c18874495,Mango Peach Limonada,New,0,0,210.0,0.0,0.0,0.0,0.0,190.0,56.0,0.0,56.0,0.0
 0319f9f75b9b756a,Orange Vanilla Cream Soda Freeze™ (16 oz),New,0,0,210.0,1.0,0.5,0.0,2.5,75.0,53.0,0.0,50.0,0.0
 4f5e437a889263d9,Orange Vanilla Cream Soda Freeze™ (20 oz),New,0,0,250.0,1.0,0.5,0.0,2.5,90.0,64.0,0.0,60.0,0.0
 607f4edfbabeaf87,Pineapple Dream Refresca,New,0,0,220.0,1.0,0.5,0.0,2.5,170.0,55.0,0.0,53.0,0.0
+30352f6da939ba65,Pink Passionfruit Freeze™ (16 oz),New,0,0,160.0,0.0,0.0,0.0,0.0,75.0,41.0,0.0,41.0,0.0
+94d259c8cc86a1f9,Pink Passionfruit Freeze™ (20 oz),New,0,0,200.0,0.0,0.0,0.0,0.0,95.0,51.0,0.0,51.0,0.0
+a44ce6f8a21ee445,Pink Passionfruit Refresca Freeze™ (16 oz),New,0,0,160.0,0.0,0.0,0.0,0.0,75.0,42.0,0.0,42.0,0.0
+490f990e76a5623a,Pink Passionfruit Refresca Freeze™ (20 oz),New,0,0,200.0,0.0,0.0,0.0,0.0,95.0,53.0,0.0,52.0,0.0
+d4d853a887108672,Quesarito,New,0,0,570.0,24.0,12.0,0.0,50.0,1340.0,67.0,5.0,4.0,20.0
 c12e44879b381b63,Strawberry Dream Refresca,New,0,0,220.0,1.0,0.5,0.0,2.5,170.0,57.0,0.0,54.0,0.0
 42c95d757e154ec4,Strawberry Passionfruit Limonada,New,0,0,210.0,0.0,0.0,0.0,0.0,190.0,56.0,0.0,55.0,0.0
 306f7063ed19f9c0,Vanilla Cream Soda Freeze™ (16 oz),New,0,0,200.0,1.0,0.5,0.0,2.5,70.0,49.0,0.0,47.0,0.0
@@ -18,7 +35,7 @@ c460dd523d4ac1b5,Avocado Salsa Verde Packet,Cantina Chicken Menu,0,0,50.0,5.0,1.
 1411a4d355032015,Cantina Chicken Bowl,Cantina Chicken Menu,0,0,480.0,23.0,7.0,0.0,75.0,1170.0,44.0,10.0,3.0,24.0
 8de274c436eaa7b4,Cantina Chicken Burrito,Cantina Chicken Menu,0,0,530.0,28.0,9.0,0.0,80.0,1190.0,44.0,5.0,4.0,24.0
 30cff7649c99620d,Cantina Chicken Crispy Taco,Cantina Chicken Menu,0,0,270.0,15.0,6.0,0.0,50.0,520.0,19.0,4.0,0.5,15.0
-f2cd0e01e9ec6ef7,Cantina Chicken Quesadilla,Cantina Chicken Menu,0,0,550.0,28.0,14.0,0.0,90.0,1310.0,46.0,5.0,3.0,29.0
+92607bc5f722ccf3,Cantina Chicken Rolled Quesadilla,Cantina Chicken Menu,0,0,570.0,28.0,13.0,0.0,105.0,1410.0,46.0,5.0,3.0,33.0
 04bc6b74b4d5f3b0,Cantina Chicken Soft Taco,Cantina Chicken Menu,0,0,210.0,10.0,3.5,0.0,35.0,530.0,19.0,3.0,2.0,12.0
 41cf64ee584f495a,Black Bean Chalupa Supreme® (V),Tacos,0,0,340.0,17.0,3.5,0.0,10.0,450.0,36.0,7.0,4.0,10.0
 7f8c0af8e9666d5d,Chalupa Supreme® - Beef,Tacos,0,0,350.0,20.0,5.0,0.0,25.0,570.0,32.0,4.0,3.0,12.0
@@ -77,19 +94,19 @@ ce0a9f6e9128c36e,Fire Sauce Packet (V),Sides & Sweets,0,0,0.0,0.0,0.0,0.0,0.0,55
 8d508a323128b3f9,Mild Sauce Packet (V),Sides & Sweets,0,0,0.0,0.0,0.0,0.0,0.0,30.0,0.0,0.0,0.0,0.0
 c92846553a041789,Nacho Fries,Sides & Sweets,0,0,350.0,21.0,2.0,0.0,0.0,790.0,36.0,3.0,1.0,4.0
 9702f030b088def8,Pintos N Cheese (V),Sides & Sweets,0,0,170.0,6.0,3.0,0.0,10.0,680.0,19.0,7.0,1.0,9.0
-473de688b7b9974d,3-Cheese Chicken Flatbread Melt - Value Menu,Cravings Value Menu,0,0,320.0,14.0,6.0,0.0,50.0,750.0,30.0,3.0,4.0,20.0
-d0dff6074c978545,Avocado Ranch Chicken Stacker,Cravings Value Menu,0,0,350.0,15.0,4.5,0.0,35.0,890.0,40.0,3.0,3.0,16.0
-661d032f8eb69c9d,Beefy Potato Loaded Griller,Cravings Value Menu,0,0,480.0,23.0,6.0,0.0,25.0,1120.0,56.0,5.0,3.0,12.0
-7f7ab2995a4daf18,Cheesy Bean & Rice Burrito - Value Menu,Cravings Value Menu,0,0,400.0,16.0,3.5,0.0,2.5,950.0,56.0,6.0,3.0,9.0
-6fe64274535f08ea,Cheesy Double Beef Burrito - Value Menu,Cravings Value Menu,0,0,560.0,25.0,9.0,0.0,50.0,1340.0,64.0,7.0,3.0,20.0
-f28cb79be61a8cac,Cheesy Fiesta Potatoes - Value Menu,Cravings Value Menu,0,0,240.0,12.0,1.5,0.0,2.5,520.0,29.0,3.0,1.0,3.0
-aa233f3cffa56155,Cheesy Roll Up - Value Menu,Cravings Value Menu,0,0,170.0,8.0,5.0,0.0,25.0,420.0,18.0,1.0,1.0,8.0
-6f5e09b81ca4c6cc,Chicken Enchilada Burrito - Value Menu,Cravings Value Menu,0,0,370.0,11.0,5.0,0.0,40.0,1150.0,50.0,4.0,3.0,18.0
-96d46acfe7c2f58d,Chips and Nacho Supreme Dip,Cravings Value Menu,0,0,360.0,19.0,4.5,0.0,20.0,720.0,37.0,7.0,3.0,10.0
-53f03e9086c8a7ad,Double Stacked Taco - Value Menu,Cravings Value Menu,0,0,320.0,16.0,5.0,0.0,25.0,610.0,34.0,4.0,2.0,10.0
-2118eac84e7493a7,Loaded Beef Nachos - Value Menu,Cravings Value Menu,0,0,450.0,24.0,5.0,0.0,20.0,930.0,45.0,9.0,2.0,12.0
-b0974c3e92252308,Mini Taco Salad,Cravings Value Menu,0,0,280.0,15.0,4.0,0.0,20.0,490.0,27.0,6.0,2.0,9.0
-cc21e06ba6e87c59,Spicy Potato Soft Taco - Value Menu,Cravings Value Menu,0,0,240.0,11.0,3.0,0.0,10.0,470.0,28.0,2.0,1.0,5.0
+473de688b7b9974d,3-Cheese Chicken Flatbread Melt - Value Menu,Luxe Value Menu,0,0,320.0,14.0,6.0,0.0,50.0,750.0,30.0,3.0,4.0,20.0
+d0dff6074c978545,Avocado Ranch Chicken Stacker,Luxe Value Menu,0,0,350.0,15.0,4.5,0.0,35.0,890.0,40.0,3.0,3.0,16.0
+661d032f8eb69c9d,Beefy Potato Loaded Griller,Luxe Value Menu,0,0,480.0,23.0,6.0,0.0,25.0,1120.0,56.0,5.0,3.0,12.0
+7f7ab2995a4daf18,Cheesy Bean & Rice Burrito - Value Menu,Luxe Value Menu,0,0,400.0,16.0,3.5,0.0,2.5,950.0,56.0,6.0,3.0,9.0
+6fe64274535f08ea,Cheesy Double Beef Burrito - Value Menu,Luxe Value Menu,0,0,560.0,25.0,9.0,0.0,50.0,1340.0,64.0,7.0,3.0,20.0
+f28cb79be61a8cac,Cheesy Fiesta Potatoes - Value Menu,Luxe Value Menu,0,0,240.0,12.0,1.5,0.0,2.5,520.0,29.0,3.0,1.0,3.0
+aa233f3cffa56155,Cheesy Roll Up - Value Menu,Luxe Value Menu,0,0,170.0,8.0,5.0,0.0,25.0,420.0,18.0,1.0,1.0,8.0
+6f5e09b81ca4c6cc,Chicken Enchilada Burrito - Value Menu,Luxe Value Menu,0,0,370.0,11.0,5.0,0.0,40.0,1150.0,50.0,4.0,3.0,18.0
+96d46acfe7c2f58d,Chips and Nacho Supreme Dip,Luxe Value Menu,0,0,360.0,19.0,4.5,0.0,20.0,720.0,37.0,7.0,3.0,10.0
+53f03e9086c8a7ad,Double Stacked Taco - Value Menu,Luxe Value Menu,0,0,320.0,16.0,5.0,0.0,25.0,610.0,34.0,4.0,2.0,10.0
+2118eac84e7493a7,Loaded Beef Nachos - Value Menu,Luxe Value Menu,0,0,450.0,24.0,5.0,0.0,20.0,930.0,45.0,9.0,2.0,12.0
+b0974c3e92252308,Mini Taco Salad,Luxe Value Menu,0,0,280.0,15.0,4.0,0.0,20.0,490.0,27.0,6.0,2.0,9.0
+cc21e06ba6e87c59,Spicy Potato Soft Taco - Value Menu,Luxe Value Menu,0,0,240.0,11.0,3.0,0.0,10.0,470.0,28.0,2.0,1.0,5.0
 2425473109f6d35d,Bean Burrito,Veggie Cravings,0,0,360.0,10.0,4.5,0.0,5.0,1080.0,54.0,8.0,3.0,13.0
 0e82f998a9a808a0,Black Bean Chalupa Supreme®,Veggie Cravings,0,0,340.0,17.0,3.5,0.0,10.0,450.0,36.0,7.0,4.0,10.0
 e4553ff58ec936f0,Black Bean Crunchwrap Supreme®,Veggie Cravings,0,0,520.0,17.0,5.0,0.0,2.5,1090.0,78.0,8.0,6.0,13.0
@@ -106,7 +123,7 @@ b370505ac052ddde,Cinnabon® Delights™ (2 Pack),Veggie Cravings,0,0,170.0,11.0,
 d477143a2d0bf143,Hash Brown,Veggie Cravings,0,0,170.0,11.0,1.0,0.0,0.0,330.0,14.0,2.0,0.5,2.0
 73d11d9317ca477a,Pintos N Cheese,Veggie Cravings,0,0,170.0,6.0,3.0,0.0,10.0,680.0,19.0,7.0,1.0,9.0
 05a8ecd5858ce850,Spicy Potato Soft Taco,Veggie Cravings,0,0,240.0,11.0,3.0,0.0,10.0,470.0,28.0,2.0,1.0,5.0
-111ecedbd66b5ca8,Veggie Bowl,Veggie Cravings,0,0,410.0,20.0,6.0,0.0,20.0,850.0,48.0,11.0,3.0,12.0
+111ecedbd66b5ca8,Veggie Bowl,Veggie Cravings,0,0,420.0,19.0,6.0,0.0,20.0,890.0,49.0,12.0,4.0,12.0
 ecaaf074a36c66bc,Veggie Mexican Pizza,Veggie Cravings,0,0,460.0,23.0,6.0,0.0,25.0,740.0,48.0,7.0,3.0,14.0
 781c348637a04670,Breakfast California Crunchwrap - Bacon,Breakfast (Regional),1,0,640.0,38.0,12.0,0.0,135.0,1390.0,54.0,5.0,4.0,21.0
 d2d1f96e3c810fab,Breakfast California Crunchwrap - Sausage,Breakfast (Regional),1,0,700.0,45.0,15.0,0.0,140.0,1360.0,54.0,6.0,3.0,20.0
@@ -160,3 +177,53 @@ a221bd5c849e43a4,Tequila (80 proof) - Double - LV,Las Vegas Cantina Menu,0,0,250
 717bf78f77d0cbad,Vodka (80 proof) - Single - LV,Las Vegas Cantina Menu,0,0,120.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 734fa236dc8c0ee2,Whiskey (80 proof) - Double - LV,Las Vegas Cantina Menu,0,0,250.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 bd86432693ffa787,Whiskey (80 proof) - Single - LV,Las Vegas Cantina Menu,0,0,120.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+8149348dd2d5da65,Brisk® Dragon Paradise Sparkling Dirty Iced Tea (16 oz),Dirty Sodas,0,1,110.0,1.0,0.5,0.0,2.5,85.0,26.0,0.0,23.0,0.0
+82c14bf47ee795a3,Brisk® Dragon Paradise Sparkling Dirty Iced Tea (20 oz),Dirty Sodas,0,1,120.0,1.0,0.5,0.0,2.5,105.0,29.0,0.0,27.0,0.0
+822570142d94c517,Brisk® Dragon Paradise Sparkling Dirty Iced Tea (30 oz),Dirty Sodas,0,1,160.0,1.0,0.5,0.0,2.5,160.0,39.0,0.0,37.0,0.0
+e7b164e6e89cb1cc,Brisk® Mango Fiesta Dirty Iced Tea (16 oz),Dirty Sodas,0,1,140.0,1.0,0.5,0.0,2.5,55.0,33.0,0.0,31.0,0.0
+b540672fa7611b17,Brisk® Mango Fiesta Dirty Iced Tea (20 oz),Dirty Sodas,0,1,160.0,1.0,0.5,0.0,2.5,65.0,39.0,0.0,37.0,0.0
+954da122854c530e,Brisk® Mango Fiesta Dirty Iced Tea (30 oz),Dirty Sodas,0,1,210.0,1.0,0.5,0.0,2.5,100.0,54.0,0.0,52.0,0.0
+724243b27b961195,Diet Dr Pepper® Dirty Soda (16 oz),Dirty Sodas,0,1,45.0,1.0,0.5,0.0,2.5,100.0,9.0,0.0,7.0,0.0
+a666416c9a68846f,Diet Dr Pepper® Dirty Soda (20 oz),Dirty Sodas,0,1,50.0,1.0,0.5,0.0,2.5,125.0,9.0,0.0,7.0,0.0
+1b962bb97e7205cd,Diet Dr Pepper® Dirty Soda (30 oz),Dirty Sodas,0,1,50.0,1.0,0.5,0.0,2.5,180.0,10.0,0.0,7.0,0.0
+0167ef3a8ee43703,Diet Pepsi® Dirty Soda (16 oz),Dirty Sodas,0,1,45.0,1.0,0.5,0.0,2.5,80.0,9.0,0.0,7.0,0.0
+1ad01ee33ff999da,Diet Pepsi® Dirty Soda (20 oz),Dirty Sodas,0,1,45.0,1.0,0.5,0.0,2.5,100.0,9.0,0.0,7.0,0.0
+0b5be742007e01d5,Diet Pepsi® Dirty Soda (30 oz),Dirty Sodas,0,1,45.0,1.0,0.5,0.0,2.5,140.0,9.0,0.0,7.0,0.0
+8d97af9fcd2e2264,Dr Pepper® Dirty Soda (16 oz),Dirty Sodas,0,1,240.0,1.0,0.5,0.0,2.5,65.0,61.0,0.0,58.0,0.0
+c91bdae5a46e953f,Dr Pepper® Dirty Soda (20 oz),Dirty Sodas,0,1,290.0,1.0,0.5,0.0,2.5,80.0,74.0,0.0,71.0,0.0
+d9084518187ff7fe,Dr Pepper® Dirty Soda (30 oz),Dirty Sodas,0,1,400.0,1.0,0.5,0.0,2.5,115.0,107.0,0.0,103.0,0.0
+33a8e31199e5b927,Mtn Dew® Baja Blast™ Dirty Soda (16 oz),Dirty Sodas,0,1,270.0,1.0,0.5,0.0,2.5,70.0,68.0,0.0,67.0,0.0
+e4fddb655a2325df,Mtn Dew® Baja Blast™ Dirty Soda (20 oz),Dirty Sodas,0,1,320.0,1.0,0.5,0.0,2.5,85.0,83.0,0.0,81.0,0.0
+e7e458dfa7aac5f9,Mtn Dew® Baja Blast™ Dirty Soda (30 oz),Dirty Sodas,0,1,460.0,1.0,0.5,0.0,2.5,125.0,120.0,0.0,118.0,0.0
+ad058eb43b5e7798,Mtn Dew® Baja Blast™ Dirty Soda Freeze (16 oz),Dirty Sodas,0,1,190.0,1.0,0.5,0.0,2.5,45.0,48.0,0.0,47.0,0.0
+f34a11a7fac3761a,Mtn Dew® Baja Blast™ Dirty Soda Freeze (20 oz),Dirty Sodas,0,1,230.0,1.0,0.5,0.0,2.5,55.0,59.0,0.0,57.0,0.0
+e71396dd3ac56a8e,Mtn Dew® Baja Blast™ Zero Sugar Dirty Soda (16 oz),Dirty Sodas,0,1,50.0,1.0,0.5,0.0,2.5,70.0,9.0,0.0,7.0,0.0
+a8eb8cae81b603af,Mtn Dew® Baja Blast™ Zero Sugar Dirty Soda (20 oz),Dirty Sodas,0,1,60.0,1.0,0.5,0.0,2.5,90.0,9.0,0.0,7.0,0.0
+a6059a0e632559a8,Mtn Dew® Baja Blast™ Zero Sugar Dirty Soda (30 oz),Dirty Sodas,0,1,60.0,1.0,0.5,0.0,2.5,130.0,9.0,0.0,7.0,0.0
+81c85d7ff6c5bbdf,Mtn Dew® Baja Midnight Dirty Soda (16 oz),Dirty Sodas,0,1,270.0,1.0,0.5,0.0,2.5,70.0,68.0,0.0,67.0,0.0
+0097bc9d3347501d,Mtn Dew® Baja Midnight Dirty Soda (20 oz),Dirty Sodas,0,1,330.0,1.0,0.5,0.0,2.5,90.0,83.0,0.0,81.0,0.0
+0f23cbd370878f34,Mtn Dew® Baja Midnight Dirty Soda (30 oz),Dirty Sodas,0,1,470.0,1.0,0.5,0.0,2.5,130.0,120.0,0.0,118.0,0.0
+dedd2be0d7dc8364,Mtn Dew® Dirty Soda (16 oz),Dirty Sodas,0,1,270.0,1.0,0.5,0.0,2.5,75.0,68.0,0.0,66.0,0.0
+7d1ac49d5ca723ce,Mtn Dew® Dirty Soda (20 oz),Dirty Sodas,0,1,330.0,1.0,0.5,0.0,2.5,90.0,82.0,0.0,80.0,0.0
+67507e665ba7a25d,Mtn Dew® Dirty Soda (30 oz),Dirty Sodas,0,1,470.0,1.0,0.5,0.0,2.5,135.0,119.0,0.0,117.0,0.0
+538b499681247b95,Mtn Dew® Zero Sugar Dirty Soda (16 oz),Dirty Sodas,0,1,50.0,1.0,0.5,0.0,2.5,65.0,9.0,0.0,8.0,0.0
+543ac757cbfda6a8,Mtn Dew® Zero Sugar Dirty Soda (20 oz),Dirty Sodas,0,1,50.0,1.0,0.5,0.0,2.5,85.0,10.0,0.0,8.0,0.0
+e44f0efb317dbd21,Mtn Dew® Zero Sugar Dirty Soda (30 oz),Dirty Sodas,0,1,50.0,1.0,0.5,0.0,2.5,120.0,10.0,0.0,8.0,0.5
+784408a627bb0dfe,Mug® Root Beer Dirty Soda (16 oz),Dirty Sodas,0,1,240.0,1.0,0.5,0.0,2.5,80.0,60.0,0.0,58.0,0.0
+226bef4eba4ae50e,Mug® Root Beer Dirty Soda (20 oz),Dirty Sodas,0,1,290.0,1.0,0.5,0.0,2.5,100.0,73.0,0.0,71.0,0.0
+be5cf8e17414f765,Mug® Root Beer Dirty Soda (30 oz),Dirty Sodas,0,1,410.0,1.0,0.5,0.0,2.5,150.0,105.0,0.0,103.0,0.0
+3cf6168f86f1be16,Pepsi® Dirty Soda (16 oz),Dirty Sodas,0,1,250.0,1.0,0.5,0.0,2.5,45.0,64.0,0.0,62.0,0.0
+d8725ec6aaa602a2,Pepsi® Dirty Soda (20 oz),Dirty Sodas,0,1,300.0,1.0,0.5,0.0,2.5,55.0,78.0,0.0,76.0,0.0
+70453b9f3abb52c3,Pepsi® Dirty Soda (30 oz),Dirty Sodas,0,1,430.0,1.0,0.5,0.0,2.5,85.0,113.0,0.0,111.0,0.0
+ed0c0a3e21b26a3b,Pepsi® Wild Cherry Dirty Soda (16 oz),Dirty Sodas,0,1,250.0,1.0,0.5,0.0,2.5,45.0,65.0,0.0,64.0,0.0
+f94f22f2c5d39f97,Pepsi® Wild Cherry Dirty Soda (20 oz),Dirty Sodas,0,1,310.0,1.0,0.5,0.0,2.5,60.0,80.0,0.0,78.0,0.0
+7c096b02edf40a7b,Pepsi® Wild Cherry Dirty Soda (30 oz),Dirty Sodas,0,1,440.0,1.0,0.5,0.0,2.5,85.0,115.0,0.0,113.0,0.0
+7cc4dc69dc52654a,Pepsi® Zero Sugar Dirty Soda (16 oz),Dirty Sodas,0,1,50.0,1.0,0.5,0.0,2.5,90.0,9.0,0.0,7.0,0.0
+f07dcace54551236,Pepsi® Zero Sugar Dirty Soda (20 oz),Dirty Sodas,0,1,50.0,1.0,0.5,0.0,2.5,110.0,9.0,0.0,7.0,0.0
+0e88915e59dc42b0,Pepsi® Zero Sugar Dirty Soda (30 oz),Dirty Sodas,0,1,50.0,1.0,0.5,0.0,2.5,160.0,10.0,0.0,7.0,0.0
+95ef710834ccbd39,Starry® Dirty Soda (16 oz),Dirty Sodas,0,1,240.0,1.0,0.5,0.0,2.5,50.0,61.0,0.0,59.0,0.0
+0f5a9bff9583e6b9,Starry® Dirty Soda (20 oz),Dirty Sodas,0,1,290.0,1.0,0.5,0.0,2.5,60.0,74.0,0.0,72.0,0.0
+3e3da0d5218f505e,Starry® Dirty Soda (30 oz),Dirty Sodas,0,1,410.0,1.0,0.5,0.0,2.5,90.0,106.0,0.0,105.0,0.0
+ffa45368a3ef08f8,Tropicana® Dirty Lemonade (16 oz),Dirty Sodas,0,1,110.0,1.0,0.5,0.0,2.5,220.0,25.0,0.0,23.0,0.0
+cf221fdf6ba0f5ae,Tropicana® Dirty Lemonade (20 oz),Dirty Sodas,0,1,130.0,1.0,0.5,0.0,2.5,270.0,30.0,0.0,27.0,0.0
+477b57d3450d7335,Tropicana® Dirty Lemonade (30 oz),Dirty Sodas,0,1,170.0,1.0,0.5,0.0,2.5,400.0,40.0,0.0,37.0,0.0

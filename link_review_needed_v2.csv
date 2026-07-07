@@ -12,9 +12,9 @@ ddca2ab174d227bb,30211,breakfast tacos,breakfast,no_match,141e20395996ba8d,Break
 2d7746d9dcb576c3,23264,fiesta veggie burrito,burritos,no_match,73d48385b33cf9c2,Bean Burrito (V),0.25
 d9f6b2327d8166f9,29088,frank s redhot diablo crispy chicken burrito,burritos,no_match,d64c08e3f5fe6906,Burrito Supreme® - Chicken,0.286
 d73638bedd0df265,29083,sweet chipotle bbq crispy chicken burrito,burritos,no_match,d64c08e3f5fe6906,Burrito Supreme® - Chicken,0.286
-7ac8637143c5b12c,22526,caramel apple empanada,decades,no_match,19228f8555a8c5a6,Chicken Bacon Ranch Nacho Fries,0.0
+7ac8637143c5b12c,22526,caramel apple empanada,decades,no_match,7c23a5d8125dbd73,Mini Dessert Empanadas - Chocolate Fudge and Caramel,0.143
 77ae83cb62802b37,22800,gordita supreme,decades,no_match,7a73ec0e164e8dd5,Crunchwrap Supreme®,0.333
-eeac913775456f99,23548,green sauce burrito,decades,no_match,73d48385b33cf9c2,Bean Burrito (V),0.25
+eeac913775456f99,23548,green sauce burrito,decades,no_match,bfe079d083663139,Crispy Chicken Burrito - Creamy Chipotle Sauce,0.286
 a29c8f6eae1161b9,22310,meximelt,decades,no_match,19228f8555a8c5a6,Chicken Bacon Ranch Nacho Fries,0.0
 c26f251df69740b3,23547,tostada,decades,no_match,19228f8555a8c5a6,Chicken Bacon Ranch Nacho Fries,0.0
 895dd8604c8f8cf1,22130,decker taco,member-exclusive,no_match,b60fb7b44088fef7,Crunchy Taco,0.333
@@ -22,35 +22,31 @@ ccd4f120a6471f17,22706,decker taco supreme,member-exclusive,low_confidence,9060c
 3b3d26c9390348ab,23318,chips and guacamole,nachos,no_match,e58266c75c4a76e2,Chips and Nacho Cheese Sauce (V),0.2
 051581ddbb6361a7,27233,chips and vegan nacho sauce,nachos,low_confidence,e58266c75c4a76e2,Chips and Nacho Cheese Sauce (V),0.6
 7d14612b4e542c66,24566,nachos veggie,nachos,no_match,0cd9347cf76fce22,Loaded Beef Nachos,0.25
-cd58c3f080af8488,29405,10 piece crispy chicken nuggets,new,no_match,30cff7649c99620d,Cantina Chicken Crispy Taco,0.333
-58cdc13de28f7487,29409,10 piece crispy chicken nuggets,new,no_match,30cff7649c99620d,Cantina Chicken Crispy Taco,0.333
-c2ec85f5cc979d2e,29418,10 piece crispy chicken nuggets,new,no_match,30cff7649c99620d,Cantina Chicken Crispy Taco,0.333
-ed9679d5c24acf15,29438,10 piece diablo crispy chicken nuggets,new,no_match,30cff7649c99620d,Cantina Chicken Crispy Taco,0.286
-94f1e1f25b381c47,29404,5 piece crispy chicken nuggets,new,no_match,30cff7649c99620d,Cantina Chicken Crispy Taco,0.4
-397225acf5111a90,29417,5 piece crispy chicken nuggets,new,no_match,30cff7649c99620d,Cantina Chicken Crispy Taco,0.4
-36ebc90ae860be15,29437,5 piece diablo crispy chicken nuggets,new,no_match,30cff7649c99620d,Cantina Chicken Crispy Taco,0.333
+cd58c3f080af8488,29405,10 piece crispy chicken nuggets,new,no_match,5a4e0b4037abf653,Crispy Chicken Crunchwrap,0.4
+58cdc13de28f7487,29409,10 piece crispy chicken nuggets,new,no_match,5a4e0b4037abf653,Crispy Chicken Crunchwrap,0.4
+c2ec85f5cc979d2e,29418,10 piece crispy chicken nuggets,new,no_match,5a4e0b4037abf653,Crispy Chicken Crunchwrap,0.4
+ed9679d5c24acf15,29438,10 piece diablo crispy chicken nuggets,new,no_match,5a4e0b4037abf653,Crispy Chicken Crunchwrap,0.333
+94f1e1f25b381c47,29404,5 piece crispy chicken nuggets,new,low_confidence,5a4e0b4037abf653,Crispy Chicken Crunchwrap,0.5
+397225acf5111a90,29417,5 piece crispy chicken nuggets,new,low_confidence,5a4e0b4037abf653,Crispy Chicken Crunchwrap,0.5
+36ebc90ae860be15,29437,5 piece diablo crispy chicken nuggets,new,no_match,5a4e0b4037abf653,Crispy Chicken Crunchwrap,0.4
 86391130bf3e5bd3,5287Main,baja blast pie chiller,new,no_match,7f608f5bb73721a0,Mtn Dew® Baja Blast Freeze™ (16 oz),0.25
 6fffd49fb9aa44d9,3681Main,beekeeper coffee,new,no_match,652e77be065f3de1,Hot Coffee with Creamer,0.25
 3cf689558002f3b7,3682Main,beekeeper coffee horchata,new,no_match,652e77be065f3de1,Hot Coffee with Creamer,0.2
-f2a779d61c0055d6,3694Main,berry citrus refresca freeze,new,no_match,937a89c5c785b6eb,Dragonfruit Freeze® (16 oz),0.167
+f2a779d61c0055d6,3694Main,berry citrus refresca freeze,new,no_match,a44ce6f8a21ee445,Pink Passionfruit Refresca Freeze™ (16 oz),0.286
 035b50299e3d8536,23786,buffs,new,no_match,19228f8555a8c5a6,Chicken Bacon Ranch Nacho Fries,0.0
 23db53e393f56f7f,23486,build your own meal for 4,new,no_match,19228f8555a8c5a6,Chicken Bacon Ranch Nacho Fries,0.0
 c3c8c44ca7e05090,24585,cantina luxe,new,no_match,1411a4d355032015,Cantina Chicken Bowl,0.25
-edd004017b567226,5283Main,caramel apple empanada chiller,new,no_match,19228f8555a8c5a6,Chicken Bacon Ranch Nacho Fries,0.0
-baf1fb37b019f056,3721Main,caramel dulce churro chiller,new,no_match,19228f8555a8c5a6,Chicken Bacon Ranch Nacho Fries,0.0
+edd004017b567226,5283Main,caramel apple empanada chiller,new,no_match,7c23a5d8125dbd73,Mini Dessert Empanadas - Chocolate Fudge and Caramel,0.125
+baf1fb37b019f056,3721Main,caramel dulce churro chiller,new,no_match,7c23a5d8125dbd73,Mini Dessert Empanadas - Chocolate Fudge and Caramel,0.125
 c505be4f7ea7282d,3679Main,celsius energy peach vibe,new,no_match,1e91c57c18874495,Mango Peach Limonada,0.167
 8d693853e522e7de,3678Main,celsius sparkling orange,new,no_match,bb3c78a5ebceae97,Orange Juice,0.25
-ee1cf8f68865930b,27040,cheesy street chalupas,new,no_match,23260ed97d5fb4ca,Chicken Bacon Ranch Street Chalupas,0.333
-1bb267d6cee18d67,27037,cheesy street chalupas,new,no_match,23260ed97d5fb4ca,Chicken Bacon Ranch Street Chalupas,0.333
 49e1c805c48b4a23,23778,chips green chile queso,new,no_match,e58266c75c4a76e2,Chips and Nacho Cheese Sauce (V),0.143
 51be9eefaf2ce5b0,3733Main,cinnabon caramel latte chiller,new,no_match,b370505ac052ddde,Cinnabon® Delights™ (2 Pack),0.2
 531bfaad71a7420b,2388Main,confetti cookie freeze,new,no_match,937a89c5c785b6eb,Dragonfruit Freeze® (16 oz),0.2
-d486fee57cd26da5,29414,crispy chicken nuggets deluxe,new,no_match,30cff7649c99620d,Cantina Chicken Crispy Taco,0.333
-b895735bc3192a11,29416,crispy chicken nuggets deluxe,new,no_match,30cff7649c99620d,Cantina Chicken Crispy Taco,0.333
-a0ec5c2c025bb885,29011,crispy chicken strips,new,no_match,30cff7649c99620d,Cantina Chicken Crispy Taco,0.4
+d486fee57cd26da5,29414,crispy chicken nuggets deluxe,new,no_match,5a4e0b4037abf653,Crispy Chicken Crunchwrap,0.4
+b895735bc3192a11,29416,crispy chicken nuggets deluxe,new,no_match,5a4e0b4037abf653,Crispy Chicken Crunchwrap,0.4
 2110e5cc6a68142f,28174,deluxe cravings,new,no_match,19228f8555a8c5a6,Chicken Bacon Ranch Nacho Fries,0.0
-aea141e06fdc5192,29442,diablo crispy chicken nuggets deluxe,new,no_match,30cff7649c99620d,Cantina Chicken Crispy Taco,0.286
-4d96a079482ea4b1,3704Main,dirty mtn dew baja blast soda,new,low_confidence,7f608f5bb73721a0,Mtn Dew® Baja Blast Freeze™ (16 oz),0.5
+aea141e06fdc5192,29442,diablo crispy chicken nuggets deluxe,new,no_match,5a4e0b4037abf653,Crispy Chicken Crunchwrap,0.333
 31698700c728d932,29072,discovery luxe,new,no_match,19228f8555a8c5a6,Chicken Bacon Ranch Nacho Fries,0.0
 f903f7c7f5e9c4cb,23833,discovery luxe,new,no_match,19228f8555a8c5a6,Chicken Bacon Ranch Nacho Fries,0.0
 ad4906fd47d753a4,91325,discovery luxe,new,no_match,19228f8555a8c5a6,Chicken Bacon Ranch Nacho Fries,0.0
@@ -62,7 +58,7 @@ d66e53c134caf880,30218,dulce de leche cinnabon delights 12pk,new,no_match,b37050
 485ed28993b77d27,5295Main,frozen mexican hot cocoa,new,no_match,b5747f95c78a4acc,Mexican Pizza,0.2
 b002be499b906a37,3680Main,gatorade cool blue,new,no_match,19228f8555a8c5a6,Chicken Bacon Ranch Nacho Fries,0.0
 89a49caa0074bd94,1438Main,gatorade lemon lime,new,no_match,19228f8555a8c5a6,Chicken Bacon Ranch Nacho Fries,0.0
-0fa7d3f0e045487b,3737Main,lemonade frost,new,no_match,19228f8555a8c5a6,Chicken Bacon Ranch Nacho Fries,0.0
+0fa7d3f0e045487b,3737Main,lemonade frost,new,no_match,ffa45368a3ef08f8,Tropicana® Dirty Lemonade (16 oz),0.2
 5f939042e1394c45,3652Main,limonada freeze,new,no_match,937a89c5c785b6eb,Dragonfruit Freeze® (16 oz),0.25
 9a63b02e36464e12,29436,loaded taco topped fries,new,no_match,b60fb7b44088fef7,Crunchy Taco,0.2
 37ec7a541b97cc4e,23562,luxe cravings,new,no_match,19228f8555a8c5a6,Chicken Bacon Ranch Nacho Fries,0.0
@@ -74,14 +70,12 @@ de68bb7d2d774aae,5296Main,mexican hot cocoa,new,no_match,b5747f95c78a4acc,Mexica
 54104e751a393777,3665Main,mexican mocha iced coffee,new,no_match,afe537765679139a,Iced Coffee with Creamer,0.4
 e10915b6b87fd93a,3731Main,mexican mocha latte chiller,new,no_match,b5747f95c78a4acc,Mexican Pizza,0.2
 049c100f0154746e,1422Main,midnight cherry freeze,new,no_match,937a89c5c785b6eb,Dragonfruit Freeze® (16 oz),0.2
-45f35424d1fa3ea7,3782Main,mountain dew baja midnight,new,no_match,7f608f5bb73721a0,Mtn Dew® Baja Blast Freeze™ (16 oz),0.25
+45f35424d1fa3ea7,3782Main,mountain dew baja midnight,new,no_match,81c85d7ff6c5bbdf,Mtn Dew® Baja Midnight Dirty Soda (16 oz),0.375
 bed34b3fc907f995,1507Main,mountain dew baja midnight freeze,new,no_match,7f608f5bb73721a0,Mtn Dew® Baja Blast Freeze™ (16 oz),0.375
-c16b9549fa61772d,26087,quesarito,new,no_match,19228f8555a8c5a6,Chicken Bacon Ranch Nacho Fries,0.0
 53b6158d5495ef13,3675Main,rockstar energy original can,new,no_match,19228f8555a8c5a6,Chicken Bacon Ranch Nacho Fries,0.0
-ea09530b25b86b40,25504,salted caramel churros 3pk,new,no_match,19228f8555a8c5a6,Chicken Bacon Ranch Nacho Fries,0.0
-04c194dc6a0e5d75,23519,slow roasted chicken cheesy dipping burritos,new,no_match,cf7be09105f1013f,Quesadilla - Chicken,0.143
-98d6dc4a71a54dd6,23518,steak cheesy dipping burritos,new,no_match,b89c7598fe72d5b2,Quesadilla - Steak,0.2
-55340b90cb85271e,27034,steak cheesy street chalupas,new,no_match,23260ed97d5fb4ca,Chicken Bacon Ranch Street Chalupas,0.286
+ea09530b25b86b40,25504,salted caramel churros 3pk,new,no_match,0d462ecba8c375ca,Cinnamon Sugar Churros,0.167
+04c194dc6a0e5d75,23519,slow roasted chicken cheesy dipping burritos,new,no_match,5f0147ebf3a24864,Fajita Cheesy Street Chalupas - Cantina Chicken,0.2
+98d6dc4a71a54dd6,23518,steak cheesy dipping burritos,new,no_match,72caaaf1e6ee9c60,Fajita Cheesy Street Chalupas - Steak,0.286
 1c8a08892dc3186b,3670Main,strawberry lime refresca freeze,new,no_match,c12e44879b381b63,Strawberry Dream Refresca,0.4
 1dae08c473b276ce,3640Main,strawberry limonada freeze,new,low_confidence,a2e9a7bb960324e3,Dragonfruit Strawberry Limonada,0.5
 390125ba49717851,3724Main,strawberry matcha chiller,new,no_match,a2e9a7bb960324e3,Dragonfruit Strawberry Limonada,0.2
@@ -91,7 +85,7 @@ ea09530b25b86b40,25504,salted caramel churros 3pk,new,no_match,19228f8555a8c5a6,
 fe8ae9f737754760,3663Main,vanilla crema iced coffee,new,no_match,afe537765679139a,Iced Coffee with Creamer,0.4
 ace577a2a7232340,3729Main,vanilla crema latte chiller,new,no_match,1814ab9ad1e4a883,Vanilla Creamer,0.2
 6dedefa722336773,3644Main,vanilla creme limonada freeze,new,no_match,306f7063ed19f9c0,Vanilla Cream Soda Freeze™ (16 oz),0.286
-50b4f482232df73d,26086,volcano quesarito,new,no_match,19228f8555a8c5a6,Chicken Bacon Ranch Nacho Fries,0.0
+50b4f482232df73d,26086,volcano quesarito,new,low_confidence,d4d853a887108672,Quesarito,0.6
 4b5a89ab53782b31,3722Main,wild strawberry churro chiller,new,no_match,a2e9a7bb960324e3,Dragonfruit Strawberry Limonada,0.167
 ec235994a7bc6caf,3568Main,wild strawberry creme delight freeze,new,no_match,937a89c5c785b6eb,Dragonfruit Freeze® (16 oz),0.143
 31d2a8ba5b8541de,3676Main,yachak yerba mate energy passion fruit,new,no_match,19228f8555a8c5a6,Chicken Bacon Ranch Nacho Fries,0.0
@@ -140,11 +134,11 @@ fdfa9434ddc507e6,22750,red sauce,sides-sweets,no_match,2c69a4f7cd4cb6fe,Diablo S
 e67624276ddc5ba4,8014,sweet chipotle bbq sauce,sides-sweets,no_match,2c69a4f7cd4cb6fe,Diablo Sauce Packet (V),0.167
 52101dd8a375f5f8,2898,vegan nacho sauce,sides-sweets,no_match,02c85610351f4392,Large Nacho Fries,0.25
 6eb28b1f389fe0cc,4705,volcano sauce,sides-sweets,no_match,2c69a4f7cd4cb6fe,Diablo Sauce Packet (V),0.25
-e8a27a7597725b2c,28207,bbq chicken topped fries,specialties,no_match,19228f8555a8c5a6,Chicken Bacon Ranch Nacho Fries,0.286
+e8a27a7597725b2c,28207,bbq chicken topped fries,specialties,no_match,b9569c4b383542e3,Chicken Fajita Nacho Fries,0.333
 cfdbbc7f34535fb5,23330,big cheez it tostada,specialties,no_match,19228f8555a8c5a6,Chicken Bacon Ranch Nacho Fries,0.0
 79d7a3c2e9710f38,28158,chicken chipotle melt,specialties,no_match,a23c5155c6a5e618,3-Cheese Chicken Flatbread Melt,0.4
-7d430228f4e6bb6b,22346,rolled chicken tacos 2,specialties,no_match,cf7be09105f1013f,Quesadilla - Chicken,0.25
-1f15a1ba9f503005,22347,rolled chicken tacos 4,specialties,no_match,cf7be09105f1013f,Quesadilla - Chicken,0.25
+7d430228f4e6bb6b,22346,rolled chicken tacos 2,specialties,no_match,92607bc5f722ccf3,Cantina Chicken Rolled Quesadilla,0.4
+1f15a1ba9f503005,22347,rolled chicken tacos 4,specialties,no_match,92607bc5f722ccf3,Cantina Chicken Rolled Quesadilla,0.4
 c95b403e8e445dcb,30209,taco lover s breakfast taco bacon,tacoloverspass,no_match,141e20395996ba8d,Breakfast Crunchwrap - Bacon,0.4
 072544d77496d5c4,30210,taco lover s breakfast taco potato,tacoloverspass,no_match,90bb6f98201f7467,Spicy Potato Soft Taco (V),0.333
 caede514ed1657dd,30208,taco lover s breakfast taco sausage,tacoloverspass,no_match,09cb29ce0697a5f2,Breakfast Quesadilla - Sausage,0.4
