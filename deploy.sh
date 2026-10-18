@@ -14,6 +14,8 @@ else
 fi
 
 cd "$ROOT"
+# launchd runs with a bare PATH; git push needs git-lfs from Homebrew.
+export PATH="/opt/homebrew/bin:$PATH"
 UV="/opt/homebrew/bin/uv"
 
 echo "=== MacroBell deploy start: $(date) ==="
